@@ -3,420 +3,420 @@
     "name": "beast tyrant",
     "points": 0,
     "expansion": "Gloomhaven",
-    "image": "character-mats/beast-tyrant.png",
+    "image": "character-mats/gh-beast-tyrant.png",
     "xws": "beasttyrant"
   },
   {
     "name": "beast tyrant",
     "points": 1,
     "expansion": "Gloomhaven",
-    "image": "character-mats/beast-tyrant-back.png",
+    "image": "character-mats/gh-beast-tyrant-back.png",
     "xws": "beasttyrant"
   },
   {
     "name": "two minis",
     "points": 2,
     "expansion": "Gloomhaven",
-    "image": "character-mats/beast-tyrant.png",
+    "image": "character-mats/gh-beast-tyrant.png",
     "xws": "beasttyrant"
   },
   {
     "name": "two minis",
     "points": 3,
     "expansion": "Gloomhaven",
-    "image": "character-mats/beast-tyrant-back.png",
+    "image": "character-mats/gh-beast-tyrant-back.png",
     "xws": "beasttyrant"
   },
   {
     "name": "berserker",
     "points": 4,
     "expansion": "Gloomhaven",
-    "image": "character-mats/berserker.png",
+    "image": "character-mats/gh-berserker.png",
     "xws": "berserker"
   },
   {
     "name": "berserker",
     "points": 5,
     "expansion": "Gloomhaven",
-    "image": "character-mats/berserker-back.png",
+    "image": "character-mats/gh-berserker-back.png",
     "xws": "berserker"
   },
   {
     "name": "lightning bolt",
     "points": 6,
     "expansion": "Gloomhaven",
-    "image": "character-mats/berserker.png",
+    "image": "character-mats/gh-berserker.png",
     "xws": "berserker"
   },
   {
     "name": "lightning bolt",
     "points": 7,
     "expansion": "Gloomhaven",
-    "image": "character-mats/berserker-back.png",
+    "image": "character-mats/gh-berserker-back.png",
     "xws": "berserker"
   },
   {
     "name": "bladeswarm",
     "points": 8,
     "expansion": "Gloomhaven",
-    "image": "character-mats/bladeswarm.png",
+    "image": "character-mats/gh-bladeswarm.png",
     "xws": "bladeswarm"
   },
   {
     "name": "bladeswarm",
     "points": 9,
     "expansion": "Gloomhaven",
-    "image": "character-mats/bladeswarm-back.png",
+    "image": "character-mats/gh-bladeswarm-back.png",
     "xws": "bladeswarm"
   },
   {
     "name": "brute",
     "points": 10,
     "expansion": "Gloomhaven",
-    "image": "character-mats/brute.png",
+    "image": "character-mats/gh-brute.png",
     "xws": "brute"
   },
   {
     "name": "brute",
     "points": 11,
     "expansion": "Gloomhaven",
-    "image": "character-mats/brute-back.png",
+    "image": "character-mats/gh-brute-back.png",
     "xws": "brute"
   },
   {
     "name": "cragheart",
     "points": 12,
     "expansion": "Gloomhaven",
-    "image": "character-mats/cragheart.png",
+    "image": "character-mats/gh-cragheart.png",
     "xws": "cragheart"
   },
   {
     "name": "cragheart",
     "points": 13,
     "expansion": "Gloomhaven",
-    "image": "character-mats/cragheart-back.png",
+    "image": "character-mats/gh-cragheart-back.png",
     "xws": "cragheart"
   },
   {
     "name": "diviner",
     "points": 14,
     "expansion": "Forgotten Circles",
-    "image": "character-mats/diviner.png",
+    "image": "character-mats/fc-diviner.png",
     "xws": "diviner"
   },
   {
     "name": "diviner",
     "points": 15,
     "expansion": "Forgotten Circles",
-    "image": "character-mats/diviner-back.png",
+    "image": "character-mats/fc-diviner-back.png",
     "xws": "diviner"
   },
   {
     "name": "doomstalker",
     "points": 16,
     "expansion": "Gloomhaven",
-    "image": "character-mats/doomstalker.png",
+    "image": "character-mats/gh-doomstalker.png",
     "xws": "doomstalker"
   },
   {
     "name": "doomstalker",
     "points": 17,
     "expansion": "Gloomhaven",
-    "image": "character-mats/doomstalker-back.png",
+    "image": "character-mats/gh-doomstalker-back.png",
     "xws": "doomstalker"
   },
   {
     "name": "angry face",
     "points": 18,
     "expansion": "Gloomhaven",
-    "image": "character-mats/doomstalker.png",
+    "image": "character-mats/gh-doomstalker.png",
     "xws": "doomstalker"
   },
   {
     "name": "angry face",
     "points": 19,
     "expansion": "Gloomhaven",
-    "image": "character-mats/doomstalker-back.png",
+    "image": "character-mats/gh-doomstalker-back.png",
     "xws": "doomstalker"
   },
   {
     "name": "elementalist",
     "points": 20,
     "expansion": "Gloomhaven",
-    "image": "character-mats/elementalist.png",
+    "image": "character-mats/gh-elementalist.png",
     "xws": "elementalist"
   },
   {
     "name": "elementalist",
     "points": 21,
     "expansion": "Gloomhaven",
-    "image": "character-mats/elementalist-back.png",
+    "image": "character-mats/gh-elementalist-back.png",
     "xws": "elementalist"
   },
   {
     "name": "triangles",
     "points": 22,
     "expansion": "Gloomhaven",
-    "image": "character-mats/elementalist.png",
+    "image": "character-mats/gh-elementalist.png",
     "xws": "elementalist"
   },
   {
     "name": "triangles",
     "points": 23,
     "expansion": "Gloomhaven",
-    "image": "character-mats/elementalist-back.png",
+    "image": "character-mats/gh-elementalist-back.png",
     "xws": "elementalist"
   },
   {
     "name": "mindthief",
     "points": 24,
     "expansion": "Gloomhaven",
-    "image": "character-mats/mindthief.png",
+    "image": "character-mats/gh-mindthief.png",
     "xws": "mindthief"
   },
   {
     "name": "mindthief",
     "points": 25,
     "expansion": "Gloomhaven",
-    "image": "character-mats/mindthief-back.png",
+    "image": "character-mats/gh-mindthief-back.png",
     "xws": "mindthief"
   },
   {
     "name": "nightshroud",
     "points": 26,
     "expansion": "Gloomhaven",
-    "image": "character-mats/nightshroud.png",
+    "image": "character-mats/gh-nightshroud.png",
     "xws": "nightshroud"
   },
   {
     "name": "nightshroud",
     "points": 27,
     "expansion": "Gloomhaven",
-    "image": "character-mats/nightshroud-back.png",
+    "image": "character-mats/gh-nightshroud-back.png",
     "xws": "nightshroud"
   },
   {
     "name": "eclipse",
     "points": 28,
     "expansion": "Gloomhaven",
-    "image": "character-mats/nightshroud.png",
+    "image": "character-mats/gh-nightshroud.png",
     "xws": "nightshroud"
   },
   {
     "name": "eclipse",
     "points": 29,
     "expansion": "Gloomhaven",
-    "image": "character-mats/nightshroud-back.png",
+    "image": "character-mats/gh-nightshroud-back.png",
     "xws": "nightshroud"
   },
   {
     "name": "plagueherald",
     "points": 30,
     "expansion": "Gloomhaven",
-    "image": "character-mats/plagueherald.png",
+    "image": "character-mats/gh-plagueherald.png",
     "xws": "plagueherald"
   },
   {
     "name": "plagueherald",
     "points": 31,
     "expansion": "Gloomhaven",
-    "image": "character-mats/plagueherald-back.png",
+    "image": "character-mats/gh-plagueherald-back.png",
     "xws": "plagueherald"
   },
   {
     "name": "cthulhu",
     "points": 32,
     "expansion": "Gloomhaven",
-    "image": "character-mats/plagueherald.png",
+    "image": "character-mats/gh-plagueherald.png",
     "xws": "plagueherald"
   },
   {
     "name": "cthulhu",
     "points": 33,
     "expansion": "Gloomhaven",
-    "image": "character-mats/plagueherald-back.png",
+    "image": "character-mats/gh-plagueherald-back.png",
     "xws": "plagueherald"
   },
   {
     "name": "quartermaster",
     "points": 34,
     "expansion": "Gloomhaven",
-    "image": "character-mats/quartermaster.png",
+    "image": "character-mats/gh-quartermaster.png",
     "xws": "quartermaster"
   },
   {
     "name": "quartermaster",
     "points": 35,
     "expansion": "Gloomhaven",
-    "image": "character-mats/quartermaster-back.png",
+    "image": "character-mats/gh-quartermaster-back.png",
     "xws": "quartermaster"
   },
   {
     "name": "three spears",
     "points": 36,
     "expansion": "Gloomhaven",
-    "image": "character-mats/quartermaster.png",
+    "image": "character-mats/gh-quartermaster.png",
     "xws": "quartermaster"
   },
   {
     "name": "three spears",
     "points": 37,
     "expansion": "Gloomhaven",
-    "image": "character-mats/quartermaster-back.png",
+    "image": "character-mats/gh-quartermaster-back.png",
     "xws": "quartermaster"
   },
   {
     "name": "sawbones",
     "points": 38,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sawbones.png",
+    "image": "character-mats/gh-sawbones.png",
     "xws": "sawbones"
   },
   {
     "name": "sawbones",
     "points": 39,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sawbones-back.png",
+    "image": "character-mats/gh-sawbones-back.png",
     "xws": "sawbones"
   },
   {
     "name": "saw",
     "points": 40,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sawbones.png",
+    "image": "character-mats/gh-sawbones.png",
     "xws": "sawbones"
   },
   {
     "name": "saw",
     "points": 41,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sawbones-back.png",
+    "image": "character-mats/gh-sawbones-back.png",
     "xws": "sawbones"
   },
   {
     "name": "scoundrel",
     "points": 42,
     "expansion": "Gloomhaven",
-    "image": "character-mats/scoundrel.png",
+    "image": "character-mats/gh-scoundrel.png",
     "xws": "scoundrel"
   },
   {
     "name": "scoundrel",
     "points": 43,
     "expansion": "Gloomhaven",
-    "image": "character-mats/scoundrel-back.png",
+    "image": "character-mats/gh-scoundrel-back.png",
     "xws": "scoundrel"
   },
   {
     "name": "soothsinger",
     "points": 44,
     "expansion": "Gloomhaven",
-    "image": "character-mats/soothsinger.png",
+    "image": "character-mats/gh-soothsinger.png",
     "xws": "soothsinger"
   },
   {
     "name": "soothsinger",
     "points": 45,
     "expansion": "Gloomhaven",
-    "image": "character-mats/soothsinger-back.png",
+    "image": "character-mats/gh-soothsinger-back.png",
     "xws": "soothsinger"
   },
   {
     "name": "music note",
     "points": 46,
     "expansion": "Gloomhaven",
-    "image": "character-mats/soothsinger.png",
+    "image": "character-mats/gh-soothsinger.png",
     "xws": "soothsinger"
   },
   {
     "name": "music note",
     "points": 47,
     "expansion": "Gloomhaven",
-    "image": "character-mats/soothsinger-back.png",
+    "image": "character-mats/gh-soothsinger-back.png",
     "xws": "soothsinger"
   },
   {
     "name": "spellweaver",
     "points": 48,
     "expansion": "Gloomhaven",
-    "image": "character-mats/spellweaver.png",
+    "image": "character-mats/gh-spellweaver.png",
     "xws": "spellweaver"
   },
   {
     "name": "spellweaver",
     "points": 49,
     "expansion": "Gloomhaven",
-    "image": "character-mats/spellweaver-back.png",
+    "image": "character-mats/gh-spellweaver-back.png",
     "xws": "spellweaver"
   },
   {
     "name": "summoner",
     "points": 50,
     "expansion": "Gloomhaven",
-    "image": "character-mats/summoner.png",
+    "image": "character-mats/gh-summoner.png",
     "xws": "summoner"
   },
   {
     "name": "summoner",
     "points": 51,
     "expansion": "Gloomhaven",
-    "image": "character-mats/summoner-back.png",
+    "image": "character-mats/gh-summoner-back.png",
     "xws": "summoner"
   },
   {
     "name": "circles",
     "points": 52,
     "expansion": "Gloomhaven",
-    "image": "character-mats/summoner.png",
+    "image": "character-mats/gh-summoner.png",
     "xws": "summoner"
   },
   {
     "name": "circles",
     "points": 53,
     "expansion": "Gloomhaven",
-    "image": "character-mats/summoner-back.png",
+    "image": "character-mats/gh-summoner-back.png",
     "xws": "summoner"
   },
   {
     "name": "sunkeeper",
     "points": 54,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sunkeeper.png",
+    "image": "character-mats/gh-sunkeeper.png",
     "xws": "sunkeeper"
   },
   {
     "name": "sunkeeper",
     "points": 55,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sunkeeper-back.png",
+    "image": "character-mats/gh-sunkeeper-back.png",
     "xws": "sunkeeper"
   },
   {
     "name": "sun",
     "points": 56,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sunkeeper.png",
+    "image": "character-mats/gh-sunkeeper.png",
     "xws": "sunkeeper"
   },
   {
     "name": "sun",
     "points": 57,
     "expansion": "Gloomhaven",
-    "image": "character-mats/sunkeeper-back.png",
+    "image": "character-mats/gh-sunkeeper-back.png",
     "xws": "sunkeeper"
   },
   {
     "name": "tinkerer",
     "points": 58,
     "expansion": "Gloomhaven",
-    "image": "character-mats/tinkerer.png",
+    "image": "character-mats/gh-tinkerer.png",
     "xws": "tinkerer"
   },
   {
     "name": "tinkerer",
     "points": 59,
     "expansion": "Gloomhaven",
-    "image": "character-mats/tinkerer-back.png",
+    "image": "character-mats/gh-tinkerer-back.png",
     "xws": "tinkerer"
   }
 ]
