@@ -3,7 +3,7 @@
     "name": "summons",
     "points": 0,
     "expansion": "Gloomhaven",
-    "image": "summons/summons.png",
+    "image": "summons/gh-summons.png",
     "xws": "summons"
   }
 ]
