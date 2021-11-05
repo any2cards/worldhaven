@@ -570,7 +570,7 @@
     "name": "item 011",
     "points": 81,
     "expansion": "Gloomhaven",
-    "image": "items/1-14/gh-011poison-dagger.png",
+    "image": "items/1-14/gh-011-poison-dagger.png",
     "xws": "poisondagger"
   },
   {
