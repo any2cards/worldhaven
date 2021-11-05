@@ -210,18 +210,18 @@
     "xws": "vengefulbarrage"
   },
   {
-    "name": "balanced measure",
-    "points": 30,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/gh-balanced-measure.png",
-    "xws": "balancedmeasure"
-  },
-  {
     "name": "br-back",
     "points": 31,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/BR/gh-br-back.png",
     "xws": "brback"
+  },
+  {
+    "name": "balanced measure",
+    "points": 30,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/BR/gh-balanced-measure.png",
+    "xws": "balancedmeasure"
   },
   {
     "name": "brute force",
@@ -420,6 +420,13 @@
     "xws": "whirlwind"
   },
   {
+    "name": "bs-back",
+    "points": 64,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/BS/gh-bs-back.png",
+    "xws": "bsback"
+  },
+  {
     "name": "bioluminescence",
     "points": 60,
     "expansion": "Gloomhaven",
@@ -446,13 +453,6 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/BS/gh-bone-daggers.png",
     "xws": "bonedaggers"
-  },
-  {
-    "name": "bs-back",
-    "points": 64,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/gh-bs-back.png",
-    "xws": "bsback"
   },
   {
     "name": "call of the grave",
@@ -693,6 +693,20 @@
     "xws": "wasteland"
   },
   {
+    "name": "bt-back",
+    "points": 104,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/BT/gh-bt-back.png",
+    "xws": "btback"
+  },
+  {
+    "name": "bear-reference-back",
+    "points": 101,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/BT/gh-bear-reference-back.png",
+    "xws": "bearreferenceback"
+  },
+  {
     "name": "ancient ward",
     "points": 99,
     "expansion": "Gloomhaven",
@@ -707,13 +721,6 @@
     "xws": "bearreference"
   },
   {
-    "name": "bear-reference-back",
-    "points": 101,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/gh-bear-reference-back.png",
-    "xws": "bearreferenceback"
-  },
-  {
     "name": "blood hunger",
     "points": 102,
     "expansion": "Gloomhaven",
@@ -726,13 +733,6 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/BT/gh-borrowed-essence.png",
     "xws": "borrowedessence"
-  },
-  {
-    "name": "bt-back",
-    "points": 104,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/gh-bt-back.png",
-    "xws": "btback"
   },
   {
     "name": "concentrated rage",
@@ -966,6 +966,13 @@
     "xws": "viciousally"
   },
   {
+    "name": "ch-back",
+    "points": 144,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/CH/gh-ch-back.png",
+    "xws": "chback"
+  },
+  {
     "name": "avalanche",
     "points": 138,
     "expansion": "Gloomhaven",
@@ -1006,13 +1013,6 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/CH/gh-cataclysm.png",
     "xws": "cataclysm"
-  },
-  {
-    "name": "ch-back",
-    "points": 144,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/gh-ch-back.png",
-    "xws": "chback"
   },
   {
     "name": "clear the way",
@@ -1183,6 +1183,13 @@
     "xws": "unstableupheaval"
   },
   {
+    "name": "ds-back",
+    "points": 175,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/DS/gh-ds-back.png",
+    "xws": "dsback"
+  },
+  {
     "name": "a moment's peace",
     "points": 169,
     "expansion": "Gloomhaven",
@@ -1223,13 +1230,6 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/DS/gh-detonation.png",
     "xws": "detonation"
-  },
-  {
-    "name": "ds-back",
-    "points": 175,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/gh-ds-back.png",
-    "xws": "dsback"
   },
   {
     "name": "expose",
@@ -1442,6 +1442,13 @@
     "xws": "wildcommand"
   },
   {
+    "name": "el-back",
+    "points": 211,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/EL/gh-el-back.png",
+    "xws": "elback"
+  },
+  {
     "name": "boiling arc",
     "points": 206,
     "expansion": "Gloomhaven",
@@ -1475,13 +1482,6 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/EL/gh-crystallizing-blast.png",
     "xws": "crystallizingblast"
-  },
-  {
-    "name": "el-back",
-    "points": 211,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/gh-el-back.png",
-    "xws": "elback"
   },
   {
     "name": "elemental aegis",
@@ -1666,6 +1666,13 @@
     "xws": "wintersedge"
   },
   {
+    "name": "mt-back",
+    "points": 255,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/MT/gh-mt-back.png",
+    "xws": "mtback"
+  },
+  {
     "name": "brain leech",
     "points": 238,
     "expansion": "Gloomhaven",
@@ -1785,13 +1792,6 @@
     "xws": "masshysteria"
   },
   {
-    "name": "mt-back",
-    "points": 255,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/gh-mt-back.png",
-    "xws": "mtback"
-  },
-  {
     "name": "parasitic influence",
     "points": 256,
     "expansion": "Gloomhaven",
@@ -1895,6 +1895,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/MT/gh-wretched-creature.png",
     "xws": "wretchedcreature"
+  },
+  {
+    "name": "ns-back",
+    "points": 288,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/NS/gh-ns-back.png",
+    "xws": "nsback"
   },
   {
     "name": "angel of death",
@@ -2016,13 +2023,6 @@
     "xws": "nightfall"
   },
   {
-    "name": "ns-back",
-    "points": 288,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/gh-ns-back.png",
-    "xws": "nsback"
-  },
-  {
     "name": "prepare for the kill",
     "points": 289,
     "expansion": "Gloomhaven",
@@ -2098,6 +2098,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/NS/gh-wings-of-the-night.png",
     "xws": "wingsofthenight"
+  },
+  {
+    "name": "ph-back",
+    "points": 317,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/PH/gh-ph-back.png",
+    "xws": "phback"
   },
   {
     "name": "accelerated end",
@@ -2219,13 +2226,6 @@
     "xws": "paralyzingbite"
   },
   {
-    "name": "ph-back",
-    "points": 317,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/gh-ph-back.png",
-    "xws": "phback"
-  },
-  {
     "name": "rot maggots",
     "points": 318,
     "expansion": "Gloomhaven",
@@ -2315,6 +2315,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/PH/gh-wretched-swarm.png",
     "xws": "wretchedswarm"
+  },
+  {
+    "name": "qm-back",
+    "points": 346,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/QM/gh-qm-back.png",
+    "xws": "qmback"
   },
   {
     "name": "bag of holding",
@@ -2422,13 +2429,6 @@
     "xws": "proficiency"
   },
   {
-    "name": "qm-back",
-    "points": 346,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/gh-qm-back.png",
-    "xws": "qmback"
-  },
-  {
     "name": "quiver of arrows",
     "points": 347,
     "expansion": "Gloomhaven",
@@ -2518,6 +2518,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/QM/gh-side-pouch.png",
     "xws": "sidepouch"
+  },
+  {
+    "name": "sb-back",
+    "points": 385,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/SB/gh-sb-back.png",
+    "xws": "sbback"
   },
   {
     "name": "amputate",
@@ -2695,13 +2702,6 @@
     "xws": "researchthecure"
   },
   {
-    "name": "sb-back",
-    "points": 385,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/gh-sb-back.png",
-    "xws": "sbback"
-  },
-  {
     "name": "surgeon's satchel",
     "points": 386,
     "expansion": "Gloomhaven",
@@ -2742,6 +2742,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/SB/gh-vital-strike.png",
     "xws": "vitalstrike"
+  },
+  {
+    "name": "sc-back",
+    "points": 406,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/SC/gh-sc-back.png",
+    "xws": "scback"
   },
   {
     "name": "backstab",
@@ -2842,13 +2849,6 @@
     "xws": "quickhands"
   },
   {
-    "name": "sc-back",
-    "points": 406,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/gh-sc-back.png",
-    "xws": "scback"
-  },
-  {
     "name": "single out",
     "points": 407,
     "expansion": "Gloomhaven",
@@ -2945,6 +2945,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/SC/gh-watch-it-burn.png",
     "xws": "watchitburn"
+  },
+  {
+    "name": "sk-back",
+    "points": 447,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/SK/gh-sk-back.png",
+    "xws": "skback"
   },
   {
     "name": "angelic ascension",
@@ -3129,13 +3136,6 @@
     "xws": "scalesofjustice"
   },
   {
-    "name": "sk-back",
-    "points": 447,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/gh-sk-back.png",
-    "xws": "skback"
-  },
-  {
     "name": "supportive chant",
     "points": 448,
     "expansion": "Gloomhaven",
@@ -3162,6 +3162,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/SK/gh-weapon-of-purity.png",
     "xws": "weaponofpurity"
+  },
+  {
+    "name": "ss-back",
+    "points": 474,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/SS/gh-ss-back.png",
+    "xws": "ssback"
   },
   {
     "name": "booming proclamation",
@@ -3318,13 +3325,6 @@
     "xws": "soothinglullaby"
   },
   {
-    "name": "ss-back",
-    "points": 474,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/gh-ss-back.png",
-    "xws": "ssback"
-  },
-  {
     "name": "throw voice",
     "points": 475,
     "expansion": "Gloomhaven",
@@ -3365,6 +3365,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/SS/gh-wistful-wounding.png",
     "xws": "wistfulwounding"
+  },
+  {
+    "name": "su-back",
+    "points": 513,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/SU/gh-su-back.png",
+    "xws": "suback"
   },
   {
     "name": "biting wind",
@@ -3591,13 +3598,6 @@
     "xws": "strengthinnumbers"
   },
   {
-    "name": "su-back",
-    "points": 513,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/gh-su-back.png",
-    "xws": "suback"
-  },
-  {
     "name": "tear the fabric",
     "points": 514,
     "expansion": "Gloomhaven",
@@ -3652,6 +3652,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/SU/gh-wild-animation.png",
     "xws": "wildanimation"
+  },
+  {
+    "name": "sw-back",
+    "points": 549,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/SW/gh-sw-back.png",
+    "xws": "swback"
   },
   {
     "name": "aid from the ether",
@@ -3843,13 +3850,6 @@
     "xws": "stonefists"
   },
   {
-    "name": "sw-back",
-    "points": 549,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/gh-sw-back.png",
-    "xws": "swback"
-  },
-  {
     "name": "twin restoration",
     "points": 550,
     "expansion": "Gloomhaven",
@@ -3862,6 +3862,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/SW/gh-zephyr-wings.png",
     "xws": "zephyrwings"
+  },
+  {
+    "name": "ti-back",
+    "points": 583,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/TI/gh-ti-back.png",
+    "xws": "tiback"
   },
   {
     "name": "auto turret",
@@ -4081,13 +4088,6 @@
     "xws": "stunshot"
   },
   {
-    "name": "ti-back",
-    "points": 583,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/gh-ti-back.png",
-    "xws": "tiback"
-  },
-  {
     "name": "tinkerer's tools",
     "points": 584,
     "expansion": "Gloomhaven",
@@ -4107,6 +4107,13 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/TI/gh-volatile-concoction.png",
     "xws": "volatileconcoction"
+  },
+  {
+    "name": "dr-back",
+    "points": 599,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/DR/fc-dr-back.png",
+    "xws": "drback"
   },
   {
     "name": "anguish and salvation",
@@ -4191,13 +4198,6 @@
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/DR/fc-dimensional-transfer.png",
     "xws": "dimensionaltransfer"
-  },
-  {
-    "name": "dr-back",
-    "points": 599,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/fc-dr-back.png",
-    "xws": "drback"
   },
   {
     "name": "duality shards",

@@ -1,17 +1,17 @@
 [
   {
-    "name": "player reference back",
-    "points": 0,
-    "expansion": "Gloomhaven",
-    "image": "player-aid-cards/gh-player-reference-back.png",
-    "xws": "playerreferenceback"
-  },
-  {
     "name": "player reference front",
-    "points": 1,
+    "points": 0,
     "expansion": "Gloomhaven",
     "image": "player-aid-cards/gh-player-reference-front.png",
     "xws": "playerreferencefront"
+  },
+  {
+    "name": "player reference back",
+    "points": 1,
+    "expansion": "Gloomhaven",
+    "image": "player-aid-cards/gh-player-reference-back.png",
+    "xws": "playerreferenceback"
   },
   {
     "name": "halt bottom front",
@@ -42,17 +42,17 @@
     "xws": "halttopback"
   },
   {
-    "name": "player reference back",
-    "points": 6,
-    "expansion": "Forgotten Circles",
-    "image": "player-aid-cards/fc-player-reference-back.png",
-    "xws": "playerreferenceback"
-  },
-  {
     "name": "player reference front",
-    "points": 7,
+    "points": 6,
     "expansion": "Forgotten Circles",
     "image": "player-aid-cards/fc-player-reference-front.png",
     "xws": "playerreferencefront"
+  },
+  {
+    "name": "player reference back",
+    "points": 7,
+    "expansion": "Forgotten Circles",
+    "image": "player-aid-cards/fc-player-reference-back.png",
+    "xws": "playerreferenceback"
   }
 ]

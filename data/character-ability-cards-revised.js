@@ -42,123 +42,123 @@
     "xws": "fellingswoop"
   },
   {
-    "name": "concealed dominance",
-    "points": 6,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards-revised/NS/gh-concealed-dominance.png",
-    "xws": "concealeddominance"
-  },
-  {
     "name": "ns-back",
-    "points": 7,
+    "points": 6,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards-revised/NS/gh-ns-back.png",
     "xws": "nsback"
   },
   {
-    "name": "otherworldly rage",
-    "points": 8,
+    "name": "concealed dominance",
+    "points": 7,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards-revised/SU/gh-otherworldly-rage.png",
-    "xws": "otherworldlyrage"
+    "image": "character-ability-cards-revised/NS/gh-concealed-dominance.png",
+    "xws": "concealeddominance"
   },
   {
     "name": "su-back",
-    "points": 9,
+    "points": 8,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards-revised/SU/gh-su-back.png",
     "xws": "suback"
   },
   {
-    "name": "anguish and salvation",
+    "name": "otherworldly rage",
+    "points": 9,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards-revised/SU/gh-otherworldly-rage.png",
+    "xws": "otherworldlyrage"
+  },
+  {
+    "name": "dr-back",
     "points": 10,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards-revised/DR/fc-dr-back.png",
+    "xws": "drback"
+  },
+  {
+    "name": "anguish and salvation",
+    "points": 11,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-anguish-and-salvation.png",
     "xws": "anguishandsalvation"
   },
   {
     "name": "anticipate intricacies",
-    "points": 11,
+    "points": 12,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-anticipate-intricacies.png",
     "xws": "anticipateintricacies"
   },
   {
     "name": "bad omen",
-    "points": 12,
+    "points": 13,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-bad-omen.png",
     "xws": "badomen"
   },
   {
     "name": "call of the nether",
-    "points": 13,
+    "points": 14,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-call-of-the-nether.png",
     "xws": "callofthenether"
   },
   {
     "name": "careful attunement",
-    "points": 14,
+    "points": 15,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-careful-attunement.png",
     "xws": "carefulattunement"
   },
   {
     "name": "clairvoyance",
-    "points": 15,
+    "points": 16,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-clairvoyance.png",
     "xws": "clairvoyance"
   },
   {
     "name": "cleansing rite",
-    "points": 16,
+    "points": 17,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-cleansing-rite.png",
     "xws": "cleansingrite"
   },
   {
     "name": "curative flux",
-    "points": 17,
+    "points": 18,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-curative-flux.png",
     "xws": "curativeflux"
   },
   {
     "name": "cursed ground",
-    "points": 18,
+    "points": 19,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-cursed-ground.png",
     "xws": "cursedground"
   },
   {
     "name": "deep contemplation",
-    "points": 19,
+    "points": 20,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-deep-contemplation.png",
     "xws": "deepcontemplation"
   },
   {
     "name": "dimensional divide",
-    "points": 20,
+    "points": 21,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-dimensional-divide.png",
     "xws": "dimensionaldivide"
   },
   {
     "name": "dimensional transfer",
-    "points": 21,
+    "points": 22,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-dimensional-transfer.png",
     "xws": "dimensionaltransfer"
-  },
-  {
-    "name": "dr-back",
-    "points": 22,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/DR/fc-dr-back.png",
-    "xws": "drback"
   },
   {
     "name": "duality shards",
