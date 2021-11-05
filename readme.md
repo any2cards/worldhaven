@@ -36,19 +36,19 @@ There are four top-level directories; `data` , `images` , `pbf` ,and `xwc`.
 
 ### data
 
-The `data` folder contains all WH Card Viewer data in JSON format.
+The `data` folder contains all WH Asset Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains all WH Card Viewer images for each of the above components.
+The `images` folder contains all WH Asset Viewer images for each of the above components.
 
 ### pbf
 
-The `pbf` folder contains specific WH Card Viewer images for Play By Forum (PBF) use.
+The `pbf` folder contains specific WH Asset Viewer images for Play By Forum (PBF) use.
 
 ### xwc
 
-The `xwc` folder contains all of the files that power the WH Card Viewer Chrome Extension/Firefox Add-On.
+The `xwc` folder contains all of the files that power the WH Asset Viewer Chrome Extension.
 
 ## Usage
 
@@ -76,7 +76,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [WH Card Viewer](https://chrome.google.com/webstore/detail/worldhaven-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
+- [WH Asset Viewer](https://chrome.google.com/webstore/detail/worldhaven-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/worldhaven/issues/new?title=Add%20Project)
 
@@ -97,5 +97,5 @@ See the [Releases tab](https://github.com/any2cards/worldhaven/releases) in Gith
 
 ---
 
-Gloomhaven: Gloomhaven and all related properties, images and text are owned by Cephalofair Games.
+Worldhaven: Gloomhaven, Forgotten Circles, Frosthaven, and Jaws of the Lion and all related properties, images and text are owned by Cephalofair Games.
 
