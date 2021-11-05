@@ -3,4326 +3,4326 @@
     "name": "be-back",
     "points": 0,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/be-back.png",
+    "image": "character-ability-cards/BE/gh-be-back.png",
     "xws": "beback"
   },
   {
     "name": "blood pact",
     "points": 1,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/blood-pact.png",
+    "image": "character-ability-cards/BE/gh-blood-pact.png",
     "xws": "bloodpact"
   },
   {
     "name": "bone breaker",
     "points": 2,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/bone-breaker.png",
+    "image": "character-ability-cards/BE/gh-bone-breaker.png",
     "xws": "bonebreaker"
   },
   {
     "name": "bounce back",
     "points": 3,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/bounce-back.png",
+    "image": "character-ability-cards/BE/gh-bounce-back.png",
     "xws": "bounceback"
   },
   {
     "name": "break the chains",
     "points": 4,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/break-the-chains.png",
+    "image": "character-ability-cards/BE/gh-break-the-chains.png",
     "xws": "breakthechains"
   },
   {
     "name": "burning hatred",
     "points": 5,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/burning-hatred.png",
+    "image": "character-ability-cards/BE/gh-burning-hatred.png",
     "xws": "burninghatred"
   },
   {
     "name": "careless charge",
     "points": 6,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/careless-charge.png",
+    "image": "character-ability-cards/BE/gh-careless-charge.png",
     "xws": "carelesscharge"
   },
   {
     "name": "cauterize",
     "points": 7,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/cauterize.png",
+    "image": "character-ability-cards/BE/gh-cauterize.png",
     "xws": "cauterize"
   },
   {
     "name": "dazing wound",
     "points": 8,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/dazing-wound.png",
+    "image": "character-ability-cards/BE/gh-dazing-wound.png",
     "xws": "dazingwound"
   },
   {
     "name": "defiance of death",
     "points": 9,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/defiance-of-death.png",
+    "image": "character-ability-cards/BE/gh-defiance-of-death.png",
     "xws": "defianceofdeath"
   },
   {
     "name": "devil horns",
     "points": 10,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/devil-horns.png",
+    "image": "character-ability-cards/BE/gh-devil-horns.png",
     "xws": "devilhorns"
   },
   {
     "name": "fatal fury",
     "points": 11,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/fatal-fury.png",
+    "image": "character-ability-cards/BE/gh-fatal-fury.png",
     "xws": "fatalfury"
   },
   {
     "name": "final fight",
     "points": 12,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/final-fight.png",
+    "image": "character-ability-cards/BE/gh-final-fight.png",
     "xws": "finalfight"
   },
   {
     "name": "flurry of axes",
     "points": 13,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/flurry-of-axes.png",
+    "image": "character-ability-cards/BE/gh-flurry-of-axes.png",
     "xws": "flurryofaxes"
   },
   {
     "name": "from the brink",
     "points": 14,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/from-the-brink.png",
+    "image": "character-ability-cards/BE/gh-from-the-brink.png",
     "xws": "fromthebrink"
   },
   {
     "name": "furious aid",
     "points": 15,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/furious-aid.png",
+    "image": "character-ability-cards/BE/gh-furious-aid.png",
     "xws": "furiousaid"
   },
   {
     "name": "glass hammer",
     "points": 16,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/glass-hammer.png",
+    "image": "character-ability-cards/BE/gh-glass-hammer.png",
     "xws": "glasshammer"
   },
   {
     "name": "growing rage",
     "points": 17,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/growing-rage.png",
+    "image": "character-ability-cards/BE/gh-growing-rage.png",
     "xws": "growingrage"
   },
   {
     "name": "immortality",
     "points": 18,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/immortality.png",
+    "image": "character-ability-cards/BE/gh-immortality.png",
     "xws": "immortality"
   },
   {
     "name": "numb the pain",
     "points": 19,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/numb-the-pain.png",
+    "image": "character-ability-cards/BE/gh-numb-the-pain.png",
     "xws": "numbthepain"
   },
   {
     "name": "reckless offensive",
     "points": 20,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/reckless-offensive.png",
+    "image": "character-ability-cards/BE/gh-reckless-offensive.png",
     "xws": "recklessoffensive"
   },
   {
     "name": "resolute stand",
     "points": 21,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/resolute-stand.png",
+    "image": "character-ability-cards/BE/gh-resolute-stand.png",
     "xws": "resolutestand"
   },
   {
     "name": "seeing red",
     "points": 22,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/seeing-red.png",
+    "image": "character-ability-cards/BE/gh-seeing-red.png",
     "xws": "seeingred"
   },
   {
     "name": "shiny distraction",
     "points": 23,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/shiny-distraction.png",
+    "image": "character-ability-cards/BE/gh-shiny-distraction.png",
     "xws": "shinydistraction"
   },
   {
     "name": "spiked armor",
     "points": 24,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/spiked-armor.png",
+    "image": "character-ability-cards/BE/gh-spiked-armor.png",
     "xws": "spikedarmor"
   },
   {
     "name": "strength in agony",
     "points": 25,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/strength-in-agony.png",
+    "image": "character-ability-cards/BE/gh-strength-in-agony.png",
     "xws": "strengthinagony"
   },
   {
     "name": "the maw of madness",
     "points": 26,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/the-maw-of-madness.png",
+    "image": "character-ability-cards/BE/gh-the-maw-of-madness.png",
     "xws": "themawofmadness"
   },
   {
     "name": "unbridled power",
     "points": 27,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/unbridled-power.png",
+    "image": "character-ability-cards/BE/gh-unbridled-power.png",
     "xws": "unbridledpower"
   },
   {
     "name": "unstoppable destruction",
     "points": 28,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/unstoppable-destruction.png",
+    "image": "character-ability-cards/BE/gh-unstoppable-destruction.png",
     "xws": "unstoppabledestruction"
   },
   {
     "name": "vengeful barrage",
     "points": 29,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BE/vengeful-barrage.png",
+    "image": "character-ability-cards/BE/gh-vengeful-barrage.png",
     "xws": "vengefulbarrage"
   },
   {
     "name": "balanced measure",
     "points": 30,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/balanced-measure.png",
+    "image": "character-ability-cards/BR/gh-balanced-measure.png",
     "xws": "balancedmeasure"
   },
   {
     "name": "br-back",
     "points": 31,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/br-back.png",
+    "image": "character-ability-cards/BR/gh-br-back.png",
     "xws": "brback"
   },
   {
     "name": "brute force",
     "points": 32,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/brute-force.png",
+    "image": "character-ability-cards/BR/gh-brute-force.png",
     "xws": "bruteforce"
   },
   {
     "name": "crippling offensive",
     "points": 33,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/crippling-offensive.png",
+    "image": "character-ability-cards/BR/gh-crippling-offensive.png",
     "xws": "cripplingoffensive"
   },
   {
     "name": "defensive tactics",
     "points": 34,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/defensive-tactics.png",
+    "image": "character-ability-cards/BR/gh-defensive-tactics.png",
     "xws": "defensivetactics"
   },
   {
     "name": "devastating hack",
     "points": 35,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/devastating-hack.png",
+    "image": "character-ability-cards/BR/gh-devastating-hack.png",
     "xws": "devastatinghack"
   },
   {
     "name": "eye for an eye",
     "points": 36,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/eye-for-an-eye.png",
+    "image": "character-ability-cards/BR/gh-eye-for-an-eye.png",
     "xws": "eyeforaneye"
   },
   {
     "name": "face your end",
     "points": 37,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/face-your-end.png",
+    "image": "character-ability-cards/BR/gh-face-your-end.png",
     "xws": "faceyourend"
   },
   {
     "name": "fatal advance",
     "points": 38,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/fatal-advance.png",
+    "image": "character-ability-cards/BR/gh-fatal-advance.png",
     "xws": "fataladvance"
   },
   {
     "name": "frenzied onslaught",
     "points": 39,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/frenzied-onslaught.png",
+    "image": "character-ability-cards/BR/gh-frenzied-onslaught.png",
     "xws": "frenziedonslaught"
   },
   {
     "name": "grab and go",
     "points": 40,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/grab-and-go.png",
+    "image": "character-ability-cards/BR/gh-grab-and-go.png",
     "xws": "grabandgo"
   },
   {
     "name": "hook and chain",
     "points": 41,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/hook-and-chain.png",
+    "image": "character-ability-cards/BR/gh-hook-and-chain.png",
     "xws": "hookandchain"
   },
   {
     "name": "immovable phalanx",
     "points": 42,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/immovable-phalanx.png",
+    "image": "character-ability-cards/BR/gh-immovable-phalanx.png",
     "xws": "immovablephalanx"
   },
   {
     "name": "juggernaut",
     "points": 43,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/juggernaut.png",
+    "image": "character-ability-cards/BR/gh-juggernaut.png",
     "xws": "juggernaut"
   },
   {
     "name": "king of the hill",
     "points": 44,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/king-of-the-hill.png",
+    "image": "character-ability-cards/BR/gh-king-of-the-hill.png",
     "xws": "kingofthehill"
   },
   {
     "name": "leaping cleave",
     "points": 45,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/leaping-cleave.png",
+    "image": "character-ability-cards/BR/gh-leaping-cleave.png",
     "xws": "leapingcleave"
   },
   {
     "name": "overwhelming assault",
     "points": 46,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/overwhelming-assault.png",
+    "image": "character-ability-cards/BR/gh-overwhelming-assault.png",
     "xws": "overwhelmingassault"
   },
   {
     "name": "provoking roar",
     "points": 47,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/provoking-roar.png",
+    "image": "character-ability-cards/BR/gh-provoking-roar.png",
     "xws": "provokingroar"
   },
   {
     "name": "quietus",
     "points": 48,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/quietus.png",
+    "image": "character-ability-cards/BR/gh-quietus.png",
     "xws": "quietus"
   },
   {
     "name": "selfish retribution",
     "points": 49,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/selfish-retribution.png",
+    "image": "character-ability-cards/BR/gh-selfish-retribution.png",
     "xws": "selfishretribution"
   },
   {
     "name": "shield bash",
     "points": 50,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/shield-bash.png",
+    "image": "character-ability-cards/BR/gh-shield-bash.png",
     "xws": "shieldbash"
   },
   {
     "name": "skewer",
     "points": 51,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/skewer.png",
+    "image": "character-ability-cards/BR/gh-skewer.png",
     "xws": "skewer"
   },
   {
     "name": "skirmishing maneuver",
     "points": 52,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/skirmishing-maneuver.png",
+    "image": "character-ability-cards/BR/gh-skirmishing-maneuver.png",
     "xws": "skirmishingmaneuver"
   },
   {
     "name": "spare dagger",
     "points": 53,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/spare-dagger.png",
+    "image": "character-ability-cards/BR/gh-spare-dagger.png",
     "xws": "sparedagger"
   },
   {
     "name": "sweeping blow",
     "points": 54,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/sweeping-blow.png",
+    "image": "character-ability-cards/BR/gh-sweeping-blow.png",
     "xws": "sweepingblow"
   },
   {
     "name": "trample",
     "points": 55,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/trample.png",
+    "image": "character-ability-cards/BR/gh-trample.png",
     "xws": "trample"
   },
   {
     "name": "unstoppable charge",
     "points": 56,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/unstoppable-charge.png",
+    "image": "character-ability-cards/BR/gh-unstoppable-charge.png",
     "xws": "unstoppablecharge"
   },
   {
     "name": "wall of doom",
     "points": 57,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/wall-of-doom.png",
+    "image": "character-ability-cards/BR/gh-wall-of-doom.png",
     "xws": "wallofdoom"
   },
   {
     "name": "warding strength",
     "points": 58,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/warding-strength.png",
+    "image": "character-ability-cards/BR/gh-warding-strength.png",
     "xws": "wardingstrength"
   },
   {
     "name": "whirlwind",
     "points": 59,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BR/whirlwind.png",
+    "image": "character-ability-cards/BR/gh-whirlwind.png",
     "xws": "whirlwind"
   },
   {
     "name": "bioluminescence",
     "points": 60,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/bioluminescence.png",
+    "image": "character-ability-cards/BS/gh-bioluminescence.png",
     "xws": "bioluminescence"
   },
   {
     "name": "lightning moths",
     "points": 61,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/bioluminescence.png",
+    "image": "character-ability-cards/BS/gh-bioluminescence.png",
     "xws": "bioluminescence"
   },
   {
     "name": "blood drain",
     "points": 62,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/blood-drain.png",
+    "image": "character-ability-cards/BS/gh-blood-drain.png",
     "xws": "blooddrain"
   },
   {
     "name": "bone daggers",
     "points": 63,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/bone-daggers.png",
+    "image": "character-ability-cards/BS/gh-bone-daggers.png",
     "xws": "bonedaggers"
   },
   {
     "name": "bs-back",
     "points": 64,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/bs-back.png",
+    "image": "character-ability-cards/BS/gh-bs-back.png",
     "xws": "bsback"
   },
   {
     "name": "call of the grave",
     "points": 65,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/call-of-the-grave.png",
+    "image": "character-ability-cards/BS/gh-call-of-the-grave.png",
     "xws": "callofthegrave"
   },
   {
     "name": "corrupting parasites",
     "points": 66,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/corrupting-parasites.png",
+    "image": "character-ability-cards/BS/gh-corrupting-parasites.png",
     "xws": "corruptingparasites"
   },
   {
     "name": "soul leeches",
     "points": 67,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/corrupting-parasites.png",
+    "image": "character-ability-cards/BS/gh-corrupting-parasites.png",
     "xws": "corruptingparasites"
   },
   {
     "name": "death march",
     "points": 68,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/death-march.png",
+    "image": "character-ability-cards/BS/gh-death-march.png",
     "xws": "deathmarch"
   },
   {
     "name": "creeping beetles",
     "points": 69,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/death-march.png",
+    "image": "character-ability-cards/BS/gh-death-march.png",
     "xws": "deathmarch"
   },
   {
     "name": "deflecting blades",
     "points": 70,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/deflecting-blades.png",
+    "image": "character-ability-cards/BS/gh-deflecting-blades.png",
     "xws": "deflectingblades"
   },
   {
     "name": "engulfing stingers",
     "points": 71,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/engulfing-stingers.png",
+    "image": "character-ability-cards/BS/gh-engulfing-stingers.png",
     "xws": "engulfingstingers"
   },
   {
     "name": "angry wasps",
     "points": 72,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/engulfing-stingers.png",
+    "image": "character-ability-cards/BS/gh-engulfing-stingers.png",
     "xws": "engulfingstingers"
   },
   {
     "name": "erosion",
     "points": 73,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/erosion.png",
+    "image": "character-ability-cards/BS/gh-erosion.png",
     "xws": "erosion"
   },
   {
     "name": "focused scourge",
     "points": 74,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/focused-scourge.png",
+    "image": "character-ability-cards/BS/gh-focused-scourge.png",
     "xws": "focusedscourge"
   },
   {
     "name": "grasping advance",
     "points": 75,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/grasping-advance.png",
+    "image": "character-ability-cards/BS/gh-grasping-advance.png",
     "xws": "graspingadvance"
   },
   {
     "name": "hive mind",
     "points": 76,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/hive-mind.png",
+    "image": "character-ability-cards/BS/gh-hive-mind.png",
     "xws": "hivemind"
   },
   {
     "name": "incubation",
     "points": 77,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/incubation.png",
+    "image": "character-ability-cards/BS/gh-incubation.png",
     "xws": "incubation"
   },
   {
     "name": "infest",
     "points": 78,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/infest.png",
+    "image": "character-ability-cards/BS/gh-infest.png",
     "xws": "infest"
   },
   {
     "name": "oasis",
     "points": 79,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/oasis.png",
+    "image": "character-ability-cards/BS/gh-oasis.png",
     "xws": "oasis"
   },
   {
     "name": "omniscient assault",
     "points": 80,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/omniscient-assault.png",
+    "image": "character-ability-cards/BS/gh-omniscient-assault.png",
     "xws": "omniscientassault"
   },
   {
     "name": "prismatic cyclone",
     "points": 81,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/prismatic-cyclone.png",
+    "image": "character-ability-cards/BS/gh-prismatic-cyclone.png",
     "xws": "prismaticcyclone"
   },
   {
     "name": "putrid grubs",
     "points": 82,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/putrid-grubs.png",
+    "image": "character-ability-cards/BS/gh-putrid-grubs.png",
     "xws": "putridgrubs"
   },
   {
     "name": "bloat maggots",
     "points": 83,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/putrid-grubs.png",
+    "image": "character-ability-cards/BS/gh-putrid-grubs.png",
     "xws": "putridgrubs"
   },
   {
     "name": "sand scythe",
     "points": 84,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/sand-scythe.png",
+    "image": "character-ability-cards/BS/gh-sand-scythe.png",
     "xws": "sandscythe"
   },
   {
     "name": "scattered defense",
     "points": 85,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/scattered-defense.png",
+    "image": "character-ability-cards/BS/gh-scattered-defense.png",
     "xws": "scattereddefense"
   },
   {
     "name": "solitary horde",
     "points": 86,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/solitary-horde.png",
+    "image": "character-ability-cards/BS/gh-solitary-horde.png",
     "xws": "solitaryhorde"
   },
   {
     "name": "dueling hornets",
     "points": 87,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/solitary-horde.png",
+    "image": "character-ability-cards/BS/gh-solitary-horde.png",
     "xws": "solitaryhorde"
   },
   {
     "name": "sunstroke",
     "points": 88,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/sunstroke.png",
+    "image": "character-ability-cards/BS/gh-sunstroke.png",
     "xws": "sunstroke"
   },
   {
     "name": "swarming minions",
     "points": 89,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/swarming-minions.png",
+    "image": "character-ability-cards/BS/gh-swarming-minions.png",
     "xws": "swarmingminions"
   },
   {
     "name": "sword of tenacity",
     "points": 90,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/sword-of-tenacity.png",
+    "image": "character-ability-cards/BS/gh-sword-of-tenacity.png",
     "xws": "swordoftenacity"
   },
   {
     "name": "the storm's edge",
     "points": 91,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/the-storms-edge.png",
+    "image": "character-ability-cards/BS/gh-the-storms-edge.png",
     "xws": "thestormsedge"
   },
   {
     "name": "tomb of the immortal",
     "points": 92,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/tomb-of-the-immortal.png",
+    "image": "character-ability-cards/BS/gh-tomb-of-the-immortal.png",
     "xws": "tomboftheimmortal"
   },
   {
     "name": "unstoppable army",
     "points": 93,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/unstoppable-army.png",
+    "image": "character-ability-cards/BS/gh-unstoppable-army.png",
     "xws": "unstoppablearmy"
   },
   {
     "name": "steel scarabs",
     "points": 94,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/unstoppable-army.png",
+    "image": "character-ability-cards/BS/gh-unstoppable-army.png",
     "xws": "unstoppablearmy"
   },
   {
     "name": "vampiric tempest",
     "points": 95,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/vampiric-tempest.png",
+    "image": "character-ability-cards/BS/gh-vampiric-tempest.png",
     "xws": "vampirictempest"
   },
   {
     "name": "venomous barbs",
     "points": 96,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/venomous-barbs.png",
+    "image": "character-ability-cards/BS/gh-venomous-barbs.png",
     "xws": "venomousbarbs"
   },
   {
     "name": "wasteland",
     "points": 97,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/wasteland.png",
+    "image": "character-ability-cards/BS/gh-wasteland.png",
     "xws": "wasteland"
   },
   {
     "name": "rust vermin",
     "points": 98,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BS/wasteland.png",
+    "image": "character-ability-cards/BS/gh-wasteland.png",
     "xws": "wasteland"
   },
   {
     "name": "ancient ward",
     "points": 99,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/ancient-ward.png",
+    "image": "character-ability-cards/BT/gh-ancient-ward.png",
     "xws": "ancientward"
   },
   {
     "name": "bear-reference",
     "points": 100,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/bear-reference.png",
+    "image": "character-ability-cards/BT/gh-bear-reference.png",
     "xws": "bearreference"
   },
   {
     "name": "bear-reference-back",
     "points": 101,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/bear-reference-back.png",
+    "image": "character-ability-cards/BT/gh-bear-reference-back.png",
     "xws": "bearreferenceback"
   },
   {
     "name": "blood hunger",
     "points": 102,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/blood-hunger.png",
+    "image": "character-ability-cards/BT/gh-blood-hunger.png",
     "xws": "bloodhunger"
   },
   {
     "name": "borrowed essence",
     "points": 103,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/borrowed-essence.png",
+    "image": "character-ability-cards/BT/gh-borrowed-essence.png",
     "xws": "borrowedessence"
   },
   {
     "name": "bt-back",
     "points": 104,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/bt-back.png",
+    "image": "character-ability-cards/BT/gh-bt-back.png",
     "xws": "btback"
   },
   {
     "name": "concentrated rage",
     "points": 105,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/concentrated-rage.png",
+    "image": "character-ability-cards/BT/gh-concentrated-rage.png",
     "xws": "concentratedrage"
   },
   {
     "name": "disappearing wounds",
     "points": 106,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/disappearing-wounds.png",
+    "image": "character-ability-cards/BT/gh-disappearing-wounds.png",
     "xws": "disappearingwounds"
   },
   {
     "name": "disorienting roar",
     "points": 107,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/disorienting-roar.png",
+    "image": "character-ability-cards/BT/gh-disorienting-roar.png",
     "xws": "disorientingroar"
   },
   {
     "name": "earthen spikes",
     "points": 108,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/earthen-spikes.png",
+    "image": "character-ability-cards/BT/gh-earthen-spikes.png",
     "xws": "earthenspikes"
   },
   {
     "name": "energizing strike",
     "points": 109,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/energizing-strike.png",
+    "image": "character-ability-cards/BT/gh-energizing-strike.png",
     "xws": "energizingstrike"
   },
   {
     "name": "focused aggression",
     "points": 110,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/focused-aggression.png",
+    "image": "character-ability-cards/BT/gh-focused-aggression.png",
     "xws": "focusedaggression"
   },
   {
     "name": "forceful swipe",
     "points": 111,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/forceful-swipe.png",
+    "image": "character-ability-cards/BT/gh-forceful-swipe.png",
     "xws": "forcefulswipe"
   },
   {
     "name": "howling bolts",
     "points": 112,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/howling-bolts.png",
+    "image": "character-ability-cards/BT/gh-howling-bolts.png",
     "xws": "howlingbolts"
   },
   {
     "name": "jaws of death",
     "points": 113,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/jaws-of-death.png",
+    "image": "character-ability-cards/BT/gh-jaws-of-death.png",
     "xws": "jawsofdeath"
   },
   {
     "name": "lash out",
     "points": 114,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/lash-out.png",
+    "image": "character-ability-cards/BT/gh-lash-out.png",
     "xws": "lashout"
   },
   {
     "name": "maul",
     "points": 115,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/maul.png",
+    "image": "character-ability-cards/BT/gh-maul.png",
     "xws": "maul"
   },
   {
     "name": "natural remedy",
     "points": 116,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/natural-remedy.png",
+    "image": "character-ability-cards/BT/gh-natural-remedy.png",
     "xws": "naturalremedy"
   },
   {
     "name": "patch fur",
     "points": 117,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/patch-fur.png",
+    "image": "character-ability-cards/BT/gh-patch-fur.png",
     "xws": "patchfur"
   },
   {
     "name": "primal blessing",
     "points": 118,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/primal-blessing.png",
+    "image": "character-ability-cards/BT/gh-primal-blessing.png",
     "xws": "primalblessing"
   },
   {
     "name": "punch through",
     "points": 119,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/punch-through.png",
+    "image": "character-ability-cards/BT/gh-punch-through.png",
     "xws": "punchthrough"
   },
   {
     "name": "rampage",
     "points": 120,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/rampage.png",
+    "image": "character-ability-cards/BT/gh-rampage.png",
     "xws": "rampage"
   },
   {
     "name": "relentless ally",
     "points": 121,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/relentless-ally.png",
+    "image": "character-ability-cards/BT/gh-relentless-ally.png",
     "xws": "relentlessally"
   },
   {
     "name": "tattered wolf",
     "points": 122,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/relentless-ally.png",
+    "image": "character-ability-cards/BT/gh-relentless-ally.png",
     "xws": "relentlessally"
   },
   {
     "name": "soaring ally",
     "points": 123,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/soaring-ally.png",
+    "image": "character-ability-cards/BT/gh-soaring-ally.png",
     "xws": "soaringally"
   },
   {
     "name": "red falcon",
     "points": 124,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/soaring-ally.png",
+    "image": "character-ability-cards/BT/gh-soaring-ally.png",
     "xws": "soaringally"
   },
   {
     "name": "spirit swap",
     "points": 125,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/spirit-swap.png",
+    "image": "character-ability-cards/BT/gh-spirit-swap.png",
     "xws": "spiritswap"
   },
   {
     "name": "stone sigil",
     "points": 126,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/stone-sigil.png",
+    "image": "character-ability-cards/BT/gh-stone-sigil.png",
     "xws": "stonesigil"
   },
   {
     "name": "monolith",
     "points": 127,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/stone-sigil.png",
+    "image": "character-ability-cards/BT/gh-stone-sigil.png",
     "xws": "stonesigil"
   },
   {
     "name": "storm sigil",
     "points": 128,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/storm-sigil.png",
+    "image": "character-ability-cards/BT/gh-storm-sigil.png",
     "xws": "stormsigil"
   },
   {
     "name": "wind totem",
     "points": 129,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/storm-sigil.png",
+    "image": "character-ability-cards/BT/gh-storm-sigil.png",
     "xws": "stormsigil"
   },
   {
     "name": "tribal sigil",
     "points": 130,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/tribal-sigil.png",
+    "image": "character-ability-cards/BT/gh-tribal-sigil.png",
     "xws": "tribalsigil"
   },
   {
     "name": "spirit banner",
     "points": 131,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/tribal-sigil.png",
+    "image": "character-ability-cards/BT/gh-tribal-sigil.png",
     "xws": "tribalsigil"
   },
   {
     "name": "tyrannical force",
     "points": 132,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/tyrannical-force.png",
+    "image": "character-ability-cards/BT/gh-tyrannical-force.png",
     "xws": "tyrannicalforce"
   },
   {
     "name": "unstoppable beast",
     "points": 133,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/unstoppable-beast.png",
+    "image": "character-ability-cards/BT/gh-unstoppable-beast.png",
     "xws": "unstoppablebeast"
   },
   {
     "name": "venomous ally",
     "points": 134,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/venomous-ally.png",
+    "image": "character-ability-cards/BT/gh-venomous-ally.png",
     "xws": "venomousally"
   },
   {
     "name": "green adder",
     "points": 135,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/venomous-ally.png",
+    "image": "character-ability-cards/BT/gh-venomous-ally.png",
     "xws": "venomousally"
   },
   {
     "name": "vicious ally",
     "points": 136,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/vicious-ally.png",
+    "image": "character-ability-cards/BT/gh-vicious-ally.png",
     "xws": "viciousally"
   },
   {
     "name": "swamp alligator",
     "points": 137,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/BT/vicious-ally.png",
+    "image": "character-ability-cards/BT/gh-vicious-ally.png",
     "xws": "viciousally"
   },
   {
     "name": "avalanche",
     "points": 138,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/avalanche.png",
+    "image": "character-ability-cards/CH/gh-avalanche.png",
     "xws": "avalanche"
   },
   {
     "name": "backup ammunition",
     "points": 139,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/backup-ammunition.png",
+    "image": "character-ability-cards/CH/gh-backup-ammunition.png",
     "xws": "backupammunition"
   },
   {
     "name": "blind destruction",
     "points": 140,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/blind-destruction.png",
+    "image": "character-ability-cards/CH/gh-blind-destruction.png",
     "xws": "blinddestruction"
   },
   {
     "name": "blunt force",
     "points": 141,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/blunt-force.png",
+    "image": "character-ability-cards/CH/gh-blunt-force.png",
     "xws": "bluntforce"
   },
   {
     "name": "brutal momentum",
     "points": 142,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/brutal-momentum.png",
+    "image": "character-ability-cards/CH/gh-brutal-momentum.png",
     "xws": "brutalmomentum"
   },
   {
     "name": "cataclysm",
     "points": 143,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/cataclysm.png",
+    "image": "character-ability-cards/CH/gh-cataclysm.png",
     "xws": "cataclysm"
   },
   {
     "name": "ch-back",
     "points": 144,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/ch-back.png",
+    "image": "character-ability-cards/CH/gh-ch-back.png",
     "xws": "chback"
   },
   {
     "name": "clear the way",
     "points": 145,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/clear-the-way.png",
+    "image": "character-ability-cards/CH/gh-clear-the-way.png",
     "xws": "cleartheway"
   },
   {
     "name": "crater",
     "points": 146,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/crater.png",
+    "image": "character-ability-cards/CH/gh-crater.png",
     "xws": "crater"
   },
   {
     "name": "crushing grasp",
     "points": 147,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/crushing-grasp.png",
+    "image": "character-ability-cards/CH/gh-crushing-grasp.png",
     "xws": "crushinggrasp"
   },
   {
     "name": "dig pit",
     "points": 148,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/dig-pit.png",
+    "image": "character-ability-cards/CH/gh-dig-pit.png",
     "xws": "digpit"
   },
   {
     "name": "dirt tornado",
     "points": 149,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/dirt-tornado.png",
+    "image": "character-ability-cards/CH/gh-dirt-tornado.png",
     "xws": "dirttornado"
   },
   {
     "name": "earthen clod",
     "points": 150,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/earthen-clod.png",
+    "image": "character-ability-cards/CH/gh-earthen-clod.png",
     "xws": "earthenclod"
   },
   {
     "name": "explosive punch",
     "points": 151,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/explosive-punch.png",
+    "image": "character-ability-cards/CH/gh-explosive-punch.png",
     "xws": "explosivepunch"
   },
   {
     "name": "forceful storm",
     "points": 152,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/forceful-storm.png",
+    "image": "character-ability-cards/CH/gh-forceful-storm.png",
     "xws": "forcefulstorm"
   },
   {
     "name": "heaving swing",
     "points": 153,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/heaving-swing.png",
+    "image": "character-ability-cards/CH/gh-heaving-swing.png",
     "xws": "heavingswing"
   },
   {
     "name": "kinetic assault",
     "points": 154,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/kinetic-assault.png",
+    "image": "character-ability-cards/CH/gh-kinetic-assault.png",
     "xws": "kineticassault"
   },
   {
     "name": "lumbering bash",
     "points": 155,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/lumbering-bash.png",
+    "image": "character-ability-cards/CH/gh-lumbering-bash.png",
     "xws": "lumberingbash"
   },
   {
     "name": "massive boulder",
     "points": 156,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/massive-boulder.png",
+    "image": "character-ability-cards/CH/gh-massive-boulder.png",
     "xws": "massiveboulder"
   },
   {
     "name": "meteor",
     "points": 157,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/meteor.png",
+    "image": "character-ability-cards/CH/gh-meteor.png",
     "xws": "meteor"
   },
   {
     "name": "nature's lift",
     "points": 158,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/natures-lift.png",
+    "image": "character-ability-cards/CH/gh-natures-lift.png",
     "xws": "natureslift"
   },
   {
     "name": "opposing strike",
     "points": 159,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/opposing-strike.png",
+    "image": "character-ability-cards/CH/gh-opposing-strike.png",
     "xws": "opposingstrike"
   },
   {
     "name": "petrify",
     "points": 160,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/petrify.png",
+    "image": "character-ability-cards/CH/gh-petrify.png",
     "xws": "petrify"
   },
   {
     "name": "pulverize",
     "points": 161,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/pulverize.png",
+    "image": "character-ability-cards/CH/gh-pulverize.png",
     "xws": "pulverize"
   },
   {
     "name": "rock slide",
     "points": 162,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/rock-slide.png",
+    "image": "character-ability-cards/CH/gh-rock-slide.png",
     "xws": "rockslide"
   },
   {
     "name": "rock tunnel",
     "points": 163,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/rock-tunnel.png",
+    "image": "character-ability-cards/CH/gh-rock-tunnel.png",
     "xws": "rocktunnel"
   },
   {
     "name": "rocky end",
     "points": 164,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/rocky-end.png",
+    "image": "character-ability-cards/CH/gh-rocky-end.png",
     "xws": "rockyend"
   },
   {
     "name": "rumbling advance",
     "points": 165,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/rumbling-advance.png",
+    "image": "character-ability-cards/CH/gh-rumbling-advance.png",
     "xws": "rumblingadvance"
   },
   {
     "name": "sentient growth",
     "points": 166,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/sentient-growth.png",
+    "image": "character-ability-cards/CH/gh-sentient-growth.png",
     "xws": "sentientgrowth"
   },
   {
     "name": "stone pummel",
     "points": 167,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/stone-pummel.png",
+    "image": "character-ability-cards/CH/gh-stone-pummel.png",
     "xws": "stonepummel"
   },
   {
     "name": "unstable upheaval",
     "points": 168,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/CH/unstable-upheaval.png",
+    "image": "character-ability-cards/CH/gh-unstable-upheaval.png",
     "xws": "unstableupheaval"
   },
   {
     "name": "anguish and salvation",
     "points": 169,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/anguish-and-salvation.png",
+    "image": "character-ability-cards/DR/fc-anguish-and-salvation.png",
     "xws": "anguishandsalvation"
   },
   {
     "name": "anticipate intricacies",
     "points": 170,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/anticipate-intricacies.png",
+    "image": "character-ability-cards/DR/fc-anticipate-intricacies.png",
     "xws": "anticipateintricacies"
   },
   {
     "name": "bad omen",
     "points": 171,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/bad-omen.png",
+    "image": "character-ability-cards/DR/fc-bad-omen.png",
     "xws": "badomen"
   },
   {
     "name": "call of the nether",
     "points": 172,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/call-of-the-nether.png",
+    "image": "character-ability-cards/DR/fc-call-of-the-nether.png",
     "xws": "callofthenether"
   },
   {
     "name": "careful attunement",
     "points": 173,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/careful-attunement.png",
+    "image": "character-ability-cards/DR/fc-careful-attunement.png",
     "xws": "carefulattunement"
   },
   {
     "name": "clairvoyance",
     "points": 174,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/clairvoyance.png",
+    "image": "character-ability-cards/DR/fc-clairvoyance.png",
     "xws": "clairvoyance"
   },
   {
     "name": "cleansing rite",
     "points": 175,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/cleansing-rite.png",
+    "image": "character-ability-cards/DR/fc-cleansing-rite.png",
     "xws": "cleansingrite"
   },
   {
     "name": "curative flux",
     "points": 176,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/curative-flux.png",
+    "image": "character-ability-cards/DR/fc-curative-flux.png",
     "xws": "curativeflux"
   },
   {
     "name": "cursed ground",
     "points": 177,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/cursed-ground.png",
+    "image": "character-ability-cards/DR/fc-cursed-ground.png",
     "xws": "cursedground"
   },
   {
     "name": "deep contemplation",
     "points": 178,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/deep-contemplation.png",
+    "image": "character-ability-cards/DR/fc-deep-contemplation.png",
     "xws": "deepcontemplation"
   },
   {
     "name": "dimensional divide",
     "points": 179,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/dimensional-divide.png",
+    "image": "character-ability-cards/DR/fc-dimensional-divide.png",
     "xws": "dimensionaldivide"
   },
   {
     "name": "dimensional transfer",
     "points": 180,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/dimensional-transfer.png",
+    "image": "character-ability-cards/DR/fc-dimensional-transfer.png",
     "xws": "dimensionaltransfer"
   },
   {
     "name": "dr-back",
     "points": 181,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/dr-back.png",
+    "image": "character-ability-cards/DR/fc-dr-back.png",
     "xws": "drback"
   },
   {
     "name": "duality shards",
     "points": 182,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/duality-shards.png",
+    "image": "character-ability-cards/DR/fc-duality-shards.png",
     "xws": "dualityshards"
   },
   {
     "name": "enfeebling hex",
     "points": 183,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/enfeebling-hex.png",
+    "image": "character-ability-cards/DR/fc-enfeebling-hex.png",
     "xws": "enfeeblinghex"
   },
   {
     "name": "envision the course",
     "points": 184,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/envision-the-course.png",
+    "image": "character-ability-cards/DR/fc-envision-the-course.png",
     "xws": "envisionthecourse"
   },
   {
     "name": "ghost falcons",
     "points": 185,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DR/envision-the-course.png",
+    "image": "character-ability-cards/DR/fc-envision-the-course.png",
     "xws": "envisionthecourse"
   },
   {
     "name": "ethereal vortex",
     "points": 186,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/ethereal-vortex.png",
+    "image": "character-ability-cards/DR/fc-ethereal-vortex.png",
     "xws": "etherealvortex"
   },
   {
     "name": "gift of the void",
     "points": 187,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/gift-of-the-void.png",
+    "image": "character-ability-cards/DR/fc-gift-of-the-void.png",
     "xws": "giftofthevoid"
   },
   {
     "name": "hand of destiny",
     "points": 188,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/hand-of-destiny.png",
+    "image": "character-ability-cards/DR/fc-hand-of-destiny.png",
     "xws": "handofdestiny"
   },
   {
     "name": "inspiration from beyond",
     "points": 189,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/inspiration-from-beyond.png",
+    "image": "character-ability-cards/DR/fc-inspiration-from-beyond.png",
     "xws": "inspirationfrombeyond"
   },
   {
     "name": "otherworldly journey",
     "points": 190,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/otherworldly-journey.png",
+    "image": "character-ability-cards/DR/fc-otherworldly-journey.png",
     "xws": "otherworldlyjourney"
   },
   {
     "name": "peer into battle",
     "points": 191,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/peer-into-battle.png",
+    "image": "character-ability-cards/DR/fc-peer-into-battle.png",
     "xws": "peerintobattle"
   },
   {
     "name": "planar fissure",
     "points": 192,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/planar-fissure.png",
+    "image": "character-ability-cards/DR/fc-planar-fissure.png",
     "xws": "planarfissure"
   },
   {
     "name": "twilight archon",
     "points": 193,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/planar-fissure.png",
+    "image": "character-ability-cards/DR/fc-planar-fissure.png",
     "xws": "planarfissure"
   },
   {
     "name": "preordain the path",
     "points": 194,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/preordain-the-path.png",
+    "image": "character-ability-cards/DR/fc-preordain-the-path.png",
     "xws": "preordainthepath"
   },
   {
     "name": "protective aura",
     "points": 195,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/protective-aura.png",
+    "image": "character-ability-cards/DR/fc-protective-aura.png",
     "xws": "protectiveaura"
   },
   {
     "name": "ray of light",
     "points": 196,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/ray-of-light.png",
+    "image": "character-ability-cards/DR/fc-ray-of-light.png",
     "xws": "rayoflight"
   },
   {
     "name": "revitalizing fount",
     "points": 197,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/revitalizing-fount.png",
+    "image": "character-ability-cards/DR/fc-revitalizing-fount.png",
     "xws": "revitalizingfount"
   },
   {
     "name": "seal their fate",
     "points": 198,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/seal-their-fate.png",
+    "image": "character-ability-cards/DR/fc-seal-their-fate.png",
     "xws": "sealtheirfate"
   },
   {
     "name": "void snare",
     "points": 199,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/DR/void-snare.png",
+    "image": "character-ability-cards/DR/fc-void-snare.png",
     "xws": "voidsnare"
   },
   {
     "name": "a moment's peace",
     "points": 200,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/a-moments-peace.png",
+    "image": "character-ability-cards/DS/gh-a-moments-peace.png",
     "xws": "amomentspeace"
   },
   {
     "name": "camouflage",
     "points": 201,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/camouflage.png",
+    "image": "character-ability-cards/DS/gh-camouflage.png",
     "xws": "camouflage"
   },
   {
     "name": "crashing wave",
     "points": 202,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/crashing-wave.png",
+    "image": "character-ability-cards/DS/gh-crashing-wave.png",
     "xws": "crashingwave"
   },
   {
     "name": "crippling noose",
     "points": 203,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/crippling-noose.png",
+    "image": "character-ability-cards/DS/gh-crippling-noose.png",
     "xws": "cripplingnoose"
   },
   {
     "name": "darkened skies",
     "points": 204,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/darkened-skies.png",
+    "image": "character-ability-cards/DS/gh-darkened-skies.png",
     "xws": "darkenedskies"
   },
   {
     "name": "detonation",
     "points": 205,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/detonation.png",
+    "image": "character-ability-cards/DS/gh-detonation.png",
     "xws": "detonation"
   },
   {
     "name": "ds-back",
     "points": 206,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/ds-back.png",
+    "image": "character-ability-cards/DS/gh-ds-back.png",
     "xws": "dsback"
   },
   {
     "name": "expose",
     "points": 207,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/expose.png",
+    "image": "character-ability-cards/DS/gh-expose.png",
     "xws": "expose"
   },
   {
     "name": "felling swoop",
     "points": 208,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/felling-swoop.png",
+    "image": "character-ability-cards/DS/gh-felling-swoop.png",
     "xws": "fellingswoop"
   },
   {
     "name": "war hawk",
     "points": 209,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/felling-swoop.png",
+    "image": "character-ability-cards/DS/gh-felling-swoop.png",
     "xws": "fellingswoop"
   },
   {
     "name": "feral instincts",
     "points": 210,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/feral-instincts.png",
+    "image": "character-ability-cards/DS/gh-feral-instincts.png",
     "xws": "feralinstincts"
   },
   {
     "name": "flight of flame",
     "points": 211,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/flight-of-flame.png",
+    "image": "character-ability-cards/DS/gh-flight-of-flame.png",
     "xws": "flightofflame"
   },
   {
     "name": "foot snare",
     "points": 212,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/foot-snare.png",
+    "image": "character-ability-cards/DS/gh-foot-snare.png",
     "xws": "footsnare"
   },
   {
     "name": "fresh kill",
     "points": 213,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/fresh-kill.png",
+    "image": "character-ability-cards/DS/gh-fresh-kill.png",
     "xws": "freshkill"
   },
   {
     "name": "frightening curse",
     "points": 214,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/frightening-curse.png",
+    "image": "character-ability-cards/DS/gh-frightening-curse.png",
     "xws": "frighteningcurse"
   },
   {
     "name": "impending end",
     "points": 215,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/impending-end.png",
+    "image": "character-ability-cards/DS/gh-impending-end.png",
     "xws": "impendingend"
   },
   {
     "name": "inescapable fate",
     "points": 216,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/inescapable-fate.png",
+    "image": "character-ability-cards/DS/gh-inescapable-fate.png",
     "xws": "inescapablefate"
   },
   {
     "name": "lead to slaughter",
     "points": 217,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/lead-to-slaughter.png",
+    "image": "character-ability-cards/DS/gh-lead-to-slaughter.png",
     "xws": "leadtoslaughter"
   },
   {
     "name": "multi-pronged assault",
     "points": 218,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/multi-pronged-assault.png",
+    "image": "character-ability-cards/DS/gh-multi-pronged-assault.png",
     "xws": "multiprongedassault"
   },
   {
     "name": "nature's hunger",
     "points": 219,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/natures-hunger.png",
+    "image": "character-ability-cards/DS/gh-natures-hunger.png",
     "xws": "natureshunger"
   },
   {
     "name": "giant toad",
     "points": 220,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/natures-hunger.png",
+    "image": "character-ability-cards/DS/gh-natures-hunger.png",
     "xws": "natureshunger"
   },
   {
     "name": "predator and prey",
     "points": 221,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/predator-and-prey.png",
+    "image": "character-ability-cards/DS/gh-predator-and-prey.png",
     "xws": "predatorandprey"
   },
   {
     "name": "spitting cobra",
     "points": 222,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/predator-and-prey.png",
+    "image": "character-ability-cards/DS/gh-predator-and-prey.png",
     "xws": "predatorandprey"
   },
   {
     "name": "press the attack",
     "points": 223,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/press-the-attack.png",
+    "image": "character-ability-cards/DS/gh-press-the-attack.png",
     "xws": "presstheattack"
   },
   {
     "name": "race to the grave",
     "points": 224,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/race-to-the-grave.png",
+    "image": "character-ability-cards/DS/gh-race-to-the-grave.png",
     "xws": "racetothegrave"
   },
   {
     "name": "rain of arrows",
     "points": 225,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/rain-of-arrows.png",
+    "image": "character-ability-cards/DS/gh-rain-of-arrows.png",
     "xws": "rainofarrows"
   },
   {
     "name": "relentless offensive",
     "points": 226,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/relentless-offensive.png",
+    "image": "character-ability-cards/DS/gh-relentless-offensive.png",
     "xws": "relentlessoffensive"
   },
   {
     "name": "rising momentum",
     "points": 227,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/rising-momentum.png",
+    "image": "character-ability-cards/DS/gh-rising-momentum.png",
     "xws": "risingmomentum"
   },
   {
     "name": "sap life",
     "points": 228,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/sap-life.png",
+    "image": "character-ability-cards/DS/gh-sap-life.png",
     "xws": "saplife"
   },
   {
     "name": "singular focus",
     "points": 229,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/singular-focus.png",
+    "image": "character-ability-cards/DS/gh-singular-focus.png",
     "xws": "singularfocus"
   },
   {
     "name": "solid bow",
     "points": 230,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/solid-bow.png",
+    "image": "character-ability-cards/DS/gh-solid-bow.png",
     "xws": "solidbow"
   },
   {
     "name": "swift trickery",
     "points": 231,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/swift-trickery.png",
+    "image": "character-ability-cards/DS/gh-swift-trickery.png",
     "xws": "swifttrickery"
   },
   {
     "name": "the hunt begins",
     "points": 232,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/the-hunt-begins.png",
+    "image": "character-ability-cards/DS/gh-the-hunt-begins.png",
     "xws": "thehuntbegins"
   },
   {
     "name": "vicious jackal",
     "points": 233,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/the-hunt-begins.png",
+    "image": "character-ability-cards/DS/gh-the-hunt-begins.png",
     "xws": "thehuntbegins"
   },
   {
     "name": "vital charge",
     "points": 234,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/vital-charge.png",
+    "image": "character-ability-cards/DS/gh-vital-charge.png",
     "xws": "vitalcharge"
   },
   {
     "name": "battle boar",
     "points": 235,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/vital-charge.png",
+    "image": "character-ability-cards/DS/gh-vital-charge.png",
     "xws": "vitalcharge"
   },
   {
     "name": "wild command",
     "points": 236,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/DS/wild-command.png",
+    "image": "character-ability-cards/DS/gh-wild-command.png",
     "xws": "wildcommand"
   },
   {
     "name": "boiling arc",
     "points": 237,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/boiling-arc.png",
+    "image": "character-ability-cards/EL/gh-boiling-arc.png",
     "xws": "boilingarc"
   },
   {
     "name": "brilliant flash",
     "points": 238,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/brilliant-flash.png",
+    "image": "character-ability-cards/EL/gh-brilliant-flash.png",
     "xws": "brilliantflash"
   },
   {
     "name": "burial",
     "points": 239,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/burial.png",
+    "image": "character-ability-cards/EL/gh-burial.png",
     "xws": "burial"
   },
   {
     "name": "chain lightning",
     "points": 240,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/chain-lightning.png",
+    "image": "character-ability-cards/EL/gh-chain-lightning.png",
     "xws": "chainlightning"
   },
   {
     "name": "crystallizing blast",
     "points": 241,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/crystallizing-blast.png",
+    "image": "character-ability-cards/EL/gh-crystallizing-blast.png",
     "xws": "crystallizingblast"
   },
   {
     "name": "el-back",
     "points": 242,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/el-back.png",
+    "image": "character-ability-cards/EL/gh-el-back.png",
     "xws": "elback"
   },
   {
     "name": "elemental aegis",
     "points": 243,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/elemental-aegis.png",
+    "image": "character-ability-cards/EL/gh-elemental-aegis.png",
     "xws": "elementalaegis"
   },
   {
     "name": "encompassing shadow",
     "points": 244,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/encompassing-shadow.png",
+    "image": "character-ability-cards/EL/gh-encompassing-shadow.png",
     "xws": "encompassingshadow"
   },
   {
     "name": "eternal equilibrium",
     "points": 245,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/eternal-equilibrium.png",
+    "image": "character-ability-cards/EL/gh-eternal-equilibrium.png",
     "xws": "eternalequilibrium"
   },
   {
     "name": "ethereal manifestation",
     "points": 246,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/ethereal-manifestation.png",
+    "image": "character-ability-cards/EL/gh-ethereal-manifestation.png",
     "xws": "etherealmanifestation"
   },
   {
     "name": "mana sphere",
     "points": 247,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/ethereal-manifestation.png",
+    "image": "character-ability-cards/EL/gh-ethereal-manifestation.png",
     "xws": "etherealmanifestation"
   },
   {
     "name": "eye of the hurricane",
     "points": 248,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/eye-of-the-hurricane.png",
+    "image": "character-ability-cards/EL/gh-eye-of-the-hurricane.png",
     "xws": "eyeofthehurricane"
   },
   {
     "name": "formless power",
     "points": 249,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/formless-power.png",
+    "image": "character-ability-cards/EL/gh-formless-power.png",
     "xws": "formlesspower"
   },
   {
     "name": "frigid torrent",
     "points": 250,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/frigid-torrent.png",
+    "image": "character-ability-cards/EL/gh-frigid-torrent.png",
     "xws": "frigidtorrent"
   },
   {
     "name": "gravel vortex",
     "points": 251,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/gravel-vortex.png",
+    "image": "character-ability-cards/EL/gh-gravel-vortex.png",
     "xws": "gravelvortex"
   },
   {
     "name": "ice spikes",
     "points": 252,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/ice-spikes.png",
+    "image": "character-ability-cards/EL/gh-ice-spikes.png",
     "xws": "icespikes"
   },
   {
     "name": "infernal vortex",
     "points": 253,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/infernal-vortex.png",
+    "image": "character-ability-cards/EL/gh-infernal-vortex.png",
     "xws": "infernalvortex"
   },
   {
     "name": "lava eruption",
     "points": 254,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/lava-eruption.png",
+    "image": "character-ability-cards/EL/gh-lava-eruption.png",
     "xws": "lavaeruption"
   },
   {
     "name": "malleable evocation",
     "points": 255,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/malleable-evocation.png",
+    "image": "character-ability-cards/EL/gh-malleable-evocation.png",
     "xws": "malleableevocation"
   },
   {
     "name": "obsidian shards",
     "points": 256,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/obsidian-shards.png",
+    "image": "character-ability-cards/EL/gh-obsidian-shards.png",
     "xws": "obsidianshards"
   },
   {
     "name": "pragmatic reinforcement",
     "points": 257,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/pragmatic-reinforcement.png",
+    "image": "character-ability-cards/EL/gh-pragmatic-reinforcement.png",
     "xws": "pragmaticreinforcement"
   },
   {
     "name": "primal duality",
     "points": 258,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/primal-duality.png",
+    "image": "character-ability-cards/EL/gh-primal-duality.png",
     "xws": "primalduality"
   },
   {
     "name": "pure augmentation",
     "points": 259,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/pure-augmentation.png",
+    "image": "character-ability-cards/EL/gh-pure-augmentation.png",
     "xws": "pureaugmentation"
   },
   {
     "name": "raw enhancement",
     "points": 260,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/raw-enhancement.png",
+    "image": "character-ability-cards/EL/gh-raw-enhancement.png",
     "xws": "rawenhancement"
   },
   {
     "name": "shaping the ether",
     "points": 261,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/shaping-the-ether.png",
+    "image": "character-ability-cards/EL/gh-shaping-the-ether.png",
     "xws": "shapingtheether"
   },
   {
     "name": "simulacrum",
     "points": 262,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/simulacrum.png",
+    "image": "character-ability-cards/EL/gh-simulacrum.png",
     "xws": "simulacrum"
   },
   {
     "name": "doppelganger",
     "points": 263,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/simulacrum.png",
+    "image": "character-ability-cards/EL/gh-simulacrum.png",
     "xws": "simulacrum"
   },
   {
     "name": "stoking hail",
     "points": 264,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/stoking-hail.png",
+    "image": "character-ability-cards/EL/gh-stoking-hail.png",
     "xws": "stokinghail"
   },
   {
     "name": "tremulant cyclone",
     "points": 265,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/tremulant-cyclone.png",
+    "image": "character-ability-cards/EL/gh-tremulant-cyclone.png",
     "xws": "tremulantcyclone"
   },
   {
     "name": "vengeance",
     "points": 266,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/vengeance.png",
+    "image": "character-ability-cards/EL/gh-vengeance.png",
     "xws": "vengeance"
   },
   {
     "name": "volatile consumption",
     "points": 267,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/volatile-consumption.png",
+    "image": "character-ability-cards/EL/gh-volatile-consumption.png",
     "xws": "volatileconsumption"
   },
   {
     "name": "winter's edge",
     "points": 268,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/EL/winters-edge.png",
+    "image": "character-ability-cards/EL/gh-winters-edge.png",
     "xws": "wintersedge"
   },
   {
     "name": "brain leech",
     "points": 269,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/brain-leech.png",
+    "image": "character-ability-cards/MT/gh-brain-leech.png",
     "xws": "brainleech"
   },
   {
     "name": "corrupting embrace",
     "points": 270,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/corrupting-embrace.png",
+    "image": "character-ability-cards/MT/gh-corrupting-embrace.png",
     "xws": "corruptingembrace"
   },
   {
     "name": "cranium overload",
     "points": 271,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/cranium-overload.png",
+    "image": "character-ability-cards/MT/gh-cranium-overload.png",
     "xws": "craniumoverload"
   },
   {
     "name": "dark frenzy",
     "points": 272,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/dark-frenzy.png",
+    "image": "character-ability-cards/MT/gh-dark-frenzy.png",
     "xws": "darkfrenzy"
   },
   {
     "name": "domination",
     "points": 273,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/domination.png",
+    "image": "character-ability-cards/MT/gh-domination.png",
     "xws": "domination"
   },
   {
     "name": "empathetic assault",
     "points": 274,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/empathetic-assault.png",
+    "image": "character-ability-cards/MT/gh-empathetic-assault.png",
     "xws": "empatheticassault"
   },
   {
     "name": "fearsome blade",
     "points": 275,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/fearsome-blade.png",
+    "image": "character-ability-cards/MT/gh-fearsome-blade.png",
     "xws": "fearsomeblade"
   },
   {
     "name": "feedback loop",
     "points": 276,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/feedback-loop.png",
+    "image": "character-ability-cards/MT/gh-feedback-loop.png",
     "xws": "feedbackloop"
   },
   {
     "name": "frigid apparition",
     "points": 277,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/frigid-apparition.png",
+    "image": "character-ability-cards/MT/gh-frigid-apparition.png",
     "xws": "frigidapparition"
   },
   {
     "name": "frozen mind",
     "points": 278,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/frozen-mind.png",
+    "image": "character-ability-cards/MT/gh-frozen-mind.png",
     "xws": "frozenmind"
   },
   {
     "name": "gnawing horde",
     "points": 279,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/gnawing-horde.png",
+    "image": "character-ability-cards/MT/gh-gnawing-horde.png",
     "xws": "gnawinghorde"
   },
   {
     "name": "rat swarm",
     "points": 280,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/gnawing-horde.png",
+    "image": "character-ability-cards/MT/gh-gnawing-horde.png",
     "xws": "gnawinghorde"
   },
   {
     "name": "hostile takeover",
     "points": 281,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/hostile-takeover.png",
+    "image": "character-ability-cards/MT/gh-hostile-takeover.png",
     "xws": "hostiletakeover"
   },
   {
     "name": "into the night",
     "points": 282,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/into-the-night.png",
+    "image": "character-ability-cards/MT/gh-into-the-night.png",
     "xws": "intothenight"
   },
   {
     "name": "many as one",
     "points": 283,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/many-as-one.png",
+    "image": "character-ability-cards/MT/gh-many-as-one.png",
     "xws": "manyasone"
   },
   {
     "name": "rat king",
     "points": 284,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/many-as-one.png",
+    "image": "character-ability-cards/MT/gh-many-as-one.png",
     "xws": "manyasone"
   },
   {
     "name": "mass hysteria",
     "points": 285,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/mass-hysteria.png",
+    "image": "character-ability-cards/MT/gh-mass-hysteria.png",
     "xws": "masshysteria"
   },
   {
     "name": "mt-back",
     "points": 286,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/mt-back.png",
+    "image": "character-ability-cards/MT/gh-mt-back.png",
     "xws": "mtback"
   },
   {
     "name": "parasitic influence",
     "points": 287,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/parasitic-influence.png",
+    "image": "character-ability-cards/MT/gh-parasitic-influence.png",
     "xws": "parasiticinfluence"
   },
   {
     "name": "perverse edge",
     "points": 288,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/perverse-edge.png",
+    "image": "character-ability-cards/MT/gh-perverse-edge.png",
     "xws": "perverseedge"
   },
   {
     "name": "phantasmal killer",
     "points": 289,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/phantasmal-killer.png",
+    "image": "character-ability-cards/MT/gh-phantasmal-killer.png",
     "xws": "phantasmalkiller"
   },
   {
     "name": "pilfer",
     "points": 290,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/pilfer.png",
+    "image": "character-ability-cards/MT/gh-pilfer.png",
     "xws": "pilfer"
   },
   {
     "name": "possession",
     "points": 291,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/possession.png",
+    "image": "character-ability-cards/MT/gh-possession.png",
     "xws": "possession"
   },
   {
     "name": "psychic projection",
     "points": 292,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/psychic-projection.png",
+    "image": "character-ability-cards/MT/gh-psychic-projection.png",
     "xws": "psychicprojection"
   },
   {
     "name": "scurry",
     "points": 293,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/scurry.png",
+    "image": "character-ability-cards/MT/gh-scurry.png",
     "xws": "scurry"
   },
   {
     "name": "shared nightmare",
     "points": 294,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/shared-nightmare.png",
+    "image": "character-ability-cards/MT/gh-shared-nightmare.png",
     "xws": "sharednightmare"
   },
   {
     "name": "silent scream",
     "points": 295,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/silent-scream.png",
+    "image": "character-ability-cards/MT/gh-silent-scream.png",
     "xws": "silentscream"
   },
   {
     "name": "submissive affliction",
     "points": 296,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/submissive-affliction.png",
+    "image": "character-ability-cards/MT/gh-submissive-affliction.png",
     "xws": "submissiveaffliction"
   },
   {
     "name": "the mind's weakness",
     "points": 297,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/the-minds-weakness.png",
+    "image": "character-ability-cards/MT/gh-the-minds-weakness.png",
     "xws": "themindsweakness"
   },
   {
     "name": "vicious blood",
     "points": 298,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/vicious-blood.png",
+    "image": "character-ability-cards/MT/gh-vicious-blood.png",
     "xws": "viciousblood"
   },
   {
     "name": "withering claw",
     "points": 299,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/withering-claw.png",
+    "image": "character-ability-cards/MT/gh-withering-claw.png",
     "xws": "witheringclaw"
   },
   {
     "name": "wretched creature",
     "points": 300,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/wretched-creature.png",
+    "image": "character-ability-cards/MT/gh-wretched-creature.png",
     "xws": "wretchedcreature"
   },
   {
     "name": "monstrous rat",
     "points": 301,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/MT/wretched-creature.png",
+    "image": "character-ability-cards/MT/gh-wretched-creature.png",
     "xws": "wretchedcreature"
   },
   {
     "name": "angel of death",
     "points": 302,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/angel-of-death.png",
+    "image": "character-ability-cards/NS/gh-angel-of-death.png",
     "xws": "angelofdeath"
   },
   {
     "name": "armor of the night",
     "points": 303,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/armor-of-the-night.png",
+    "image": "character-ability-cards/NS/gh-armor-of-the-night.png",
     "xws": "armorofthenight"
   },
   {
     "name": "black arrow",
     "points": 304,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/black-arrow.png",
+    "image": "character-ability-cards/NS/gh-black-arrow.png",
     "xws": "blackarrow"
   },
   {
     "name": "black knives",
     "points": 305,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/black-knives.png",
+    "image": "character-ability-cards/NS/gh-black-knives.png",
     "xws": "blackknives"
   },
   {
     "name": "claws of the night",
     "points": 306,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/claws-of-the-night.png",
+    "image": "character-ability-cards/NS/gh-claws-of-the-night.png",
     "xws": "clawsofthenight"
   },
   {
     "name": "cloak of shade",
     "points": 307,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/cloak-of-shade.png",
+    "image": "character-ability-cards/NS/gh-cloak-of-shade.png",
     "xws": "cloakofshade"
   },
   {
     "name": "concealed dominance",
     "points": 308,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/concealed-dominance.png",
+    "image": "character-ability-cards/NS/gh-concealed-dominance.png",
     "xws": "concealeddominance"
   },
   {
     "name": "dancing shadows",
     "points": 309,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/dancing-shadows.png",
+    "image": "character-ability-cards/NS/gh-dancing-shadows.png",
     "xws": "dancingshadows"
   },
   {
     "name": "dark cloud",
     "points": 310,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/dark-cloud.png",
+    "image": "character-ability-cards/NS/gh-dark-cloud.png",
     "xws": "darkcloud"
   },
   {
     "name": "doomed breeze",
     "points": 311,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/doomed-breeze.png",
+    "image": "character-ability-cards/NS/gh-doomed-breeze.png",
     "xws": "doomedbreeze"
   },
   {
     "name": "empowering void",
     "points": 312,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/empowering-void.png",
+    "image": "character-ability-cards/NS/gh-empowering-void.png",
     "xws": "empoweringvoid"
   },
   {
     "name": "enervating wound",
     "points": 313,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/enervating-wound.png",
+    "image": "character-ability-cards/NS/gh-enervating-wound.png",
     "xws": "enervatingwound"
   },
   {
     "name": "eyes of the night",
     "points": 314,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/eyes-of-the-night.png",
+    "image": "character-ability-cards/NS/gh-eyes-of-the-night.png",
     "xws": "eyesofthenight"
   },
   {
     "name": "gloom darts",
     "points": 315,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/gloom-darts.png",
+    "image": "character-ability-cards/NS/gh-gloom-darts.png",
     "xws": "gloomdarts"
   },
   {
     "name": "grim sustenance",
     "points": 316,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/grim-sustenance.png",
+    "image": "character-ability-cards/NS/gh-grim-sustenance.png",
     "xws": "grimsustenance"
   },
   {
     "name": "lurking ruin",
     "points": 317,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/lurking-ruin.png",
+    "image": "character-ability-cards/NS/gh-lurking-ruin.png",
     "xws": "lurkingruin"
   },
   {
     "name": "nightfall",
     "points": 318,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/nightfall.png",
+    "image": "character-ability-cards/NS/gh-nightfall.png",
     "xws": "nightfall"
   },
   {
     "name": "ns-back",
     "points": 319,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/ns-back.png",
+    "image": "character-ability-cards/NS/gh-ns-back.png",
     "xws": "nsback"
   },
   {
     "name": "prepare for the kill",
     "points": 320,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/prepare-for-the-kill.png",
+    "image": "character-ability-cards/NS/gh-prepare-for-the-kill.png",
     "xws": "prepareforthekill"
   },
   {
     "name": "quiet frenzy",
     "points": 321,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/quiet-frenzy.png",
+    "image": "character-ability-cards/NS/gh-quiet-frenzy.png",
     "xws": "quietfrenzy"
   },
   {
     "name": "silent force",
     "points": 322,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/silent-force.png",
+    "image": "character-ability-cards/NS/gh-silent-force.png",
     "xws": "silentforce"
   },
   {
     "name": "smoke step",
     "points": 323,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/smoke-step.png",
+    "image": "character-ability-cards/NS/gh-smoke-step.png",
     "xws": "smokestep"
   },
   {
     "name": "soulfire",
     "points": 324,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/soulfire.png",
+    "image": "character-ability-cards/NS/gh-soulfire.png",
     "xws": "soulfire"
   },
   {
     "name": "spirit of the night",
     "points": 325,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/spirit-of-the-night.png",
+    "image": "character-ability-cards/NS/gh-spirit-of-the-night.png",
     "xws": "spiritofthenight"
   },
   {
     "name": "swallowed by fear",
     "points": 326,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/swallowed-by-fear.png",
+    "image": "character-ability-cards/NS/gh-swallowed-by-fear.png",
     "xws": "swallowedbyfear"
   },
   {
     "name": "terror blade",
     "points": 327,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/terror-blade.png",
+    "image": "character-ability-cards/NS/gh-terror-blade.png",
     "xws": "terrorblade"
   },
   {
     "name": "unseen dread",
     "points": 328,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/unseen-dread.png",
+    "image": "character-ability-cards/NS/gh-unseen-dread.png",
     "xws": "unseendread"
   },
   {
     "name": "voice of the night",
     "points": 329,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/voice-of-the-night.png",
+    "image": "character-ability-cards/NS/gh-voice-of-the-night.png",
     "xws": "voiceofthenight"
   },
   {
     "name": "wings of the night",
     "points": 330,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/NS/wings-of-the-night.png",
+    "image": "character-ability-cards/NS/gh-wings-of-the-night.png",
     "xws": "wingsofthenight"
   },
   {
     "name": "accelerated end",
     "points": 331,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/accelerated-end.png",
+    "image": "character-ability-cards/PH/gh-accelerated-end.png",
     "xws": "acceleratedend"
   },
   {
     "name": "airborne toxin",
     "points": 332,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/airborne-toxin.png",
+    "image": "character-ability-cards/PH/gh-airborne-toxin.png",
     "xws": "airbornetoxin"
   },
   {
     "name": "baneful hex",
     "points": 333,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/baneful-hex.png",
+    "image": "character-ability-cards/PH/gh-baneful-hex.png",
     "xws": "banefulhex"
   },
   {
     "name": "biting gnats",
     "points": 334,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/biting-gnats.png",
+    "image": "character-ability-cards/PH/gh-biting-gnats.png",
     "xws": "bitinggnats"
   },
   {
     "name": "black tides",
     "points": 335,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/black-tides.png",
+    "image": "character-ability-cards/PH/gh-black-tides.png",
     "xws": "blacktides"
   },
   {
     "name": "blistering vortex",
     "points": 336,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/blistering-vortex.png",
+    "image": "character-ability-cards/PH/gh-blistering-vortex.png",
     "xws": "blisteringvortex"
   },
   {
     "name": "convert the flock",
     "points": 337,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/convert-the-flock.png",
+    "image": "character-ability-cards/PH/gh-convert-the-flock.png",
     "xws": "converttheflock"
   },
   {
     "name": "creeping curse",
     "points": 338,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/creeping-curse.png",
+    "image": "character-ability-cards/PH/gh-creeping-curse.png",
     "xws": "creepingcurse"
   },
   {
     "name": "epidemic",
     "points": 339,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/epidemic.png",
+    "image": "character-ability-cards/PH/gh-epidemic.png",
     "xws": "epidemic"
   },
   {
     "name": "fetid flurry",
     "points": 340,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/fetid-flurry.png",
+    "image": "character-ability-cards/PH/gh-fetid-flurry.png",
     "xws": "fetidflurry"
   },
   {
     "name": "foul wind",
     "points": 341,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/foul-wind.png",
+    "image": "character-ability-cards/PH/gh-foul-wind.png",
     "xws": "foulwind"
   },
   {
     "name": "gathering doom",
     "points": 342,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/gathering-doom.png",
+    "image": "character-ability-cards/PH/gh-gathering-doom.png",
     "xws": "gatheringdoom"
   },
   {
     "name": "grasping vermin",
     "points": 343,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/grasping-vermin.png",
+    "image": "character-ability-cards/PH/gh-grasping-vermin.png",
     "xws": "graspingvermin"
   },
   {
     "name": "grim bargain",
     "points": 344,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/grim-bargain.png",
+    "image": "character-ability-cards/PH/gh-grim-bargain.png",
     "xws": "grimbargain"
   },
   {
     "name": "mass extinction",
     "points": 345,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/mass-extinction.png",
+    "image": "character-ability-cards/PH/gh-mass-extinction.png",
     "xws": "massextinction"
   },
   {
     "name": "nightmarish affliction",
     "points": 346,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/nightmarish-affliction.png",
+    "image": "character-ability-cards/PH/gh-nightmarish-affliction.png",
     "xws": "nightmarishaffliction"
   },
   {
     "name": "paralyzing bite",
     "points": 347,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/paralyzing-bite.png",
+    "image": "character-ability-cards/PH/gh-paralyzing-bite.png",
     "xws": "paralyzingbite"
   },
   {
     "name": "ph-back",
     "points": 348,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/ph-back.png",
+    "image": "character-ability-cards/PH/gh-ph-back.png",
     "xws": "phback"
   },
   {
     "name": "rot maggots",
     "points": 349,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/rot-maggots.png",
+    "image": "character-ability-cards/PH/gh-rot-maggots.png",
     "xws": "rotmaggots"
   },
   {
     "name": "scattered terror",
     "points": 350,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/scattered-terror.png",
+    "image": "character-ability-cards/PH/gh-scattered-terror.png",
     "xws": "scatteredterror"
   },
   {
     "name": "spreading scourge",
     "points": 351,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/spreading-scourge.png",
+    "image": "character-ability-cards/PH/gh-spreading-scourge.png",
     "xws": "spreadingscourge"
   },
   {
     "name": "spread the plague",
     "points": 352,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/spread-the-plague.png",
+    "image": "character-ability-cards/PH/gh-spread-the-plague.png",
     "xws": "spreadtheplague"
   },
   {
     "name": "stinging cloud",
     "points": 353,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/stinging-cloud.png",
+    "image": "character-ability-cards/PH/gh-stinging-cloud.png",
     "xws": "stingingcloud"
   },
   {
     "name": "storm of wings",
     "points": 354,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/storm-of-wings.png",
+    "image": "character-ability-cards/PH/gh-storm-of-wings.png",
     "xws": "stormofwings"
   },
   {
     "name": "succumb to the gift",
     "points": 355,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/succumb-to-the-gift.png",
+    "image": "character-ability-cards/PH/gh-succumb-to-the-gift.png",
     "xws": "succumbtothegift"
   },
   {
     "name": "under the skin",
     "points": 356,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/under-the-skin.png",
+    "image": "character-ability-cards/PH/gh-under-the-skin.png",
     "xws": "undertheskin"
   },
   {
     "name": "vile pestilence",
     "points": 357,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/vile-pestilence.png",
+    "image": "character-ability-cards/PH/gh-vile-pestilence.png",
     "xws": "vilepestilence"
   },
   {
     "name": "virulent strain",
     "points": 358,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/virulent-strain.png",
+    "image": "character-ability-cards/PH/gh-virulent-strain.png",
     "xws": "virulentstrain"
   },
   {
     "name": "willing sacrifice",
     "points": 359,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/willing-sacrifice.png",
+    "image": "character-ability-cards/PH/gh-willing-sacrifice.png",
     "xws": "willingsacrifice"
   },
   {
     "name": "winged congregation",
     "points": 360,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/winged-congregation.png",
+    "image": "character-ability-cards/PH/gh-winged-congregation.png",
     "xws": "wingedcongregation"
   },
   {
     "name": "wretched swarm",
     "points": 361,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/PH/wretched-swarm.png",
+    "image": "character-ability-cards/PH/gh-wretched-swarm.png",
     "xws": "wretchedswarm"
   },
   {
     "name": "bag of holding",
     "points": 362,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/bag-of-holding.png",
+    "image": "character-ability-cards/QM/gh-bag-of-holding.png",
     "xws": "bagofholding"
   },
   {
     "name": "bladed boomerang",
     "points": 363,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/bladed-boomerang.png",
+    "image": "character-ability-cards/QM/gh-bladed-boomerang.png",
     "xws": "bladedboomerang"
   },
   {
     "name": "catastrophic bomb",
     "points": 364,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/catastrophic-bomb.png",
+    "image": "character-ability-cards/QM/gh-catastrophic-bomb.png",
     "xws": "catastrophicbomb"
   },
   {
     "name": "cleaving axe",
     "points": 365,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/cleaving-axe.png",
+    "image": "character-ability-cards/QM/gh-cleaving-axe.png",
     "xws": "cleavingaxe"
   },
   {
     "name": "continual supply",
     "points": 366,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/continual-supply.png",
+    "image": "character-ability-cards/QM/gh-continual-supply.png",
     "xws": "continualsupply"
   },
   {
     "name": "crippling bow",
     "points": 367,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/crippling-bow.png",
+    "image": "character-ability-cards/QM/gh-crippling-bow.png",
     "xws": "cripplingbow"
   },
   {
     "name": "crushing hammer",
     "points": 368,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/crushing-hammer.png",
+    "image": "character-ability-cards/QM/gh-crushing-hammer.png",
     "xws": "crushinghammer"
   },
   {
     "name": "fortified position",
     "points": 369,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/fortified-position.png",
+    "image": "character-ability-cards/QM/gh-fortified-position.png",
     "xws": "fortifiedposition"
   },
   {
     "name": "giant club",
     "points": 370,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/giant-club.png",
+    "image": "character-ability-cards/QM/gh-giant-club.png",
     "xws": "giantclub"
   },
   {
     "name": "hastened step",
     "points": 371,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/hastened-step.png",
+    "image": "character-ability-cards/QM/gh-hastened-step.png",
     "xws": "hastenedstep"
   },
   {
     "name": "impaling spear",
     "points": 372,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/impaling-spear.png",
+    "image": "character-ability-cards/QM/gh-impaling-spear.png",
     "xws": "impalingspear"
   },
   {
     "name": "iron bulwark",
     "points": 373,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/iron-bulwark.png",
+    "image": "character-ability-cards/QM/gh-iron-bulwark.png",
     "xws": "ironbulwark"
   },
   {
     "name": "oversized pack",
     "points": 374,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/oversized-pack.png",
+    "image": "character-ability-cards/QM/gh-oversized-pack.png",
     "xws": "oversizedpack"
   },
   {
     "name": "portable ballista",
     "points": 375,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/portable-ballista.png",
+    "image": "character-ability-cards/QM/gh-portable-ballista.png",
     "xws": "portableballista"
   },
   {
     "name": "proficiency",
     "points": 376,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/proficiency.png",
+    "image": "character-ability-cards/QM/gh-proficiency.png",
     "xws": "proficiency"
   },
   {
     "name": "qm-back",
     "points": 377,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/qm-back.png",
+    "image": "character-ability-cards/QM/gh-qm-back.png",
     "xws": "qmback"
   },
   {
     "name": "quiver of arrows",
     "points": 378,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/quiver-of-arrows.png",
+    "image": "character-ability-cards/QM/gh-quiver-of-arrows.png",
     "xws": "quiverofarrows"
   },
   {
     "name": "refreshment",
     "points": 379,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/refreshment.png",
+    "image": "character-ability-cards/QM/gh-refreshment.png",
     "xws": "refreshment"
   },
   {
     "name": "reforge",
     "points": 380,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/reforge.png",
+    "image": "character-ability-cards/QM/gh-reforge.png",
     "xws": "reforge"
   },
   {
     "name": "reinforced steel",
     "points": 381,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/reinforced-steel.png",
+    "image": "character-ability-cards/QM/gh-reinforced-steel.png",
     "xws": "reinforcedsteel"
   },
   {
     "name": "reserved energy",
     "points": 382,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/reserved-energy.png",
+    "image": "character-ability-cards/QM/gh-reserved-energy.png",
     "xws": "reservedenergy"
   },
   {
     "name": "restock",
     "points": 383,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/restock.png",
+    "image": "character-ability-cards/QM/gh-restock.png",
     "xws": "restock"
   },
   {
     "name": "scroll of annihilation",
     "points": 384,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/scroll-of-annihilation.png",
+    "image": "character-ability-cards/QM/gh-scroll-of-annihilation.png",
     "xws": "scrollofannihilation"
   },
   {
     "name": "scroll of blizzards",
     "points": 385,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/scroll-of-blizzards.png",
+    "image": "character-ability-cards/QM/gh-scroll-of-blizzards.png",
     "xws": "scrollofblizzards"
   },
   {
     "name": "scroll of judgment",
     "points": 386,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/scroll-of-judgment.png",
+    "image": "character-ability-cards/QM/gh-scroll-of-judgment.png",
     "xws": "scrollofjudgment"
   },
   {
     "name": "scroll of lightning",
     "points": 387,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/scroll-of-lightning.png",
+    "image": "character-ability-cards/QM/gh-scroll-of-lightning.png",
     "xws": "scrolloflightning"
   },
   {
     "name": "scroll of recall",
     "points": 388,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/scroll-of-recall.png",
+    "image": "character-ability-cards/QM/gh-scroll-of-recall.png",
     "xws": "scrollofrecall"
   },
   {
     "name": "sharpening kit",
     "points": 389,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/sharpening-kit.png",
+    "image": "character-ability-cards/QM/gh-sharpening-kit.png",
     "xws": "sharpeningkit"
   },
   {
     "name": "side pouch",
     "points": 390,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/QM/side-pouch.png",
+    "image": "character-ability-cards/QM/gh-side-pouch.png",
     "xws": "sidepouch"
   },
   {
     "name": "amputate",
     "points": 391,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/amputate.png",
+    "image": "character-ability-cards/SB/gh-amputate.png",
     "xws": "amputate"
   },
   {
     "name": "battlefield medicine",
     "points": 392,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/battlefield-medicine.png",
+    "image": "character-ability-cards/SB/gh-battlefield-medicine.png",
     "xws": "battlefieldmedicine"
   },
   {
     "name": "bedside manner",
     "points": 393,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/bedside-manner.png",
+    "image": "character-ability-cards/SB/gh-bedside-manner.png",
     "xws": "bedsidemanner"
   },
   {
     "name": "blood transfusion",
     "points": 394,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/blood-transfusion.png",
+    "image": "character-ability-cards/SB/gh-blood-transfusion.png",
     "xws": "bloodtransfusion"
   },
   {
     "name": "bloody saw",
     "points": 395,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/bloody-saw.png",
+    "image": "character-ability-cards/SB/gh-bloody-saw.png",
     "xws": "bloodysaw"
   },
   {
     "name": "booster shot",
     "points": 396,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/booster-shot.png",
+    "image": "character-ability-cards/SB/gh-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "curative mixture",
     "points": 397,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/curative-mixture.png",
+    "image": "character-ability-cards/SB/gh-curative-mixture.png",
     "xws": "curativemixture"
   },
   {
     "name": "do no harm",
     "points": 398,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/do-no-harm.png",
+    "image": "character-ability-cards/SB/gh-do-no-harm.png",
     "xws": "donoharm"
   },
   {
     "name": "euthanize",
     "points": 399,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/euthanize.png",
+    "image": "character-ability-cards/SB/gh-euthanize.png",
     "xws": "euthanize"
   },
   {
     "name": "first aid",
     "points": 400,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/first-aid.png",
+    "image": "character-ability-cards/SB/gh-first-aid.png",
     "xws": "firstaid"
   },
   {
     "name": "gentleman's anger",
     "points": 401,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/gentlemans-anger.png",
+    "image": "character-ability-cards/SB/gh-gentlemans-anger.png",
     "xws": "gentlemansanger"
   },
   {
     "name": "grisly trauma",
     "points": 402,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/grisly-trauma.png",
+    "image": "character-ability-cards/SB/gh-grisly-trauma.png",
     "xws": "grislytrauma"
   },
   {
     "name": "hamstring",
     "points": 403,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/hamstring.png",
+    "image": "character-ability-cards/SB/gh-hamstring.png",
     "xws": "hamstring"
   },
   {
     "name": "hand of the surgeon",
     "points": 404,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/hand-of-the-surgeon.png",
+    "image": "character-ability-cards/SB/gh-hand-of-the-surgeon.png",
     "xws": "handofthesurgeon"
   },
   {
     "name": "hold back the pain",
     "points": 405,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/hold-back-the-pain.png",
+    "image": "character-ability-cards/SB/gh-hold-back-the-pain.png",
     "xws": "holdbackthepain"
   },
   {
     "name": "large medical pack",
     "points": 406,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/large-medical-pack.png",
+    "image": "character-ability-cards/SB/gh-large-medical-pack.png",
     "xws": "largemedicalpack"
   },
   {
     "name": "master physician",
     "points": 407,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/master-physician.png",
+    "image": "character-ability-cards/SB/gh-master-physician.png",
     "xws": "masterphysician"
   },
   {
     "name": "medical pack",
     "points": 408,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/medical-pack.png",
+    "image": "character-ability-cards/SB/gh-medical-pack.png",
     "xws": "medicalpack"
   },
   {
     "name": "mobile response",
     "points": 409,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/mobile-response.png",
+    "image": "character-ability-cards/SB/gh-mobile-response.png",
     "xws": "mobileresponse"
   },
   {
     "name": "precaution",
     "points": 410,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/precaution.png",
+    "image": "character-ability-cards/SB/gh-precaution.png",
     "xws": "precaution"
   },
   {
     "name": "prep for surgery",
     "points": 411,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/prep-for-surgery.png",
+    "image": "character-ability-cards/SB/gh-prep-for-surgery.png",
     "xws": "prepforsurgery"
   },
   {
     "name": "prescription",
     "points": 412,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/prescription.png",
+    "image": "character-ability-cards/SB/gh-prescription.png",
     "xws": "prescription"
   },
   {
     "name": "prevention is key",
     "points": 413,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/prevention-is-key.png",
+    "image": "character-ability-cards/SB/gh-prevention-is-key.png",
     "xws": "preventioniskey"
   },
   {
     "name": "regenerative tissue",
     "points": 414,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/regenerative-tissue.png",
+    "image": "character-ability-cards/SB/gh-regenerative-tissue.png",
     "xws": "regenerativetissue"
   },
   {
     "name": "research the cure",
     "points": 415,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/research-the-cure.png",
+    "image": "character-ability-cards/SB/gh-research-the-cure.png",
     "xws": "researchthecure"
   },
   {
     "name": "sb-back",
     "points": 416,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/sb-back.png",
+    "image": "character-ability-cards/SB/gh-sb-back.png",
     "xws": "sbback"
   },
   {
     "name": "surgeon's satchel",
     "points": 417,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/surgeons-satchel.png",
+    "image": "character-ability-cards/SB/gh-surgeons-satchel.png",
     "xws": "surgeonssatchel"
   },
   {
     "name": "syringe",
     "points": 418,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/syringe.png",
+    "image": "character-ability-cards/SB/gh-syringe.png",
     "xws": "syringe"
   },
   {
     "name": "teamwork",
     "points": 419,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/teamwork.png",
+    "image": "character-ability-cards/SB/gh-teamwork.png",
     "xws": "teamwork"
   },
   {
     "name": "triage",
     "points": 420,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/triage.png",
+    "image": "character-ability-cards/SB/gh-triage.png",
     "xws": "triage"
   },
   {
     "name": "vaccine",
     "points": 421,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/vaccine.png",
+    "image": "character-ability-cards/SB/gh-vaccine.png",
     "xws": "vaccine"
   },
   {
     "name": "vital strike",
     "points": 422,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SB/vital-strike.png",
+    "image": "character-ability-cards/SB/gh-vital-strike.png",
     "xws": "vitalstrike"
   },
   {
     "name": "backstab",
     "points": 423,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/backstab.png",
+    "image": "character-ability-cards/SC/gh-backstab.png",
     "xws": "backstab"
   },
   {
     "name": "burning oil",
     "points": 424,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/burning-oil.png",
+    "image": "character-ability-cards/SC/gh-burning-oil.png",
     "xws": "burningoil"
   },
   {
     "name": "crippling poison",
     "points": 425,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/crippling-poison.png",
+    "image": "character-ability-cards/SC/gh-crippling-poison.png",
     "xws": "cripplingpoison"
   },
   {
     "name": "cull the weak",
     "points": 426,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/cull-the-weak.png",
+    "image": "character-ability-cards/SC/gh-cull-the-weak.png",
     "xws": "culltheweak"
   },
   {
     "name": "duelist's advance",
     "points": 427,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/duelists-advance.png",
+    "image": "character-ability-cards/SC/gh-duelists-advance.png",
     "xws": "duelistsadvance"
   },
   {
     "name": "flanking strike",
     "points": 428,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/flanking-strike.png",
+    "image": "character-ability-cards/SC/gh-flanking-strike.png",
     "xws": "flankingstrike"
   },
   {
     "name": "flintlock",
     "points": 429,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/flintlock.png",
+    "image": "character-ability-cards/SC/gh-flintlock.png",
     "xws": "flintlock"
   },
   {
     "name": "flurry of blades",
     "points": 430,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/flurry-of-blades.png",
+    "image": "character-ability-cards/SC/gh-flurry-of-blades.png",
     "xws": "flurryofblades"
   },
   {
     "name": "gruesome advantage",
     "points": 431,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/gruesome-advantage.png",
+    "image": "character-ability-cards/SC/gh-gruesome-advantage.png",
     "xws": "gruesomeadvantage"
   },
   {
     "name": "hidden daggers",
     "points": 432,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/hidden-daggers.png",
+    "image": "character-ability-cards/SC/gh-hidden-daggers.png",
     "xws": "hiddendaggers"
   },
   {
     "name": "long con",
     "points": 433,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/long-con.png",
+    "image": "character-ability-cards/SC/gh-long-con.png",
     "xws": "longcon"
   },
   {
     "name": "open wound",
     "points": 434,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/open-wound.png",
+    "image": "character-ability-cards/SC/gh-open-wound.png",
     "xws": "openwound"
   },
   {
     "name": "pain's end",
     "points": 435,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/pains-end.png",
+    "image": "character-ability-cards/SC/gh-pains-end.png",
     "xws": "painsend"
   },
   {
     "name": "quick hands",
     "points": 436,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/quick-hands.png",
+    "image": "character-ability-cards/SC/gh-quick-hands.png",
     "xws": "quickhands"
   },
   {
     "name": "sc-back",
     "points": 437,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/sc-back.png",
+    "image": "character-ability-cards/SC/gh-sc-back.png",
     "xws": "scback"
   },
   {
     "name": "single out",
     "points": 438,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/single-out.png",
+    "image": "character-ability-cards/SC/gh-single-out.png",
     "xws": "singleout"
   },
   {
     "name": "sinister opportunity",
     "points": 439,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/sinister-opportunity.png",
+    "image": "character-ability-cards/SC/gh-sinister-opportunity.png",
     "xws": "sinisteropportunity"
   },
   {
     "name": "smoke bomb",
     "points": 440,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/smoke-bomb.png",
+    "image": "character-ability-cards/SC/gh-smoke-bomb.png",
     "xws": "smokebomb"
   },
   {
     "name": "special mixture",
     "points": 441,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/special-mixture.png",
+    "image": "character-ability-cards/SC/gh-special-mixture.png",
     "xws": "specialmixture"
   },
   {
     "name": "spring the trap",
     "points": 442,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/spring-the-trap.png",
+    "image": "character-ability-cards/SC/gh-spring-the-trap.png",
     "xws": "springthetrap"
   },
   {
     "name": "stick to the shadows",
     "points": 443,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/stick-to-the-shadows.png",
+    "image": "character-ability-cards/SC/gh-stick-to-the-shadows.png",
     "xws": "sticktotheshadows"
   },
   {
     "name": "stiletto storm",
     "points": 444,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/stiletto-storm.png",
+    "image": "character-ability-cards/SC/gh-stiletto-storm.png",
     "xws": "stilettostorm"
   },
   {
     "name": "swift bow",
     "points": 445,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/swift-bow.png",
+    "image": "character-ability-cards/SC/gh-swift-bow.png",
     "xws": "swiftbow"
   },
   {
     "name": "thief's knack",
     "points": 446,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/thiefs-knack.png",
+    "image": "character-ability-cards/SC/gh-thiefs-knack.png",
     "xws": "thiefsknack"
   },
   {
     "name": "throwing knives",
     "points": 447,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/throwing-knives.png",
+    "image": "character-ability-cards/SC/gh-throwing-knives.png",
     "xws": "throwingknives"
   },
   {
     "name": "trickster's reversal",
     "points": 448,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/tricksters-reversal.png",
+    "image": "character-ability-cards/SC/gh-tricksters-reversal.png",
     "xws": "trickstersreversal"
   },
   {
     "name": "venom shiv",
     "points": 449,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/venom-shiv.png",
+    "image": "character-ability-cards/SC/gh-venom-shiv.png",
     "xws": "venomshiv"
   },
   {
     "name": "visage of the inevitable",
     "points": 450,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/visage-of-the-inevitable.png",
+    "image": "character-ability-cards/SC/gh-visage-of-the-inevitable.png",
     "xws": "visageoftheinevitable"
   },
   {
     "name": "watch it burn",
     "points": 451,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SC/watch-it-burn.png",
+    "image": "character-ability-cards/SC/gh-watch-it-burn.png",
     "xws": "watchitburn"
   },
   {
     "name": "angelic ascension",
     "points": 452,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/angelic-ascension.png",
+    "image": "character-ability-cards/SK/gh-angelic-ascension.png",
     "xws": "angelicascension"
   },
   {
     "name": "beacon of light",
     "points": 453,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/beacon-of-light.png",
+    "image": "character-ability-cards/SK/gh-beacon-of-light.png",
     "xws": "beaconoflight"
   },
   {
     "name": "bright aegis",
     "points": 454,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/bright-aegis.png",
+    "image": "character-ability-cards/SK/gh-bright-aegis.png",
     "xws": "brightaegis"
   },
   {
     "name": "brilliant prayer",
     "points": 455,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/brilliant-prayer.png",
+    "image": "character-ability-cards/SK/gh-brilliant-prayer.png",
     "xws": "brilliantprayer"
   },
   {
     "name": "burning flash",
     "points": 456,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/burning-flash.png",
+    "image": "character-ability-cards/SK/gh-burning-flash.png",
     "xws": "burningflash"
   },
   {
     "name": "cautious advance",
     "points": 457,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/cautious-advance.png",
+    "image": "character-ability-cards/SK/gh-cautious-advance.png",
     "xws": "cautiousadvance"
   },
   {
     "name": "cleansing force",
     "points": 458,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/cleansing-force.png",
+    "image": "character-ability-cards/SK/gh-cleansing-force.png",
     "xws": "cleansingforce"
   },
   {
     "name": "daybreak",
     "points": 459,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/daybreak.png",
+    "image": "character-ability-cards/SK/gh-daybreak.png",
     "xws": "daybreak"
   },
   {
     "name": "dazzling charge",
     "points": 460,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/dazzling-charge.png",
+    "image": "character-ability-cards/SK/gh-dazzling-charge.png",
     "xws": "dazzlingcharge"
   },
   {
     "name": "defensive stance",
     "points": 461,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/defensive-stance.png",
+    "image": "character-ability-cards/SK/gh-defensive-stance.png",
     "xws": "defensivestance"
   },
   {
     "name": "divine intervention",
     "points": 462,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/divine-intervention.png",
+    "image": "character-ability-cards/SK/gh-divine-intervention.png",
     "xws": "divineintervention"
   },
   {
     "name": "empowering command",
     "points": 463,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/empowering-command.png",
+    "image": "character-ability-cards/SK/gh-empowering-command.png",
     "xws": "empoweringcommand"
   },
   {
     "name": "engulfing radiance",
     "points": 464,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/engulfing-radiance.png",
+    "image": "character-ability-cards/SK/gh-engulfing-radiance.png",
     "xws": "engulfingradiance"
   },
   {
     "name": "glorious bolt",
     "points": 465,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/glorious-bolt.png",
+    "image": "character-ability-cards/SK/gh-glorious-bolt.png",
     "xws": "gloriousbolt"
   },
   {
     "name": "hammer blow",
     "points": 466,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/hammer-blow.png",
+    "image": "character-ability-cards/SK/gh-hammer-blow.png",
     "xws": "hammerblow"
   },
   {
     "name": "holy strike",
     "points": 467,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/holy-strike.png",
+    "image": "character-ability-cards/SK/gh-holy-strike.png",
     "xws": "holystrike"
   },
   {
     "name": "illuminate the target",
     "points": 468,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/illuminate-the-target.png",
+    "image": "character-ability-cards/SK/gh-illuminate-the-target.png",
     "xws": "illuminatethetarget"
   },
   {
     "name": "inspiring sanctity",
     "points": 469,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/inspiring-sanctity.png",
+    "image": "character-ability-cards/SK/gh-inspiring-sanctity.png",
     "xws": "inspiringsanctity"
   },
   {
     "name": "lay on hands",
     "points": 470,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/lay-on-hands.png",
+    "image": "character-ability-cards/SK/gh-lay-on-hands.png",
     "xws": "layonhands"
   },
   {
     "name": "mobilizing axiom",
     "points": 471,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/mobilizing-axiom.png",
+    "image": "character-ability-cards/SK/gh-mobilizing-axiom.png",
     "xws": "mobilizingaxiom"
   },
   {
     "name": "path of glory",
     "points": 472,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/path-of-glory.png",
+    "image": "character-ability-cards/SK/gh-path-of-glory.png",
     "xws": "pathofglory"
   },
   {
     "name": "practical plans",
     "points": 473,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/practical-plans.png",
+    "image": "character-ability-cards/SK/gh-practical-plans.png",
     "xws": "practicalplans"
   },
   {
     "name": "protective blessing",
     "points": 474,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/protective-blessing.png",
+    "image": "character-ability-cards/SK/gh-protective-blessing.png",
     "xws": "protectiveblessing"
   },
   {
     "name": "purifying aura",
     "points": 475,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/purifying-aura.png",
+    "image": "character-ability-cards/SK/gh-purifying-aura.png",
     "xws": "purifyingaura"
   },
   {
     "name": "righteous strength",
     "points": 476,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/righteous-strength.png",
+    "image": "character-ability-cards/SK/gh-righteous-strength.png",
     "xws": "righteousstrength"
   },
   {
     "name": "scales of justice",
     "points": 477,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/scales-of-justice.png",
+    "image": "character-ability-cards/SK/gh-scales-of-justice.png",
     "xws": "scalesofjustice"
   },
   {
     "name": "sk-back",
     "points": 478,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/sk-back.png",
+    "image": "character-ability-cards/SK/gh-sk-back.png",
     "xws": "skback"
   },
   {
     "name": "supportive chant",
     "points": 479,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/supportive-chant.png",
+    "image": "character-ability-cards/SK/gh-supportive-chant.png",
     "xws": "supportivechant"
   },
   {
     "name": "tactical order",
     "points": 480,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/tactical-order.png",
+    "image": "character-ability-cards/SK/gh-tactical-order.png",
     "xws": "tacticalorder"
   },
   {
     "name": "unwavering mandate",
     "points": 481,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/unwavering-mandate.png",
+    "image": "character-ability-cards/SK/gh-unwavering-mandate.png",
     "xws": "visageoftheinevitable"
   },
   {
     "name": "weapon of purity",
     "points": 482,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SK/weapon-of-purity.png",
+    "image": "character-ability-cards/SK/gh-weapon-of-purity.png",
     "xws": "weaponofpurity"
   },
   {
     "name": "booming proclamation",
     "points": 483,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/booming-proclamation.png",
+    "image": "character-ability-cards/SS/gh-booming-proclamation.png",
     "xws": "boomingproclamation"
   },
   {
     "name": "call to action",
     "points": 484,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/call-to-action.png",
+    "image": "character-ability-cards/SS/gh-call-to-action.png",
     "xws": "calltoaction"
   },
   {
     "name": "captivating performance",
     "points": 485,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/captivating-performance.png",
+    "image": "character-ability-cards/SS/gh-captivating-performance.png",
     "xws": "captivatingperformance"
   },
   {
     "name": "change tempo",
     "points": 486,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/change-tempo.png",
+    "image": "character-ability-cards/SS/gh-change-tempo.png",
     "xws": "changetempo"
   },
   {
     "name": "commanding presence",
     "points": 487,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/commanding-presence.png",
+    "image": "character-ability-cards/SS/gh-commanding-presence.png",
     "xws": "commandingpresence"
   },
   {
     "name": "crippling chorus",
     "points": 488,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/crippling-chorus.png",
+    "image": "character-ability-cards/SS/gh-crippling-chorus.png",
     "xws": "cripplingchorus"
   },
   {
     "name": "defensive ditty",
     "points": 489,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/defensive-ditty.png",
+    "image": "character-ability-cards/SS/gh-defensive-ditty.png",
     "xws": "defensiveditty"
   },
   {
     "name": "disorienting dirge",
     "points": 490,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/disorienting-dirge.png",
+    "image": "character-ability-cards/SS/gh-disorienting-dirge.png",
     "xws": "disorientingdirge"
   },
   {
     "name": "echoing aria",
     "points": 491,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/echoing-aria.png",
+    "image": "character-ability-cards/SS/gh-echoing-aria.png",
     "xws": "echoingaria"
   },
   {
     "name": "inspiring anthem",
     "points": 492,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/inspiring-anthem.png",
+    "image": "character-ability-cards/SS/gh-inspiring-anthem.png",
     "xws": "inspiringanthem"
   },
   {
     "name": "marching beat",
     "points": 493,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/marching-beat.png",
+    "image": "character-ability-cards/SS/gh-marching-beat.png",
     "xws": "marchingbeat"
   },
   {
     "name": "melody and harmony",
     "points": 494,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/melody-and-harmony.png",
+    "image": "character-ability-cards/SS/gh-melody-and-harmony.png",
     "xws": "melodyandharmony"
   },
   {
     "name": "mobilizing measure",
     "points": 495,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/mobilizing-measure.png",
+    "image": "character-ability-cards/SS/gh-mobilizing-measure.png",
     "xws": "mobilizingmeasure"
   },
   {
     "name": "nightmare serenade",
     "points": 496,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/nightmare-serenade.png",
+    "image": "character-ability-cards/SS/gh-nightmare-serenade.png",
     "xws": "nightmareserenade"
   },
   {
     "name": "nimble knife",
     "points": 497,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/nimble-knife.png",
+    "image": "character-ability-cards/SS/gh-nimble-knife.png",
     "xws": "nimbleknife"
   },
   {
     "name": "power ballad",
     "points": 498,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/power-ballad.png",
+    "image": "character-ability-cards/SS/gh-power-ballad.png",
     "xws": "powerballad"
   },
   {
     "name": "provoke terror",
     "points": 499,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/provoke-terror.png",
+    "image": "character-ability-cards/SS/gh-provoke-terror.png",
     "xws": "provoketerror"
   },
   {
     "name": "pull the strings",
     "points": 500,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/pull-the-strings.png",
+    "image": "character-ability-cards/SS/gh-pull-the-strings.png",
     "xws": "pullthestrings"
   },
   {
     "name": "shadow puppets",
     "points": 501,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/shadow-puppets.png",
+    "image": "character-ability-cards/SS/gh-shadow-puppets.png",
     "xws": "shadowpuppets"
   },
   {
     "name": "singing arrow",
     "points": 502,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/singing-arrow.png",
+    "image": "character-ability-cards/SS/gh-singing-arrow.png",
     "xws": "singingarrow"
   },
   {
     "name": "song of speed",
     "points": 503,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/song-of-speed.png",
+    "image": "character-ability-cards/SS/gh-song-of-speed.png",
     "xws": "songofspeed"
   },
   {
     "name": "soothing lullaby",
     "points": 504,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/soothing-lullaby.png",
+    "image": "character-ability-cards/SS/gh-soothing-lullaby.png",
     "xws": "soothinglullaby"
   },
   {
     "name": "ss-back",
     "points": 505,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/ss-back.png",
+    "image": "character-ability-cards/SS/gh-ss-back.png",
     "xws": "ssback"
   },
   {
     "name": "throw voice",
     "points": 506,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/throw-voice.png",
+    "image": "character-ability-cards/SS/gh-throw-voice.png",
     "xws": "throwvoice"
   },
   {
     "name": "tranquil trill",
     "points": 507,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/tranquil-trill.png",
+    "image": "character-ability-cards/SS/gh-tranquil-trill.png",
     "xws": "tranquiltrill"
   },
   {
     "name": "tuning the outcome",
     "points": 508,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/tuning-the-outcome.png",
+    "image": "character-ability-cards/SS/gh-tuning-the-outcome.png",
     "xws": "tuningtheoutcome"
   },
   {
     "name": "unending chant",
     "points": 509,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/unending-chant.png",
+    "image": "character-ability-cards/SS/gh-unending-chant.png",
     "xws": "unendingchant"
   },
   {
     "name": "warding dagger",
     "points": 510,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/warding-dagger.png",
+    "image": "character-ability-cards/SS/gh-warding-dagger.png",
     "xws": "wardingdagger"
   },
   {
     "name": "wistful wounding",
     "points": 511,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SS/wistful-wounding.png",
+    "image": "character-ability-cards/SS/gh-wistful-wounding.png",
     "xws": "wistfulwounding"
   },
   {
     "name": "biting wind",
     "points": 512,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/biting-wind.png",
+    "image": "character-ability-cards/SU/gh-biting-wind.png",
     "xws": "bitingwind"
   },
   {
     "name": "black fire",
     "points": 513,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/black-fire.png",
+    "image": "character-ability-cards/SU/gh-black-fire.png",
     "xws": "blackfire"
   },
   {
     "name": "bonded might",
     "points": 514,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/bonded-might.png",
+    "image": "character-ability-cards/SU/gh-bonded-might.png",
     "xws": "bondedmight"
   },
   {
     "name": "conjured aid",
     "points": 515,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/conjured-aid.png",
+    "image": "character-ability-cards/SU/gh-conjured-aid.png",
     "xws": "conjuredaid"
   },
   {
     "name": "healing sprite",
     "points": 516,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/conjured-aid.png",
+    "image": "character-ability-cards/SU/gh-conjured-aid.png",
     "xws": "conjuredaid"
   },
   {
     "name": "divided mind",
     "points": 517,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/divided-mind.png",
+    "image": "character-ability-cards/SU/gh-divided-mind.png",
     "xws": "dividedmind"
   },
   {
     "name": "earthen steed",
     "points": 518,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/earthen-steed.png",
+    "image": "character-ability-cards/SU/gh-earthen-steed.png",
     "xws": "earthensteed"
   },
   {
     "name": "endless spikes",
     "points": 519,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/endless-spikes.png",
+    "image": "character-ability-cards/SU/gh-endless-spikes.png",
     "xws": "endlessspikes"
   },
   {
     "name": "nail spheres",
     "points": 520,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/endless-spikes.png",
+    "image": "character-ability-cards/SU/gh-endless-spikes.png",
     "xws": "endlessspikes"
   },
   {
     "name": "ethereal vines",
     "points": 521,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/ethereal-vines.png",
+    "image": "character-ability-cards/SU/gh-ethereal-vines.png",
     "xws": "etherealvines"
   },
   {
     "name": "forged ferocity",
     "points": 522,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/forged-ferocity.png",
+    "image": "character-ability-cards/SU/gh-forged-ferocity.png",
     "xws": "forgedferocity"
   },
   {
     "name": "iron beast",
     "points": 523,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/forged-ferocity.png",
+    "image": "character-ability-cards/SU/gh-forged-ferocity.png",
     "xws": "forgedferocity"
   },
   {
     "name": "grasping the void",
     "points": 524,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/grasping-the-void.png",
+    "image": "character-ability-cards/SU/gh-grasping-the-void.png",
     "xws": "graspingthevoid"
   },
   {
     "name": "horned majesty",
     "points": 525,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/horned-majesty.png",
+    "image": "character-ability-cards/SU/gh-horned-majesty.png",
     "xws": "hornedmajesty"
   },
   {
     "name": "black unicorn",
     "points": 526,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/horned-majesty.png",
+    "image": "character-ability-cards/SU/gh-horned-majesty.png",
     "xws": "hornedmajesty"
   },
   {
     "name": "inexorable momentum",
     "points": 527,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/inexorable-momentum.png",
+    "image": "character-ability-cards/SU/gh-inexorable-momentum.png",
     "xws": "inexorablemomentum"
   },
   {
     "name": "interplanar mastery",
     "points": 528,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/interplanar-mastery.png",
+    "image": "character-ability-cards/SU/gh-interplanar-mastery.png",
     "xws": "interplanarmastery"
   },
   {
     "name": "intervening apparitions",
     "points": 529,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/intervening-apparitions.png",
+    "image": "character-ability-cards/SU/gh-intervening-apparitions.png",
     "xws": "interveningapparitions"
   },
   {
     "name": "leathery wings",
     "points": 530,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/leathery-wings.png",
+    "image": "character-ability-cards/SU/gh-leathery-wings.png",
     "xws": "leatherywings"
   },
   {
     "name": "bat swarm",
     "points": 531,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/leathery-wings.png",
+    "image": "character-ability-cards/SU/gh-leathery-wings.png",
     "xws": "leatherywings"
   },
   {
     "name": "living mountain",
     "points": 532,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/living-mountain.png",
+    "image": "character-ability-cards/SU/gh-living-mountain.png",
     "xws": "livingmountain"
   },
   {
     "name": "rock colossus",
     "points": 533,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/living-mountain.png",
+    "image": "character-ability-cards/SU/gh-living-mountain.png",
     "xws": "livingmountain"
   },
   {
     "name": "living night",
     "points": 534,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/living-night.png",
+    "image": "character-ability-cards/SU/gh-living-night.png",
     "xws": "livingnight"
   },
   {
     "name": "shadow wolves",
     "points": 535,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/living-night.png",
+    "image": "character-ability-cards/SU/gh-living-night.png",
     "xws": "livingnight"
   },
   {
     "name": "mighty bond",
     "points": 536,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/mighty-bond.png",
+    "image": "character-ability-cards/SU/gh-mighty-bond.png",
     "xws": "mightybond"
   },
   {
     "name": "negative energy",
     "points": 537,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/negative-energy.png",
+    "image": "character-ability-cards/SU/gh-negative-energy.png",
     "xws": "negativeenergy"
   },
   {
     "name": "void eater",
     "points": 538,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/negative-energy.png",
+    "image": "character-ability-cards/SU/gh-negative-energy.png",
     "xws": "negativeenergy"
   },
   {
     "name": "oozing manifestation",
     "points": 539,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/oozing-manifestation.png",
+    "image": "character-ability-cards/SU/gh-oozing-manifestation.png",
     "xws": "oozingmanifestation"
   },
   {
     "name": "slime spirit",
     "points": 540,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/oozing-manifestation.png",
+    "image": "character-ability-cards/SU/gh-oozing-manifestation.png",
     "xws": "oozingmanifestation"
   },
   {
     "name": "otherworldly rage",
     "points": 541,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/otherworldly-rage.png",
+    "image": "character-ability-cards/SU/gh-otherworldly-rage.png",
     "xws": "otherworldlyrage"
   },
   {
     "name": "staff of visions",
     "points": 542,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/staff-of-visions.png",
+    "image": "character-ability-cards/SU/gh-staff-of-visions.png",
     "xws": "staffofvisions"
   },
   {
     "name": "strength in numbers",
     "points": 543,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/strength-in-numbers.png",
+    "image": "character-ability-cards/SU/gh-strength-in-numbers.png",
     "xws": "strengthinnumbers"
   },
   {
     "name": "su-back",
     "points": 544,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/su-back.png",
+    "image": "character-ability-cards/SU/gh-su-back.png",
     "xws": "suback"
   },
   {
     "name": "tear the fabric",
     "points": 545,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/tear-the-fabric.png",
+    "image": "character-ability-cards/SU/gh-tear-the-fabric.png",
     "xws": "tearthefabric"
   },
   {
     "name": "unending dominance",
     "points": 546,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/unending-dominance.png",
+    "image": "character-ability-cards/SU/gh-unending-dominance.png",
     "xws": "unendingdominance"
   },
   {
     "name": "lava golem",
     "points": 547,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/unending-dominance.png",
+    "image": "character-ability-cards/SU/gh-unending-dominance.png",
     "xws": "unendingdominance"
   },
   {
     "name": "unwavering hand",
     "points": 548,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/unwavering-hand.png",
+    "image": "character-ability-cards/SU/gh-unwavering-hand.png",
     "xws": "unwaveringhand"
   },
   {
     "name": "volatile flame",
     "points": 549,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/volatile-flame.png",
+    "image": "character-ability-cards/SU/gh-volatile-flame.png",
     "xws": "volatileflame"
   },
   {
     "name": "living bomb",
     "points": 550,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/volatile-flame.png",
+    "image": "character-ability-cards/SU/gh-volatile-flame.png",
     "xws": "volatileflame"
   },
   {
     "name": "wild animation",
     "points": 551,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/wild-animation.png",
+    "image": "character-ability-cards/SU/gh-wild-animation.png",
     "xws": "wildanimation"
   },
   {
     "name": "thorn shooter",
     "points": 552,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SU/wild-animation.png",
+    "image": "character-ability-cards/SU/gh-wild-animation.png",
     "xws": "wildanimation"
   },
   {
     "name": "aid from the ether",
     "points": 553,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/aid-from-the-ether.png",
+    "image": "character-ability-cards/SW/gh-aid-from-the-ether.png",
     "xws": "aidfromtheether"
   },
   {
     "name": "mystic ally",
     "points": 554,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/aid-from-the-ether.png",
+    "image": "character-ability-cards/SW/gh-aid-from-the-ether.png",
     "xws": "aidfromtheether"
   },
   {
     "name": "black hole",
     "points": 555,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/black-hole.png",
+    "image": "character-ability-cards/SW/gh-black-hole.png",
     "xws": "blackhole"
   },
   {
     "name": "chromatic explosion",
     "points": 556,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/chromatic-explosion.png",
+    "image": "character-ability-cards/SW/gh-chromatic-explosion.png",
     "xws": "chromaticexplosion"
   },
   {
     "name": "cold fire",
     "points": 557,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/cold-fire.png",
+    "image": "character-ability-cards/SW/gh-cold-fire.png",
     "xws": "coldfire"
   },
   {
     "name": "cold front",
     "points": 558,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/cold-front.png",
+    "image": "character-ability-cards/SW/gh-cold-front.png",
     "xws": "coldfront"
   },
   {
     "name": "crackling air",
     "points": 559,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/crackling-air.png",
+    "image": "character-ability-cards/SW/gh-crackling-air.png",
     "xws": "cracklingair"
   },
   {
     "name": "elemental aid",
     "points": 560,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/elemental-aid.png",
+    "image": "character-ability-cards/SW/gh-elemental-aid.png",
     "xws": "elementalaid"
   },
   {
     "name": "engulfed in flames",
     "points": 561,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/engulfed-in-flames.png",
+    "image": "character-ability-cards/SW/gh-engulfed-in-flames.png",
     "xws": "engulfedinflames"
   },
   {
     "name": "fire orbs",
     "points": 562,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/fire-orbs.png",
+    "image": "character-ability-cards/SW/gh-fire-orbs.png",
     "xws": "fireorbs"
   },
   {
     "name": "flame strike",
     "points": 563,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/flame-strike.png",
+    "image": "character-ability-cards/SW/gh-flame-strike.png",
     "xws": "flamestrike"
   },
   {
     "name": "flashing burst",
     "points": 564,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/flashing-burst.png",
+    "image": "character-ability-cards/SW/gh-flashing-burst.png",
     "xws": "flashingburst"
   },
   {
     "name": "forked beam",
     "points": 565,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/forked-beam.png",
+    "image": "character-ability-cards/SW/gh-forked-beam.png",
     "xws": "forkedbeam"
   },
   {
     "name": "freezing nova",
     "points": 566,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/freezing-nova.png",
+    "image": "character-ability-cards/SW/gh-freezing-nova.png",
     "xws": "freezingnova"
   },
   {
     "name": "frost armor",
     "points": 567,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/frost-armor.png",
+    "image": "character-ability-cards/SW/gh-frost-armor.png",
     "xws": "frostarmor"
   },
   {
     "name": "frozen night",
     "points": 568,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/frozen-night.png",
+    "image": "character-ability-cards/SW/gh-frozen-night.png",
     "xws": "frozennight"
   },
   {
     "name": "hardened spikes",
     "points": 569,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/hardened-spikes.png",
+    "image": "character-ability-cards/SW/gh-hardened-spikes.png",
     "xws": "hardenedspikes"
   },
   {
     "name": "icy blast",
     "points": 570,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/icy-blast.png",
+    "image": "character-ability-cards/SW/gh-icy-blast.png",
     "xws": "icyblast"
   },
   {
     "name": "impaling eruption",
     "points": 571,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/impaling-eruption.png",
+    "image": "character-ability-cards/SW/gh-impaling-eruption.png",
     "xws": "impalingeruption"
   },
   {
     "name": "inferno",
     "points": 572,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/inferno.png",
+    "image": "character-ability-cards/SW/gh-inferno.png",
     "xws": "inferno"
   },
   {
     "name": "living torch",
     "points": 573,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/living-torch.png",
+    "image": "character-ability-cards/SW/gh-living-torch.png",
     "xws": "livingtorch"
   },
   {
     "name": "burning avatar",
     "points": 574,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/living-torch.png",
+    "image": "character-ability-cards/SW/gh-living-torch.png",
     "xws": "livingtorch"
   },
   {
     "name": "mana bolt",
     "points": 575,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/mana-bolt.png",
+    "image": "character-ability-cards/SW/gh-mana-bolt.png",
     "xws": "manabolt"
   },
   {
     "name": "reviving ether",
     "points": 576,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/reviving-ether.png",
+    "image": "character-ability-cards/SW/gh-reviving-ether.png",
     "xws": "revivingether"
   },
   {
     "name": "ride the wind",
     "points": 577,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/ride-the-wind.png",
+    "image": "character-ability-cards/SW/gh-ride-the-wind.png",
     "xws": "ridethewind"
   },
   {
     "name": "spirit of doom",
     "points": 578,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/spirit-of-doom.png",
+    "image": "character-ability-cards/SW/gh-spirit-of-doom.png",
     "xws": "spiritofdoom"
   },
   {
     "name": "stone fists",
     "points": 579,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/stone-fists.png",
+    "image": "character-ability-cards/SW/gh-stone-fists.png",
     "xws": "stonefists"
   },
   {
     "name": "sw-back",
     "points": 580,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/sw-back.png",
+    "image": "character-ability-cards/SW/gh-sw-back.png",
     "xws": "swback"
   },
   {
     "name": "twin restoration",
     "points": 581,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/twin-restoration.png",
+    "image": "character-ability-cards/SW/gh-twin-restoration.png",
     "xws": "twinrestoration"
   },
   {
     "name": "zephyr wings",
     "points": 582,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/SW/zephyr-wings.png",
+    "image": "character-ability-cards/SW/gh-zephyr-wings.png",
     "xws": "zephyrwings"
   },
   {
     "name": "auto turret",
     "points": 583,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/auto-turret.png",
+    "image": "character-ability-cards/TI/gh-auto-turret.png",
     "xws": "autoturret"
   },
   {
     "name": "chimeric formula",
     "points": 584,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/chimeric-formula.png",
+    "image": "character-ability-cards/TI/gh-chimeric-formula.png",
     "xws": "chimericformula"
   },
   {
     "name": "crank bow",
     "points": 585,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/crank-bow.png",
+    "image": "character-ability-cards/TI/gh-crank-bow.png",
     "xws": "crankbow"
   },
   {
     "name": "curative aerosol",
     "points": 586,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/curative-aerosol.png",
+    "image": "character-ability-cards/TI/gh-curative-aerosol.png",
     "xws": "curativeaerosol"
   },
   {
     "name": "dangerous contraption",
     "points": 587,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/dangerous-contraption.png",
+    "image": "character-ability-cards/TI/gh-dangerous-contraption.png",
     "xws": "dangerouscontraption"
   },
   {
     "name": "battle bot",
     "points": 588,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/dangerous-contraption.png",
+    "image": "character-ability-cards/TI/gh-dangerous-contraption.png",
     "xws": "dangerouscontraption"
   },
   {
     "name": "disintegration beam",
     "points": 589,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/disintegration-beam.png",
+    "image": "character-ability-cards/TI/gh-disintegration-beam.png",
     "xws": "disintegrationbeam"
   },
   {
     "name": "disorienting flash",
     "points": 590,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/disorienting-flash.png",
+    "image": "character-ability-cards/TI/gh-disorienting-flash.png",
     "xws": "disorientingflash"
   },
   {
     "name": "energizing tonic",
     "points": 591,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/energizing-tonic.png",
+    "image": "character-ability-cards/TI/gh-energizing-tonic.png",
     "xws": "energizingtonic"
   },
   {
     "name": "enhancement field",
     "points": 592,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/enhancement-field.png",
+    "image": "character-ability-cards/TI/gh-enhancement-field.png",
     "xws": "enhancementfield"
   },
   {
     "name": "flamethrower",
     "points": 593,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/flamethrower.png",
+    "image": "character-ability-cards/TI/gh-flamethrower.png",
     "xws": "flamethrower"
   },
   {
     "name": "gas canister",
     "points": 594,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/gas-canister.png",
+    "image": "character-ability-cards/TI/gh-gas-canister.png",
     "xws": "gascanister"
   },
   {
     "name": "harmless contraption",
     "points": 595,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/harmless-contraption.png",
+    "image": "character-ability-cards/TI/gh-harmless-contraption.png",
     "xws": "harmlesscontraption"
   },
   {
     "name": "decoy",
     "points": 596,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/harmless-contraption.png",
+    "image": "character-ability-cards/TI/gh-harmless-contraption.png",
     "xws": "harmlesscontraption"
   },
   {
     "name": "harsh stimulants",
     "points": 597,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/harsh-stimulants.png",
+    "image": "character-ability-cards/TI/gh-harsh-stimulants.png",
     "xws": "harshstimulants"
   },
   {
     "name": "hook gun",
     "points": 598,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/hook-gun.png",
+    "image": "character-ability-cards/TI/gh-hook-gun.png",
     "xws": "hookgun"
   },
   {
     "name": "ink bomb",
     "points": 599,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/ink-bomb.png",
+    "image": "character-ability-cards/TI/gh-ink-bomb.png",
     "xws": "inkbomb"
   },
   {
     "name": "jet propulsion",
     "points": 600,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/jet-propulsion.png",
+    "image": "character-ability-cards/TI/gh-jet-propulsion.png",
     "xws": "jetpropulsion"
   },
   {
     "name": "lethal injection",
     "points": 601,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/lethal-injection.png",
+    "image": "character-ability-cards/TI/gh-lethal-injection.png",
     "xws": "lethalinjection"
   },
   {
     "name": "micro bots",
     "points": 602,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/micro-bots.png",
+    "image": "character-ability-cards/TI/gh-micro-bots.png",
     "xws": "microbots"
   },
   {
     "name": "murderous contraption",
     "points": 603,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/murderous-contraption.png",
+    "image": "character-ability-cards/TI/gh-murderous-contraption.png",
     "xws": "murderouscontraption"
   },
   {
     "name": "kill bot",
     "points": 604,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/murderous-contraption.png",
+    "image": "character-ability-cards/TI/gh-murderous-contraption.png",
     "xws": "murderouscontraption"
   },
   {
     "name": "net shooter",
     "points": 605,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/net-shooter.png",
+    "image": "character-ability-cards/TI/gh-net-shooter.png",
     "xws": "netshooter"
   },
   {
     "name": "noxious vials",
     "points": 606,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/noxious-vials.png",
+    "image": "character-ability-cards/TI/gh-noxious-vials.png",
     "xws": "noxiousvials"
   },
   {
     "name": "potent potables",
     "points": 607,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/potent-potables.png",
+    "image": "character-ability-cards/TI/gh-potent-potables.png",
     "xws": "potentpotables"
   },
   {
     "name": "proximity mine",
     "points": 608,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/proximity-mine.png",
+    "image": "character-ability-cards/TI/gh-proximity-mine.png",
     "xws": "proximitymine"
   },
   {
     "name": "reinvigorating elixir",
     "points": 609,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/reinvigorating-elixir.png",
+    "image": "character-ability-cards/TI/gh-reinvigorating-elixir.png",
     "xws": "reinvigorating-elixir"
   },
   {
     "name": "restorative mist",
     "points": 610,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/restorative-mist.png",
+    "image": "character-ability-cards/TI/gh-restorative-mist.png",
     "xws": "restorativemist"
   },
   {
     "name": "reviving shock",
     "points": 611,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/reviving-shock.png",
+    "image": "character-ability-cards/TI/gh-reviving-shock.png",
     "xws": "revivingshock"
   },
   {
     "name": "stamina booster",
     "points": 612,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/stamina-booster.png",
+    "image": "character-ability-cards/TI/gh-stamina-booster.png",
     "xws": "staminabooster"
   },
   {
     "name": "stun shot",
     "points": 613,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/stun-shot.png",
+    "image": "character-ability-cards/TI/gh-stun-shot.png",
     "xws": "stunshot"
   },
   {
     "name": "ti-back",
     "points": 614,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/ti-back.png",
+    "image": "character-ability-cards/TI/gh-ti-back.png",
     "xws": "tiback"
   },
   {
     "name": "tinkerer's tools",
     "points": 615,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/tinkerers-tools.png",
+    "image": "character-ability-cards/TI/gh-tinkerers-tools.png",
     "xws": "tinkererstools"
   },
   {
     "name": "toxic bolt",
     "points": 616,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/toxic-bolt.png",
+    "image": "character-ability-cards/TI/gh-toxic-bolt.png",
     "xws": "toxicbolt"
   },
   {
     "name": "volatile concoction",
     "points": 617,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/TI/volatile-concoction.png",
+    "image": "character-ability-cards/TI/gh-volatile-concoction.png",
     "xws": "volatileconcoction"
   }
 ]
