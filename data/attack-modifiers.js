@@ -3603,5 +3603,782 @@
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/fc-am-dr-back.png",
     "xws": "fcamdrback"
+  },
+  {
+    "name": "fh-am-bb-01",
+    "points": 515,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-01.png",
+    "xws": "fhambb01"
+  },
+  {
+    "name": "fh-am-bb-02",
+    "points": 516,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-02.png",
+    "xws": "fhambb02"
+  },
+  {
+    "name": "fh-am-bb-03",
+    "points": 517,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-03.png",
+    "xws": "fhambb03"
+  },
+  {
+    "name": "fh-am-bb-04",
+    "points": 518,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-04.png",
+    "xws": "fhambb04"
+  },
+  {
+    "name": "fh-am-bb-05",
+    "points": 519,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-05.png",
+    "xws": "fhambb05"
+  },
+  {
+    "name": "fh-am-bb-06",
+    "points": 520,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-06.png",
+    "xws": "fhambb06"
+  },
+  {
+    "name": "fh-am-bb-07",
+    "points": 521,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-07.png",
+    "xws": "fhambb07"
+  },
+  {
+    "name": "fh-am-bb-08",
+    "points": 522,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-08.png",
+    "xws": "fhambb08"
+  },
+  {
+    "name": "fh-am-bb-09",
+    "points": 523,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-09.png",
+    "xws": "fhambb09"
+  },
+  {
+    "name": "fh-am-bb-10",
+    "points": 524,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-10.png",
+    "xws": "fhambb10"
+  },
+  {
+    "name": "fh-am-bb-11",
+    "points": 525,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-11.png",
+    "xws": "fhambb11"
+  },
+  {
+    "name": "fh-am-bb-12",
+    "points": 526,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-12.png",
+    "xws": "fhambb12"
+  },
+  {
+    "name": "fh-am-bb-13",
+    "points": 527,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-13.png",
+    "xws": "fhambb13"
+  },
+  {
+    "name": "fh-am-bb-14",
+    "points": 528,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-14.png",
+    "xws": "fhambb14"
+  },
+  {
+    "name": "fh-am-bb-15",
+    "points": 529,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-15.png",
+    "xws": "fhambb15"
+  },
+  {
+    "name": "fh-am-bb-back",
+    "points": 530,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BB/fh-am-bb-back.png",
+    "xws": "fhambbback"
+  },
+  {
+    "name": "fh-am-bn-01",
+    "points": 531,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-01.png",
+    "xws": "fhambn01"
+  },
+  {
+    "name": "fh-am-bn-02",
+    "points": 532,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-02.png",
+    "xws": "fhambn02"
+  },
+  {
+    "name": "fh-am-bn-03",
+    "points": 533,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-03.png",
+    "xws": "fhambn03"
+  },
+  {
+    "name": "fh-am-bn-04",
+    "points": 534,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-04.png",
+    "xws": "fhambn04"
+  },
+  {
+    "name": "fh-am-bn-05",
+    "points": 535,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-05.png",
+    "xws": "fhambn05"
+  },
+  {
+    "name": "fh-am-bn-06",
+    "points": 536,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-06.png",
+    "xws": "fhambn06"
+  },
+  {
+    "name": "fh-am-bn-07",
+    "points": 537,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-07.png",
+    "xws": "fhambn07"
+  },
+  {
+    "name": "fh-am-bn-08",
+    "points": 538,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-08.png",
+    "xws": "fhambn08"
+  },
+  {
+    "name": "fh-am-bn-09",
+    "points": 539,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-09.png",
+    "xws": "fhambn09"
+  },
+  {
+    "name": "fh-am-bn-10",
+    "points": 540,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-10.png",
+    "xws": "fhambn10"
+  },
+  {
+    "name": "fh-am-bn-11",
+    "points": 541,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-11.png",
+    "xws": "fhambn11"
+  },
+  {
+    "name": "fh-am-bn-12",
+    "points": 542,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-12.png",
+    "xws": "fhambn12"
+  },
+  {
+    "name": "fh-am-bn-13",
+    "points": 543,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-13.png",
+    "xws": "fhambn13"
+  },
+  {
+    "name": "fh-am-bn-14",
+    "points": 544,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-14.png",
+    "xws": "fhambn14"
+  },
+  {
+    "name": "fh-am-bn-15",
+    "points": 545,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-15.png",
+    "xws": "fhambn15"
+  },
+  {
+    "name": "fh-am-bn-16",
+    "points": 546,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-16.png",
+    "xws": "fhambn16"
+  },
+  {
+    "name": "fh-am-bn-17",
+    "points": 547,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-17.png",
+    "xws": "fhambn17"
+  },
+  {
+    "name": "fh-am-bn-18",
+    "points": 548,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-18.png",
+    "xws": "fhambn18"
+  },
+  {
+    "name": "fh-am-bn-back",
+    "points": 549,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BN/fh-am-bn-back.png",
+    "xws": "fhambnback"
+  },
+  {
+    "name": "fh-am-bo-01",
+    "points": 550,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-01.png",
+    "xws": "fhambo01"
+  },
+  {
+    "name": "fh-am-bo-02",
+    "points": 551,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-02.png",
+    "xws": "fhambo02"
+  },
+  {
+    "name": "fh-am-bo-03",
+    "points": 552,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-03.png",
+    "xws": "fhambo03"
+  },
+  {
+    "name": "fh-am-bo-04",
+    "points": 553,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-04.png",
+    "xws": "fhambo04"
+  },
+  {
+    "name": "fh-am-bo-05",
+    "points": 554,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-05.png",
+    "xws": "fhambo05"
+  },
+  {
+    "name": "fh-am-bo-06",
+    "points": 555,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-06.png",
+    "xws": "fhambo06"
+  },
+  {
+    "name": "fh-am-bo-07",
+    "points": 556,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-07.png",
+    "xws": "fhambo07"
+  },
+  {
+    "name": "fh-am-bo-08",
+    "points": 557,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-08.png",
+    "xws": "fhambo08"
+  },
+  {
+    "name": "fh-am-bo-09",
+    "points": 558,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-09.png",
+    "xws": "fhambo09"
+  },
+  {
+    "name": "fh-am-bo-10",
+    "points": 559,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-10.png",
+    "xws": "fhambo10"
+  },
+  {
+    "name": "fh-am-bo-11",
+    "points": 560,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-11.png",
+    "xws": "fhambo11"
+  },
+  {
+    "name": "fh-am-bo-12",
+    "points": 561,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-12.png",
+    "xws": "fhambo12"
+  },
+  {
+    "name": "fh-am-bo-13",
+    "points": 562,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-13.png",
+    "xws": "fhambo13"
+  },
+  {
+    "name": "fh-am-bo-back",
+    "points": 563,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/BO/fh-am-bo-back.png",
+    "xws": "fhamboback"
+  },
+  {
+    "name": "fh-am-df-01",
+    "points": 564,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-01.png",
+    "xws": "fhamdf01"
+  },
+  {
+    "name": "fh-am-df-02",
+    "points": 565,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-02.png",
+    "xws": "fhamdf02"
+  },
+  {
+    "name": "fh-am-df-03",
+    "points": 566,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-03.png",
+    "xws": "fhamdf03"
+  },
+  {
+    "name": "fh-am-df-04",
+    "points": 567,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-04.png",
+    "xws": "fhamdf04"
+  },
+  {
+    "name": "fh-am-df-05",
+    "points": 568,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-05.png",
+    "xws": "fhamdf05"
+  },
+  {
+    "name": "fh-am-df-06",
+    "points": 569,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-06.png",
+    "xws": "fhamdf06"
+  },
+  {
+    "name": "fh-am-df-07",
+    "points": 570,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-07.png",
+    "xws": "fhamdf07"
+  },
+  {
+    "name": "fh-am-df-08",
+    "points": 571,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-08.png",
+    "xws": "fhamdf08"
+  },
+  {
+    "name": "fh-am-df-09",
+    "points": 572,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-09.png",
+    "xws": "fhamdf09"
+  },
+  {
+    "name": "fh-am-df-10",
+    "points": 573,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-10.png",
+    "xws": "fhamdf10"
+  },
+  {
+    "name": "fh-am-df-11",
+    "points": 574,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-11.png",
+    "xws": "fhamdf11"
+  },
+  {
+    "name": "fh-am-df-12",
+    "points": 575,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-12.png",
+    "xws": "fhamdf12"
+  },
+  {
+    "name": "fh-am-df-13",
+    "points": 576,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-13.png",
+    "xws": "fhamdf13"
+  },
+  {
+    "name": "fh-am-df-14",
+    "points": 577,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-14.png",
+    "xws": "fhamdf14"
+  },
+  {
+    "name": "fh-am-df-15",
+    "points": 578,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-15.png",
+    "xws": "fhamdf15"
+  },
+  {
+    "name": "fh-am-df-16",
+    "points": 579,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-16.png",
+    "xws": "fhamdf16"
+  },
+  {
+    "name": "fh-am-df-17",
+    "points": 580,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-17.png",
+    "xws": "fhamdf17"
+  },
+  {
+    "name": "fh-am-df-18",
+    "points": 581,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-18.png",
+    "xws": "fhamdf18"
+  },
+  {
+    "name": "fh-am-df-19",
+    "points": 582,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-19.png",
+    "xws": "fhamdf19"
+  },
+  {
+    "name": "fh-am-df-20",
+    "points": 583,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-20.png",
+    "xws": "fhamdf20"
+  },
+  {
+    "name": "fh-am-df-21",
+    "points": 584,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-21.png",
+    "xws": "fhamdf21"
+  },
+  {
+    "name": "fh-am-df-22",
+    "points": 585,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-22.png",
+    "xws": "fhamdf22"
+  },
+  {
+    "name": "fh-am-df-back",
+    "points": 586,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DF/fh-am-df-back.png",
+    "xws": "fhamdfback"
+  },
+  {
+    "name": "fh-am-dw-01",
+    "points": 587,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-01.png",
+    "xws": "fhamdw01"
+  },
+  {
+    "name": "fh-am-dw-02",
+    "points": 588,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-02.png",
+    "xws": "fhamdw02"
+  },
+  {
+    "name": "fh-am-dw-03",
+    "points": 589,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-03.png",
+    "xws": "fhamdw03"
+  },
+  {
+    "name": "fh-am-dw-04",
+    "points": 590,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-04.png",
+    "xws": "fhamdw04"
+  },
+  {
+    "name": "fh-am-dw-05",
+    "points": 591,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-05.png",
+    "xws": "fhamdw05"
+  },
+  {
+    "name": "fh-am-dw-06",
+    "points": 592,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-06.png",
+    "xws": "fhamdw06"
+  },
+  {
+    "name": "fh-am-dw-07",
+    "points": 593,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-07.png",
+    "xws": "fhamdw07"
+  },
+  {
+    "name": "fh-am-dw-08",
+    "points": 594,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-08.png",
+    "xws": "fhamdw08"
+  },
+  {
+    "name": "fh-am-dw-09",
+    "points": 595,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-09.png",
+    "xws": "fhamdw09"
+  },
+  {
+    "name": "fh-am-dw-10",
+    "points": 596,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-10.png",
+    "xws": "fhamdw10"
+  },
+  {
+    "name": "fh-am-dw-11",
+    "points": 597,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-11.png",
+    "xws": "fhamdw11"
+  },
+  {
+    "name": "fh-am-dw-12",
+    "points": 598,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-12.png",
+    "xws": "fhamdw12"
+  },
+  {
+    "name": "fh-am-dw-13",
+    "points": 599,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-13.png",
+    "xws": "fhamdw13"
+  },
+  {
+    "name": "fh-am-dw-14",
+    "points": 600,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-14.png",
+    "xws": "fhamdw14"
+  },
+  {
+    "name": "fh-am-dw-15",
+    "points": 601,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-15.png",
+    "xws": "fhamdw15"
+  },
+  {
+    "name": "fh-am-dw-16",
+    "points": 602,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-16.png",
+    "xws": "fhamdw16"
+  },
+  {
+    "name": "fh-am-dw-17",
+    "points": 603,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-17.png",
+    "xws": "fhamdw17"
+  },
+  {
+    "name": "fh-am-dw-18",
+    "points": 604,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-18.png",
+    "xws": "fhamdw18"
+  },
+  {
+    "name": "fh-am-dw-19",
+    "points": 605,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-19.png",
+    "xws": "fhamdw19"
+  },
+  {
+    "name": "fh-am-dw-20",
+    "points": 606,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-20.png",
+    "xws": "fhamdw20"
+  },
+  {
+    "name": "fh-am-dw-back",
+    "points": 607,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/DW/fh-am-dw-back.png",
+    "xws": "fhamdwback"
+  },
+  {
+    "name": "fh-am-ge-01",
+    "points": 608,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-01.png",
+    "xws": "fhamge01"
+  },
+  {
+    "name": "fh-am-ge-02",
+    "points": 609,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-02.png",
+    "xws": "fhamge02"
+  },
+  {
+    "name": "fh-am-ge-03",
+    "points": 610,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-03.png",
+    "xws": "fhamge03"
+  },
+  {
+    "name": "fh-am-ge-04",
+    "points": 611,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-04.png",
+    "xws": "fhamge04"
+  },
+  {
+    "name": "fh-am-ge-05",
+    "points": 612,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-05.png",
+    "xws": "fhamge05"
+  },
+  {
+    "name": "fh-am-ge-06",
+    "points": 613,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-06.png",
+    "xws": "fhamge06"
+  },
+  {
+    "name": "fh-am-ge-07",
+    "points": 614,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-07.png",
+    "xws": "fhamge07"
+  },
+  {
+    "name": "fh-am-ge-08",
+    "points": 615,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-08.png",
+    "xws": "fhamge08"
+  },
+  {
+    "name": "fh-am-ge-09",
+    "points": 616,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-09.png",
+    "xws": "fhamge09"
+  },
+  {
+    "name": "fh-am-ge-10",
+    "points": 617,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-10.png",
+    "xws": "fhamge10"
+  },
+  {
+    "name": "fh-am-ge-11",
+    "points": 618,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-11.png",
+    "xws": "fhamge11"
+  },
+  {
+    "name": "fh-am-ge-12",
+    "points": 619,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-12.png",
+    "xws": "fhamge12"
+  },
+  {
+    "name": "fh-am-ge-13",
+    "points": 620,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-13.png",
+    "xws": "fhamge13"
+  },
+  {
+    "name": "fh-am-ge-14",
+    "points": 621,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-14.png",
+    "xws": "fhamge14"
+  },
+  {
+    "name": "fh-am-ge-15",
+    "points": 622,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-15.png",
+    "xws": "fhamge15"
+  },
+  {
+    "name": "fh-am-ge-16",
+    "points": 623,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-16.png",
+    "xws": "fhamge16"
+  },
+  {
+    "name": "fh-am-ge-17",
+    "points": 624,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-17.png",
+    "xws": "fhamge17"
+  },
+  {
+    "name": "fh-am-ge-back",
+    "points": 625,
+    "expansion": "Frosthaven",
+    "image": "attack-modifiers/GE/fh-am-ge-back.png",
+    "xws": "fhamgeback"
   }
 ]
