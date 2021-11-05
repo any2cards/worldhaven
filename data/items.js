@@ -3111,28 +3111,28 @@
     "name": "item 71",
     "points": 444,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-071-boots-of-levitation.png",
+    "image": "items/64-151/gh-071a-boots-of-levitation.png",
     "xws": "bootsoflevitation"
   },
   {
     "name": "item 071",
     "points": 445,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-071-boots-of-levitation.png",
+    "image": "items/64-151/gh-071a-boots-of-levitation.png",
     "xws": "bootsoflevitation"
   },
   {
     "name": "item #71",
     "points": 446,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-071-boots-of-levitation.png",
+    "image": "items/64-151/gh-071a-boots-of-levitation.png",
     "xws": "bootsoflevitation"
   },
   {
     "name": "item #071",
     "points": 447,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-071-boots-of-levitation.png",
+    "image": "items/64-151/gh-071a-boots-of-levitation.png",
     "xws": "bootsoflevitation"
   },
   {
@@ -3167,28 +3167,28 @@
     "name": "item 72",
     "points": 452,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-072-shoes-of-happiness.png",
+    "image": "items/64-151/gh-072a-shoes-of-happiness.png",
     "xws": "shoesofhappiness"
   },
   {
     "name": "item 072",
     "points": 453,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-072-shoes-of-happiness.png",
+    "image": "items/64-151/gh-072a-shoes-of-happiness.png",
     "xws": "shoesofhappiness"
   },
   {
     "name": "item #72",
     "points": 454,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-072-shoes-of-happiness.png",
+    "image": "items/64-151/gh-072a-shoes-of-happiness.png",
     "xws": "shoesofhappiness"
   },
   {
     "name": "item #072",
     "points": 455,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-072-shoes-of-happiness.png",
+    "image": "items/64-151/gh-072a-shoes-of-happiness.png",
     "xws": "shoesofhappiness"
   },
   {
@@ -3223,28 +3223,28 @@
     "name": "item 73",
     "points": 460,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-073-blinking-cape.png",
+    "image": "items/64-151/gh-073a-blinking-cape.png",
     "xws": "blinkingcape"
   },
   {
     "name": "item 073",
     "points": 461,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-073-blinking-cape.png",
+    "image": "items/64-151/gh-073a-blinking-cape.png",
     "xws": "blinkingcape"
   },
   {
     "name": "item #73",
     "points": 462,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-073-blinking-cape.png",
+    "image": "items/64-151/gh-073a-blinking-cape.png",
     "xws": "blinkingcape"
   },
   {
     "name": "item #073",
     "points": 463,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-073-blinking-cape.png",
+    "image": "items/64-151/gh-073a-blinking-cape.png",
     "xws": "blinkingcape"
   },
   {
@@ -3279,28 +3279,28 @@
     "name": "item 74",
     "points": 468,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-074-swordedge-armor.png",
+    "image": "items/64-151/gh-074a-swordedge-armor.png",
     "xws": "swordedgearmor"
   },
   {
     "name": "item 074",
     "points": 469,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-074-swordedge-armor.png",
+    "image": "items/64-151/gh-074a-swordedge-armor.png",
     "xws": "swordedgearmor"
   },
   {
     "name": "item #74",
     "points": 470,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-074-swordedge-armor.png",
+    "image": "items/64-151/gh-074a-swordedge-armor.png",
     "xws": "swordedgearmor"
   },
   {
     "name": "item #074",
     "points": 471,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-074-swordedge-armor.png",
+    "image": "items/64-151/gh-074a-swordedge-armor.png",
     "xws": "swordedgearmor"
   },
   {
@@ -3335,28 +3335,28 @@
     "name": "item 75",
     "points": 476,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-075-circlet-of-elements.png",
+    "image": "items/64-151/gh-075a-circlet-of-elements.png",
     "xws": "circletofelements"
   },
   {
     "name": "item 075",
     "points": 477,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-075-circlet-of-elements.png",
+    "image": "items/64-151/gh-075a-circlet-of-elements.png",
     "xws": "circletofelements"
   },
   {
     "name": "item #75",
     "points": 478,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-075-circlet-of-elements.png",
+    "image": "items/64-151/gh-075a-circlet-of-elements.png",
     "xws": "circletofelements"
   },
   {
     "name": "item #075",
     "points": 479,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-075-circlet-of-elements.png",
+    "image": "items/64-151/gh-075a-circlet-of-elements.png",
     "xws": "circletofelements"
   },
   {
@@ -3391,28 +3391,28 @@
     "name": "item 76",
     "points": 484,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-076-chain-hood.png",
+    "image": "items/64-151/gh-076a-chain-hood.png",
     "xws": "chainhood"
   },
   {
     "name": "item 076",
     "points": 485,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-076-chain-hood.png",
+    "image": "items/64-151/gh-076a-chain-hood.png",
     "xws": "chainhood"
   },
   {
     "name": "item #76",
     "points": 486,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-076-chain-hood.png",
+    "image": "items/64-151/gh-076a-chain-hood.png",
     "xws": "chainhood"
   },
   {
     "name": "item #076",
     "points": 487,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-076-chain-hood.png",
+    "image": "items/64-151/gh-076a-chain-hood.png",
     "xws": "chainhood"
   },
   {
@@ -3447,28 +3447,28 @@
     "name": "item 77",
     "points": 492,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-077-frigid-blade.png",
+    "image": "items/64-151/gh-077a-frigid-blade.png",
     "xws": "frigidblade"
   },
   {
     "name": "item 077",
     "points": 493,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-077-frigid-blade.png",
+    "image": "items/64-151/gh-077a-frigid-blade.png",
     "xws": "frigidblade"
   },
   {
     "name": "item #77",
     "points": 494,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-077-frigid-blade.png",
+    "image": "items/64-151/gh-077a-frigid-blade.png",
     "xws": "frigidblade"
   },
   {
     "name": "item #077",
     "points": 495,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-077-frigid-blade.png",
+    "image": "items/64-151/gh-077a-frigid-blade.png",
     "xws": "frigidblade"
   },
   {
@@ -3503,28 +3503,28 @@
     "name": "item 78",
     "points": 500,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-078-storm-blade.png",
+    "image": "items/64-151/gh-078a-storm-blade.png",
     "xws": "stormblade"
   },
   {
     "name": "item 078",
     "points": 501,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-078-storm-blade.png",
+    "image": "items/64-151/gh-078a-storm-blade.png",
     "xws": "stormblade"
   },
   {
     "name": "item #78",
     "points": 502,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-078-storm-blade.png",
+    "image": "items/64-151/gh-078a-storm-blade.png",
     "xws": "stormblade"
   },
   {
     "name": "item #078",
     "points": 503,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-078-storm-blade.png",
+    "image": "items/64-151/gh-078a-storm-blade.png",
     "xws": "stormblade"
   },
   {
@@ -3559,28 +3559,28 @@
     "name": "item 79",
     "points": 508,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-079-inferno-blade.png",
+    "image": "items/64-151/gh-079a-inferno-blade.png",
     "xws": "infernoblade"
   },
   {
     "name": "item 079",
     "points": 509,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-079-inferno-blade.png",
+    "image": "items/64-151/gh-079a-inferno-blade.png",
     "xws": "infernoblade"
   },
   {
     "name": "item #79",
     "points": 510,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-079-inferno-blade.png",
+    "image": "items/64-151/gh-079a-inferno-blade.png",
     "xws": "infernoblade"
   },
   {
     "name": "item #079",
     "points": 511,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-079-inferno-blade.png",
+    "image": "items/64-151/gh-079a-inferno-blade.png",
     "xws": "infernoblade"
   },
   {
@@ -3615,28 +3615,28 @@
     "name": "item 80",
     "points": 516,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-080-tremor-blade.png",
+    "image": "items/64-151/gh-080a-tremor-blade.png",
     "xws": "tremorblade"
   },
   {
     "name": "item 080",
     "points": 517,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-080-tremor-blade.png",
+    "image": "items/64-151/gh-080a-tremor-blade.png",
     "xws": "tremorblade"
   },
   {
     "name": "item #80",
     "points": 518,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-080-tremor-blade.png",
+    "image": "items/64-151/gh-080a-tremor-blade.png",
     "xws": "tremorblade"
   },
   {
     "name": "item #080",
     "points": 519,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-080-tremor-blade.png",
+    "image": "items/64-151/gh-080a-tremor-blade.png",
     "xws": "tremorblade"
   },
   {
@@ -3671,28 +3671,28 @@
     "name": "item 81",
     "points": 524,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-081-brilliant-blade.png",
+    "image": "items/64-151/gh-081a-brilliant-blade.png",
     "xws": "brilliantblade"
   },
   {
     "name": "item 081",
     "points": 525,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-081-brilliant-blade.png",
+    "image": "items/64-151/gh-081a-brilliant-blade.png",
     "xws": "brilliantblade"
   },
   {
     "name": "item #81",
     "points": 526,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-081-brilliant-blade.png",
+    "image": "items/64-151/gh-081a-brilliant-blade.png",
     "xws": "brilliantblade"
   },
   {
     "name": "item #081",
     "points": 527,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-081-brilliant-blade.png",
+    "image": "items/64-151/gh-081a-brilliant-blade.png",
     "xws": "brilliantblade"
   },
   {
@@ -3727,28 +3727,28 @@
     "name": "item 82",
     "points": 532,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-082-night-blade.png",
+    "image": "items/64-151/gh-082a-night-blade.png",
     "xws": "nightblade"
   },
   {
     "name": "item 082",
     "points": 533,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-082-night-blade.png",
+    "image": "items/64-151/gh-082a-night-blade.png",
     "xws": "nightblade"
   },
   {
     "name": "item #82",
     "points": 534,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-082-night-blade.png",
+    "image": "items/64-151/gh-082a-night-blade.png",
     "xws": "nightblade"
   },
   {
     "name": "item #082",
     "points": 535,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-082-night-blade.png",
+    "image": "items/64-151/gh-082a-night-blade.png",
     "xws": "nightblade"
   },
   {
@@ -3783,28 +3783,28 @@
     "name": "item 83",
     "points": 540,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-083-wand-of-frost.png",
+    "image": "items/64-151/gh-083a-wand-of-frost.png",
     "xws": "wandoffrost"
   },
   {
     "name": "item 083",
     "points": 541,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-083-wand-of-frost.png",
+    "image": "items/64-151/gh-083a-wand-of-frost.png",
     "xws": "wandoffrost"
   },
   {
     "name": "item #83",
     "points": 542,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-083-wand-of-frost.png",
+    "image": "items/64-151/gh-083a-wand-of-frost.png",
     "xws": "wandoffrost"
   },
   {
     "name": "item #083",
     "points": 543,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-083-wand-of-frost.png",
+    "image": "items/64-151/gh-083a-wand-of-frost.png",
     "xws": "wandoffrost"
   },
   {
@@ -3839,28 +3839,28 @@
     "name": "item 84",
     "points": 548,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-084-wand-of-storms.png",
+    "image": "items/64-151/gh-084a-wand-of-storms.png",
     "xws": "wandofstorms"
   },
   {
     "name": "item 084",
     "points": 549,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-084-wand-of-storms.png",
+    "image": "items/64-151/gh-084a-wand-of-storms.png",
     "xws": "wandofstorms"
   },
   {
     "name": "item #84",
     "points": 550,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-084-wand-of-storms.png",
+    "image": "items/64-151/gh-084a-wand-of-storms.png",
     "xws": "wandofstorms"
   },
   {
     "name": "item #084",
     "points": 551,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-084-wand-of-storms.png",
+    "image": "items/64-151/gh-084a-wand-of-storms.png",
     "xws": "wandofstorms"
   },
   {
@@ -3895,28 +3895,28 @@
     "name": "item 85",
     "points": 556,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-085-wand-of-infernos.png",
+    "image": "items/64-151/gh-085a-wand-of-infernos.png",
     "xws": "wandofinfernos"
   },
   {
     "name": "item 085",
     "points": 557,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-085-wand-of-infernos.png",
+    "image": "items/64-151/gh-085a-wand-of-infernos.png",
     "xws": "wandofinfernos"
   },
   {
     "name": "item #85",
     "points": 558,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-085-wand-of-infernos.png",
+    "image": "items/64-151/gh-085a-wand-of-infernos.png",
     "xws": "wandofinfernos"
   },
   {
     "name": "item #085",
     "points": 559,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-085-wand-of-infernos.png",
+    "image": "items/64-151/gh-085a-wand-of-infernos.png",
     "xws": "wandofinfernos"
   },
   {
@@ -3951,28 +3951,28 @@
     "name": "item 86",
     "points": 564,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-086-wand-of-tremors.png",
+    "image": "items/64-151/gh-086a-wand-of-tremors.png",
     "xws": "wandoftremors"
   },
   {
     "name": "item 086",
     "points": 565,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-086-wand-of-tremors.png",
+    "image": "items/64-151/gh-086a-wand-of-tremors.png",
     "xws": "wandoftremors"
   },
   {
     "name": "item #86",
     "points": 566,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-086-wand-of-tremors.png",
+    "image": "items/64-151/gh-086a-wand-of-tremors.png",
     "xws": "wandoftremors"
   },
   {
     "name": "item #086",
     "points": 567,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-086-wand-of-tremors.png",
+    "image": "items/64-151/gh-086a-wand-of-tremors.png",
     "xws": "wandoftremors"
   },
   {
@@ -4007,28 +4007,28 @@
     "name": "item 87",
     "points": 572,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-087-wand-of-brilliance.png",
+    "image": "items/64-151/gh-087a-wand-of-brilliance.png",
     "xws": "wandofbrilliance"
   },
   {
     "name": "item 087",
     "points": 573,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-087-wand-of-brilliance.png",
+    "image": "items/64-151/gh-087a-wand-of-brilliance.png",
     "xws": "wandofbrilliance"
   },
   {
     "name": "item #87",
     "points": 574,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-087-wand-of-brilliance.png",
+    "image": "items/64-151/gh-087a-wand-of-brilliance.png",
     "xws": "wandofbrilliance"
   },
   {
     "name": "item #087",
     "points": 575,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-087-wand-of-brilliance.png",
+    "image": "items/64-151/gh-087a-wand-of-brilliance.png",
     "xws": "wandofbrilliance"
   },
   {
@@ -4063,28 +4063,28 @@
     "name": "item 88",
     "points": 580,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-088-wand-of-darkness.png",
+    "image": "items/64-151/gh-088a-wand-of-darkness.png",
     "xws": "wandofdarkness"
   },
   {
     "name": "item 088",
     "points": 581,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-088-wand-of-darkness.png",
+    "image": "items/64-151/gh-088a-wand-of-darkness.png",
     "xws": "wandofdarkness"
   },
   {
     "name": "item #88",
     "points": 582,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-088-wand-of-darkness.png",
+    "image": "items/64-151/gh-088a-wand-of-darkness.png",
     "xws": "wandofdarkness"
   },
   {
     "name": "item #088",
     "points": 583,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-088-wand-of-darkness.png",
+    "image": "items/64-151/gh-088a-wand-of-darkness.png",
     "xws": "wandofdarkness"
   },
   {
@@ -4119,28 +4119,28 @@
     "name": "item 89",
     "points": 588,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-089-minor-cure-potion.png",
+    "image": "items/64-151/gh-089a-minor-cure-potion.png",
     "xws": "minorcurepotion"
   },
   {
     "name": "item 089",
     "points": 589,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-089-minor-cure-potion.png",
+    "image": "items/64-151/gh-089a-minor-cure-potion.png",
     "xws": "minorcurepotion"
   },
   {
     "name": "item #89",
     "points": 590,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-089-minor-cure-potion.png",
+    "image": "items/64-151/gh-089a-minor-cure-potion.png",
     "xws": "minorcurepotion"
   },
   {
     "name": "item #089",
     "points": 591,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-089-minor-cure-potion.png",
+    "image": "items/64-151/gh-089a-minor-cure-potion.png",
     "xws": "minorcurepotion"
   },
   {
@@ -4175,28 +4175,28 @@
     "name": "item 90",
     "points": 596,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-090-major-cure-potion.png",
+    "image": "items/64-151/gh-090a-major-cure-potion.png",
     "xws": "majorcurepotion"
   },
   {
     "name": "item 090",
     "points": 597,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-090-major-cure-potion.png",
+    "image": "items/64-151/gh-090a-major-cure-potion.png",
     "xws": "majorcurepotion"
   },
   {
     "name": "item #90",
     "points": 598,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-090-major-cure-potion.png",
+    "image": "items/64-151/gh-090a-major-cure-potion.png",
     "xws": "majorcurepotion"
   },
   {
     "name": "item #090",
     "points": 599,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-090-major-cure-potion.png",
+    "image": "items/64-151/gh-090a-major-cure-potion.png",
     "xws": "majorcurepotion"
   },
   {
@@ -4231,28 +4231,28 @@
     "name": "item 91",
     "points": 604,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-091-steel-ring.png",
+    "image": "items/64-151/gh-091a-steel-ring.png",
     "xws": "steelring"
   },
   {
     "name": "item 091",
     "points": 605,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-091-steel-ring.png",
+    "image": "items/64-151/gh-091a-steel-ring.png",
     "xws": "steelring"
   },
   {
     "name": "item #91",
     "points": 606,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-091-steel-ring.png",
+    "image": "items/64-151/gh-091a-steel-ring.png",
     "xws": "steelring"
   },
   {
     "name": "item #091",
     "points": 607,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-091-steel-ring.png",
+    "image": "items/64-151/gh-091a-steel-ring.png",
     "xws": "steelring"
   },
   {
@@ -4287,28 +4287,28 @@
     "name": "item 92",
     "points": 612,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-092-dampening-ring.png",
+    "image": "items/64-151/gh-092a-dampening-ring.png",
     "xws": "dampeningring"
   },
   {
     "name": "item 092",
     "points": 613,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-092-dampening-ring.png",
+    "image": "items/64-151/gh-092a-dampening-ring.png",
     "xws": "dampeningring"
   },
   {
     "name": "item #92",
     "points": 614,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-092-dampening-ring.png",
+    "image": "items/64-151/gh-092a-dampening-ring.png",
     "xws": "dampeningring"
   },
   {
     "name": "item #092",
     "points": 615,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-092-dampening-ring.png",
+    "image": "items/64-151/gh-092a-dampening-ring.png",
     "xws": "dampeningring"
   },
   {
@@ -4343,28 +4343,28 @@
     "name": "item 93",
     "points": 620,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-093-scroll-of-power.png",
+    "image": "items/64-151/gh-093a-scroll-of-power.png",
     "xws": "scrollofpower"
   },
   {
     "name": "item 093",
     "points": 621,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-093-scroll-of-power.png",
+    "image": "items/64-151/gh-093a-scroll-of-power.png",
     "xws": "scrollofpower"
   },
   {
     "name": "item #93",
     "points": 622,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-093-scroll-of-power.png",
+    "image": "items/64-151/gh-093a-scroll-of-power.png",
     "xws": "scrollofpower"
   },
   {
     "name": "item #093",
     "points": 623,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-093-scroll-of-power.png",
+    "image": "items/64-151/gh-093a-scroll-of-power.png",
     "xws": "scrollofpower"
   },
   {
@@ -4399,28 +4399,28 @@
     "name": "item 94",
     "points": 628,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-094-scroll-of-healing.png",
+    "image": "items/64-151/gh-094a-scroll-of-healing.png",
     "xws": "scrollofhealing"
   },
   {
     "name": "item 094",
     "points": 629,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-094-scroll-of-healing.png",
+    "image": "items/64-151/gh-094a-scroll-of-healing.png",
     "xws": "scrollofhealing"
   },
   {
     "name": "item #94",
     "points": 630,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-094-scroll-of-healing.png",
+    "image": "items/64-151/gh-094a-scroll-of-healing.png",
     "xws": "scrollofhealing"
   },
   {
     "name": "item #094",
     "points": 631,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-094-scroll-of-healing.png",
+    "image": "items/64-151/gh-094a-scroll-of-healing.png",
     "xws": "scrollofhealing"
   },
   {
@@ -4455,28 +4455,28 @@
     "name": "item 95",
     "points": 636,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-095-scroll-of-stamina.png",
+    "image": "items/64-151/gh-095a-scroll-of-stamina.png",
     "xws": "scrollofstamina"
   },
   {
     "name": "item 095",
     "points": 637,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-095-scroll-of-stamina.png",
+    "image": "items/64-151/gh-095a-scroll-of-stamina.png",
     "xws": "scrollofstamina"
   },
   {
     "name": "item #95",
     "points": 638,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-095-scroll-of-stamina.png",
+    "image": "items/64-151/gh-095a-scroll-of-stamina.png",
     "xws": "scrollofstamina"
   },
   {
     "name": "item #095",
     "points": 639,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-095-scroll-of-stamina.png",
+    "image": "items/64-151/gh-095a-scroll-of-stamina.png",
     "xws": "scrollofstamina"
   },
   {
