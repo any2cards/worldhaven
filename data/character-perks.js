@@ -56,164 +56,164 @@
     "xws": "cragheartperks"
   },
   {
-    "name": "diviner perks",
-    "points": 8,
-    "expansion": "Forgotten Circles",
-    "image": "character-perks/fc-diviner-perks.png",
-    "xws": "divinerperks"
-  },
-  {
     "name": "doomstalker perks",
-    "points": 9,
+    "points": 8,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-doomstalker-perks.png",
     "xws": "doomstalkerperks"
   },
   {
     "name": "angry face perks",
-    "points": 10,
+    "points": 9,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-doomstalker-perks.png",
     "xws": "doomstalkerperks"
   },
   {
     "name": "elementalist perks",
-    "points": 11,
+    "points": 10,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-elementalist-perks.png",
     "xws": "elementalistperks"
   },
   {
     "name": "triangles perks",
-    "points": 12,
+    "points": 11,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-elementalist-perks.png",
     "xws": "elementalistperks"
   },
   {
     "name": "mindthief perks",
-    "points": 13,
+    "points": 12,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-mindthief-perks.png",
     "xws": "mindthiefperks"
   },
   {
     "name": "nightshroud perks",
-    "points": 14,
+    "points": 13,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-nightshroud-perks.png",
     "xws": "nightshroudperks"
   },
   {
     "name": "eclipse perks",
-    "points": 15,
+    "points": 14,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-nightshroud-perks.png",
     "xws": "nightshroudperks"
   },
   {
     "name": "plagueherald perks",
-    "points": 16,
+    "points": 15,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-plagueherald-perks.png",
     "xws": "plagueheraldperks"
   },
   {
     "name": "cthulhu perks",
-    "points": 17,
+    "points": 16,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-plagueherald-perks.png",
     "xws": "plagueheraldperks"
   },
   {
     "name": "quartermaster perks",
-    "points": 18,
+    "points": 17,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-quartermaster-perks.png",
     "xws": "quartermasterperks"
   },
   {
     "name": "three spears perks",
-    "points": 19,
+    "points": 18,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-quartermaster-perks.png",
     "xws": "quartermasterperks"
   },
   {
     "name": "sawbones perks",
-    "points": 20,
+    "points": 19,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-sawbones-perks.png",
     "xws": "sawbonesperks"
   },
   {
     "name": "saw perks",
-    "points": 21,
+    "points": 20,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-sawbones-perks.png",
     "xws": "sawbonesperks"
   },
   {
     "name": "scoundrel perks",
-    "points": 22,
+    "points": 21,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-scoundrel-perks.png",
     "xws": "scoundrelperks"
   },
   {
     "name": "soothsinger perks",
-    "points": 23,
+    "points": 22,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-soothsinger-perks.png",
     "xws": "soothsingerperks"
   },
   {
     "name": "music note perks",
-    "points": 24,
+    "points": 23,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-soothsinger-perks.png",
     "xws": "soothsingerperks"
   },
   {
     "name": "spellweaver perks",
-    "points": 25,
+    "points": 24,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-spellweaver-perks.png",
     "xws": "spellweaverperks"
   },
   {
     "name": "summoner perks",
-    "points": 26,
+    "points": 25,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-summoner-perks.png",
     "xws": "summonerperks"
   },
   {
     "name": "circles perks",
-    "points": 27,
+    "points": 26,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-summoner-perks.png",
     "xws": "summonerperks"
   },
   {
     "name": "sunkeeper perks",
-    "points": 28,
+    "points": 27,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-sunkeeper-perks.png",
     "xws": "sunkeeperperks"
   },
   {
     "name": "sun perks",
-    "points": 29,
+    "points": 28,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-sunkeeper-perks.png",
     "xws": "sunkeeperperks"
   },
   {
     "name": "tinkerer perks",
-    "points": 30,
+    "points": 29,
     "expansion": "Gloomhaven",
     "image": "character-perks/gh-tinkerer-perks.png",
     "xws": "tinkererperks"
+  },
+  {
+    "name": "diviner perks",
+    "points": 30,
+    "expansion": "Forgotten Circles",
+    "image": "character-perks/fc-diviner-perks.png",
+    "xws": "divinerperks"
   }
 ]
