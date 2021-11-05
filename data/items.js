@@ -2985,7 +2985,7 @@
     "name": "item 68",
     "points": 426,
     "expansion": "Gloomhaven",
-    "image": "items/64-151/gh-068-alberd.png",
+    "image": "items/64-151/gh-068-halberd.png",
     "xws": "halberd"
   },
   {
