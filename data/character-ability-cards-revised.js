@@ -285,33 +285,5 @@
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards-revised/DR/fc-planar-fissure.png",
     "xws": "planarfissure"
-  },
-  {
-    "name": "halt-bottom-back",
-    "points": 41,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/fc-halt-bottom-back.png",
-    "xws": "haltbottomback"
-  },
-  {
-    "name": "halt-bottom-front",
-    "points": 42,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/fc-halt-bottom-front.png",
-    "xws": "haltbottomfront"
-  },
-  {
-    "name": "halt-top-back",
-    "points": 43,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/fc-halt-top-back.png",
-    "xws": "halttopback"
-  },
-  {
-    "name": "halt-top-front",
-    "points": 44,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/fc-halt-top-front.png",
-    "xws": "halttopfront"
   }
 ]
