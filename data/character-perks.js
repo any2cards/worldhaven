@@ -215,5 +215,47 @@
     "expansion": "Forgotten Circles",
     "image": "character-perks/fc-diviner-perks.png",
     "xws": "divinerperks"
+  },
+  {
+    "name": "banner spear perks",
+    "points": 31,
+    "expansion": "Frosthaven",
+    "image": "character-perks/fh-banner-spear-perks.png",
+    "xws": "bannerspearperks"
+  },
+  {
+    "name": "blinkblade perks",
+    "points": 32,
+    "expansion": "Frosthaven",
+    "image": "character-perks/fh-blinkblade-perks.png",
+    "xws": "blinkbladeperks"
+  },
+  {
+    "name": "boneshaper perks",
+    "points": 33,
+    "expansion": "Frosthaven",
+    "image": "character-perks/fh-boneshaper-perks.png",
+    "xws": "boneshaperperks"
+  },
+  {
+    "name": "deathwalker perks",
+    "points": 34,
+    "expansion": "Frosthaven",
+    "image": "character-perks/fh-deathwalker-perks.png",
+    "xws": "deathwalkerperks"
+  },
+  {
+    "name": "drifter perks",
+    "points": 35,
+    "expansion": "Frosthaven",
+    "image": "character-perks/fh-drifter-perks.png",
+    "xws": "drifterperks"
+  },
+  {
+    "name": "geminate perks",
+    "points": 36,
+    "expansion": "Frosthaven",
+    "image": "character-perks/fh-geminate-perks.png",
+    "xws": "geminateperks"
   }
 ]
