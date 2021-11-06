@@ -11,7 +11,6 @@
 		<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
 		<!-- link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/font-awesome.min.css" -->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 		<style>
 			.cdcRed {
 				color:red;
@@ -22,7 +21,7 @@
 			h1 .fa, h2 .fa, h3 .fa {
 				font-size: 10px;
 			}
-			.textzone {
+			.TextZone {
 				//to be used for custom display of the text;
 				padding-left: 40px;
 			}
@@ -46,7 +45,6 @@
 				Text-decoration: underline;
 			}
 		</style>
-
 		<script>
 			// at statup hide all
 			function Initialize(){
@@ -58,24 +56,24 @@
 					var Icon = $(this).children().first();
 
 					//catch zone do expand collapse
-					var Linkedtextzone = $(this).next();
+					var LinkedTextZone = $(this).next();
 
 					if (Icon.hasClass('fa-plus')) {
 						//switch icon from + to -
 						Icon.removeClass('fa-plus').addClass('fa-minus');
 						//expand text Zone
-						Linkedtextzone.slideDown();
+						LinkedTextZone.slideDown();
 					}
 					else {
 						//switch icon from - to +
 						Icon.removeClass('fa-minus').addClass('fa-plus');
 						//collapse text Zone
-						Linkedtextzone.slideUp();
+						LinkedTextZone.slideUp();
 					}
 				})
 				$(".title").click(function() {
 					var Icon = $(this).children().first();
-					var $Alltextzones = $('.accordion h1, h2, h3');
+					var $AllTextZones = $('.accordion h1, h2, h3');
 					if (Icon.hasClass('fa-minus')) {
 						//switch all icons from + to -
 						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');
@@ -83,7 +81,7 @@
 						Icon.removeClass('fa-minus').addClass('fa-plus');
 
 						//expand all
-						$Alltextzones.next('div').slideDown();
+						$AllTextZones.next('div').slideDown();
 					}
 					else {
 						//switch all icons from - to +
@@ -92,13 +90,12 @@
 						Icon.removeClass('fa-plus').addClass('fa-minus');
 
 						//collapse all
-						$Alltextzones.next('div').slideUp();
+						$AllTextZones.next('div').slideUp();
 					}
 				})
 			}
 		</script>
 	</head>
-
 	<body onload="Initialize()">
 		<div class="title">
 			<i class="fa fa-minus"></i>
@@ -106,55 +103,22 @@
 			to All
 		</div>
 
-		<h1 align="center"> Worldhaven Asset Viewer - Test Page</h1>
-		<h1 align="center"> (Supports Gloomhaven, Forgotten Circles, Frosthaven, Jaws of the Lion, and User Community Content)</h1>
-		<h1 align="center" class="cdcRed">User Community Content: Entire Sections or Individual Entries Appear in RED Text</h1>
+        <h1 align="center"> Worldhaven Asset Viewer - Test Page</h1>
+        <h1 align="center"> (Supports Gloomhaven, Forgotten Circles, Frosthaven, Jaws of the Lion, and User Community Content)</h1>
+        <h1 align="center" class="cdcRed"> 		User Community Content: Entire Sections or Individual Entries Appear in RED Text </h1>
 
-		<div class="accordion textzone">
-			<h1><i class="fa fa-plus"></i> Gloomhaven </h1>
-			<div class="accordion textzone">
-				<h1><i class="fa fa-plus"></i> Test Page: Completely Spoiler Free </h1>
-				<div class="accordion textzone">
-					<h1><i class="fa fa-plus"></i> Attack Modifiers </h1>
-					<div class="accordion textzone">
-						<h2><i class="fa fa-plus"></i> Base </h2>
-						<div class="accordion textzone">
-							<h3><i class="fa fa-plus"></i> Monster </h3>
-							<div class="accordion textzone">
-								<table class="table-padded">
-									<tr><td>gh-am-m-back</td></tr>
-									<tr><td>&nbsp</td></tr>
-									<tr><td>gh-am-m-01</td><td>gh-am-m-06</td><td>gh-am-m-11</td><td>gh-am-m-16</td></tr>
-									<tr><td>gh-am-m-02</td><td>gh-am-m-07</td><td>gh-am-m-12</td><td>gh-am-m-17</td></tr>
-									<tr><td>gh-am-m-03</td><td>gh-am-m-08</td><td>gh-am-m-13</td><td>gh-am-m-18</td></tr>
-									<tr><td>gh-am-m-04</td><td>gh-am-m-09</td><td>gh-am-m-14</td><td>gh-am-m-19</td></tr>
-									<tr><td>gh-am-m-05</td><td>gh-am-m-10</td><td>gh-am-m-15</td><td>gh-am-m-20</td></tr>
-								</table>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</body>
-</html>
-
-
-
-
-<!--
-		<div class="accordion textzone">
+		<div class="accordion">
 			<h1><i class="fa fa-plus"></i> Test Page: Completely Spoiler Free </h1>
-			<div class="textzone">
+			<div class="TextZone">
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Attack Modifiers </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Base </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<div class="accordion">
 									<h3><i class="fa fa-plus"></i> Monster </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-m-back</td></tr>
@@ -178,7 +142,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Monster Mod </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-mm-back</td></tr>
@@ -202,7 +166,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-p1-back</td></tr>
@@ -240,7 +204,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player Mod </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-pm-back</td></tr>
@@ -273,7 +237,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bn-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -287,7 +251,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -301,7 +265,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -315,7 +279,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-br-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -329,7 +293,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ch-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -343,7 +307,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-dw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -357,7 +321,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Demolitionist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-de-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -369,7 +333,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-am-dr-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -383,7 +347,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-df-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -397,7 +361,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-ge-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -411,7 +375,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hatchet </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-ha-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -423,7 +387,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-mt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -437,7 +401,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Red Guard </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-rg-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -449,7 +413,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -463,7 +427,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -477,7 +441,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ti-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -491,7 +455,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Voidwarden </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-vw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -503,7 +467,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Angry Face </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ds-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -517,7 +481,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Circles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-su-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -531,7 +495,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cthulhu </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ph-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -545,7 +509,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Eclipse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ns-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -559,7 +523,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lightning Bolt </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-be-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -573,7 +537,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Music Note </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ss-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -587,7 +551,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Saw </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -601,7 +565,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sun </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sk-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -615,7 +579,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Triangles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-el-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -629,7 +593,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Three Spears </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-qm-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -643,7 +607,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Two Minis </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-bt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -660,7 +624,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Battle Goals </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Gloomhaven</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -677,10 +641,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards - By Name (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BN-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -703,7 +667,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -722,7 +686,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BO-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -745,7 +709,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -764,7 +728,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>CH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -783,7 +747,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -804,7 +768,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -825,7 +789,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DF-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -844,7 +808,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>GE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -863,7 +827,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>MT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -884,7 +848,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SC-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -903,7 +867,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -924,7 +888,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>TI-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -945,7 +909,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Angry Face </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -967,7 +931,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Circles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SU-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -991,7 +955,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cthulhu </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>PH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1010,7 +974,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Eclipse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>NS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1029,7 +993,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lightning Bolt</h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1048,7 +1012,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Music Note </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1067,7 +1031,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Saw </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1088,7 +1052,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sun </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SK-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1107,7 +1071,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Three Spears </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>QM-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1126,7 +1090,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Triangles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>EL-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1147,7 +1111,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Two Minis </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1175,10 +1139,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards - By Level (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BN-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1206,7 +1170,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1234,7 +1198,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BO-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1262,7 +1226,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1290,7 +1254,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>CH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1318,7 +1282,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1346,7 +1310,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1374,7 +1338,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DF-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1403,7 +1367,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>GE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1431,7 +1395,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>MT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1459,7 +1423,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SC-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1487,7 +1451,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1515,7 +1479,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>TI-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1543,7 +1507,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Angry Face </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1571,7 +1535,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Circles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SU-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1599,7 +1563,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cthulhu </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>PH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1627,7 +1591,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Eclipse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>NS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1655,7 +1619,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lightning Bolt</h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1683,7 +1647,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Music Note </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1711,7 +1675,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Saw </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1739,7 +1703,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sun </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SK-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1767,7 +1731,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Three Spears </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>QM-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1795,7 +1759,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Triangles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>EL-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1823,7 +1787,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Two Minis </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -1856,7 +1820,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Mats </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Banner Spear</td><td>Deathwalker</td><td>Scoundrel</td><td>Cthulhu</td><td>Sun</td></tr>
 							<tr><td>Blinkblade</td><td>Diviner</td><td>Spellweaver</td><td>Eclipse</td><td>Three Spears</td></tr>
@@ -1869,7 +1833,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Perks </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Party Sheet</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -1884,10 +1848,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Events (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> City </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ce-01-f | gh-ce-01-b</td><td>gh-ce-26-f | gh-ce-26-b</td><td>gh-ce-51-f | gh-ce-51-b</td><td>gh-ce-76-f | gh-ce-76-b</td></tr>
 									<tr><td>gh-ce-02-f | gh-ce-02-b</td><td>gh-ce-27-f | gh-ce-27-b</td><td>gh-ce-52-f | gh-ce-52-b</td><td>gh-ce-77-f | gh-ce-77-b</td></tr>
@@ -1919,7 +1883,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Rift </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-rf-01-f | fc-rf-01-b</td><td>fc-rf-06-f | fc-rf-06-b</td><td>fc-rf-11-f | fc-rf-11-b</td><td>fc-rf-16-f | fc-rf-16-b</td></tr>
 									<tr><td>fc-rf-02-f | fc-rf-02-b</td><td>fc-rf-07-f | fc-rf-07-b</td><td>fc-rf-12-f | fc-rf-12-b</td><td>fc-rf-17-f | fc-rf-17-b</td></tr>
@@ -1931,7 +1895,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Road </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-re-01-f | gh-re-01-b</td><td>gh-re-26-f | gh-re-26-b</td><td>gh-re-51-f | gh-re-51-b</td></tr>
 									<tr><td>gh-re-02-f | gh-re-02-b</td><td>gh-re-27-f | gh-re-27-b</td><td>gh-re-52-f | gh-re-52-b</td></tr>
@@ -1966,10 +1930,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items By Prosperity & Number </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 1: 1-14 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 1 | Item 01 | Item 001 | Item #1 | Item #01 | Item #001 | Boots Of Striding</td></tr>
 									<tr><td>Item 2 | Item 02 | Item 002 | Item #2 | Item #02 | Item #002 | Winged Shoes</td></tr>
@@ -1993,7 +1957,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 2: 15-21 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 15 | Item 015 | Item #15 | Item #015 | Boots Of Speed</td></tr>
 									<tr><td>Item 16 | Item 016 | Item #16 | Item #016 | Cloak Of Pockets</td></tr>
@@ -2007,7 +1971,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 3: 22-28 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 22 | Item 022 | Item #22 | Item #022 | Heavy Greaves</td></tr>
 									<tr><td>Item 23 | Item 023 | Item #23 | Item #023 | Chainmail</td></tr>
@@ -2021,7 +1985,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 4: 29-35 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 29 | Item 029 | Item #29 | Item #029 | Comfortable Shoes</td></tr>
 									<tr><td>Item 30 | Item 030 | Item #30 | Item #030 | Studded Leather</td></tr>
@@ -2035,7 +1999,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 5: 36-42 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 36 | Item 036 | Item #36 | Item #036 | Boots Of Dashing</td></tr>
 									<tr><td>Item 37 | Item 037 | Item #37 | Item #037 | Robes Of Evocation</td></tr>
@@ -2049,7 +2013,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 6: 43-49 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 43 | Item 043 | Item #43 | Item #043 | Boots Of Quickness</td></tr>
 									<tr><td>Item 44 | Item 044 | Item #44 | Item #044 | Splintmail</td></tr>
@@ -2063,7 +2027,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 7: 50-56 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 50 | Item 050 | Item #50 | Item #050 | Steel Sabatons</td></tr>
 									<tr><td>Item 51 | Item 051 | Item #51 | Item #051 | Shadow Armor</td></tr>
@@ -2077,7 +2041,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 8: 57-63 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 57 | Item 057 | Item #57 | Item #057 | Serene Sandals</td></tr>
 									<tr><td>Item 58 | Item 058 | Item #58 | Item #058 | Cloak Of Phasing</td></tr>
@@ -2091,7 +2055,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 9: 64-70 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 64 | Item 064 | Item #64 | Item #064 | Boots Of Sprinting</td></tr>
 									<tr><td>Item 65 | Item 065 | Item #65 | Item #065 | Platemail</td></tr>
@@ -2105,7 +2069,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Random Design: 71-95 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 71 | Item 071 | Item #71 | Item #071 | Boots Of Levitation</td></tr>
 									<tr><td>Item 72 | Item 072 | Item #72 | Item #072 | Shoes Of Happiness</td></tr>
@@ -2137,7 +2101,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scenario & Chests: 96-133 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 96 | Item 096 | Item #96 | Item #096 | Rocket Boots</td></tr>
 									<tr><td>Item 97 | Item 097 | Item #97 | Item #097 | Endurance Footwraps</td></tr>
@@ -2185,7 +2149,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Solo Scenarios: 134-150 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 134 | Item #134 | Imposing Blade</td></tr>
 									<tr><td>Item 135 | Item #135 | Focusing Ray</td></tr>
@@ -2209,7 +2173,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Forgotten Circles: 152-164 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 152 | Item #152 | Ring Of Duality</td></tr>
 									<tr><td>Item 153 | Item #153 | Minor Antidote</td></tr>
@@ -2232,7 +2196,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items By Name </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<table class="table-padded">
 								<tr><td>Amulet Of Life</td><td>Frigid Blade</td><td>Pendant Of Dark Pacts</td><td>Steel Sabatons</td></tr>
@@ -2287,7 +2251,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Map Tiles </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>a1a | a1b</td><td>d1a | d1b</td><td>i2a | i2b</td></tr>
 							<tr><td>a2a | a2b</td><td>d2a | d2b</td><td>j1a | j1b</td></tr>
@@ -2305,10 +2269,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Ability Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ancient Artillery </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-aa-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2321,7 +2285,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Archer (Bandit Archer, City Archer, Inox Archer) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ar-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2334,7 +2298,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ashblade (Aesther Ashblade) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-ab-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2347,7 +2311,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boss (Bandit Commander, Merciless Overseer, Inox Bodyguard, Captain Of The Guard, Jekserah, Prime Demon, Elder Drake, The Betrayer, The Colorless, The Sightless Eye, Dark Rider, Winged Horror, The Gloom) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-bo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2360,7 +2324,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Burrowing Blade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Burrowing Blade Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2373,7 +2337,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cave Bear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-cb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2386,7 +2350,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Chaos Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Chaos Demon Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2399,7 +2363,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cultist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-cu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2412,7 +2376,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deep Terror </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-dt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2425,7 +2389,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Earth Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ed-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2438,7 +2402,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Flame Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-fld-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2451,7 +2415,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Flaming Bladespinner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Flaming Bladespinner Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2464,7 +2428,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Frost Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-frd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2477,7 +2441,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Frozen Corpse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Frozen Corpse Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2490,7 +2454,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Giant Viper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-gv-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2503,7 +2467,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Guard (Bandit Guard, City Guard, Inox Guard) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-gu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2516,7 +2480,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Harrower Infester </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-hi-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2529,7 +2493,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hound </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ho-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2542,7 +2506,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ice Wraith </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Ice Wraith Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2555,7 +2519,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Imp (Forest Imp, Black Imp) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-im-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2568,7 +2532,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lightning Eel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lightning Eel Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2581,7 +2545,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Bones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2594,7 +2558,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Corpse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2607,7 +2571,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Doom </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Living Doom Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2620,7 +2584,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Spirit </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ls-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2633,7 +2597,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2646,7 +2610,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Clawcrusher </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Clawcrusher Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2659,7 +2623,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Mindsnipper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Mindsnipper Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2672,7 +2636,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Wavethrower </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Wavethrower Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2685,7 +2649,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Night Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-nd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2698,7 +2662,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ooze </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-oo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2711,7 +2675,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Piranha Pig </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Piranha Pig Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2724,7 +2688,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Rending Drake </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-rd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2737,7 +2701,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Robotic Boltshooter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Robotic Boltshooter Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2750,7 +2714,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ruined Machine </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Ruined Machine Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2763,7 +2727,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savage (Valrath Savage) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-sv-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2776,7 +2740,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savvas Icestorm </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-si-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2789,7 +2753,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savvas Lavaflow </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sl-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2802,7 +2766,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scout (Vermling Scout, Aesther Scout) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2815,7 +2779,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Shaman (Vermling Shaman) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sh-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2828,7 +2792,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Shrike Fiend </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Shrike Fiend Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2841,7 +2805,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spitting Drake </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-spd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2854,7 +2818,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Steel Automaton </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Steel Automaton Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2867,7 +2831,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Stone Golem </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sg-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2880,7 +2844,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sun Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sud-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2893,7 +2857,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tracker (Valrath Tracker) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-tr-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2906,7 +2870,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Wind Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-wd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -2922,7 +2886,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Stat Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Monster Stat Card Envelope 6</td><td>Monster Stat Card Envelope 10</td></tr>
 						</table>
@@ -2954,10 +2918,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Overlay Tokens </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Character Tokens </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Rift</td></tr>
 								</table>
@@ -2965,7 +2929,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Corridors </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Earth</td><td>Stone</td><td>Pressure Plate</td><td>Wood</td></tr>
 								</table>
@@ -2973,7 +2937,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Difficult Terrain </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Log</td><td>Rubble</td><td>Stairs</td><td>Water</td></tr>
 								</table>
@@ -2981,7 +2945,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doors </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Door</td></tr>
 								</table>
@@ -2989,7 +2953,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hazardous Terrain </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Hot Coals</td><td>Thorns</td></tr>
 								</table>
@@ -2997,7 +2961,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Obstacles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Altar</td><td>Cabinet</td><td>Nest</td><td>Stone Pillar</td><td>Wall Section</td></tr>
 									<tr><td>Barrel</td><td>Crate</td><td>Rock Column</td><td>Stump</td></tr>
@@ -3009,7 +2973,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Traps </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Trap</td></tr>
 								</table>
@@ -3017,7 +2981,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Treasures </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Coin</td><td>Treasure</td></tr>
 								</table>
@@ -3028,7 +2992,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Personal Quests </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>gh-pq-back</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -3043,7 +3007,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Player Aid Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Halt Bottom Front</td><td>Halt Top Front</td><td>Player Reference Front</td></tr>
 							<tr><td>Halt Bottom Back</td><td>Halt Top Back</td><td>Player Reference Back</td></tr>
@@ -3053,10 +3017,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Random Dungeons </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Dungeons </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Random Dungeon A-Back</td><td>Random Dungeon AB-Back</td><td>Random Dungeon B-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3070,7 +3034,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Monsters </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Random Dungeon Monster-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3087,7 +3051,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Random Scenarios </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Random Scenario Back</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -3100,7 +3064,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Summons </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Summons</td></tr>
 						</table>
@@ -3109,7 +3073,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> World Map </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Gloomhaven Map</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -3139,16 +3103,16 @@
 			</div>
 
 			<h1><i class="fa fa-plus"></i> Test Page: Envelope X (GH) & Envelope D (FC) Spoiler Free </h1>
-			<div class="textzone">
+			<div class="TextZone">
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Attack Modifiers </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Base </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<div class="accordion">
 									<h3><i class="fa fa-plus"></i> Monster </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-m-back</td></tr>
@@ -3172,7 +3136,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Monster Mod </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-mm-back</td></tr>
@@ -3196,7 +3160,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-p1-back</td></tr>
@@ -3234,7 +3198,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player Mod </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-pm-back</td></tr>
@@ -3267,7 +3231,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bn-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3281,7 +3245,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Beast Tyrant </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-bt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3295,7 +3259,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Berserker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-be-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3309,7 +3273,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3323,7 +3287,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3337,7 +3301,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-br-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3351,7 +3315,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ch-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3365,7 +3329,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-dw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3379,7 +3343,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Demolitionist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-de-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3391,7 +3355,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-am-dr-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3405,7 +3369,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doomstalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ds-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3419,7 +3383,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-df-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3433,7 +3397,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Elementalist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-el-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3447,7 +3411,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-ge-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3461,7 +3425,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hatchet </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-ha-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3473,7 +3437,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-mt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3487,7 +3451,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Nightshroud </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ns-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3501,7 +3465,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Plagueherald </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ph-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3515,7 +3479,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Quartermaster </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-qm-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3529,7 +3493,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Red Guard </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-rg-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3541,7 +3505,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sawbones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3555,7 +3519,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3569,7 +3533,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Soothsinger </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ss-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3583,7 +3547,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3597,7 +3561,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Summoner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-su-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3611,7 +3575,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sunkeeper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sk-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3625,7 +3589,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ti-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3639,7 +3603,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Voidwarden </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-vw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3654,7 +3618,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Battle Goals </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Gloomhaven</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -3671,10 +3635,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards - By Name (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BN-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3697,7 +3661,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Beast Tyrant </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3722,7 +3686,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Berserker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3741,7 +3705,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3760,7 +3724,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BO-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3783,7 +3747,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3802,7 +3766,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>CH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3821,7 +3785,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3842,7 +3806,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3863,7 +3827,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doomstalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3885,7 +3849,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DF-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3904,7 +3868,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Elementalist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>EL-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3925,7 +3889,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>GE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3944,7 +3908,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>MT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3965,7 +3929,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Nightshroud </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>NS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -3984,7 +3948,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Plagueherald </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>PH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4003,7 +3967,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Quartermaster </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>QM-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4022,7 +3986,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sawbones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4043,7 +4007,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SC-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4062,7 +4026,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Soothsinger </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4081,7 +4045,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4102,7 +4066,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Summoner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SU-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4126,7 +4090,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sunkeeper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SK-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4145,7 +4109,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>TI-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4169,10 +4133,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards - By Level (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BN-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4200,7 +4164,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Beast Tyrant </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4230,7 +4194,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Berserker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4258,7 +4222,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4286,7 +4250,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BO-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4314,7 +4278,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4342,7 +4306,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>CH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4370,7 +4334,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4398,7 +4362,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4426,7 +4390,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doomstalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4454,7 +4418,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DF-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4483,7 +4447,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Elementalist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>EL-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4511,7 +4475,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>GE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4539,7 +4503,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>MT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4567,7 +4531,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Nightshroud </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>NS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4595,7 +4559,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Plagueherald </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>PH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4623,7 +4587,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Quartermaster </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>QM-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4651,7 +4615,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sawbones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4679,7 +4643,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SC-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4707,7 +4671,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Soothsinger </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4735,7 +4699,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4763,7 +4727,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Summoner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SU-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4791,7 +4755,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sunkeeper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SK-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4819,7 +4783,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>TI-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -4850,7 +4814,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Mats </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Banner Spear</td><td>Brute</td><td>Drifter</td><td>Plagueherald</td><td>Spellweaver</td></tr>
 							<tr><td>Beast Tyrant</td><td>Cragheart</td><td>Elementalist</td><td>Quartermaster</td><td>Summoner</td></tr>
@@ -4863,7 +4827,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Perks </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Party Sheet</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -4878,10 +4842,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Events (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> City </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ce-01-f | gh-ce-01-b</td><td>gh-ce-26-f | gh-ce-26-b</td><td>gh-ce-51-f | gh-ce-51-b</td><td>gh-ce-76-f | gh-ce-76-b</td></tr>
 									<tr><td>gh-ce-02-f | gh-ce-02-b</td><td>gh-ce-27-f | gh-ce-27-b</td><td>gh-ce-52-f | gh-ce-52-b</td><td>gh-ce-77-f | gh-ce-77-b</td></tr>
@@ -4913,7 +4877,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Rift </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-rf-01-f | fc-rf-01-b</td><td>fc-rf-06-f | fc-rf-06-b</td><td>fc-rf-11-f | fc-rf-11-b</td><td>fc-rf-16-f | fc-rf-16-b</td></tr>
 									<tr><td>fc-rf-02-f | fc-rf-02-b</td><td>fc-rf-07-f | fc-rf-07-b</td><td>fc-rf-12-f | fc-rf-12-b</td><td>fc-rf-17-f | fc-rf-17-b</td></tr>
@@ -4925,7 +4889,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Road </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-re-01-f | gh-re-01-b</td><td>gh-re-26-f | gh-re-26-b</td><td>gh-re-51-f | gh-re-51-b</td></tr>
 									<tr><td>gh-re-02-f | gh-re-02-b</td><td>gh-re-27-f | gh-re-27-b</td><td>gh-re-52-f | gh-re-52-b</td></tr>
@@ -4960,10 +4924,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items By Prosperity & Number </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 1: 1-14 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 1 | Item 01 | Item 001 | Item #1 | Item #01 | Item #001 | Boots Of Striding</td></tr>
 									<tr><td>Item 2 | Item 02 | Item 002 | Item #2 | Item #02 | Item #002 | Winged Shoes</td></tr>
@@ -4987,7 +4951,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 2: 15-21 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 15 | Item 015 | Item #15 | Item #015 | Boots Of Speed</td></tr>
 									<tr><td>Item 16 | Item 016 | Item #16 | Item #016 | Cloak Of Pockets</td></tr>
@@ -5001,7 +4965,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 3: 22-28 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 22 | Item 022 | Item #22 | Item #022 | Heavy Greaves</td></tr>
 									<tr><td>Item 23 | Item 023 | Item #23 | Item #023 | Chainmail</td></tr>
@@ -5015,7 +4979,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 4: 29-35 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 29 | Item 029 | Item #29 | Item #029 | Comfortable Shoes</td></tr>
 									<tr><td>Item 30 | Item 030 | Item #30 | Item #030 | Studded Leather</td></tr>
@@ -5029,7 +4993,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 5: 36-42 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 36 | Item 036 | Item #36 | Item #036 | Boots Of Dashing</td></tr>
 									<tr><td>Item 37 | Item 037 | Item #37 | Item #037 | Robes Of Evocation</td></tr>
@@ -5043,7 +5007,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 6: 43-49 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 43 | Item 043 | Item #43 | Item #043 | Boots Of Quickness</td></tr>
 									<tr><td>Item 44 | Item 044 | Item #44 | Item #044 | Splintmail</td></tr>
@@ -5057,7 +5021,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 7: 50-56 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 50 | Item 050 | Item #50 | Item #050 | Steel Sabatons</td></tr>
 									<tr><td>Item 51 | Item 051 | Item #51 | Item #051 | Shadow Armor</td></tr>
@@ -5071,7 +5035,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 8: 57-63 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 57 | Item 057 | Item #57 | Item #057 | Serene Sandals</td></tr>
 									<tr><td>Item 58 | Item 058 | Item #58 | Item #058 | Cloak Of Phasing</td></tr>
@@ -5085,7 +5049,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 9: 64-70 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 64 | Item 064 | Item #64 | Item #064 | Boots Of Sprinting</td></tr>
 									<tr><td>Item 65 | Item 065 | Item #65 | Item #065 | Platemail</td></tr>
@@ -5099,7 +5063,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Random Design: 71-95 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 71 | Item 071 | Item #71 | Item #071 | Boots Of Levitation</td></tr>
 									<tr><td>Item 72 | Item 072 | Item #72 | Item #072 | Shoes Of Happiness</td></tr>
@@ -5131,7 +5095,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scenario & Chests: 96-133 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 96 | Item 096 | Item #96 | Item #096 | Rocket Boots</td></tr>
 									<tr><td>Item 97 | Item 097 | Item #97 | Item #097 | Endurance Footwraps</td></tr>
@@ -5179,7 +5143,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Solo Scenarios: 134-150 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 134 | Item #134 | Imposing Blade</td></tr>
 									<tr><td>Item 135 | Item #135 | Focusing Ray</td></tr>
@@ -5203,7 +5167,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Forgotten Circles: 152-164 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 152 | Item #152 | Ring Of Duality</td></tr>
 									<tr><td>Item 153 | Item #153 | Minor Antidote</td></tr>
@@ -5226,7 +5190,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items By Name </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<table class="table-padded">
 								<tr><td>Amulet Of Life</td><td>Frigid Blade</td><td>Pendant Of Dark Pacts</td><td>Steel Sabatons</td></tr>
@@ -5281,7 +5245,7 @@
 				
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Map Tiles </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>a1a | a1b</td><td>d1a | d1b</td><td>i2a | i2b</td></tr>
 							<tr><td>a2a | a2b</td><td>d2a | d2b</td><td>j1a | j1b</td></tr>
@@ -5299,10 +5263,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Ability Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ancient Artillery </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-aa-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5315,7 +5279,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Archer (Bandit Archer, City Archer, Inox Archer) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ar-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5328,7 +5292,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ashblade (Aesther Ashblade) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-ab-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5341,7 +5305,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boss (Bandit Commander, Merciless Overseer, Inox Bodyguard, Captain Of The Guard, Jekserah, Prime Demon, Elder Drake, The Betrayer, The Colorless, The Sightless Eye, Dark Rider, Winged Horror, The Gloom) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-bo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5354,7 +5318,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Burrowing Blade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Burrowing Blade Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5367,7 +5331,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cave Bear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-cb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5380,7 +5344,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Chaos Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Chaos Demon Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5393,7 +5357,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cultist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-cu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5406,7 +5370,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deep Terror </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-dt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5419,7 +5383,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Earth Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ed-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5432,7 +5396,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Flame Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-fld-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5445,7 +5409,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Flaming Bladespinner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Flaming Bladespinner Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5458,7 +5422,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Frost Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-frd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5471,7 +5435,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Frozen Corpse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Frozen Corpse Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5484,7 +5448,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Giant Viper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-gv-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5497,7 +5461,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Guard (Bandit Guard, City Guard, Inox Guard) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-gu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5510,7 +5474,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Harrower Infester </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-hi-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5523,7 +5487,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hound </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ho-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5536,7 +5500,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ice Wraith </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Ice Wraith Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5549,7 +5513,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Imp (Forest Imp, Black Imp) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-im-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5562,7 +5526,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lightning Eel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lightning Eel Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5575,7 +5539,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Bones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5588,7 +5552,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Corpse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5601,7 +5565,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Doom </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Living Doom Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5614,7 +5578,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Spirit </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ls-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5627,7 +5591,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5640,7 +5604,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Clawcrusher </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Clawcrusher Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5653,7 +5617,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Mindsnipper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Mindsnipper Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5666,7 +5630,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Wavethrower </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Wavethrower Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5679,7 +5643,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Night Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-nd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5692,7 +5656,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ooze </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-oo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5705,7 +5669,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Piranha Pig </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Piranha Pig Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5718,7 +5682,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Rending Drake </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-rd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5731,7 +5695,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Robotic Boltshooter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Robotic Boltshooter Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5744,7 +5708,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ruined Machine </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Ruined Machine Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5757,7 +5721,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savage (Valrath Savage) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-sv-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5770,7 +5734,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savvas Icestorm </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-si-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5783,7 +5747,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savvas Lavaflow </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sl-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5796,7 +5760,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scout (Vermling Scout, Aesther Scout) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5809,7 +5773,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Shaman (Vermling Shaman) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sh-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5822,7 +5786,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Shrike Fiend </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Shrike Fiend Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5835,7 +5799,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spitting Drake </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-spd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5848,7 +5812,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Steel Automaton </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Steel Automaton Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5861,7 +5825,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Stone Golem </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sg-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5874,7 +5838,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sun Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sud-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5887,7 +5851,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tracker (Valrath Tracker) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-tr-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5900,7 +5864,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Wind Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-wd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -5916,7 +5880,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Stat Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Monster Stat Card Envelope 6</td><td>Monster Stat Card Envelope 10</td></tr>
 						</table>
@@ -5948,10 +5912,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Overlay Tokens </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Character Tokens </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Rift</td></tr>
 								</table>
@@ -5959,7 +5923,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Corridors </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Earth</td><td>Stone</td><td>Pressure Plate</td><td>Wood</td></tr>
 								</table>
@@ -5967,7 +5931,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Difficult Terrain </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Log</td><td>Rubble</td><td>Stairs</td><td>Water</td></tr>
 								</table>
@@ -5975,7 +5939,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doors </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Door</td></tr>
 								</table>
@@ -5983,7 +5947,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hazardous Terrain </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Hot Coals</td><td>Thorns</td></tr>
 								</table>
@@ -5991,7 +5955,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Obstacles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Altar</td><td>Cabinet</td><td>Nest</td><td>Stone Pillar</td><td>Wall Section</td></tr>
 									<tr><td>Barrel</td><td>Crate</td><td>Rock Column</td><td>Stump</td></tr>
@@ -6003,7 +5967,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Traps </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Trap</td></tr>
 								</table>
@@ -6011,7 +5975,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Treasures </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Coin</td><td>Treasure</td></tr>
 								</table>
@@ -6022,7 +5986,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Personal Quests </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>gh-pq-back</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -6037,7 +6001,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Player Aid Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Halt Bottom Front</td><td>Halt Top Front</td><td>Player Reference Front</td></tr>
 							<tr><td>Halt Bottom Back</td><td>Halt Top Back</td><td>Player Reference Back</td></tr>
@@ -6047,10 +6011,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Random Dungeons </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Dungeons </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Random Dungeon A-Back</td><td>Random Dungeon AB-Back</td><td>Random Dungeon B-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6064,7 +6028,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Monsters </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Random Dungeon Monster-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6081,7 +6045,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Random Scenarios </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Random Scenario Back</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -6094,7 +6058,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Summons </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Summons</td></tr>
 						</table>
@@ -6103,7 +6067,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> World Map </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Gloomhaven Map</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -6133,16 +6097,16 @@
 			</div>
 
 			<h1><i class="fa fa-plus"></i> Test Page: Everything Spoiled </h1>
-			<div class="textzone">
+			<div class="TextZone">
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Attack Modifiers </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Base </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<div class="accordion">
 									<h3><i class="fa fa-plus"></i> Monster </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-m-back</td></tr>
@@ -6166,7 +6130,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Monster Mod </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-mm-back</td></tr>
@@ -6190,7 +6154,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-p1-back</td></tr>
@@ -6228,7 +6192,7 @@
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player Mod </h3>
-									<div class="textzone">
+									<div class="TextZone">
 										<div class="accordion">
 											<table class="table-padded">
 												<tr><td>gh-am-pm-back</td></tr>
@@ -6261,7 +6225,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bn-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6275,7 +6239,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Beast Tyrant </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-bt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6289,7 +6253,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Berserker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-be-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6303,7 +6267,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Bladeswarm </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-bs-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6317,7 +6281,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6331,7 +6295,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-bo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6345,7 +6309,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-br-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6359,7 +6323,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ch-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6373,7 +6337,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-dw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6387,7 +6351,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Demolitionist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-de-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6399,7 +6363,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-am-dr-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6413,7 +6377,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doomstalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ds-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6427,7 +6391,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-df-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6441,7 +6405,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Elementalist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-el-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6455,7 +6419,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hatchet </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-ha-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6467,7 +6431,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fh-am-ge-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6481,7 +6445,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-mt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6495,7 +6459,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Nightshroud </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ns-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6509,7 +6473,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Plagueherald </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ph-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6523,7 +6487,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Quartermaster </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-qm-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6537,7 +6501,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Red Guard </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-rg-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6549,7 +6513,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sawbones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6563,7 +6527,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6577,7 +6541,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Soothsinger </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ss-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6591,7 +6555,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6605,7 +6569,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Summoner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-su-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6619,7 +6583,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sunkeeper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-sk-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6633,7 +6597,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-am-ti-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6647,7 +6611,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Voidwarden </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>jl-am-vw-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6662,7 +6626,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Battle Goals </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Gloomhaven</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -6679,10 +6643,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards - By Name (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BN-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6705,7 +6669,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Beast Tyrant </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6730,7 +6694,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Berserker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6749,7 +6713,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Bladeswarm </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6772,7 +6736,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6791,7 +6755,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BO-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6814,7 +6778,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6833,7 +6797,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>CH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6852,7 +6816,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6873,7 +6837,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6894,7 +6858,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doomstalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6916,7 +6880,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DF-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6935,7 +6899,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Elementalist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>EL-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6956,7 +6920,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>GE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6975,7 +6939,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>MT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -6996,7 +6960,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Nightshroud </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>NS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7015,7 +6979,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Plagueherald </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>PH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7034,7 +6998,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Quartermaster </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>QM-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7053,7 +7017,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sawbones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7074,7 +7038,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SC-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7093,7 +7057,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Soothsinger </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7112,7 +7076,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7133,7 +7097,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Summoner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SU-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7157,7 +7121,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sunkeeper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SK-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7176,7 +7140,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>TI-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7200,10 +7164,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards - By Level (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BN-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7231,7 +7195,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Beast Tyrant </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7261,7 +7225,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Berserker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7289,7 +7253,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Bladeswarm </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7317,7 +7281,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7345,7 +7309,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BO-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7373,7 +7337,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Brute </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>BR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7401,7 +7365,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cragheart </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>CH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7429,7 +7393,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7457,7 +7421,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Diviner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DR-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7485,7 +7449,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doomstalker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7513,7 +7477,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>DF-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7542,7 +7506,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Elementalist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>EL-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7570,7 +7534,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>GE-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7598,7 +7562,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Mindthief </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>MT-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7626,7 +7590,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Nightshroud </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>NS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7654,7 +7618,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Plagueherald </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>PH-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7682,7 +7646,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Quartermaster </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>QM-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7710,7 +7674,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sawbones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SB-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7738,7 +7702,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scoundrel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SC-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7766,7 +7730,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Soothsinger </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SS-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7794,7 +7758,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spellweaver </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SW-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7822,7 +7786,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Summoner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SU-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7850,7 +7814,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sunkeeper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>SK-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7878,7 +7842,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tinkerer </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>TI-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -7909,7 +7873,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Mats </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Banner Spear</td><td>Boneshaper</td><td>Doomstalker</td><td>Nightshroud</td><td>Soothsinger</td></tr>
 							<tr><td>Beast Tyrant</td><td>Brute</td><td>Drifter</td><td>Plagueherald</td><td>Spellweaver</td></tr>
@@ -7922,7 +7886,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Perks </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Party Sheet</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -7937,10 +7901,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Events (Original & Revised) </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> City </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ce-01-f | gh-ce-01-b</td><td>gh-ce-26-f | gh-ce-26-b</td><td>gh-ce-51-f | gh-ce-51-b</td><td>gh-ce-76-f | gh-ce-76-b</td></tr>
 									<tr><td>gh-ce-02-f | gh-ce-02-b</td><td>gh-ce-27-f | gh-ce-27-b</td><td>gh-ce-52-f | gh-ce-52-b</td><td>gh-ce-77-f | gh-ce-77-b</td></tr>
@@ -7972,7 +7936,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Rift </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-rf-01-f | fc-rf-01-b</td><td>fc-rf-06-f | fc-rf-06-b</td><td>fc-rf-11-f | fc-rf-11-b</td><td>fc-rf-16-f | fc-rf-16-b</td></tr>
 									<tr><td>fc-rf-02-f | fc-rf-02-b</td><td>fc-rf-07-f | fc-rf-07-b</td><td>fc-rf-12-f | fc-rf-12-b</td><td>fc-rf-17-f | fc-rf-17-b</td></tr>
@@ -7984,7 +7948,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Road </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-re-01-f | gh-re-01-b</td><td>gh-re-26-f | gh-re-26-b</td><td>gh-re-51-f | gh-re-51-b</td></tr>
 									<tr><td>gh-re-02-f | gh-re-02-b</td><td>gh-re-27-f | gh-re-27-b</td><td>gh-re-52-f | gh-re-52-b</td></tr>
@@ -8019,10 +7983,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items By Prosperity & Number </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 1: 1-14 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 1 | Item 01 | Item 001 | Item #1 | Item #01 | Item #001 | Boots Of Striding</td></tr>
 									<tr><td>Item 2 | Item 02 | Item 002 | Item #2 | Item #02 | Item #002 | Winged Shoes</td></tr>
@@ -8046,7 +8010,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 2: 15-21 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 15 | Item 015 | Item #15 | Item #015 | Boots Of Speed</td></tr>
 									<tr><td>Item 16 | Item 016 | Item #16 | Item #016 | Cloak Of Pockets</td></tr>
@@ -8060,7 +8024,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 3: 22-28 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 22 | Item 022 | Item #22 | Item #022 | Heavy Greaves</td></tr>
 									<tr><td>Item 23 | Item 023 | Item #23 | Item #023 | Chainmail</td></tr>
@@ -8074,7 +8038,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 4: 29-35 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 29 | Item 029 | Item #29 | Item #029 | Comfortable Shoes</td></tr>
 									<tr><td>Item 30 | Item 030 | Item #30 | Item #030 | Studded Leather</td></tr>
@@ -8088,7 +8052,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 5: 36-42 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 36 | Item 036 | Item #36 | Item #036 | Boots Of Dashing</td></tr>
 									<tr><td>Item 37 | Item 037 | Item #37 | Item #037 | Robes Of Evocation</td></tr>
@@ -8102,7 +8066,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 6: 43-49 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 43 | Item 043 | Item #43 | Item #043 | Boots Of Quickness</td></tr>
 									<tr><td>Item 44 | Item 044 | Item #44 | Item #044 | Splintmail</td></tr>
@@ -8116,7 +8080,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 7: 50-56 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 50 | Item 050 | Item #50 | Item #050 | Steel Sabatons</td></tr>
 									<tr><td>Item 51 | Item 051 | Item #51 | Item #051 | Shadow Armor</td></tr>
@@ -8130,7 +8094,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 8: 57-63 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 57 | Item 057 | Item #57 | Item #057 | Serene Sandals</td></tr>
 									<tr><td>Item 58 | Item 058 | Item #58 | Item #058 | Cloak Of Phasing</td></tr>
@@ -8144,7 +8108,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Prosperity 9: 64-70 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 64 | Item 064 | Item #64 | Item #064 | Boots Of Sprinting</td></tr>
 									<tr><td>Item 65 | Item 065 | Item #65 | Item #065 | Platemail</td></tr>
@@ -8158,7 +8122,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Random Design: 71-95 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 71 | Item 071 | Item #71 | Item #071 | Boots Of Levitation</td></tr>
 									<tr><td>Item 72 | Item 072 | Item #72 | Item #072 | Shoes Of Happiness</td></tr>
@@ -8190,7 +8154,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scenario & Chests: 96-133 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 96 | Item 096 | Item #96 | Item #096 | Rocket Boots</td></tr>
 									<tr><td>Item 97 | Item 097 | Item #97 | Item #097 | Endurance Footwraps</td></tr>
@@ -8238,7 +8202,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Solo Scenarios: 134-151 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 134 | Item #134 | Imposing Blade</td></tr>
 									<tr><td>Item 135 | Item #135 | Focusing Ray</td></tr>
@@ -8263,7 +8227,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Forgotten Circles: 152-165 </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Item 152 | Item #152 | Ring Of Duality</td></tr>
 									<tr><td>Item 153 | Item #153 | Minor Antidote</td></tr>
@@ -8287,7 +8251,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items By Name </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<table class="table-padded">
 								<tr><td>Amulet Of Life</td><td>Frigid Blade</td><td>Pendant Of Dark Pacts</td><td>Steel Sabatons</td></tr>
@@ -8342,7 +8306,7 @@
 				
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Map Tiles </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>a1a | a1b</td><td>d1a | d1b</td><td>i2a | i2b</td></tr>
 							<tr><td>a2a | a2b</td><td>d2a | d2b</td><td>j1a | j1b</td></tr>
@@ -8360,10 +8324,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Ability Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ancient Artillery </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-aa-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8376,7 +8340,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Archer (Bandit Archer, City Archer, Inox Archer) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ar-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8389,7 +8353,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ashblade (Aesther Ashblade) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-ab-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8402,7 +8366,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boss (Bandit Commander, Merciless Overseer, Inox Bodyguard, Captain Of The Guard, Jekserah, Prime Demon, Elder Drake, The Betrayer, The Colorless, The Sightless Eye, Dark Rider, Winged Horror, The Gloom) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-bo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8415,7 +8379,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Burrowing Blade </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Burrowing Blade Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8428,7 +8392,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cave Bear </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-cb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8441,7 +8405,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Chaos Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Chaos Demon Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8454,7 +8418,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Cultist </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-cu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8467,7 +8431,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deep Terror </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-dt-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8480,7 +8444,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Earth Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ed-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8493,7 +8457,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Flame Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-fld-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8506,7 +8470,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Flaming Bladespinner </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Flaming Bladespinner Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8519,7 +8483,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Frost Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-frd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8532,7 +8496,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Frozen Corpse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Frozen Corpse Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8545,7 +8509,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Giant Viper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-gv-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8558,7 +8522,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Guard (Bandit Guard, City Guard, Inox Guard) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-gu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8571,7 +8535,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Harrower Infester </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-hi-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8584,7 +8548,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hound </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ho-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8597,7 +8561,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ice Wraith </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Ice Wraith Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8610,7 +8574,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Imp (Forest Imp, Black Imp) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-im-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8623,7 +8587,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lightning Eel </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lightning Eel Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8636,7 +8600,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Bones </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lb-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8649,7 +8613,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Corpse </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8662,7 +8626,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Doom </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Living Doom Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8675,7 +8639,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Living Spirit </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-ls-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8688,7 +8652,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-lu-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8701,7 +8665,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Clawcrusher </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Clawcrusher Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8714,7 +8678,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Mindsnipper </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Mindsnipper Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8727,7 +8691,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Lurker Wavethrower </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Lurker Wavethrower Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8740,7 +8704,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Manifestation Of Corruption </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>MC-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8754,7 +8718,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Night Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-nd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8767,7 +8731,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ooze </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-oo-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8780,7 +8744,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Piranha Pig </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Piranha Pig Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8793,7 +8757,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Rending Drake </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-rd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8806,7 +8770,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Robotic Boltshooter </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Robotic Boltshooter Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8819,7 +8783,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Ruined Machine </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Ruined Machine Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8832,7 +8796,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savage (Valrath Savage) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-sv-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8845,7 +8809,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savvas Icestorm </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-si-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8858,7 +8822,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Savvas Lavaflow </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sl-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8871,7 +8835,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Scout (Vermling Scout, Aesther Scout) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sc-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8884,7 +8848,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Shaman (Vermling Shaman) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sh-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8897,7 +8861,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Shrike Fiend </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Shrike Fiend Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8910,7 +8874,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Spitting Drake </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-spd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8923,7 +8887,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Steel Automaton </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Steel Automaton Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8936,7 +8900,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Stone Golem </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sg-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8949,7 +8913,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Sun Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-sud-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8962,7 +8926,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Tracker (Valrath Tracker) </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>fc-ma-tr-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8975,7 +8939,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Wind Demon </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>gh-ma-wd-back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -8991,7 +8955,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Stat Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Monster Stat Card Envelope 6</td><td>Monster Stat Card Envelope 10</td></tr>
 						</table>
@@ -9023,10 +8987,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Overlay Tokens </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Character Tokens </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Rift</td></tr>
 								</table>
@@ -9034,7 +8998,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Corridors </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Earth</td><td>Stone</td><td>Pressure Plate</td><td>Wood</td></tr>
 								</table>
@@ -9042,7 +9006,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Difficult Terrain </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Log</td><td>Rubble</td><td>Stairs</td><td>Water</td></tr>
 								</table>
@@ -9050,7 +9014,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Doors </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Door</td></tr>
 								</table>
@@ -9058,7 +9022,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hazardous Terrain </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Hot Coals</td><td>Thorns</td></tr>
 								</table>
@@ -9066,7 +9030,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Obstacles </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Altar</td><td>Cabinet</td><td>Nest</td><td>Stone Pillar</td><td>Wall Section</td></tr>
 									<tr><td>Barrel</td><td>Crate</td><td>Rock Column</td><td>Stump</td></tr>
@@ -9078,7 +9042,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Traps </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Trap</td></tr>
 								</table>
@@ -9086,7 +9050,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Treasures </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Coin</td><td>Treasure</td></tr>
 								</table>
@@ -9097,7 +9061,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Personal Quests </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>gh-pq-back</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -9112,7 +9076,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Player Aid Cards </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Halt Bottom Front</td><td>Halt Top Front</td><td>Player Reference Front</td></tr>
 							<tr><td>Halt Bottom Back</td><td>Halt Top Back</td><td>Player Reference Back</td></tr>
@@ -9122,10 +9086,10 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Random Dungeons </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Dungeons </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Random Dungeon A-Back</td><td>Random Dungeon AB-Back</td><td>Random Dungeon B-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -9139,7 +9103,7 @@
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Monsters </h2>
-							<div class="textzone">
+							<div class="TextZone">
 								<table class="table-padded">
 									<tr><td>Random Dungeon Monster-Back</td></tr>
 									<tr><td>&nbsp</td></tr>
@@ -9156,7 +9120,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Random Scenarios </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Random Scenario Back</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -9169,7 +9133,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Summons </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Summons</td></tr>
 						</table>
@@ -9178,7 +9142,7 @@
 
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> World Map </h1>
-					<div class="textzone">
+					<div class="TextZone">
 						<table class="table-padded">
 							<tr><td>Gloomhaven Map</td></tr>
 							<tr><td>&nbsp</td></tr>
@@ -9209,4 +9173,3 @@
 		</div>
 	</body>
 </html>
--->
