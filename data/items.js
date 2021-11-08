@@ -6593,1158 +6593,1138 @@
     "image": "items/forgotten-circles/152-165/fc-1036-living-armor-reference-back.png",
     "xws": "livingarmorreference"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "name": "item 1",
     "points": 942,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/01-eagle-eye-goggles.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles"
   },
   {
     "name": "item 01",
     "points": 943,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/01-eagle-eye-goggles.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles"
   },
   {
     "name": "item #1",
     "points": 944,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/01-eagle-eye-goggles.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles"
   },
   {
     "name": "item #01",
     "points": 945,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/01-eagle-eye-goggles.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles"
   },
   {
     "name": "eagle-eye goggles",
     "points": 946,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/01-eagle-eye-goggles.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles"
   },
   {
     "name": "eagle-eye goggles",
     "points": 947,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/01-eagle-eye-goggles-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles-back.png",
     "xws": "eagleeyegoggles"
   },
   {
     "name": "item 2",
     "points": 948,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/02-iron-helmet.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
     "xws": "ironhelmet"
   },
   {
     "name": "item 02",
     "points": 949,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/02-iron-helmet.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
     "xws": "ironhelmet"
   },
   {
     "name": "item #2",
     "points": 950,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/02-iron-helmet.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
     "xws": "ironhelmet"
   },
   {
     "name": "item #02",
     "points": 951,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/02-iron-helmet.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
     "xws": "ironhelmet"
   },
   {
     "name": "iron helmet",
     "points": 952,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/02-iron-helmet.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
     "xws": "ironhelmet"
   },
   {
     "name": "iron helmet",
     "points": 953,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/02-iron-helmet-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet-back.png",
     "xws": "ironhelmet"
   },
   {
     "name": "item 3",
     "points": 954,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/03-chain-armor.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
     "xws": "chainarmor"
   },
   {
     "name": "item 03",
     "points": 955,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/03-chain-armor.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
     "xws": "chainarmor"
   },
   {
     "name": "item #3",
     "points": 956,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/03-chain-armor.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
     "xws": "chainarmor"
   },
   {
     "name": "item #03",
     "points": 957,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/03-chain-armor.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
     "xws": "chainarmor"
   },
   {
     "name": "chain armor",
     "points": 958,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/03-chain-armor.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
     "xws": "chainarmor"
   },
   {
     "name": "chain armor",
     "points": 959,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/03-chain-armor-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor-back.png",
     "xws": "chainarmor"
   },
   {
     "name": "item 4",
     "points": 960,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/04-studded-leather.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
     "xws": "studdedleather"
   },
   {
     "name": "item 04",
     "points": 961,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/04-studded-leather.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
     "xws": "studdedleather"
   },
   {
     "name": "item #4",
     "points": 962,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/04-studded-leather.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
     "xws": "studdedleather"
   },
   {
     "name": "item #04",
     "points": 963,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/04-studded-leather.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
     "xws": "studdedleather"
   },
   {
     "name": "studded leather",
     "points": 964,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/04-studded-leather.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
     "xws": "studdedleather"
   },
   {
     "name": "studded leather",
     "points": 965,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/04-studded-leather-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather-back.png",
     "xws": "studdedleather"
   },
   {
     "name": "item 5",
     "points": 966,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/05-weathered-boots.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
     "xws": "weatheredboots"
   },
   {
     "name": "item 05",
     "points": 967,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/05-weathered-boots.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
     "xws": "weatheredboots"
   },
   {
     "name": "item #5",
     "points": 968,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/05-weathered-boots.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
     "xws": "weatheredboots"
   },
   {
     "name": "item #05",
     "points": 969,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/05-weathered-boots.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
     "xws": "weatheredboots"
   },
   {
     "name": "weathered boots",
     "points": 970,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/05-weathered-boots.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
     "xws": "weatheredboots"
   },
   {
     "name": "weathered boots",
     "points": 971,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/05-weathered-boots-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots-back.png",
     "xws": "weatheredboots"
   },
   {
     "name": "item 6",
     "points": 972,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/06-winged-shoes.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
     "xws": "wingedshoes"
   },
   {
     "name": "item 06",
     "points": 973,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/06-winged-shoes.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
     "xws": "wingedshoes"
   },
   {
     "name": "item #6",
     "points": 974,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/06-winged-shoes.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
     "xws": "wingedshoes"
   },
   {
     "name": "item #06",
     "points": 975,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/06-winged-shoes.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
     "xws": "wingedshoes"
   },
   {
     "name": "winged shoes",
     "points": 976,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/06-winged-shoes.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
     "xws": "wingedshoes"
   },
   {
     "name": "winged shoes",
     "points": 977,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/06-winged-shoes-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes-back.png",
     "xws": "wingedshoes"
   },
   {
     "name": "item 7",
     "points": 978,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/07-heater-shield.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
     "xws": "heatershield"
   },
   {
     "name": "item 07",
     "points": 979,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/07-heater-shield.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
     "xws": "heatershield"
   },
   {
     "name": "item #7",
     "points": 980,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/07-heater-shield.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
     "xws": "heatershield"
   },
   {
     "name": "item #07",
     "points": 981,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/07-heater-shield.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
     "xws": "heatershield"
   },
   {
     "name": "heater shield",
     "points": 982,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/07-heater-shield.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
     "xws": "heatershield"
   },
   {
     "name": "heater shield",
     "points": 983,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/07-heater-shield-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield-back.png",
     "xws": "heatershield"
   },
   {
     "name": "item 8",
     "points": 984,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/08-throwing-hammer.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
     "xws": "throwinghammer"
   },
   {
     "name": "item 08",
     "points": 985,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/08-throwing-hammer.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
     "xws": "throwinghammer"
   },
   {
     "name": "item #8",
     "points": 986,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/08-throwing-hammer.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
     "xws": "throwinghammer"
   },
   {
     "name": "item #08",
     "points": 987,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/08-throwing-hammer.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
     "xws": "throwinghammer"
   },
   {
     "name": "throwing hammer",
     "points": 988,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/08-throwing-hammer.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
     "xws": "throwinghammer"
   },
   {
     "name": "throwing hammer",
     "points": 989,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/08-throwing-hammer-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer-back.png",
     "xws": "throwinghammer"
   },
   {
     "name": "item 9",
     "points": 990,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/09-poison-dagger.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
     "xws": "poisondagger"
   },
   {
     "name": "item 09",
     "points": 991,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/09-poison-dagger.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
     "xws": "poisondagger"
   },
   {
     "name": "item #9",
     "points": 992,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/09-poison-dagger.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
     "xws": "poisondagger"
   },
   {
     "name": "item #09",
     "points": 993,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/09-poison-dagger.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
     "xws": "poisondagger"
   },
   {
     "name": "poison dagger",
     "points": 994,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/09-poison-dagger.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
     "xws": "poisondagger"
   },
   {
     "name": "poison dagger",
     "points": 995,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/09-poison-dagger-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger-back.png",
     "xws": "poisondagger"
   },
   {
     "name": "item 10",
     "points": 996,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/10-iron-spear.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear.png",
     "xws": "ironspear"
   },
   {
     "name": "item #10",
     "points": 997,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/10-iron-spear.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear.png",
     "xws": "ironspear"
   },
   {
     "name": "iron spear",
     "points": 998,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/10-iron-spear.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear.png",
     "xws": "ironspear"
   },
   {
     "name": "iron spear",
     "points": 999,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/10-iron-spear-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear-back.png",
     "xws": "ironspear"
   },
   {
     "name": "item 11",
     "points": 1000,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/11-healing-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion.png",
     "xws": "healingpotion"
   },
   {
     "name": "item #11",
     "points": 1001,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/11-healing-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion.png",
     "xws": "healingpotion"
   },
   {
     "name": "healing potion",
     "points": 1002,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/11-healing-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion.png",
     "xws": "healingpotion"
   },
   {
     "name": "healing potion",
     "points": 1003,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/11-healing-potion-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion-back.png",
     "xws": "healingpotion"
   },
   {
     "name": "item 12",
     "points": 1004,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/12-stamina-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion.png",
     "xws": "staminapotion"
   },
   {
     "name": "item #12",
     "points": 1005,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/12-stamina-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion.png",
     "xws": "staminapotion"
   },
   {
     "name": "stamina potion",
     "points": 1006,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/12-stamina-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion.png",
     "xws": "staminapotion"
   },
   {
     "name": "stamina potion",
     "points": 1007,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/12-stamina-potion-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion-back.png",
     "xws": "staminapotion"
   },
   {
     "name": "item 13",
     "points": 1008,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/13-power-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion.png",
     "xws": "powerpotion"
   },
   {
     "name": "item #13",
     "points": 1009,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/13-power-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion.png",
     "xws": "powerpotion"
   },
   {
     "name": "power potion",
     "points": 1010,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/13-power-potion.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion.png",
     "xws": "powerpotion"
   },
   {
     "name": "power potion",
     "points": 1011,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/1-13/13-power-potion-back.png",
+    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion-back.png",
     "xws": "powerpotion"
   },
   {
     "name": "item 14",
     "points": 1012,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/14/14-mana-potion.png",
+    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion.png",
     "xws": "manapotion"
   },
   {
     "name": "item #14",
     "points": 1013,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/14/14-mana-potion.png",
+    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion.png",
     "xws": "manapotion"
   },
   {
     "name": "mana potion",
     "points": 1014,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/14/14-mana-potion.png",
+    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion.png",
     "xws": "manapotion"
   },
   {
     "name": "mana potion",
     "points": 1015,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/14/14-mana-potion-back.png",
+    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion-back.png",
     "xws": "manapotion"
   },
   {
     "name": "item 15",
     "points": 1016,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/15-amulet-of-life.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life.png",
     "xws": "amuletoflife"
   },
   {
     "name": "item #15",
     "points": 1017,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/15-amulet-of-life.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life.png",
     "xws": "amuletoflife"
   },
   {
     "name": "amulet of life",
     "points": 1018,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/15-amulet-of-life.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life.png",
     "xws": "amuletoflife"
   },
   {
     "name": "amulet of life",
     "points": 1019,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/15-amulet-of-life-back.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life-back.png",
     "xws": "amuletoflife"
   },
   {
     "name": "item 16",
     "points": 1020,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/16-robes-of-evocation.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation.png",
     "xws": "robesofevocation"
   },
   {
     "name": "item #16",
     "points": 1021,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/16-robes-of-evocation.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation.png",
     "xws": "robesofevocation"
   },
   {
     "name": "robes of evocation",
     "points": 1022,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/16-robes-of-evocation.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation.png",
     "xws": "robesofevocation"
   },
   {
     "name": "robes of evocation",
     "points": 1023,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/16-robes-of-evocation-back.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation-back.png",
     "xws": "robesofevocation"
   },
   {
     "name": "item 17",
     "points": 1024,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/17-comfortable-shoes.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes.png",
     "xws": "comfortableshoes"
   },
   {
     "name": "item #17",
     "points": 1025,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/17-comfortable-shoes.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes.png",
     "xws": "comfortableshoes"
   },
   {
     "name": "comfortable shoes",
     "points": 1026,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/17-comfortable-shoes.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes.png",
     "xws": "comfortableshoes"
   },
   {
     "name": "comfortable shoes",
     "points": 1027,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/17-comfortable-shoes-back.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes-back.png",
     "xws": "comfortableshoes"
   },
   {
     "name": "item 18",
     "points": 1028,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/18-battle-axe.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe.png",
     "xws": "battleaxe"
   },
   {
     "name": "item #18",
     "points": 1029,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/18-battle-axe.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe.png",
     "xws": "battleaxe"
   },
   {
     "name": "battle-axe",
     "points": 1030,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/18-battle-axe.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe.png",
     "xws": "battleaxe"
   },
   {
     "name": "battle-axe",
     "points": 1031,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/18-battle-axe-back.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe-back.png",
     "xws": "battleaxe"
   },
   {
     "name": "item 19",
     "points": 1032,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/19-black-candle.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle.png",
     "xws": "blackcandle"
   },
   {
     "name": "item #19",
     "points": 1033,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/19-black-candle.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle.png",
     "xws": "blackcandle"
   },
   {
     "name": "black candle",
     "points": 1034,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/19-black-candle.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle.png",
     "xws": "blackcandle"
   },
   {
     "name": "black candle",
     "points": 1035,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/19-black-candle-back.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle-back.png",
     "xws": "blackcandle"
   },
   {
     "name": "item 20",
     "points": 1036,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/20-stun-powder.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder.png",
     "xws": "stunpowder"
   },
   {
     "name": "item #20",
     "points": 1037,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/20-stun-powder.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder.png",
     "xws": "stunpowder"
   },
   {
     "name": "stun powder",
     "points": 1038,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/20-stun-powder.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder.png",
     "xws": "stunpowder"
   },
   {
     "name": "stun powder",
     "points": 1039,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/15-20/20-stun-powder-back.png",
+    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder-back.png",
     "xws": "stunpowder"
   },
   {
     "name": "item 21",
     "points": 1040,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/21-hawk-helm.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm.png",
     "xws": "hawkhelm"
   },
   {
     "name": "item #21",
     "points": 1041,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/21-hawk-helm.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm.png",
     "xws": "hawkhelm"
   },
   {
     "name": "hawk helm",
     "points": 1042,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/21-hawk-helm.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm.png",
     "xws": "hawkhelm"
   },
   {
     "name": "hawk helm",
     "points": 1043,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/21-hawk-helm-back.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm-back.png",
     "xws": "hawkhelm"
   },
   {
     "name": "item 22",
     "points": 1044,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/22-bladed-armor.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor.png",
     "xws": "bladedarmor"
   },
   {
     "name": "item #22",
     "points": 1045,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/22-bladed-armor.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor.png",
     "xws": "bladedarmor"
   },
   {
     "name": "bladed armor",
     "points": 1046,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/22-bladed-armor.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor.png",
     "xws": "bladedarmor"
   },
   {
     "name": "bladed armor",
     "points": 1047,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/22-bladed-armor-back.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor-back.png",
     "xws": "bladedarmor"
   },
   {
     "name": "item 23",
     "points": 1048,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/23-boots-of-striding.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding.png",
     "xws": "bootsofstriding"
   },
   {
     "name": "item #23",
     "points": 1049,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/23-boots-of-striding.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding.png",
     "xws": "bootsofstriding"
   },
   {
     "name": "boots of striding",
     "points": 1050,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/23-boots-of-striding.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding.png",
     "xws": "bootsofstriding"
   },
   {
     "name": "boots of striding",
     "points": 1051,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/23-boots-of-striding-back.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding-back.png",
     "xws": "bootsofstriding"
   },
   {
     "name": "item 24",
     "points": 1052,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/24-volatile-bomb.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb.png",
     "xws": "volatilebomb"
   },
   {
     "name": "item #24",
     "points": 1053,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/24-volatile-bomb.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb.png",
     "xws": "volatilebomb"
   },
   {
     "name": "volatile bomb",
     "points": 1054,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/24-volatile-bomb.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb.png",
     "xws": "volatilebomb"
   },
   {
     "name": "volatile bomb",
     "points": 1055,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/24-volatile-bomb-back.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb-back.png",
     "xws": "volatilebomb"
   },
   {
     "name": "item 25",
     "points": 1056,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/25-barbed-chain.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain.png",
     "xws": "barbedchain"
   },
   {
     "name": "item #25",
     "points": 1057,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/25-barbed-chain.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain.png",
     "xws": "barbedchain"
   },
   {
     "name": "barbed chain",
     "points": 1058,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/25-barbed-chain.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain.png",
     "xws": "barbedchain"
   },
   {
     "name": "barbed chain",
     "points": 1059,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/25-barbed-chain-back.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain-back.png",
     "xws": "barbedchain"
   },
   {
     "name": "item 26",
     "points": 1060,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/26-oak-charm.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm.png",
     "xws": "oakcharm"
   },
   {
     "name": "item #26",
     "points": 1061,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/26-oak-charm.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm.png",
     "xws": "oakcharm"
   },
   {
     "name": "oak charm",
     "points": 1062,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/26-oak-charm.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm.png",
     "xws": "oakcharm"
   },
   {
     "name": "oak charm",
     "points": 1063,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/21-26/26-oak-charm-back.png",
+    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm-back.png",
     "xws": "oakcharm"
   },
   {
     "name": "item 27",
     "points": 1064,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/27-fateful-compass.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass.png",
     "xws": "fatefulcompass"
   },
   {
     "name": "item #27",
     "points": 1065,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/27-fateful-compass.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass.png",
     "xws": "fatefulcompass"
   },
   {
     "name": "fateful compass",
     "points": 1066,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/27-fateful-compass.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass.png",
     "xws": "fatefulcompass"
   },
   {
     "name": "fateful compass",
     "points": 1067,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/27-fateful-compass-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass-back.png",
     "xws": "fatefulcompass"
   },
   {
     "name": "item 28",
     "points": 1068,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/28-flea-bitten-shawl.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl.png",
     "xws": "fleabittenshawl"
   },
   {
     "name": "item #28",
     "points": 1069,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/28-flea-bitten-shawl.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl.png",
     "xws": "fleabittenshawl"
   },
   {
     "name": "flea-bitten shawl",
     "points": 1070,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/28-flea-bitten-shawl.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl.png",
     "xws": "fleabittenshawl"
   },
   {
     "name": "flea-bitten shawl",
     "points": 1071,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/28-flea-bitten-shawl-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl-back.png",
     "xws": "fleabittenshawl"
   },
   {
     "name": "item 29",
     "points": 1072,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/29-tower-shield.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield.png",
     "xws": "towershield"
   },
   {
     "name": "item #29",
     "points": 1073,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/29-tower-shield.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield.png",
     "xws": "towershield"
   },
   {
     "name": "tower shield",
     "points": 1074,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/29-tower-shield.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield.png",
     "xws": "towershield"
   },
   {
     "name": "tower shield",
     "points": 1075,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/29-tower-shield-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield-back.png",
     "xws": "towershield"
   },
   {
     "name": "item 30",
     "points": 1076,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/30-ring-of-haste.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste.png",
     "xws": "ringofhaste"
   },
   {
     "name": "item #30",
     "points": 1077,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/30-ring-of-haste.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste.png",
     "xws": "ringofhaste"
   },
   {
     "name": "ring of haste",
     "points": 1078,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/30-ring-of-haste.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste.png",
     "xws": "ringofhaste"
   },
   {
     "name": "ring of haste",
     "points": 1079,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/30-ring-of-haste-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste-back.png",
     "xws": "ringofhaste"
   },
   {
     "name": "item 31",
     "points": 1080,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/31-ring-of-strength.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength.png",
     "xws": "ringofstrength"
   },
   {
     "name": "item #31",
     "points": 1081,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/31-ring-of-strength.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength.png",
     "xws": "ringofstrength"
   },
   {
     "name": "ring of strength",
     "points": 1082,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/31-ring-of-strength.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength.png",
     "xws": "ringofstrength"
   },
   {
     "name": "ring of strength",
     "points": 1083,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/31-ring-of-strength-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength-back.png",
     "xws": "ringofstrength"
   },
   {
     "name": "item 32",
     "points": 1084,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/32-ring-of-restoration.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration.png",
     "xws": "ringofrestoration"
   },
   {
     "name": "item #32",
     "points": 1085,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/32-ring-of-restoration.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration.png",
     "xws": "ringofrestoration"
   },
   {
     "name": "ring of restoration",
     "points": 1086,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/32-ring-of-restoration.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration.png",
     "xws": "ringofrestoration"
   },
   {
     "name": "ring of restoration",
     "points": 1087,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/32-ring-of-restoration-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration-back.png",
     "xws": "ringofrestoration"
   },
   {
     "name": "item 33",
     "points": 1088,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/33-steel-ring.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring.png",
     "xws": "steelring"
   },
   {
     "name": "item #33",
     "points": 1089,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/33-steel-ring.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring.png",
     "xws": "steelring"
   },
   {
     "name": "steel ring",
     "points": 1090,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/33-steel-ring.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring.png",
     "xws": "steelring"
   },
   {
     "name": "steel ring",
     "points": 1091,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/33-steel-ring-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring-back.png",
     "xws": "steelring"
   },
   {
     "name": "item 34",
     "points": 1092,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/34-barbed-axe.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe.png",
     "xws": "barbedaxe"
   },
   {
     "name": "item #34",
     "points": 1093,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/34-barbed-axe.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe.png",
     "xws": "barbedaxe"
   },
   {
     "name": "barbed axe",
     "points": 1094,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/34-barbed-axe.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe.png",
     "xws": "barbedaxe"
   },
   {
     "name": "barbed axe",
     "points": 1095,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/34-barbed-axe-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe-back.png",
     "xws": "barbedaxe"
   },
   {
     "name": "item 35",
     "points": 1096,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/35-robes-of-command.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command.png",
     "xws": "robesofcommand"
   },
   {
     "name": "item #35",
     "points": 1097,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/35-robes-of-command.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command.png",
     "xws": "robesofcommand"
   },
   {
     "name": "robes of command",
     "points": 1098,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/35-robes-of-command.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command.png",
     "xws": "robesofcommand"
   },
   {
     "name": "robes of command",
     "points": 1099,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/35-robes-of-command-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command-back.png",
     "xws": "robesofcommand"
   },
   {
     "name": "item 36",
     "points": 1100,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/36-jet-boots.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots.png",
     "xws": "jetboots"
   },
   {
     "name": "item #36",
     "points": 1101,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/36-jet-boots.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots.png",
     "xws": "jetboots"
   },
   {
     "name": "jet boots",
     "points": 1102,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/36-jet-boots.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots.png",
     "xws": "jetboots"
   },
   {
     "name": "jet boots",
     "points": 1103,
     "expansion": "Jaws Of The Lion",
-    "image": "items/jaws-of-the-lion/27-36/36-jet-boots-back.png",
+    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots-back.png",
     "xws": "jetboots"
   }
 ]
