@@ -4385,147 +4385,147 @@
     "name": "jl-am-m-01",
     "points": 626,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-01.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-01.png",
     "xws": "jlamm01"
   },
   {
     "name": "jl-am-m-02",
     "points": 627,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-02.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-02.png",
     "xws": "jlamm02"
   },
   {
     "name": "jl-am-m-03",
     "points": 628,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-03.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-03.png",
     "xws": "jlamm03"
   },
   {
     "name": "jl-am-m-04",
     "points": 629,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-04.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-04.png",
     "xws": "jlamm04"
   },
   {
     "name": "jl-am-m-05",
     "points": 630,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-05.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-05.png",
     "xws": "jlamm05"
   },
   {
     "name": "jl-am-m-06",
     "points": 631,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-06.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-06.png",
     "xws": "jlamm06"
   },
   {
     "name": "jl-am-m-07",
     "points": 632,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-07.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-07.png",
     "xws": "jlamm07"
   },
   {
     "name": "jl-am-m-08",
     "points": 633,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-08.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-08.png",
     "xws": "jlamm08"
   },
   {
     "name": "jl-am-m-09",
     "points": 634,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-09.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-09.png",
     "xws": "jlamm09"
   },
   {
     "name": "jl-am-m-10",
     "points": 635,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-10.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-10.png",
     "xws": "jlamm10"
   },
   {
     "name": "jl-am-m-11",
     "points": 636,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-11.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-11.png",
     "xws": "jlamm11"
   },
   {
     "name": "jl-am-m-12",
     "points": 637,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-12.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-12.png",
     "xws": "jlamm12"
   },
   {
     "name": "jl-am-m-13",
     "points": 638,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-13.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-13.png",
     "xws": "jlamm13"
   },
   {
     "name": "jl-am-m-14",
     "points": 639,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-14.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-14.png",
     "xws": "jlamm14"
   },
   {
     "name": "jl-am-m-15",
     "points": 640,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-15.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-15.png",
     "xws": "jlamm15"
   },
   {
     "name": "jl-am-m-16",
     "points": 641,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-16.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-16.png",
     "xws": "jlamm16"
   },
   {
     "name": "jl-am-m-17",
     "points": 642,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-17.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-17.png",
     "xws": "jlamm17"
   },
   {
     "name": "jl-am-m-18",
     "points": 643,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-18.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-18.png",
     "xws": "jlamm18"
   },
   {
     "name": "jl-am-m-19",
     "points": 644,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-19.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-19.png",
     "xws": "jlamm19"
   },
   {
     "name": "jl-am-m-20",
     "points": 645,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-20.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-20.png",
     "xws": "jlamm20"
   },
   {
     "name": "jl-am-m-back",
     "points": 646,
     "expansion": "Jaws Of The Lion",
-    "image": "attack-modifiers/JL/base/monster/jl-am-m-back.png",
+    "image": "attack-modifiers/Jaws Of The Lion/base/monster/jl-am-m-back.png",
     "xws": "jlammback"
   },
   {
