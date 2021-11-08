@@ -4056,1722 +4056,1722 @@
     "name": "jl-ma-bs-back",
     "points": 579,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-back.png",
     "xws": "jlmabsback"
   },
   {
     "name": "jl-ma-bs-1",
     "points": 580,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-1.png",
     "xws": "jlmabs1"
   },
   {
     "name": "jl-ma-bs-2",
     "points": 581,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-2.png",
     "xws": "jlmabs2"
   },
   {
     "name": "jl-ma-bs-3",
     "points": 582,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-3.png",
     "xws": "jlmabs3"
   },
   {
     "name": "jl-ma-bs-4",
     "points": 583,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-4.png",
     "xws": "jlmabs4"
   },
   {
     "name": "jl-ma-bs-5",
     "points": 584,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-5.png",
     "xws": "jlmabs5"
   },
   {
     "name": "jl-ma-bs-6",
     "points": 585,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-6.png",
     "xws": "jlmabs6"
   },
   {
     "name": "jl-ma-bs-7",
     "points": 586,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-7.png",
     "xws": "jlmabs7"
   },
   {
     "name": "jl-ma-bs-8",
     "points": 587,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/jl-ma-bs-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/jl-ma-bs-8.png",
     "xws": "jlmabs8"
   },
   {
     "name": "black sludge back",
     "points": 588,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/black-sludge-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/black-sludge-back.png",
     "xws": "blacksludgeback"
   },
   {
     "name": "black hex",
     "points": 589,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/black-hex.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/black-hex.png",
     "xws": "blackhex"
   },
   {
     "name": "calculated strike",
     "points": 590,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "feed",
     "points": 591,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/feed.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/feed.png",
     "xws": "feed"
   },
   {
     "name": "hasty assault",
     "points": 592,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/hasty-assault.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "nothing special",
     "points": 593,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "plasma ward",
     "points": 594,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/plasma-ward.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/plasma-ward.png",
     "xws": "plasmaward"
   },
   {
     "name": "sceptic hex",
     "points": 595,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/sceptic-hex.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/sceptic-hex.png",
     "xws": "sceptichex"
   },
   {
     "name": "toxic explosion",
     "points": 596,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/black-sludge/toxic-explosion.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/black-sludge/toxic-explosion.png",
     "xws": "toxicexplosion"
   },
   {
     "name": "jl-ma-bo-back",
     "points": 597,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-back.png",
     "xws": "jlmaboback"
   },
   {
     "name": "jl-ma-bo-1",
     "points": 598,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-1.png",
     "xws": "jlmabo1"
   },
   {
     "name": "jl-ma-bo-2",
     "points": 599,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-2.png",
     "xws": "jlmabo2"
   },
   {
     "name": "jl-ma-bo-3",
     "points": 600,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-3.png",
     "xws": "jlmabo3"
   },
   {
     "name": "jl-ma-bo-4",
     "points": 601,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-4.png",
     "xws": "jlmabo4"
   },
   {
     "name": "jl-ma-bo-5",
     "points": 602,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-5.png",
     "xws": "jlmabo5"
   },
   {
     "name": "jl-ma-bo-6",
     "points": 603,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-6.png",
     "xws": "jlmabo6"
   },
   {
     "name": "jl-ma-bo-7",
     "points": 604,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-7.png",
     "xws": "jlmabo7"
   },
   {
     "name": "jl-ma-bo-8",
     "points": 605,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/jl-ma-bo-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/jl-ma-bo-8.png",
     "xws": "jlmabo8"
   },
   {
     "name": "boss back",
     "points": 606,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/boss-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/boss-back.png",
     "xws": "bossback"
   },
   {
     "name": "accelerated power",
     "points": 607,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/accelerated-power-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/accelerated-power-1.png",
     "xws": "acceleratedpower"
   },
   {
     "name": "accelerated power",
     "points": 608,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/accelerated-power-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/accelerated-power-2.png",
     "xws": "acceleratedpower"
   },
   {
     "name": "accelerated power",
     "points": 609,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/accelerated-power-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/accelerated-power-3.png",
     "xws": "acceleratedpower"
   },
   {
     "name": "lingering strength",
     "points": 610,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/lingering-strength-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/lingering-strength-1.png",
     "xws": "lingeringstrength"
   },
   {
     "name": "lingering strength",
     "points": 611,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/lingering-strength-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/lingering-strength-2.png",
     "xws": "lingeringstrength"
   },
   {
     "name": "lingering strength",
     "points": 612,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/lingering-strength-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/lingering-strength-3.png",
     "xws": "lingeringstrength"
   },
   {
     "name": "nothing special",
     "points": 613,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "twin missiles",
     "points": 614,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/boss/twin-missiles.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/boss/twin-missiles.png",
     "xws": "twinmissiles"
   },
   {
     "name": "jl-ma-cd-back",
     "points": 615,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-back.png",
     "xws": "jlmacdback"
   },
   {
     "name": "jl-ma-cd-1",
     "points": 616,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-1.png",
     "xws": "jlmacd1"
   },
   {
     "name": "jl-ma-cd-2",
     "points": 617,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-2.png",
     "xws": "jlmacd2"
   },
   {
     "name": "jl-ma-cd-3",
     "points": 618,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-3.png",
     "xws": "jlmacd3"
   },
   {
     "name": "jl-ma-cd-4",
     "points": 619,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-4.png",
     "xws": "jlmacd4"
   },
   {
     "name": "jl-ma-cd-5",
     "points": 620,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-5.png",
     "xws": "jlmacd5"
   },
   {
     "name": "jl-ma-cd-6",
     "points": 621,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-6.png",
     "xws": "jlmacd6"
   },
   {
     "name": "jl-ma-cd-7",
     "points": 622,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-7.png",
     "xws": "jlmacd7"
   },
   {
     "name": "jl-ma-cd-8",
     "points": 623,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/jl-ma-cd-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/jl-ma-cd-8.png",
     "xws": "jlmacd8"
   },
   {
     "name": "chaos demon back",
     "points": 624,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/chaos-demon-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/chaos-demon-back.png",
     "xws": "chaosdemonback"
   },
   {
     "name": "black tendrils",
     "points": 625,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/black-tendrils.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/black-tendrils.png",
     "xws": "blacktendrils"
   },
   {
     "name": "chilling breath",
     "points": 626,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/chilling-breath.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/chilling-breath.png",
     "xws": "chillingbreath"
   },
   {
     "name": "flashing claws",
     "points": 627,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/flashing-claws.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/flashing-claws.png",
     "xws": "flashingclaws"
   },
   {
     "name": "heat blast",
     "points": 628,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/heat-blast.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/heat-blast.png",
     "xws": "heatblast"
   },
   {
     "name": "hungry maw",
     "points": 629,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/hungry-maw.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/hungry-maw.png",
     "xws": "hungrymaw"
   },
   {
     "name": "mana explosion",
     "points": 630,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/mana-explosion.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/mana-explosion.png",
     "xws": "jlmanaexplosion"
   },
   {
     "name": "seismic punch",
     "points": 631,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/seismic-punch.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/seismic-punch.png",
     "xws": "seismicpunch"
   },
   {
     "name": "whirlwind",
     "points": 632,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/chaos-demon/whirlwind.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/chaos-demon/whirlwind.png",
     "xws": "whirlwind"
   },
   {
     "name": "jl-ma-bgv-back",
     "points": 633,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-bgv-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-bgv-back.png",
     "xws": "jlmabgvback"
   },
   {
     "name": "jl-ma-bgv-1",
     "points": 634,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-bgv-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-bgv-1.png",
     "xws": "jlmabgv1"
   },
   {
     "name": "jl-ma-bgv-2",
     "points": 635,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-bgv-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-bgv-2.png",
     "xws": "jlmabgv2"
   },
   {
     "name": "jl-ma-bgv-3",
     "points": 636,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-bgv-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-bgv-3.png",
     "xws": "jlmabgv3"
   },
   {
     "name": "jl-ma-bgv-4",
     "points": 637,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-bgv-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-bgv-4.png",
     "xws": "jlmabgv4"
   },
   {
     "name": "basic giant viper back",
     "points": 638,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/basic-giant-viper-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/basic-giant-viper-back.png",
     "xws": "basicgiantviperback"
   },
   {
     "name": "basic swift fangs",
     "points": 639,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/basic-swift-fangs.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/basic-swift-fangs.png",
     "xws": "basicswiftfangs"
   },
   {
     "name": "basic find cover",
     "points": 640,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/basic-find-cover.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/basic-find-cover.png",
     "xws": "basicfindcover"
   },
   {
     "name": "basic constrict",
     "points": 641,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/basic-constrict.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/basic-constrict.png",
     "xws": "basicconstrict"
   },
   {
     "name": "basic toxic frenzy",
     "points": 642,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/basic-toxic-frenzy.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/basic-toxic-frenzy.png",
     "xws": "basictoxicfrenzy"
   },
   {
     "name": "jl-ma-gv-back",
     "points": 643,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-back.png",
     "xws": "jlmagvback"
   },
   {
     "name": "jl-ma-gv-1",
     "points": 644,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-1.png",
     "xws": "jlmagv1"
   },
   {
     "name": "jl-ma-gv-2",
     "points": 645,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-2.png",
     "xws": "jlmagv2"
   },
   {
     "name": "jl-ma-gv-3",
     "points": 646,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-3.png",
     "xws": "jlmagv3"
   },
   {
     "name": "jl-ma-gv-4",
     "points": 647,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-4.png",
     "xws": "jlmagv4"
   },
   {
     "name": "jl-ma-gv-5",
     "points": 648,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-5.png",
     "xws": "jlmagv5"
   },
   {
     "name": "jl-ma-gv-6",
     "points": 649,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-6.png",
     "xws": "jlmagv6"
   },
   {
     "name": "jl-ma-gv-7",
     "points": 650,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-7.png",
     "xws": "jlmagv7"
   },
   {
     "name": "jl-ma-gv-8",
     "points": 651,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/jl-ma-gv-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/jl-ma-gv-8.png",
     "xws": "jlmagv8"
   },
   {
     "name": "giant viper back",
     "points": 652,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/giant-viper-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/giant-viper-back.png",
     "xws": "giantviperback"
   },
   {
     "name": "calculated strike",
     "points": 653,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "constrict",
     "points": 654,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/constrict.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/constrict.png",
     "xws": "constrict"
   },
   {
     "name": "defensive strike",
     "points": 655,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/defensive-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/defensive-strike.png",
     "xws": "defensivestrike"
   },
   {
     "name": "find cover",
     "points": 656,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/find-cover.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/find-cover.png",
     "xws": "findcover"
   },
   {
     "name": "surround",
     "points": 657,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/surround-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/surround-1.png",
     "xws": "surround"
   },
   {
     "name": "surround",
     "points": 658,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/surround-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/surround-2.png",
     "xws": "surround"
   },
   {
     "name": "swift fangs",
     "points": 659,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/swift-fangs.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/swift-fangs.png",
     "xws": "swiftfangs"
   },
   {
     "name": "toxic frenzy",
     "points": 660,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/giant-viper/toxic-frenzy.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/giant-viper/toxic-frenzy.png",
     "xws": "toxicfrenzy"
   },
   {
     "name": "jl-ma-im-back",
     "points": 661,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-back.png",
     "xws": "jlmaimback"
   },
   {
     "name": "jl-ma-im-1",
     "points": 662,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-1.png",
     "xws": "jlmaim1"
   },
   {
     "name": "jl-ma-im-2",
     "points": 663,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-2.png",
     "xws": "jlmaim2"
   },
   {
     "name": "jl-ma-im-3",
     "points": 664,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-3.png",
     "xws": "jlmaim3"
   },
   {
     "name": "jl-ma-im-4",
     "points": 665,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-4.png",
     "xws": "jlmaim4"
   },
   {
     "name": "jl-ma-im-5",
     "points": 666,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-5.png",
     "xws": "jlmaim5"
   },
   {
     "name": "jl-ma-im-6",
     "points": 667,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-6.png",
     "xws": "jlmaim6"
   },
   {
     "name": "jl-ma-im-7",
     "points": 668,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-7.png",
     "xws": "jlmaim7"
   },
   {
     "name": "jl-ma-im-8",
     "points": 669,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/jl-ma-im-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/jl-ma-im-8.png",
     "xws": "jlmaim8"
   },
   {
     "name": "imp back",
     "points": 670,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/imp-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/imp-back.png",
     "xws": "impback"
   },
   {
     "name": "calculated strike",
     "points": 671,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "cripple",
     "points": 672,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/cripple.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/cripple.png",
     "xws": "cripple"
   },
   {
     "name": "dark charm",
     "points": 673,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/dark-charm.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/dark-charm.png",
     "xws": "darkcharm"
   },
   {
     "name": "nothing special",
     "points": 674,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/nothing-special-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/nothing-special-1.png",
     "xws": "nothingspecial"
   },
   {
     "name": "nothing special",
     "points": 675,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/nothing-special-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/nothing-special-2.png",
     "xws": "nothingspecial"
   },
   {
     "name": "phase out",
     "points": 676,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/phase-out.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/phase-out.png",
     "xws": "phaseout"
   },
   {
     "name": "restoration",
     "points": 677,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/restoration.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/restoration.png",
     "xws": "restoration"
   },
   {
     "name": "tip the scales",
     "points": 678,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/imp/tip-the-scales.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/imp/tip-the-scales.png",
     "xws": "tipthescales"
   },
   {
     "name": "jl-ma-lc-back",
     "points": 679,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-back.png",
     "xws": "jlmalcback"
   },
   {
     "name": "jl-ma-lc-1",
     "points": 680,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-1.png",
     "xws": "jlmalc1"
   },
   {
     "name": "jl-ma-lc-2",
     "points": 681,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-2.png",
     "xws": "jlmalc2"
   },
   {
     "name": "jl-ma-lc-3",
     "points": 682,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-3.png",
     "xws": "jlmalc3"
   },
   {
     "name": "jl-ma-lc-4",
     "points": 683,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-4.png",
     "xws": "jlmalc4"
   },
   {
     "name": "jl-ma-lc-5",
     "points": 684,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-5.png",
     "xws": "jlmalc5"
   },
   {
     "name": "jl-ma-lc-6",
     "points": 685,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-6.png",
     "xws": "jlmalc6"
   },
   {
     "name": "jl-ma-lc-7",
     "points": 686,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-7.png",
     "xws": "jlmalc7"
   },
   {
     "name": "jl-ma-lc-8",
     "points": 687,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/jl-ma-lc-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/jl-ma-lc-8.png",
     "xws": "jlmalc8"
   },
   {
     "name": "living corpse back",
     "points": 688,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/living-corpse-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/living-corpse-back.png",
     "xws": "livingcorpseback"
   },
   {
     "name": "calculated strike",
     "points": 689,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "hasty assault",
     "points": 690,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/hasty-assault.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "nothing special",
     "points": 691,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/nothing-special-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/nothing-special-1.png",
     "xws": "nothingspecial"
   },
   {
     "name": "nothing special",
     "points": 692,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/nothing-special-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/nothing-special-2.png",
     "xws": "nothingspecial"
   },
   {
     "name": "reckless charge",
     "points": 693,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/reckless-charge.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/reckless-charge.png",
     "xws": "recklesscharge"
   },
   {
     "name": "release gas",
     "points": 694,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/release-gas.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/release-gas.png",
     "xws": "releasegas"
   },
   {
     "name": "rotting embrace",
     "points": 695,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/rotting-embrace.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/rotting-embrace.png",
     "xws": "rottingembrace"
   },
   {
     "name": "violent slam",
     "points": 696,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-corpse/violent-slam.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-corpse/violent-slam.png",
     "xws": "violentslam"
   },
   {
     "name": "jl-ma-ls-back",
     "points": 697,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-back.png",
     "xws": "jlmalsback"
   },
   {
     "name": "jl-ma-ls-1",
     "points": 698,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-1.png",
     "xws": "jlmals1"
   },
   {
     "name": "jl-ma-ls-2",
     "points": 699,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-2.png",
     "xws": "jlmals2"
   },
   {
     "name": "jl-ma-ls-3",
     "points": 700,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-3.png",
     "xws": "jlmals3"
   },
   {
     "name": "jl-ma-ls-4",
     "points": 701,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-4.png",
     "xws": "jlmals4"
   },
   {
     "name": "jl-ma-ls-5",
     "points": 702,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-5.png",
     "xws": "jlmals5"
   },
   {
     "name": "jl-ma-ls-6",
     "points": 703,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-6.png",
     "xws": "jlmals6"
   },
   {
     "name": "jl-ma-ls-7",
     "points": 704,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-7.png",
     "xws": "jlmals7"
   },
   {
     "name": "jl-ma-ls-8",
     "points": 705,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/jl-ma-ls-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/jl-ma-ls-8.png",
     "xws": "jlmals8"
   },
   {
     "name": "living spirit back",
     "points": 706,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/living-spirit-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/living-spirit-back.png",
     "xws": "livingspiritback"
   },
   {
     "name": "angry howl",
     "points": 707,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/angry-howl.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/angry-howl.png",
     "xws": "angryhowl"
   },
   {
     "name": "booming scream",
     "points": 708,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/booming-scream.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/booming-scream.png",
     "xws": "boomingscream"
   },
   {
     "name": "coupled chain",
     "points": 709,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/coupled-chain.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/coupled-chain.png",
     "xws": "coupledchain"
   },
   {
     "name": "icy glare",
     "points": 710,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/icy-glare.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/icy-glare.png",
     "xws": "icyglare"
   },
   {
     "name": "leech warmth",
     "points": 711,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/leech-warmth.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/leech-warmth.png",
     "xws": "leechwarmth"
   },
   {
     "name": "nothing special",
     "points": 712,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/nothing-special-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/nothing-special-1.png",
     "xws": "nothingspecial"
   },
   {
     "name": "nothing special",
     "points": 713,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/nothing-special-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/nothing-special-2.png",
     "xws": "nothingspecial"
   },
   {
     "name": "sap strength",
     "points": 714,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/living-spirit/sap-strength.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/living-spirit/sap-strength.png",
     "xws": "sapstrength"
   },
   {
     "name": "jl-ma-ms-back",
     "points": 715,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-back.png",
     "xws": "jlmamsback"
   },
   {
     "name": "jl-ma-ms-1",
     "points": 716,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-1.png",
     "xws": "jlmams1"
   },
   {
     "name": "jl-ma-ms-2",
     "points": 717,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-2.png",
     "xws": "jlmams2"
   },
   {
     "name": "jl-ma-ms-3",
     "points": 718,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-3.png",
     "xws": "jlmams3"
   },
   {
     "name": "jl-ma-ms-4",
     "points": 719,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-4.png",
     "xws": "jlmams4"
   },
   {
     "name": "jl-ma-ms-5",
     "points": 720,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-5.png",
     "xws": "jlmams5"
   },
   {
     "name": "jl-ma-ms-6",
     "points": 721,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-6.png",
     "xws": "jlmams6"
   },
   {
     "name": "jl-ma-ms-7",
     "points": 722,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-7.png",
     "xws": "jlmams7"
   },
   {
     "name": "jl-ma-ms-8",
     "points": 723,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/jl-ma-ms-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/jl-ma-ms-8.png",
     "xws": "jlmams8"
   },
   {
     "name": "monstrosity back",
     "points": 724,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/monstrosity-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/monstrosity-back.png",
     "xws": "monstrosityback"
   },
   {
     "name": "calculated strike",
     "points": 725,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "explosive blisters",
     "points": 726,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/explosive-blisters.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/explosive-blisters.png",
     "xws": "explosiveblisters"
   },
   {
     "name": "nothing special",
     "points": 727,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "swarm",
     "points": 728,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/swarm-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/swarm-1.png",
     "xws": "swarm"
   },
   {
     "name": "swarm",
     "points": 729,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/swarm-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/swarm-2.png",
     "xws": "swarm"
   },
   {
     "name": "unstable frenzy",
     "points": 730,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/unstable-frenzy.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/unstable-frenzy.png",
     "xws": "unstablefrenzy"
   },
   {
     "name": "unstable scratch",
     "points": 731,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/unstable-scratch.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/unstable-scratch.png",
     "xws": "unstablescratch"
   },
   {
     "name": "weakening bite",
     "points": 732,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/monstrosity/weakening-bite.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/monstrosity/weakening-bite.png",
     "xws": "weakeningbite"
   },
   {
     "name": "jl-ma-sg-back",
     "points": 733,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-back.png",
     "xws": "jlmasgback"
   },
   {
     "name": "jl-ma-sg-1",
     "points": 734,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-1.png",
     "xws": "jlmasg1"
   },
   {
     "name": "jl-ma-sg-2",
     "points": 735,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-2.png",
     "xws": "jlmasg2"
   },
   {
     "name": "jl-ma-sg-3",
     "points": 736,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-3.png",
     "xws": "jlmasg3"
   },
   {
     "name": "jl-ma-sg-4",
     "points": 737,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-4.png",
     "xws": "jlmasg4"
   },
   {
     "name": "jl-ma-sg-5",
     "points": 738,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-5.png",
     "xws": "jlmasg5"
   },
   {
     "name": "jl-ma-sg-6",
     "points": 739,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-6.png",
     "xws": "jlmasg6"
   },
   {
     "name": "jl-ma-sg-7",
     "points": 740,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-7.png",
     "xws": "jlmasg7"
   },
   {
     "name": "jl-ma-sg-8",
     "points": 741,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/jl-ma-sg-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/jl-ma-sg-8.png",
     "xws": "jlmasg8"
   },
   {
     "name": "stone golem back",
     "points": 742,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/stone-golem-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/stone-golem-back.png",
     "xws": "stonegolemback"
   },
   {
     "name": "calculated strike",
     "points": 743,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "ground pound",
     "points": 744,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/ground-pound.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/ground-pound.png",
     "xws": "groundpound"
   },
   {
     "name": "hasty assault",
     "points": 745,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/hasty-assault.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "nothing special",
     "points": 746,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "runic draw",
     "points": 747,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/runic-draw.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/runic-draw.png",
     "xws": "runicdraw"
   },
   {
     "name": "runic feedback",
     "points": 748,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/runic-feedback.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/runic-feedback.png",
     "xws": "runicfeedback"
   },
   {
     "name": "sacrificial hurl",
     "points": 749,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/sacrificial-hurl.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/sacrificial-hurl.png",
     "xws": "sacrificialhurl"
   },
   {
     "name": "taxing advance",
     "points": 750,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/stone-golem/taxing-advance.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/stone-golem/taxing-advance.png",
     "xws": "taxingadvance"
   },
   {
     "name": "jl-ma-bvr-back",
     "points": 751,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-bvr-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-bvr-back.png",
     "xws": "jlmabvrback"
   },
   {
     "name": "jl-ma-bvr-1",
     "points": 752,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-bvr-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-bvr-1.png",
     "xws": "jlmabvr1"
   },
   {
     "name": "jl-ma-bvr-2",
     "points": 753,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-bvr-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-bvr-2.png",
     "xws": "jlmabvr2"
   },
   {
     "name": "jl-ma-bvr-3",
     "points": 754,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-bvr-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-bvr-3.png",
     "xws": "jlmabvr3"
   },
   {
     "name": "jl-ma-bvr-4",
     "points": 755,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-bvr-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-bvr-4.png",
     "xws": "jlmabvr4"
   },
   {
     "name": "basic vermling raider back",
     "points": 756,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/basic-vermling-raider-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/basic-vermling-raider-back.png",
     "xws": "basicvermlingraiderback"
   },
   {
     "name": "basic screaming shot",
     "points": 757,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/basic-screaming-shot.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/basic-screaming-shot.png",
     "xws": "basicscreamingshot"
   },
   {
     "name": "basic careful throw",
     "points": 758,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/basic-careful-throw.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/basic-careful-throw.png",
     "xws": "basiccarefulthrow"
   },
   {
     "name": "basic dual daggers",
     "points": 759,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/basic-dual-daggers.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/basic-dual-daggers.png",
     "xws": "basicdualdaggers"
   },
   {
     "name": "basic nothing special",
     "points": 760,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/basic-nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/basic-nothing-special.png",
     "xws": "basicnothingspecial"
   },
   {
     "name": "jl-ma-vr-back",
     "points": 761,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-back.png",
     "xws": "jlmavrback"
   },
   {
     "name": "jl-ma-vr-1",
     "points": 762,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-1.png",
     "xws": "jlmavr1"
   },
   {
     "name": "jl-ma-vr-2",
     "points": 763,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-2.png",
     "xws": "jlmavr2"
   },
   {
     "name": "jl-ma-vr-3",
     "points": 764,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-3.png",
     "xws": "jlmavr3"
   },
   {
     "name": "jl-ma-vr-4",
     "points": 765,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-4.png",
     "xws": "jlmavr4"
   },
   {
     "name": "jl-ma-vr-5",
     "points": 766,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-5.png",
     "xws": "jlmavr5"
   },
   {
     "name": "jl-ma-vr-6",
     "points": 767,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-6.png",
     "xws": "jlmavr6"
   },
   {
     "name": "jl-ma-vr-7",
     "points": 768,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-7.png",
     "xws": "jlmavr7"
   },
   {
     "name": "jl-ma-vr-8",
     "points": 769,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/jl-ma-vr-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/jl-ma-vr-8.png",
     "xws": "jlmavr8"
   },
   {
     "name": "vermling raider back",
     "points": 770,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/vermling-raider-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/vermling-raider-back.png",
     "xws": "vermlingraiderback"
   },
   {
     "name": "careful throw",
     "points": 771,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/careful-throw.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/careful-throw.png",
     "xws": "carefulthrow"
   },
   {
     "name": "dual daggers",
     "points": 772,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/dual-daggers.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/dual-daggers.png",
     "xws": "dualdaggers"
   },
   {
     "name": "nothing special",
     "points": 773,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "parry",
     "points": 774,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/parry.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/parry.png",
     "xws": "parry"
   },
   {
     "name": "patch wounds",
     "points": 775,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/patch-wounds.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/patch-wounds.png",
     "xws": "patchwounds"
   },
   {
     "name": "screaming shot",
     "points": 776,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/screaming-shot.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/screaming-shot.png",
     "xws": "screamingshot"
   },
   {
     "name": "spiked pit",
     "points": 777,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/spiked-pit.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/spiked-pit.png",
     "xws": "spikedpit"
   },
   {
     "name": "vicious spear",
     "points": 778,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-raider/vicious-spear.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-raider/vicious-spear.png",
     "xws": "viciousspear"
   },
   {
     "name": "jl-ma-vs-back",
     "points": 779,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-back.png",
     "xws": "jlmavsback"
   },
   {
     "name": "jl-ma-vs-1",
     "points": 780,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-1.png",
     "xws": "jlmavs1"
   },
   {
     "name": "jl-ma-vs-2",
     "points": 781,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-2.png",
     "xws": "jlmavs2"
   },
   {
     "name": "jl-ma-vs-3",
     "points": 782,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-3.png",
     "xws": "jlmavs3"
   },
   {
     "name": "jl-ma-vs-4",
     "points": 783,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-4.png",
     "xws": "jlmavs4"
   },
   {
     "name": "jl-ma-vs-5",
     "points": 784,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-5.png",
     "xws": "jlmavs5"
   },
   {
     "name": "jl-ma-vs-6",
     "points": 785,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-6.png",
     "xws": "jlmavs6"
   },
   {
     "name": "jl-ma-vs-7",
     "points": 786,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-7.png",
     "xws": "jlmavs7"
   },
   {
     "name": "jl-ma-vs-8",
     "points": 787,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/jl-ma-vs-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/jl-ma-vs-8.png",
     "xws": "jlmavs8"
   },
   {
     "name": "vermling scout back",
     "points": 788,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/vermling-scout-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/vermling-scout-back.png",
     "xws": "vermlingscoutback"
   },
   {
     "name": "calculated strike",
     "points": 789,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "greed",
     "points": 790,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/greed.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/greed.png",
     "xws": "greed"
   },
   {
     "name": "hasty assault",
     "points": 791,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/hasty-assault.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "nothing special",
     "points": 792,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "noxious blade",
     "points": 793,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/noxious-blade.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/noxious-blade.png",
     "xws": "noxiousblade"
   },
   {
     "name": "rancid arrow",
     "points": 794,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/rancid-arrow.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/rancid-arrow.png",
     "xws": "rancidarrow"
   },
   {
     "name": "rapid bolts",
     "points": 795,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/rapid-bolts.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/rapid-bolts.png",
     "xws": "rapidbolts"
   },
   {
     "name": "short bow",
     "points": 796,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/vermling-scout/short-bow.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/vermling-scout/short-bow.png",
     "xws": "shortbow"
   },
   {
     "name": "jl-ma-bzl-back",
     "points": 797,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-bzl-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-bzl-back.png",
     "xws": "jlmabzlback"
   },
   {
     "name": "jl-ma-bzl-1",
     "points": 798,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-bzl-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-bzl-1.png",
     "xws": "jlmabzl1"
   },
   {
     "name": "jl-ma-bzl-2",
     "points": 799,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-bzl-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-bzl-2.png",
     "xws": "jlmabzl2"
   },
   {
     "name": "jl-ma-bzl-3",
     "points": 800,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-bzl-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-bzl-3.png",
     "xws": "jlmabzl3"
   },
   {
     "name": "jl-ma-bzl-4",
     "points": 801,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-bzl-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-bzl-4.png",
     "xws": "jlmabzl4"
   },
   {
     "name": "basic zealot back",
     "points": 802,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/basic-zealot-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/basic-zealot-back.png",
     "xws": "basiczealotback"
   },
   {
     "name": "basic boil blood",
     "points": 803,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/basic-boil-blood.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/basic-boil-blood.png",
     "xws": "basicboilblood"
   },
   {
     "name": "basic hex whip",
     "points": 804,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/basic-hex-whip.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/basic-hex-whip.png",
     "xws": "basichexwhip"
   },
   {
     "name": "basic vile scourge",
     "points": 805,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/basic-vile-scourge.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/basic-vile-scourge.png",
     "xws": "basicvilescourge"
   },
   {
     "name": "basic drain life",
     "points": 806,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/basic-drain-life.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/basic-drain-life.png",
     "xws": "basicdrainlife"
   },
   {
     "name": "jl-ma-zl-back",
     "points": 807,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-back.png",
     "xws": "jlmazlback"
   },
   {
     "name": "jl-ma-zl-1",
     "points": 808,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-1.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-1.png",
     "xws": "jlmazl1"
   },
   {
     "name": "jl-ma-zl-2",
     "points": 809,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-2.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-2.png",
     "xws": "jlmazl2"
   },
   {
     "name": "jl-ma-zl-3",
     "points": 810,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-3.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-3.png",
     "xws": "jlmazl3"
   },
   {
     "name": "jl-ma-zl-4",
     "points": 811,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-4.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-4.png",
     "xws": "jlmazl4"
   },
   {
     "name": "jl-ma-zl-5",
     "points": 812,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-5.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-5.png",
     "xws": "jlmazl5"
   },
   {
     "name": "jl-ma-zl-6",
     "points": 813,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-6.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-6.png",
     "xws": "jlmazl6"
   },
   {
     "name": "jl-ma-zl-7",
     "points": 814,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-7.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-7.png",
     "xws": "jlmazl7"
   },
   {
     "name": "jl-ma-zl-8",
     "points": 815,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/jl-ma-zl-8.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/jl-ma-zl-8.png",
     "xws": "jlmazl8"
   },
   {
     "name": "zealot back",
     "points": 816,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/zealot-back.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/zealot-back.png",
     "xws": "zealotback"
   },
   {
     "name": "boil blood",
     "points": 817,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/boil-blood.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/boil-blood.png",
     "xws": "boilblood"
   },
   {
     "name": "calculated strike",
     "points": 818,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/calculated-strike.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "drain life",
     "points": 819,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/drain-life.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/drain-life.png",
     "xws": "drainlife"
   },
   {
     "name": "hasty assault",
     "points": 820,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/hasty-assault.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "hex whip",
     "points": 821,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/hex-whip.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/hex-whip.png",
     "xws": "hexwhip"
   },
   {
     "name": "nothing special",
     "points": 822,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/nothing-special.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "unholy flame",
     "points": 823,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/unholy-flame.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/unholy-flame.png",
     "xws": "unholyflame"
   },
   {
     "name": "vile scourge",
     "points": 824,
     "expansion": "Jaws Of The Lion",
-    "image": "monster-ability-cards/zealot/vile-scourge.png",
+    "image": "monster-ability-cards/jaws-of-the-lion/zealot/vile-scourge.png",
     "xws": "vilescourge"
   }
 ]
