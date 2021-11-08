@@ -11,12 +11,12 @@ var files = [
 	'map-tiles.js',
 	'monster-ability-cards.js',
 	'monster-stat-cards.js',
-	'overlay-tokens.js',
 	'personal-quests.js',
 	'player-aid-cards.js',
 	'random-dungeons.js',
 	'random-scenarios.js',
 	'summons.js',
+	'tokens.js',
 	'world-map.js',
 ];
 
