@@ -177,198 +177,231 @@
   {
     "name": "battle-goals-back",
     "points": 25,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-battle-goals-back.png",
     "xws": "battlegoalsback"
   },
   {
     "name": "acrobat",
     "points": 26,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-acrobat.png",
     "xws": "acrobat"
   },
   {
     "name": "agoraphobe",
     "points": 27,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-agoraphobe.png",
     "xws": "agoraphobe"
   },
   {
     "name": "altruist",
     "points": 28,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-altruist.png",
     "xws": "altruist"
   },
   {
     "name": "assistant",
     "points": 29,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-assistant.png",
     "xws": "assistant"
   },
   {
     "name": "challenger",
     "points": 30,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-challenger.png",
     "xws": "challenger"
   },
   {
     "name": "closer",
     "points": 31,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-closer.png",
     "xws": "closer"
   },
   {
     "name": "conservator",
     "points": 32,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-conservator.png",
     "xws": "conservator"
   },
   {
     "name": "diehard",
     "points": 33,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-diehard.png",
     "xws": "diehard"
   },
   {
     "name": "egoist",
     "points": 34,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-egoist.png",
     "xws": "egoist"
   },
   {
     "name": "fast healer",
     "points": 35,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-fast-healer.png",
     "xws": "fasthealer"
   },
   {
     "name": "gambler",
     "points": 36,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-gambler.png",
     "xws": "gambler"
   },
   {
     "name": "hothead",
     "points": 37,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-hothead.png",
     "xws": "hothead"
   },
   {
     "name": "insomniac",
     "points": 38,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-insomniac.png",
     "xws": "insomniac"
   },
   {
     "name": "masochist",
     "points": 39,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-masochist.png",
     "xws": "masochist"
   },
   {
     "name": "mugger",
     "points": 40,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-mugger.png",
     "xws": "mugger"
   },
   {
     "name": "opener",
     "points": 41,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-opener.png",
     "xws": "opener"
   },
   {
     "name": "pacifist",
     "points": 42,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-pacifist.png",
     "xws": "pacifist"
   },
   {
     "name": "pickpocket",
     "points": 43,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-pickpocket.png",
     "xws": "pickpocket"
   },
   {
     "name": "pincushion",
     "points": 44,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-pincushion.png",
     "xws": "pincushion"
   },
   {
     "name": "plebeian",
     "points": 45,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-plebeian.png",
     "xws": "plebeian"
   },
   {
     "name": "prohibitionist",
     "points": 46,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-prohibitionist.png",
     "xws": "prohibitionist"
   },
   {
     "name": "ravager",
     "points": 47,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-ravager.png",
     "xws": "ravager"
   },
   {
     "name": "recluse",
     "points": 48,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-recluse.png",
     "xws": "recluse"
   },
   {
     "name": "sadist",
     "points": 49,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-sadist.png",
     "xws": "sadist"
   },
   {
     "name": "scrambler",
     "points": 50,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-scrambler.png",
     "xws": "scrambler"
   },
   {
     "name": "shadow",
     "points": 51,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-shadow.png",
     "xws": "shadow"
   },
   {
     "name": "shirker",
     "points": 52,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-shirker.png",
     "xws": "shirker"
   },
   {
     "name": "specialist",
     "points": 53,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-specialist.png",
     "xws": "specialist"
   },
   {
     "name": "straggler",
     "points": 54,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-straggler.png",
     "xws": "straggler"
   },
   {
     "name": "trailblazer",
     "points": 55,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-trailblazer.png",
     "xws": "trailblazer"
   },
   {
     "name": "transmitter",
     "points": 56,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-transmitter.png",
     "xws": "transmitter"
   },
   {
     "name": "weakling",
     "points": 57,
+    "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jl-weakling.png",
     "xws": "weakling"
   }
