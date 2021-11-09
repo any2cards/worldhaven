@@ -1216,5 +1216,19 @@
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-zealot-4.png",
     "xws": "zealot"
+  },
+  {
+    "name": "water spirit",
+    "points": 174,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/cs-water-spirit-0.png",
+    "xws": "waterspirit"
+  },
+  {
+    "name": "water spirit",
+    "points": 175,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/cs-water-spirit-4.png",
+    "xws": "waterspirit"
   }
 ]
