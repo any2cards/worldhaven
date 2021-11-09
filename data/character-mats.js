@@ -558,5 +558,159 @@
     "expansion": "Jaws Of The Lion",
     "image": "character-mats/jaws-of-the-lion/jl-voidwarden-back.png",
     "xws": "voidwarden"
+  },
+  {
+    "name": "bombard",
+    "points": 80,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-bombard.png",
+    "xws": "bombard"
+  },
+  {
+    "name": "bombard",
+    "points": 81,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-bombard-back.png",
+    "xws": "bombard"
+  },
+  {
+    "name": "brightspark",
+    "points": 82,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-brightspark.png",
+    "xws": "brightspark"
+  },
+  {
+    "name": "brightspark",
+    "points": 83,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-brightspark-back.png",
+    "xws": "brightspark"
+  },
+  {
+    "name": "chainguard",
+    "points": 84,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-chainguard.png",
+    "xws": "chainguard"
+  },
+  {
+    "name": "chainguard",
+    "points": 85,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-chainguard-back.png",
+    "xws": "chainguard"
+  },
+  {
+    "name": "chieftain",
+    "points": 86,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-chieftain.png",
+    "xws": "chieftain"
+  },
+  {
+    "name": "chieftain",
+    "points": 87,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-chieftain-back.png",
+    "xws": "chieftain"
+  },
+  {
+    "name": "fire knight",
+    "points": 88,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-fire-knight.png",
+    "xws": "fireknight"
+  },
+  {
+    "name": "fire knight",
+    "points": 89,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-fire-knight-back.png",
+    "xws": "fireknight"
+  },
+  {
+    "name": "hierophant",
+    "points": 90,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hierophant.png",
+    "xws": "hierophant"
+  },
+  {
+    "name": "hierophant",
+    "points": 91,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hierophant-back.png",
+    "xws": "hierophant"
+  },
+  {
+    "name": "hollowpact",
+    "points": 92,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hollowpact.png",
+    "xws": "hollowpact"
+  },
+  {
+    "name": "hollowpact",
+    "points": 93,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hollowpact-back.png",
+    "xws": "hollowpact"
+  },
+  {
+    "name": "luminary",
+    "points": 94,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-luminary.png",
+    "xws": "luminary"
+  },
+  {
+    "name": "luminary",
+    "points": 95,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-luminary-back.png",
+    "xws": "luminary"
+  },
+  {
+    "name": "mirefoot",
+    "points": 96,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-mirefoot.png",
+    "xws": "mirefoot"
+  },
+  {
+    "name": "mirefoot",
+    "points": 97,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-mirefoot-back.png",
+    "xws": "mirefoot"
+  },
+  {
+    "name": "spirit caller",
+    "points": 98,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-spirit-caller.png",
+    "xws": "spiritcaller"
+  },
+  {
+    "name": "spirit caller",
+    "points": 99,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-spirit-caller-back.png",
+    "xws": "spiritcaller"
+  },
+  {
+    "name": "starslinger",
+    "points": 100,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-starslinger.png",
+    "xws": "starslinger"
+  },
+  {
+    "name": "starslinger",
+    "points": 101,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-starslinger-back.png",
+    "xws": "starslinger"
   }
 ]
