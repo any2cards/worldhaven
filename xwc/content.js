@@ -171,8 +171,78 @@ const getTypeFromInputId = (input_id) => {
 
 async function loadFromStorage() {
   var inputArr = {};
-  chrome.storage.sync.get(['inputArr'], async function(item) {
+
+// Establish a default value for the extension in case storage is empty and/or this is the first time it is used
+	var extdefault = {
+		"cp": true,
+		"cs": true,
+		"cs-attack-modifiers": true,
+		"cs-character-ability-cards": true,
+		"cs-character-mats": true,
+		"cs-character-perks": true,
+		"cs-events": true,
+		"cs-items": true,
+		"cs-monster-ability-cards": true,
+		"cs-monster-stat-cards": true,
+		"cs-personal-quests": true,
+		"cs-tokens": true,
+		"fc": true,
+		"fc-attack-modifiers": true,
+		"fc-character-ability-cards": true,
+		"fc-character-ability-cards-revised": true,
+		"fc-character-mats": true,
+		"fc-character-perks": true,
+		"fc-events": true,
+		"fc-events-revised": true,
+		"fc-items": true,
+		"fc-monster-ability-cards": true,
+		"fc-monster-stat-cards": true,
+		"fc-player-aid-cards": true,
+		"fc-random-dungeons": true,
+		"fc-tokens": true,
+		"fh": true,
+		"fh-attack-modifiers": true,
+		"fh-character-ability-cards": true,
+		"fh-character-mats": true,
+		"fh-character-perks": true,
+		"fh-monster-ability-cards": true,
+		"fh-monster-stat-cards": true,
+		"gh": true,
+		"gh-attack-modifiers": true,
+		"gh-battle-goals": true,
+		"gh-character-ability-cards": true,
+		"gh-character-ability-cards-revised": true,
+		"gh-character-mats": true,
+		"gh-character-perks": true,
+		"gh-events": true,
+		"gh-items": true,
+		"gh-map-tiles": true,
+		"gh-monster-ability-cards": true,
+		"gh-monster-stat-cards": true,
+		"gh-personal-quests": true,
+		"gh-player-aid-cards": true,
+		"gh-random-dungeons": true,
+		"gh-random-scenarios": true,
+		"gh-summons": true,
+		"gh-tokens": true,
+		"gh-world-map": true,
+		"jl": true,
+		"jl-attack-modifiers": true,
+		"jl-battle-goals": true,
+		"jl-character-ability-cards": true,
+		"jl-character-mats": true,
+		"jl-character-perks": true,
+		"jl-events": true,
+		"jl-items": true,
+		"jl-monster-ability-cards": true,
+		"jl-monster-stat-cards": true,
+		"usrcom": true,
+		"wh": true
+	}
+		
+  chrome.storage.sync.get({['inputArr']: extdefault}, async function(item) {
     inputArr = item.inputArr;
+		console.log(item);
     for (const [input_id, checked] of Object.entries(inputArr)) {
       let exp = getExpFromInputId(input_id);
       let type = getTypeFromInputId(input_id);
