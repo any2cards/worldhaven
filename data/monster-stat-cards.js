@@ -1218,17 +1218,31 @@
     "xws": "zealot"
   },
   {
-    "name": "water spirit",
+    "name": "monster stat card envelope 6",
     "points": 174,
     "expansion": "Crimson Scales",
-    "image": "monster-stat-cards/cs-water-spirit-0.png",
+    "image": "monster-stat-cards/crimson-scales/cs-monster-stat-card-envelope-6.png",
+    "xws": "monsterstatcardenvelope6"
+  },
+  {
+    "name": "monster stat card envelope 10",
+    "points": 175,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-monster-stat-card-envelope-10.png",
+    "xws": "monsterstatcardenvelope6"
+  },
+  {
+    "name": "water spirit",
+    "points": 176,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-water-spirit-0.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 175,
+    "points": 177,
     "expansion": "Crimson Scales",
-    "image": "monster-stat-cards/cs-water-spirit-4.png",
+    "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
     "xws": "waterspirit"
   }
 ]
