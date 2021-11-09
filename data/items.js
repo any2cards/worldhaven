@@ -10038,155 +10038,141 @@
     "xws": "scrollofcharisma"
   },
   {
-    "name": "rescue shield",
+    "name": "item 79",
     "points": 1434,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
-    "name": "rescue shield",
+    "name": "item #79",
     "points": 1435,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-79-rescue-shield-back.png",
+    "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
-    "name": "item 79",
+    "name": "rescue shield",
     "points": 1436,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
-    "name": "item #79",
+    "name": "rescue shield",
     "points": 1437,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-79-rescue-shield.png",
-    "xws": "rescueshield"
-  },
-  {
-    "name": "rescue shield",
-    "points": 1438,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-79-rescue-shield.png",
-    "xws": "rescueshield"
-  },
-  {
-    "name": "rescue shield",
-    "points": 1439,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-79-rescue-shield-back.png",
     "xws": "rescueshield"
   },
   {
     "name": "item 80",
-    "points": 1440,
+    "points": 1438,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item #80",
+    "points": 1439,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
+    "xws": "scrollofprotection"
+  },
+  {
+    "name": "scroll of protection",
+    "points": 1440,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
+    "xws": "scrollofprotection"
+  },
+  {
+    "name": "scroll of protection",
     "points": 1441,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
-    "xws": "scrollofprotection"
-  },
-  {
-    "name": "scroll of protection",
-    "points": 1442,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
-    "xws": "scrollofprotection"
-  },
-  {
-    "name": "scroll of protection",
-    "points": 1443,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection-back.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item 81",
-    "points": 1444,
+    "points": 1442,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item #81",
+    "points": 1443,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
+    "xws": "spicybolsteringtonic"
+  },
+  {
+    "name": "spicy bolstering tonic",
+    "points": 1444,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
+    "xws": "spicybolsteringtonic"
+  },
+  {
+    "name": "spicy bolstering tonic",
     "points": 1445,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
-    "xws": "spicybolsteringtonic"
-  },
-  {
-    "name": "spicy bolstering tonic",
-    "points": 1446,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
-    "xws": "spicybolsteringtonic"
-  },
-  {
-    "name": "spicy bolstering tonic",
-    "points": 1447,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic-back.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item 82",
-    "points": 1448,
+    "points": 1446,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item #82",
+    "points": 1447,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-82-scroll-of-command.png",
+    "xws": "scrollofcommand"
+  },
+  {
+    "name": "scroll of command",
+    "points": 1448,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-82-scroll-of-command.png",
+    "xws": "scrollofcommand"
+  },
+  {
+    "name": "scroll of command",
     "points": 1449,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-82-scroll-of-command.png",
-    "xws": "scrollofcommand"
-  },
-  {
-    "name": "scroll of command",
-    "points": 1450,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-82-scroll-of-command.png",
-    "xws": "scrollofcommand"
-  },
-  {
-    "name": "scroll of command",
-    "points": 1451,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command-back.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item 83",
-    "points": 1452,
+    "points": 1450,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item #83",
+    "points": 1451,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
+    "xws": "sphereofcurrents"
+  },
+  {
+    "name": "sphere of currents",
+    "points": 1452,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
+    "xws": "sphereofcurrents"
+  },
+  {
+    "name": "sphere of currents",
     "points": 1453,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
-    "xws": "sphereofcurrents"
-  },
-  {
-    "name": "sphere of currents",
-    "points": 1454,
-    "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
-    "xws": "sphereofcurrents"
-  },
-  {
-    "name": "sphere of currents",
-    "points": 1455,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents-back.png",
     "xws": "sphereofcurrents"
