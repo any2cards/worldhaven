@@ -22,15 +22,17 @@ This repository contains data and images for the following games and components:
 - character-mats
 - character-perks
 - events
+- events-revised
 - items
+- map-tiles
 - monster-ability-cards
 - monster-stat-cards
-- overlay-tokens
-- personal-goals
+- personal-quests
 - player-aid-cards
 - random-dungeons
 - random-scenarios
 - summons
+- tokens
 - world-map
 
 There are four top-level directories; `data` , `images` , `pbf` ,and `xwc`.
