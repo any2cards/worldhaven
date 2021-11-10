@@ -12,6 +12,7 @@ This repository contains data and images for the following games and components:
 - Frosthaven
 - Jaws of the Lion
 - User Community
+	- Crimson Scales
 
 **Assets:**
 - attack-modifiers
