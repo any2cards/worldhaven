@@ -128,9 +128,11 @@ const deleteSpanNodes = () => {
     const elements = Array.from(document.querySelectorAll("span." + classname));
     elements.forEach(e => {
       if (e.classList.length == 1 && e.classList[0] == classname) {
-        if (e.parentNode != null) {
-          let text = e.textContent || e.innerText || e.innerHTML || "";
-          e.parentNode.innerHTML = text;
+        let parent = e.parentNode;
+        if (parent != null) {
+          e.replaceWith(e.innerText);
+          let html = parent.innerHTML;
+          parent.innerHTML = html;
         }
       }
     });
