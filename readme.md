@@ -79,7 +79,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [WH Asset Viewer](https://chrome.google.com/webstore/detail/worldhaven-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
+- [WH Asset Viewer](https://chrome.google.com/webstore/detail/worldhaven-asset-viewer/ajdomkjjfinhkpjhlgjhihheomoieoci) (Chrome Extension)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/worldhaven/issues/new?title=Add%20Project)
 
