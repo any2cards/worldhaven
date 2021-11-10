@@ -172,20 +172,30 @@ const getTypeFromInputId = (input_id) => {
 async function loadFromStorage() {
   var inputArr = {};
 
-// Establish a default value for the extension in case storage is empty and/or this is the first time it is used
+	// Establish a default value for the extension in case storage is empty and/or this is the first time it is used
+	// These values are in the Checkbox ID order for popup.html
 	var extdefault = {
+		"wh": true,
 		"cp": true,
-		"cs": true,
-		"cs-attack-modifiers": true,
-		"cs-character-ability-cards": true,
-		"cs-character-mats": true,
-		"cs-character-perks": true,
-		"cs-events": true,
-		"cs-items": true,
-		"cs-monster-ability-cards": true,
-		"cs-monster-stat-cards": true,
-		"cs-personal-quests": true,
-		"cs-tokens": true,
+		"gh": true,
+		"gh-attack-modifiers": true,
+		"gh-battle-goals": true,
+		"gh-character-ability-cards": true,
+		"gh-character-ability-cards-revised": true,
+		"gh-character-mats": true,
+		"gh-character-perks": true,
+		"gh-events": true,
+		"gh-items": true,
+		"gh-map-tiles": true,
+		"gh-monster-ability-cards": true,
+		"gh-monster-stat-cards": true,
+		"gh-personal-quests": true,
+		"gh-player-aid-cards": true,
+		"gh-random-dungeons": true,
+		"gh-random-scenarios": true,
+		"gh-summons": true,
+		"gh-tokens": true,
+		"gh-world-map": true,
 		"fc": true,
 		"fc-attack-modifiers": true,
 		"fc-character-ability-cards": true,
@@ -207,25 +217,6 @@ async function loadFromStorage() {
 		"fh-character-perks": true,
 		"fh-monster-ability-cards": true,
 		"fh-monster-stat-cards": true,
-		"gh": true,
-		"gh-attack-modifiers": true,
-		"gh-battle-goals": true,
-		"gh-character-ability-cards": true,
-		"gh-character-ability-cards-revised": true,
-		"gh-character-mats": true,
-		"gh-character-perks": true,
-		"gh-events": true,
-		"gh-items": true,
-		"gh-map-tiles": true,
-		"gh-monster-ability-cards": true,
-		"gh-monster-stat-cards": true,
-		"gh-personal-quests": true,
-		"gh-player-aid-cards": true,
-		"gh-random-dungeons": true,
-		"gh-random-scenarios": true,
-		"gh-summons": true,
-		"gh-tokens": true,
-		"gh-world-map": true,
 		"jl": true,
 		"jl-attack-modifiers": true,
 		"jl-battle-goals": true,
@@ -237,12 +228,21 @@ async function loadFromStorage() {
 		"jl-monster-ability-cards": true,
 		"jl-monster-stat-cards": true,
 		"usrcom": true,
-		"wh": true
+		"cs": true,
+		"cs-attack-modifiers": true,
+		"cs-character-ability-cards": true,
+		"cs-character-mats": true,
+		"cs-character-perks": true,
+		"cs-events": true,
+		"cs-items": true,
+		"cs-monster-ability-cards": true,
+		"cs-monster-stat-cards": true,
+		"cs-personal-quests": true,
+		"cs-tokens": true
 	}
 		
   chrome.storage.sync.get({['inputArr']: extdefault}, async function(item) {
     inputArr = item.inputArr;
-		console.log(item);
     for (const [input_id, checked] of Object.entries(inputArr)) {
       let exp = getExpFromInputId(input_id);
       let type = getTypeFromInputId(input_id);

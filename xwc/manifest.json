@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Worldhaven Asset Viewer",
 	"description": "Display Worldhaven Game Assets",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"web_accessible_resources": [
 		"icon-32.png"
 	],
