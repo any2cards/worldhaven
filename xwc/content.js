@@ -15,7 +15,6 @@ var files = [
 	'player-aid-cards.js',
 	'random-dungeons.js',
 	'random-scenarios.js',
-	'summons.js',
 	'tokens.js',
 	'world-map.js',
 ];
@@ -195,7 +194,6 @@ async function loadFromStorage() {
 		"gh-player-aid-cards": true,
 		"gh-random-dungeons": true,
 		"gh-random-scenarios": true,
-		"gh-summons": true,
 		"gh-tokens": true,
 		"gh-world-map": true,
 		"fc": true,

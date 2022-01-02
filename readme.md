@@ -31,7 +31,6 @@ This repository contains data and images for the following games and components:
 - player-aid-cards
 - random-dungeons
 - random-scenarios
-- summons
 - tokens
 - world-map
 
