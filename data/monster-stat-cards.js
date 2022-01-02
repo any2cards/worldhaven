@@ -1,437 +1,437 @@
 [
   {
-    "name": "ancient artillery",
-    "points": 0,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-ancient-artillery-0.png",
-    "xws": "ancientartillery"
-  },
-  {
-    "name": "ancient artillery",
-    "points": 1,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-ancient-artillery-4.png",
-    "xws": "ancientartillery"
-  },
-  {
-    "name": "bandit archer",
-    "points": 2,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-bandit-archer-0.png",
-    "xws": "banditarcher"
-  },
-  {
-    "name": "bandit archer",
-    "points": 3,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-bandit-archer-4.png",
-    "xws": "banditarcher"
-  },
-  {
-    "name": "bandit commander",
-    "points": 4,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-bandit-commander-0.png",
-    "xws": "banditcommander"
-  },
-  {
-    "name": "bandit commander",
-    "points": 5,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-bandit-commander-4.png",
-    "xws": "banditcommander"
-  },
-  {
-    "name": "bandit guard",
-    "points": 6,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-bandit-guard-0.png",
-    "xws": "banditguard"
-  },
-  {
-    "name": "bandit guard",
-    "points": 7,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-bandit-guard-4.png",
-    "xws": "banditguard"
-  },
-  {
-    "name": "black imp",
-    "points": 8,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-black-imp-0.png",
-    "xws": "blackimp"
-  },
-  {
-    "name": "black imp",
-    "points": 9,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-black-imp-4.png",
-    "xws": "blackimp"
-  },
-  {
-    "name": "captain of the guard",
-    "points": 10,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-captain-of-the-guard-0.png",
-    "xws": "captainoftheguard"
-  },
-  {
-    "name": "captain of the guard",
-    "points": 11,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-captain-of-the-guard-4.png",
-    "xws": "captainoftheguard"
-  },
-  {
-    "name": "cave bear",
-    "points": 12,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-cave-bear-0.png",
-    "xws": "cavebear"
-  },
-  {
-    "name": "cave bear",
-    "points": 13,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-cave-bear-4.png",
-    "xws": "cavebear"
-  },
-  {
-    "name": "city archer",
-    "points": 14,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-city-archer-0.png",
-    "xws": "cityarcher"
-  },
-  {
-    "name": "city archer",
-    "points": 15,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-city-archer-4.png",
-    "xws": "cityarcher"
-  },
-  {
-    "name": "city guard",
-    "points": 16,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-city-guard-0.png",
-    "xws": "cityguard"
-  },
-  {
-    "name": "city guard",
-    "points": 17,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-city-guard-4.png",
-    "xws": "cityguard"
-  },
-  {
-    "name": "cultist",
-    "points": 18,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-cultist-0.png",
-    "xws": "cultist"
-  },
-  {
-    "name": "cultist",
-    "points": 19,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-cultist-4.png",
-    "xws": "cultist"
-  },
-  {
-    "name": "dark rider",
-    "points": 20,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-dark-rider-0.png",
-    "xws": "darkrider"
-  },
-  {
-    "name": "dark rider",
-    "points": 21,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-dark-rider-4.png",
-    "xws": "darkrider"
-  },
-  {
-    "name": "deep terror",
-    "points": 22,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-deep-terror-0.png",
-    "xws": "deepterror"
-  },
-  {
-    "name": "deep terror",
-    "points": 23,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-deep-terror-4.png",
-    "xws": "deepterror"
-  },
-  {
-    "name": "earth demon",
-    "points": 24,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-earth-demon-0.png",
-    "xws": "earthdemon"
-  },
-  {
-    "name": "earth demon",
-    "points": 25,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-earth-demon-4.png",
-    "xws": "earthdemon"
-  },
-  {
-    "name": "elder drake",
-    "points": 26,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-elder-drake-0.png",
-    "xws": "elderdrake"
-  },
-  {
-    "name": "elder drake",
-    "points": 27,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-elder-drake-4.png",
-    "xws": "elderdrake"
-  },
-  {
-    "name": "flame demon",
-    "points": 28,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-flame-demon-0.png",
-    "xws": "flamedemon"
-  },
-  {
-    "name": "flame demon",
-    "points": 29,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-flame-demon-4.png",
-    "xws": "flamedemon"
-  },
-  {
-    "name": "forest imp",
-    "points": 30,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-forest-imp-0.png",
-    "xws": "forestimp"
-  },
-  {
-    "name": "forest imp",
-    "points": 31,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-forest-imp-4.png",
-    "xws": "forestimp"
-  },
-  {
-    "name": "frost demon",
-    "points": 32,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-frost-demon-0.png",
-    "xws": "frostdemon"
-  },
-  {
-    "name": "frost demon",
-    "points": 33,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-frost-demon-4.png",
-    "xws": "frostdemon"
-  },
-  {
-    "name": "giant viper",
-    "points": 34,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-giant-viper-0.png",
-    "xws": "giantviper"
-  },
-  {
-    "name": "giant viper",
-    "points": 35,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-giant-viper-4.png",
-    "xws": "giantviper"
-  },
-  {
-    "name": "harrower infester",
-    "points": 36,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-harrower-infester-0.png",
-    "xws": "harrowerinfester"
-  },
-  {
-    "name": "harrower infester",
-    "points": 37,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-harrower-infester-4.png",
-    "xws": "harrowerinfester"
-  },
-  {
-    "name": "hound",
-    "points": 38,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-hound-0.png",
-    "xws": "hound"
-  },
-  {
-    "name": "hound",
-    "points": 39,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-hound-4.png",
-    "xws": "hound"
-  },
-  {
-    "name": "inox archer",
-    "points": 40,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-archer-0.png",
-    "xws": "inoxarcher"
-  },
-  {
-    "name": "inox archer",
-    "points": 41,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-archer-4.png",
-    "xws": "inoxarcher"
-  },
-  {
-    "name": "inox bodyguard",
-    "points": 42,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-bodyguard-0.png",
-    "xws": "inoxbodyguard"
-  },
-  {
-    "name": "inox bodyguard",
-    "points": 43,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-bodyguard-4.png",
-    "xws": "inoxbodyguard"
-  },
-  {
-    "name": "inox guard",
-    "points": 44,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-guard-0.png",
-    "xws": "inoxguard"
-  },
-  {
-    "name": "inox guard",
-    "points": 45,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-guard-4.png",
-    "xws": "inoxguard"
-  },
-  {
-    "name": "inox shaman",
-    "points": 46,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-shaman-0.png",
-    "xws": "inoxshaman"
-  },
-  {
-    "name": "inox shaman",
-    "points": 47,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-inox-shaman-4.png",
-    "xws": "inoxshaman"
-  },
-  {
-    "name": "jekserah",
-    "points": 48,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-jekserah-0.png",
-    "xws": "jekserah"
-  },
-  {
-    "name": "jekserah",
-    "points": 49,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-jekserah-4.png",
-    "xws": "jekserah"
-  },
-  {
-    "name": "living bones",
-    "points": 50,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-living-bones-0.png",
-    "xws": "livingbones"
-  },
-  {
-    "name": "living bones",
-    "points": 51,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-living-bones-4.png",
-    "xws": "livingbones"
-  },
-  {
-    "name": "living corpse",
-    "points": 52,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-living-corpse-0.png",
-    "xws": "livingcorpse"
-  },
-  {
-    "name": "living corpse",
-    "points": 53,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-living-corpse-4.png",
-    "xws": "livingcorpse"
-  },
-  {
-    "name": "living spirit",
-    "points": 54,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-living-spirit-0.png",
-    "xws": "livingspirit"
-  },
-  {
-    "name": "living spirit",
-    "points": 55,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-living-spirit-4.png",
-    "xws": "livingspirit"
-  },
-  {
-    "name": "lurker",
-    "points": 56,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-lurker-0.png",
-    "xws": "lurker"
-  },
-  {
-    "name": "lurker",
-    "points": 57,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-lurker-4.png",
-    "xws": "lurker"
-  },
-  {
-    "name": "merciless overseer",
-    "points": 58,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-merciless-overseer-0.png",
-    "xws": "mercilessoverseer"
-  },
-  {
-    "name": "merciless overseer",
-    "points": 59,
-    "expansion": "Gloomhaven",
-    "image": "monster-stat-cards/gloomhaven/gh-merciless-overseer-4.png",
-    "xws": "mercilessoverseer"
-  },
-  {
     "name": "monster stat card envelope 6",
-    "points": 60,
+    "points": 0,
     "expansion": "Gloomhaven",
     "image": "monster-stat-cards/gloomhaven/gh-monster-stat-card-envelope-6.png",
     "xws": "monsterstatcardenvelope6"
   },
   {
     "name": "monster stat card envelope 10",
-    "points": 61,
+    "points": 1,
     "expansion": "Gloomhaven",
     "image": "monster-stat-cards/gloomhaven/gh-monster-stat-card-envelope-10.png",
     "xws": "monsterstatcardenvelope6"
+  },
+  {
+    "name": "ancient artillery",
+    "points": 2,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-ancient-artillery-0.png",
+    "xws": "ancientartillery"
+  },
+  {
+    "name": "ancient artillery",
+    "points": 3,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-ancient-artillery-4.png",
+    "xws": "ancientartillery"
+  },
+  {
+    "name": "bandit archer",
+    "points": 4,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-bandit-archer-0.png",
+    "xws": "banditarcher"
+  },
+  {
+    "name": "bandit archer",
+    "points": 5,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-bandit-archer-4.png",
+    "xws": "banditarcher"
+  },
+  {
+    "name": "bandit commander",
+    "points": 6,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-bandit-commander-0.png",
+    "xws": "banditcommander"
+  },
+  {
+    "name": "bandit commander",
+    "points": 7,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-bandit-commander-4.png",
+    "xws": "banditcommander"
+  },
+  {
+    "name": "bandit guard",
+    "points": 8,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-bandit-guard-0.png",
+    "xws": "banditguard"
+  },
+  {
+    "name": "bandit guard",
+    "points": 9,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-bandit-guard-4.png",
+    "xws": "banditguard"
+  },
+  {
+    "name": "black imp",
+    "points": 10,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-black-imp-0.png",
+    "xws": "blackimp"
+  },
+  {
+    "name": "black imp",
+    "points": 11,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-black-imp-4.png",
+    "xws": "blackimp"
+  },
+  {
+    "name": "captain of the guard",
+    "points": 12,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-captain-of-the-guard-0.png",
+    "xws": "captainoftheguard"
+  },
+  {
+    "name": "captain of the guard",
+    "points": 13,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-captain-of-the-guard-4.png",
+    "xws": "captainoftheguard"
+  },
+  {
+    "name": "cave bear",
+    "points": 14,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-cave-bear-0.png",
+    "xws": "cavebear"
+  },
+  {
+    "name": "cave bear",
+    "points": 15,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-cave-bear-4.png",
+    "xws": "cavebear"
+  },
+  {
+    "name": "city archer",
+    "points": 16,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-city-archer-0.png",
+    "xws": "cityarcher"
+  },
+  {
+    "name": "city archer",
+    "points": 17,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-city-archer-4.png",
+    "xws": "cityarcher"
+  },
+  {
+    "name": "city guard",
+    "points": 18,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-city-guard-0.png",
+    "xws": "cityguard"
+  },
+  {
+    "name": "city guard",
+    "points": 19,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-city-guard-4.png",
+    "xws": "cityguard"
+  },
+  {
+    "name": "cultist",
+    "points": 20,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-cultist-0.png",
+    "xws": "cultist"
+  },
+  {
+    "name": "cultist",
+    "points": 21,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-cultist-4.png",
+    "xws": "cultist"
+  },
+  {
+    "name": "dark rider",
+    "points": 22,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-dark-rider-0.png",
+    "xws": "darkrider"
+  },
+  {
+    "name": "dark rider",
+    "points": 23,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-dark-rider-4.png",
+    "xws": "darkrider"
+  },
+  {
+    "name": "deep terror",
+    "points": 24,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-deep-terror-0.png",
+    "xws": "deepterror"
+  },
+  {
+    "name": "deep terror",
+    "points": 25,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-deep-terror-4.png",
+    "xws": "deepterror"
+  },
+  {
+    "name": "earth demon",
+    "points": 26,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-earth-demon-0.png",
+    "xws": "earthdemon"
+  },
+  {
+    "name": "earth demon",
+    "points": 27,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-earth-demon-4.png",
+    "xws": "earthdemon"
+  },
+  {
+    "name": "elder drake",
+    "points": 28,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-elder-drake-0.png",
+    "xws": "elderdrake"
+  },
+  {
+    "name": "elder drake",
+    "points": 29,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-elder-drake-4.png",
+    "xws": "elderdrake"
+  },
+  {
+    "name": "flame demon",
+    "points": 30,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-flame-demon-0.png",
+    "xws": "flamedemon"
+  },
+  {
+    "name": "flame demon",
+    "points": 31,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-flame-demon-4.png",
+    "xws": "flamedemon"
+  },
+  {
+    "name": "forest imp",
+    "points": 32,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-forest-imp-0.png",
+    "xws": "forestimp"
+  },
+  {
+    "name": "forest imp",
+    "points": 33,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-forest-imp-4.png",
+    "xws": "forestimp"
+  },
+  {
+    "name": "frost demon",
+    "points": 34,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-frost-demon-0.png",
+    "xws": "frostdemon"
+  },
+  {
+    "name": "frost demon",
+    "points": 35,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-frost-demon-4.png",
+    "xws": "frostdemon"
+  },
+  {
+    "name": "giant viper",
+    "points": 36,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-giant-viper-0.png",
+    "xws": "giantviper"
+  },
+  {
+    "name": "giant viper",
+    "points": 37,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-giant-viper-4.png",
+    "xws": "giantviper"
+  },
+  {
+    "name": "harrower infester",
+    "points": 38,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-harrower-infester-0.png",
+    "xws": "harrowerinfester"
+  },
+  {
+    "name": "harrower infester",
+    "points": 39,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-harrower-infester-4.png",
+    "xws": "harrowerinfester"
+  },
+  {
+    "name": "hound",
+    "points": 40,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-hound-0.png",
+    "xws": "hound"
+  },
+  {
+    "name": "hound",
+    "points": 41,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-hound-4.png",
+    "xws": "hound"
+  },
+  {
+    "name": "inox archer",
+    "points": 42,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-archer-0.png",
+    "xws": "inoxarcher"
+  },
+  {
+    "name": "inox archer",
+    "points": 43,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-archer-4.png",
+    "xws": "inoxarcher"
+  },
+  {
+    "name": "inox bodyguard",
+    "points": 44,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-bodyguard-0.png",
+    "xws": "inoxbodyguard"
+  },
+  {
+    "name": "inox bodyguard",
+    "points": 45,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-bodyguard-4.png",
+    "xws": "inoxbodyguard"
+  },
+  {
+    "name": "inox guard",
+    "points": 46,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-guard-0.png",
+    "xws": "inoxguard"
+  },
+  {
+    "name": "inox guard",
+    "points": 47,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-guard-4.png",
+    "xws": "inoxguard"
+  },
+  {
+    "name": "inox shaman",
+    "points": 48,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-shaman-0.png",
+    "xws": "inoxshaman"
+  },
+  {
+    "name": "inox shaman",
+    "points": 49,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-inox-shaman-4.png",
+    "xws": "inoxshaman"
+  },
+  {
+    "name": "jekserah",
+    "points": 50,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-jekserah-0.png",
+    "xws": "jekserah"
+  },
+  {
+    "name": "jekserah",
+    "points": 51,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-jekserah-4.png",
+    "xws": "jekserah"
+  },
+  {
+    "name": "living bones",
+    "points": 52,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-living-bones-0.png",
+    "xws": "livingbones"
+  },
+  {
+    "name": "living bones",
+    "points": 53,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-living-bones-4.png",
+    "xws": "livingbones"
+  },
+  {
+    "name": "living corpse",
+    "points": 54,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-living-corpse-0.png",
+    "xws": "livingcorpse"
+  },
+  {
+    "name": "living corpse",
+    "points": 55,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-living-corpse-4.png",
+    "xws": "livingcorpse"
+  },
+  {
+    "name": "living spirit",
+    "points": 56,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-living-spirit-0.png",
+    "xws": "livingspirit"
+  },
+  {
+    "name": "living spirit",
+    "points": 57,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-living-spirit-4.png",
+    "xws": "livingspirit"
+  },
+  {
+    "name": "lurker",
+    "points": 58,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-lurker-0.png",
+    "xws": "lurker"
+  },
+  {
+    "name": "lurker",
+    "points": 59,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-lurker-4.png",
+    "xws": "lurker"
+  },
+  {
+    "name": "merciless overseer",
+    "points": 60,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-merciless-overseer-0.png",
+    "xws": "mercilessoverseer"
+  },
+  {
+    "name": "merciless overseer",
+    "points": 61,
+    "expansion": "Gloomhaven",
+    "image": "monster-stat-cards/gloomhaven/gh-merciless-overseer-4.png",
+    "xws": "mercilessoverseer"
   },
   {
     "name": "night demon",
@@ -1134,113 +1134,85 @@
     "xws": "livingspirit"
   },
   {
-    "name": "monster stat card envelope 6",
-    "points": 162,
-    "expansion": "Jaws Of The Lion",
-    "image": "monster-stat-cards/jaws-of-the-lion/jl-monster-stat-card-envelope-6.png",
-    "xws": "monsterstatcardenvelope6"
-  },
-  {
-    "name": "monster stat card envelope 10",
-    "points": 163,
-    "expansion": "Jaws Of The Lion",
-    "image": "monster-stat-cards/jaws-of-the-lion/jl-monster-stat-card-envelope-10.png",
-    "xws": "monsterstatcardenvelope6"
-  },
-  {
     "name": "rat monstrosity",
-    "points": 164,
+    "points": 162,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-rat-monstrosity-0.png",
     "xws": "ratmonstrosity"
   },
   {
     "name": "rat monstrosity",
-    "points": 165,
+    "points": 163,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-rat-monstrosity-4.png",
     "xws": "ratmonstrosity"
   },
   {
     "name": "stone golem",
-    "points": 166,
+    "points": 164,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-stone-golem-0.png",
     "xws": "stonegolem"
   },
   {
     "name": "stone golem",
-    "points": 167,
+    "points": 165,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-stone-golem-4.png",
     "xws": "stonegolem"
   },
   {
     "name": "vermling raider",
-    "points": 168,
+    "points": 166,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-raider-0.png",
     "xws": "vermlingraider"
   },
   {
     "name": "vermling raider",
-    "points": 169,
+    "points": 167,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-raider-4.png",
     "xws": "vermlingraider"
   },
   {
     "name": "vermling scout",
-    "points": 170,
+    "points": 168,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-scout-0.png",
     "xws": "vermlingscout"
   },
   {
     "name": "vermling scout",
-    "points": 171,
+    "points": 169,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-scout-4.png",
     "xws": "vermlingscout"
   },
   {
     "name": "zealot",
-    "points": 172,
+    "points": 170,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-zealot-0.png",
     "xws": "zealot"
   },
   {
     "name": "zealot",
-    "points": 173,
+    "points": 171,
     "expansion": "Jaws Of The Lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-zealot-4.png",
     "xws": "zealot"
   },
   {
-    "name": "monster stat card envelope 6",
-    "points": 174,
-    "expansion": "Crimson Scales",
-    "image": "monster-stat-cards/crimson-scales/cs-monster-stat-card-envelope-6.png",
-    "xws": "monsterstatcardenvelope6"
-  },
-  {
-    "name": "monster stat card envelope 10",
-    "points": 175,
-    "expansion": "Crimson Scales",
-    "image": "monster-stat-cards/crimson-scales/cs-monster-stat-card-envelope-10.png",
-    "xws": "monsterstatcardenvelope6"
-  },
-  {
     "name": "water spirit",
-    "points": 176,
+    "points": 172,
     "expansion": "Crimson Scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-0.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 177,
+    "points": 173,
     "expansion": "Crimson Scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
     "xws": "waterspirit"
