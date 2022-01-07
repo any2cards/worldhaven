@@ -9,6 +9,7 @@ var files = [
 	'events-revised.js',
 	'items.js',
 	'map-tiles.js',
+	'milestones.js',
 	'monster-ability-cards.js',
 	'monster-stat-cards.js',
 	'personal-quests.js',
@@ -235,9 +236,11 @@ async function loadFromStorage() {
 		"cs-character-perks": true,
 		"cs-events": true,
 		"cs-items": true,
+		"cs-milestones": true,
 		"cs-monster-ability-cards": true,
 		"cs-monster-stat-cards": true,
 		"cs-personal-quests": true,
+		"cs-player-aid-cards": true,
 		"cs-tokens": true
 	}
 		
