@@ -7070,116 +7070,116 @@
     "xws": "elevatedchemicals"
   },
   {
-    "name": "elixir of life",
+    "name": "elevated intake",
     "points": 1010,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/BK/cs-elevated-intake.png",
+    "xws": "elevatedintake"
+  },
+  {
+    "name": "elixir of life",
+    "points": 1011,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-elixir-of-life.png",
     "xws": "elixiroflife"
   },
   {
     "name": "environmental survey",
-    "points": 1011,
+    "points": 1012,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-environmental-survey.png",
     "xws": "environmentalsurvey"
   },
   {
     "name": "exothermic cocktail",
-    "points": 1012,
+    "points": 1013,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-exothermic-cocktail.png",
     "xws": "exothermiccocktail"
   },
   {
     "name": "frozen explosion",
-    "points": 1013,
+    "points": 1014,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-frozen-explosion.png",
     "xws": "frozenexplosion"
   },
   {
     "name": "leftover tonic",
-    "points": 1014,
+    "points": 1015,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-leftover-tonic.png",
     "xws": "leftovertonic"
   },
   {
     "name": "magnetic field",
-    "points": 1015,
+    "points": 1016,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-magnetic-field.png",
     "xws": "magneticfield"
   },
   {
     "name": "molecular hydroblast",
-    "points": 1016,
+    "points": 1017,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-molecular-hydroblast.png",
     "xws": "molecularhydroblast"
   },
   {
     "name": "nourishing formula",
-    "points": 1017,
+    "points": 1018,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-nourishing-formula.png",
     "xws": "nourishingformula"
   },
   {
     "name": "nutrient overdose",
-    "points": 1018,
+    "points": 1019,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-nutrient-overdose.png",
     "xws": "nutrientoverdose"
   },
   {
     "name": "preliminary research",
-    "points": 1019,
+    "points": 1020,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-preliminary-research.png",
     "xws": "preliminaryresearch"
   },
   {
     "name": "strength elixir",
-    "points": 1020,
+    "points": 1021,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-strength-elixir.png",
     "xws": "strengthelixir"
   },
   {
     "name": "transformation libation",
-    "points": 1021,
+    "points": 1022,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-transformation-libation.png",
     "xws": "transformationlibation"
   },
   {
     "name": "ultraviolet rays",
-    "points": 1022,
+    "points": 1023,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-ultraviolet-rays.png",
     "xws": "ultravioletrays"
   },
   {
     "name": "versatile concoction",
-    "points": 1023,
+    "points": 1024,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-versatile-concoction.png",
     "xws": "versatileconcoction"
   },
   {
     "name": "weather forecast",
-    "points": 1024,
+    "points": 1025,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-weather-forecast.png",
     "xws": "weatherforecast"
-  },
-  {
-    "name": "weights and measures",
-    "points": 1025,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/BK/cs-weights-and-measures.png",
-    "xws": "weightsandmeasures"
   },
   {
     "name": "bm-back",
@@ -7434,10 +7434,10 @@
     "xws": "doubleko"
   },
   {
-    "name": "drag through the dirt",
+    "name": "drag through dirt",
     "points": 1062,
     "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/CG/cs-drag-through-the-dirt.png",
+    "image": "character-ability-cards/crimson-scales/CG/cs-drag-through-dirt.png",
     "xws": "dragthroughthedirt"
   },
   {
@@ -8358,25 +8358,25 @@
     "xws": "chainsoflight"
   },
   {
-    "name": "devine allegiance",
-    "points": 1194,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/HP/cs-devine-allegiance.png",
-    "xws": "devineallegiance"
-  },
-  {
     "name": "devotion",
-    "points": 1195,
+    "points": 1194,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-devotion.png",
     "xws": "devotion"
   },
   {
     "name": "devout assistance",
-    "points": 1196,
+    "points": 1195,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-devout-assistance.png",
     "xws": "devoutassistance"
+  },
+  {
+    "name": "divine allegiance",
+    "points": 1196,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/HP/cs-divine-allegiance.png",
+    "xws": "devineallegiance"
   },
   {
     "name": "encouraged conviction",
@@ -8771,11 +8771,11 @@
     "xws": "shimmeringscuttle"
   },
   {
-    "name": "shinning diversion",
+    "name": "shining diversion",
     "points": 1253,
     "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/LU/cs-shinning-diversion.png",
-    "xws": "shinningdiversion"
+    "image": "character-ability-cards/crimson-scales/LU/cs-shining-diversion.png",
+    "xws": "shiningdiversion"
   },
   {
     "name": "soft glow",
