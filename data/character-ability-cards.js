@@ -7084,11 +7084,11 @@
     "xws": "elixiroflife"
   },
   {
-    "name": "environmental survey",
+    "name": "enviromental survey",
     "points": 1012,
     "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/BK/cs-environmental-survey.png",
-    "xws": "environmentalsurvey"
+    "image": "character-ability-cards/crimson-scales/BK/cs-enviromental-survey.png",
+    "xws": "enviromentalsurvey"
   },
   {
     "name": "exothermic cocktail",
