@@ -287,78 +287,85 @@
     "xws": "voidwardenperks"
   },
   {
-    "name": "bombard perks",
+    "name": "party sheet",
     "points": 41,
+    "expansion": "Crimson Scales",
+    "image": "character-perks/crimson-scales/cs-party-sheet.png",
+    "xws": "partysheet"
+  },
+  {
+    "name": "bombard perks",
+    "points": 42,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-bombard-perks.png",
     "xws": "bombardperks"
   },
   {
     "name": "brightspark perks",
-    "points": 42,
+    "points": 43,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-brightspark-perks.png",
     "xws": "brightsparkperks"
   },
   {
     "name": "chainguard perks",
-    "points": 43,
+    "points": 44,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-chainguard-perks.png",
     "xws": "chainguardperks"
   },
   {
     "name": "chieftain perks",
-    "points": 44,
+    "points": 45,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-chieftain-perks.png",
     "xws": "chieftainperks"
   },
   {
     "name": "fire knight perks",
-    "points": 45,
+    "points": 46,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-fire-knight-perks.png",
     "xws": "fireknightperks"
   },
   {
     "name": "hierophant perks",
-    "points": 46,
+    "points": 47,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-hierophant-perks.png",
     "xws": "hierophantperks"
   },
   {
     "name": "hollowpact perks",
-    "points": 47,
+    "points": 48,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-hollowpact-perks.png",
     "xws": "hollowpactperks"
   },
   {
     "name": "luminary perks",
-    "points": 48,
+    "points": 49,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-luminary-perks.png",
     "xws": "luminaryperks"
   },
   {
     "name": "mirefoot perks",
-    "points": 49,
+    "points": 50,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-mirefoot-perks.png",
     "xws": "mirefootperks"
   },
   {
     "name": "spirit caller perks",
-    "points": 50,
+    "points": 51,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-spirit-caller-perks.png",
     "xws": "spiritcallerperks"
   },
   {
     "name": "starslinger perks",
-    "points": 51,
+    "points": 52,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-starslinger-perks.png",
     "xws": "starslingerperks"
