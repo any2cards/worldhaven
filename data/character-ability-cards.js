@@ -7987,11 +7987,11 @@
     "xws": "flashover"
   },
   {
-    "name": "forceful entry",
+    "name": "forcible entry",
     "points": 1141,
     "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/FK/cs-forceful-entry.png",
-    "xws": "forcefulentry"
+    "image": "character-ability-cards/crimson-scales/FK/cs-forcible-entry.png",
+    "xws": "forcibleentry"
   },
   {
     "name": "heavy irons",
