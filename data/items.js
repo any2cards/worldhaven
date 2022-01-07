@@ -10258,43 +10258,43 @@
     "name": "item 36",
     "points": 1465,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-36-unholy-blade.png",
-    "xws": "unholyblade"
+    "image": "items/crimson-scales/cs-36-curseblood-blade.png",
+    "xws": "cursebloodblade"
   },
   {
     "name": "item 036",
     "points": 1466,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-36-unholy-blade.png",
-    "xws": "unholyblade"
+    "image": "items/crimson-scales/cs-36-curseblood-blade.png",
+    "xws": "cursebloodblade"
   },
   {
     "name": "item #36",
     "points": 1467,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-36-unholy-blade.png",
-    "xws": "unholyblade"
+    "image": "items/crimson-scales/cs-36-curseblood-blade.png",
+    "xws": "cursebloodblade"
   },
   {
     "name": "item #036",
     "points": 1468,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-36-unholy-blade.png",
-    "xws": "unholyblade"
+    "image": "items/crimson-scales/cs-36-curseblood-blade.png",
+    "xws": "cursebloodblade"
   },
   {
-    "name": "unholy blade",
+    "name": "curseblood blade",
     "points": 1469,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-36-unholy-blade.png",
-    "xws": "unholyblade"
+    "image": "items/crimson-scales/cs-36-curseblood-blade.png",
+    "xws": "cursebloodblade"
   },
   {
-    "name": "unholy blade",
+    "name": "curseblood blade",
     "points": 1470,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-36-unholy-blade-back.png",
-    "xws": "unholyblade"
+    "image": "items/crimson-scales/cs-36-curseblood-blade-back.png",
+    "xws": "cursebloodblade"
   },
   {
     "name": "item 37",
