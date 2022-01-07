@@ -7448,11 +7448,11 @@
     "xws": "followthechains"
   },
   {
-    "name": "gaining up",
+    "name": "ganging up",
     "points": 1064,
     "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/CG/cs-gaining-up.png",
-    "xws": "gainingup"
+    "image": "character-ability-cards/crimson-scales/CG/cs-ganging-up.png",
+    "xws": "gangingup"
   },
   {
     "name": "impending power",
