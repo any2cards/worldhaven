@@ -12474,14 +12474,14 @@
     "xws": "slugcrossbow"
   },
   {
-    "name": "sphere of currents",
+    "name": "slug crossbow",
     "points": 1782,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
-    "name": "sphere of currents",
+    "name": "slug crossbow",
     "points": 1783,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow-back.png",
@@ -12516,14 +12516,14 @@
     "xws": "refinedslugcrossbow"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined slug crossbow",
     "points": 1788,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined slug crossbow",
     "points": 1789,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow-back.png",
@@ -12558,14 +12558,14 @@
     "xws": "bulwarkbanner"
   },
   {
-    "name": "sphere of currents",
+    "name": "bulwark banner",
     "points": 1794,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
-    "name": "sphere of currents",
+    "name": "bulwark banner",
     "points": 1795,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner-back.png",
@@ -12600,14 +12600,14 @@
     "xws": "refinedbulwarkbanner"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined bulwark banner",
     "points": 1800,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined bulwark banner",
     "points": 1801,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner-back.png",
@@ -12642,14 +12642,14 @@
     "xws": "remotebeetle"
   },
   {
-    "name": "sphere of currents",
+    "name": "remote beetle",
     "points": 1806,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
-    "name": "sphere of currents",
+    "name": "remote beetle",
     "points": 1807,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-88-remote-beetle-back.png",
@@ -12684,14 +12684,14 @@
     "xws": "refinedremotebeetle"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined remote beetle",
     "points": 1812,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined remote beetle",
     "points": 1813,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle-back.png",
@@ -12726,14 +12726,14 @@
     "xws": "blazingboots"
   },
   {
-    "name": "sphere of currents",
+    "name": "blazing boots",
     "points": 1818,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
-    "name": "sphere of currents",
+    "name": "blazing boots",
     "points": 1819,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-90-blazing-boots-back.png",
@@ -12768,14 +12768,14 @@
     "xws": "refinedblazingboots"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined blazing boots",
     "points": 1824,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined blazing boots",
     "points": 1825,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots-back.png",
@@ -12810,14 +12810,14 @@
     "xws": "viperblowgun"
   },
   {
-    "name": "sphere of currents",
+    "name": "viper blowgun",
     "points": 1830,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
-    "name": "sphere of currents",
+    "name": "viper blowgun",
     "points": 1831,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun-back.png",
@@ -12852,14 +12852,14 @@
     "xws": "refinedviperblowgun"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined viper blowgun",
     "points": 1836,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
-    "name": "sphere of currents",
+    "name": "refined viper blowgun",
     "points": 1837,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun-back.png",
@@ -12894,14 +12894,14 @@
     "xws": "froststone"
   },
   {
-    "name": "sphere of currents",
+    "name": "frost stone",
     "points": 1842,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
-    "name": "sphere of currents",
+    "name": "frost stone",
     "points": 1843,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-94-frost-stone-back.png",
@@ -12936,14 +12936,14 @@
     "xws": "stormstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "storm stone",
     "points": 1848,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "storm stone",
     "points": 1849,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-95-storm-stone-back.png",
@@ -12978,14 +12978,14 @@
     "xws": "infernostone"
   },
   {
-    "name": "sphere of currents",
+    "name": "inferno stone",
     "points": 1854,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
-    "name": "sphere of currents",
+    "name": "inferno stone",
     "points": 1855,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-96-inferno-stone-back.png",
@@ -13020,14 +13020,14 @@
     "xws": "tremorstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "tremor stone",
     "points": 1860,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "tremor stone",
     "points": 1861,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-97-tremor-stone-back.png",
@@ -13062,14 +13062,14 @@
     "xws": "brilliantstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "brilliant stone",
     "points": 1866,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "brilliant stone",
     "points": 1867,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone-back.png",
@@ -13104,14 +13104,14 @@
     "xws": "darkstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "dark stone",
     "points": 1872,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "dark stone",
     "points": 1873,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-99-dark-stone-back.png",
@@ -13132,14 +13132,14 @@
     "xws": "wonderstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "wonder stone",
     "points": 1876,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-100-wonder-stone.png",
     "xws": "wonderstone"
   },
   {
-    "name": "sphere of currents",
+    "name": "wonder stone",
     "points": 1877,
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-100-wonder-stone-back.png",
