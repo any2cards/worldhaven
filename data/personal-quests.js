@@ -357,7 +357,7 @@
     "xws": "cspq330"
   },
   {
-    "name": "protect and server",
+    "name": "protect and serve",
     "points": 51,
     "expansion": "Crimson Scales",
     "image": "personal-quests/crimson-scales/cs-pq-330.png",
@@ -581,7 +581,7 @@
     "xws": "cspq346"
   },
   {
-    "name": "add adder divides",
+    "name": "an adder divides",
     "points": 83,
     "expansion": "Crimson Scales",
     "image": "personal-quests/crimson-scales/cs-pq-346.png",
