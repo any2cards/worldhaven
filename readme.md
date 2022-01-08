@@ -25,6 +25,7 @@ This repository contains data and images for the following games and components:
 - events-revised
 - items
 - map-tiles
+- milestones
 - monster-ability-cards
 - monster-stat-cards
 - personal-quests
