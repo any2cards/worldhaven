@@ -7112,11 +7112,11 @@
     "xws": "marchofmultitudes"
   },
   {
-    "name": "nuture the weak",
+    "name": "nurture the weak",
     "points": 1016,
     "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AA/cs-nuture-the-weak.png",
-    "xws": "nuturetheweak"
+    "image": "character-ability-cards/crimson-scales/AA/cs-nurture-the-weak.png",
+    "xws": "nurturetheweak"
   },
   {
     "name": "overwhelming swarm",
