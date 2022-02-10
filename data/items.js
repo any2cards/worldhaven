@@ -13149,29 +13149,29 @@
     "name": "item aa01",
     "points": 1878,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-aa01-rockspinner-bulwark.png",
-    "xws": "rockspinnerbulwark"
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
+    "xws": "rockspinebulwark"
   },
   {
     "name": "item #aa01",
     "points": 1879,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-aa01-rockspinner-bulwark.png",
-    "xws": "rockspinnerbulwark"
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
+    "xws": "rockspinebulwark"
   },
   {
-    "name": "rockspinner bulwark",
+    "name": "rockspine bulwark",
     "points": 1880,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-aa01-rockspinner-bulwark.png",
-    "xws": "rockspinnerbulwark"
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
+    "xws": "rockspinebulwark"
   },
   {
-    "name": "rockspinner bulwark",
+    "name": "rockspine bulwark",
     "points": 1881,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-aa01-rockspinner-bulwark-back.png",
-    "xws": "rockspinnerbulwark"
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark-back.png",
+    "xws": "rockspinebulwark"
   },
   {
     "name": "item aa02",
