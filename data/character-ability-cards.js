@@ -7224,2349 +7224,2349 @@
     "xws": "violentoutlash"
   },
   {
-    "name": "ar-back",
-    "points": 1032,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-ar-back.png",
-    "xws": "arback"
-  },
-  {
-    "name": "annihilating contraption",
-    "points": 1033,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-annihilating-contraption.png",
-    "xws": "annihilatingcontraption"
-  },
-  {
-    "name": "clockwork ravager",
-    "points": 1034,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-annihilating-contraption.png",
-    "xws": "annihilatingcontraption"
-  },
-  {
-    "name": "double-barrel railcaster",
-    "points": 1035,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-double-barrel-railcaster.png",
-    "xws": "doublebarrelrailcaster"
-  },
-  {
-    "name": "elemental condenser",
-    "points": 1036,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-elemental-condenser.png",
-    "xws": "elementalcondenser"
-  },
-  {
-    "name": "energy transmission",
-    "points": 1037,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-energy-transmission.png",
-    "xws": "energytransmission"
-  },
-  {
-    "name": "fragmentation grenade",
-    "points": 1038,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-fragmentation-grenade.png",
-    "xws": "fragmentationgrenade"
-  },
-  {
-    "name": "galvanic coil",
-    "points": 1039,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-galvanic-coil.png",
-    "xws": "galvaniccoil"
-  },
-  {
-    "name": "gravity inverter module",
-    "points": 1040,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-gravity-inverter-module.png",
-    "xws": "gravityinvertermodule"
-  },
-  {
-    "name": "improvised exosuit",
-    "points": 1041,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-improvised-exosuit.png",
-    "xws": "improvisedexosuit"
-  },
-  {
-    "name": "hollow carapace",
-    "points": 1042,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-improvised-exosuit.png",
-    "xws": "improvisedexosuit"
-  },
-  {
-    "name": "improvised mortar",
-    "points": 1043,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-improvised-mortar.png",
-    "xws": "improvisedmortar"
-  },
-  {
-    "name": "clockwork bombard",
-    "points": 1044,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-improvised-mortar.png",
-    "xws": "improvisedmortar"
-  },
-  {
-    "name": "instant relocation matrix",
-    "points": 1045,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-instant-relocation-matrix.png",
-    "xws": "instantrelocationmatrix"
-  },
-  {
-    "name": "jury-rigged machine",
-    "points": 1046,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-jury-rigged-machine.png",
-    "xws": "juryriggedmachine"
-  },
-  {
-    "name": "clockwork soldier",
-    "points": 1047,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-jury-rigged-machine.png",
-    "xws": "juryriggedmachine"
-  },
-  {
-    "name": "launch skywards",
-    "points": 1048,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-launch-skywards.png",
-    "xws": "launchskywards"
-  },
-  {
-    "name": "clockwork drone",
-    "points": 1049,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-launch-skywards.png",
-    "xws": "launchskywards"
-  },
-  {
-    "name": "march of machines",
-    "points": 1050,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-march-of-machines.png",
-    "xws": "marchofmachines"
-  },
-  {
-    "name": "oscillating projector",
-    "points": 1051,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-oscillating-projector.png",
-    "xws": "oscillatingprojector"
-  },
-  {
-    "name": "particle ray beam",
-    "points": 1052,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-particle-ray-beam.png",
-    "xws": "particleraybeam"
-  },
-  {
-    "name": "perfected exosuit",
-    "points": 1053,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-perfected-exosuit.png",
-    "xws": "perfectedexosuit"
-  },
-  {
-    "name": "phase field emitter",
-    "points": 1054,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-phase-field-emitter.png",
-    "xws": "phasefieldemitter"
-  },
-  {
-    "name": "power modulation",
-    "points": 1055,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-power-modulation.png",
-    "xws": "powermodulation"
-  },
-  {
-    "name": "ransack clutter",
-    "points": 1056,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-ransack-clutter.png",
-    "xws": "ransackclutter"
-  },
-  {
-    "name": "recycle parts",
-    "points": 1057,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-recycle-parts.png",
-    "xws": "recycleparts"
-  },
-  {
-    "name": "reinforce armor",
-    "points": 1058,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-reinforce-armor.png",
-    "xws": "reinforcearmor"
-  },
-  {
-    "name": "remote control",
-    "points": 1059,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-remote-control.png",
-    "xws": "remotecontrol"
-  },
-  {
-    "name": "repurpose leftovers",
-    "points": 1060,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-repurpose-leftovers.png",
-    "xws": "repurposeleftovers"
-  },
-  {
-    "name": "retrofit weapons",
-    "points": 1061,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-retrofit-weapons.png",
-    "xws": "retrofitweapons"
-  },
-  {
-    "name": "salvage grappler",
-    "points": 1062,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-salvage-grappler.png",
-    "xws": "salvagegrappler"
-  },
-  {
-    "name": "seeker missiles",
-    "points": 1063,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-seeker-missiles.png",
-    "xws": "seekermissiles"
-  },
-  {
-    "name": "clockwork rocket",
-    "points": 1064,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-seeker-missiles.png",
-    "xws": "seekermissiles"
-  },
-  {
-    "name": "trajectory diverter",
-    "points": 1065,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-trajectory-diverter.png",
-    "xws": "trajectorydiverter"
-  },
-  {
-    "name": "trudging bulwark",
-    "points": 1066,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-trudging-bulwark.png",
-    "xws": "trudgingbulwark"
-  },
-  {
-    "name": "clockwork guardian",
-    "points": 1067,
-    "expansion": "Crimson Scales",
-    "image": "character-ability-cards/crimson-scales/AR/cs-trudging-bulwark.png",
-    "xws": "trudgingbulwark"
-  },
-  {
     "name": "bk-back",
-    "points": 1068,
+    "points": 1032,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-bk-back.png",
     "xws": "bkback"
   },
   {
     "name": "acquire funding",
-    "points": 1069,
+    "points": 1033,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-acquire-funding.png",
     "xws": "acquirefunding"
   },
   {
     "name": "advanced research",
-    "points": 1070,
+    "points": 1034,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-advanced-research.png",
     "xws": "advancedresearch"
   },
   {
     "name": "antibiotic boost",
-    "points": 1071,
+    "points": 1035,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-antibiotic-boost.png",
     "xws": "antibioticboost"
   },
   {
     "name": "astronomical strike",
-    "points": 1072,
+    "points": 1036,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-astronomical-strike.png",
     "xws": "astronomicalstrike"
   },
   {
     "name": "black hole",
-    "points": 1073,
+    "points": 1037,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-astronomical-strike.png",
     "xws": "astronomicalstrike"
   },
   {
     "name": "befuddling serum",
-    "points": 1074,
+    "points": 1038,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-befuddling-serum.png",
     "xws": "befuddlingserum"
   },
   {
     "name": "blinding lightwaves",
-    "points": 1075,
+    "points": 1039,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-blinding-lightwaves.png",
     "xws": "blindinglightwaves"
   },
   {
     "name": "cell regeneration",
-    "points": 1076,
+    "points": 1040,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-cell-regeneration.png",
     "xws": "cellregeneration"
   },
   {
     "name": "contagious malady",
-    "points": 1077,
+    "points": 1041,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-contagious-malady.png",
     "xws": "contagiousmalady"
   },
   {
     "name": "corrosive combustion",
-    "points": 1078,
+    "points": 1042,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-corrosive-combustion.png",
     "xws": "corrosivecombustion"
   },
   {
     "name": "critical hypothesis",
-    "points": 1079,
+    "points": 1043,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-critical-hypothesis.png",
     "xws": "criticalhypothesis"
   },
   {
     "name": "critical observation",
-    "points": 1080,
+    "points": 1044,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-critical-observation.png",
     "xws": "criticalobservation"
   },
   {
     "name": "dynamic balance",
-    "points": 1081,
+    "points": 1045,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-dynamic-balance.png",
     "xws": "dynamicbalance"
   },
   {
     "name": "electromagnetism",
-    "points": 1082,
+    "points": 1046,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-electromagnetism.png",
     "xws": "electromagnetism"
   },
   {
     "name": "metal detector",
-    "points": 1083,
+    "points": 1047,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-electromagnetism.png",
     "xws": "electromagnetism"
   },
   {
     "name": "elevated chemicals",
-    "points": 1084,
+    "points": 1048,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-elevated-chemicals.png",
     "xws": "elevatedchemicals"
   },
   {
     "name": "elevated intake",
-    "points": 1085,
+    "points": 1049,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-elevated-intake.png",
     "xws": "elevatedintake"
   },
   {
     "name": "elixir of life",
-    "points": 1086,
+    "points": 1050,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-elixir-of-life.png",
     "xws": "elixiroflife"
   },
   {
     "name": "enviromental survey",
-    "points": 1087,
+    "points": 1051,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-enviromental-survey.png",
     "xws": "enviromentalsurvey"
   },
   {
     "name": "exothermic cocktail",
-    "points": 1088,
+    "points": 1052,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-exothermic-cocktail.png",
     "xws": "exothermiccocktail"
   },
   {
     "name": "frozen explosion",
-    "points": 1089,
+    "points": 1053,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-frozen-explosion.png",
     "xws": "frozenexplosion"
   },
   {
     "name": "leftover tonic",
-    "points": 1090,
+    "points": 1054,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-leftover-tonic.png",
     "xws": "leftovertonic"
   },
   {
     "name": "magnetic field",
-    "points": 1091,
+    "points": 1055,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-magnetic-field.png",
     "xws": "magneticfield"
   },
   {
     "name": "molecular hydroblast",
-    "points": 1092,
+    "points": 1056,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-molecular-hydroblast.png",
     "xws": "molecularhydroblast"
   },
   {
     "name": "nourishing formula",
-    "points": 1093,
+    "points": 1057,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-nourishing-formula.png",
     "xws": "nourishingformula"
   },
   {
     "name": "nutrient overdose",
-    "points": 1094,
+    "points": 1058,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-nutrient-overdose.png",
     "xws": "nutrientoverdose"
   },
   {
     "name": "preliminary research",
-    "points": 1095,
+    "points": 1059,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-preliminary-research.png",
     "xws": "preliminaryresearch"
   },
   {
     "name": "strength elixir",
-    "points": 1096,
+    "points": 1060,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-strength-elixir.png",
     "xws": "strengthelixir"
   },
   {
     "name": "transformation libation",
-    "points": 1097,
+    "points": 1061,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-transformation-libation.png",
     "xws": "transformationlibation"
   },
   {
     "name": "ultraviolet rays",
-    "points": 1098,
+    "points": 1062,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-ultraviolet-rays.png",
     "xws": "ultravioletrays"
   },
   {
     "name": "versatile concoction",
-    "points": 1099,
+    "points": 1063,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-versatile-concoction.png",
     "xws": "versatileconcoction"
   },
   {
     "name": "weather forecast",
-    "points": 1100,
+    "points": 1064,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BK/cs-weather-forecast.png",
     "xws": "weatherforecast"
   },
   {
     "name": "bm-back",
-    "points": 1101,
+    "points": 1065,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-bm-back.png",
     "xws": "bmback"
   },
   {
     "name": "airborne skyrocket",
-    "points": 1102,
+    "points": 1066,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-airborne-skyrocket.png",
     "xws": "airborneskyrocket"
   },
   {
     "name": "ballistic barrage",
-    "points": 1103,
+    "points": 1067,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-ballistic-barrage.png",
     "xws": "ballisticbarrage"
   },
   {
     "name": "barbed armor",
-    "points": 1104,
+    "points": 1068,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-barbed-armor.png",
     "xws": "barbedarmor"
   },
   {
     "name": "chain grapnel",
-    "points": 1105,
+    "points": 1069,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-chain-grapnel.png",
     "xws": "chaingrapnel"
   },
   {
     "name": "consistent firing",
-    "points": 1106,
+    "points": 1070,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-consistent-firing.png",
     "xws": "consistentfiring"
   },
   {
     "name": "defense mechanism",
-    "points": 1107,
+    "points": 1071,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-defense-mechanism.png",
     "xws": "defensemechanism"
   },
   {
     "name": "distant retribution",
-    "points": 1108,
+    "points": 1072,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-distant-retribution.png",
     "xws": "distantretribution"
   },
   {
     "name": "double cannons",
-    "points": 1109,
+    "points": 1073,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-double-cannons.png",
     "xws": "doublecannons"
   },
   {
     "name": "exploding cannonball",
-    "points": 1110,
+    "points": 1074,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-exploding-cannonball.png",
     "xws": "explodingcannonball"
   },
   {
     "name": "forceful bolt",
-    "points": 1111,
+    "points": 1075,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-forceful-bolt.png",
     "xws": "forcefulbolt"
   },
   {
     "name": "grappling hook",
-    "points": 1112,
+    "points": 1076,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-grappling-hook.png",
     "xws": "grapplinghook"
   },
   {
     "name": "hurried repairs",
-    "points": 1113,
+    "points": 1077,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-hurried-repairs.png",
     "xws": "hurriedrepairs"
   },
   {
     "name": "ignited launch",
-    "points": 1114,
+    "points": 1078,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-ignited-launch.png",
     "xws": "ignitedlaunch"
   },
   {
     "name": "man the cannon",
-    "points": 1115,
+    "points": 1079,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-man-the-cannon.png",
     "xws": "manthecannon"
   },
   {
     "name": "meteoric blast",
-    "points": 1116,
+    "points": 1080,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-meteoric-blast.png",
     "xws": "meteoricblast"
   },
   {
     "name": "pillars of smoke",
-    "points": 1117,
+    "points": 1081,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-pillars-of-smoke.png",
     "xws": "pillarsofsmoke"
   },
   {
     "name": "powerful buckshot",
-    "points": 1118,
+    "points": 1082,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-powerful-buckshot.png",
     "xws": "powerfulbuckshot"
   },
   {
     "name": "prolific perforation",
-    "points": 1119,
+    "points": 1083,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-prolific-perforation.png",
     "xws": "prolificperforation"
   },
   {
     "name": "quadruple cannons",
-    "points": 1120,
+    "points": 1084,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-quadruple-cannons.png",
     "xws": "quadruplecannons"
   },
   {
     "name": "rapid fire",
-    "points": 1121,
+    "points": 1085,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-rapid-fire.png",
     "xws": "rapidfire"
   },
   {
     "name": "rolling into position",
-    "points": 1122,
+    "points": 1086,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-rolling-into-position.png",
     "xws": "rollingintoposition"
   },
   {
     "name": "sharpened focus",
-    "points": 1123,
+    "points": 1087,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-sharpened-focus.png",
     "xws": "sharpenedfocus"
   },
   {
     "name": "stationary enhancements",
-    "points": 1124,
+    "points": 1088,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-stationary-enhancements.png",
     "xws": "stationaryenhancements"
   },
   {
     "name": "supercharged gunpowder",
-    "points": 1125,
+    "points": 1089,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-supercharged-gunpowder.png",
     "xws": "superchargedgunpowder"
   },
   {
     "name": "superior upgrade",
-    "points": 1126,
+    "points": 1090,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-superior-upgrade.png",
     "xws": "superiorupgrade"
   },
   {
     "name": "twin blast",
-    "points": 1127,
+    "points": 1091,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-twin-blast.png",
     "xws": "twinblast"
   },
   {
     "name": "unbreakable position",
-    "points": 1128,
+    "points": 1092,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-unbreakable-position.png",
     "xws": "unbreakableposition"
   },
   {
     "name": "unexpected bombshell",
-    "points": 1129,
+    "points": 1093,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/BM/cs-unexpected-bombshell.png",
     "xws": "unexpectedbombshell"
   },
   {
     "name": "cg-back",
-    "points": 1130,
+    "points": 1094,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-cg-back.png",
     "xws": "cgback"
   },
   {
     "name": "agonizing clamp",
-    "points": 1131,
+    "points": 1095,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-agonizing-clamp.png",
     "xws": "agonizingclamp"
   },
   {
     "name": "champion of chains",
-    "points": 1132,
+    "points": 1096,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-champion-of-chains.png",
     "xws": "championofchains"
   },
   {
     "name": "chokehold",
-    "points": 1133,
+    "points": 1097,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-chokehold.png",
     "xws": "chokehold"
   },
   {
     "name": "clamping snare",
-    "points": 1134,
+    "points": 1098,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-clamping-snare.png",
     "xws": "clampingsnare"
   },
   {
     "name": "dizzying release",
-    "points": 1135,
+    "points": 1099,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-dizzying-release.png",
     "xws": "dizzyingrelease"
   },
   {
     "name": "double k.o.",
-    "points": 1136,
+    "points": 1100,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-double-ko.png",
     "xws": "doubleko"
   },
   {
     "name": "drag through dirt",
-    "points": 1137,
+    "points": 1101,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-drag-through-dirt.png",
     "xws": "dragthroughthedirt"
   },
   {
     "name": "follow the chains",
-    "points": 1138,
+    "points": 1102,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-follow-the-chains.png",
     "xws": "followthechains"
   },
   {
     "name": "ganging up",
-    "points": 1139,
+    "points": 1103,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-ganging-up.png",
     "xws": "gangingup"
   },
   {
     "name": "impending power",
-    "points": 1140,
+    "points": 1104,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-impending-power.png",
     "xws": "impendingpower"
   },
   {
     "name": "iron thrust",
-    "points": 1141,
+    "points": 1105,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-iron-thrust.png",
     "xws": "ironthrust"
   },
   {
     "name": "latch and tow",
-    "points": 1142,
+    "points": 1106,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-latch-and-tow.png",
     "xws": "latchandtow"
   },
   {
     "name": "locking links",
-    "points": 1143,
+    "points": 1107,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-locking-links.png",
     "xws": "lockinglinks"
   },
   {
     "name": "merciless beatdown",
-    "points": 1144,
+    "points": 1108,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-merciless-beatdown.png",
     "xws": "mercilessbeatdown"
   },
   {
     "name": "meteor hammer",
-    "points": 1145,
+    "points": 1109,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-meteor-hammer.png",
     "xws": "meteorhammer"
   },
   {
     "name": "pivot and smash",
-    "points": 1146,
+    "points": 1110,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-pivot-and-smash.png",
     "xws": "pivotandsmash"
   },
   {
     "name": "roundhouse swing",
-    "points": 1147,
+    "points": 1111,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-roundhouse-swing.png",
     "xws": "roundhouseswing"
   },
   {
     "name": "rusty spikes",
-    "points": 1148,
+    "points": 1112,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-rusty-spikes.png",
     "xws": "rustyspikes"
   },
   {
     "name": "slamming shove",
-    "points": 1149,
+    "points": 1113,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-slamming-shove.png",
     "xws": "slammingshove"
   },
   {
     "name": "spiked knuckles",
-    "points": 1150,
+    "points": 1114,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-spiked-knuckles.png",
     "xws": "spikedknuckles"
   },
   {
     "name": "suffering steel",
-    "points": 1151,
+    "points": 1115,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-suffering-steel.png",
     "xws": "sufferingsteel"
   },
   {
     "name": "sweeping collision",
-    "points": 1152,
+    "points": 1116,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-sweeping-collision.png",
     "xws": "sweepingcollision"
   },
   {
     "name": "syndicated assault",
-    "points": 1153,
+    "points": 1117,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-syndicated-assault.png",
     "xws": "syndicatedassault"
   },
   {
     "name": "tighten the chains",
-    "points": 1154,
+    "points": 1118,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-tighten-the-chains.png",
     "xws": "tightenthechains"
   },
   {
     "name": "titanic chainwhip",
-    "points": 1155,
+    "points": 1119,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-titanic-chainwhip.png",
     "xws": "titanicchainwhip"
   },
   {
     "name": "unending torment",
-    "points": 1156,
+    "points": 1120,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-unending-torment.png",
     "xws": "unendingtorment"
   },
   {
     "name": "untouchable keeper",
-    "points": 1157,
+    "points": 1121,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-untouchable-keeper.png",
     "xws": "untouchablekeeper"
   },
   {
     "name": "vigorous sway",
-    "points": 1158,
+    "points": 1122,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-vigorous-sway.png",
     "xws": "vigoroussway"
   },
   {
     "name": "wrapped in metal",
-    "points": 1159,
+    "points": 1123,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CG/cs-wrapped-in-metal.png",
     "xws": "wrappedinmetal"
   },
   {
     "name": "ct-back",
-    "points": 1160,
+    "points": 1124,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-ct-back.png",
     "xws": "ctback"
   },
   {
     "name": "agile predator",
-    "points": 1161,
+    "points": 1125,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-agile-predator.png",
     "xws": "agilepredator"
   },
   {
     "name": "black panther",
-    "points": 1162,
+    "points": 1126,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-agile-predator.png",
     "xws": "agilepredator"
   },
   {
     "name": "catastrophic cattle",
-    "points": 1163,
+    "points": 1127,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-catastrophic-cattle.png",
     "xws": "catastrophiccattle"
   },
   {
     "name": "fighting bull",
-    "points": 1164,
+    "points": 1128,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-catastrophic-cattle.png",
     "xws": "catastrophiccattle"
   },
   {
     "name": "ceremonial dance",
-    "points": 1165,
+    "points": 1129,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-ceremonial-dance.png",
     "xws": "ceremonialdance"
   },
   {
     "name": "chest thumper",
-    "points": 1166,
+    "points": 1130,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-chest-thumper.png",
     "xws": "chestthumper"
   },
   {
     "name": "lowland gorilla",
-    "points": 1167,
+    "points": 1131,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-chest-thumper.png",
     "xws": "chestthumper"
   },
   {
     "name": "hunter's mark",
-    "points": 1168,
+    "points": 1132,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-hunters-mark.png",
     "xws": "huntersmark"
   },
   {
     "name": "impervious armor",
-    "points": 1169,
+    "points": 1133,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-impervious-armor.png",
     "xws": "imperviousarmor"
   },
   {
     "name": "battle rhinoceros",
-    "points": 1170,
+    "points": 1134,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-impervious-armor.png",
     "xws": "imperviousarmor"
   },
   {
     "name": "majestic mass",
-    "points": 1171,
+    "points": 1135,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-majestic-mass.png",
     "xws": "majesticmass"
   },
   {
     "name": "war elephant",
-    "points": 1172,
+    "points": 1136,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-majestic-mass.png",
     "xws": "majesticmass"
   },
   {
     "name": "master the reins",
-    "points": 1173,
+    "points": 1137,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-master-the-reins.png",
     "xws": "masterthereins"
   },
   {
     "name": "medicine shield",
-    "points": 1174,
+    "points": 1138,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-medicine-shield.png",
     "xws": "medicineshield"
   },
   {
     "name": "mounded sight",
-    "points": 1175,
+    "points": 1139,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-mounded-sight.png",
     "xws": "moundedsight"
   },
   {
     "name": "cavalry camel",
-    "points": 1176,
+    "points": 1140,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-mounded-sight.png",
     "xws": "moundedsight"
   },
   {
     "name": "one with nature",
-    "points": 1177,
+    "points": 1141,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-one-with-nature.png",
     "xws": "onewithnature"
   },
   {
     "name": "outrun the enemy",
-    "points": 1178,
+    "points": 1142,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-outrun-the-enemy.png",
     "xws": "outruntheenemy"
   },
   {
     "name": "speedy ostrich",
-    "points": 1179,
+    "points": 1143,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-outrun-the-enemy.png",
     "xws": "outruntheenemy"
   },
   {
     "name": "piercing darts",
-    "points": 1180,
+    "points": 1144,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-piercing-darts.png",
     "xws": "piercingdarts"
   },
   {
     "name": "pipe tomahawk",
-    "points": 1181,
+    "points": 1145,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-pipe-tomahawk.png",
     "xws": "pipetomahawk"
   },
   {
     "name": "positive reinforcement",
-    "points": 1182,
+    "points": 1146,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-positive-reinforcement.png",
     "xws": "positivereinforcement"
   },
   {
     "name": "prepared rations",
-    "points": 1183,
+    "points": 1147,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-prepared-rations.png",
     "xws": "preparedrations"
   },
   {
     "name": "pack mule",
-    "points": 1184,
+    "points": 1148,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-prepared-rations.png",
     "xws": "preparedrations"
   },
   {
     "name": "regal beast",
-    "points": 1185,
+    "points": 1149,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-regal-beast.png",
     "xws": "regalbeast"
   },
   {
     "name": "sabretooth tiger",
-    "points": 1186,
+    "points": 1150,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-regal-beast.png",
     "xws": "regalbeast"
   },
   {
     "name": "resurrection",
-    "points": 1187,
+    "points": 1151,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-resurrection.png",
     "xws": "resurrection"
   },
   {
     "name": "skinning knife",
-    "points": 1188,
+    "points": 1152,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-skinning-knife.png",
     "xws": "skinningknife"
   },
   {
     "name": "slow and steady",
-    "points": 1189,
+    "points": 1153,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-slow-and-steady.png",
     "xws": "slowandsteady"
   },
   {
     "name": "giant tortoise",
-    "points": 1190,
+    "points": 1154,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-slow-and-steady.png",
     "xws": "slowandsteady"
   },
   {
     "name": "sniffing hound",
-    "points": 1191,
+    "points": 1155,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-sniffing-hound.png",
     "xws": "sniffinghound"
   },
   {
     "name": "scout dog",
-    "points": 1192,
+    "points": 1156,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-sniffing-hound.png",
     "xws": "sniffinghound"
   },
   {
     "name": "soul whisperer",
-    "points": 1193,
+    "points": 1157,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-soul-whisperer.png",
     "xws": "soulwhisperer"
   },
   {
     "name": "spiked muzzle",
-    "points": 1194,
+    "points": 1158,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-spiked-muzzle.png",
     "xws": "spikedmuzzle"
   },
   {
     "name": "strapping bullwhip",
-    "points": 1195,
+    "points": 1159,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-strapping-bullwhip.png",
     "xws": "strappingbullwhip"
   },
   {
     "name": "sucker punch",
-    "points": 1196,
+    "points": 1160,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-sucker-punch.png",
     "xws": "suckerpunch"
   },
   {
     "name": "take the reins",
-    "points": 1197,
+    "points": 1161,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-take-the-reins.png",
     "xws": "takethereins"
   },
   {
     "name": "tribal blessing",
-    "points": 1198,
+    "points": 1162,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-tribal-blessing.png",
     "xws": "tribalblessing"
   },
   {
     "name": "venomous mayhem",
-    "points": 1199,
+    "points": 1163,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-venomous-mayhem.png",
     "xws": "venomousmayhem"
   },
   {
     "name": "cottonmouth snake",
-    "points": 1200,
+    "points": 1164,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-venomous-mayhem.png",
     "xws": "venomousmayhem"
   },
   {
     "name": "war paint",
-    "points": 1201,
+    "points": 1165,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/CT/cs-war-paint.png",
     "xws": "warpaint"
   },
   {
     "name": "fk-back",
-    "points": 1202,
+    "points": 1166,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-fk-back.png",
     "xws": "fkback"
   },
   {
     "name": "backdraft",
-    "points": 1203,
+    "points": 1167,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-backdraft.png",
     "xws": "backdraft"
   },
   {
     "name": "cauterize wound",
-    "points": 1204,
+    "points": 1168,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-cauterize-wound.png",
     "xws": "cauterizewound"
   },
   {
     "name": "collective combat",
-    "points": 1205,
+    "points": 1169,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-collective-combat.png",
     "xws": "collectivecombat"
   },
   {
     "name": "combat medic",
-    "points": 1206,
+    "points": 1170,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-combat-medic.png",
     "xws": "combatmedic"
   },
   {
     "name": "combined effort",
-    "points": 1207,
+    "points": 1171,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-combined-effort.png",
     "xws": "combinedeffort"
   },
   {
     "name": "controlled aggression",
-    "points": 1208,
+    "points": 1172,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-controlled-aggression.png",
     "xws": "controlledaggression"
   },
   {
     "name": "coordinated attack",
-    "points": 1209,
+    "points": 1173,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-coordinated-attack.png",
     "xws": "coordinatedattack"
   },
   {
     "name": "crew integrity",
-    "points": 1210,
+    "points": 1174,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-crew-integrity.png",
     "xws": "crewintegrity"
   },
   {
     "name": "fiery charisma",
-    "points": 1211,
+    "points": 1175,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-fiery-charisma.png",
     "xws": "fierycharisma"
   },
   {
     "name": "fire whirl",
-    "points": 1212,
+    "points": 1176,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-fire-whirl.png",
     "xws": "firewhirl"
   },
   {
     "name": "flaming axe",
-    "points": 1213,
+    "points": 1177,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "flashover",
-    "points": 1214,
+    "points": 1178,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-flashover.png",
     "xws": "flashover"
   },
   {
     "name": "reigniting drakefiend",
-    "points": 1215,
+    "points": 1179,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-flashover.png",
     "xws": "flashover"
   },
   {
     "name": "forcible entry",
-    "points": 1216,
+    "points": 1180,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-forcible-entry.png",
     "xws": "forcibleentry"
   },
   {
     "name": "heavy irons",
-    "points": 1217,
+    "points": 1181,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-heavy-irons.png",
     "xws": "heavyirons"
   },
   {
     "name": "hook and ladder",
-    "points": 1218,
+    "points": 1182,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-hook-and-ladder.png",
     "xws": "hookandladder"
   },
   {
     "name": "incident commander",
-    "points": 1219,
+    "points": 1183,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-incident-commander.png",
     "xws": "incidentcommander"
   },
   {
     "name": "jack of all trades",
-    "points": 1220,
+    "points": 1184,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-jack-of-all-trades.png",
     "xws": "jackofalltrades"
   },
   {
     "name": "kindled tonic",
-    "points": 1221,
+    "points": 1185,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-kindled-tonic.png",
     "xws": "kindledtonic"
   },
   {
     "name": "ladder assault",
-    "points": 1222,
+    "points": 1186,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-ladder-assault.png",
     "xws": "ladderassault"
   },
   {
     "name": "light irons",
-    "points": 1223,
+    "points": 1187,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-light-irons.png",
     "xws": "lightirons"
   },
   {
     "name": "loyal companion",
-    "points": 1224,
+    "points": 1188,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-loyal-companion.png",
     "xws": "loyalcompanion"
   },
   {
     "name": "spotted hound",
-    "points": 1225,
+    "points": 1189,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-loyal-companion.png",
     "xws": "loyalcompanion"
   },
   {
     "name": "mutual aid",
-    "points": 1226,
+    "points": 1190,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-mutual-aid.png",
     "xws": "mutualaid"
   },
   {
     "name": "playing with fire",
-    "points": 1227,
+    "points": 1191,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-playing-with-fire.png",
     "xws": "playingwithfire"
   },
   {
     "name": "practical tools",
-    "points": 1228,
+    "points": 1192,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-practical-tools.png",
     "xws": "practicaltools"
   },
   {
     "name": "rapid response",
-    "points": 1229,
+    "points": 1193,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-rapid-response.png",
     "xws": "rapidresponse"
   },
   {
     "name": "rolling flames",
-    "points": 1230,
+    "points": 1194,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-rolling-flames.png",
     "xws": "rollingflames"
   },
   {
     "name": "search and rescue",
-    "points": 1231,
+    "points": 1195,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-search-and-rescue.png",
     "xws": "searchandrescue"
   },
   {
     "name": "searing blaze",
-    "points": 1232,
+    "points": 1196,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-searing-blaze.png",
     "xws": "searingblaze"
   },
   {
     "name": "trauma care",
-    "points": 1233,
+    "points": 1197,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/FK/cs-trauma-care.png",
     "xws": "traumacare"
   },
   {
     "name": "ho-back",
-    "points": 1234,
+    "points": 1198,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-ho-back.png",
     "xws": "hoback"
   },
   {
     "name": "borrowed vitality",
-    "points": 1235,
+    "points": 1199,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-borrowed-vitality.png",
     "xws": "borrowedvitality"
   },
   {
     "name": "channel the void",
-    "points": 1236,
+    "points": 1200,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-channel-the-void.png",
     "xws": "channelthevoid"
   },
   {
     "name": "empowered assault",
-    "points": 1237,
+    "points": 1201,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-empowered-assault.png",
     "xws": "empoweredassault"
   },
   {
     "name": "enduring darkness",
-    "points": 1238,
+    "points": 1202,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-enduring-darkness.png",
     "xws": "enduringdarkness"
   },
   {
     "name": "enervating strike",
-    "points": 1239,
+    "points": 1203,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-enervating-strike.png",
     "xws": "enervatingstrike"
   },
   {
     "name": "entropy unleashed",
-    "points": 1240,
+    "points": 1204,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-entropy-unleashed.png",
     "xws": "entropyunleashed"
   },
   {
     "name": "find an opening",
-    "points": 1241,
+    "points": 1205,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-find-an-opening.png",
     "xws": "findanopening"
   },
   {
     "name": "gateway to the abyss",
-    "points": 1242,
+    "points": 1206,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-gateway-to-the-abyss.png",
     "xws": "gatewaytotheabyss"
   },
   {
     "name": "greed before need",
-    "points": 1243,
+    "points": 1207,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-greed-before-need.png",
     "xws": "greedbeforeneed"
   },
   {
     "name": "hollow embrace",
-    "points": 1244,
+    "points": 1208,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-hollow-embrace.png",
     "xws": "hollowembrace"
   },
   {
     "name": "implosion",
-    "points": 1245,
+    "points": 1209,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-implosion.png",
     "xws": "implosion"
   },
   {
     "name": "majestic malevolence",
-    "points": 1246,
+    "points": 1210,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-majestic-malevolence.png",
     "xws": "majesticmalevolence"
   },
   {
     "name": "nether binding",
-    "points": 1247,
+    "points": 1211,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-nether-binding.png",
     "xws": "netherbinding"
   },
   {
     "name": "nether blades",
-    "points": 1248,
+    "points": 1212,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-nether-blades.png",
     "xws": "netherblades"
   },
   {
     "name": "no escape",
-    "points": 1249,
+    "points": 1213,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-no-escape.png",
     "xws": "noescape"
   },
   {
     "name": "obliterate",
-    "points": 1250,
+    "points": 1214,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-obliterate.png",
     "xws": "obliterate"
   },
   {
     "name": "one with nothingness",
-    "points": 1251,
+    "points": 1215,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-one-with-nothingness.png",
     "xws": "onewithnothingness"
   },
   {
     "name": "prescient voidmastery",
-    "points": 1252,
+    "points": 1216,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-prescient-voidmastery.png",
     "xws": "prescientvoidmastery"
   },
   {
     "name": "reaching darkness",
-    "points": 1253,
+    "points": 1217,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-reaching-darkness.png",
     "xws": "reachingdarkness"
   },
   {
     "name": "ruinous barrage",
-    "points": 1254,
+    "points": 1218,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-ruinous-barrage.png",
     "xws": "ruinousbarrage"
   },
   {
     "name": "sever reality",
-    "points": 1255,
+    "points": 1219,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-sever-reality.png",
     "xws": "severreality"
   },
   {
     "name": "shrouded grasp",
-    "points": 1256,
+    "points": 1220,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-shrouded-grasp.png",
     "xws": "shroudedgrasp"
   },
   {
     "name": "stalking quarry",
-    "points": 1257,
+    "points": 1221,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-stalking-quarry.png",
     "xws": "stalkingquarry"
   },
   {
     "name": "tendrils of night",
-    "points": 1258,
+    "points": 1222,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-tendrils-of-night.png",
     "xws": "tendrilsofnight"
   },
   {
     "name": "touch of the void",
-    "points": 1259,
+    "points": 1223,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-touch-of-the-void.png",
     "xws": "touchofthevoid"
   },
   {
     "name": "untethered advance",
-    "points": 1260,
+    "points": 1224,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-untethered-advance.png",
     "xws": "untetheredadvance"
   },
   {
     "name": "void-enhanced armory",
-    "points": 1261,
+    "points": 1225,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-void-enhanced-armory.png",
     "xws": "voidenhancedarmory"
   },
   {
     "name": "void step",
-    "points": 1262,
+    "points": 1226,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-void-step.png",
     "xws": "voidstep"
   },
   {
     "name": "withering deluge",
-    "points": 1263,
+    "points": 1227,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HO/cs-withering-deluge.png",
     "xws": "witheringdeluge"
   },
   {
     "name": "hp-back",
-    "points": 1264,
+    "points": 1228,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-hp-back.png",
     "xws": "hpback"
   },
   {
     "name": "aspiration",
-    "points": 1265,
+    "points": 1229,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-aspiration.png",
     "xws": "aspiration"
   },
   {
     "name": "beacon of hope",
-    "points": 1266,
+    "points": 1230,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-beacon-of-hope.png",
     "xws": "beaconofhope"
   },
   {
     "name": "bringer of miracles",
-    "points": 1267,
+    "points": 1231,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-bringer-of-miracles.png",
     "xws": "bringerofmiracles"
   },
   {
     "name": "chains of light",
-    "points": 1268,
+    "points": 1232,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-chains-of-light.png",
     "xws": "chainsoflight"
   },
   {
     "name": "devotion",
-    "points": 1269,
+    "points": 1233,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-devotion.png",
     "xws": "devotion"
   },
   {
     "name": "devout assistance",
-    "points": 1270,
+    "points": 1234,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-devout-assistance.png",
     "xws": "devoutassistance"
   },
   {
     "name": "divine allegiance",
-    "points": 1271,
+    "points": 1235,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-divine-allegiance.png",
     "xws": "devineallegiance"
   },
   {
     "name": "encouraged conviction",
-    "points": 1272,
+    "points": 1236,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-encouraged-conviction.png",
     "xws": "encouragedconviction"
   },
   {
     "name": "expansive permanence",
-    "points": 1273,
+    "points": 1237,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-expansive-permanence.png",
     "xws": "expansivepermanence"
   },
   {
     "name": "faith calling",
-    "points": 1274,
+    "points": 1238,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-faith-calling.png",
     "xws": "faithcalling"
   },
   {
     "name": "grace",
-    "points": 1275,
+    "points": 1239,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-grace.png",
     "xws": "grace"
   },
   {
     "name": "harsh rebuke",
-    "points": 1276,
+    "points": 1240,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-harsh-rebuke.png",
     "xws": "harshrebuke"
   },
   {
     "name": "impetuous inquisition",
-    "points": 1277,
+    "points": 1241,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-impetuous-inquisition.png",
     "xws": "impetuousinquisition"
   },
   {
     "name": "inner reflection",
-    "points": 1278,
+    "points": 1242,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-inner-reflection.png",
     "xws": "innerreflection"
   },
   {
     "name": "inspired remedy",
-    "points": 1279,
+    "points": 1243,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-inspired-remedy.png",
     "xws": "inspiredremedy"
   },
   {
     "name": "lamentation",
-    "points": 1280,
+    "points": 1244,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-lamentation.png",
     "xws": "lamentation"
   },
   {
     "name": "meditation",
-    "points": 1281,
+    "points": 1245,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-meditation.png",
     "xws": "meditation"
   },
   {
     "name": "oaks embrace",
-    "points": 1282,
+    "points": 1246,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-oaks-embrace.png",
     "xws": "oaksembrace"
   },
   {
     "name": "ordination",
-    "points": 1283,
+    "points": 1247,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-ordination.png",
     "xws": "ordination"
   },
   {
     "name": "penitence",
-    "points": 1284,
+    "points": 1248,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-penitence.png",
     "xws": "penitence"
   },
   {
     "name": "prosperous concord",
-    "points": 1285,
+    "points": 1249,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-prosperous-concord.png",
     "xws": "prosperousconcord"
   },
   {
     "name": "restoring faith",
-    "points": 1286,
+    "points": 1250,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-restoring-faith.png",
     "xws": "restoringfaith"
   },
   {
     "name": "revered protector",
-    "points": 1287,
+    "points": 1251,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-revered-protector.png",
     "xws": "reveredprotector"
   },
   {
     "name": "righteous atonement",
-    "points": 1288,
+    "points": 1252,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-righteous-atonement.png",
     "xws": "righteousatonement"
   },
   {
     "name": "rooted subjugation",
-    "points": 1289,
+    "points": 1253,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-rooted-subjugation.png",
     "xws": "rootedsubjugation"
   },
   {
     "name": "sacred death",
-    "points": 1290,
+    "points": 1254,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-sacred-death.png",
     "xws": "sacreddeath"
   },
   {
     "name": "salvation",
-    "points": 1291,
+    "points": 1255,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-salvation.png",
     "xws": "salvation"
   },
   {
     "name": "soulful salvation",
-    "points": 1292,
+    "points": 1256,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-soulful-salvation.png",
     "xws": "soulfulsalvation"
   },
   {
     "name": "soul strike",
-    "points": 1293,
+    "points": 1257,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-soul-strike.png",
     "xws": "soulstrike"
   },
   {
     "name": "spiritual gains",
-    "points": 1294,
+    "points": 1258,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-spiritual-gains.png",
     "xws": "spiritualgains"
   },
   {
     "name": "standing ground",
-    "points": 1295,
+    "points": 1259,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-standing-ground.png",
     "xws": "standingground"
   },
   {
     "name": "symphony of oppression",
-    "points": 1296,
+    "points": 1260,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-symphony-of-oppression.png",
     "xws": "symphonyofoppression"
   },
   {
     "name": "unruly repentance",
-    "points": 1297,
+    "points": 1261,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-unruly-repentance.png",
     "xws": "unrulyrepentance"
   },
   {
     "name": "unstoppable force",
-    "points": 1298,
+    "points": 1262,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-unstoppable-force.png",
     "xws": "unstoppableforce"
   },
   {
     "name": "vengeful veneration",
-    "points": 1299,
+    "points": 1263,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-vengeful-veneration.png",
     "xws": "vengefulveneration"
   },
   {
     "name": "vital bond",
-    "points": 1300,
+    "points": 1264,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-vital-bond.png",
     "xws": "vitalbond"
   },
   {
     "name": "vocal sermon",
-    "points": 1301,
+    "points": 1265,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-vocal-sermon.png",
     "xws": "vocalsermon"
   },
   {
     "name": "weakened will",
-    "points": 1302,
+    "points": 1266,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/HP/cs-weakened-will.png",
     "xws": "weakenedwill"
   },
   {
     "name": "lu-back",
-    "points": 1303,
+    "points": 1267,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-lu-back.png",
     "xws": "luback"
   },
   {
     "name": "blackened rage",
-    "points": 1304,
+    "points": 1268,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-blackened-rage.png",
     "xws": "blackenedrage"
   },
   {
     "name": "blazing pincers",
-    "points": 1305,
+    "points": 1269,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-blazing-pincers.png",
     "xws": "blazingpincers"
   },
   {
     "name": "burning sparks",
-    "points": 1306,
+    "points": 1270,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-burning-sparks.png",
     "xws": "burningsparks"
   },
   {
     "name": "chilling wave",
-    "points": 1307,
+    "points": 1271,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-chilling-wave.png",
     "xws": "chillingwave"
   },
   {
     "name": "colorful wavelengths",
-    "points": 1308,
+    "points": 1272,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-colorful-wavelengths.png",
     "xws": "colorfulwavelengths"
   },
   {
     "name": "darkened overcast",
-    "points": 1309,
+    "points": 1273,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-darkened-overcast.png",
     "xws": "darkenedovercast"
   },
   {
     "name": "dominating illumination",
-    "points": 1310,
+    "points": 1274,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-dominating-illumination.png",
     "xws": "dominatingillumination"
   },
   {
     "name": "empowering rays",
-    "points": 1311,
+    "points": 1275,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-empowering-rays.png",
     "xws": "empoweringrays"
   },
   {
     "name": "encompassing aura",
-    "points": 1312,
+    "points": 1276,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-encompassing-aura.png",
     "xws": "encompassingaura"
   },
   {
     "name": "flickering lights",
-    "points": 1313,
+    "points": 1277,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-flickering-lights.png",
     "xws": "flickeringlights"
   },
   {
     "name": "floodlight",
-    "points": 1314,
+    "points": 1278,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-floodlight.png",
     "xws": "floodlight"
   },
   {
     "name": "frosty glimmer",
-    "points": 1315,
+    "points": 1279,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-frosty-glimmer.png",
     "xws": "frostyglimmer"
   },
   {
     "name": "gamma energy",
-    "points": 1316,
+    "points": 1280,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-gamma-energy.png",
     "xws": "gammaenergy"
   },
   {
     "name": "heat waves",
-    "points": 1317,
+    "points": 1281,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-heat-waves.png",
     "xws": "heatwaves"
   },
   {
     "name": "imposing brilliance",
-    "points": 1318,
+    "points": 1282,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-imposing-brilliance.png",
     "xws": "imposingbrilliance"
   },
   {
     "name": "light the way",
-    "points": 1319,
+    "points": 1283,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-light-the-way.png",
     "xws": "lighttheway"
   },
   {
     "name": "gleaming squid",
-    "points": 1320,
+    "points": 1284,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-light-the-way.png",
     "xws": "lighttheway"
   },
   {
     "name": "luminescence",
-    "points": 1321,
+    "points": 1285,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-luminescence.png",
     "xws": "luminescence"
   },
   {
     "name": "moonbeam",
-    "points": 1322,
+    "points": 1286,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-moonbeam.png",
     "xws": "moonbeam"
   },
   {
     "name": "optical refraction",
-    "points": 1323,
+    "points": 1287,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-optical-refraction.png",
     "xws": "opticalrefraction"
   },
   {
     "name": "photonic defense",
-    "points": 1324,
+    "points": 1288,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-photonic-defense.png",
     "xws": "photonicdefense"
   },
   {
     "name": "radiant glare",
-    "points": 1325,
+    "points": 1289,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-radiant-glare.png",
     "xws": "radiantglare"
   },
   {
     "name": "shadow claws",
-    "points": 1326,
+    "points": 1290,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-shadow-claws.png",
     "xws": "shadowclaws"
   },
   {
     "name": "shimmering scuttle",
-    "points": 1327,
+    "points": 1291,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-shimmering-scuttle.png",
     "xws": "shimmeringscuttle"
   },
   {
     "name": "shining diversion",
-    "points": 1328,
+    "points": 1292,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-shining-diversion.png",
     "xws": "shiningdiversion"
   },
   {
     "name": "soft glow",
-    "points": 1329,
+    "points": 1293,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-soft-glow.png",
     "xws": "softglow"
   },
   {
     "name": "solid light",
-    "points": 1330,
+    "points": 1294,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-solid-light.png",
     "xws": "solidlight"
   },
   {
     "name": "sparkling glow",
-    "points": 1331,
+    "points": 1295,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-sparkling-glow.png",
     "xws": "sparklingglow"
   },
   {
     "name": "torrid radiation",
-    "points": 1332,
+    "points": 1296,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-torrid-radiation.png",
     "xws": "torridradiation"
   },
   {
     "name": "trickling sting",
-    "points": 1333,
+    "points": 1297,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-trickling-sting.png",
     "xws": "tricklingsting"
   },
   {
     "name": "violent flash",
-    "points": 1334,
+    "points": 1298,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/LU/cs-violent-flash.png",
     "xws": "violentflash"
   },
   {
     "name": "mf-back",
-    "points": 1335,
+    "points": 1299,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-mf-back.png",
     "xws": "mfback"
   },
   {
     "name": "airborne spores",
-    "points": 1336,
+    "points": 1300,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-airborne-spores.png",
     "xws": "airbornespores"
   },
   {
     "name": "anticoagulant",
-    "points": 1337,
+    "points": 1301,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-anticoagulant.png",
     "xws": "anticoagulant"
   },
   {
     "name": "blood thinner",
-    "points": 1338,
+    "points": 1302,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-blood-thinner.png",
     "xws": "bloodthinner"
   },
   {
     "name": "bogstep",
-    "points": 1339,
+    "points": 1303,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-bogstep.png",
     "xws": "bogstep"
   },
   {
     "name": "complex toxicology",
-    "points": 1340,
+    "points": 1304,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-complex-toxicology.png",
     "xws": "complextoxicology"
   },
   {
     "name": "compound toxin",
-    "points": 1341,
+    "points": 1305,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-compound-toxin.png",
     "xws": "compoundtoxin"
   },
   {
     "name": "copperneck berries",
-    "points": 1342,
+    "points": 1306,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-copperneck-berries.png",
     "xws": "copperneckberries"
   },
   {
     "name": "death sentence",
-    "points": 1343,
+    "points": 1307,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-death-sentence.png",
     "xws": "deathsentence"
   },
   {
     "name": "fireroot sap",
-    "points": 1344,
+    "points": 1308,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-fireroot-sap.png",
     "xws": "firerootsap"
   },
   {
     "name": "ground solvent",
-    "points": 1345,
+    "points": 1309,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-ground-solvent.png",
     "xws": "groundsolvent"
   },
   {
     "name": "hide and seek",
-    "points": 1346,
+    "points": 1310,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-hide-and-seek.png",
     "xws": "hideandseek"
   },
   {
     "name": "lashing vines",
-    "points": 1347,
+    "points": 1311,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-lashing-vines.png",
     "xws": "lashingvines"
   },
   {
     "name": "flailing ivies",
-    "points": 1348,
+    "points": 1312,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-lashing-vines.png",
     "xws": "lashingvines"
   },
   {
     "name": "lingering swamp moss",
-    "points": 1349,
+    "points": 1313,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-lingering-swamp-moss.png",
     "xws": "lingeringswampmoss"
   },
   {
     "name": "mudslide",
-    "points": 1350,
+    "points": 1314,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-mudslide.png",
     "xws": "mudslide"
   },
   {
     "name": "neurotoxin",
-    "points": 1351,
+    "points": 1315,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-neurotoxin.png",
     "xws": "neurotoxin"
   },
   {
     "name": "paralytic agent",
-    "points": 1352,
+    "points": 1316,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-paralytic-agent.png",
     "xws": "paralyticagent"
   },
   {
     "name": "personal poison",
-    "points": 1353,
+    "points": 1317,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-personal-poison.png",
     "xws": "personalpoison"
   },
   {
     "name": "potent mixture",
-    "points": 1354,
+    "points": 1318,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-potent-mixture.png",
     "xws": "potentmixture"
   },
   {
     "name": "radiant forest fungi",
-    "points": 1355,
+    "points": 1319,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-radiant-forest-fungi.png",
     "xws": "radiantforestfungi"
   },
   {
     "name": "serpent's kiss",
-    "points": 1356,
+    "points": 1320,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-serpents-kiss.png",
     "xws": "serpentskiss"
   },
   {
     "name": "sinkhole",
-    "points": 1357,
+    "points": 1321,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-sinkhole.png",
     "xws": "sinkhole"
   },
   {
     "name": "sludge bomb",
-    "points": 1358,
+    "points": 1322,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-sludge-bomb.png",
     "xws": "sludgebomb"
   },
   {
     "name": "still river algae",
-    "points": 1359,
+    "points": 1323,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-still-river-algae.png",
     "xws": "stillriveralgae"
   },
   {
     "name": "tainted waters",
-    "points": 1360,
+    "points": 1324,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-tainted-waters.png",
     "xws": "taintedwaters"
   },
   {
     "name": "throwing daggers",
-    "points": 1361,
+    "points": 1325,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-throwing-daggers.png",
     "xws": "throwingdaggers"
   },
   {
     "name": "twist the blade",
-    "points": 1362,
+    "points": 1326,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-twist-the-blade.png",
     "xws": "twisttheblade"
   },
   {
     "name": "volatile tonic",
-    "points": 1363,
+    "points": 1327,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-volatile-tonic.png",
     "xws": "volatiletonic"
   },
   {
     "name": "whitefire balm",
-    "points": 1364,
+    "points": 1328,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-whitefire-balm.png",
     "xws": "whitefirebalm"
   },
   {
     "name": "wild stings",
-    "points": 1365,
+    "points": 1329,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-wild-stings.png",
     "xws": "wildstings"
   },
   {
     "name": "crypt nettle",
-    "points": 1366,
+    "points": 1330,
     "expansion": "Crimson Scales",
     "image": "character-ability-cards/crimson-scales/MF/cs-wild-stings.png",
     "xws": "wildstings"
+  },
+  {
+    "name": "qa-back",
+    "points": 1331,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-qa-back.png",
+    "xws": "qaback"
+  },
+  {
+    "name": "annihilating contraption",
+    "points": 1332,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-annihilating-contraption.png",
+    "xws": "annihilatingcontraption"
+  },
+  {
+    "name": "clockwork ravager",
+    "points": 1333,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-annihilating-contraption.png",
+    "xws": "annihilatingcontraption"
+  },
+  {
+    "name": "double-barrel railcaster",
+    "points": 1334,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-double-barrel-railcaster.png",
+    "xws": "doublebarrelrailcaster"
+  },
+  {
+    "name": "elemental condenser",
+    "points": 1335,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-elemental-condenser.png",
+    "xws": "elementalcondenser"
+  },
+  {
+    "name": "energy transmission",
+    "points": 1336,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-energy-transmission.png",
+    "xws": "energytransmission"
+  },
+  {
+    "name": "fragmentation grenade",
+    "points": 1337,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-fragmentation-grenade.png",
+    "xws": "fragmentationgrenade"
+  },
+  {
+    "name": "galvanic coil",
+    "points": 1338,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-galvanic-coil.png",
+    "xws": "galvaniccoil"
+  },
+  {
+    "name": "gravity inverter module",
+    "points": 1339,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-gravity-inverter-module.png",
+    "xws": "gravityinvertermodule"
+  },
+  {
+    "name": "improvised exosuit",
+    "points": 1340,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-improvised-exosuit.png",
+    "xws": "improvisedexosuit"
+  },
+  {
+    "name": "hollow carapace",
+    "points": 1341,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-improvised-exosuit.png",
+    "xws": "improvisedexosuit"
+  },
+  {
+    "name": "improvised mortar",
+    "points": 1342,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-improvised-mortar.png",
+    "xws": "improvisedmortar"
+  },
+  {
+    "name": "clockwork bombard",
+    "points": 1343,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-improvised-mortar.png",
+    "xws": "improvisedmortar"
+  },
+  {
+    "name": "instant relocation matrix",
+    "points": 1344,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-instant-relocation-matrix.png",
+    "xws": "instantrelocationmatrix"
+  },
+  {
+    "name": "jury-rigged machine",
+    "points": 1345,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-jury-rigged-machine.png",
+    "xws": "juryriggedmachine"
+  },
+  {
+    "name": "clockwork soldier",
+    "points": 1346,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-jury-rigged-machine.png",
+    "xws": "juryriggedmachine"
+  },
+  {
+    "name": "launch skywards",
+    "points": 1347,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-launch-skywards.png",
+    "xws": "launchskywards"
+  },
+  {
+    "name": "clockwork drone",
+    "points": 1348,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-launch-skywards.png",
+    "xws": "launchskywards"
+  },
+  {
+    "name": "march of machines",
+    "points": 1349,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-march-of-machines.png",
+    "xws": "marchofmachines"
+  },
+  {
+    "name": "oscillating projector",
+    "points": 1350,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-oscillating-projector.png",
+    "xws": "oscillatingprojector"
+  },
+  {
+    "name": "particle ray beam",
+    "points": 1351,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-particle-ray-beam.png",
+    "xws": "particleraybeam"
+  },
+  {
+    "name": "perfected exosuit",
+    "points": 1352,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-perfected-exosuit.png",
+    "xws": "perfectedexosuit"
+  },
+  {
+    "name": "phase field emitter",
+    "points": 1353,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-phase-field-emitter.png",
+    "xws": "phasefieldemitter"
+  },
+  {
+    "name": "power modulation",
+    "points": 1354,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-power-modulation.png",
+    "xws": "powermodulation"
+  },
+  {
+    "name": "ransack clutter",
+    "points": 1355,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-ransack-clutter.png",
+    "xws": "ransackclutter"
+  },
+  {
+    "name": "recycle parts",
+    "points": 1356,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-recycle-parts.png",
+    "xws": "recycleparts"
+  },
+  {
+    "name": "reinforce armor",
+    "points": 1357,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-reinforce-armor.png",
+    "xws": "reinforcearmor"
+  },
+  {
+    "name": "remote control",
+    "points": 1358,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-remote-control.png",
+    "xws": "remotecontrol"
+  },
+  {
+    "name": "repurpose leftovers",
+    "points": 1359,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-repurpose-leftovers.png",
+    "xws": "repurposeleftovers"
+  },
+  {
+    "name": "retrofit weapons",
+    "points": 1360,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-retrofit-weapons.png",
+    "xws": "retrofitweapons"
+  },
+  {
+    "name": "salvage grappler",
+    "points": 1361,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-salvage-grappler.png",
+    "xws": "salvagegrappler"
+  },
+  {
+    "name": "seeker missiles",
+    "points": 1362,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-seeker-missiles.png",
+    "xws": "seekermissiles"
+  },
+  {
+    "name": "clockwork rocket",
+    "points": 1363,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-seeker-missiles.png",
+    "xws": "seekermissiles"
+  },
+  {
+    "name": "trajectory diverter",
+    "points": 1364,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-trajectory-diverter.png",
+    "xws": "trajectorydiverter"
+  },
+  {
+    "name": "trudging bulwark",
+    "points": 1365,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-trudging-bulwark.png",
+    "xws": "trudgingbulwark"
+  },
+  {
+    "name": "clockwork guardian",
+    "points": 1366,
+    "expansion": "Crimson Scales",
+    "image": "character-ability-cards/crimson-scales/QA/cs-trudging-bulwark.png",
+    "xws": "trudgingbulwark"
   },
   {
     "name": "rm-back",
