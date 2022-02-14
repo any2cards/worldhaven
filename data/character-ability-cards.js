@@ -427,256 +427,256 @@
     "xws": "bsback"
   },
   {
-    "name": "bioluminescence",
+    "name": "armed and dangerous",
     "points": 61,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-bioluminescence.png",
-    "xws": "bioluminescence"
+    "image": "character-ability-cards/gloomhaven/BS/gh-armed-and-dangerous.png",
+    "xws": "armedanddangerous"
   },
   {
-    "name": "lightning moths",
+    "name": "bioluminescence",
     "points": 62,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-bioluminescence.png",
     "xws": "bioluminescence"
   },
   {
-    "name": "blood drain",
+    "name": "lightning moths",
     "points": 63,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/gloomhaven/BS/gh-bioluminescence.png",
+    "xws": "bioluminescence"
+  },
+  {
+    "name": "blood drain",
+    "points": 64,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-blood-drain.png",
     "xws": "blooddrain"
   },
   {
     "name": "bone daggers",
-    "points": 64,
+    "points": 65,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-bone-daggers.png",
     "xws": "bonedaggers"
   },
   {
     "name": "call of the grave",
-    "points": 65,
+    "points": 66,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-call-of-the-grave.png",
     "xws": "callofthegrave"
   },
   {
     "name": "corrupting parasites",
-    "points": 66,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-corrupting-parasites.png",
-    "xws": "corruptingparasites"
-  },
-  {
-    "name": "soul leeches",
     "points": 67,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-corrupting-parasites.png",
     "xws": "corruptingparasites"
   },
   {
-    "name": "death march",
+    "name": "soul leeches",
     "points": 68,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/gloomhaven/BS/gh-corrupting-parasites.png",
+    "xws": "corruptingparasites"
+  },
+  {
+    "name": "cyclone of blades",
+    "points": 69,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/gloomhaven/BS/gh-cyclone-of-blades.png",
+    "xws": "cycloneofblades"
+  },
+  {
+    "name": "death march",
+    "points": 70,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-death-march.png",
     "xws": "deathmarch"
   },
   {
     "name": "creeping beetles",
-    "points": 69,
+    "points": 71,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-death-march.png",
     "xws": "deathmarch"
   },
   {
     "name": "deflecting blades",
-    "points": 70,
+    "points": 72,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-deflecting-blades.png",
     "xws": "deflectingblades"
   },
   {
+    "name": "endless biting",
+    "points": 73,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/gloomhaven/BS/gh-endless-biting.png",
+    "xws": "endlessbiting"
+  },
+  {
     "name": "engulfing stingers",
-    "points": 71,
+    "points": 74,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-engulfing-stingers.png",
     "xws": "engulfingstingers"
   },
   {
     "name": "angry wasps",
-    "points": 72,
+    "points": 75,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-engulfing-stingers.png",
     "xws": "engulfingstingers"
   },
   {
-    "name": "erosion",
-    "points": 73,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-erosion.png",
-    "xws": "erosion"
-  },
-  {
     "name": "focused scourge",
-    "points": 74,
+    "points": 76,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-focused-scourge.png",
     "xws": "focusedscourge"
   },
   {
+    "name": "fury of the horde",
+    "points": 77,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/gloomhaven/BS/gh-fury-of-the-horde.png",
+    "xws": "furyofthehorde"
+  },
+  {
+    "name": "rage hornets",
+    "points": 78,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/gloomhaven/BS/gh-fury-of-the-horde.png",
+    "xws": "furyofthehorde"
+  },
+  {
     "name": "grasping advance",
-    "points": 75,
+    "points": 79,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-grasping-advance.png",
     "xws": "graspingadvance"
   },
   {
     "name": "hive mind",
-    "points": 76,
+    "points": 80,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-hive-mind.png",
     "xws": "hivemind"
   },
   {
     "name": "incubation",
-    "points": 77,
+    "points": 81,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-incubation.png",
     "xws": "incubation"
   },
   {
     "name": "infest",
-    "points": 78,
+    "points": 82,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-infest.png",
     "xws": "infest"
   },
   {
     "name": "oasis",
-    "points": 79,
+    "points": 83,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-oasis.png",
     "xws": "oasis"
   },
   {
     "name": "omniscient assault",
-    "points": 80,
+    "points": 84,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-omniscient-assault.png",
     "xws": "omniscientassault"
   },
   {
-    "name": "prismatic cyclone",
-    "points": 81,
+    "name": "overwhelming offensive",
+    "points": 85,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-prismatic-cyclone.png",
-    "xws": "prismaticcyclone"
+    "image": "character-ability-cards/gloomhaven/BS/gh-overwhelming-offensive.png",
+    "xws": "overwhelmingoffensive"
   },
   {
     "name": "putrid grubs",
-    "points": 82,
+    "points": 86,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-putrid-grubs.png",
     "xws": "putridgrubs"
   },
   {
     "name": "bloat maggots",
-    "points": 83,
+    "points": 87,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-putrid-grubs.png",
     "xws": "putridgrubs"
   },
   {
-    "name": "sand scythe",
-    "points": 84,
+    "name": "repulsive host",
+    "points": 88,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-sand-scythe.png",
-    "xws": "sandscythe"
+    "image": "character-ability-cards/gloomhaven/BS/gh-repulsive-host.png",
+    "xws": "repulsivehost"
   },
   {
     "name": "scattered defense",
-    "points": 85,
+    "points": 89,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-scattered-defense.png",
     "xws": "scattereddefense"
   },
   {
-    "name": "solitary horde",
-    "points": 86,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-solitary-horde.png",
-    "xws": "solitaryhorde"
-  },
-  {
-    "name": "dueling hornets",
-    "points": 87,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-solitary-horde.png",
-    "xws": "solitaryhorde"
-  },
-  {
     "name": "sunstroke",
-    "points": 88,
+    "points": 90,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-sunstroke.png",
     "xws": "sunstroke"
   },
   {
     "name": "swarming minions",
-    "points": 89,
+    "points": 91,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-swarming-minions.png",
     "xws": "swarmingminions"
   },
   {
-    "name": "sword of tenacity",
-    "points": 90,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-sword-of-tenacity.png",
-    "xws": "swordoftenacity"
-  },
-  {
     "name": "the storm's edge",
-    "points": 91,
+    "points": 92,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-the-storms-edge.png",
     "xws": "thestormsedge"
   },
   {
     "name": "tomb of the immortal",
-    "points": 92,
+    "points": 93,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-tomb-of-the-immortal.png",
     "xws": "tomboftheimmortal"
   },
   {
     "name": "unstoppable army",
-    "points": 93,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-unstoppable-army.png",
-    "xws": "unstoppablearmy"
-  },
-  {
-    "name": "steel scarabs",
     "points": 94,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-unstoppable-army.png",
     "xws": "unstoppablearmy"
   },
   {
-    "name": "vampiric tempest",
+    "name": "steel scarabs",
     "points": 95,
+    "expansion": "Gloomhaven",
+    "image": "character-ability-cards/gloomhaven/BS/gh-unstoppable-army.png",
+    "xws": "unstoppablearmy"
+  },
+  {
+    "name": "vampiric tempest",
+    "points": 96,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-vampiric-tempest.png",
     "xws": "vampirictempest"
-  },
-  {
-    "name": "venomous barbs",
-    "points": 96,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-venomous-barbs.png",
-    "xws": "venomousbarbs"
   },
   {
     "name": "wasteland",
