@@ -504,491 +504,477 @@
     "xws": "wasatelanddeprecated"
   },
   {
-    "name": "ancient ward deprecated",
-    "points": 72,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BT-V1/gh-ancient-ward-v1.png",
-    "xws": "ancientwarddeprecated"
-  },
-  {
-    "name": "ancient ward deprecated",
-    "points": 73,
-    "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BT/gh-ancient-ward.png",
-    "xws": "ancientwarddeprecated"
-  },
-  {
     "name": "disorienting roar deprecated",
-    "points": 74,
+    "points": 72,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/deprecated/BT-V1/gh-disorienting-roar-v1.png",
     "xws": "disorientingroardeprecated"
   },
   {
     "name": "disorienting roar deprecated",
-    "points": 75,
+    "points": 73,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BT/gh-disorienting-roar.png",
     "xws": "disorientingroardeprecated"
   },
   {
     "name": "primal blessing deprecated",
-    "points": 76,
+    "points": 74,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/deprecated/BT-V1/gh-primal-blessing-v1.png",
     "xws": "primalblessingdeprecated"
   },
   {
     "name": "primal blessing deprecated",
-    "points": 77,
+    "points": 75,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BT/gh-primal-blessing.png",
     "xws": "primalblessingdeprecated"
   },
   {
     "name": "spirit swap deprecated",
-    "points": 78,
+    "points": 76,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/deprecated/BT-V1/gh-spirit-swap-v1.png",
     "xws": "spiritswapdeprecated"
   },
   {
     "name": "spirit swap deprecated",
-    "points": 79,
+    "points": 77,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BT/gh-spirit-swap.png",
     "xws": "spiritswapdeprecated"
   },
   {
     "name": "felling swoop deprecated",
-    "points": 80,
+    "points": 78,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/deprecated/DS-V1/gh-felling-swoop-v1.png",
     "xws": "fellingswoopdeprecated"
   },
   {
     "name": "felling swoop deprecated",
-    "points": 81,
+    "points": 79,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/DS/gh-felling-swoop.png",
     "xws": "fellingswoopdeprecated"
   },
   {
     "name": "concealed dominance deprecated",
-    "points": 82,
+    "points": 80,
     "expansion": "Gloomhaven",
    "image": "character-ability-cards/gloomhaven/deprecated/NS-V1/gh-concealed-dominance-v1.png",
     "xws": "concealeddominancedeprecated"
   },
   {
     "name": "concealed dominance deprecated",
-    "points": 83,
+    "points": 81,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/NS/gh-concealed-dominance.png",
     "xws": "concealeddominancedeprecated"
   },
   {
     "name": "otherworldly rage deprecated",
-    "points": 84,
+    "points": 82,
     "expansion": "Gloomhaven",
    "image": "character-ability-cards/gloomhaven/deprecated/SU-V1/gh-otherworldly-rage-v1.png",
     "xws": "otherworldlyragedeprecated"
   },
   {
     "name": "otherworldly rage deprecated",
-    "points": 85,
+    "points": 83,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/SU/gh-otherworldly-rage.png",
     "xws": "otherworldlyragedeprecated"
   },
   {
     "name": "anguish and salvation deprecated",
-    "points": 86,
+    "points": 84,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-anguish-and-salvation-v1.png",
     "xws": "anguishandsalvationdeprecated"
   },
   {
     "name": "anguish and salvation deprecated",
-    "points": 87,
+    "points": 85,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-anguish-and-salvation.png",
     "xws": "anguishandsalvationdeprecated"
   },
   {
     "name": "anticipate intricacies deprecated",
-    "points": 88,
+    "points": 86,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-anticipate-intricacies-v1.png",
     "xws": "anticipateintricaciesdeprecated"
   },
   {
     "name": "anticipate intricacies deprecated",
-    "points": 89,
+    "points": 87,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-anticipate-intricacies.png",
     "xws": "anticipateintricaciesdeprecated"
   },
   {
     "name": "bad omen deprecated",
-    "points": 90,
+    "points": 88,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-bad-omen-v1.png",
     "xws": "badomendeprecated"
   },
   {
     "name": "bad omen deprecated",
-    "points": 91,
+    "points": 89,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-bad-omen.png",
     "xws": "badomendeprecated"
   },
   {
     "name": "call of the nether deprecated",
-    "points": 92,
+    "points": 90,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-call-of-the-nether-v1.png",
     "xws": "callofthenetherdeprecated"
   },
   {
     "name": "call of the nether deprecated",
-    "points": 93,
+    "points": 91,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-call-of-the-nether.png",
     "xws": "callofthenetherdeprecated"
   },
   {
     "name": "careful attunement deprecated",
-    "points": 94,
+    "points": 92,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-careful-attunement-v1.png",
     "xws": "carefulattunementdeprecated"
   },
   {
     "name": "careful attunement deprecated",
-    "points": 95,
+    "points": 93,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-careful-attunement.png",
     "xws": "carefulattunementdeprecated"
   },
   {
     "name": "clairvoyance deprecated",
-    "points": 96,
+    "points": 94,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-clairvoyance-v1.png",
     "xws": "clairvoyancedeprecated"
   },
   {
     "name": "clairvoyance deprecated",
-    "points": 97,
+    "points": 95,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-clairvoyance.png",
     "xws": "clairvoyancedeprecated"
   },
   {
     "name": "cleansing rite deprecated",
-    "points": 98,
+    "points": 96,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-cleansing-rite-v1.png",
     "xws": "cleansingritedeprecated"
   },
   {
     "name": "cleansing rite deprecated",
-    "points": 99,
+    "points": 97,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-cleansing-rite.png",
     "xws": "cleansingritedeprecated"
   },
   {
     "name": "curative flux deprecated",
-    "points": 100,
+    "points": 98,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-curative-flux-v1.png",
     "xws": "curativefluxdeprecated"
   },
   {
     "name": "curative flux deprecated",
-    "points": 101,
+    "points": 99,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-curative-flux.png",
     "xws": "curativefluxdeprecated"
   },
   {
     "name": "cursed ground deprecated",
-    "points": 102,
+    "points": 100,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-cursed-ground-v1.png",
     "xws": "cursedgrounddeprecated"
   },
   {
     "name": "cursed ground deprecated",
-    "points": 103,
+    "points": 101,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-cursed-ground.png",
     "xws": "cursedgrounddeprecated"
   },
   {
     "name": "deep contemplation deprecated",
-    "points": 104,
+    "points": 102,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-deep-contemplation-v1.png",
     "xws": "deepcontemplationdeprecated"
   },
   {
     "name": "deep contemplation deprecated",
-    "points": 105,
+    "points": 103,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-deep-contemplation.png",
     "xws": "deepcontemplationdeprecated"
   },
   {
     "name": "dimensional divide deprecated",
-    "points": 106,
+    "points": 104,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-dimensional-divide-v1.png",
     "xws": "dimensionaldividedeprecated"
   },
   {
     "name": "dimensional divide deprecated",
-    "points": 107,
+    "points": 105,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-dimensional-divide.png",
     "xws": "dimensionaldividedeprecated"
   },
   {
     "name": "dimensional transfer deprecated",
-    "points": 108,
+    "points": 106,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-dimensional-transfer-v1.png",
     "xws": "dimensionaltransferdeprecated"
   },
   {
     "name": "dimensional transfer deprecated",
-    "points": 109,
+    "points": 107,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-dimensional-transfer.png",
     "xws": "dimensionaltransferdeprecated"
   },
   {
     "name": "duality shards deprecated",
-    "points": 110,
+    "points": 108,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-duality-shards-v1.png",
     "xws": "dualityshardsdeprecated"
   },
   {
     "name": "duality shards deprecated",
-    "points": 111,
+    "points": 109,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-duality-shards.png",
     "xws": "dualityshardsdeprecated"
   },
   {
     "name": "enfeebling hex deprecated",
-    "points": 112,
+    "points": 110,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-enfeebling-hex-v1.png",
     "xws": "enfeeblinghexdeprecated"
   },
   {
     "name": "enfeebling hex deprecated",
-    "points": 113,
+    "points": 111,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-enfeebling-hex.png",
     "xws": "enfeeblinghexdeprecated"
   },
   {
     "name": "envision the course deprecated",
-    "points": 114,
+    "points": 112,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-envision-the-course-v1.png",
     "xws": "envisionthecoursedeprecated"
   },
   {
     "name": "envision the course deprecated",
-    "points": 115,
+    "points": 113,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-envision-the-course.png",
     "xws": "envisionthecoursedeprecated"
   },
   {
     "name": "ethereal vortex deprecated",
-    "points": 116,
+    "points": 114,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-ethereal-vortex-v1.png",
     "xws": "etherealvortexdeprecated"
   },
   {
     "name": "ethereal vortex deprecated",
-    "points": 117,
+    "points": 115,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-ethereal-vortex.png",
     "xws": "etherealvortexdeprecated"
   },
   {
     "name": "gift of the void deprecated",
-    "points": 118,
+    "points": 116,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-gift-of-the-void-v1.png",
     "xws": "giftofthevoiddeprecated"
   },
   {
     "name": "gift of the void deprecated",
-    "points": 119,
+    "points": 117,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-gift-of-the-void.png",
     "xws": "giftofthevoiddeprecated"
   },
   {
     "name": "hand of destiny deprecated",
-    "points": 120,
+    "points": 118,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-hand-of-destiny-v1.png",
     "xws": "handofdestinydeprecated"
   },
   {
     "name": "hand of destiny deprecated",
-    "points": 121,
+    "points": 119,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-hand-of-destiny.png",
     "xws": "handofdestinydeprecated"
   },
   {
     "name": "inspiration from beyond deprecated",
-    "points": 122,
+    "points": 120,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-inspiration-from-beyond-v1.png",
     "xws": "inspirationfrombeyonddeprecated"
   },
   {
     "name": "inspiration from beyond deprecated",
-    "points": 123,
+    "points": 121,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-inspiration-from-beyond.png",
     "xws": "inspirationfrombeyonddeprecated"
   },
   {
     "name": "otherworldly journey deprecated",
-    "points": 124,
+    "points": 122,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-otherworldly-journey-v1.png",
     "xws": "otherworldlyjourneydeprecated"
   },
   {
     "name": "otherworldly journey deprecated",
-    "points": 125,
+    "points": 123,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-otherworldly-journey.png",
     "xws": "otherworldlyjourneydeprecated"
   },
   {
     "name": "peer into battle deprecated",
-    "points": 126,
+    "points": 124,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-peer-into-battle-v1.png",
     "xws": "peerintobattledeprecated"
   },
   {
     "name": "peer into battle deprecated",
-    "points": 127,
+    "points": 125,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-peer-into-battle.png",
     "xws": "peerintobattledeprecated"
   },
   {
     "name": "planar fissure deprecated",
-    "points": 128,
+    "points": 126,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-planar-fissure-v1.png",
     "xws": "planarfissuredeprecated"
   },
   {
     "name": "planar fissure deprecated",
-    "points": 129,
+    "points": 127,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-planar-fissure.png",
     "xws": "planarfissuredeprecated"
   },
   {
     "name": "preordain the path deprecated",
-    "points": 130,
+    "points": 128,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-preordain-the-path-v1.png",
     "xws": "preordainthepathdeprecated"
   },
   {
     "name": "preordain the path deprecated",
-    "points": 131,
+    "points": 129,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-preordain-the-path.png",
     "xws": "preordainthepathdeprecated"
   },
   {
     "name": "protective aura deprecated",
-    "points": 132,
+    "points": 130,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-protective-aura-v1.png",
     "xws": "protectiveauradeprecated"
   },
   {
     "name": "protective aura deprecated",
-    "points": 133,
+    "points": 131,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-protective-aura.png",
     "xws": "protectiveauradeprecated"
   },
   {
     "name": "ray of light deprecated",
-    "points": 134,
+    "points": 132,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-ray-of-light-v1.png",
     "xws": "rayoflightdeprecated"
   },
   {
     "name": "ray of light deprecated",
-    "points": 135,
+    "points": 133,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-ray-of-light.png",
     "xws": "rayoflightdeprecated"
   },
   {
     "name": "revitalizing fount deprecated",
-    "points": 136,
+    "points": 134,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-revitalizing-fount-v1.png",
     "xws": "revitalizingfountdeprecated"
   },
   {
     "name": "revitalizing fount deprecated",
-    "points": 137,
+    "points": 135,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-revitalizing-fount.png",
     "xws": "revitalizingfountdeprecated"
   },
   {
     "name": "seal their fate deprecated",
-    "points": 138,
+    "points": 136,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-seal-their-fate-v1.png",
     "xws": "sealtheirfatedeprecated"
   },
   {
     "name": "seal their fate deprecated",
-    "points": 139,
+    "points": 137,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-seal-their-fate.png",
     "xws": "sealtheirfatedeprecated"
   },
   {
     "name": "void snare deprecated",
-    "points": 140,
+    "points": 138,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-void-snare-v1.png",
     "xws": "voidsnaredeprecated"
   },
   {
     "name": "void snare deprecated",
-    "points": 141,
+    "points": 139,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-void-snare.png",
     "xws": "voidsnaredeprecated"
