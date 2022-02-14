@@ -35,7 +35,7 @@ This repository contains data and images for the following games and components:
 - tokens
 - world-map
 
-There are five top-level directories; `data` , `images` , `images-deprecated` , `pbf` ,and `xwc`.
+There are four top-level directories; `data` , `images` , `pbf` ,and `xwc`.
 
 ### data
 
@@ -44,10 +44,6 @@ The `data` folder contains all WH Asset Viewer data in JSON format.
 ### images
 
 The `images` folder contains all WH Asset Viewer images for each of the above components.
-
-### images-deprecated
-
-The `images-deprecated` folder contains all old WH Asset Viewer images for each of the above components that have had revisions made to the assets.
 
 ### pbf
 
