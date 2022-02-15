@@ -882,99 +882,71 @@
     "xws": "peerintobattledeprecated"
   },
   {
-    "name": "planar fissure deprecated",
-    "points": 126,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-planar-fissure-v1.png",
-    "xws": "planarfissuredeprecated"
-  },
-  {
-    "name": "planar fissure deprecated",
-    "points": 127,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/DR/fc-planar-fissure.png",
-    "xws": "planarfissuredeprecated"
-  },
-  {
     "name": "preordain the path deprecated",
-    "points": 128,
+    "points": 126,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-preordain-the-path-v1.png",
     "xws": "preordainthepathdeprecated"
   },
   {
     "name": "preordain the path deprecated",
-    "points": 129,
+    "points": 127,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-preordain-the-path.png",
     "xws": "preordainthepathdeprecated"
   },
   {
     "name": "protective aura deprecated",
-    "points": 130,
+    "points": 128,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-protective-aura-v1.png",
     "xws": "protectiveauradeprecated"
   },
   {
     "name": "protective aura deprecated",
-    "points": 131,
+    "points": 129,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-protective-aura.png",
     "xws": "protectiveauradeprecated"
   },
   {
-    "name": "ray of light deprecated",
-    "points": 132,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-ray-of-light-v1.png",
-    "xws": "rayoflightdeprecated"
-  },
-  {
-    "name": "ray of light deprecated",
-    "points": 133,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/DR/fc-ray-of-light.png",
-    "xws": "rayoflightdeprecated"
-  },
-  {
     "name": "revitalizing fount deprecated",
-    "points": 134,
+    "points": 130,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-revitalizing-fount-v1.png",
     "xws": "revitalizingfountdeprecated"
   },
   {
     "name": "revitalizing fount deprecated",
-    "points": 135,
+    "points": 131,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-revitalizing-fount.png",
     "xws": "revitalizingfountdeprecated"
   },
   {
     "name": "seal their fate deprecated",
-    "points": 136,
+    "points": 132,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-seal-their-fate-v1.png",
     "xws": "sealtheirfatedeprecated"
   },
   {
     "name": "seal their fate deprecated",
-    "points": 137,
+    "points": 133,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-seal-their-fate.png",
     "xws": "sealtheirfatedeprecated"
   },
   {
     "name": "void snare deprecated",
-    "points": 138,
+    "points": 134,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-void-snare-v1.png",
     "xws": "voidsnaredeprecated"
   },
   {
     "name": "void snare deprecated",
-    "points": 139,
+    "points": 135,
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-void-snare.png",
     "xws": "voidsnaredeprecated"
