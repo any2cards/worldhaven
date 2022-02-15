@@ -950,5 +950,257 @@
     "expansion": "Forgotten Circles",
     "image": "character-ability-cards/forgotten-circles/DR/fc-void-snare.png",
     "xws": "voidsnaredeprecated"
+  },
+  {
+    "name": "fc-ce-82-b deprecated",
+    "points": 136,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/city-v1/fc-ce-82-b-v1.png",
+    "xws": "fcce82bdeprecated"
+  },
+  {
+    "name": "fc-ce-82-b deprecated",
+    "points": 137,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/city/fc-ce-82-b.png",
+    "xws": "fcce82bdeprecated"
+  },
+  {
+    "name": "fc-ce-88-b deprecated",
+    "points": 138,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/city-v1/fc-ce-88-b-v1.png",
+    "xws": "fcce88bdeprecated"
+  },
+  {
+    "name": "fc-ce-88-b deprecated",
+    "points": 139,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/city/fc-ce-88-b.png",
+    "xws": "fcce88bdeprecated"
+  },
+  {
+    "name": "fc-ce-88-f deprecated",
+    "points": 140,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/city-v1/fc-ce-88-f-v1.png",
+    "xws": "fcce88fdeprecated"
+  },
+  {
+    "name": "fc-ce-88-f deprecated",
+    "points": 141,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/city/fc-ce-88-f.png",
+    "xws": "fcce88fdeprecated"
+  },
+  {
+    "name": "fc-ce-89-b deprecated",
+    "points": 142,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/city-v1/fc-ce-89-b-v1.png",
+    "xws": "fcce89bdeprecated"
+  },
+  {
+    "name": "fc-ce-89-b deprecated",
+    "points": 143,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/city/fc-ce-89-b.png",
+    "xws": "fcce89bdeprecated"
+  },
+  {
+    "name": "fc-ce-89-f deprecated",
+    "points": 144,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/city-v1/fc-ce-89-f-v1.png",
+    "xws": "fcce89fdeprecated"
+  },
+  {
+    "name": "fc-ce-89-f deprecated",
+    "points": 145,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/city/fc-ce-89-f.png",
+    "xws": "fcce89fdeprecated"
+  },
+  {
+    "name": "fc-ce-90-b deprecated",
+    "points": 146,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/city-v1/fc-ce-90-b-v1.png",
+    "xws": "fcce90bdeprecated"
+  },
+  {
+    "name": "fc-ce-90-b deprecated",
+    "points": 147,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/city/fc-ce-90-b.png",
+    "xws": "fcce90bdeprecated"
+  },
+  {
+    "name": "fc-ce-90-f deprecated",
+    "points": 148,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/city-v1/fc-ce-90-f-v1.png",
+    "xws": "fcce90fdeprecated"
+  },
+  {
+    "name": "fc-ce-90-f deprecated",
+    "points": 149,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/city/fc-ce-90-f.png",
+    "xws": "fcce90fdeprecated"
+  },
+  {
+    "name": "fc-rf-02-b deprecated",
+    "points": 150,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-02-b-v1.png",
+    "xws": "fcrf02bdeprecated"
+  },
+  {
+    "name": "fc-rf-02-b deprecated",
+    "points": 151,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-02-b.png",
+    "xws": "fcrf02bdeprecated"
+  },
+  {
+    "name": "fc-rf-02-f deprecated",
+    "points": 152,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-02-f-v1.png",
+    "xws": "fcrf02fdeprecated"
+  },
+  {
+    "name": "fc-rf-02-f deprecated",
+    "points": 153,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-02-f.png",
+    "xws": "fcrf02fdeprecated"
+  },
+  {
+    "name": "fc-rf-09-f deprecated",
+    "points": 154,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-09-f-v1.png",
+    "xws": "fcrf09fdeprecated"
+  },
+  {
+    "name": "fc-rf-09-f deprecated",
+    "points": 155,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-09-f.png",
+    "xws": "fcrf09fdeprecated"
+  },
+  {
+    "name": "fc-rf-10-f deprecated",
+    "points": 156,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-10-f-v1.png",
+    "xws": "fcrf10fdeprecated"
+  },
+  {
+    "name": "fc-rf-10-f deprecated",
+    "points": 157,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-10-f.png",
+    "xws": "fcrf10fdeprecated"
+  },
+  {
+    "name": "fc-rf-11-f deprecated",
+    "points": 158,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-11-f-v1.png",
+    "xws": "fcrf11fdeprecated"
+  },
+  {
+    "name": "fc-rf-11-f deprecated",
+    "points": 159,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-11-f.png",
+    "xws": "fcrf11fdeprecated"
+  },
+  {
+    "name": "fc-rf-12-b deprecated",
+    "points": 160,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-12-b-v1.png",
+    "xws": "fcrf12bdeprecated"
+  },
+  {
+    "name": "fc-rf-12-b deprecated",
+    "points": 161,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-12-b.png",
+    "xws": "fcrf12bdeprecated"
+  },
+  {
+    "name": "fc-rf-13-f deprecated",
+    "points": 162,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-13-f-v1.png",
+    "xws": "fcrf13fdeprecated"
+  },
+  {
+    "name": "fc-rf-13-f deprecated",
+    "points": 163,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-13-f.png",
+    "xws": "fcrf13fdeprecated"
+  },
+  {
+    "name": "fc-rf-15-f deprecated",
+    "points": 164,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-15-f-v1.png",
+    "xws": "fcrf15fdeprecated"
+  },
+  {
+    "name": "fc-rf-15-f deprecated",
+    "points": 165,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-15-f.png",
+    "xws": "fcrf15fdeprecated"
+  },
+  {
+    "name": "fc-rf-16-b deprecated",
+    "points": 166,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-16-b-v1.png",
+    "xws": "fcrf16bdeprecated"
+  },
+  {
+    "name": "fc-rf-16-b deprecated",
+    "points": 167,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-16-b.png",
+    "xws": "fcrf16bdeprecated"
+  },
+  {
+    "name": "fc-rf-19-f deprecated",
+    "points": 168,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/rift-v1/fc-rf-19-f-v1.png",
+    "xws": "fcrf19fdeprecated"
+  },
+  {
+    "name": "fc-rf-19-f deprecated",
+    "points": 169,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/rift/fc-rf-19-f.png",
+    "xws": "fcrf19fdeprecated"
+  },
+  {
+    "name": "fc-re-82-f deprecated",
+    "points": 170,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/deprecated/road-v1/fc-re-82-f-v1.png",
+    "xws": "fcre82fdeprecated"
+  },
+  {
+    "name": "fc-re-82-f deprecated",
+    "points": 171,
+    "expansion": "Forgotten Circles",
+    "image": "character-ability-cards/forgotten-circles/road/fc-re-82-f.png",
+    "xws": "fcre82fdeprecated"
   }
 ]
