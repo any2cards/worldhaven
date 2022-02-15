@@ -21,6 +21,7 @@ This repository contains data and images for the following games and components:
 - character-ability-cards-revised
 - character-mats
 - character-perks
+- deprecated-assets
 - events
 - events-revised
 - items
