@@ -98,17 +98,17 @@
     "xws": "blooddraindeprecated"
   },
   {
-    "name": "bone dagger deprecated",
+    "name": "bone daggers deprecated",
     "points": 14,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-bone-dagger-v3.png",
+    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-bone-daggers-v3.png",
     "xws": "bonedaggerdeprecated"
   },
   {
-    "name": "bone dagger deprecated",
+    "name": "bone daggers deprecated",
     "points": 15,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-bone-dagger.png",
+    "image": "character-ability-cards/gloomhaven/BS/gh-bone-daggers.png",
     "xws": "bonedaggerdeprecated"
   },
   {
@@ -413,14 +413,14 @@
     "xws": "swordoftenacitydeprecated"
   },
   {
-    "name": "the storms edge deprecated",
+    "name": "the storm's edge deprecated",
     "points": 59,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-the-storms-edge-v3.png",
     "xws": "thestormsedgedeprecated"
   },
   {
-    "name": "the storms edge deprecated",
+    "name": "the storm's edge deprecated",
     "points": 60,
     "expansion": "Gloomhaven",
     "image": "character-ability-cards/gloomhaven/BS/gh-the-storms-edge.png",
@@ -483,25 +483,25 @@
     "xws": "venomousbarbsdeprecated"
   },
   {
-    "name": "wasateland deprecated",
+    "name": "wasteland deprecated",
     "points": 69,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-wasateland-v2.png",
-    "xws": "wasatelanddeprecated"
+    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-wasteland-v2.png",
+    "xws": "wastelanddeprecated"
   },
   {
-    "name": "wasateland deprecated",
+    "name": "wasteland deprecated",
     "points": 70,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-wasateland-v3.png",
-    "xws": "wasatelanddeprecated"
+    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-wasteland-v3.png",
+    "xws": "wastelanddeprecated"
   },
   {
-    "name": "wasateland deprecated",
+    "name": "wasteland deprecated",
     "points": 71,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/BS/gh-wasateland.png",
-    "xws": "wasatelanddeprecated"
+    "image": "character-ability-cards/gloomhaven/BS/gh-wasteland.png",
+    "xws": "wastelanddeprecated"
   },
   {
     "name": "disorienting roar deprecated",
