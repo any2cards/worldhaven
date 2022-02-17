@@ -2,11 +2,10 @@ var files = [
 	'attack-modifiers.js',
 	'battle-goals.js',
 	'character-ability-cards.js',
-	'character-ability-cards-revised.js',
 	'character-mats.js',
 	'character-perks.js',
+	'deprecated-assets.js',
 	'events.js',
-	'events-revised.js',
 	'items.js',
 	'map-tiles.js',
 	'milestones.js',
@@ -35,7 +34,7 @@ const imgUrl = `${repoBaseUrl}/images/`;
 const dataUrl = `${repoBaseUrl}/data/`;
 var iconUrl = ``;
 if (chrome.extension != undefined) {
-  iconUrl = chrome.extension.getURL('icon-32.png');
+  iconUrl = chrome.runtime.getURL('icon-32.png');
 } else {
   iconUrl = 'icon-32.png';
 }
@@ -183,9 +182,9 @@ async function loadFromStorage() {
 		"gh-attack-modifiers": true,
 		"gh-battle-goals": true,
 		"gh-character-ability-cards": true,
-		"gh-character-ability-cards-revised": true,
 		"gh-character-mats": true,
 		"gh-character-perks": true,
+		"gh-deprecated-assets": true,
 		"gh-events": true,
 		"gh-items": true,
 		"gh-map-tiles": true,
@@ -200,11 +199,10 @@ async function loadFromStorage() {
 		"fc": true,
 		"fc-attack-modifiers": true,
 		"fc-character-ability-cards": true,
-		"fc-character-ability-cards-revised": true,
 		"fc-character-mats": true,
 		"fc-character-perks": true,
+		"fc-deprecated-assets": true,
 		"fc-events": true,
-		"fc-events-revised": true,
 		"fc-items": true,
 		"fc-monster-ability-cards": true,
 		"fc-monster-stat-cards": true,

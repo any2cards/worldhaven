@@ -34,7 +34,7 @@ const imgUrl = `${repoBaseUrl}/images/`;
 const dataUrl = `${repoBaseUrl}/data/`;
 var iconUrl = ``;
 if (chrome.extension != undefined) {
-  iconUrl = chrome.extension.getURL('icon-32.png');
+  iconUrl = chrome.runtime.getURL('icon-32.png');
 } else {
   iconUrl = 'icon-32.png';
 }
