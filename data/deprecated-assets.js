@@ -66,7 +66,7 @@
     "name": "gh-am-bs-14 deprecated",
     "points": 9,
     "expansion": "Gloomhaven",
-    "image": "attack-modifiers/gloomhaven/BS/BS/gh-am-bs-14.png",
+    "image": "attack-modifiers/gloomhaven/BS/gh-am-bs-14.png",
     "xws": "ghambs14"
   },
   {
