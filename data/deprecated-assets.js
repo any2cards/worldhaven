@@ -10,7 +10,7 @@
     "name": "gh-am-bs-09 deprecated",
     "points": 1,
     "expansion": "Gloomhaven",
-    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS/gh-am-bs-09.png",
+    "image": "attack-modifiers/gloomhaven/BS/gh-am-bs-09.png",
     "xws": "ghambs09"
   },
   {
@@ -24,7 +24,7 @@
     "name": "gh-am-bs-10 deprecated",
     "points": 3,
     "expansion": "Gloomhaven",
-    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS/gh-am-bs-10.png",
+    "image": "attack-modifiers/gloomhaven/BS/gh-am-bs-10.png",
     "xws": "ghambs10"
   },
   {
@@ -38,7 +38,7 @@
     "name": "gh-am-bs-11 deprecated",
     "points": 5,
     "expansion": "Gloomhaven",
-    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS/gh-am-bs-11.png",
+    "image": "attack-modifiers/gloomhaven/BS/gh-am-bs-11.png",
     "xws": "ghambs11"
   },
   {
@@ -52,7 +52,7 @@
     "name": "gh-am-bs-12 deprecated",
     "points": 7,
     "expansion": "Gloomhaven",
-    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS/gh-am-bs-12.png",
+    "image": "attack-modifiers/gloomhaven/BS/gh-am-bs-12.png",
     "xws": "ghambs12"
   },
   {
@@ -66,7 +66,7 @@
     "name": "gh-am-bs-14 deprecated",
     "points": 9,
     "expansion": "Gloomhaven",
-    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS/gh-am-bs-14.png",
+    "image": "attack-modifiers/gloomhaven/BS/BS/gh-am-bs-14.png",
     "xws": "ghambs14"
   },
   {
