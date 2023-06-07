@@ -107,9 +107,12 @@ This project uses [SemVer](http://semver.org/). Given a `MAJOR.MINOR.PATCH` vers
 
 See the [Releases tab](https://github.com/any2cards/worldhaven/releases) in Github.
 
+6/7/2023 - Repository was updated to reduce the repo size and remove old objects. This may create issues when updating. Perform a force update, or delete the repository and re-clone. Size was reduce from 7GB to 2GB.
+
 ## Contributors
 
 - William Habush (any2cards@yahoo.com)
+- Tom Judkins (b1gcountry@hotmail.com - git operations only)
 
 ---
 
