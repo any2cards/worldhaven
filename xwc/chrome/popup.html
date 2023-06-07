@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <p>Select Games / Expansions / Assets:</p>
+    <div class="top">
+      <div>
+        <details id="wh-details">
+          <summary><input type="checkbox" id="wh" value="wh">
+            <label for="wh">Worldhaven</label><br>
+          </summary>
+          <div class="indent">
+            <details id="cp-details">
+              <summary><input type="checkbox" id="cp" value="cp">
+                <label for="cp">Cephalofair Official Content</label><br>
+              </summary>
+              <div class="indent">
+                <details id="gh-details">
+                  <summary><input type="checkbox" id="gh" value="gh">
+                    <label for="gh">Gloomhaven</label><br>
+                  </summary>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-attack-modifiers" value="gh-attack-modifiers">
+                    <label for="gh-attack-modifiers">Attack Modifiers</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-battle-goals" value="gh-battle-goals">
+                    <label for="gh-battle-goals">Battle Goals</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-character-ability-cards" value="gh-character-ability-cards">
+                    <label for="gh-character-ability-cards">Character Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-character-mats" value="gh-character-mats">
+                    <label for="gh-character-mats">Character Mats</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-character-perks" value="gh-character-perks">
+                    <label for="gh-character-perks">Character Perks</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-deprecated-assets" value="gh-deprecated-assets">
+                    <label for="gh-deprecated-assets">Deprecated Assets</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-events" value="gh-events">
+                    <label for="gh-events">Events</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-items" value="gh-items">
+                    <label for="gh-items">Items</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-map-tiles" value="gh-map-tiles">
+                    <label for="gh-map-tiles">Map Tiles</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-monster-ability-cards" value="gh-monster-ability-cards">
+                    <label for="gh-monster-ability-cards">Monster Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-monster-stat-cards" value="gh-monster-stat-cards">
+                    <label for="gh-monster-stat-cards">Monster Stat Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-personal-quests" value="gh-personal-quests">
+                    <label for="gh-personal-quests">Personal Quests</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-player-aid-cards" value="gh-player-aid-cards">
+                    <label for="gh-player-aid-cards">Player Aid Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-random-dungeons" value="gh-random-dungeons">
+                    <label for="gh-random-dungeons">Random Dungeons</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-random-scenarios" value="gh-random-scenarios">
+                    <label for="gh-random-scenarios">Random Scenarios</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-tokens" value="gh-tokens">
+                    <label for="gh-tokens">Tokens</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="gh-world-map" value="gh-world-map">
+                    <label for="gh-world-map">World Map</label><br>
+                  </div>
+                </details>
+              </div>
+              <div class="indent">
+                <details id="fc-details">
+                  <summary><input type="checkbox" id="fc" value="fc">
+                    <label for="fc">Forgotten Circles</label><br>
+                  </summary>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-attack-modifiers" value="fc-attack-modifiers">
+                    <label for="fc-attack-modifiers">Attack Modifiers</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-character-ability-cards" value="fc-character-ability-cards">
+                    <label for="fc-character-ability-cards">Character Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-character-mats" value="fc-character-mats">
+                    <label for="fc-character-mats">Character Mats</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-character-perks" value="fc-character-perks">
+                    <label for="fc-character-perks">Character Perks</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-deprecated-assets" value="fc-deprecated-assets">
+                    <label for="fc-deprecated-assets">Deprecated Assets</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-events" value="fc-events">
+                    <label for="fc-events">Events</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-items" value="fc-items">
+                    <label for="fc-items">Items</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-monster-ability-cards" value="fc-monster-ability-cards">
+                    <label for="fc-monster-ability-cards">Monster Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-monster-stat-cards" value="fc-monster-stat-cards">
+                    <label for="fc-monster-stat-cards">Monster Stat Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-player-aid-cards" value="fc-player-aid-cards">
+                    <label for="fc-player-aid-cards">Player Aid Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-random-dungeons" value="fc-random-dungeons">
+                    <label for="fc-random-dungeons">Random Dungeons</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fc-tokens" value="fc-tokens">
+                    <label for="fc-tokens">Tokens</label><br>
+                  </div>
+                </details>
+              </div>
+              <div class="indent">
+                <details id="fh-details">
+                  <summary><input type="checkbox" id="fh" value="fh">
+                    <label for="fh">Frosthaven</label><br>
+                  </summary>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-art" value="fh-art">
+                    <label for="fh-art">Art</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-attack-modifiers" value="fh-attack-modifiers">
+                    <label for="fh-attack-modifiers">Attack Modifiers</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-battle-goals" value="fh-battle-goals">
+                    <label for="fh-battle-goals">Battle Goals</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-books" value="fh-books">
+                    <label for="fh-books">Books</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-challenge-cards" value="fh-challenge-cards">
+                    <label for="fh-challenge-cards">Challenge Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-character-ability-cards" value="fh-character-ability-cards">
+                    <label for="fh-character-ability-cards">Character Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-character-mats" value="fh-character-mats">
+                    <label for="fh-character-mats">Character Mats</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-character-perks" value="fh-character-perks">
+                    <label for="fh-character-perks">Character Perks</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-charts" value="fh-charts">
+                    <label for="fh-charts">Charts</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-deprecated-assets" value="fh-deprecated-assets">
+                    <label for="fh-deprecated-assets">Deprecated Assets</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-events" value="fh-events">
+                    <label for="fh-events">Events</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-items" value="fh-items">
+                    <label for="fh-items">Items</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-loot-deck" value="fh-loot-deck">
+                    <label for="fh-loot-deck">Loot Deck</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-map-tiles" value="fh-map-tiles">
+                    <label for="fh-map-tiles">Map Tiles</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-monster-ability-cards" value="fh-monster-ability-cards">
+                    <label for="fh-monster-ability-cards">Monster Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-monster-stat-cards" value="fh-monster-stat-cards">
+                    <label for="fh-monster-stat-cards">Monster Stat Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-outpost-building-cards" value="fh-outpost-building-cards">
+                    <label for="fh-outpost-building-cards">Outpost Building Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-personal-quests" value="fh-personal-quests">
+                    <label for="fh-personal-quests">Personal Quests</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-pet-cards" value="fh-pet-cards">
+                    <label for="fh-pet-cards">Pet Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-player-aid-cards" value="fh-player-aid-cards">
+                    <label for="fh-player-aid-cards">Player Aid Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-random-dungeons" value="fh-random-dungeons">
+                    <label for="fh-random-dungeons">Random Dungeons</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-random-scenarios" value="fh-random-scenarios">
+                    <label for="fh-random-scenarios">Random Scenarios</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-tokens" value="fh-tokens">
+                    <label for="fh-tokens">Tokens</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-trial-cards" value="fh-trial-cards">
+                    <label for="fh-trial-cards">Trial Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="fh-world-map" value="fh-world-map">
+                    <label for="fh-world-map">World Map</label><br>
+                  </div>
+                </details>
+              </div>
+              <div class="indent">
+                <details id="jl-details">
+                  <summary><input type="checkbox" id="jl" value="jl">
+                    <label for="jl">Jaws Of The Lion</label><br>
+                  </summary>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-attack-modifiers" value="jl-attack-modifiers">
+                    <label for="jl-attack-modifiers">Attack Modifiers</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-battle-goals" value="jl-battle-goals">
+                    <label for="jl-battle-goals">Battle Goals</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-character-ability-cards" value="jl-character-ability-cards">
+                    <label for="jl-character-ability-cards">Character Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-character-mats" value="jl-character-mats">
+                    <label for="jl-character-mats">Character Mats</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-character-perks" value="jl-character-perks">
+                    <label for="jl-character-perks">Character Perks</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-events" value="jl-events">
+                    <label for="jl-events">Events</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-items" value="jl-items">
+                    <label for="jl-items">Items</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-monster-ability-cards" value="jl-monster-ability-cards">
+                    <label for="jl-monster-ability-cards">Monster Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="jl-monster-stat-cards" value="jl-monster-stat-cards">
+                    <label for="jl-monster-stat-cards">Monster Stat Cards</label><br>
+                  </div>
+                </details>
+              </div>
+            </details>
+          </div>
+          <div class="indent">
+            <details id="usrcom-details">
+              <summary><input type="checkbox" id="usrcom" value="usrcom">
+                <label for="usrcom">User Community Content</label><br>
+              </summary>
+              <div class="indent">
+                <details id="cs-details">
+                  <summary><input type="checkbox" id="cs" value="cs">
+                    <label for="cs">Crimson Scales</label><br>
+                  </summary>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-attack-modifiers" value="cs-attack-modifiers">
+                    <label for="cs-attack-modifiers">Attack Modifiers</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-character-ability-cards" value="cs-character-ability-cards">
+                    <label for="cs-character-ability-cards">Character Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-character-mats" value="cs-character-mats">
+                    <label for="cs-character-mats">Character Mats</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-character-perks" value="cs-character-perks">
+                    <label for="cs-character-perks">Character Perks</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-deprecated-assets" value="cs-deprecated-assets">
+                    <label for="cs-deprecated-assets">Deprecated Assets</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-events" value="cs-events">
+                    <label for="cs-events">Events</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-items" value="cs-items">
+                    <label for="cs-items">Items</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-milestones" value="cs-milestones">
+                    <label for="cs-milestones">Milestones</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-monster-ability-cards" value="cs-monster-ability-cards">
+                    <label for="cs-monster-ability-cards">Monster Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-monster-stat-cards" value="cs-monster-stat-cards">
+                    <label for="cs-monster-stat-cards">Monster Stat Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-personal-quests" value="cs-personal-quests">
+                    <label for="cs-personal-quests">Personal Quests</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-player-aid-cards" value="cs-player-aid-cards">
+                    <label for="cs-player-aid-cards">Player Aid Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="cs-tokens" value="cs-tokens">
+                    <label for="cs-tokens">Tokens</label><br>
+                  </div>
+                </details>
+              </div>
+              <div class="indent">
+                <details id="ta-details">
+                  <summary><input type="checkbox" id="ta" value="ta">
+                    <label for="ta">Trail of Ashes</label><br>
+                  </summary>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-attack-modifiers" value="ta-attack-modifiers">
+                    <label for="ta-attack-modifiers">Attack Modifiers</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-character-ability-cards" value="ta-character-ability-cards">
+                    <label for="ta-character-ability-cards">Character Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-character-mats" value="ta-character-mats">
+                    <label for="ta-character-mats">Character Mats</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-character-perks" value="ta-character-perks">
+                    <label for="ta-character-perks">Character Perks</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-events" value="ta-events">
+                    <label for="ta-events">Events</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-items" value="ta-items">
+                    <label for="ta-items">Items</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-milestone-ability-cards" value="ta-milestone-ability-cards">
+                    <label for="ta-milestone-ability-cards">Milestone Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-milestones" value="ta-milestones">
+                    <label for="ta-milestones">Milestones</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-monster-ability-cards" value="ta-monster-ability-cards">
+                    <label for="ta-monster-ability-cards">Monster Ability Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-monster-stat-cards" value="ta-monster-stat-cards">
+                    <label for="ta-monster-stat-cards">Monster Stat Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-personal-quests" value="ta-personal-quests">
+                    <label for="ta-personal-quests">Personal Quests</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-player-aid-cards" value="ta-player-aid-cards">
+                    <label for="ta-player-aid-cards">Player Aid Cards</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-random-scenarios" value="ta-random-scenarios">
+                    <label for="ta-random-scenarios">Random Scenarios</label><br>
+                  </div>
+                  <div class="indent">
+                    <input type="checkbox" id="ta-tokens" value="ta-tokens">
+                    <label for="ta-tokens">Tokens</label><br>
+                  </div>
+                </details>
+              </div>
+            </details>
+          </div>
+        </details>
+      </div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
