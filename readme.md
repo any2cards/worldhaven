@@ -66,14 +66,6 @@ The `pbf` folder contains specific WH Asset Viewer images for Play By Forum (PBF
 
 The `xwc` folder contains all of the files that power the WH Asset Viewer Chrome Extension.
 
-## Usage
-
-You can use this data to build your own apps, etc.
-
-The easiest way to do this is via [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
-
-* Git submodule: `git submodule add https://github.com/any2cards/worldhaven.git`
-
 ## Bugs / Issues
 
 Please [open a ticket](https://github.com/any2cards/worldhaven/issues/new) on Github.
