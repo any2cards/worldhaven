@@ -9642,140 +9642,140 @@
     "name": "scenario 21",
     "points": 1377,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-loot.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-loot.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario 021",
     "points": 1378,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-loot.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-loot.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario #21",
     "points": 1379,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-loot.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-loot.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario #021",
     "points": 1380,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-loot.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-loot.png",
     "xws": "realmoftheendlessfrost"
   },
   {
-    "name": "realm of the endless frost",
+    "name": "realm of endless frost",
     "points": 1381,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-loot.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-loot.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario 21",
     "points": 1382,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-map-layout.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-map-layout.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario 021",
     "points": 1383,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-map-layout.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-map-layout.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario #21",
     "points": 1384,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-map-layout.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-map-layout.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario #021",
     "points": 1385,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-map-layout.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-map-layout.png",
     "xws": "realmoftheendlessfrost"
   },
   {
-    "name": "realm of the endless frost",
+    "name": "realm of endless frost",
     "points": 1386,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-map-layout.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-map-layout.png",
     "xws": "realmoftheendlessfrost"
   },
   {
     "name": "scenario 21",
     "points": 1387,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-a.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-a.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
     "name": "scenario 021",
     "points": 1388,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-a.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-a.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
     "name": "scenario #21",
     "points": 1389,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-a.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-a.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
     "name": "scenario #021",
     "points": 1390,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-a.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-a.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
-    "name": "realm of the endless frost",
+    "name": "realm of endless frost",
     "points": 1391,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-a.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-a.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
     "name": "scenario 21",
     "points": 1392,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-b.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-b.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
     "name": "scenario 021",
     "points": 1393,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-b.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-b.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
     "name": "scenario #21",
     "points": 1394,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-b.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-b.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
     "name": "scenario #021",
     "points": 1395,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-b.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-b.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
-    "name": "realm of the endless frost",
+    "name": "realm of endless frost",
     "points": 1396,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-b.png",
+    "image": "art/frosthaven/scenario-layout/fh-021-realm-of-endless-frost-scenario-key-b.png",
     "xws": "realmoftheendlessfrosts"
   },
   {
