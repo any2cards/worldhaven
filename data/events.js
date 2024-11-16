@@ -6657,2192 +6657,2227 @@
     "xws": "csce07b"
   },
   {
-    "name": "cs-ce-07-f",
+    "name": "battle turkey",
     "points": 951,
+    "expansion": "Crimson Scales",
+    "image": "events/crimson-scales/city/cs-ce-07-b.png",
+    "xws": "csce07b"
+  },
+  {
+    "name": "cs-ce-07-f",
+    "points": 952,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-07-f.png",
     "xws": "csce07f"
   },
   {
     "name": "cs-ce-08-b",
-    "points": 952,
+    "points": 953,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-08-b.png",
     "xws": "csce08b"
   },
   {
     "name": "cs-ce-08-f",
-    "points": 953,
+    "points": 954,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-08-f.png",
     "xws": "csce08f"
   },
   {
     "name": "cs-ce-09-b",
-    "points": 954,
+    "points": 955,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-09-b.png",
     "xws": "csce09b"
   },
   {
     "name": "cs-ce-09-f",
-    "points": 955,
+    "points": 956,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-09-f.png",
     "xws": "csce09f"
   },
   {
     "name": "cs-ce-10-b",
-    "points": 956,
+    "points": 957,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-10-b.png",
     "xws": "csce10b"
   },
   {
     "name": "cs-ce-10-f",
-    "points": 957,
+    "points": 958,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-10-f.png",
     "xws": "csce10f"
   },
   {
     "name": "cs-ce-11-b",
-    "points": 958,
+    "points": 959,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-11-b.png",
     "xws": "csce11b"
   },
   {
     "name": "cs-ce-11-f",
-    "points": 959,
+    "points": 960,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-11-f.png",
     "xws": "csce11f"
   },
   {
     "name": "cs-ce-12-b",
-    "points": 960,
+    "points": 961,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-12-b.png",
     "xws": "csce12b"
   },
   {
     "name": "cs-ce-12-f",
-    "points": 961,
+    "points": 962,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-12-f.png",
     "xws": "csce12f"
   },
   {
     "name": "cs-ce-13-b",
-    "points": 962,
+    "points": 963,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-13-b.png",
     "xws": "csce13b"
   },
   {
     "name": "cs-ce-13-f",
-    "points": 963,
+    "points": 964,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-13-f.png",
     "xws": "csce13f"
   },
   {
     "name": "cs-ce-14-b",
-    "points": 964,
+    "points": 965,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-14-b.png",
     "xws": "csce14b"
   },
   {
     "name": "cs-ce-14-f",
-    "points": 965,
+    "points": 966,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-14-f.png",
     "xws": "csce14f"
   },
   {
     "name": "cs-ce-15-b",
-    "points": 966,
+    "points": 967,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-15-b.png",
     "xws": "csce15b"
   },
   {
     "name": "cs-ce-15-f",
-    "points": 967,
+    "points": 968,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-15-f.png",
     "xws": "csce15f"
   },
   {
     "name": "cs-ce-16-b",
-    "points": 968,
+    "points": 969,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-16-b.png",
     "xws": "csce16b"
   },
   {
     "name": "cs-ce-16-f",
-    "points": 969,
+    "points": 970,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-16-f.png",
     "xws": "csce16f"
   },
   {
     "name": "cs-ce-17-b",
-    "points": 970,
+    "points": 971,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-17-b.png",
     "xws": "csce17b"
   },
   {
     "name": "cs-ce-17-f",
-    "points": 971,
+    "points": 972,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-17-f.png",
     "xws": "csce17f"
   },
   {
     "name": "cs-ce-18-b",
-    "points": 972,
+    "points": 973,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-18-b.png",
     "xws": "csce18b"
   },
   {
     "name": "cs-ce-18-f",
-    "points": 973,
+    "points": 974,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-18-f.png",
     "xws": "csce18f"
   },
   {
     "name": "cs-ce-19-b",
-    "points": 974,
+    "points": 975,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-19-b.png",
     "xws": "csce19b"
   },
   {
     "name": "cs-ce-19-f",
-    "points": 975,
+    "points": 976,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-19-f.png",
     "xws": "csce19f"
   },
   {
     "name": "cs-ce-20-b",
-    "points": 976,
+    "points": 977,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-20-b.png",
     "xws": "csce20b"
   },
   {
     "name": "cs-ce-20-f",
-    "points": 977,
+    "points": 978,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-20-f.png",
     "xws": "csce20f"
   },
   {
     "name": "cs-ce-21-b",
-    "points": 978,
+    "points": 979,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-21-b.png",
     "xws": "csce21b"
   },
   {
     "name": "cs-ce-21-f",
-    "points": 979,
+    "points": 980,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-21-f.png",
     "xws": "csce21f"
   },
   {
     "name": "cs-ce-22-b",
-    "points": 980,
+    "points": 981,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-22-b.png",
     "xws": "csce22b"
   },
   {
     "name": "cs-ce-22-f",
-    "points": 981,
+    "points": 982,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-22-f.png",
     "xws": "csce22f"
   },
   {
     "name": "cs-ce-23-b",
-    "points": 982,
+    "points": 983,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-23-b.png",
     "xws": "csce23b"
   },
   {
     "name": "cs-ce-23-f",
-    "points": 983,
+    "points": 984,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-23-f.png",
     "xws": "csce23f"
   },
   {
     "name": "cs-ce-24-b",
-    "points": 984,
+    "points": 985,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-24-b.png",
     "xws": "csce24b"
   },
   {
     "name": "cs-ce-24-f",
-    "points": 985,
+    "points": 986,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-24-f.png",
     "xws": "csce24f"
   },
   {
     "name": "cs-ce-25-b",
-    "points": 986,
+    "points": 987,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-25-b.png",
     "xws": "csce25b"
   },
   {
     "name": "cs-ce-25-f",
-    "points": 987,
+    "points": 988,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-25-f.png",
     "xws": "csce25f"
   },
   {
     "name": "cs-ce-26-b",
-    "points": 988,
+    "points": 989,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-26-b.png",
     "xws": "csce26b"
   },
   {
     "name": "cs-ce-26-f",
-    "points": 989,
+    "points": 990,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-26-f.png",
     "xws": "csce26f"
   },
   {
     "name": "cs-ce-27-b",
-    "points": 990,
+    "points": 991,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-27-b.png",
     "xws": "csce27b"
   },
   {
     "name": "cs-ce-27-f",
-    "points": 991,
+    "points": 992,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-27-f.png",
     "xws": "csce27f"
   },
   {
     "name": "cs-ce-28-b",
-    "points": 992,
+    "points": 993,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-28-b.png",
     "xws": "csce28b"
   },
   {
     "name": "cs-ce-28-f",
-    "points": 993,
+    "points": 994,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-28-f.png",
     "xws": "csce28f"
   },
   {
     "name": "cs-ce-29-b",
-    "points": 994,
+    "points": 995,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-29-b.png",
     "xws": "csce29b"
   },
   {
     "name": "cs-ce-29-f",
-    "points": 995,
+    "points": 996,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-29-f.png",
     "xws": "csce29f"
   },
   {
     "name": "cs-ce-30-b",
-    "points": 996,
+    "points": 997,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-30-b.png",
     "xws": "csce30b"
   },
   {
     "name": "cs-ce-30-f",
-    "points": 997,
+    "points": 998,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-30-f.png",
     "xws": "csce30f"
   },
   {
     "name": "cs-ce-31-b",
-    "points": 998,
+    "points": 999,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-31-b.png",
     "xws": "csce31b"
   },
   {
     "name": "cs-ce-31-f",
-    "points": 999,
+    "points": 1000,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-31-f.png",
     "xws": "csce31f"
   },
   {
     "name": "cs-ce-32-b",
-    "points": 1000,
+    "points": 1001,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-32-b.png",
     "xws": "csce32b"
   },
   {
     "name": "cs-ce-32-f",
-    "points": 1001,
+    "points": 1002,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-32-f.png",
     "xws": "csce32f"
   },
   {
     "name": "cs-ce-33-b",
-    "points": 1002,
+    "points": 1003,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-33-b.png",
     "xws": "csce33b"
   },
   {
     "name": "cs-ce-33-f",
-    "points": 1003,
+    "points": 1004,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-33-f.png",
     "xws": "csce33f"
   },
   {
     "name": "cs-ce-34-b",
-    "points": 1004,
+    "points": 1005,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-34-b.png",
     "xws": "csce34b"
   },
   {
     "name": "cs-ce-34-f",
-    "points": 1005,
+    "points": 1006,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-34-f.png",
     "xws": "csce34f"
   },
   {
     "name": "cs-ce-35-b",
-    "points": 1006,
+    "points": 1007,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-35-b.png",
     "xws": "csce35b"
   },
   {
     "name": "cs-ce-35-f",
-    "points": 1007,
+    "points": 1008,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-35-f.png",
     "xws": "csce35f"
   },
   {
     "name": "cs-ce-36-b",
-    "points": 1008,
+    "points": 1009,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-36-b.png",
     "xws": "csce36b"
   },
   {
     "name": "cs-ce-36-f",
-    "points": 1009,
+    "points": 1010,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-36-f.png",
     "xws": "csce36f"
   },
   {
     "name": "cs-ce-37-b",
-    "points": 1010,
+    "points": 1011,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-37-b.png",
     "xws": "csce37b"
   },
   {
     "name": "cs-ce-37-f",
-    "points": 1011,
+    "points": 1012,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-37-f.png",
     "xws": "csce37f"
   },
   {
     "name": "cs-ce-38-b",
-    "points": 1012,
+    "points": 1013,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-38-b.png",
     "xws": "csce38b"
   },
   {
     "name": "cs-ce-38-f",
-    "points": 1013,
+    "points": 1014,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-38-f.png",
     "xws": "csce38f"
   },
   {
     "name": "cs-ce-39-b",
-    "points": 1014,
+    "points": 1015,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-39-b.png",
     "xws": "csce39b"
   },
   {
     "name": "cs-ce-39-f",
-    "points": 1015,
+    "points": 1016,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-39-f.png",
     "xws": "csce39f"
   },
   {
     "name": "cs-ce-40-b",
-    "points": 1016,
+    "points": 1017,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-40-b.png",
     "xws": "csce40b"
   },
   {
     "name": "cs-ce-40-f",
-    "points": 1017,
+    "points": 1018,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-40-f.png",
     "xws": "csce40f"
   },
   {
     "name": "cs-ce-41-b",
-    "points": 1018,
+    "points": 1019,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-41-b.png",
     "xws": "csce41b"
   },
   {
     "name": "cs-ce-41-f",
-    "points": 1019,
+    "points": 1020,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-41-f.png",
     "xws": "csce41f"
   },
   {
     "name": "cs-ce-42-b",
-    "points": 1020,
+    "points": 1021,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-42-b.png",
     "xws": "csce42b"
   },
   {
     "name": "cs-ce-42-f",
-    "points": 1021,
+    "points": 1022,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-42-f.png",
     "xws": "csce42f"
   },
   {
     "name": "cs-ce-43-b",
-    "points": 1022,
+    "points": 1023,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-43-b.png",
     "xws": "csce43b"
   },
   {
     "name": "cs-ce-43-f",
-    "points": 1023,
+    "points": 1024,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-43-f.png",
     "xws": "csce43f"
   },
   {
     "name": "cs-ce-44-b",
-    "points": 1024,
+    "points": 1025,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-44-b.png",
     "xws": "csce44b"
   },
   {
     "name": "cs-ce-44-f",
-    "points": 1025,
+    "points": 1026,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-44-f.png",
     "xws": "csce44f"
   },
   {
     "name": "cs-ce-45-b",
-    "points": 1026,
+    "points": 1027,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-45-b.png",
     "xws": "csce45b"
   },
   {
     "name": "cs-ce-45-f",
-    "points": 1027,
+    "points": 1028,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-45-f.png",
     "xws": "csce45f"
   },
   {
     "name": "cs-ce-46-b",
-    "points": 1028,
+    "points": 1029,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-46-b.png",
     "xws": "csce46b"
   },
   {
     "name": "cs-ce-46-f",
-    "points": 1029,
+    "points": 1030,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-46-f.png",
     "xws": "csce46f"
   },
   {
     "name": "cs-ce-47-b",
-    "points": 1030,
+    "points": 1031,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-47-b.png",
     "xws": "csce47b"
   },
   {
     "name": "cs-ce-47-f",
-    "points": 1031,
+    "points": 1032,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-47-f.png",
     "xws": "csce47f"
   },
   {
     "name": "cs-ce-48-b",
-    "points": 1032,
+    "points": 1033,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-48-b.png",
     "xws": "csce48b"
   },
   {
     "name": "cs-ce-48-f",
-    "points": 1033,
+    "points": 1034,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-48-f.png",
     "xws": "csce48f"
   },
   {
     "name": "cs-ce-49-b",
-    "points": 1034,
+    "points": 1035,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-49-b.png",
     "xws": "csce49b"
   },
   {
     "name": "cs-ce-49-f",
-    "points": 1035,
+    "points": 1036,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-49-f.png",
     "xws": "csce49f"
   },
   {
     "name": "cs-ce-50-b",
-    "points": 1036,
+    "points": 1037,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-50-b.png",
     "xws": "csce50b"
   },
   {
     "name": "cs-ce-50-f",
-    "points": 1037,
+    "points": 1038,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-50-f.png",
     "xws": "csce50f"
   },
   {
     "name": "cs-ce-51-b",
-    "points": 1038,
+    "points": 1039,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-51-b.png",
     "xws": "csce51b"
   },
   {
     "name": "cs-ce-51-f",
-    "points": 1039,
+    "points": 1040,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-51-f.png",
     "xws": "csce51f"
   },
   {
     "name": "cs-ce-52-b",
-    "points": 1040,
+    "points": 1041,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-52-b.png",
     "xws": "csce52b"
   },
   {
     "name": "cs-ce-52-f",
-    "points": 1041,
+    "points": 1042,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-52-f.png",
     "xws": "csce52f"
   },
   {
     "name": "cs-ce-53-b",
-    "points": 1042,
+    "points": 1043,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-53-b.png",
     "xws": "csce53b"
   },
   {
     "name": "cs-ce-53-f",
-    "points": 1043,
+    "points": 1044,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-53-f.png",
     "xws": "csce53f"
   },
   {
     "name": "cs-ce-54-b",
-    "points": 1044,
+    "points": 1045,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-54-b.png",
     "xws": "csce54b"
   },
   {
     "name": "cs-ce-54-f",
-    "points": 1045,
+    "points": 1046,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-54-f.png",
     "xws": "csce54f"
   },
   {
     "name": "cs-ce-55-b",
-    "points": 1046,
+    "points": 1047,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-55-b.png",
     "xws": "csce55b"
   },
   {
     "name": "cs-ce-55-f",
-    "points": 1047,
+    "points": 1048,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-55-f.png",
     "xws": "csce55f"
   },
   {
     "name": "cs-ce-56-b",
-    "points": 1048,
+    "points": 1049,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-56-b.png",
     "xws": "csce56b"
   },
   {
     "name": "cs-ce-56-f",
-    "points": 1049,
+    "points": 1050,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-56-f.png",
     "xws": "csce56f"
   },
   {
     "name": "cs-ce-57-b",
-    "points": 1050,
+    "points": 1051,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-57-b.png",
     "xws": "csce57b"
   },
   {
     "name": "cs-ce-57-f",
-    "points": 1051,
+    "points": 1052,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-57-f.png",
     "xws": "csce57f"
   },
   {
     "name": "cs-ce-58-b",
-    "points": 1052,
+    "points": 1053,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-58-b.png",
     "xws": "csce58b"
   },
   {
     "name": "cs-ce-58-f",
-    "points": 1053,
+    "points": 1054,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-58-f.png",
     "xws": "csce58f"
   },
   {
     "name": "cs-ce-59-b",
-    "points": 1054,
+    "points": 1055,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-59-b.png",
     "xws": "csce59b"
   },
   {
     "name": "cs-ce-59-f",
-    "points": 1055,
+    "points": 1056,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-59-f.png",
     "xws": "csce59f"
   },
   {
     "name": "cs-ce-60-b",
-    "points": 1056,
+    "points": 1057,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-60-b.png",
     "xws": "csce60b"
   },
   {
     "name": "cs-ce-60-f",
-    "points": 1057,
+    "points": 1058,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-60-f.png",
     "xws": "csce60f"
   },
   {
     "name": "cs-ce-aa-01-b",
-    "points": 1058,
+    "points": 1059,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-aa-01-b.png",
     "xws": "csceaa01b"
   },
   {
     "name": "cs-ce-aa-01-f",
-    "points": 1059,
+    "points": 1060,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-aa-01-f.png",
     "xws": "csceaa01f"
   },
   {
     "name": "cs-ce-aa-02-b",
-    "points": 1060,
+    "points": 1061,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-aa-02-b.png",
     "xws": "csceaa02b"
   },
   {
     "name": "cs-ce-aa-02-f",
-    "points": 1061,
+    "points": 1062,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-aa-02-f.png",
     "xws": "csceaa02f"
   },
   {
     "name": "cs-ce-qa-01-b",
-    "points": 1062,
+    "points": 1063,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-01-b.png",
     "xws": "csceqa01b"
   },
   {
     "name": "cs-ce-qa-01-f",
-    "points": 1063,
+    "points": 1064,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-01-f.png",
     "xws": "csceqa01f"
   },
   {
     "name": "cs-ce-qa-02-b",
-    "points": 1064,
+    "points": 1065,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-02-b.png",
     "xws": "csceqa02b"
   },
   {
     "name": "cs-ce-qa-02-f",
-    "points": 1065,
+    "points": 1066,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-02-f.png",
     "xws": "csceqa02f"
   },
   {
     "name": "cs-ce-qa-03-b",
-    "points": 1066,
+    "points": 1067,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-03-b.png",
     "xws": "csceqa03b"
   },
   {
     "name": "cs-ce-qa-03-f",
-    "points": 1067,
+    "points": 1068,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-03-f.png",
     "xws": "csceqa03f"
   },
   {
     "name": "cs-ce-rm-01-b",
-    "points": 1068,
+    "points": 1069,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-rm-01-b.png",
     "xws": "cscerm01b"
   },
   {
     "name": "cs-ce-rm-01-f",
-    "points": 1069,
+    "points": 1070,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-rm-01-f.png",
     "xws": "cscerm01f"
   },
   {
     "name": "cs-ce-rm-02-b",
-    "points": 1070,
+    "points": 1071,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-rm-02-b.png",
     "xws": "cscerm02b"
   },
   {
     "name": "cs-ce-rm-02-f",
-    "points": 1071,
+    "points": 1072,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-rm-02-f.png",
     "xws": "cscerm02f"
   },
   {
     "name": "cs-re-01-b",
-    "points": 1072,
+    "points": 1073,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-01-b.png",
     "xws": "csre01b"
   },
   {
     "name": "cs-re-01-f",
-    "points": 1073,
+    "points": 1074,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-01-f.png",
     "xws": "csre01f"
   },
   {
     "name": "cs-re-02-b",
-    "points": 1074,
+    "points": 1075,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-02-b.png",
     "xws": "csre02b"
   },
   {
     "name": "cs-re-02-f",
-    "points": 1075,
+    "points": 1076,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-02-f.png",
     "xws": "csre02f"
   },
   {
     "name": "cs-re-03-b",
-    "points": 1076,
+    "points": 1077,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-03-b.png",
     "xws": "csre03b"
   },
   {
     "name": "cs-re-03-f",
-    "points": 1077,
+    "points": 1078,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-03-f.png",
     "xws": "csre03f"
   },
   {
     "name": "cs-re-04-b",
-    "points": 1078,
+    "points": 1079,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-04-b.png",
     "xws": "csre04b"
   },
   {
     "name": "cs-re-04-f",
-    "points": 1079,
+    "points": 1080,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-04-f.png",
     "xws": "csre04f"
   },
   {
     "name": "cs-re-05-b",
-    "points": 1080,
+    "points": 1081,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-05-b.png",
     "xws": "csre05b"
   },
   {
     "name": "cs-re-05-f",
-    "points": 1081,
+    "points": 1082,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-05-f.png",
     "xws": "csre05f"
   },
   {
     "name": "cs-re-06-b",
-    "points": 1082,
+    "points": 1083,
+    "expansion": "Crimson Scales",
+    "image": "events/crimson-scales/road/cs-re-06-b.png",
+    "xws": "csre06b"
+  },
+  {
+    "name": "snapping turtle",
+    "points": 1084,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-06-b.png",
     "xws": "csre06b"
   },
   {
     "name": "cs-re-06-f",
-    "points": 1083,
+    "points": 1085,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-06-f.png",
     "xws": "csre06f"
   },
   {
     "name": "cs-re-07-b",
-    "points": 1084,
+    "points": 1086,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-07-b.png",
     "xws": "csre07b"
   },
   {
     "name": "cs-re-07-f",
-    "points": 1085,
+    "points": 1087,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-07-f.png",
     "xws": "csre07f"
   },
   {
     "name": "cs-re-08-b",
-    "points": 1086,
+    "points": 1088,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-08-b.png",
     "xws": "csre08b"
   },
   {
     "name": "cs-re-08-f",
-    "points": 1087,
+    "points": 1089,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-08-f.png",
     "xws": "csre08f"
   },
   {
     "name": "cs-re-09-b",
-    "points": 1088,
+    "points": 1090,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-09-b.png",
     "xws": "csre09b"
   },
   {
     "name": "cs-re-09-f",
-    "points": 1089,
+    "points": 1091,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-09-f.png",
     "xws": "csre09f"
   },
   {
     "name": "cs-re-10-b",
-    "points": 1090,
+    "points": 1092,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-10-b.png",
     "xws": "csre10b"
   },
   {
     "name": "cs-re-10-f",
-    "points": 1091,
+    "points": 1093,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-10-f.png",
     "xws": "csre10f"
   },
   {
     "name": "cs-re-11-b",
-    "points": 1092,
+    "points": 1094,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-11-b.png",
     "xws": "csre11b"
   },
   {
     "name": "cs-re-11-f",
-    "points": 1093,
+    "points": 1095,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-11-f.png",
     "xws": "csre11f"
   },
   {
     "name": "cs-re-12-b",
-    "points": 1094,
+    "points": 1096,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-12-b.png",
     "xws": "csre12b"
   },
   {
     "name": "cs-re-12-f",
-    "points": 1095,
+    "points": 1097,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-12-f.png",
     "xws": "csre12f"
   },
   {
     "name": "cs-re-13-b",
-    "points": 1096,
+    "points": 1098,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-13-b.png",
     "xws": "csre13b"
   },
   {
     "name": "cs-re-13-f",
-    "points": 1097,
+    "points": 1099,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-13-f.png",
     "xws": "csre13f"
   },
   {
     "name": "cs-re-14-b",
-    "points": 1098,
+    "points": 1100,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-14-b.png",
     "xws": "csre14b"
   },
   {
     "name": "cs-re-14-f",
-    "points": 1099,
+    "points": 1101,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-14-f.png",
     "xws": "csre14f"
   },
   {
     "name": "cs-re-15-b",
-    "points": 1100,
+    "points": 1102,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-15-b.png",
     "xws": "csre15b"
   },
   {
     "name": "cs-re-15-f",
-    "points": 1101,
+    "points": 1103,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-15-f.png",
     "xws": "csre15f"
   },
   {
     "name": "cs-re-16-b",
-    "points": 1102,
+    "points": 1104,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-16-b.png",
     "xws": "csre16b"
   },
   {
     "name": "cs-re-16-f",
-    "points": 1103,
+    "points": 1105,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-16-f.png",
     "xws": "csre16f"
   },
   {
     "name": "cs-re-17-b",
-    "points": 1104,
+    "points": 1106,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-17-b.png",
     "xws": "csre17b"
   },
   {
     "name": "cs-re-17-f",
-    "points": 1105,
+    "points": 1107,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-17-f.png",
     "xws": "csre17f"
   },
   {
     "name": "cs-re-18-b",
-    "points": 1106,
+    "points": 1108,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-18-b.png",
     "xws": "csre18b"
   },
   {
     "name": "cs-re-18-f",
-    "points": 1107,
+    "points": 1109,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-18-f.png",
     "xws": "csre18f"
   },
   {
     "name": "cs-re-19-b",
-    "points": 1108,
+    "points": 1110,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-19-b.png",
     "xws": "csre19b"
   },
   {
     "name": "cs-re-19-f",
-    "points": 1109,
+    "points": 1111,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-19-f.png",
     "xws": "csre19f"
   },
   {
     "name": "cs-re-20-b",
-    "points": 1110,
+    "points": 1112,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-20-b.png",
     "xws": "csre20b"
   },
   {
     "name": "cs-re-20-f",
-    "points": 1111,
+    "points": 1113,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-20-f.png",
     "xws": "csre20f"
   },
   {
     "name": "cs-re-21-b",
-    "points": 1112,
+    "points": 1114,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-21-b.png",
     "xws": "csre21b"
   },
   {
     "name": "cs-re-21-f",
-    "points": 1113,
+    "points": 1115,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-21-f.png",
     "xws": "csre21f"
   },
   {
     "name": "cs-re-22-b",
-    "points": 1114,
+    "points": 1116,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-22-b.png",
     "xws": "csre22b"
   },
   {
     "name": "cs-re-22-f",
-    "points": 1115,
+    "points": 1117,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-22-f.png",
     "xws": "csre22f"
   },
   {
     "name": "cs-re-23-b",
-    "points": 1116,
+    "points": 1118,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-23-b.png",
     "xws": "csre23b"
   },
   {
     "name": "cs-re-23-f",
-    "points": 1117,
+    "points": 1119,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-23-f.png",
     "xws": "csre23f"
   },
   {
     "name": "cs-re-24-b",
-    "points": 1118,
+    "points": 1120,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-24-b.png",
     "xws": "csre24b"
   },
   {
     "name": "cs-re-24-f",
-    "points": 1119,
+    "points": 1121,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-24-f.png",
     "xws": "csre24f"
   },
   {
     "name": "cs-re-25-b",
-    "points": 1120,
+    "points": 1122,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-25-b.png",
     "xws": "csre25b"
   },
   {
     "name": "cs-re-25-f",
-    "points": 1121,
+    "points": 1123,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-25-f.png",
     "xws": "csre25f"
   },
   {
     "name": "cs-re-26-b",
-    "points": 1122,
+    "points": 1124,
+    "expansion": "Crimson Scales",
+    "image": "events/crimson-scales/road/cs-re-26-b.png",
+    "xws": "csre26b"
+  },
+  {
+    "name": "slithering viper",
+    "points": 1125,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-26-b.png",
     "xws": "csre26b"
   },
   {
     "name": "cs-re-26-f",
-    "points": 1123,
+    "points": 1126,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-26-f.png",
     "xws": "csre26f"
   },
   {
     "name": "cs-re-27-b",
-    "points": 1124,
+    "points": 1127,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-27-b.png",
     "xws": "csre27b"
   },
   {
     "name": "cs-re-27-f",
-    "points": 1125,
+    "points": 1128,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-27-f.png",
     "xws": "csre27f"
   },
   {
     "name": "cs-re-28-b",
-    "points": 1126,
+    "points": 1129,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-28-b.png",
     "xws": "csre28b"
   },
   {
     "name": "cs-re-28-f",
-    "points": 1127,
+    "points": 1130,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-28-f.png",
     "xws": "csre28f"
   },
   {
     "name": "cs-re-29-b",
-    "points": 1128,
+    "points": 1131,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-29-b.png",
     "xws": "csre29b"
   },
   {
     "name": "cs-re-29-f",
-    "points": 1129,
+    "points": 1132,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-29-f.png",
     "xws": "csre29f"
   },
   {
     "name": "cs-re-30-b",
-    "points": 1130,
+    "points": 1133,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-30-b.png",
     "xws": "csre30b"
   },
   {
     "name": "cs-re-30-f",
-    "points": 1131,
+    "points": 1134,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-30-f.png",
     "xws": "csre30f"
   },
   {
     "name": "cs-re-31-b",
-    "points": 1132,
+    "points": 1135,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-31-b.png",
     "xws": "csre31b"
   },
   {
     "name": "cs-re-31-f",
-    "points": 1133,
+    "points": 1136,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-31-f.png",
     "xws": "csre31f"
   },
   {
     "name": "cs-re-32-b",
-    "points": 1134,
+    "points": 1137,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-32-b.png",
     "xws": "csre32b"
   },
   {
     "name": "cs-re-32-f",
-    "points": 1135,
+    "points": 1138,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-32-f.png",
     "xws": "csre32f"
   },
   {
     "name": "cs-re-33-b",
-    "points": 1136,
+    "points": 1139,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-33-b.png",
     "xws": "csre33b"
   },
   {
     "name": "cs-re-33-f",
-    "points": 1137,
+    "points": 1140,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-33-f.png",
     "xws": "csre33f"
   },
   {
     "name": "cs-re-34-b",
-    "points": 1138,
+    "points": 1141,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-34-b.png",
     "xws": "csre34b"
   },
   {
     "name": "cs-re-34-f",
-    "points": 1139,
+    "points": 1142,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-34-f.png",
     "xws": "csre34f"
   },
   {
     "name": "cs-re-35-b",
-    "points": 1140,
+    "points": 1143,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-35-b.png",
     "xws": "csre35b"
   },
   {
     "name": "cs-re-35-f",
-    "points": 1141,
+    "points": 1144,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-35-f.png",
     "xws": "csre35f"
   },
   {
     "name": "cs-re-36-b",
-    "points": 1142,
+    "points": 1145,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-36-b.png",
     "xws": "csre36b"
   },
   {
     "name": "cs-re-36-f",
-    "points": 1143,
+    "points": 1146,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-36-f.png",
     "xws": "csre36f"
   },
   {
     "name": "cs-re-37-b",
-    "points": 1144,
+    "points": 1147,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-37-b.png",
     "xws": "csre37b"
   },
   {
     "name": "cs-re-37-f",
-    "points": 1145,
+    "points": 1148,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-37-f.png",
     "xws": "csre37f"
   },
   {
     "name": "cs-re-38-b",
-    "points": 1146,
+    "points": 1149,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-38-b.png",
     "xws": "csre38b"
   },
   {
     "name": "cs-re-38-f",
-    "points": 1147,
+    "points": 1150,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-38-f.png",
     "xws": "csre38f"
   },
   {
     "name": "cs-re-39-b",
-    "points": 1148,
+    "points": 1151,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-39-b.png",
     "xws": "csre39b"
   },
   {
     "name": "cs-re-39-f",
-    "points": 1149,
+    "points": 1152,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-39-f.png",
     "xws": "csre39f"
   },
   {
     "name": "cs-re-40-b",
-    "points": 1150,
+    "points": 1153,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-40-b.png",
     "xws": "csre40b"
   },
   {
     "name": "cs-re-40-f",
-    "points": 1151,
+    "points": 1154,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-40-f.png",
     "xws": "csre40f"
   },
   {
     "name": "cs-re-41-b",
-    "points": 1152,
+    "points": 1155,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-41-b.png",
     "xws": "csre41b"
   },
   {
     "name": "cs-re-41-f",
-    "points": 1153,
+    "points": 1156,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-41-f.png",
     "xws": "csre41f"
   },
   {
     "name": "cs-re-42-b",
-    "points": 1154,
+    "points": 1157,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-42-b.png",
     "xws": "csre42b"
   },
   {
     "name": "cs-re-42-f",
-    "points": 1155,
+    "points": 1158,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-42-f.png",
     "xws": "csre42f"
   },
   {
     "name": "cs-re-43-b",
-    "points": 1156,
+    "points": 1159,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-43-b.png",
     "xws": "csre43b"
   },
   {
     "name": "cs-re-43-f",
-    "points": 1157,
+    "points": 1160,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-43-f.png",
     "xws": "csre43f"
   },
   {
     "name": "cs-re-44-b",
-    "points": 1158,
+    "points": 1161,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-44-b.png",
     "xws": "csre44b"
   },
   {
     "name": "cs-re-44-f",
-    "points": 1159,
+    "points": 1162,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-44-f.png",
     "xws": "csre44f"
   },
   {
     "name": "cs-re-45-b",
-    "points": 1160,
+    "points": 1163,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-45-b.png",
     "xws": "csre45b"
   },
   {
     "name": "cs-re-45-f",
-    "points": 1161,
+    "points": 1164,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-45-f.png",
     "xws": "csre45f"
   },
   {
     "name": "cs-re-46-b",
-    "points": 1162,
+    "points": 1165,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-46-b.png",
     "xws": "csre46b"
   },
   {
     "name": "cs-re-46-f",
-    "points": 1163,
+    "points": 1166,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-46-f.png",
     "xws": "csre46f"
   },
   {
     "name": "cs-re-47-b",
-    "points": 1164,
+    "points": 1167,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-47-b.png",
     "xws": "csre47b"
   },
   {
     "name": "cs-re-47-f",
-    "points": 1165,
+    "points": 1168,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-47-f.png",
     "xws": "csre47f"
   },
   {
     "name": "cs-re-48-b",
-    "points": 1166,
+    "points": 1169,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-48-b.png",
     "xws": "csre48b"
   },
   {
     "name": "cs-re-48-f",
-    "points": 1167,
+    "points": 1170,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-48-f.png",
     "xws": "csre48f"
   },
   {
     "name": "cs-re-49-b",
-    "points": 1168,
+    "points": 1171,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-49-b.png",
     "xws": "csre49b"
   },
   {
     "name": "cs-re-49-f",
-    "points": 1169,
+    "points": 1172,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-49-f.png",
     "xws": "csre49f"
   },
   {
     "name": "cs-re-50-b",
-    "points": 1170,
+    "points": 1173,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-50-b.png",
     "xws": "csre50b"
   },
   {
     "name": "cs-re-50-f",
-    "points": 1171,
+    "points": 1174,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-50-f.png",
     "xws": "csre50f"
   },
   {
     "name": "cs-re-51-b",
-    "points": 1172,
+    "points": 1175,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-51-b.png",
     "xws": "csre51b"
   },
   {
     "name": "cs-re-51-f",
-    "points": 1173,
+    "points": 1176,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-51-f.png",
     "xws": "csre51f"
   },
   {
     "name": "cs-re-52-b",
-    "points": 1174,
+    "points": 1177,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-52-b.png",
     "xws": "csre52b"
   },
   {
     "name": "cs-re-52-f",
-    "points": 1175,
+    "points": 1178,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-52-f.png",
     "xws": "csre52f"
   },
   {
     "name": "cs-re-53-b",
-    "points": 1176,
+    "points": 1179,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-53-b.png",
     "xws": "csre53b"
   },
   {
     "name": "cs-re-53-f",
-    "points": 1177,
+    "points": 1180,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-53-f.png",
     "xws": "csre53f"
   },
   {
     "name": "cs-re-54-b",
-    "points": 1178,
+    "points": 1181,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-54-b.png",
     "xws": "csre54b"
   },
   {
     "name": "cs-re-54-f",
-    "points": 1179,
+    "points": 1182,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-54-f.png",
     "xws": "csre54f"
   },
   {
     "name": "cs-re-55-b",
-    "points": 1180,
+    "points": 1183,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-55-b.png",
     "xws": "csre55b"
   },
   {
     "name": "cs-re-55-f",
-    "points": 1181,
+    "points": 1184,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-55-f.png",
     "xws": "csre55f"
   },
   {
     "name": "cs-re-56-b",
-    "points": 1182,
+    "points": 1185,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-56-b.png",
     "xws": "csre56b"
   },
   {
     "name": "cs-re-56-f",
-    "points": 1183,
+    "points": 1186,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-56-f.png",
     "xws": "csre56f"
   },
   {
     "name": "cs-re-57-b",
-    "points": 1184,
+    "points": 1187,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-57-b.png",
     "xws": "csre57b"
   },
   {
     "name": "cs-re-57-f",
-    "points": 1185,
+    "points": 1188,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-57-f.png",
     "xws": "csre57f"
   },
   {
     "name": "cs-re-58-b",
-    "points": 1186,
+    "points": 1189,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-58-b.png",
     "xws": "csre58b"
   },
   {
     "name": "cs-re-58-f",
-    "points": 1187,
+    "points": 1190,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-58-f.png",
     "xws": "csre58f"
   },
   {
     "name": "cs-re-59-b",
-    "points": 1188,
+    "points": 1191,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-59-b.png",
     "xws": "csre59b"
   },
   {
     "name": "cs-re-59-f",
-    "points": 1189,
+    "points": 1192,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-59-f.png",
     "xws": "csre59f"
   },
   {
     "name": "cs-re-60-b",
-    "points": 1190,
+    "points": 1193,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-60-b.png",
     "xws": "csre60b"
   },
   {
     "name": "cs-re-60-f",
-    "points": 1191,
+    "points": 1194,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-60-f.png",
     "xws": "csre60f"
   },
   {
     "name": "cs-re-aa-01-b",
-    "points": 1192,
+    "points": 1195,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-aa-01-b.png",
     "xws": "cereaa01b"
   },
   {
     "name": "cs-re-aa-01-f",
-    "points": 1193,
+    "points": 1196,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-aa-01-f.png",
     "xws": "cereaa01f"
   },
   {
     "name": "cs-re-aa-02-b",
-    "points": 1194,
+    "points": 1197,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-aa-02-b.png",
     "xws": "cereaa02b"
   },
   {
     "name": "cs-re-aa-02-f",
-    "points": 1195,
+    "points": 1198,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-aa-02-f.png",
     "xws": "cereaa02f"
   },
   {
     "name": "cs-re-qa-01-b",
-    "points": 1196,
+    "points": 1199,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-qa-01-b.png",
     "xws": "cereqa01b"
   },
   {
     "name": "cs-re-qa-01-f",
-    "points": 1197,
+    "points": 1200,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-qa-01-f.png",
     "xws": "cereqa01f"
   },
   {
     "name": "cs-re-qa-02-b",
-    "points": 1198,
+    "points": 1201,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-qa-02-b.png",
     "xws": "cereqa02b"
   },
   {
     "name": "cs-re-qa-02-f",
-    "points": 1199,
+    "points": 1202,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-qa-02-f.png",
     "xws": "cereqa02f"
   },
   {
     "name": "cs-re-rm-01-b",
-    "points": 1200,
+    "points": 1203,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-rm-01-b.png",
     "xws": "cererm01b"
   },
   {
     "name": "cs-re-rm-01-f",
-    "points": 1201,
+    "points": 1204,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-rm-01-f.png",
     "xws": "cererm01f"
   },
   {
     "name": "cs-re-rm-02-b",
-    "points": 1202,
+    "points": 1205,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-rm-02-b.png",
     "xws": "cererm02b"
   },
   {
     "name": "cs-re-rm-02-f",
-    "points": 1203,
+    "points": 1206,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-rm-02-f.png",
     "xws": "cererm02f"
   },
   {
     "name": "toa-ce-61-b",
-    "points": 1204,
+    "points": 1207,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-61-b.png",
     "xws": "toace61b"
   },
   {
     "name": "toa-ce-61-f",
-    "points": 1205,
+    "points": 1208,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-61-f.png",
     "xws": "toace61f"
   },
   {
     "name": "toa-ce-62-b",
-    "points": 1206,
+    "points": 1209,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-62-b.png",
     "xws": "toace62b"
   },
   {
     "name": "toa-ce-62-f",
-    "points": 1207,
+    "points": 1210,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-62-f.png",
     "xws": "toace62f"
   },
   {
     "name": "toa-ce-63-b",
-    "points": 1208,
+    "points": 1211,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-63-b.png",
     "xws": "toace63b"
   },
   {
     "name": "toa-ce-63-f",
-    "points": 1209,
+    "points": 1212,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-63-f.png",
     "xws": "toace63f"
   },
   {
     "name": "toa-ce-64-b",
-    "points": 1210,
+    "points": 1213,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-64-b.png",
     "xws": "toace64b"
   },
   {
     "name": "toa-ce-64-f",
-    "points": 1211,
+    "points": 1214,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-64-f.png",
     "xws": "toace64f"
   },
   {
     "name": "toa-ce-65-b",
-    "points": 1212,
+    "points": 1215,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-65-b.png",
     "xws": "toace65b"
   },
   {
     "name": "toa-ce-65-f",
-    "points": 1213,
+    "points": 1216,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-65-f.png",
     "xws": "toace65f"
   },
   {
     "name": "toa-ce-66-b",
-    "points": 1214,
+    "points": 1217,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-66-b.png",
     "xws": "toace66b"
   },
   {
     "name": "toa-ce-66-f",
-    "points": 1215,
+    "points": 1218,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-66-f.png",
     "xws": "toace66f"
   },
   {
     "name": "toa-ce-67-b",
-    "points": 1216,
+    "points": 1219,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-67-b.png",
     "xws": "toace67b"
   },
   {
     "name": "toa-ce-67-f",
-    "points": 1217,
+    "points": 1220,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-67-f.png",
     "xws": "toace67f"
   },
   {
     "name": "toa-ce-68-b",
-    "points": 1218,
+    "points": 1221,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-68-b.png",
     "xws": "toace68b"
   },
   {
     "name": "toa-ce-68-f",
-    "points": 1219,
+    "points": 1222,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-68-f.png",
     "xws": "toace68f"
   },
   {
     "name": "toa-ce-69-b",
-    "points": 1220,
+    "points": 1223,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-69-b.png",
     "xws": "toace69b"
   },
   {
     "name": "toa-ce-69-f",
-    "points": 1221,
+    "points": 1224,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-69-f.png",
     "xws": "toace69f"
   },
   {
     "name": "toa-ce-70-b",
-    "points": 1222,
+    "points": 1225,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-70-b.png",
     "xws": "toace70b"
   },
   {
     "name": "toa-ce-70-f",
-    "points": 1223,
+    "points": 1226,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-70-f.png",
     "xws": "toace70f"
   },
   {
     "name": "toa-ce-71-b",
-    "points": 1224,
+    "points": 1227,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-71-b.png",
     "xws": "toace71b"
   },
   {
     "name": "toa-ce-71-f",
-    "points": 1225,
+    "points": 1228,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-71-f.png",
     "xws": "toace71f"
   },
   {
     "name": "toa-ce-72-b",
-    "points": 1226,
+    "points": 1229,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-72-b.png",
     "xws": "toace72b"
   },
   {
     "name": "toa-ce-72-f",
-    "points": 1227,
+    "points": 1230,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-72-f.png",
     "xws": "toace72f"
   },
   {
     "name": "toa-ce-73-b",
-    "points": 1228,
+    "points": 1231,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
+    "xws": "toace73b"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 1232,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
+    "xws": "toace73b"
+  },
+  {
+    "name": "water spirit",
+    "points": 1233,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
     "xws": "toace73b"
   },
   {
     "name": "toa-ce-73-f",
-    "points": 1229,
+    "points": 1234,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-73-f.png",
     "xws": "toace73f"
   },
   {
     "name": "toa-ce-74-b",
-    "points": 1230,
+    "points": 1235,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-74-b.png",
     "xws": "toace74b"
   },
   {
     "name": "toa-ce-74-f",
-    "points": 1231,
+    "points": 1236,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-74-f.png",
     "xws": "toace74f"
   },
   {
     "name": "toa-ce-75-b",
-    "points": 1232,
+    "points": 1237,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-75-b.png",
     "xws": "toace75b"
   },
   {
     "name": "toa-ce-75-f",
-    "points": 1233,
+    "points": 1238,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/city/toa-ce-75-f.png",
     "xws": "toace75f"
   },
   {
     "name": "toa-re-61-b",
-    "points": 1234,
+    "points": 1239,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-61-b.png",
     "xws": "toare61b"
   },
   {
     "name": "toa-re-61-f",
-    "points": 1235,
+    "points": 1240,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-61-f.png",
     "xws": "toare61f"
   },
   {
     "name": "toa-re-62-b",
-    "points": 1236,
+    "points": 1241,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-62-b.png",
     "xws": "toare62b"
   },
   {
     "name": "toa-re-62-f",
-    "points": 1237,
+    "points": 1242,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-62-f.png",
     "xws": "toare62f"
   },
   {
     "name": "toa-re-63-b",
-    "points": 1238,
+    "points": 1243,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-63-b.png",
     "xws": "toare63b"
   },
   {
     "name": "toa-re-63-f",
-    "points": 1239,
+    "points": 1244,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-63-f.png",
     "xws": "toare63f"
   },
   {
     "name": "toa-re-64-b",
-    "points": 1240,
+    "points": 1245,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-64-b.png",
     "xws": "toare64b"
   },
   {
     "name": "toa-re-64-f",
-    "points": 1241,
+    "points": 1246,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-64-f.png",
     "xws": "toare64f"
   },
   {
     "name": "toa-re-65-b",
-    "points": 1242,
+    "points": 1247,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-65-b.png",
     "xws": "toare65b"
   },
   {
     "name": "toa-re-65-f",
-    "points": 1243,
+    "points": 1248,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-65-f.png",
     "xws": "toare65f"
   },
   {
     "name": "toa-re-66-b",
-    "points": 1244,
+    "points": 1249,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-66-b.png",
     "xws": "toare66b"
   },
   {
     "name": "toa-re-66-f",
-    "points": 1245,
+    "points": 1250,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-66-f.png",
     "xws": "toare66f"
   },
   {
     "name": "toa-re-67-b",
-    "points": 1246,
+    "points": 1251,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-67-b.png",
     "xws": "toare67b"
   },
   {
     "name": "toa-re-67-f",
-    "points": 1247,
+    "points": 1252,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-67-f.png",
     "xws": "toare67f"
   },
   {
     "name": "toa-re-68-b",
-    "points": 1248,
+    "points": 1253,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-68-b.png",
     "xws": "toare68b"
   },
   {
     "name": "toa-re-68-f",
-    "points": 1249,
+    "points": 1254,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-68-f.png",
     "xws": "toare68f"
   },
   {
     "name": "toa-re-69-b",
-    "points": 1250,
+    "points": 1255,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-69-b.png",
     "xws": "toare69b"
   },
   {
     "name": "toa-re-69-f",
-    "points": 1251,
+    "points": 1256,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-69-f.png",
     "xws": "toare69f"
   },
   {
     "name": "toa-re-70-b",
-    "points": 1252,
+    "points": 1257,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-70-b.png",
     "xws": "toare70b"
   },
   {
     "name": "toa-re-70-f",
-    "points": 1253,
+    "points": 1258,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-70-f.png",
     "xws": "toare70f"
   },
   {
     "name": "toa-re-71-b",
-    "points": 1254,
+    "points": 1259,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-71-b.png",
     "xws": "toare71b"
   },
   {
     "name": "toa-re-71-f",
-    "points": 1255,
+    "points": 1260,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-71-f.png",
     "xws": "toare71f"
   },
   {
     "name": "toa-re-72-b",
-    "points": 1256,
+    "points": 1261,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-72-b.png",
     "xws": "toare72b"
   },
   {
     "name": "toa-re-72-f",
-    "points": 1257,
+    "points": 1262,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-72-f.png",
     "xws": "toare72f"
   },
   {
     "name": "toa-re-73-b",
-    "points": 1258,
+    "points": 1263,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-73-b.png",
     "xws": "toare73b"
   },
   {
     "name": "toa-re-73-f",
-    "points": 1259,
+    "points": 1264,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-73-f.png",
     "xws": "toare73f"
   },
   {
     "name": "toa-re-74-b",
-    "points": 1260,
+    "points": 1265,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-74-b.png",
     "xws": "toare74b"
   },
   {
     "name": "toa-re-74-f",
-    "points": 1261,
+    "points": 1266,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-74-f.png",
     "xws": "toare74f"
   },
   {
     "name": "toa-re-75-b",
-    "points": 1262,
+    "points": 1267,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-75-b.png",
     "xws": "toare75b"
   },
   {
     "name": "toa-re-75-f",
-    "points": 1263,
+    "points": 1268,
     "expansion": "Trail of Ashes",
     "image": "events/trail-of-ashes/road/toa-re-75-f.png",
     "xws": "toare75f"
