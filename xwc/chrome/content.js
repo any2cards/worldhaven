@@ -29,17 +29,18 @@ var files = [
 ];
 
 var expansion_conversion = {
-	"gh": "Gloomhaven",
-	"fc": "Forgotten Circles",
-	"fh": "Frosthaven",
-	"jl": "Jaws Of The Lion",
-	"cs": "Crimson Scales",
-	"ta": "Trail of Ashes",
+	"gh": "gloomhaven",
+	"fc": "forgotten circles",
+	"fh": "frosthaven",
+	"jl": "jaws of the lion",
+	"cs": "crimson scales",
+	"ta": "trail of ashes",
 };
 
 var expansion_card_type = {}
 
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/worldhaven/master';
+//const repoBaseUrl = '';
 const imgUrl = `${repoBaseUrl}/images/`;
 const dataUrl = `${repoBaseUrl}/data/`;
 

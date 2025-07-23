@@ -2,7 +2,7 @@
   {
     "name": "books-dummy",
     "points": 0,
-    "expansion": "Frosthaven",
+    "expansion": "frosthaven",
     "image": "books/frosthaven/books-dummy.png",
     "xws": "booksdummy"
   }
