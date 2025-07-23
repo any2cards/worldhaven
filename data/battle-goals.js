@@ -602,234 +602,523 @@
     "xws": "zealot"
   },
   {
-    "name": "battle-goals-back",
+    "name": "acrobat",
     "points": 86,
     "expansion": "jaws of the lion",
-    "image": "battle-goals/jaws-of-the-lion/jl-battle-goals-back.png",
-    "xws": "battlegoalsback"
+    "image": "battle-goals/jaws-of-the-lion/jl-acrobat.png",
+    "xws": "acrobat",
+    "assetno": "286"
   },
   {
-    "name": "acrobat",
+    "name": "286",
     "points": 87,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-acrobat.png",
-    "xws": "acrobat"
+    "xws": "acrobat",
+    "assetno": "286"
   },
   {
     "name": "agoraphobe",
     "points": 88,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-agoraphobe.png",
-    "xws": "agoraphobe"
+    "xws": "agoraphobe",
+    "assetno": "287"
+  },
+  {
+    "name": "287",
+    "points": 89,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-agoraphobe.png",
+    "xws": "agoraphobe",
+    "assetno": "287"
   },
   {
     "name": "altruist",
-    "points": 89,
+    "points": 90,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-altruist.png",
-    "xws": "altruist"
+    "xws": "altruist",
+    "assetno": "288"
+  },
+  {
+    "name": "288",
+    "points": 91,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-altruist.png",
+    "xws": "altruist",
+    "assetno": "288"
   },
   {
     "name": "assistant",
-    "points": 90,
+    "points": 92,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-assistant.png",
-    "xws": "assistant"
+    "xws": "assistant",
+    "assetno": "289"
+  },
+  {
+    "name": "289",
+    "points": 93,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-assistant.png",
+    "xws": "assistant",
+    "assetno": "289"
+  },
+  {
+    "name": "battle goals back",
+    "points": 94,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-battle-goals-back.png",
+    "xws": "battlegoalsback",
+    "assetno": "###"
   },
   {
     "name": "challenger",
-    "points": 91,
+    "points": 95,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-challenger.png",
-    "xws": "challenger"
+    "xws": "challenger",
+    "assetno": "290"
+  },
+  {
+    "name": "290",
+    "points": 96,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-challenger.png",
+    "xws": "challenger",
+    "assetno": "290"
   },
   {
     "name": "closer",
-    "points": 92,
+    "points": 97,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-closer.png",
-    "xws": "closer"
+    "xws": "closer",
+    "assetno": "291"
+  },
+  {
+    "name": "291",
+    "points": 98,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-closer.png",
+    "xws": "closer",
+    "assetno": "291"
   },
   {
     "name": "conservator",
-    "points": 93,
+    "points": 99,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-conservator.png",
-    "xws": "conservator"
+    "xws": "conservator",
+    "assetno": "292"
+  },
+  {
+    "name": "292",
+    "points": 100,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-conservator.png",
+    "xws": "conservator",
+    "assetno": "292"
   },
   {
     "name": "diehard",
-    "points": 94,
+    "points": 101,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-diehard.png",
-    "xws": "diehard"
+    "xws": "diehard",
+    "assetno": "293"
+  },
+  {
+    "name": "293",
+    "points": 102,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-diehard.png",
+    "xws": "diehard",
+    "assetno": "293"
   },
   {
     "name": "egoist",
-    "points": 95,
+    "points": 103,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-egoist.png",
-    "xws": "egoist"
+    "xws": "egoist",
+    "assetno": "294"
+  },
+  {
+    "name": "294",
+    "points": 104,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-egoist.png",
+    "xws": "egoist",
+    "assetno": "294"
   },
   {
     "name": "fast healer",
-    "points": 96,
+    "points": 105,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-fast-healer.png",
-    "xws": "fasthealer"
+    "xws": "fasthealer",
+    "assetno": "295"
+  },
+  {
+    "name": "295",
+    "points": 106,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-fast-healer.png",
+    "xws": "fasthealer",
+    "assetno": "295"
   },
   {
     "name": "gambler",
-    "points": 97,
+    "points": 107,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-gambler.png",
-    "xws": "gambler"
+    "xws": "gambler",
+    "assetno": "296"
+  },
+  {
+    "name": "296",
+    "points": 108,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-gambler.png",
+    "xws": "gambler",
+    "assetno": "296"
   },
   {
     "name": "hothead",
-    "points": 98,
+    "points": 109,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-hothead.png",
-    "xws": "hothead"
+    "xws": "hothead",
+    "assetno": "297"
+  },
+  {
+    "name": "297",
+    "points": 110,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-hothead.png",
+    "xws": "hothead",
+    "assetno": "297"
   },
   {
     "name": "insomniac",
-    "points": 99,
+    "points": 111,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-insomniac.png",
-    "xws": "insomniac"
+    "xws": "insomniac",
+    "assetno": "298"
+  },
+  {
+    "name": "298",
+    "points": 112,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-insomniac.png",
+    "xws": "insomniac",
+    "assetno": "298"
   },
   {
     "name": "masochist",
-    "points": 100,
+    "points": 113,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-masochist.png",
-    "xws": "masochist"
+    "xws": "masochist",
+    "assetno": "299"
+  },
+  {
+    "name": "299",
+    "points": 114,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-masochist.png",
+    "xws": "masochist",
+    "assetno": "299"
   },
   {
     "name": "mugger",
-    "points": 101,
+    "points": 115,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-mugger.png",
-    "xws": "mugger"
+    "xws": "mugger",
+    "assetno": "300"
+  },
+  {
+    "name": "300",
+    "points": 116,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-mugger.png",
+    "xws": "mugger",
+    "assetno": "300"
   },
   {
     "name": "opener",
-    "points": 102,
+    "points": 117,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-opener.png",
-    "xws": "opener"
+    "xws": "opener",
+    "assetno": "301"
+  },
+  {
+    "name": "301",
+    "points": 118,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-opener.png",
+    "xws": "opener",
+    "assetno": "301"
   },
   {
     "name": "pacifist",
-    "points": 103,
+    "points": 119,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pacifist.png",
-    "xws": "pacifist"
+    "xws": "pacifist",
+    "assetno": "302"
+  },
+  {
+    "name": "302",
+    "points": 120,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-pacifist.png",
+    "xws": "pacifist",
+    "assetno": "302"
   },
   {
     "name": "pickpocket",
-    "points": 104,
+    "points": 121,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pickpocket.png",
-    "xws": "pickpocket"
+    "xws": "pickpocket",
+    "assetno": "303"
+  },
+  {
+    "name": "303",
+    "points": 122,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-pickpocket.png",
+    "xws": "pickpocket",
+    "assetno": "303"
   },
   {
     "name": "pincushion",
-    "points": 105,
+    "points": 123,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pincushion.png",
-    "xws": "pincushion"
+    "xws": "pincushion",
+    "assetno": "304"
+  },
+  {
+    "name": "304",
+    "points": 124,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-pincushion.png",
+    "xws": "pincushion",
+    "assetno": "304"
   },
   {
     "name": "plebeian",
-    "points": 106,
+    "points": 125,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-plebeian.png",
-    "xws": "plebeian"
+    "xws": "plebeian",
+    "assetno": "305"
+  },
+  {
+    "name": "305",
+    "points": 126,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-plebeian.png",
+    "xws": "plebeian",
+    "assetno": "305"
   },
   {
     "name": "prohibitionist",
-    "points": 107,
+    "points": 127,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-prohibitionist.png",
-    "xws": "prohibitionist"
+    "xws": "prohibitionist",
+    "assetno": "306"
+  },
+  {
+    "name": "306",
+    "points": 128,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-prohibitionist.png",
+    "xws": "prohibitionist",
+    "assetno": "306"
   },
   {
     "name": "ravager",
-    "points": 108,
+    "points": 129,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-ravager.png",
-    "xws": "ravager"
+    "xws": "ravager",
+    "assetno": "307"
+  },
+  {
+    "name": "307",
+    "points": 130,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-ravager.png",
+    "xws": "ravager",
+    "assetno": "307"
   },
   {
     "name": "recluse",
-    "points": 109,
+    "points": 131,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-recluse.png",
-    "xws": "recluse"
+    "xws": "recluse",
+    "assetno": "308"
+  },
+  {
+    "name": "308",
+    "points": 132,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-recluse.png",
+    "xws": "recluse",
+    "assetno": "308"
   },
   {
     "name": "sadist",
-    "points": 110,
+    "points": 133,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-sadist.png",
-    "xws": "sadist"
+    "xws": "sadist",
+    "assetno": "309"
+  },
+  {
+    "name": "309",
+    "points": 134,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-sadist.png",
+    "xws": "sadist",
+    "assetno": "309"
   },
   {
     "name": "scrambler",
-    "points": 111,
+    "points": 135,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-scrambler.png",
-    "xws": "scrambler"
+    "xws": "scrambler",
+    "assetno": "310"
+  },
+  {
+    "name": "310",
+    "points": 136,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-scrambler.png",
+    "xws": "scrambler",
+    "assetno": "310"
   },
   {
     "name": "shadow",
-    "points": 112,
+    "points": 137,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-shadow.png",
-    "xws": "shadow"
+    "xws": "shadow",
+    "assetno": "311"
+  },
+  {
+    "name": "311",
+    "points": 138,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-shadow.png",
+    "xws": "shadow",
+    "assetno": "311"
   },
   {
     "name": "shirker",
-    "points": 113,
+    "points": 139,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-shirker.png",
-    "xws": "shirker"
+    "xws": "shirker",
+    "assetno": "312"
+  },
+  {
+    "name": "312",
+    "points": 140,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-shirker.png",
+    "xws": "shirker",
+    "assetno": "312"
   },
   {
     "name": "specialist",
-    "points": 114,
+    "points": 141,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-specialist.png",
-    "xws": "specialist"
+    "xws": "specialist",
+    "assetno": "313"
+  },
+  {
+    "name": "313",
+    "points": 142,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-specialist.png",
+    "xws": "specialist",
+    "assetno": "313"
   },
   {
     "name": "straggler",
-    "points": 115,
+    "points": 143,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-straggler.png",
-    "xws": "straggler"
+    "xws": "straggler",
+    "assetno": "314"
+  },
+  {
+    "name": "314",
+    "points": 144,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-straggler.png",
+    "xws": "straggler",
+    "assetno": "314"
   },
   {
     "name": "trailblazer",
-    "points": 116,
+    "points": 145,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-trailblazer.png",
-    "xws": "trailblazer"
+    "xws": "trailblazer",
+    "assetno": "315"
+  },
+  {
+    "name": "315",
+    "points": 146,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-trailblazer.png",
+    "xws": "trailblazer",
+    "assetno": "315"
   },
   {
     "name": "transmitter",
-    "points": 117,
+    "points": 147,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-transmitter.png",
-    "xws": "transmitter"
+    "xws": "transmitter",
+    "assetno": "316"
+  },
+  {
+    "name": "316",
+    "points": 148,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-transmitter.png",
+    "xws": "transmitter",
+    "assetno": "316"
   },
   {
     "name": "weakling",
-    "points": 118,
+    "points": 149,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-weakling.png",
-    "xws": "weakling"
+    "xws": "weakling",
+    "assetno": "317"
+  },
+  {
+    "name": "317",
+    "points": 150,
+    "expansion": "jaws of the lion",
+    "image": "battle-goals/jaws-of-the-lion/jl-weakling.png",
+    "xws": "weakling",
+    "assetno": "317"
   }
 ]
