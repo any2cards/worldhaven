@@ -6262,308 +6262,352 @@
     "points": 894,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-01-b.png",
-    "xws": "jlce01b"
+    "xws": "jlce01b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-01-f",
     "points": 895,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-01-f.png",
-    "xws": "jlce01f"
+    "xws": "jlce01f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-02-b",
     "points": 896,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-02-b.png",
-    "xws": "jlce02b"
+    "xws": "jlce02b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-02-f",
     "points": 897,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-02-f.png",
-    "xws": "jlce02f"
+    "xws": "jlce02f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-03-b",
     "points": 898,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-03-b.png",
-    "xws": "jlce03b"
+    "xws": "jlce03b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-03-f",
     "points": 899,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-03-f.png",
-    "xws": "jlce03f"
+    "xws": "jlce03f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-04-b",
     "points": 900,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-04-b.png",
-    "xws": "jlce04b"
+    "xws": "jlce04b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-04-f",
     "points": 901,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-04-f.png",
-    "xws": "jlce04f"
+    "xws": "jlce04f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-05-b",
     "points": 902,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-05-b.png",
-    "xws": "jlce05b"
+    "xws": "jlce05b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-05-f",
     "points": 903,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-05-f.png",
-    "xws": "jlce05f"
+    "xws": "jlce05f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-06-b",
     "points": 904,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-06-b.png",
-    "xws": "jlce06b"
+    "xws": "jlce06b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-06-f",
     "points": 905,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-06-f.png",
-    "xws": "jlce06f"
+    "xws": "jlce06f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-07-b",
     "points": 906,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-07-b.png",
-    "xws": "jlce07b"
+    "xws": "jlce07b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-07-f",
     "points": 907,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-07-f.png",
-    "xws": "jlce07f"
+    "xws": "jlce07f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-08-b",
     "points": 908,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-08-b.png",
-    "xws": "jlce08b"
+    "xws": "jlce08b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-08-f",
     "points": 909,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-08-f.png",
-    "xws": "jlce08f"
+    "xws": "jlce08f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-09-b",
     "points": 910,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-09-b.png",
-    "xws": "jlce09b"
+    "xws": "jlce09b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-09-f",
     "points": 911,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-09-f.png",
-    "xws": "jlce09f"
+    "xws": "jlce09f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-10-b",
     "points": 912,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-10-b.png",
-    "xws": "jlce10b"
+    "xws": "jlce10b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-10-f",
     "points": 913,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-10-f.png",
-    "xws": "jlce10f"
+    "xws": "jlce10f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-11-b",
     "points": 914,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-11-b.png",
-    "xws": "jlce11b"
+    "xws": "jlce11b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-11-f",
     "points": 915,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-11-f.png",
-    "xws": "jlce11f"
+    "xws": "jlce11f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-12-b",
     "points": 916,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-12-b.png",
-    "xws": "jlce12b"
+    "xws": "jlce12b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-12-f",
     "points": 917,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-12-f.png",
-    "xws": "jlce12f"
+    "xws": "jlce12f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-13-b",
     "points": 918,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-13-b.png",
-    "xws": "jlce13b"
+    "xws": "jlce13b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-13-f",
     "points": 919,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-13-f.png",
-    "xws": "jlce13f"
+    "xws": "jlce13f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-14-b",
     "points": 920,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-14-b.png",
-    "xws": "jlce14b"
+    "xws": "jlce14b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-14-f",
     "points": 921,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-14-f.png",
-    "xws": "jlce14f"
+    "xws": "jlce14f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-15-b",
     "points": 922,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-15-b.png",
-    "xws": "jlce15b"
+    "xws": "jlce15b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-15-f",
     "points": 923,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-15-f.png",
-    "xws": "jlce15f"
+    "xws": "jlce15f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-16-b",
     "points": 924,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-16-b.png",
-    "xws": "jlce16b"
+    "xws": "jlce16b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-16-f",
     "points": 925,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-16-f.png",
-    "xws": "jlce16f"
+    "xws": "jlce16f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-17-b",
     "points": 926,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-17-b.png",
-    "xws": "jlce17b"
+    "xws": "jlce17b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-17-f",
     "points": 927,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-17-f.png",
-    "xws": "jlce17f"
+    "xws": "jlce17f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-18-b",
     "points": 928,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-18-b.png",
-    "xws": "jlce18b"
+    "xws": "jlce18b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-18-f",
     "points": 929,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-18-f.png",
-    "xws": "jlce18f"
+    "xws": "jlce18f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-19-b",
     "points": 930,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-19-b.png",
-    "xws": "jlce19b"
+    "xws": "jlce19b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-19-f",
     "points": 931,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-19-f.png",
-    "xws": "jlce19f"
+    "xws": "jlce19f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-20-b",
     "points": 932,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-20-b.png",
-    "xws": "jlce20b"
+    "xws": "jlce20b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-20-f",
     "points": 933,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-20-f.png",
-    "xws": "jlce20f"
+    "xws": "jlce20f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-21-b",
     "points": 934,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-21-b.png",
-    "xws": "jlce21b"
+    "xws": "jlce21b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-21-f",
     "points": 935,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-21-f.png",
-    "xws": "jlce21f"
+    "xws": "jlce21f",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-22-b",
     "points": 936,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-22-b.png",
-    "xws": "jlce22b"
+    "xws": "jlce22b",
+    "assetno": "###"
   },
   {
     "name": "jl-ce-22-f",
     "points": 937,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-22-f.png",
-    "xws": "jlce22f"
+    "xws": "jlce22f",
+    "assetno": "###"
   },
   {
     "name": "cs-ce-01-b",
