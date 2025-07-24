@@ -655,28 +655,32 @@
     "points": 93,
     "expansion": "jaws of the lion",
     "image": "character-perks/jaws-of-the-lion/jl-demolitionist-perks.png",
-    "xws": "demolitionistperks"
+    "xws": "demolitionistperks",
+    "assetno": "###"
   },
   {
     "name": "hatchet perks",
     "points": 94,
     "expansion": "jaws of the lion",
     "image": "character-perks/jaws-of-the-lion/jl-hatchet-perks.png",
-    "xws": "hatchetperks"
+    "xws": "hatchetperks",
+    "assetno": "###"
   },
   {
     "name": "red guard perks",
     "points": 95,
     "expansion": "jaws of the lion",
     "image": "character-perks/jaws-of-the-lion/jl-red-guard-perks.png",
-    "xws": "redguardperks"
+    "xws": "redguardperks",
+    "assetno": "###"
   },
   {
     "name": "voidwarden perks",
     "points": 96,
     "expansion": "jaws of the lion",
     "image": "character-perks/jaws-of-the-lion/jl-voidwarden-perks.png",
-    "xws": "voidwardenperks"
+    "xws": "voidwardenperks",
+    "assetno": "###"
   },
   {
     "name": "party sheet",
