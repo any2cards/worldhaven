@@ -874,7 +874,7 @@
     "image": "character-mats/jaws-of-the-lion/jl-voidwarden-back.png",
     "xws": "voidwarden",
     "assetno": "###"
-  }
+  },
   {
     "name": "amber aegis",
     "points": 124,
