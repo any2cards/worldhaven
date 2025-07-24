@@ -16215,8041 +16215,9067 @@
     "name": "item 1",
     "points": 2316,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
   },
   {
     "name": "item 01",
     "points": 2317,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
+  },
+  {
+    "name": "item 001",
+    "points": 2318,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
   },
   {
     "name": "item #1",
-    "points": 2318,
+    "points": 2319,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
   },
   {
     "name": "item #01",
-    "points": 2319,
-    "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
-  },
-  {
-    "name": "eagle-eye goggles",
     "points": 2320,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
+  },
+  {
+    "name": "item #001",
+    "points": 2321,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
   },
   {
     "name": "eagle-eye goggles",
-    "points": 2321,
+    "points": 2322,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-01-eagle-eye-goggles-back.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
+  },
+  {
+    "name": "476",
+    "points": 2323,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "476"
+  },
+  {
+    "name": "eagle-eye goggles",
+    "points": 2324,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles-back.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "###"
   },
   {
     "name": "item 2",
-    "points": 2322,
+    "points": 2325,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
   },
   {
     "name": "item 02",
-    "points": 2323,
+    "points": 2326,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
+  },
+  {
+    "name": "item 002",
+    "points": 2327,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
   },
   {
     "name": "item #2",
-    "points": 2324,
+    "points": 2328,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
   },
   {
     "name": "item #02",
-    "points": 2325,
+    "points": 2329,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
+  },
+  {
+    "name": "item #002",
+    "points": 2330,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
   },
   {
     "name": "iron helmet",
-    "points": 2326,
+    "points": 2331,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
+  },
+  {
+    "name": "478",
+    "points": 2332,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "478"
   },
   {
     "name": "iron helmet",
-    "points": 2327,
+    "points": 2333,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-02-iron-helmet-back.png",
-    "xws": "ironhelmet"
+    "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet-back.png",
+    "xws": "ironhelmet",
+    "assetno": "###"
   },
   {
     "name": "item 3",
-    "points": 2328,
+    "points": 2334,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
-    "xws": "chainarmor"
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
   },
   {
     "name": "item 03",
-    "points": 2329,
+    "points": 2335,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
-    "xws": "chainarmor"
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
+  },
+  {
+    "name": "item 003",
+    "points": 2336,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
   },
   {
     "name": "item #3",
-    "points": 2330,
+    "points": 2337,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
-    "xws": "chainarmor"
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
   },
   {
     "name": "item #03",
-    "points": 2331,
+    "points": 2338,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
-    "xws": "chainarmor"
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
+  },
+  {
+    "name": "item #003",
+    "points": 2339,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
   },
   {
     "name": "chain armor",
-    "points": 2332,
+    "points": 2340,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor.png",
-    "xws": "chainarmor"
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
+  },
+  {
+    "name": "480",
+    "points": 2341,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
+    "xws": "chainarmor",
+    "assetno": "480"
   },
   {
     "name": "chain armor",
-    "points": 2333,
+    "points": 2342,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-03-chain-armor-back.png",
-    "xws": "chainarmor"
+    "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor-back.png",
+    "xws": "chainarmor",
+    "assetno": "###"
   },
   {
     "name": "item 4",
-    "points": 2334,
+    "points": 2343,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
   },
   {
     "name": "item 04",
-    "points": 2335,
+    "points": 2344,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
+  },
+  {
+    "name": "item 004",
+    "points": 2345,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
   },
   {
     "name": "item #4",
-    "points": 2336,
+    "points": 2346,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
   },
   {
     "name": "item #04",
-    "points": 2337,
+    "points": 2347,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
+  },
+  {
+    "name": "item #004",
+    "points": 2348,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
   },
   {
     "name": "studded leather",
-    "points": 2338,
+    "points": 2349,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
+  },
+  {
+    "name": "482",
+    "points": 2350,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "482"
   },
   {
     "name": "studded leather",
-    "points": 2339,
+    "points": 2351,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-04-studded-leather-back.png",
-    "xws": "studdedleather"
+    "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather-back.png",
+    "xws": "studdedleather",
+    "assetno": "###"
   },
   {
     "name": "item 5",
-    "points": 2340,
+    "points": 2352,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
-    "xws": "weatheredboots"
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
   },
   {
     "name": "item 05",
-    "points": 2341,
+    "points": 2353,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
-    "xws": "weatheredboots"
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
+  },
+  {
+    "name": "item 005",
+    "points": 2354,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
   },
   {
     "name": "item #5",
-    "points": 2342,
+    "points": 2355,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
-    "xws": "weatheredboots"
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
   },
   {
     "name": "item #05",
-    "points": 2343,
+    "points": 2356,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
-    "xws": "weatheredboots"
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
+  },
+  {
+    "name": "item #005",
+    "points": 2357,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
   },
   {
     "name": "weathered boots",
-    "points": 2344,
+    "points": 2358,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots.png",
-    "xws": "weatheredboots"
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
+  },
+  {
+    "name": "484",
+    "points": 2359,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
+    "xws": "weatheredboots",
+    "assetno": "484"
   },
   {
     "name": "weathered boots",
-    "points": 2345,
+    "points": 2360,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-05-weathered-boots-back.png",
-    "xws": "weatheredboots"
+    "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots-back.png",
+    "xws": "weatheredboots",
+    "assetno": "###"
   },
   {
     "name": "item 6",
-    "points": 2346,
+    "points": 2361,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
-    "xws": "wingedshoes"
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
   },
   {
     "name": "item 06",
-    "points": 2347,
+    "points": 2362,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
-    "xws": "wingedshoes"
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
+  },
+  {
+    "name": "item 006",
+    "points": 2363,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
   },
   {
     "name": "item #6",
-    "points": 2348,
+    "points": 2364,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
-    "xws": "wingedshoes"
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
   },
   {
     "name": "item #06",
-    "points": 2349,
+    "points": 2365,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
-    "xws": "wingedshoes"
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
+  },
+  {
+    "name": "item #006",
+    "points": 2366,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
   },
   {
     "name": "winged shoes",
-    "points": 2350,
+    "points": 2367,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes.png",
-    "xws": "wingedshoes"
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
+  },
+  {
+    "name": "486",
+    "points": 2368,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "486"
   },
   {
     "name": "winged shoes",
-    "points": 2351,
+    "points": 2369,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-06-winged-shoes-back.png",
-    "xws": "wingedshoes"
+    "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes-back.png",
+    "xws": "wingedshoes",
+    "assetno": "###"
   },
   {
     "name": "item 7",
-    "points": 2352,
+    "points": 2370,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
-    "xws": "heatershield"
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
   },
   {
     "name": "item 07",
-    "points": 2353,
+    "points": 2371,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
-    "xws": "heatershield"
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
+  },
+  {
+    "name": "item 007",
+    "points": 2372,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
   },
   {
     "name": "item #7",
-    "points": 2354,
+    "points": 2373,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
-    "xws": "heatershield"
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
   },
   {
     "name": "item #07",
-    "points": 2355,
+    "points": 2374,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
-    "xws": "heatershield"
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
+  },
+  {
+    "name": "item #007",
+    "points": 2375,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
   },
   {
     "name": "heater shield",
-    "points": 2356,
+    "points": 2376,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield.png",
-    "xws": "heatershield"
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
+  },
+  {
+    "name": "488",
+    "points": 2377,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "488"
   },
   {
     "name": "heater shield",
-    "points": 2357,
+    "points": 2378,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-07-heater-shield-back.png",
-    "xws": "heatershield"
+    "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield-back.png",
+    "xws": "heatershield",
+    "assetno": "###"
   },
   {
     "name": "item 8",
-    "points": 2358,
+    "points": 2379,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
-    "xws": "throwinghammer"
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
   },
   {
     "name": "item 08",
-    "points": 2359,
+    "points": 2380,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
-    "xws": "throwinghammer"
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
+  },
+  {
+    "name": "item 008",
+    "points": 2381,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
   },
   {
     "name": "item #8",
-    "points": 2360,
+    "points": 2382,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
-    "xws": "throwinghammer"
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
   },
   {
     "name": "item #08",
-    "points": 2361,
+    "points": 2383,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
-    "xws": "throwinghammer"
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
+  },
+  {
+    "name": "item #008",
+    "points": 2384,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
   },
   {
     "name": "throwing hammer",
-    "points": 2362,
+    "points": 2385,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer.png",
-    "xws": "throwinghammer"
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
+  },
+  {
+    "name": "490",
+    "points": 2386,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
+    "xws": "throwinghammer",
+    "assetno": "490"
   },
   {
     "name": "throwing hammer",
-    "points": 2363,
+    "points": 2387,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-08-throwing-hammer-back.png",
-    "xws": "throwinghammer"
+    "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer-back.png",
+    "xws": "throwinghammer",
+    "assetno": "###"
   },
   {
     "name": "item 9",
-    "points": 2364,
+    "points": 2388,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
-    "xws": "poisondagger"
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
   },
   {
     "name": "item 09",
-    "points": 2365,
+    "points": 2389,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
-    "xws": "poisondagger"
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
+  },
+  {
+    "name": "item 009",
+    "points": 2390,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
   },
   {
     "name": "item #9",
-    "points": 2366,
+    "points": 2391,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
-    "xws": "poisondagger"
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
   },
   {
     "name": "item #09",
-    "points": 2367,
+    "points": 2392,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
-    "xws": "poisondagger"
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
+  },
+  {
+    "name": "item #009",
+    "points": 2393,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
   },
   {
     "name": "poison dagger",
-    "points": 2368,
+    "points": 2394,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger.png",
-    "xws": "poisondagger"
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
+  },
+  {
+    "name": "492",
+    "points": 2395,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "492"
   },
   {
     "name": "poison dagger",
-    "points": 2369,
+    "points": 2396,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-09-poison-dagger-back.png",
-    "xws": "poisondagger"
+    "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger-back.png",
+    "xws": "poisondagger",
+    "assetno": "###"
   },
   {
     "name": "item 10",
-    "points": 2370,
+    "points": 2397,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear.png",
-    "xws": "ironspear"
+    "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
+    "xws": "ironspear",
+    "assetno": "494"
+  },
+  {
+    "name": "item 010",
+    "points": 2398,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
+    "xws": "ironspear",
+    "assetno": "494"
   },
   {
     "name": "item #10",
-    "points": 2371,
+    "points": 2399,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear.png",
-    "xws": "ironspear"
+    "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
+    "xws": "ironspear",
+    "assetno": "494"
+  },
+  {
+    "name": "item #010",
+    "points": 2400,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
+    "xws": "ironspear",
+    "assetno": "494"
   },
   {
     "name": "iron spear",
-    "points": 2372,
+    "points": 2401,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear.png",
-    "xws": "ironspear"
+    "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
+    "xws": "ironspear",
+    "assetno": "494"
+  },
+  {
+    "name": "494",
+    "points": 2402,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
+    "xws": "ironspear",
+    "assetno": "494"
   },
   {
     "name": "iron spear",
-    "points": 2373,
+    "points": 2403,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-10-iron-spear-back.png",
-    "xws": "ironspear"
+    "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear-back.png",
+    "xws": "ironspear",
+    "assetno": "###"
   },
   {
     "name": "item 11",
-    "points": 2374,
+    "points": 2404,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion.png",
-    "xws": "healingpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
+    "xws": "healingpotion",
+    "assetno": "496"
+  },
+  {
+    "name": "item 011",
+    "points": 2405,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
+    "xws": "healingpotion",
+    "assetno": "496"
   },
   {
     "name": "item #11",
-    "points": 2375,
+    "points": 2406,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion.png",
-    "xws": "healingpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
+    "xws": "healingpotion",
+    "assetno": "496"
+  },
+  {
+    "name": "item #011",
+    "points": 2407,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
+    "xws": "healingpotion",
+    "assetno": "496"
   },
   {
     "name": "healing potion",
-    "points": 2376,
+    "points": 2408,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion.png",
-    "xws": "healingpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
+    "xws": "healingpotion",
+    "assetno": "496"
+  },
+  {
+    "name": "496",
+    "points": 2409,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
+    "xws": "healingpotion",
+    "assetno": "496"
   },
   {
     "name": "healing potion",
-    "points": 2377,
+    "points": 2410,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-11-healing-potion-back.png",
-    "xws": "healingpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion-back.png",
+    "xws": "healingpotion",
+    "assetno": "###"
   },
   {
     "name": "item 12",
-    "points": 2378,
+    "points": 2411,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion.png",
-    "xws": "staminapotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
+    "xws": "staminapotion",
+    "assetno": "498"
+  },
+  {
+    "name": "item 012",
+    "points": 2412,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
+    "xws": "staminapotion",
+    "assetno": "498"
   },
   {
     "name": "item #12",
-    "points": 2379,
+    "points": 2413,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion.png",
-    "xws": "staminapotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
+    "xws": "staminapotion",
+    "assetno": "498"
+  },
+  {
+    "name": "item #012",
+    "points": 2414,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
+    "xws": "staminapotion",
+    "assetno": "498"
   },
   {
     "name": "stamina potion",
-    "points": 2380,
+    "points": 2415,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion.png",
-    "xws": "staminapotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
+    "xws": "staminapotion",
+    "assetno": "498"
+  },
+  {
+    "name": "498",
+    "points": 2416,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
+    "xws": "staminapotion",
+    "assetno": "498"
   },
   {
     "name": "stamina potion",
-    "points": 2381,
+    "points": 2417,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-12-stamina-potion-back.png",
-    "xws": "staminapotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion-back.png",
+    "xws": "staminapotion",
+    "assetno": "###"
   },
   {
     "name": "item 13",
-    "points": 2382,
+    "points": 2418,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion.png",
-    "xws": "powerpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
+    "xws": "powerpotion",
+    "assetno": "500"
+  },
+  {
+    "name": "item 013",
+    "points": 2419,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
+    "xws": "powerpotion",
+    "assetno": "500"
   },
   {
     "name": "item #13",
-    "points": 2383,
+    "points": 2420,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion.png",
-    "xws": "powerpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
+    "xws": "powerpotion",
+    "assetno": "500"
+  },
+  {
+    "name": "item #013",
+    "points": 2421,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
+    "xws": "powerpotion",
+    "assetno": "500"
   },
   {
     "name": "power potion",
-    "points": 2384,
+    "points": 2422,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion.png",
-    "xws": "powerpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
+    "xws": "powerpotion",
+    "assetno": "500"
+  },
+  {
+    "name": "500",
+    "points": 2423,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
+    "xws": "powerpotion",
+    "assetno": "500"
   },
   {
     "name": "power potion",
-    "points": 2385,
+    "points": 2424,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/1-13/jl-13-power-potion-back.png",
-    "xws": "powerpotion"
+    "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion-back.png",
+    "xws": "powerpotion",
+    "assetno": "###"
   },
   {
     "name": "item 14",
-    "points": 2386,
+    "points": 2425,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion.png",
-    "xws": "manapotion"
+    "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
+    "xws": "manapotion",
+    "assetno": "502"
+  },
+  {
+    "name": "item 014",
+    "points": 2426,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
+    "xws": "manapotion",
+    "assetno": "502"
   },
   {
     "name": "item #14",
-    "points": 2387,
+    "points": 2427,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion.png",
-    "xws": "manapotion"
+    "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
+    "xws": "manapotion",
+    "assetno": "502"
+  },
+  {
+    "name": "item #014",
+    "points": 2428,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
+    "xws": "manapotion",
+    "assetno": "502"
   },
   {
     "name": "mana potion",
-    "points": 2388,
+    "points": 2429,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion.png",
-    "xws": "manapotion"
+    "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
+    "xws": "manapotion",
+    "assetno": "502"
+  },
+  {
+    "name": "502",
+    "points": 2430,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
+    "xws": "manapotion",
+    "assetno": "502"
   },
   {
     "name": "mana potion",
-    "points": 2389,
+    "points": 2431,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/14/jl-14-mana-potion-back.png",
-    "xws": "manapotion"
+    "image": "items/jaws-of-the-lion/014/jl-014-mana-potion-back.png",
+    "xws": "manapotion",
+    "assetno": "###"
   },
   {
     "name": "item 15",
-    "points": 2390,
+    "points": 2432,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life.png",
-    "xws": "amuletoflife"
+    "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
+    "xws": "amuletoflife",
+    "assetno": "504"
+  },
+  {
+    "name": "item 015",
+    "points": 2433,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
+    "xws": "amuletoflife",
+    "assetno": "504"
   },
   {
     "name": "item #15",
-    "points": 2391,
+    "points": 2434,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life.png",
-    "xws": "amuletoflife"
+    "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
+    "xws": "amuletoflife",
+    "assetno": "504"
+  },
+  {
+    "name": "item #015",
+    "points": 2435,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
+    "xws": "amuletoflife",
+    "assetno": "504"
   },
   {
     "name": "amulet of life",
-    "points": 2392,
+    "points": 2436,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life.png",
-    "xws": "amuletoflife"
+    "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
+    "xws": "amuletoflife",
+    "assetno": "504"
+  },
+  {
+    "name": "504",
+    "points": 2437,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
+    "xws": "amuletoflife",
+    "assetno": "504"
   },
   {
     "name": "amulet of life",
-    "points": 2393,
+    "points": 2438,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-15-amulet-of-life-back.png",
-    "xws": "amuletoflife"
+    "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life-back.png",
+    "xws": "amuletoflife",
+    "assetno": "###"
   },
   {
     "name": "item 16",
-    "points": 2394,
+    "points": 2439,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation.png",
-    "xws": "robesofevocation"
+    "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
+    "xws": "robesofevocation",
+    "assetno": "505"
+  },
+  {
+    "name": "item 016",
+    "points": 2440,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
+    "xws": "robesofevocation",
+    "assetno": "505"
   },
   {
     "name": "item #16",
-    "points": 2395,
+    "points": 2441,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation.png",
-    "xws": "robesofevocation"
+    "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
+    "xws": "robesofevocation",
+    "assetno": "505"
+  },
+  {
+    "name": "item #016",
+    "points": 2442,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
+    "xws": "robesofevocation",
+    "assetno": "505"
   },
   {
     "name": "robes of evocation",
-    "points": 2396,
+    "points": 2443,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation.png",
-    "xws": "robesofevocation"
+    "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
+    "xws": "robesofevocation",
+    "assetno": "505"
+  },
+  {
+    "name": "505",
+    "points": 2444,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
+    "xws": "robesofevocation",
+    "assetno": "505"
   },
   {
     "name": "robes of evocation",
-    "points": 2397,
+    "points": 2445,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-16-robes-of-evocation-back.png",
-    "xws": "robesofevocation"
+    "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation-back.png",
+    "xws": "robesofevocation",
+    "assetno": "###"
   },
   {
     "name": "item 17",
-    "points": 2398,
+    "points": 2446,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes.png",
-    "xws": "comfortableshoes"
+    "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "506"
+  },
+  {
+    "name": "item 017",
+    "points": 2447,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "506"
   },
   {
     "name": "item #17",
-    "points": 2399,
+    "points": 2448,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes.png",
-    "xws": "comfortableshoes"
+    "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "506"
+  },
+  {
+    "name": "item #017",
+    "points": 2449,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "506"
   },
   {
     "name": "comfortable shoes",
-    "points": 2400,
+    "points": 2450,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes.png",
-    "xws": "comfortableshoes"
+    "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "506"
+  },
+  {
+    "name": "506",
+    "points": 2451,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "506"
   },
   {
     "name": "comfortable shoes",
-    "points": 2401,
+    "points": 2452,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-17-comfortable-shoes-back.png",
-    "xws": "comfortableshoes"
+    "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes-back.png",
+    "xws": "comfortableshoes",
+    "assetno": "###"
   },
   {
     "name": "item 18",
-    "points": 2402,
+    "points": 2453,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe.png",
-    "xws": "battleaxe"
+    "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "507"
+  },
+  {
+    "name": "item 018",
+    "points": 2454,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "507"
   },
   {
     "name": "item #18",
-    "points": 2403,
+    "points": 2455,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe.png",
-    "xws": "battleaxe"
+    "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "507"
+  },
+  {
+    "name": "item #018",
+    "points": 2456,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "507"
   },
   {
     "name": "battle-axe",
-    "points": 2404,
+    "points": 2457,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe.png",
-    "xws": "battleaxe"
+    "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "507"
+  },
+  {
+    "name": "507",
+    "points": 2458,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "507"
   },
   {
     "name": "battle-axe",
-    "points": 2405,
+    "points": 2459,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-18-battle-axe-back.png",
-    "xws": "battleaxe"
+    "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe-back.png",
+    "xws": "battleaxe",
+    "assetno": "###"
   },
   {
     "name": "item 19",
-    "points": 2406,
+    "points": 2460,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle.png",
-    "xws": "blackcandle"
+    "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
+    "xws": "blackcandle",
+    "assetno": "508"
+  },
+  {
+    "name": "item 019",
+    "points": 2461,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
+    "xws": "blackcandle",
+    "assetno": "508"
   },
   {
     "name": "item #19",
-    "points": 2407,
+    "points": 2462,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle.png",
-    "xws": "blackcandle"
+    "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
+    "xws": "blackcandle",
+    "assetno": "508"
+  },
+  {
+    "name": "item #019",
+    "points": 2463,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
+    "xws": "blackcandle",
+    "assetno": "508"
   },
   {
     "name": "black candle",
-    "points": 2408,
+    "points": 2464,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle.png",
-    "xws": "blackcandle"
+    "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
+    "xws": "blackcandle",
+    "assetno": "508"
+  },
+  {
+    "name": "508",
+    "points": 2465,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
+    "xws": "blackcandle",
+    "assetno": "508"
   },
   {
     "name": "black candle",
-    "points": 2409,
+    "points": 2466,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-19-black-candle-back.png",
-    "xws": "blackcandle"
+    "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle-back.png",
+    "xws": "blackcandle",
+    "assetno": "###"
   },
   {
     "name": "item 20",
-    "points": 2410,
+    "points": 2467,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder.png",
-    "xws": "stunpowder"
+    "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
+    "xws": "stunpowder",
+    "assetno": "509"
+  },
+  {
+    "name": "item 020",
+    "points": 2468,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
+    "xws": "stunpowder",
+    "assetno": "509"
   },
   {
     "name": "item #20",
-    "points": 2411,
+    "points": 2469,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder.png",
-    "xws": "stunpowder"
+    "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
+    "xws": "stunpowder",
+    "assetno": "509"
+  },
+  {
+    "name": "item #020",
+    "points": 2470,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
+    "xws": "stunpowder",
+    "assetno": "509"
   },
   {
     "name": "stun powder",
-    "points": 2412,
+    "points": 2471,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder.png",
-    "xws": "stunpowder"
+    "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
+    "xws": "stunpowder",
+    "assetno": "509"
+  },
+  {
+    "name": "509",
+    "points": 2472,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
+    "xws": "stunpowder",
+    "assetno": "509"
   },
   {
     "name": "stun powder",
-    "points": 2413,
+    "points": 2473,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/15-20/jl-20-stun-powder-back.png",
-    "xws": "stunpowder"
+    "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder-back.png",
+    "xws": "stunpowder",
+    "assetno": "###"
   },
   {
     "name": "item 21",
-    "points": 2414,
+    "points": 2474,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm.png",
-    "xws": "hawkhelm"
+    "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
+    "xws": "hawkhelm",
+    "assetno": "511"
+  },
+  {
+    "name": "item 021",
+    "points": 2475,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
+    "xws": "hawkhelm",
+    "assetno": "511"
   },
   {
     "name": "item #21",
-    "points": 2415,
+    "points": 2476,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm.png",
-    "xws": "hawkhelm"
+    "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
+    "xws": "hawkhelm",
+    "assetno": "511"
+  },
+  {
+    "name": "item #021",
+    "points": 2477,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
+    "xws": "hawkhelm",
+    "assetno": "511"
   },
   {
     "name": "hawk helm",
-    "points": 2416,
+    "points": 2478,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm.png",
-    "xws": "hawkhelm"
+    "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
+    "xws": "hawkhelm",
+    "assetno": "511"
+  },
+  {
+    "name": "511",
+    "points": 2479,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
+    "xws": "hawkhelm",
+    "assetno": "511"
   },
   {
     "name": "hawk helm",
-    "points": 2417,
+    "points": 2480,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-21-hawk-helm-back.png",
-    "xws": "hawkhelm"
+    "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm-back.png",
+    "xws": "hawkhelm",
+    "assetno": "###"
   },
   {
     "name": "item 22",
-    "points": 2418,
+    "points": 2481,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor.png",
-    "xws": "bladedarmor"
+    "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
+    "xws": "bladedarmor",
+    "assetno": "512"
+  },
+  {
+    "name": "item 022",
+    "points": 2482,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
+    "xws": "bladedarmor",
+    "assetno": "512"
   },
   {
     "name": "item #22",
-    "points": 2419,
+    "points": 2483,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor.png",
-    "xws": "bladedarmor"
+    "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
+    "xws": "bladedarmor",
+    "assetno": "512"
+  },
+  {
+    "name": "item #022",
+    "points": 2484,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
+    "xws": "bladedarmor",
+    "assetno": "512"
   },
   {
     "name": "bladed armor",
-    "points": 2420,
+    "points": 2485,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor.png",
-    "xws": "bladedarmor"
+    "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
+    "xws": "bladedarmor",
+    "assetno": "512"
+  },
+  {
+    "name": "512",
+    "points": 2486,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
+    "xws": "bladedarmor",
+    "assetno": "512"
   },
   {
     "name": "bladed armor",
-    "points": 2421,
+    "points": 2487,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-22-bladed-armor-back.png",
-    "xws": "bladedarmor"
+    "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor-back.png",
+    "xws": "bladedarmor",
+    "assetno": "###"
   },
   {
     "name": "item 23",
-    "points": 2422,
+    "points": 2488,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding.png",
-    "xws": "bootsofstriding"
+    "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
+    "xws": "bootsofstriding",
+    "assetno": "513"
+  },
+  {
+    "name": "item 023",
+    "points": 2489,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
+    "xws": "bootsofstriding",
+    "assetno": "513"
   },
   {
     "name": "item #23",
-    "points": 2423,
+    "points": 2490,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding.png",
-    "xws": "bootsofstriding"
+    "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
+    "xws": "bootsofstriding",
+    "assetno": "513"
+  },
+  {
+    "name": "item #023",
+    "points": 2491,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
+    "xws": "bootsofstriding",
+    "assetno": "513"
   },
   {
     "name": "boots of striding",
-    "points": 2424,
+    "points": 2492,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding.png",
-    "xws": "bootsofstriding"
+    "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
+    "xws": "bootsofstriding",
+    "assetno": "513"
+  },
+  {
+    "name": "513",
+    "points": 2493,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
+    "xws": "bootsofstriding",
+    "assetno": "513"
   },
   {
     "name": "boots of striding",
-    "points": 2425,
+    "points": 2494,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-23-boots-of-striding-back.png",
-    "xws": "bootsofstriding"
+    "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding-back.png",
+    "xws": "bootsofstriding",
+    "assetno": "###"
   },
   {
     "name": "item 24",
-    "points": 2426,
+    "points": 2495,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb.png",
-    "xws": "volatilebomb"
+    "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "514"
+  },
+  {
+    "name": "item 024",
+    "points": 2496,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "514"
   },
   {
     "name": "item #24",
-    "points": 2427,
+    "points": 2497,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb.png",
-    "xws": "volatilebomb"
+    "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "514"
+  },
+  {
+    "name": "item #024",
+    "points": 2498,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "514"
   },
   {
     "name": "volatile bomb",
-    "points": 2428,
+    "points": 2499,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb.png",
-    "xws": "volatilebomb"
+    "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "514"
+  },
+  {
+    "name": "514",
+    "points": 2500,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "514"
   },
   {
     "name": "volatile bomb",
-    "points": 2429,
+    "points": 2501,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-24-volatile-bomb-back.png",
-    "xws": "volatilebomb"
+    "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb-back.png",
+    "xws": "volatilebomb",
+    "assetno": "###"
   },
   {
     "name": "item 25",
-    "points": 2430,
+    "points": 2502,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain.png",
-    "xws": "barbedchain"
+    "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
+    "xws": "barbedchain",
+    "assetno": "515"
+  },
+  {
+    "name": "item 025",
+    "points": 2503,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
+    "xws": "barbedchain",
+    "assetno": "515"
   },
   {
     "name": "item #25",
-    "points": 2431,
+    "points": 2504,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain.png",
-    "xws": "barbedchain"
+    "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
+    "xws": "barbedchain",
+    "assetno": "515"
+  },
+  {
+    "name": "item #025",
+    "points": 2505,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
+    "xws": "barbedchain",
+    "assetno": "515"
   },
   {
     "name": "barbed chain",
-    "points": 2432,
+    "points": 2506,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain.png",
-    "xws": "barbedchain"
+    "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
+    "xws": "barbedchain",
+    "assetno": "515"
+  },
+  {
+    "name": "515",
+    "points": 2507,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
+    "xws": "barbedchain",
+    "assetno": "515"
   },
   {
     "name": "barbed chain",
-    "points": 2433,
+    "points": 2508,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-25-barbed-chain-back.png",
-    "xws": "barbedchain"
+    "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain-back.png",
+    "xws": "barbedchain",
+    "assetno": "###"
   },
   {
     "name": "item 26",
-    "points": 2434,
+    "points": 2509,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm.png",
-    "xws": "oakcharm"
+    "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
+    "xws": "oakcharm",
+    "assetno": "516"
+  },
+  {
+    "name": "item 026",
+    "points": 2510,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
+    "xws": "oakcharm",
+    "assetno": "516"
   },
   {
     "name": "item #26",
-    "points": 2435,
+    "points": 2511,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm.png",
-    "xws": "oakcharm"
+    "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
+    "xws": "oakcharm",
+    "assetno": "516"
+  },
+  {
+    "name": "item #026",
+    "points": 2512,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
+    "xws": "oakcharm",
+    "assetno": "516"
   },
   {
     "name": "oak charm",
-    "points": 2436,
+    "points": 2513,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm.png",
-    "xws": "oakcharm"
+    "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
+    "xws": "oakcharm",
+    "assetno": "516"
+  },
+  {
+    "name": "516",
+    "points": 2514,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
+    "xws": "oakcharm",
+    "assetno": "516"
   },
   {
     "name": "oak charm",
-    "points": 2437,
+    "points": 2515,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/21-26/jl-26-oak-charm-back.png",
-    "xws": "oakcharm"
+    "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm-back.png",
+    "xws": "oakcharm",
+    "assetno": "###"
   },
   {
     "name": "item 27",
-    "points": 2438,
+    "points": 2516,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass.png",
-    "xws": "fatefulcompass"
+    "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
+    "xws": "fatefulcompass",
+    "assetno": "518"
+  },
+  {
+    "name": "item 027",
+    "points": 2517,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
+    "xws": "fatefulcompass",
+    "assetno": "518"
   },
   {
     "name": "item #27",
-    "points": 2439,
+    "points": 2518,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass.png",
-    "xws": "fatefulcompass"
+    "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
+    "xws": "fatefulcompass",
+    "assetno": "518"
+  },
+  {
+    "name": "item #027",
+    "points": 2519,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
+    "xws": "fatefulcompass",
+    "assetno": "518"
   },
   {
     "name": "fateful compass",
-    "points": 2440,
+    "points": 2520,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass.png",
-    "xws": "fatefulcompass"
+    "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
+    "xws": "fatefulcompass",
+    "assetno": "518"
+  },
+  {
+    "name": "518",
+    "points": 2521,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
+    "xws": "fatefulcompass",
+    "assetno": "518"
   },
   {
     "name": "fateful compass",
-    "points": 2441,
+    "points": 2522,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-27-fateful-compass-back.png",
-    "xws": "fatefulcompass"
+    "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass-back.png",
+    "xws": "fatefulcompass",
+    "assetno": "###"
   },
   {
     "name": "item 28",
-    "points": 2442,
+    "points": 2523,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl.png",
-    "xws": "fleabittenshawl"
+    "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
+    "xws": "fleabittenshawl",
+    "assetno": "519"
+  },
+  {
+    "name": "item 028",
+    "points": 2524,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
+    "xws": "fleabittenshawl",
+    "assetno": "519"
   },
   {
     "name": "item #28",
-    "points": 2443,
+    "points": 2525,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl.png",
-    "xws": "fleabittenshawl"
+    "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
+    "xws": "fleabittenshawl",
+    "assetno": "519"
+  },
+  {
+    "name": "item #028",
+    "points": 2526,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
+    "xws": "fleabittenshawl",
+    "assetno": "519"
   },
   {
     "name": "flea-bitten shawl",
-    "points": 2444,
+    "points": 2527,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl.png",
-    "xws": "fleabittenshawl"
+    "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
+    "xws": "fleabittenshawl",
+    "assetno": "519"
+  },
+  {
+    "name": "519",
+    "points": 2528,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
+    "xws": "fleabittenshawl",
+    "assetno": "519"
   },
   {
     "name": "flea-bitten shawl",
-    "points": 2445,
+    "points": 2529,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-28-flea-bitten-shawl-back.png",
-    "xws": "fleabittenshawl"
+    "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl-back.png",
+    "xws": "fleabittenshawl",
+    "assetno": "###"
   },
   {
     "name": "item 29",
-    "points": 2446,
+    "points": 2530,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield.png",
-    "xws": "towershield"
+    "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "520"
+  },
+  {
+    "name": "item 029",
+    "points": 2531,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "520"
   },
   {
     "name": "item #29",
-    "points": 2447,
+    "points": 2532,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield.png",
-    "xws": "towershield"
+    "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "520"
+  },
+  {
+    "name": "item #029",
+    "points": 2533,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "520"
   },
   {
     "name": "tower shield",
-    "points": 2448,
+    "points": 2534,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield.png",
-    "xws": "towershield"
+    "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "520"
+  },
+  {
+    "name": "520",
+    "points": 2535,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "520"
   },
   {
     "name": "tower shield",
-    "points": 2449,
+    "points": 2536,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-29-tower-shield-back.png",
-    "xws": "towershield"
+    "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield-back.png",
+    "xws": "towershield",
+    "assetno": "###"
   },
   {
     "name": "item 30",
-    "points": 2450,
+    "points": 2537,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste.png",
-    "xws": "ringofhaste"
+    "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "521"
+  },
+  {
+    "name": "item 030",
+    "points": 2538,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "521"
   },
   {
     "name": "item #30",
-    "points": 2451,
+    "points": 2539,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste.png",
-    "xws": "ringofhaste"
+    "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "521"
+  },
+  {
+    "name": "item #030",
+    "points": 2540,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "521"
   },
   {
     "name": "ring of haste",
-    "points": 2452,
+    "points": 2541,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste.png",
-    "xws": "ringofhaste"
+    "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "521"
+  },
+  {
+    "name": "521",
+    "points": 2542,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "521"
   },
   {
     "name": "ring of haste",
-    "points": 2453,
+    "points": 2543,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-30-ring-of-haste-back.png",
-    "xws": "ringofhaste"
+    "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste-back.png",
+    "xws": "ringofhaste",
+    "assetno": "###"
   },
   {
     "name": "item 31",
-    "points": 2454,
+    "points": 2544,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength.png",
-    "xws": "ringofstrength"
+    "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
+    "xws": "ringofstrength",
+    "assetno": "522"
+  },
+  {
+    "name": "item 031",
+    "points": 2545,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
+    "xws": "ringofstrength",
+    "assetno": "522"
   },
   {
     "name": "item #31",
-    "points": 2455,
+    "points": 2546,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength.png",
-    "xws": "ringofstrength"
+    "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
+    "xws": "ringofstrength",
+    "assetno": "522"
+  },
+  {
+    "name": "item #031",
+    "points": 2547,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
+    "xws": "ringofstrength",
+    "assetno": "522"
   },
   {
     "name": "ring of strength",
-    "points": 2456,
+    "points": 2548,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength.png",
-    "xws": "ringofstrength"
+    "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
+    "xws": "ringofstrength",
+    "assetno": "522"
+  },
+  {
+    "name": "522",
+    "points": 2549,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
+    "xws": "ringofstrength",
+    "assetno": "522"
   },
   {
     "name": "ring of strength",
-    "points": 2457,
+    "points": 2550,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-31-ring-of-strength-back.png",
-    "xws": "ringofstrength"
+    "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength-back.png",
+    "xws": "ringofstrength",
+    "assetno": "###"
   },
   {
     "name": "item 32",
-    "points": 2458,
+    "points": 2551,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration.png",
-    "xws": "ringofrestoration"
+    "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
+    "xws": "ringofrestoration",
+    "assetno": "523"
+  },
+  {
+    "name": "item 032",
+    "points": 2552,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
+    "xws": "ringofrestoration",
+    "assetno": "523"
   },
   {
     "name": "item #32",
-    "points": 2459,
+    "points": 2553,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration.png",
-    "xws": "ringofrestoration"
+    "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
+    "xws": "ringofrestoration",
+    "assetno": "523"
+  },
+  {
+    "name": "item #032",
+    "points": 2554,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
+    "xws": "ringofrestoration",
+    "assetno": "523"
   },
   {
     "name": "ring of restoration",
-    "points": 2460,
+    "points": 2555,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration.png",
-    "xws": "ringofrestoration"
+    "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
+    "xws": "ringofrestoration",
+    "assetno": "523"
+  },
+  {
+    "name": "523",
+    "points": 2556,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
+    "xws": "ringofrestoration",
+    "assetno": "523"
   },
   {
     "name": "ring of restoration",
-    "points": 2461,
+    "points": 2557,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-32-ring-of-restoration-back.png",
-    "xws": "ringofrestoration"
+    "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration-back.png",
+    "xws": "ringofrestoration",
+    "assetno": "###"
   },
   {
     "name": "item 33",
-    "points": 2462,
+    "points": 2558,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring.png",
-    "xws": "steelring"
+    "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "524"
+  },
+  {
+    "name": "item 033",
+    "points": 2559,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "524"
   },
   {
     "name": "item #33",
-    "points": 2463,
+    "points": 2560,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring.png",
-    "xws": "steelring"
+    "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "524"
+  },
+  {
+    "name": "item #033",
+    "points": 2561,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "524"
   },
   {
     "name": "steel ring",
-    "points": 2464,
+    "points": 2562,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring.png",
-    "xws": "steelring"
+    "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "524"
+  },
+  {
+    "name": "524",
+    "points": 2563,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "524"
   },
   {
     "name": "steel ring",
-    "points": 2465,
+    "points": 2564,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-33-steel-ring-back.png",
-    "xws": "steelring"
+    "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring-back.png",
+    "xws": "steelring",
+    "assetno": "###"
   },
   {
     "name": "item 34",
-    "points": 2466,
+    "points": 2565,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe.png",
-    "xws": "barbedaxe"
+    "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
+    "xws": "barbedaxe",
+    "assetno": "525"
+  },
+  {
+    "name": "item 034",
+    "points": 2566,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
+    "xws": "barbedaxe",
+    "assetno": "525"
   },
   {
     "name": "item #34",
-    "points": 2467,
+    "points": 2567,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe.png",
-    "xws": "barbedaxe"
+    "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
+    "xws": "barbedaxe",
+    "assetno": "525"
+  },
+  {
+    "name": "item #034",
+    "points": 2568,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
+    "xws": "barbedaxe",
+    "assetno": "525"
   },
   {
     "name": "barbed axe",
-    "points": 2468,
+    "points": 2569,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe.png",
-    "xws": "barbedaxe"
+    "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
+    "xws": "barbedaxe",
+    "assetno": "525"
+  },
+  {
+    "name": "525",
+    "points": 2570,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
+    "xws": "barbedaxe",
+    "assetno": "525"
   },
   {
     "name": "barbed axe",
-    "points": 2469,
+    "points": 2571,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-34-barbed-axe-back.png",
-    "xws": "barbedaxe"
+    "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe-back.png",
+    "xws": "barbedaxe",
+    "assetno": "###"
   },
   {
     "name": "item 35",
-    "points": 2470,
+    "points": 2572,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command.png",
-    "xws": "robesofcommand"
+    "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
+    "xws": "robesofcommand",
+    "assetno": "526"
+  },
+  {
+    "name": "item 035",
+    "points": 2573,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
+    "xws": "robesofcommand",
+    "assetno": "526"
   },
   {
     "name": "item #35",
-    "points": 2471,
+    "points": 2574,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command.png",
-    "xws": "robesofcommand"
+    "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
+    "xws": "robesofcommand",
+    "assetno": "526"
+  },
+  {
+    "name": "item #035",
+    "points": 2575,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
+    "xws": "robesofcommand",
+    "assetno": "526"
   },
   {
     "name": "robes of command",
-    "points": 2472,
+    "points": 2576,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command.png",
-    "xws": "robesofcommand"
+    "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
+    "xws": "robesofcommand",
+    "assetno": "526"
+  },
+  {
+    "name": "526",
+    "points": 2577,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
+    "xws": "robesofcommand",
+    "assetno": "526"
   },
   {
     "name": "robes of command",
-    "points": 2473,
+    "points": 2578,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-35-robes-of-command-back.png",
-    "xws": "robesofcommand"
+    "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command-back.png",
+    "xws": "robesofcommand",
+    "assetno": "###"
   },
   {
     "name": "item 36",
-    "points": 2474,
+    "points": 2579,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots.png",
-    "xws": "jetboots"
+    "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
+    "xws": "jetboots",
+    "assetno": "527"
+  },
+  {
+    "name": "item 036",
+    "points": 2580,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
+    "xws": "jetboots",
+    "assetno": "527"
   },
   {
     "name": "item #36",
-    "points": 2475,
+    "points": 2581,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots.png",
-    "xws": "jetboots"
+    "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
+    "xws": "jetboots",
+    "assetno": "527"
+  },
+  {
+    "name": "item #036",
+    "points": 2582,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
+    "xws": "jetboots",
+    "assetno": "527"
   },
   {
     "name": "jet boots",
-    "points": 2476,
+    "points": 2583,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots.png",
-    "xws": "jetboots"
+    "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
+    "xws": "jetboots",
+    "assetno": "527"
+  },
+  {
+    "name": "527",
+    "points": 2584,
+    "expansion": "jaws of the lion",
+    "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
+    "xws": "jetboots",
+    "assetno": "527"
   },
   {
     "name": "jet boots",
-    "points": 2477,
+    "points": 2585,
     "expansion": "jaws of the lion",
-    "image": "items/jaws-of-the-lion/27-36/jl-36-jet-boots-back.png",
-    "xws": "jetboots"
+    "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots-back.png",
+    "xws": "jetboots",
+    "assetno": "###"
   },
   {
     "name": "item 1",
-    "points": 2478,
+    "points": 2586,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 1",
-    "points": 2479,
+    "points": 2587,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 01",
-    "points": 2480,
+    "points": 2588,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 01",
-    "points": 2481,
+    "points": 2589,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 001",
-    "points": 2482,
+    "points": 2590,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 001",
-    "points": 2483,
+    "points": 2591,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #1",
-    "points": 2484,
+    "points": 2592,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #1",
-    "points": 2485,
+    "points": 2593,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #01",
-    "points": 2486,
+    "points": 2594,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #01",
-    "points": 2487,
+    "points": 2595,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #001",
-    "points": 2488,
+    "points": 2596,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #001",
-    "points": 2489,
+    "points": 2597,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "orb of confusion",
-    "points": 2490,
+    "points": 2598,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "orb of confusion",
-    "points": 2491,
+    "points": 2599,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "orb of confusion",
-    "points": 2492,
+    "points": 2600,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01-orb-of-confusion-back.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 2",
-    "points": 2493,
+    "points": 2601,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 2",
-    "points": 2494,
+    "points": 2602,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 02",
-    "points": 2495,
+    "points": 2603,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 02",
-    "points": 2496,
+    "points": 2604,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 002",
-    "points": 2497,
+    "points": 2605,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 002",
-    "points": 2498,
+    "points": 2606,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #2",
-    "points": 2499,
+    "points": 2607,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #2",
-    "points": 2500,
+    "points": 2608,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #02",
-    "points": 2501,
+    "points": 2609,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #02",
-    "points": 2502,
+    "points": 2610,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #002",
-    "points": 2503,
+    "points": 2611,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #002",
-    "points": 2504,
+    "points": 2612,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "orb of momentum",
-    "points": 2505,
+    "points": 2613,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "orb of momentum",
-    "points": 2506,
+    "points": 2614,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "orb of momentum",
-    "points": 2507,
+    "points": 2615,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02-orb-of-momentum-back.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 3",
-    "points": 2508,
+    "points": 2616,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 3",
-    "points": 2509,
+    "points": 2617,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 03",
-    "points": 2510,
+    "points": 2618,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 03",
-    "points": 2511,
+    "points": 2619,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 003",
-    "points": 2512,
+    "points": 2620,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 003",
-    "points": 2513,
+    "points": 2621,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #3",
-    "points": 2514,
+    "points": 2622,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #3",
-    "points": 2515,
+    "points": 2623,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #03",
-    "points": 2516,
+    "points": 2624,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #03",
-    "points": 2517,
+    "points": 2625,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #003",
-    "points": 2518,
+    "points": 2626,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #003",
-    "points": 2519,
+    "points": 2627,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "orb of agility",
-    "points": 2520,
+    "points": 2628,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "orb of agility",
-    "points": 2521,
+    "points": 2629,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "orb of agility",
-    "points": 2522,
+    "points": 2630,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03-orb-of-agility-back.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 4",
-    "points": 2523,
+    "points": 2631,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 4",
-    "points": 2524,
+    "points": 2632,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 04",
-    "points": 2525,
+    "points": 2633,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 04",
-    "points": 2526,
+    "points": 2634,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 004",
-    "points": 2527,
+    "points": 2635,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 004",
-    "points": 2528,
+    "points": 2636,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #4",
-    "points": 2529,
+    "points": 2637,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #4",
-    "points": 2530,
+    "points": 2638,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #04",
-    "points": 2531,
+    "points": 2639,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #04",
-    "points": 2532,
+    "points": 2640,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #004",
-    "points": 2533,
+    "points": 2641,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #004",
-    "points": 2534,
+    "points": 2642,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "orb of vigor",
-    "points": 2535,
+    "points": 2643,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "orb of vigor",
-    "points": 2536,
+    "points": 2644,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "orb of vigor",
-    "points": 2537,
+    "points": 2645,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04-orb-of-vigor-back.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 5",
-    "points": 2538,
+    "points": 2646,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 5",
-    "points": 2539,
+    "points": 2647,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 05",
-    "points": 2540,
+    "points": 2648,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 05",
-    "points": 2541,
+    "points": 2649,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 005",
-    "points": 2542,
+    "points": 2650,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 005",
-    "points": 2543,
+    "points": 2651,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #5",
-    "points": 2544,
+    "points": 2652,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #5",
-    "points": 2545,
+    "points": 2653,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #05",
-    "points": 2546,
+    "points": 2654,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #05",
-    "points": 2547,
+    "points": 2655,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #005",
-    "points": 2548,
+    "points": 2656,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #005",
-    "points": 2549,
+    "points": 2657,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "orb of retribution",
-    "points": 2550,
+    "points": 2658,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "orb of retribution",
-    "points": 2551,
+    "points": 2659,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "orb of retribution",
-    "points": 2552,
+    "points": 2660,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05-orb-of-retribution-back.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 6",
-    "points": 2553,
+    "points": 2661,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 6",
-    "points": 2554,
+    "points": 2662,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 06",
-    "points": 2555,
+    "points": 2663,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 06",
-    "points": 2556,
+    "points": 2664,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 006",
-    "points": 2557,
+    "points": 2665,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 006",
-    "points": 2558,
+    "points": 2666,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #6",
-    "points": 2559,
+    "points": 2667,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #6",
-    "points": 2560,
+    "points": 2668,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #06",
-    "points": 2561,
+    "points": 2669,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #06",
-    "points": 2562,
+    "points": 2670,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #006",
-    "points": 2563,
+    "points": 2671,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #006",
-    "points": 2564,
+    "points": 2672,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "orb of infection",
-    "points": 2565,
+    "points": 2673,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "orb of infection",
-    "points": 2566,
+    "points": 2674,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "orb of infection",
-    "points": 2567,
+    "points": 2675,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06-orb-of-infection-back.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 7",
-    "points": 2568,
+    "points": 2676,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 7",
-    "points": 2569,
+    "points": 2677,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 07",
-    "points": 2570,
+    "points": 2678,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 07",
-    "points": 2571,
+    "points": 2679,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 007",
-    "points": 2572,
+    "points": 2680,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 007",
-    "points": 2573,
+    "points": 2681,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #7",
-    "points": 2574,
+    "points": 2682,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #7",
-    "points": 2575,
+    "points": 2683,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #07",
-    "points": 2576,
+    "points": 2684,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #07",
-    "points": 2577,
+    "points": 2685,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #007",
-    "points": 2578,
+    "points": 2686,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #007",
-    "points": 2579,
+    "points": 2687,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "orb of vitality",
-    "points": 2580,
+    "points": 2688,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "orb of vitality",
-    "points": 2581,
+    "points": 2689,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "orb of vitality",
-    "points": 2582,
+    "points": 2690,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07-orb-of-vitality-back.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 8",
-    "points": 2583,
+    "points": 2691,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 8",
-    "points": 2584,
+    "points": 2692,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 08",
-    "points": 2585,
+    "points": 2693,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 08",
-    "points": 2586,
+    "points": 2694,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 008",
-    "points": 2587,
+    "points": 2695,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 008",
-    "points": 2588,
+    "points": 2696,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #8",
-    "points": 2589,
+    "points": 2697,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #8",
-    "points": 2590,
+    "points": 2698,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #08",
-    "points": 2591,
+    "points": 2699,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #08",
-    "points": 2592,
+    "points": 2700,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #008",
-    "points": 2593,
+    "points": 2701,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #008",
-    "points": 2594,
+    "points": 2702,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "orb of protection",
-    "points": 2595,
+    "points": 2703,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "orb of protection",
-    "points": 2596,
+    "points": 2704,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "orb of protection",
-    "points": 2597,
+    "points": 2705,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08-orb-of-protection-back.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 9",
-    "points": 2598,
+    "points": 2706,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 9",
-    "points": 2599,
+    "points": 2707,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 09",
-    "points": 2600,
+    "points": 2708,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 09",
-    "points": 2601,
+    "points": 2709,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 009",
-    "points": 2602,
+    "points": 2710,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 009",
-    "points": 2603,
+    "points": 2711,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #9",
-    "points": 2604,
+    "points": 2712,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #9",
-    "points": 2605,
+    "points": 2713,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #09",
-    "points": 2606,
+    "points": 2714,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #09",
-    "points": 2607,
+    "points": 2715,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #009",
-    "points": 2608,
+    "points": 2716,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #009",
-    "points": 2609,
+    "points": 2717,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "orb of fortune",
-    "points": 2610,
+    "points": 2718,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "orb of fortune",
-    "points": 2611,
+    "points": 2719,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "orb of fortune",
-    "points": 2612,
+    "points": 2720,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09-orb-of-fortune-back.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 10",
-    "points": 2613,
+    "points": 2721,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 10",
-    "points": 2614,
+    "points": 2722,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 010",
-    "points": 2615,
+    "points": 2723,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 010",
-    "points": 2616,
+    "points": 2724,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #10",
-    "points": 2617,
+    "points": 2725,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #10",
-    "points": 2618,
+    "points": 2726,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #010",
-    "points": 2619,
+    "points": 2727,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #010",
-    "points": 2620,
+    "points": 2728,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "orb of despair",
-    "points": 2621,
+    "points": 2729,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "orb of despair",
-    "points": 2622,
+    "points": 2730,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "orb of despair",
-    "points": 2623,
+    "points": 2731,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10-orb-of-despair-back.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 11",
-    "points": 2624,
+    "points": 2732,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "item 011",
-    "points": 2625,
+    "points": 2733,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "item #11",
-    "points": 2626,
+    "points": 2734,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "item #011",
-    "points": 2627,
+    "points": 2735,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "pox antidote",
-    "points": 2628,
+    "points": 2736,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "pox antidote",
-    "points": 2629,
+    "points": 2737,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote-back.png",
     "xws": "poxantidote"
   },
   {
     "name": "item 12",
-    "points": 2630,
+    "points": 2738,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item 012",
-    "points": 2631,
+    "points": 2739,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item #12",
-    "points": 2632,
+    "points": 2740,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item #012",
-    "points": 2633,
+    "points": 2741,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "trophy helm",
-    "points": 2634,
+    "points": 2742,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "trophy helm",
-    "points": 2635,
+    "points": 2743,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm-back.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item 13",
-    "points": 2636,
+    "points": 2744,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item 13",
-    "points": 2637,
+    "points": 2745,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item 013",
-    "points": 2638,
+    "points": 2746,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item 013",
-    "points": 2639,
+    "points": 2747,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #13",
-    "points": 2640,
+    "points": 2748,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #13",
-    "points": 2641,
+    "points": 2749,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #013",
-    "points": 2642,
+    "points": 2750,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #013",
-    "points": 2643,
+    "points": 2751,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "war pick",
-    "points": 2644,
+    "points": 2752,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "war pick",
-    "points": 2645,
+    "points": 2753,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "war pick",
-    "points": 2646,
+    "points": 2754,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13-war-pick-back.png",
     "xws": "warpick"
   },
   {
     "name": "item 14",
-    "points": 2647,
+    "points": 2755,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item 14",
-    "points": 2648,
+    "points": 2756,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item 014",
-    "points": 2649,
+    "points": 2757,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item 014",
-    "points": 2650,
+    "points": 2758,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #14",
-    "points": 2651,
+    "points": 2759,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #14",
-    "points": 2652,
+    "points": 2760,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #014",
-    "points": 2653,
+    "points": 2761,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #014",
-    "points": 2654,
+    "points": 2762,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "chain mace",
-    "points": 2655,
+    "points": 2763,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "chain mace",
-    "points": 2656,
+    "points": 2764,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "chain mace",
-    "points": 2657,
+    "points": 2765,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14-chain-mace-back.png",
     "xws": "chainmace"
   },
   {
     "name": "item 15",
-    "points": 2658,
+    "points": 2766,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 15",
-    "points": 2659,
+    "points": 2767,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 015",
-    "points": 2660,
+    "points": 2768,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 015",
-    "points": 2661,
+    "points": 2769,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #15",
-    "points": 2662,
+    "points": 2770,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #15",
-    "points": 2663,
+    "points": 2771,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #015",
-    "points": 2664,
+    "points": 2772,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #015",
-    "points": 2665,
+    "points": 2773,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "draining greaves",
-    "points": 2666,
+    "points": 2774,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "draining greaves",
-    "points": 2667,
+    "points": 2775,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "draining greaves",
-    "points": 2668,
+    "points": 2776,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15-draining-greaves-back.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 16",
-    "points": 2669,
+    "points": 2777,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item 016",
-    "points": 2670,
+    "points": 2778,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item #16",
-    "points": 2671,
+    "points": 2779,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item #016",
-    "points": 2672,
+    "points": 2780,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "shoes of phasing",
-    "points": 2673,
+    "points": 2781,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "shoes of phasing",
-    "points": 2674,
+    "points": 2782,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing-back.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item 17",
-    "points": 2675,
+    "points": 2783,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 17",
-    "points": 2676,
+    "points": 2784,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 017",
-    "points": 2677,
+    "points": 2785,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 017",
-    "points": 2678,
+    "points": 2786,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #17",
-    "points": 2679,
+    "points": 2787,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #17",
-    "points": 2680,
+    "points": 2788,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #017",
-    "points": 2681,
+    "points": 2789,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #017",
-    "points": 2682,
+    "points": 2790,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "lightweight boots",
-    "points": 2683,
+    "points": 2791,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "lightweight boots",
-    "points": 2684,
+    "points": 2792,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "lightweight boots",
-    "points": 2685,
+    "points": 2793,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17-lightweight-boots-back.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 18",
-    "points": 2686,
+    "points": 2794,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 18",
-    "points": 2687,
+    "points": 2795,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 018",
-    "points": 2688,
+    "points": 2796,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 018",
-    "points": 2689,
+    "points": 2797,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #18",
-    "points": 2690,
+    "points": 2798,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #18",
-    "points": 2691,
+    "points": 2799,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #018",
-    "points": 2692,
+    "points": 2800,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #018",
-    "points": 2693,
+    "points": 2801,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "bottled moonlight",
-    "points": 2694,
+    "points": 2802,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "bottled moonlight",
-    "points": 2695,
+    "points": 2803,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "bottled moonlight",
-    "points": 2696,
+    "points": 2804,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18-bottled-moonlight-back.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 19",
-    "points": 2697,
+    "points": 2805,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item 019",
-    "points": 2698,
+    "points": 2806,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item #19",
-    "points": 2699,
+    "points": 2807,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item #019",
-    "points": 2700,
+    "points": 2808,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "boots of perpetuity",
-    "points": 2701,
+    "points": 2809,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "boots of perpetuity",
-    "points": 2702,
+    "points": 2810,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity-back.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item 20",
-    "points": 2703,
+    "points": 2811,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 20",
-    "points": 2704,
+    "points": 2812,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 020",
-    "points": 2705,
+    "points": 2813,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 020",
-    "points": 2706,
+    "points": 2814,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #20",
-    "points": 2707,
+    "points": 2815,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #20",
-    "points": 2708,
+    "points": 2816,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #020",
-    "points": 2709,
+    "points": 2817,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #020",
-    "points": 2710,
+    "points": 2818,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "curious pendant",
-    "points": 2711,
+    "points": 2819,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "curious pendant",
-    "points": 2712,
+    "points": 2820,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "curious pendant",
-    "points": 2713,
+    "points": 2821,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20-curious-pendant-back.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 21",
-    "points": 2714,
+    "points": 2822,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item 021",
-    "points": 2715,
+    "points": 2823,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item #21",
-    "points": 2716,
+    "points": 2824,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item #021",
-    "points": 2717,
+    "points": 2825,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "infrared goggles",
-    "points": 2718,
+    "points": 2826,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "infrared goggles",
-    "points": 2719,
+    "points": 2827,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles-back.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item 22",
-    "points": 2720,
+    "points": 2828,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 22",
-    "points": 2721,
+    "points": 2829,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 022",
-    "points": 2722,
+    "points": 2830,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 022",
-    "points": 2723,
+    "points": 2831,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #22",
-    "points": 2724,
+    "points": 2832,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #22",
-    "points": 2725,
+    "points": 2833,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #022",
-    "points": 2726,
+    "points": 2834,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #022",
-    "points": 2727,
+    "points": 2835,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "steel helmet",
-    "points": 2728,
+    "points": 2836,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "steel helmet",
-    "points": 2729,
+    "points": 2837,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "steel helmet",
-    "points": 2730,
+    "points": 2838,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22-steel-helmet-back.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 23",
-    "points": 2731,
+    "points": 2839,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 23",
-    "points": 2732,
+    "points": 2840,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 023",
-    "points": 2733,
+    "points": 2841,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 023",
-    "points": 2734,
+    "points": 2842,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #23",
-    "points": 2735,
+    "points": 2843,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #23",
-    "points": 2736,
+    "points": 2844,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #023",
-    "points": 2737,
+    "points": 2845,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #023",
-    "points": 2738,
+    "points": 2846,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "woven plate armor",
-    "points": 2739,
+    "points": 2847,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "woven plate armor",
-    "points": 2740,
+    "points": 2848,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "woven plate armor",
-    "points": 2741,
+    "points": 2849,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23-woven-plate-armor-back.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 24",
-    "points": 2742,
+    "points": 2850,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 24",
-    "points": 2743,
+    "points": 2851,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 024",
-    "points": 2744,
+    "points": 2852,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 024",
-    "points": 2745,
+    "points": 2853,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #24",
-    "points": 2746,
+    "points": 2854,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #24",
-    "points": 2747,
+    "points": 2855,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #024",
-    "points": 2748,
+    "points": 2856,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #024",
-    "points": 2749,
+    "points": 2857,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "mantle of purity",
-    "points": 2750,
+    "points": 2858,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "mantle of purity",
-    "points": 2751,
+    "points": 2859,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "mantle of purity",
-    "points": 2752,
+    "points": 2860,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24-mantle-of-purity-back.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 25",
-    "points": 2753,
+    "points": 2861,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 25",
-    "points": 2754,
+    "points": 2862,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 025",
-    "points": 2755,
+    "points": 2863,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 025",
-    "points": 2756,
+    "points": 2864,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #25",
-    "points": 2757,
+    "points": 2865,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #25",
-    "points": 2758,
+    "points": 2866,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #025",
-    "points": 2759,
+    "points": 2867,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #025",
-    "points": 2760,
+    "points": 2868,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "boneclad shawl",
-    "points": 2761,
+    "points": 2869,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "boneclad shawl",
-    "points": 2762,
+    "points": 2870,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "boneclad shawl",
-    "points": 2763,
+    "points": 2871,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25-boneclad-shawl-back.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 26",
-    "points": 2764,
+    "points": 2872,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item 026",
-    "points": 2765,
+    "points": 2873,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item #26",
-    "points": 2766,
+    "points": 2874,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item #026",
-    "points": 2767,
+    "points": 2875,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "silhouette cuirass",
-    "points": 2768,
+    "points": 2876,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "silhouette cuirass",
-    "points": 2769,
+    "points": 2877,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass-back.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item 27",
-    "points": 2770,
+    "points": 2878,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item 027",
-    "points": 2771,
+    "points": 2879,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item #27",
-    "points": 2772,
+    "points": 2880,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item #027",
-    "points": 2773,
+    "points": 2881,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "translocation device",
-    "points": 2774,
+    "points": 2882,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "translocation device",
-    "points": 2775,
+    "points": 2883,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device-back.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item 28",
-    "points": 2776,
+    "points": 2884,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 28",
-    "points": 2777,
+    "points": 2885,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 028",
-    "points": 2778,
+    "points": 2886,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 028",
-    "points": 2779,
+    "points": 2887,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #28",
-    "points": 2780,
+    "points": 2888,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #28",
-    "points": 2781,
+    "points": 2889,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #028",
-    "points": 2782,
+    "points": 2890,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #028",
-    "points": 2783,
+    "points": 2891,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "alchemy potion",
-    "points": 2784,
+    "points": 2892,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "alchemy potion",
-    "points": 2785,
+    "points": 2893,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "alchemy potion",
-    "points": 2786,
+    "points": 2894,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28-alchemy-potion-back.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 29",
-    "points": 2787,
+    "points": 2895,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item 029",
-    "points": 2788,
+    "points": 2896,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item #29",
-    "points": 2789,
+    "points": 2897,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item #029",
-    "points": 2790,
+    "points": 2898,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "intoxicating potion",
-    "points": 2791,
+    "points": 2899,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "intoxicating potion",
-    "points": 2792,
+    "points": 2900,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion-back.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item 30",
-    "points": 2793,
+    "points": 2901,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 30",
-    "points": 2794,
+    "points": 2902,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 030",
-    "points": 2795,
+    "points": 2903,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 030",
-    "points": 2796,
+    "points": 2904,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #30",
-    "points": 2797,
+    "points": 2905,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #30",
-    "points": 2798,
+    "points": 2906,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #030",
-    "points": 2799,
+    "points": 2907,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #030",
-    "points": 2800,
+    "points": 2908,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "iron snare",
-    "points": 2801,
+    "points": 2909,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "iron snare",
-    "points": 2802,
+    "points": 2910,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "iron snare",
-    "points": 2803,
+    "points": 2911,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30-iron-snare-back.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 31",
-    "points": 2804,
+    "points": 2912,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 31",
-    "points": 2805,
+    "points": 2913,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 031",
-    "points": 2806,
+    "points": 2914,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 031",
-    "points": 2807,
+    "points": 2915,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #31",
-    "points": 2808,
+    "points": 2916,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #31",
-    "points": 2809,
+    "points": 2917,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #031",
-    "points": 2810,
+    "points": 2918,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #031",
-    "points": 2811,
+    "points": 2919,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "concussion mine",
-    "points": 2812,
+    "points": 2920,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "concussion mine",
-    "points": 2813,
+    "points": 2921,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "concussion mine",
-    "points": 2814,
+    "points": 2922,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31-concussion-mine-back.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 32",
-    "points": 2815,
+    "points": 2923,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item 032",
-    "points": 2816,
+    "points": 2924,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item #32",
-    "points": 2817,
+    "points": 2925,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item #032",
-    "points": 2818,
+    "points": 2926,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "shifting compass",
-    "points": 2819,
+    "points": 2927,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "shifting compass",
-    "points": 2820,
+    "points": 2928,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass-back.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item 33",
-    "points": 2821,
+    "points": 2929,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "item 033",
-    "points": 2822,
+    "points": 2930,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "item #33",
-    "points": 2823,
+    "points": 2931,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "item #033",
-    "points": 2824,
+    "points": 2932,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "battering ram",
-    "points": 2825,
+    "points": 2933,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "battering ram",
-    "points": 2826,
+    "points": 2934,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram-back.png",
     "xws": "batteringram"
   },
   {
     "name": "item 34",
-    "points": 2827,
+    "points": 2935,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "item 034",
-    "points": 2828,
+    "points": 2936,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "item #34",
-    "points": 2829,
+    "points": 2937,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "item #034",
-    "points": 2830,
+    "points": 2938,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "claw trap",
-    "points": 2831,
+    "points": 2939,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "claw trap",
-    "points": 2832,
+    "points": 2940,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap-back.png",
     "xws": "clawtrap"
   },
   {
     "name": "item 35",
-    "points": 2833,
+    "points": 2941,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item 035",
-    "points": 2834,
+    "points": 2942,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item #35",
-    "points": 2835,
+    "points": 2943,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item #035",
-    "points": 2836,
+    "points": 2944,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "staff of retribution",
-    "points": 2837,
+    "points": 2945,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "staff of retribution",
-    "points": 2838,
+    "points": 2946,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution-back.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item 36",
-    "points": 2839,
+    "points": 2947,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item 036",
-    "points": 2840,
+    "points": 2948,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item #36",
-    "points": 2841,
+    "points": 2949,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item #036",
-    "points": 2842,
+    "points": 2950,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "curseblood blade",
-    "points": 2843,
+    "points": 2951,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "curseblood blade",
-    "points": 2844,
+    "points": 2952,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade-back.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item 37",
-    "points": 2845,
+    "points": 2953,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 37",
-    "points": 2846,
+    "points": 2954,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 037",
-    "points": 2847,
+    "points": 2955,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 037",
-    "points": 2848,
+    "points": 2956,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #37",
-    "points": 2849,
+    "points": 2957,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #37",
-    "points": 2850,
+    "points": 2958,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #037",
-    "points": 2851,
+    "points": 2959,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #037",
-    "points": 2852,
+    "points": 2960,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "drakescale shield",
-    "points": 2853,
+    "points": 2961,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "drakescale shield",
-    "points": 2854,
+    "points": 2962,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "drakescale shield",
-    "points": 2855,
+    "points": 2963,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37-drakescale-shield-back.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 38",
-    "points": 2856,
+    "points": 2964,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item 038",
-    "points": 2857,
+    "points": 2965,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item #38",
-    "points": 2858,
+    "points": 2966,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item #038",
-    "points": 2859,
+    "points": 2967,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "drakescale dagger",
-    "points": 2860,
+    "points": 2968,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "drakescale dagger",
-    "points": 2861,
+    "points": 2969,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger-back.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item 39",
-    "points": 2862,
+    "points": 2970,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "item 039",
-    "points": 2863,
+    "points": 2971,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "item #39",
-    "points": 2864,
+    "points": 2972,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "item #039",
-    "points": 2865,
+    "points": 2973,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "hook shot",
-    "points": 2866,
+    "points": 2974,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "hook shot",
-    "points": 2867,
+    "points": 2975,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot-back.png",
     "xws": "hookshot"
   },
   {
     "name": "item 40",
-    "points": 2868,
+    "points": 2976,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item 040",
-    "points": 2869,
+    "points": 2977,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item #40",
-    "points": 2870,
+    "points": 2978,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item #040",
-    "points": 2871,
+    "points": 2979,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "moonleather boots",
-    "points": 2872,
+    "points": 2980,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "moonleather boots",
-    "points": 2873,
+    "points": 2981,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots-back.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item 41",
-    "points": 2874,
+    "points": 2982,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item 041",
-    "points": 2875,
+    "points": 2983,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item #41",
-    "points": 2876,
+    "points": 2984,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item #041",
-    "points": 2877,
+    "points": 2985,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "spirit libation",
-    "points": 2878,
+    "points": 2986,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "spirit libation",
-    "points": 2879,
+    "points": 2987,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation-back.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item 42",
-    "points": 2880,
+    "points": 2988,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item 042",
-    "points": 2881,
+    "points": 2989,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item #42",
-    "points": 2882,
+    "points": 2990,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item #042",
-    "points": 2883,
+    "points": 2991,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "robe of soothing",
-    "points": 2884,
+    "points": 2992,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "robe of soothing",
-    "points": 2885,
+    "points": 2993,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing-back.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item 43",
-    "points": 2886,
+    "points": 2994,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item 043",
-    "points": 2887,
+    "points": 2995,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item #43",
-    "points": 2888,
+    "points": 2996,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item #043",
-    "points": 2889,
+    "points": 2997,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "resplendent mitre",
-    "points": 2890,
+    "points": 2998,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "resplendent mitre",
-    "points": 2891,
+    "points": 2999,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre-back.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item 44",
-    "points": 2892,
+    "points": 3000,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item 044",
-    "points": 2893,
+    "points": 3001,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item #44",
-    "points": 2894,
+    "points": 3002,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item #044",
-    "points": 2895,
+    "points": 3003,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "canister projectile",
-    "points": 2896,
+    "points": 3004,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "canister projectile",
-    "points": 2897,
+    "points": 3005,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile-back.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item 45",
-    "points": 2898,
+    "points": 3006,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "item 045",
-    "points": 2899,
+    "points": 3007,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "item #45",
-    "points": 2900,
+    "points": 3008,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "item #045",
-    "points": 2901,
+    "points": 3009,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "chain cannon",
-    "points": 2902,
+    "points": 3010,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "chain cannon",
-    "points": 2903,
+    "points": 3011,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon-back.png",
     "xws": "chaincannon"
   },
   {
     "name": "item 46",
-    "points": 2904,
+    "points": 3012,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item 046",
-    "points": 2905,
+    "points": 3013,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item #46",
-    "points": 2906,
+    "points": 3014,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item #046",
-    "points": 2907,
+    "points": 3015,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "summoner's whistle",
-    "points": 2908,
+    "points": 3016,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "summoner's whistle",
-    "points": 2909,
+    "points": 3017,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle-back.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item 47",
-    "points": 2910,
+    "points": 3018,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item 047",
-    "points": 2911,
+    "points": 3019,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item #47",
-    "points": 2912,
+    "points": 3020,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item #047",
-    "points": 2913,
+    "points": 3021,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "nature armlets",
-    "points": 2914,
+    "points": 3022,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "nature armlets",
-    "points": 2915,
+    "points": 3023,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets-back.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item 48",
-    "points": 2916,
+    "points": 3024,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "item 048",
-    "points": 2917,
+    "points": 3025,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "item #48",
-    "points": 2918,
+    "points": 3026,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "item #048",
-    "points": 2919,
+    "points": 3027,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "test tube",
-    "points": 2920,
+    "points": 3028,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "test tube",
-    "points": 2921,
+    "points": 3029,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube-back.png",
     "xws": "testtube"
   },
   {
     "name": "item 49",
-    "points": 2922,
+    "points": 3030,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "item 049",
-    "points": 2923,
+    "points": 3031,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "item #49",
-    "points": 2924,
+    "points": 3032,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "item #049",
-    "points": 2925,
+    "points": 3033,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "booster shot",
-    "points": 2926,
+    "points": 3034,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "booster shot",
-    "points": 2927,
+    "points": 3035,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot-back.png",
     "xws": "boostershot"
   },
   {
     "name": "item 50",
-    "points": 2928,
+    "points": 3036,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item 050",
-    "points": 2929,
+    "points": 3037,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item #50",
-    "points": 2930,
+    "points": 3038,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item #050",
-    "points": 2931,
+    "points": 3039,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "luminous carapace",
-    "points": 2932,
+    "points": 3040,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "luminous carapace",
-    "points": 2933,
+    "points": 3041,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace-back.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item 51",
-    "points": 2934,
+    "points": 3042,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item 051",
-    "points": 2935,
+    "points": 3043,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item #51",
-    "points": 2936,
+    "points": 3044,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item #051",
-    "points": 2937,
+    "points": 3045,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "flaming armor",
-    "points": 2938,
+    "points": 3046,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "flaming armor",
-    "points": 2939,
+    "points": 3047,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor-back.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item 52",
-    "points": 2940,
+    "points": 3048,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item 052",
-    "points": 2941,
+    "points": 3049,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item #52",
-    "points": 2942,
+    "points": 3050,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item #052",
-    "points": 2943,
+    "points": 3051,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "flaming axe",
-    "points": 2944,
+    "points": 3052,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "flaming axe",
-    "points": 2945,
+    "points": 3053,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe-back.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item 53",
-    "points": 2946,
+    "points": 3054,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item 053",
-    "points": 2947,
+    "points": 3055,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item #53",
-    "points": 2948,
+    "points": 3056,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item #053",
-    "points": 2949,
+    "points": 3057,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "field mortar",
-    "points": 2950,
+    "points": 3058,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "field mortar",
-    "points": 2951,
+    "points": 3059,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar-back.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item 54",
-    "points": 2952,
+    "points": 3060,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item 054",
-    "points": 2953,
+    "points": 3061,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item #54",
-    "points": 2954,
+    "points": 3062,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item #054",
-    "points": 2955,
+    "points": 3063,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "vipertooth dagger",
-    "points": 2956,
+    "points": 3064,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "vipertooth dagger",
-    "points": 2957,
+    "points": 3065,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger-back.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item 55",
-    "points": 2958,
+    "points": 3066,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 55",
-    "points": 2959,
+    "points": 3067,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 055",
-    "points": 2960,
+    "points": 3068,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 055",
-    "points": 2961,
+    "points": 3069,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #55",
-    "points": 2962,
+    "points": 3070,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #55",
-    "points": 2963,
+    "points": 3071,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #055",
-    "points": 2964,
+    "points": 3072,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #055",
-    "points": 2965,
+    "points": 3073,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "ghost viper venom",
-    "points": 2966,
+    "points": 3074,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "ghost viper venom",
-    "points": 2967,
+    "points": 3075,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "ghost viper venom",
-    "points": 2968,
+    "points": 3076,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55-ghost-viper-venom-back.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 56",
-    "points": 2969,
+    "points": 3077,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "item 056",
-    "points": 2970,
+    "points": 3078,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "item #56",
-    "points": 2971,
+    "points": 3079,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "item #056",
-    "points": 2972,
+    "points": 3080,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "clamp trap",
-    "points": 2973,
+    "points": 3081,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "clamp trap",
-    "points": 2974,
+    "points": 3082,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap-back.png",
     "xws": "clamptrap"
   },
   {
     "name": "item 57",
-    "points": 2975,
+    "points": 3083,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item 057",
-    "points": 2976,
+    "points": 3084,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item #57",
-    "points": 2977,
+    "points": 3085,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item #057",
-    "points": 2978,
+    "points": 3086,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "cleansed voidheart",
-    "points": 2979,
+    "points": 3087,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "cleansed voidheart",
-    "points": 2980,
+    "points": 3088,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart-back.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item 58",
-    "points": 2981,
+    "points": 3089,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 58",
-    "points": 2982,
+    "points": 3090,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 058",
-    "points": 2983,
+    "points": 3091,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 058",
-    "points": 2984,
+    "points": 3092,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #58",
-    "points": 2985,
+    "points": 3093,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #58",
-    "points": 2986,
+    "points": 3094,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #058",
-    "points": 2987,
+    "points": 3095,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #058",
-    "points": 2988,
+    "points": 3096,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "dizzying tincture",
-    "points": 2989,
+    "points": 3097,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "dizzying tincture",
-    "points": 2990,
+    "points": 3098,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "dizzying tincture",
-    "points": 2991,
+    "points": 3099,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58-dizzying-tincture-back.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 59",
-    "points": 2992,
+    "points": 3100,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 59",
-    "points": 2993,
+    "points": 3101,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 059",
-    "points": 2994,
+    "points": 3102,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 059",
-    "points": 2995,
+    "points": 3103,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #59",
-    "points": 2996,
+    "points": 3104,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #59",
-    "points": 2997,
+    "points": 3105,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #059",
-    "points": 2998,
+    "points": 3106,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #059",
-    "points": 2999,
+    "points": 3107,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "drake's blood",
-    "points": 3000,
+    "points": 3108,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "drake's blood",
-    "points": 3001,
+    "points": 3109,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "drake's blood",
-    "points": 3002,
+    "points": 3110,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59-drakes-blood-back.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 60",
-    "points": 3003,
+    "points": 3111,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 60",
-    "points": 3004,
+    "points": 3112,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 060",
-    "points": 3005,
+    "points": 3113,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 060",
-    "points": 3006,
+    "points": 3114,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #60",
-    "points": 3007,
+    "points": 3115,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #60",
-    "points": 3008,
+    "points": 3116,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #060",
-    "points": 3009,
+    "points": 3117,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #060",
-    "points": 3010,
+    "points": 3118,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "mana medicine",
-    "points": 3011,
+    "points": 3119,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "mana medicine",
-    "points": 3012,
+    "points": 3120,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "mana medicine",
-    "points": 3013,
+    "points": 3121,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60-mana-medicine-back.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 61",
-    "points": 3014,
+    "points": 3122,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item 061",
-    "points": 3015,
+    "points": 3123,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item #61",
-    "points": 3016,
+    "points": 3124,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item #061",
-    "points": 3017,
+    "points": 3125,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "ashsteel gauntlets",
-    "points": 3018,
+    "points": 3126,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "ashsteel gauntlets",
-    "points": 3019,
+    "points": 3127,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets-back.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item 62",
-    "points": 3020,
+    "points": 3128,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "item 062",
-    "points": 3021,
+    "points": 3129,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "item #62",
-    "points": 3022,
+    "points": 3130,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "item #062",
-    "points": 3023,
+    "points": 3131,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "smog emitter",
-    "points": 3024,
+    "points": 3132,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "smog emitter",
-    "points": 3025,
+    "points": 3133,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter-back.png",
     "xws": "smogemitter"
   },
   {
     "name": "item 63",
-    "points": 3026,
+    "points": 3134,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item 063",
-    "points": 3027,
+    "points": 3135,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item #63",
-    "points": 3028,
+    "points": 3136,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item #063",
-    "points": 3029,
+    "points": 3137,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "lucky horseshoe",
-    "points": 3030,
+    "points": 3138,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "lucky horseshoe",
-    "points": 3031,
+    "points": 3139,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe-back.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item 64",
-    "points": 3032,
+    "points": 3140,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item 064",
-    "points": 3033,
+    "points": 3141,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item #64",
-    "points": 3034,
+    "points": 3142,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item #064",
-    "points": 3035,
+    "points": 3143,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "mild kindled tonic",
-    "points": 3036,
+    "points": 3144,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "mild kindled tonic",
-    "points": 3037,
+    "points": 3145,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic-back.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item 65",
-    "points": 3038,
+    "points": 3146,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item 065",
-    "points": 3039,
+    "points": 3147,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item #65",
-    "points": 3040,
+    "points": 3148,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item #065",
-    "points": 3041,
+    "points": 3149,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "rescue axe",
-    "points": 3042,
+    "points": 3150,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "rescue axe",
-    "points": 3043,
+    "points": 3151,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe-back.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item 66",
-    "points": 3044,
+    "points": 3152,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item 066",
-    "points": 3045,
+    "points": 3153,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item #66",
-    "points": 3046,
+    "points": 3154,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item #066",
-    "points": 3047,
+    "points": 3155,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "iron malleus",
-    "points": 3048,
+    "points": 3156,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "iron malleus",
-    "points": 3049,
+    "points": 3157,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus-back.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item 67",
-    "points": 3050,
+    "points": 3158,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "item 067",
-    "points": 3051,
+    "points": 3159,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "item #67",
-    "points": 3052,
+    "points": 3160,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "item #067",
-    "points": 3053,
+    "points": 3161,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "pike hook",
-    "points": 3054,
+    "points": 3162,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "pike hook",
-    "points": 3055,
+    "points": 3163,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook-back.png",
     "xws": "pikehook"
   },
   {
     "name": "item 68",
-    "points": 3056,
+    "points": 3164,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item 068",
-    "points": 3057,
+    "points": 3165,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item #68",
-    "points": 3058,
+    "points": 3166,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item #068",
-    "points": 3059,
+    "points": 3167,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "explosive tonic",
-    "points": 3060,
+    "points": 3168,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "explosive tonic",
-    "points": 3061,
+    "points": 3169,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic-back.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item 69",
-    "points": 3062,
+    "points": 3170,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item 069",
-    "points": 3063,
+    "points": 3171,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item #69",
-    "points": 3064,
+    "points": 3172,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item #069",
-    "points": 3065,
+    "points": 3173,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "spicy kindled tonic",
-    "points": 3066,
+    "points": 3174,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "spicy kindled tonic",
-    "points": 3067,
+    "points": 3175,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic-back.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item 70",
-    "points": 3068,
+    "points": 3176,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "item 070",
-    "points": 3069,
+    "points": 3177,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "item #70",
-    "points": 3070,
+    "points": 3178,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "item #070",
-    "points": 3071,
+    "points": 3179,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "utility rope",
-    "points": 3072,
+    "points": 3180,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "utility rope",
-    "points": 3073,
+    "points": 3181,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope-back.png",
     "xws": "utilityrope"
   },
   {
     "name": "item 71",
-    "points": 3074,
+    "points": 3182,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item 071",
-    "points": 3075,
+    "points": 3183,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item #71",
-    "points": 3076,
+    "points": 3184,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item #071",
-    "points": 3077,
+    "points": 3185,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "fireproof helm",
-    "points": 3078,
+    "points": 3186,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "fireproof helm",
-    "points": 3079,
+    "points": 3187,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm-back.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item 72",
-    "points": 3080,
+    "points": 3188,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "item 072",
-    "points": 3081,
+    "points": 3189,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "item #72",
-    "points": 3082,
+    "points": 3190,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "item #072",
-    "points": 3083,
+    "points": 3191,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "wooden ladder",
-    "points": 3084,
+    "points": 3192,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "wooden ladder",
-    "points": 3085,
+    "points": 3193,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder-back.png",
     "xws": "woodenladder"
   },
   {
     "name": "item 73",
-    "points": 3086,
+    "points": 3194,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "item 073",
-    "points": 3087,
+    "points": 3195,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "item #73",
-    "points": 3088,
+    "points": 3196,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "item #073",
-    "points": 3089,
+    "points": 3197,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "medical kit",
-    "points": 3090,
+    "points": 3198,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "medical kit",
-    "points": 3091,
+    "points": 3199,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit-back.png",
     "xws": "medicalkit"
   },
   {
     "name": "item 74",
-    "points": 3092,
+    "points": 3200,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item 074",
-    "points": 3093,
+    "points": 3201,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item #74",
-    "points": 3094,
+    "points": 3202,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item #074",
-    "points": 3095,
+    "points": 3203,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "mild bolstering tonic",
-    "points": 3096,
+    "points": 3204,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "mild bolstering tonic",
-    "points": 3097,
+    "points": 3205,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic-back.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item 75",
-    "points": 3098,
+    "points": 3206,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item 075",
-    "points": 3099,
+    "points": 3207,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item #75",
-    "points": 3100,
+    "points": 3208,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item #075",
-    "points": 3101,
+    "points": 3209,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "medallion of the oak",
-    "points": 3102,
+    "points": 3210,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "medallion of the oak",
-    "points": 3103,
+    "points": 3211,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak-back.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item 76",
-    "points": 3104,
+    "points": 3212,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item 076",
-    "points": 3105,
+    "points": 3213,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item #76",
-    "points": 3106,
+    "points": 3214,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item #076",
-    "points": 3107,
+    "points": 3215,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "cauterizing knife",
-    "points": 3108,
+    "points": 3216,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "cauterizing knife",
-    "points": 3109,
+    "points": 3217,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife-back.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item 77",
-    "points": 3110,
+    "points": 3218,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "item 077",
-    "points": 3111,
+    "points": 3219,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "item #77",
-    "points": 3112,
+    "points": 3220,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "item #077",
-    "points": 3113,
+    "points": 3221,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "trauma kit",
-    "points": 3114,
+    "points": 3222,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "trauma kit",
-    "points": 3115,
+    "points": 3223,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit-back.png",
     "xws": "traumakit"
   },
   {
     "name": "item 78",
-    "points": 3116,
+    "points": 3224,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item 078",
-    "points": 3117,
+    "points": 3225,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item #78",
-    "points": 3118,
+    "points": 3226,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item #078",
-    "points": 3119,
+    "points": 3227,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "scroll of charisma",
-    "points": 3120,
+    "points": 3228,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "scroll of charisma",
-    "points": 3121,
+    "points": 3229,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma-back.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item 79",
-    "points": 3122,
+    "points": 3230,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "item 079",
-    "points": 3123,
+    "points": 3231,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "item #79",
-    "points": 3124,
+    "points": 3232,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "item #079",
-    "points": 3125,
+    "points": 3233,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "rescue shield",
-    "points": 3126,
+    "points": 3234,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "rescue shield",
-    "points": 3127,
+    "points": 3235,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield-back.png",
     "xws": "rescueshield"
   },
   {
     "name": "item 80",
-    "points": 3128,
+    "points": 3236,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item 080",
-    "points": 3129,
+    "points": 3237,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item #80",
-    "points": 3130,
+    "points": 3238,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item #080",
-    "points": 3131,
+    "points": 3239,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "scroll of protection",
-    "points": 3132,
+    "points": 3240,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "scroll of protection",
-    "points": 3133,
+    "points": 3241,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection-back.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item 81",
-    "points": 3134,
+    "points": 3242,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item 081",
-    "points": 3135,
+    "points": 3243,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item #81",
-    "points": 3136,
+    "points": 3244,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item #081",
-    "points": 3137,
+    "points": 3245,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "spicy bolstering tonic",
-    "points": 3138,
+    "points": 3246,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "spicy bolstering tonic",
-    "points": 3139,
+    "points": 3247,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic-back.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item 82",
-    "points": 3140,
+    "points": 3248,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item 082",
-    "points": 3141,
+    "points": 3249,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item #82",
-    "points": 3142,
+    "points": 3250,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item #082",
-    "points": 3143,
+    "points": 3251,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "scroll of command",
-    "points": 3144,
+    "points": 3252,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "scroll of command",
-    "points": 3145,
+    "points": 3253,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command-back.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item 83",
-    "points": 3146,
+    "points": 3254,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item 083",
-    "points": 3147,
+    "points": 3255,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item #83",
-    "points": 3148,
+    "points": 3256,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item #083",
-    "points": 3149,
+    "points": 3257,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "sphere of currents",
-    "points": 3150,
+    "points": 3258,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "sphere of currents",
-    "points": 3151,
+    "points": 3259,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents-back.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item 84",
-    "points": 3152,
+    "points": 3260,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item 084",
-    "points": 3153,
+    "points": 3261,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item #84",
-    "points": 3154,
+    "points": 3262,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item #084",
-    "points": 3155,
+    "points": 3263,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "slug crossbow",
-    "points": 3156,
+    "points": 3264,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "slug crossbow",
-    "points": 3157,
+    "points": 3265,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow-back.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item 85",
-    "points": 3158,
+    "points": 3266,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item 085",
-    "points": 3159,
+    "points": 3267,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item #85",
-    "points": 3160,
+    "points": 3268,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item #085",
-    "points": 3161,
+    "points": 3269,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "refined slug crossbow",
-    "points": 3162,
+    "points": 3270,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "refined slug crossbow",
-    "points": 3163,
+    "points": 3271,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow-back.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item 86",
-    "points": 3164,
+    "points": 3272,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item 086",
-    "points": 3165,
+    "points": 3273,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item #86",
-    "points": 3166,
+    "points": 3274,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item #086",
-    "points": 3167,
+    "points": 3275,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "bulwark banner",
-    "points": 3168,
+    "points": 3276,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "bulwark banner",
-    "points": 3169,
+    "points": 3277,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner-back.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item 87",
-    "points": 3170,
+    "points": 3278,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item 087",
-    "points": 3171,
+    "points": 3279,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item #87",
-    "points": 3172,
+    "points": 3280,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item #087",
-    "points": 3173,
+    "points": 3281,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "refined bulwark banner",
-    "points": 3174,
+    "points": 3282,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "refined bulwark banner",
-    "points": 3175,
+    "points": 3283,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner-back.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item 88",
-    "points": 3176,
+    "points": 3284,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item 088",
-    "points": 3177,
+    "points": 3285,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item #88",
-    "points": 3178,
+    "points": 3286,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item #088",
-    "points": 3179,
+    "points": 3287,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "remote beetle",
-    "points": 3180,
+    "points": 3288,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "remote beetle",
-    "points": 3181,
+    "points": 3289,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle-back.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item 89",
-    "points": 3182,
+    "points": 3290,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item 089",
-    "points": 3183,
+    "points": 3291,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item #89",
-    "points": 3184,
+    "points": 3292,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item #089",
-    "points": 3185,
+    "points": 3293,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "refined remote beetle",
-    "points": 3186,
+    "points": 3294,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "refined remote beetle",
-    "points": 3187,
+    "points": 3295,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle-back.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item 90",
-    "points": 3188,
+    "points": 3296,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "item 090",
-    "points": 3189,
+    "points": 3297,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "item #90",
-    "points": 3190,
+    "points": 3298,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "item #090",
-    "points": 3191,
+    "points": 3299,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "blazing boots",
-    "points": 3192,
+    "points": 3300,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "blazing boots",
-    "points": 3193,
+    "points": 3301,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots-back.png",
     "xws": "blazingboots"
   },
   {
     "name": "item 91",
-    "points": 3194,
+    "points": 3302,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item 091",
-    "points": 3195,
+    "points": 3303,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item #91",
-    "points": 3196,
+    "points": 3304,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item #091",
-    "points": 3197,
+    "points": 3305,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "refined blazing boots",
-    "points": 3198,
+    "points": 3306,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "refined blazing boots",
-    "points": 3199,
+    "points": 3307,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots-back.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item 92",
-    "points": 3200,
+    "points": 3308,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item 092",
-    "points": 3201,
+    "points": 3309,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item #92",
-    "points": 3202,
+    "points": 3310,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item #092",
-    "points": 3203,
+    "points": 3311,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "viper blowgun",
-    "points": 3204,
+    "points": 3312,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "viper blowgun",
-    "points": 3205,
+    "points": 3313,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun-back.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item 93",
-    "points": 3206,
+    "points": 3314,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item 093",
-    "points": 3207,
+    "points": 3315,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item #93",
-    "points": 3208,
+    "points": 3316,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item #093",
-    "points": 3209,
+    "points": 3317,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "refined viper blowgun",
-    "points": 3210,
+    "points": 3318,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "refined viper blowgun",
-    "points": 3211,
+    "points": 3319,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun-back.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item 94",
-    "points": 3212,
+    "points": 3320,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "item 094",
-    "points": 3213,
+    "points": 3321,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "item #94",
-    "points": 3214,
+    "points": 3322,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "item #094",
-    "points": 3215,
+    "points": 3323,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "frost stone",
-    "points": 3216,
+    "points": 3324,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "frost stone",
-    "points": 3217,
+    "points": 3325,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone-back.png",
     "xws": "froststone"
   },
   {
     "name": "item 95",
-    "points": 3218,
+    "points": 3326,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "item 095",
-    "points": 3219,
+    "points": 3327,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "item #95",
-    "points": 3220,
+    "points": 3328,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "item #095",
-    "points": 3221,
+    "points": 3329,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "storm stone",
-    "points": 3222,
+    "points": 3330,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "storm stone",
-    "points": 3223,
+    "points": 3331,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone-back.png",
     "xws": "stormstone"
   },
   {
     "name": "item 96",
-    "points": 3224,
+    "points": 3332,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "item 096",
-    "points": 3225,
+    "points": 3333,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "item #96",
-    "points": 3226,
+    "points": 3334,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "item #096",
-    "points": 3227,
+    "points": 3335,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "inferno stone",
-    "points": 3228,
+    "points": 3336,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "inferno stone",
-    "points": 3229,
+    "points": 3337,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone-back.png",
     "xws": "infernostone"
   },
   {
     "name": "item 97",
-    "points": 3230,
+    "points": 3338,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "item 097",
-    "points": 3231,
+    "points": 3339,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "item #97",
-    "points": 3232,
+    "points": 3340,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "item #097",
-    "points": 3233,
+    "points": 3341,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "tremor stone",
-    "points": 3234,
+    "points": 3342,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "tremor stone",
-    "points": 3235,
+    "points": 3343,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone-back.png",
     "xws": "tremorstone"
   },
   {
     "name": "item 98",
-    "points": 3236,
+    "points": 3344,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item 098",
-    "points": 3237,
+    "points": 3345,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item #98",
-    "points": 3238,
+    "points": 3346,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item #098",
-    "points": 3239,
+    "points": 3347,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "brilliant stone",
-    "points": 3240,
+    "points": 3348,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "brilliant stone",
-    "points": 3241,
+    "points": 3349,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone-back.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item 99",
-    "points": 3242,
+    "points": 3350,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "item 099",
-    "points": 3243,
+    "points": 3351,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "item #99",
-    "points": 3244,
+    "points": 3352,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "item #099",
-    "points": 3245,
+    "points": 3353,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "dark stone",
-    "points": 3246,
+    "points": 3354,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "dark stone",
-    "points": 3247,
+    "points": 3355,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone-back.png",
     "xws": "darkstone"
   },
   {
     "name": "item 100",
-    "points": 3248,
+    "points": 3356,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone.png",
     "xws": "wonderstone"
   },
   {
     "name": "item #100",
-    "points": 3249,
+    "points": 3357,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone.png",
     "xws": "wonderstone"
   },
   {
     "name": "wonder stone",
-    "points": 3250,
+    "points": 3358,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone.png",
     "xws": "wonderstone"
   },
   {
     "name": "wonder stone",
-    "points": 3251,
+    "points": 3359,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone-back.png",
     "xws": "wonderstone"
   },
   {
     "name": "item aa01",
-    "points": 3252,
+    "points": 3360,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "item #aa01",
-    "points": 3253,
+    "points": 3361,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "rockspine bulwark",
-    "points": 3254,
+    "points": 3362,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "rockspine bulwark",
-    "points": 3255,
+    "points": 3363,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark-back.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "item aa02",
-    "points": 3256,
+    "points": 3364,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "item #aa02",
-    "points": 3257,
+    "points": 3365,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "ghostshimmer honey",
-    "points": 3258,
+    "points": 3366,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "ghostshimmer honey",
-    "points": 3259,
+    "points": 3367,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey-back.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "item aa03",
-    "points": 3260,
+    "points": 3368,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "item #aa03",
-    "points": 3261,
+    "points": 3369,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "steelsilk spinneret",
-    "points": 3262,
+    "points": 3370,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "steelsilk spinneret",
-    "points": 3263,
+    "points": 3371,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret-back.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "item qa01",
-    "points": 3264,
+    "points": 3372,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator.png",
     "xws": "powermodulator"
   },
   {
     "name": "item #qa01",
-    "points": 3265,
+    "points": 3373,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator.png",
     "xws": "powermodulator"
   },
   {
     "name": "power modulator",
-    "points": 3266,
+    "points": 3374,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator.png",
     "xws": "powermodulator"
   },
   {
     "name": "power modulator",
-    "points": 3267,
+    "points": 3375,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator-back.png",
     "xws": "powermodulator"
   },
   {
     "name": "item qa02",
-    "points": 3268,
+    "points": 3376,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
-    "points": 3269,
+    "points": 3377,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3270,
+    "points": 3378,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3271,
+    "points": 3379,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer-back.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item qa02",
-    "points": 3272,
+    "points": 3380,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
-    "points": 3273,
+    "points": 3381,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3274,
+    "points": 3382,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3275,
+    "points": 3383,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer-back.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item qa03",
-    "points": 3276,
+    "points": 3384,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item #qa03",
-    "points": 3277,
+    "points": 3385,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3278,
+    "points": 3386,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3279,
+    "points": 3387,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves-back.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item qa03",
-    "points": 3280,
+    "points": 3388,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item #qa03",
-    "points": 3281,
+    "points": 3389,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3282,
+    "points": 3390,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3283,
+    "points": 3391,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves-back.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item qa04",
-    "points": 3284,
+    "points": 3392,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "item #qa04",
-    "points": 3285,
+    "points": 3393,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "gravity inversion pads",
-    "points": 3286,
+    "points": 3394,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "gravity inversion pads",
-    "points": 3287,
+    "points": 3395,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads-back.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "item qa05",
-    "points": 3288,
+    "points": 3396,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "item #qa05",
-    "points": 3289,
+    "points": 3397,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "delicate model",
-    "points": 3290,
+    "points": 3398,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "scrap collector",
-    "points": 3291,
+    "points": 3399,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "delicate model",
-    "points": 3292,
+    "points": 3400,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model-back.png",
     "xws": "delicatemodel"
   },
   {
     "name": "item qa06",
-    "points": 3293,
+    "points": 3401,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "item #qa06",
-    "points": 3294,
+    "points": 3402,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "auscudec of the makers",
-    "points": 3295,
+    "points": 3403,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "auscudec of the makers",
-    "points": 3296,
+    "points": 3404,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers-back.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "item rm01",
-    "points": 3297,
+    "points": 3405,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "item #rm01",
-    "points": 3298,
+    "points": 3406,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3299,
+    "points": 3407,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3300,
+    "points": 3408,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01-serrated-edge-back.png",
     "xws": "serratededge"
   },
   {
     "name": "item rm01",
-    "points": 3301,
+    "points": 3409,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "item #rm01",
-    "points": 3302,
+    "points": 3410,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3303,
+    "points": 3411,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3304,
+    "points": 3412,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01-serrated-edge-back.png",
     "xws": "serratededge"
   },
   {
     "name": "item rm02",
-    "points": 3305,
+    "points": 3413,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
     "xws": "grislyboots"
   },
   {
     "name": "item #rm02",
-    "points": 3306,
+    "points": 3414,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
     "xws": "grislyboots"
   },
   {
     "name": "grisly boots",
-    "points": 3307,
+    "points": 3415,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
     "xws": "grislyboots"
   },
   {
     "name": "grisly boots",
-    "points": 3308,
+    "points": 3416,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots-back.png",
     "xws": "grislyboots"
   },
   {
     "name": "item rm03",
-    "points": 3309,
+    "points": 3417,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "item #rm03",
-    "points": 3310,
+    "points": 3418,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "terrorscale saber",
-    "points": 3311,
+    "points": 3419,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "terrorscale saber",
-    "points": 3312,
+    "points": 3420,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber-back.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "item rm04",
-    "points": 3313,
+    "points": 3421,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "item #rm04",
-    "points": 3314,
+    "points": 3422,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "terrorscale crossblades",
-    "points": 3315,
+    "points": 3423,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "terrorscale crossblades",
-    "points": 3316,
+    "points": 3424,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades-back.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "item rm05",
-    "points": 3317,
+    "points": 3425,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
     "xws": "riteofruin"
   },
   {
     "name": "item #rm05",
-    "points": 3318,
+    "points": 3426,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
     "xws": "riteofruin"
   },
   {
     "name": "rite of ruin",
-    "points": 3319,
+    "points": 3427,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
     "xws": "riteofruin"
   },
   {
     "name": "rite of ruin",
-    "points": 3320,
+    "points": 3428,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin-back.png",
     "xws": "riteofruin"
   },
   {
     "name": "item rm06",
-    "points": 3321,
+    "points": 3429,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
     "xws": "savagecuirass"
   },
   {
     "name": "item #rm06",
-    "points": 3322,
+    "points": 3430,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
     "xws": "savagecuirass"
   },
   {
     "name": "savage cuirass",
-    "points": 3323,
+    "points": 3431,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
     "xws": "savagecuirass"
   },
   {
     "name": "savage cuirass",
-    "points": 3324,
+    "points": 3432,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass-back.png",
     "xws": "savagecuirass"
   },
   {
     "name": "item 101",
-    "points": 3325,
+    "points": 3433,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard.png",
     "xws": "runicvisard"
   },
   {
     "name": "item #101",
-    "points": 3326,
+    "points": 3434,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard.png",
     "xws": "runicvisard"
   },
   {
     "name": "runic visard",
-    "points": 3327,
+    "points": 3435,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard.png",
     "xws": "runicvisard"
   },
   {
     "name": "runic visard",
-    "points": 3328,
+    "points": 3436,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard-back.png",
     "xws": "runicvisard"
   },
   {
     "name": "item 102",
-    "points": 3329,
+    "points": 3437,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item 102",
-    "points": 3330,
+    "points": 3438,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item #102",
-    "points": 3331,
+    "points": 3439,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item #102",
-    "points": 3332,
+    "points": 3440,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "shoes of ataraxy",
-    "points": 3333,
+    "points": 3441,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "shoes of ataraxy",
-    "points": 3334,
+    "points": 3442,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "shoes of ataraxy",
-    "points": 3335,
+    "points": 3443,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102-shoes-of-ataraxy-back.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item 103",
-    "points": 3336,
+    "points": 3444,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "item #103",
-    "points": 3337,
+    "points": 3445,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "magnetic relocator",
-    "points": 3338,
+    "points": 3446,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "magnetic relocator",
-    "points": 3339,
+    "points": 3447,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator-back.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "item 104",
-    "points": 3340,
+    "points": 3448,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "item #104",
-    "points": 3341,
+    "points": 3449,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "shepherd's flute",
-    "points": 3342,
+    "points": 3450,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "harrower swarm",
-    "points": 3343,
+    "points": 3451,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "shepherd's flute",
-    "points": 3344,
+    "points": 3452,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute-back.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "item 105",
-    "points": 3345,
+    "points": 3453,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "item #105",
-    "points": 3346,
+    "points": 3454,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "tyrannical staff",
-    "points": 3347,
+    "points": 3455,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "tyrannical staff",
-    "points": 3348,
+    "points": 3456,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff-back.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "item 106",
-    "points": 3349,
+    "points": 3457,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "item 106",
-    "points": 3350,
+    "points": 3458,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "item #106",
-    "points": 3351,
+    "points": 3459,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "item #106",
-    "points": 3352,
+    "points": 3460,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "crushing mace",
-    "points": 3353,
+    "points": 3461,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "crushing mace",
-    "points": 3354,
+    "points": 3462,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "crushing mace",
-    "points": 3355,
+    "points": 3463,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106-crushing-mace-back.png",
     "xws": "crushingmace"
   },
   {
     "name": "item 107",
-    "points": 3356,
+    "points": 3464,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "item #107",
-    "points": 3357,
+    "points": 3465,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "chief's garb",
-    "points": 3358,
+    "points": 3466,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "chief's garb",
-    "points": 3359,
+    "points": 3467,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb-back.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "item 108",
-    "points": 3360,
+    "points": 3468,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "item #108",
-    "points": 3361,
+    "points": 3469,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "iridescent bracer",
-    "points": 3362,
+    "points": 3470,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "iridescent bracer",
-    "points": 3363,
+    "points": 3471,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer-back.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "item 109",
-    "points": 3364,
+    "points": 3472,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff.png",
     "xws": "talosstaff"
   },
   {
     "name": "item #109",
-    "points": 3365,
+    "points": 3473,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff.png",
     "xws": "talosstaff"
   },
   {
     "name": "talo's staff",
-    "points": 3366,
+    "points": 3474,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff.png",
     "xws": "talosstaff"
   },
   {
     "name": "talo's staff",
-    "points": 3367,
+    "points": 3475,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff-back.png",
     "xws": "talosstaff"
   },
   {
     "name": "item 110",
-    "points": 3368,
+    "points": 3476,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "item #110",
-    "points": 3369,
+    "points": 3477,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "mask of cruelty",
-    "points": 3370,
+    "points": 3478,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "mask of cruelty",
-    "points": 3371,
+    "points": 3479,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty-back.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "item 111",
-    "points": 3372,
+    "points": 3480,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "item #111",
-    "points": 3373,
+    "points": 3481,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "staff of equilibrium",
-    "points": 3374,
+    "points": 3482,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "staff of equilibrium",
-    "points": 3375,
+    "points": 3483,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium-back.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "item 112",
-    "points": 3376,
+    "points": 3484,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
     "xws": "voyagersblade"
   },
   {
     "name": "item #112",
-    "points": 3377,
+    "points": 3485,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
     "xws": "voyagersblade"
   },
   {
     "name": "voyager's blade",
-    "points": 3378,
+    "points": 3486,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
     "xws": "voyagersblade"
   },
   {
     "name": "voyager's blade",
-    "points": 3379,
+    "points": 3487,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade-back.png",
     "xws": "voyagersblade"
   },
   {
     "name": "item 113",
-    "points": 3380,
+    "points": 3488,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass.png",
     "xws": "lookingglass"
   },
   {
     "name": "item #113",
-    "points": 3381,
+    "points": 3489,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass.png",
     "xws": "lookingglass"
   },
   {
     "name": "looking glass",
-    "points": 3382,
+    "points": 3490,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass.png",
     "xws": "lookingglass"
   },
   {
     "name": "looking glass",
-    "points": 3383,
+    "points": 3491,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass-back.png",
     "xws": "lookingglass"
   },
   {
     "name": "item 114",
-    "points": 3384,
+    "points": 3492,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "item #114",
-    "points": 3385,
+    "points": 3493,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "runic boots of travel",
-    "points": 3386,
+    "points": 3494,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "runic boots of travel",
-    "points": 3387,
+    "points": 3495,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel-back.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "item 115",
-    "points": 3388,
+    "points": 3496,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard.png",
     "xws": "battlestandard"
   },
   {
     "name": "item #115",
-    "points": 3389,
+    "points": 3497,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard.png",
     "xws": "battlestandard"
   },
   {
     "name": "battle standard",
-    "points": 3390,
+    "points": 3498,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard.png",
     "xws": "battlestandard"
   },
   {
     "name": "battle standard",
-    "points": 3391,
+    "points": 3499,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard-back.png",
     "xws": "battlestandard"
   },
   {
     "name": "item 116",
-    "points": 3392,
+    "points": 3500,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "item #116",
-    "points": 3393,
+    "points": 3501,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "matriarch's warhorn",
-    "points": 3394,
+    "points": 3502,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "matriarch's warhorn",
-    "points": 3395,
+    "points": 3503,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn-back.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "item 117",
-    "points": 3396,
+    "points": 3504,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item 117",
-    "points": 3397,
+    "points": 3505,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item #117",
-    "points": 3398,
+    "points": 3506,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item #117",
-    "points": 3399,
+    "points": 3507,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "dawnbloom nectar",
-    "points": 3400,
+    "points": 3508,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "dawnbloom nectar",
-    "points": 3401,
+    "points": 3509,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "dawnbloom nectar",
-    "points": 3402,
+    "points": 3510,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117-dawnbloom-nectar-back.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item 118",
-    "points": 3403,
+    "points": 3511,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item 118",
-    "points": 3404,
+    "points": 3512,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item #118",
-    "points": 3405,
+    "points": 3513,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item #118",
-    "points": 3406,
+    "points": 3514,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "graveweed extract",
-    "points": 3407,
+    "points": 3515,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "graveweed extract",
-    "points": 3408,
+    "points": 3516,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "graveweed extract",
-    "points": 3409,
+    "points": 3517,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118-graveweed-extract-back.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item 119",
-    "points": 3410,
+    "points": 3518,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "item #119",
-    "points": 3411,
+    "points": 3519,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "thrice-souled warsword",
-    "points": 3412,
+    "points": 3520,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "thrice-souled warsword",
-    "points": 3413,
+    "points": 3521,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword-back.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "item 120",
-    "points": 3414,
+    "points": 3522,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
     "xws": "rekindledcore"
   },
   {
     "name": "item #120",
-    "points": 3415,
+    "points": 3523,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
     "xws": "rekindledcore"
   },
   {
     "name": "rekindled core",
-    "points": 3416,
+    "points": 3524,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
     "xws": "rekindledcore"
   },
   {
     "name": "rekindled core",
-    "points": 3417,
+    "points": 3525,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core-back.png",
     "xws": "rekindledcore"
   },
   {
     "name": "item 121",
-    "points": 3418,
+    "points": 3526,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "item #121",
-    "points": 3419,
+    "points": 3527,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "crystal catalyst",
-    "points": 3420,
+    "points": 3528,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "crystal catalyst",
-    "points": 3421,
+    "points": 3529,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst-back.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "item 122",
-    "points": 3422,
+    "points": 3530,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
     "xws": "crystalspike"
   },
   {
     "name": "item #122",
-    "points": 3423,
+    "points": 3531,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
     "xws": "crystalspike"
   },
   {
     "name": "crystal spike",
-    "points": 3424,
+    "points": 3532,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
     "xws": "crystalspike"
   },
   {
     "name": "crystal spike",
-    "points": 3425,
+    "points": 3533,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike-back.png",
     "xws": "crystalspike"
   },
   {
     "name": "item 123",
-    "points": 3426,
+    "points": 3534,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
     "xws": "arclightcladding"
   },
   {
     "name": "item #123",
-    "points": 3427,
+    "points": 3535,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
     "xws": "arclightcladding"
   },
   {
     "name": "arclight cladding",
-    "points": 3428,
+    "points": 3536,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
     "xws": "arclightcladding"
   },
   {
     "name": "arclight cladding",
-    "points": 3429,
+    "points": 3537,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding-back.png",
     "xws": "arclightcladding"
   },
   {
     "name": "item 124",
-    "points": 3430,
+    "points": 3538,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
     "xws": "arcboltlance"
   },
   {
     "name": "item #124",
-    "points": 3431,
+    "points": 3539,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
     "xws": "arcboltlance"
   },
   {
     "name": "arcbolt lance",
-    "points": 3432,
+    "points": 3540,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
     "xws": "arcboltlance"
   },
   {
     "name": "arcbolt lance",
-    "points": 3433,
+    "points": 3541,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance-back.png",
     "xws": "arcboltlance"
   },
   {
     "name": "item 125",
-    "points": 3434,
+    "points": 3542,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "item #125",
-    "points": 3435,
+    "points": 3543,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "scroll of evasion",
-    "points": 3436,
+    "points": 3544,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "scroll of evasion",
-    "points": 3437,
+    "points": 3545,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion-back.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "item 126",
-    "points": 3438,
+    "points": 3546,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "item #126",
-    "points": 3439,
+    "points": 3547,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "arcstone greaves",
-    "points": 3440,
+    "points": 3548,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "arcstone greaves",
-    "points": 3441,
+    "points": 3549,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves-back.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "item 127",
-    "points": 3442,
+    "points": 3550,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
     "xws": "arclighthood"
   },
   {
     "name": "item #127",
-    "points": 3443,
+    "points": 3551,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
     "xws": "arclighthood"
   },
   {
     "name": "arclight hood",
-    "points": 3444,
+    "points": 3552,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
     "xws": "arclighthood"
   },
   {
     "name": "arclight hood",
-    "points": 3445,
+    "points": 3553,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood-back.png",
     "xws": "arclighthood"
   },
   {
     "name": "item 128",
-    "points": 3446,
+    "points": 3554,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
     "xws": "barbedwhip"
   },
   {
     "name": "item #128",
-    "points": 3447,
+    "points": 3555,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
     "xws": "barbedwhip"
   },
   {
     "name": "barbed whip",
-    "points": 3448,
+    "points": 3556,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
     "xws": "barbedwhip"
   },
   {
     "name": "barbed whip",
-    "points": 3449,
+    "points": 3557,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip-back.png",
     "xws": "barbedwhip"
   },
   {
     "name": "item 129",
-    "points": 3450,
+    "points": 3558,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "item 129",
-    "points": 3451,
+    "points": 3559,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "item #129",
-    "points": 3452,
+    "points": 3560,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "item #129",
-    "points": 3453,
+    "points": 3561,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "talo's rosary",
-    "points": 3454,
+    "points": 3562,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "talo's rosary",
-    "points": 3455,
+    "points": 3563,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "talo's rosary",
-    "points": 3456,
+    "points": 3564,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129-talos-rosary-back.png",
     "xws": "talosrosary"
   },
   {
     "name": "item 130",
-    "points": 3457,
+    "points": 3565,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "item #130",
-    "points": 3458,
+    "points": 3566,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "dynamic sickle",
-    "points": 3459,
+    "points": 3567,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "dynamic sickle",
-    "points": 3460,
+    "points": 3568,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle-back.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "item 131",
-    "points": 3461,
+    "points": 3569,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
     "xws": "predatorswristblade"
   },
   {
     "name": "item #131",
-    "points": 3462,
+    "points": 3570,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
     "xws": "predatorswristblade"
   },
   {
     "name": "predator's wristblade",
-    "points": 3463,
+    "points": 3571,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
     "xws": "predatorswristblade"
   },
   {
     "name": "predator's wristblade",
-    "points": 3464,
+    "points": 3572,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade-back.png",
     "xws": "predatorswristblade"
