@@ -816,57 +816,65 @@
     "points": 116,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-demolitionist-front.png",
-    "xws": "demolitionist"
+    "xws": "demolitionist",
+    "assetno": "###"
   },
   {
     "name": "demolitionist",
     "points": 117,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-demolitionist-back.png",
-    "xws": "demolitionist"
+    "xws": "demolitionist",
+    "assetno": "###"
   },
   {
     "name": "hatchet",
     "points": 118,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-hatchet-front.png",
-    "xws": "hatchet"
+    "xws": "hatchet",
+    "assetno": "###"
   },
   {
     "name": "hatchet",
     "points": 119,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-hatchet-back.png",
-    "xws": "hatchet"
+    "xws": "hatchet",
+    "assetno": "###"
   },
   {
     "name": "red guard",
     "points": 120,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-red-guard-front.png",
-    "xws": "redguard"
+    "xws": "redguard",
+    "assetno": "###"
   },
   {
     "name": "red guard",
     "points": 121,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-red-guard-back.png",
-    "xws": "redguard"
+    "xws": "redguard",
+    "assetno": "###"
   },
   {
     "name": "voidwarden",
     "points": 122,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-voidwarden-front.png",
-    "xws": "voidwarden"
+    "xws": "voidwarden",
+    "assetno": "###"
   },
   {
     "name": "voidwarden",
     "points": 123,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-voidwarden-back.png",
-    "xws": "voidwarden"
-  },
+    "xws": "voidwarden",
+    "assetno": "###"
+  }
   {
     "name": "amber aegis",
     "points": 124,
