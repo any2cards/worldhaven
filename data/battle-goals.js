@@ -80,7 +80,7 @@
     "assetno": "467"
   },
   {
-    "name": "fast-healer",
+    "name": "fast healer",
     "points": 10,
     "expansion": "gloomhaven",
     "image": "battle-goals/gloomhaven/gh-fast-healer.png",
