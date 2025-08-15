@@ -7525,15 +7525,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-01.png",
     "xws": "ghamti01",
-    "assetno": "039"
+    "assetno": "023"
   },
   {
-    "name": "039",
+    "name": "023",
     "points": 941,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-01.png",
     "xws": "ghamti01",
-    "assetno": "039"
+    "assetno": "023"
   },
   {
     "name": "gh-am-ti-02",
@@ -7541,15 +7541,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-02.png",
     "xws": "ghamti02",
-    "assetno": "040"
+    "assetno": "024"
   },
   {
-    "name": "040",
+    "name": "024",
     "points": 943,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-02.png",
     "xws": "ghamti02",
-    "assetno": "040"
+    "assetno": "024"
   },
   {
     "name": "gh-am-ti-03",
@@ -7557,15 +7557,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-03.png",
     "xws": "ghamti03",
-    "assetno": "041"
+    "assetno": "025"
   },
   {
-    "name": "041",
+    "name": "025",
     "points": 945,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-03.png",
     "xws": "ghamti03",
-    "assetno": "041"
+    "assetno": "025"
   },
   {
     "name": "gh-am-ti-04",
@@ -7573,15 +7573,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-04.png",
     "xws": "ghamti04",
-    "assetno": "042"
+    "assetno": "026"
   },
   {
-    "name": "042",
+    "name": "026",
     "points": 947,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-04.png",
     "xws": "ghamti04",
-    "assetno": "042"
+    "assetno": "026"
   },
   {
     "name": "gh-am-ti-05",
@@ -7589,15 +7589,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-05.png",
     "xws": "ghamti05",
-    "assetno": "043"
+    "assetno": "027"
   },
   {
-    "name": "043",
+    "name": "027",
     "points": 949,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-05.png",
     "xws": "ghamti05",
-    "assetno": "043"
+    "assetno": "027"
   },
   {
     "name": "gh-am-ti-06",
@@ -7605,15 +7605,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-06.png",
     "xws": "ghamti06",
-    "assetno": "044"
+    "assetno": "028"
   },
   {
-    "name": "044",
+    "name": "028",
     "points": 951,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-06.png",
     "xws": "ghamti06",
-    "assetno": "044"
+    "assetno": "028"
   },
   {
     "name": "gh-am-ti-07",
@@ -7621,15 +7621,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-07.png",
     "xws": "ghamti07",
-    "assetno": "045"
+    "assetno": "029"
   },
   {
-    "name": "045",
+    "name": "029",
     "points": 953,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-07.png",
     "xws": "ghamti07",
-    "assetno": "045"
+    "assetno": "029"
   },
   {
     "name": "gh-am-ti-08",
@@ -7637,15 +7637,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-08.png",
     "xws": "ghamti08",
-    "assetno": "046"
+    "assetno": "030"
   },
   {
-    "name": "046",
+    "name": "030",
     "points": 955,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-08.png",
     "xws": "ghamti08",
-    "assetno": "046"
+    "assetno": "030"
   },
   {
     "name": "gh-am-ti-09",
@@ -7653,15 +7653,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-09.png",
     "xws": "ghamti09",
-    "assetno": "047"
+    "assetno": "031"
   },
   {
-    "name": "047",
+    "name": "031",
     "points": 957,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-09.png",
     "xws": "ghamti09",
-    "assetno": "047"
+    "assetno": "031"
   },
   {
     "name": "gh-am-ti-10",
@@ -7669,15 +7669,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-10.png",
     "xws": "ghamti10",
-    "assetno": "048"
+    "assetno": "032"
   },
   {
-    "name": "048",
+    "name": "032",
     "points": 959,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-10.png",
     "xws": "ghamti10",
-    "assetno": "048"
+    "assetno": "032"
   },
   {
     "name": "gh-am-ti-11",
@@ -7685,15 +7685,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-11.png",
     "xws": "ghamti11",
-    "assetno": "049"
+    "assetno": "033"
   },
   {
-    "name": "049",
+    "name": "033",
     "points": 961,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-11.png",
     "xws": "ghamti11",
-    "assetno": "049"
+    "assetno": "033"
   },
   {
     "name": "gh-am-ti-12",
@@ -7701,15 +7701,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-12.png",
     "xws": "ghamti12",
-    "assetno": "050"
+    "assetno": "034"
   },
   {
-    "name": "050",
+    "name": "034",
     "points": 963,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-12.png",
     "xws": "ghamti12",
-    "assetno": "050"
+    "assetno": "034"
   },
   {
     "name": "gh-am-ti-13",
@@ -7717,15 +7717,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-13.png",
     "xws": "ghamti13",
-    "assetno": "051"
+    "assetno": "035"
   },
   {
-    "name": "051",
+    "name": "035",
     "points": 965,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-13.png",
     "xws": "ghamti13",
-    "assetno": "051"
+    "assetno": "035"
   },
   {
     "name": "gh-am-ti-14",
@@ -7733,15 +7733,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-14.png",
     "xws": "ghamti14",
-    "assetno": "052"
+    "assetno": "036"
   },
   {
-    "name": "052",
+    "name": "036",
     "points": 967,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-14.png",
     "xws": "ghamti14",
-    "assetno": "052"
+    "assetno": "036"
   },
   {
     "name": "gh-am-ti-15",
@@ -7749,15 +7749,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-15.png",
     "xws": "ghamti15",
-    "assetno": "053"
+    "assetno": "037"
   },
   {
-    "name": "053",
+    "name": "037",
     "points": 969,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-15.png",
     "xws": "ghamti15",
-    "assetno": "053"
+    "assetno": "037"
   },
   {
     "name": "gh-am-ti-16",
@@ -7765,15 +7765,15 @@
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-16.png",
     "xws": "ghamti16",
-    "assetno": "054"
+    "assetno": "038"
   },
   {
-    "name": "054",
+    "name": "038",
     "points": 971,
     "expansion": "gloomhaven",
     "image": "attack-modifiers/gloomhaven/ti/gh-am-ti-16.png",
     "xws": "ghamti16",
-    "assetno": "054"
+    "assetno": "038"
   },
   {
     "name": "gh-am-ti-back",
