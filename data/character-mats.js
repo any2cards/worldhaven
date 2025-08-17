@@ -16,8 +16,24 @@
     "assetno": "###"
   },
   {
-    "name": "berserker",
+    "name": "two minis",
     "points": 2,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-beast-tyrant.png",
+    "xws": "twominis",
+    "assetno": "###"
+  },
+  {
+    "name": "two minis",
+    "points": 3,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-beast-tyrant-back.png",
+    "xws": "twominis",
+    "assetno": "###"
+  },
+  {
+    "name": "berserker",
+    "points": 4,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-berserker.png",
     "xws": "berserker",
@@ -25,15 +41,31 @@
   },
   {
     "name": "berserker",
-    "points": 3,
+    "points": 5,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-berserker-back.png",
     "xws": "berserker",
     "assetno": "###"
   },
   {
+    "name": "lightning bolt",
+    "points": 6,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-berserker.png",
+    "xws": "lightningbolt",
+    "assetno": "###"
+  },
+  {
+    "name": "lightning bolt",
+    "points": 7,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-berserker-back.png",
+    "xws": "lightningbolt",
+    "assetno": "###"
+  },
+  {
     "name": "bladeswarm",
-    "points": 4,
+    "points": 8,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-bladeswarm.png",
     "xws": "bladeswarm",
@@ -41,7 +73,7 @@
   },
   {
     "name": "bladeswarm",
-    "points": 5,
+    "points": 9,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-bladeswarm-back.png",
     "xws": "bladeswarm",
@@ -49,7 +81,7 @@
   },
   {
     "name": "brute",
-    "points": 6,
+    "points": 10,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-brute.png",
     "xws": "brute",
@@ -57,7 +89,7 @@
   },
   {
     "name": "brute",
-    "points": 7,
+    "points": 11,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-brute-back.png",
     "xws": "brute",
@@ -65,7 +97,7 @@
   },
   {
     "name": "cragheart",
-    "points": 8,
+    "points": 12,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-cragheart.png",
     "xws": "cragheart",
@@ -73,7 +105,7 @@
   },
   {
     "name": "cragheart",
-    "points": 9,
+    "points": 13,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-cragheart-back.png",
     "xws": "cragheart",
@@ -81,7 +113,7 @@
   },
   {
     "name": "doomstalker",
-    "points": 10,
+    "points": 14,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-doomstalker.png",
     "xws": "doomstalker",
@@ -89,15 +121,31 @@
   },
   {
     "name": "doomstalker",
-    "points": 11,
+    "points": 15,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-doomstalker-back.png",
     "xws": "doomstalker",
     "assetno": "###"
   },
   {
+    "name": "angry face",
+    "points": 16,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-doomstalker.png",
+    "xws": "angryface",
+    "assetno": "###"
+  },
+  {
+    "name": "angry face",
+    "points": 17,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-doomstalker-back.png",
+    "xws": "angryface",
+    "assetno": "###"
+  },
+  {
     "name": "elementalist",
-    "points": 12,
+    "points": 18,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-elementalist.png",
     "xws": "elementalist",
@@ -105,31 +153,47 @@
   },
   {
     "name": "elementalist",
-    "points": 13,
+    "points": 19,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-elementalist-back.png",
     "xws": "elementalist",
     "assetno": "###"
   },
   {
-    "name": "mindtheif",
-    "points": 14,
+    "name": "triangles",
+    "points": 20,
     "expansion": "gloomhaven",
-    "image": "character-mats/gloomhaven/gh-mindthief.png",
-    "xws": "mindtheif",
+    "image": "character-mats/gloomhaven/gh-elementalist.png",
+    "xws": "triangles",
     "assetno": "###"
   },
   {
-    "name": "mindtheif",
-    "points": 15,
+    "name": "triangles",
+    "points": 21,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-elementalist-back.png",
+    "xws": "triangles",
+    "assetno": "###"
+  },
+  {
+    "name": "mindthief",
+    "points": 22,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-mindthief.png",
+    "xws": "mindthief",
+    "assetno": "###"
+  },
+  {
+    "name": "mindthief",
+    "points": 23,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-mindthief-back.png",
-    "xws": "mindtheif",
+    "xws": "mindthief",
     "assetno": "###"
   },
   {
     "name": "nightshroud",
-    "points": 16,
+    "points": 24,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-nightshroud.png",
     "xws": "nightshroud",
@@ -137,15 +201,31 @@
   },
   {
     "name": "nightshroud",
-    "points": 17,
+    "points": 25,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-nightshroud-back.png",
     "xws": "nightshroud",
     "assetno": "###"
   },
   {
+    "name": "eclipse",
+    "points": 26,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-nightshroud.png",
+    "xws": "eclipse",
+    "assetno": "###"
+  },
+  {
+    "name": "eclipse",
+    "points": 27,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-nightshroud-back.png",
+    "xws": "eclipse",
+    "assetno": "###"
+  },
+  {
     "name": "plagueherald",
-    "points": 18,
+    "points": 28,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-plagueherald.png",
     "xws": "plagueherald",
@@ -153,15 +233,31 @@
   },
   {
     "name": "plagueherald",
-    "points": 19,
+    "points": 29,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-plagueherald-back.png",
     "xws": "plagueherald",
     "assetno": "###"
   },
   {
+    "name": "cthulhu",
+    "points": 30,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-plagueherald.png",
+    "xws": "cthulhu",
+    "assetno": "###"
+  },
+  {
+    "name": "cthulhu",
+    "points": 31,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-plagueherald-back.png",
+    "xws": "cthulhu",
+    "assetno": "###"
+  },
+  {
     "name": "quartermaster",
-    "points": 20,
+    "points": 32,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-quartermaster.png",
     "xws": "quartermaster",
@@ -169,15 +265,31 @@
   },
   {
     "name": "quartermaster",
-    "points": 21,
+    "points": 33,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-quartermaster-back.png",
     "xws": "quartermaster",
     "assetno": "###"
   },
   {
+    "name": "three spears",
+    "points": 34,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-quartermaster.png",
+    "xws": "threespears",
+    "assetno": "###"
+  },
+  {
+    "name": "three spears",
+    "points": 35,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-quartermaster-back.png",
+    "xws": "threespears",
+    "assetno": "###"
+  },
+  {
     "name": "sawbones",
-    "points": 22,
+    "points": 36,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-sawbones.png",
     "xws": "sawbones",
@@ -185,15 +297,31 @@
   },
   {
     "name": "sawbones",
-    "points": 23,
+    "points": 37,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-sawbones-back.png",
     "xws": "sawbones",
     "assetno": "###"
   },
   {
+    "name": "saw",
+    "points": 38,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-sawbones.png",
+    "xws": "saw",
+    "assetno": "###"
+  },
+  {
+    "name": "saw",
+    "points": 39,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-sawbones-back.png",
+    "xws": "saw",
+    "assetno": "###"
+  },
+  {
     "name": "scoundrel",
-    "points": 24,
+    "points": 40,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-scoundrel.png",
     "xws": "scoundrel",
@@ -201,7 +329,7 @@
   },
   {
     "name": "scoundrel",
-    "points": 25,
+    "points": 41,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-scoundrel-back.png",
     "xws": "scoundrel",
@@ -209,7 +337,7 @@
   },
   {
     "name": "soothsinger",
-    "points": 26,
+    "points": 42,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-soothsinger.png",
     "xws": "soothsinger",
@@ -217,15 +345,31 @@
   },
   {
     "name": "soothsinger",
-    "points": 27,
+    "points": 43,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-soothsinger-back.png",
     "xws": "soothsinger",
     "assetno": "###"
   },
   {
+    "name": "music note",
+    "points": 44,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-soothsinger.png",
+    "xws": "musicnote",
+    "assetno": "###"
+  },
+  {
+    "name": "music note",
+    "points": 45,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-soothsinger-back.png",
+    "xws": "musicnote",
+    "assetno": "###"
+  },
+  {
     "name": "spellweaver",
-    "points": 28,
+    "points": 46,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-spellweaver.png",
     "xws": "spellweaver",
@@ -233,7 +377,7 @@
   },
   {
     "name": "spellweaver",
-    "points": 29,
+    "points": 47,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-spellweaver-back.png",
     "xws": "spellweaver",
@@ -241,7 +385,7 @@
   },
   {
     "name": "summoner",
-    "points": 30,
+    "points": 48,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-summoner.png",
     "xws": "summoner",
@@ -249,15 +393,31 @@
   },
   {
     "name": "summoner",
-    "points": 31,
+    "points": 49,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-summoner-back.png",
     "xws": "summoner",
     "assetno": "###"
   },
   {
+    "name": "circles",
+    "points": 50,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-summoner.png",
+    "xws": "circles",
+    "assetno": "###"
+  },
+  {
+    "name": "circles",
+    "points": 51,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-summoner-back.png",
+    "xws": "circles",
+    "assetno": "###"
+  },
+  {
     "name": "sunkeeper",
-    "points": 32,
+    "points": 52,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-sunkeeper.png",
     "xws": "sunkeeper",
@@ -265,15 +425,31 @@
   },
   {
     "name": "sunkeeper",
-    "points": 33,
+    "points": 53,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-sunkeeper-back.png",
     "xws": "sunkeeper",
     "assetno": "###"
   },
   {
+    "name": "sun",
+    "points": 54,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-sunkeeper.png",
+    "xws": "sun",
+    "assetno": "###"
+  },
+  {
+    "name": "sun",
+    "points": 55,
+    "expansion": "gloomhaven",
+    "image": "character-mats/gloomhaven/gh-sunkeeper-back.png",
+    "xws": "sun",
+    "assetno": "###"
+  },
+  {
     "name": "tinkerer",
-    "points": 34,
+    "points": 56,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-tinkerer.png",
     "xws": "tinkerer",
@@ -281,7 +457,7 @@
   },
   {
     "name": "tinkerer",
-    "points": 35,
+    "points": 57,
     "expansion": "gloomhaven",
     "image": "character-mats/gloomhaven/gh-tinkerer-back.png",
     "xws": "tinkerer",
@@ -289,413 +465,413 @@
   },
   {
     "name": "diviner",
-    "points": 36,
+    "points": 58,
     "expansion": "forgotten circles",
     "image": "character-mats/forgotten-circles/fc-diviner.png",
     "xws": "diviner"
   },
   {
     "name": "diviner",
-    "points": 37,
+    "points": 59,
     "expansion": "forgotten circles",
     "image": "character-mats/forgotten-circles/fc-diviner-back.png",
     "xws": "diviner"
   },
   {
     "name": "banner spear",
-    "points": 38,
+    "points": 60,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-banner-spear.png",
     "xws": "bannerspear"
   },
   {
     "name": "banner spear",
-    "points": 39,
+    "points": 61,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-banner-spear-back.png",
     "xws": "bannerspear"
   },
   {
     "name": "blinkblade",
-    "points": 40,
+    "points": 62,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-blinkblade.png",
     "xws": "blinkblade"
   },
   {
     "name": "blinkblade",
-    "points": 41,
+    "points": 63,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-blinkblade-back.png",
     "xws": "blinkblade"
   },
   {
     "name": "boneshaper",
-    "points": 42,
+    "points": 64,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-boneshaper.png",
     "xws": "boneshaper"
   },
   {
     "name": "boneshaper",
-    "points": 43,
+    "points": 65,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-boneshaper-back.png",
     "xws": "boneshaper"
   },
   {
     "name": "crashing tide",
-    "points": 44,
+    "points": 66,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide.png",
     "xws": "crashingtide"
   },
   {
     "name": "crashing tide",
-    "points": 45,
+    "points": 67,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide-back.png",
     "xws": "crashingtide"
   },
   {
     "name": "coral",
-    "points": 46,
+    "points": 68,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide.png",
     "xws": "crashingtide"
   },
   {
     "name": "coral",
-    "points": 47,
+    "points": 69,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide-back.png",
     "xws": "crashingtide"
   },
   {
     "name": "deathwalker",
-    "points": 48,
+    "points": 70,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deathwalker.png",
     "xws": "deathwalker"
   },
   {
     "name": "deathwalker",
-    "points": 49,
+    "points": 71,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deathwalker-back.png",
     "xws": "deathwalker"
   },
   {
     "name": "deepwraith",
-    "points": 50,
+    "points": 72,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith.png",
     "xws": "deepwraith"
   },
   {
     "name": "deepwraith",
-    "points": 51,
+    "points": 73,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith-back.png",
     "xws": "deepwraith"
   },
   {
     "name": "kelp",
-    "points": 52,
+    "points": 74,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith.png",
     "xws": "deepwraith"
   },
   {
     "name": "kelp",
-    "points": 53,
+    "points": 75,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith-back.png",
     "xws": "deepwraith"
   },
   {
     "name": "drifter",
-    "points": 54,
+    "points": 76,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-drifter.png",
     "xws": "drifter"
   },
   {
     "name": "drifter",
-    "points": 55,
+    "points": 77,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-drifter-back.png",
     "xws": "drifter"
   },
   {
     "name": "frozen fist",
-    "points": 56,
+    "points": 78,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist.png",
     "xws": "frozenfist"
   },
   {
     "name": "frozen fist",
-    "points": 57,
+    "points": 79,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist-back.png",
     "xws": "frozenfist"
   },
   {
     "name": "fist",
-    "points": 58,
+    "points": 80,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist.png",
     "xws": "frozenfist"
   },
   {
     "name": "fist",
-    "points": 59,
+    "points": 81,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist-back.png",
     "xws": "frozenfist"
   },
   {
     "name": "geminate",
-    "points": 60,
+    "points": 82,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-geminate.png",
     "xws": "geminate"
   },
   {
     "name": "geminate",
-    "points": 61,
+    "points": 83,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-geminate-back.png",
     "xws": "geminate"
   },
   {
     "name": "hive",
-    "points": 62,
+    "points": 84,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive.png",
     "xws": "hive"
   },
   {
     "name": "hive",
-    "points": 63,
+    "points": 85,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive-back.png",
     "xws": "hive"
   },
   {
     "name": "prism",
-    "points": 64,
+    "points": 86,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive.png",
     "xws": "hive"
   },
   {
     "name": "prism",
-    "points": 65,
+    "points": 87,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive-back.png",
     "xws": "hive"
   },
   {
     "name": "infuser",
-    "points": 66,
+    "points": 88,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser.png",
     "xws": "infuser"
   },
   {
     "name": "infuser",
-    "points": 67,
+    "points": 89,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser-back.png",
     "xws": "infuser"
   },
   {
     "name": "astral",
-    "points": 68,
+    "points": 90,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser.png",
     "xws": "infuser"
   },
   {
     "name": "astral",
-    "points": 69,
+    "points": 91,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser-back.png",
     "xws": "infuser"
   },
   {
     "name": "metal mosaic",
-    "points": 70,
+    "points": 92,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic.png",
     "xws": "metalmosaic"
   },
   {
     "name": "metal mosaic",
-    "points": 71,
+    "points": 93,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic-back.png",
     "xws": "metalmosaic"
   },
   {
     "name": "drill",
-    "points": 72,
+    "points": 94,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic.png",
     "xws": "metalmosaic"
   },
   {
     "name": "drill",
-    "points": 73,
+    "points": 95,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic-back.png",
     "xws": "metalmosaic"
   },
   {
     "name": "pain conduit",
-    "points": 74,
+    "points": 96,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit.png",
     "xws": "painconduit"
   },
   {
     "name": "pain conduit",
-    "points": 75,
+    "points": 97,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit-back.png",
     "xws": "painconduit"
   },
   {
     "name": "shackles",
-    "points": 76,
+    "points": 98,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit.png",
     "xws": "painconduit"
   },
   {
     "name": "shackles",
-    "points": 77,
+    "points": 99,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit-back.png",
     "xws": "painconduit"
   },
   {
     "name": "pyroclast",
-    "points": 78,
+    "points": 100,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast.png",
     "xws": "pyroclast"
   },
   {
     "name": "pyroclast",
-    "points": 79,
+    "points": 101,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast-back.png",
     "xws": "pyroclast"
   },
   {
     "name": "meteor",
-    "points": 80,
+    "points": 102,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast.png",
     "xws": "pyroclast"
   },
   {
     "name": "meteor",
-    "points": 81,
+    "points": 103,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast-back.png",
     "xws": "pyroclast"
   },
   {
     "name": "shattersong",
-    "points": 82,
+    "points": 104,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong.png",
     "xws": "shattersong"
   },
   {
     "name": "shattersong",
-    "points": 83,
+    "points": 105,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong-back.png",
     "xws": "shattersong"
   },
   {
     "name": "shards",
-    "points": 84,
+    "points": 106,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong.png",
     "xws": "shattersong"
   },
   {
     "name": "shards",
-    "points": 85,
+    "points": 107,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong-back.png",
     "xws": "shattersong"
   },
   {
     "name": "snowdancer",
-    "points": 86,
+    "points": 108,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer.png",
     "xws": "snowdancer"
   },
   {
     "name": "snowdancer",
-    "points": 87,
+    "points": 109,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer-back.png",
     "xws": "snowdancer"
   },
   {
     "name": "snowflake",
-    "points": 88,
+    "points": 110,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer.png",
     "xws": "snowdancer"
   },
   {
     "name": "snowflake",
-    "points": 89,
+    "points": 111,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer-back.png",
     "xws": "snowdancer"
   },
   {
     "name": "trapper",
-    "points": 90,
+    "points": 112,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper.png",
     "xws": "trapper"
   },
   {
     "name": "trapper",
-    "points": 91,
+    "points": 113,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper-back.png",
     "xws": "trapper"
   },
   {
     "name": "trap",
-    "points": 92,
+    "points": 114,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper.png",
     "xws": "trapper"
   },
   {
     "name": "trap",
-    "points": 93,
+    "points": 115,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper-back.png",
     "xws": "trapper"
   },
   {
     "name": "demolitionist",
-    "points": 94,
+    "points": 116,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-demolitionist-front.png",
     "xws": "demolitionist",
@@ -703,7 +879,7 @@
   },
   {
     "name": "demolitionist",
-    "points": 95,
+    "points": 117,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-demolitionist-back.png",
     "xws": "demolitionist",
@@ -711,7 +887,7 @@
   },
   {
     "name": "hatchet",
-    "points": 96,
+    "points": 118,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-hatchet-front.png",
     "xws": "hatchet",
@@ -719,7 +895,7 @@
   },
   {
     "name": "hatchet",
-    "points": 97,
+    "points": 119,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-hatchet-back.png",
     "xws": "hatchet",
@@ -727,7 +903,7 @@
   },
   {
     "name": "red guard",
-    "points": 98,
+    "points": 120,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-red-guard-front.png",
     "xws": "redguard",
@@ -735,7 +911,7 @@
   },
   {
     "name": "red guard",
-    "points": 99,
+    "points": 121,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-red-guard-back.png",
     "xws": "redguard",
@@ -743,7 +919,7 @@
   },
   {
     "name": "voidwarden",
-    "points": 100,
+    "points": 122,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-voidwarden-front.png",
     "xws": "voidwarden",
@@ -751,7 +927,7 @@
   },
   {
     "name": "voidwarden",
-    "points": 101,
+    "points": 123,
     "expansion": "jaws of the lion",
     "image": "character-mats/jaws-of-the-lion/jl-voidwarden-back.png",
     "xws": "voidwarden",
@@ -759,532 +935,532 @@
   },
   {
     "name": "amber aegis",
-    "points": 102,
+    "points": 124,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-amber-aegis.png",
     "xws": "amberaegis"
   },
   {
     "name": "amber aegis",
-    "points": 103,
+    "points": 125,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-amber-aegis-back.png",
     "xws": "amberaegis"
   },
   {
     "name": "beetle",
-    "points": 104,
+    "points": 126,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-amber-aegis.png",
     "xws": "amberaegis"
   },
   {
     "name": "beetle",
-    "points": 105,
+    "points": 127,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-amber-aegis-back.png",
     "xws": "amberaegis"
   },
   {
     "name": "artificer",
-    "points": 106,
+    "points": 128,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-artificer.png",
     "xws": "artificer"
   },
   {
     "name": "artificer",
-    "points": 107,
+    "points": 129,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-artificer-back.png",
     "xws": "artificer"
   },
   {
     "name": "tools",
-    "points": 108,
+    "points": 130,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-artificer.png",
     "xws": "artificer"
   },
   {
     "name": "tools",
-    "points": 109,
+    "points": 131,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-artificer-back.png",
     "xws": "artificer"
   },
   {
     "name": "bombard",
-    "points": 110,
+    "points": 132,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-bombard.png",
     "xws": "bombard"
   },
   {
     "name": "bombard",
-    "points": 111,
+    "points": 133,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-bombard-back.png",
     "xws": "bombard"
   },
   {
     "name": "target",
-    "points": 112,
+    "points": 134,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-bombard.png",
     "xws": "bombard"
   },
   {
     "name": "target",
-    "points": 113,
+    "points": 135,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-bombard-back.png",
     "xws": "bombard"
   },
   {
     "name": "brightspark",
-    "points": 114,
+    "points": 136,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-brightspark.png",
     "xws": "brightspark"
   },
   {
     "name": "brightspark",
-    "points": 115,
+    "points": 137,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-brightspark-back.png",
     "xws": "brightspark"
   },
   {
     "name": "flask",
-    "points": 116,
+    "points": 138,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-brightspark.png",
     "xws": "brightspark"
   },
   {
     "name": "flask",
-    "points": 117,
+    "points": 139,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-brightspark-back.png",
     "xws": "brightspark"
   },
   {
     "name": "chained helmet",
-    "points": 118,
+    "points": 140,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chainguard.png",
     "xws": "chainguard"
   },
   {
     "name": "chained helmet",
-    "points": 119,
+    "points": 141,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chainguard-back.png",
     "xws": "chainguard"
   },
   {
     "name": "chieftain",
-    "points": 120,
+    "points": 142,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chieftain.png",
     "xws": "chieftain"
   },
   {
     "name": "chieftain",
-    "points": 121,
+    "points": 143,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chieftain-back.png",
     "xws": "chieftain"
   },
   {
     "name": "tusks",
-    "points": 122,
+    "points": 144,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chieftain.png",
     "xws": "chieftain"
   },
   {
     "name": "tusks",
-    "points": 123,
+    "points": 145,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chieftain-back.png",
     "xws": "chieftain"
   },
   {
     "name": "fire knight",
-    "points": 124,
+    "points": 146,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-fire-knight.png",
     "xws": "fireknight"
   },
   {
     "name": "fire knight",
-    "points": 125,
+    "points": 147,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-fire-knight-back.png",
     "xws": "fireknight"
   },
   {
     "name": "ladder axe",
-    "points": 126,
+    "points": 148,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-fire-knight.png",
     "xws": "fireknight"
   },
   {
     "name": "ladder axe",
-    "points": 127,
+    "points": 149,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-fire-knight-back.png",
     "xws": "fireknight"
   },
   {
     "name": "hierophant",
-    "points": 128,
+    "points": 150,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hierophant.png",
     "xws": "hierophant"
   },
   {
     "name": "hierophant",
-    "points": 129,
+    "points": 151,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hierophant-back.png",
     "xws": "hierophant"
   },
   {
     "name": "leaf",
-    "points": 130,
+    "points": 152,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hierophant.png",
     "xws": "hierophant"
   },
   {
     "name": "leaf",
-    "points": 131,
+    "points": 153,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hierophant-back.png",
     "xws": "hierophant"
   },
   {
     "name": "hollowpact",
-    "points": 132,
+    "points": 154,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hollowpact.png",
     "xws": "hollowpact"
   },
   {
     "name": "hollowpact",
-    "points": 133,
+    "points": 155,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hollowpact-back.png",
     "xws": "hollowpact"
   },
   {
     "name": "vortex",
-    "points": 134,
+    "points": 156,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hollowpact.png",
     "xws": "hollowpact"
   },
   {
     "name": "vortex",
-    "points": 135,
+    "points": 157,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-hollowpact-back.png",
     "xws": "hollowpact"
   },
   {
     "name": "luminary",
-    "points": 136,
+    "points": 158,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-luminary.png",
     "xws": "luminary"
   },
   {
     "name": "luminary",
-    "points": 137,
+    "points": 159,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-luminary-back.png",
     "xws": "luminary"
   },
   {
     "name": "crescent sun",
-    "points": 138,
+    "points": 160,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-luminary.png",
     "xws": "luminary"
   },
   {
     "name": "crescent sun",
-    "points": 139,
+    "points": 161,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-luminary-back.png",
     "xws": "luminary"
   },
   {
     "name": "mirefoot",
-    "points": 140,
+    "points": 162,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-mirefoot.png",
     "xws": "mirefoot"
   },
   {
     "name": "mirefoot",
-    "points": 141,
+    "points": 163,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-mirefoot-back.png",
     "xws": "mirefoot"
   },
   {
     "name": "sprig",
-    "points": 142,
+    "points": 164,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-mirefoot.png",
     "xws": "mirefoot"
   },
   {
     "name": "sprig",
-    "points": 143,
+    "points": 165,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-mirefoot-back.png",
     "xws": "mirefoot"
   },
   {
     "name": "ruinmaw",
-    "points": 144,
+    "points": 166,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-ruinmaw.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 145,
+    "points": 167,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-ruinmaw-back.png",
     "xws": "ruinmaw"
   },
   {
     "name": "bleeding claw",
-    "points": 146,
+    "points": 168,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-ruinmaw.png",
     "xws": "ruinmaw"
   },
   {
     "name": "bleeding claw",
-    "points": 147,
+    "points": 169,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-ruinmaw-back.png",
     "xws": "ruinmaw"
   },
   {
     "name": "spirit caller",
-    "points": 148,
+    "points": 170,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller.png",
     "xws": "spiritcaller"
   },
   {
     "name": "spirit caller",
-    "points": 149,
+    "points": 171,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller-back.png",
     "xws": "spiritcaller"
   },
   {
     "name": "skull",
-    "points": 150,
+    "points": 172,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller.png",
     "xws": "spiritcaller"
   },
   {
     "name": "skull",
-    "points": 151,
+    "points": 173,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller-back.png",
     "xws": "spiritcaller"
   },
   {
     "name": "starslinger",
-    "points": 152,
+    "points": 174,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-starslinger.png",
     "xws": "starslinger"
   },
   {
     "name": "starslinger",
-    "points": 153,
+    "points": 175,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-starslinger-back.png",
     "xws": "starslinger"
   },
   {
     "name": "galaxy",
-    "points": 154,
+    "points": 176,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-starslinger.png",
     "xws": "starslinger"
   },
   {
     "name": "galaxy",
-    "points": 155,
+    "points": 177,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-starslinger-back.png",
     "xws": "starslinger"
   },
   {
     "name": "incarnate",
-    "points": 156,
+    "points": 178,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate.png",
     "xws": "incarnate"
   },
   {
     "name": "incarnate",
-    "points": 157,
+    "points": 179,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate-back.png",
     "xws": "incarnate"
   },
   {
     "name": "three-eyes",
-    "points": 158,
+    "points": 180,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate.png",
     "xws": "incarnate"
   },
   {
     "name": "three-eyes",
-    "points": 159,
+    "points": 181,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate-back.png",
     "xws": "incarnate"
   },
   {
     "name": "rimehearth",
-    "points": 160,
+    "points": 182,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth.png",
     "xws": "rimehearth"
   },
   {
     "name": "rimehearth",
-    "points": 161,
+    "points": 183,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth-back.png",
     "xws": "rimehearth"
   },
   {
     "name": "ice meteor",
-    "points": 162,
+    "points": 184,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth.png",
     "xws": "rimehearth"
   },
   {
     "name": "ice meteor",
-    "points": 163,
+    "points": 185,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth-back.png",
     "xws": "rimehearth"
   },
   {
     "name": "shardrender",
-    "points": 164,
+    "points": 186,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 165,
+    "points": 187,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender-back.png",
     "xws": "shardrender"
   },
   {
     "name": "gemstone",
-    "points": 166,
+    "points": 188,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender.png",
     "xws": "shardrender"
   },
   {
     "name": "gemstone",
-    "points": 167,
+    "points": 189,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender-back.png",
     "xws": "shardrender"
   },
   {
     "name": "tempest",
-    "points": 168,
+    "points": 190,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest.png",
     "xws": "tempest"
   },
   {
     "name": "tempest",
-    "points": 169,
+    "points": 191,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest-back.png",
     "xws": "tempest"
   },
   {
     "name": "storm cloud",
-    "points": 170,
+    "points": 192,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest.png",
     "xws": "tempest"
   },
   {
     "name": "storm cloud",
-    "points": 171,
+    "points": 193,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest-back.png",
     "xws": "tempest"
   },
   {
     "name": "thornreaper",
-    "points": 172,
+    "points": 194,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper.png",
     "xws": "thornreaper"
   },
   {
     "name": "thornreaper",
-    "points": 173,
+    "points": 195,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper-back.png",
     "xws": "thornreaper"
   },
   {
     "name": "spiked ring",
-    "points": 174,
+    "points": 196,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper.png",
     "xws": "thornreaper"
   },
   {
     "name": "spiked ring",
-    "points": 175,
+    "points": 197,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper-back.png",
     "xws": "thornreaper"
   },
   {
     "name": "vanquisher",
-    "points": 176,
+    "points": 198,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-vanquisher.png",
     "xws": "vanquisher"
   },
   {
     "name": "vanquisher",
-    "points": 177,
+    "points": 199,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-vanquisher-back.png",
     "xws": "vanquisher"
