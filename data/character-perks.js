@@ -1,213 +1,243 @@
 [
   {
-    "name": "party sheet",
+    "name": "beast tyrant perks",
     "points": 0,
     "expansion": "gloomhaven",
-    "image": "character-perks/gloomhaven/gh-party-sheet.png",
-    "xws": "partysheet"
-  },
-  {
-    "name": "beast tyrant perks",
-    "points": 1,
-    "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-beast-tyrant-perks.png",
-    "xws": "beasttyrantperks"
+    "xws": "beasttyrantperks",
+    "assetno": "###"
   },
   {
     "name": "two minis perks",
-    "points": 2,
+    "points": 1,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-beast-tyrant-perks.png",
-    "xws": "beasttyrantperks"
+    "xws": "twominisperks",
+    "assetno": "###"
   },
   {
     "name": "berserker perks",
-    "points": 3,
+    "points": 2,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-berserker-perks.png",
-    "xws": "berserkerperks"
+    "xws": "berserkerperks",
+    "assetno": "###"
   },
   {
     "name": "lightning bolt perks",
-    "points": 4,
+    "points": 3,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-berserker-perks.png",
-    "xws": "berserkerperks"
+    "xws": "lightningboltperks",
+    "assetno": "###"
   },
   {
     "name": "bladeswarm perks",
-    "points": 5,
+    "points": 4,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-bladeswarm-perks.png",
-    "xws": "bladeswarmperks"
+    "xws": "bladeswarmperks",
+    "assetno": "###"
   },
   {
     "name": "brute perks",
-    "points": 6,
+    "points": 5,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-brute-perks.png",
-    "xws": "bruteperks"
+    "xws": "bruteperks",
+    "assetno": "###"
   },
   {
     "name": "cragheart perks",
-    "points": 7,
+    "points": 6,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-cragheart-perks.png",
-    "xws": "cragheartperks"
+    "xws": "cragheartperks",
+    "assetno": "###"
   },
   {
     "name": "doomstalker perks",
-    "points": 8,
+    "points": 7,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-doomstalker-perks.png",
-    "xws": "doomstalkerperks"
+    "xws": "doomstalkerperks",
+    "assetno": "###"
   },
   {
     "name": "angry face perks",
-    "points": 9,
+    "points": 8,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-doomstalker-perks.png",
-    "xws": "doomstalkerperks"
+    "xws": "angryfaceperks",
+    "assetno": "###"
   },
   {
     "name": "elementalist perks",
-    "points": 10,
+    "points": 9,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-elementalist-perks.png",
-    "xws": "elementalistperks"
+    "xws": "elementalistperks",
+    "assetno": "###"
   },
   {
     "name": "triangles perks",
-    "points": 11,
+    "points": 10,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-elementalist-perks.png",
-    "xws": "elementalistperks"
+    "xws": "trianglesperks",
+    "assetno": "###"
   },
   {
     "name": "mindthief perks",
-    "points": 12,
+    "points": 11,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-mindthief-perks.png",
-    "xws": "mindthiefperks"
+    "xws": "mindthiefperks",
+    "assetno": "###"
   },
   {
     "name": "nightshroud perks",
-    "points": 13,
+    "points": 12,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-nightshroud-perks.png",
-    "xws": "nightshroudperks"
+    "xws": "nightshroudperks",
+    "assetno": "###"
   },
   {
     "name": "eclipse perks",
-    "points": 14,
+    "points": 13,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-nightshroud-perks.png",
-    "xws": "nightshroudperks"
+    "xws": "eclipseperks",
+    "assetno": "###"
+  },
+  {
+    "name": "party sheet",
+    "points": 14,
+    "expansion": "gloomhaven",
+    "image": "character-perks/gloomhaven/gh-party-sheet.png",
+    "xws": "partysheet",
+    "assetno": "###"
   },
   {
     "name": "plagueherald perks",
     "points": 15,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-plagueherald-perks.png",
-    "xws": "plagueheraldperks"
+    "xws": "plagueheraldperks",
+    "assetno": "###"
   },
   {
     "name": "cthulhu perks",
     "points": 16,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-plagueherald-perks.png",
-    "xws": "plagueheraldperks"
+    "xws": "cthulhuperks",
+    "assetno": "###"
   },
   {
     "name": "quartermaster perks",
     "points": 17,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-quartermaster-perks.png",
-    "xws": "quartermasterperks"
+    "xws": "quartermasterperks",
+    "assetno": "###"
   },
   {
     "name": "three spears perks",
     "points": 18,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-quartermaster-perks.png",
-    "xws": "quartermasterperks"
+    "xws": "threespearsperks",
+    "assetno": "###"
   },
   {
     "name": "sawbones perks",
     "points": 19,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-sawbones-perks.png",
-    "xws": "sawbonesperks"
+    "xws": "sawbonesperks",
+    "assetno": "###"
   },
   {
     "name": "saw perks",
     "points": 20,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-sawbones-perks.png",
-    "xws": "sawbonesperks"
+    "xws": "sawperks",
+    "assetno": "###"
   },
   {
     "name": "scoundrel perks",
     "points": 21,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-scoundrel-perks.png",
-    "xws": "scoundrelperks"
+    "xws": "scoundrelperks",
+    "assetno": "###"
   },
   {
     "name": "soothsinger perks",
     "points": 22,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-soothsinger-perks.png",
-    "xws": "soothsingerperks"
+    "xws": "soothsingerperks",
+    "assetno": "###"
   },
   {
     "name": "music note perks",
     "points": 23,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-soothsinger-perks.png",
-    "xws": "soothsingerperks"
+    "xws": "musicnoteperks",
+    "assetno": "###"
   },
   {
     "name": "spellweaver perks",
     "points": 24,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-spellweaver-perks.png",
-    "xws": "spellweaverperks"
+    "xws": "spellweaverperks",
+    "assetno": "###"
   },
   {
     "name": "summoner perks",
     "points": 25,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-summoner-perks.png",
-    "xws": "summonerperks"
+    "xws": "summonerperks",
+    "assetno": "###"
   },
   {
     "name": "circles perks",
     "points": 26,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-summoner-perks.png",
-    "xws": "summonerperks"
+    "xws": "circlesperks",
+    "assetno": "###"
   },
   {
     "name": "sunkeeper perks",
     "points": 27,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-sunkeeper-perks.png",
-    "xws": "sunkeeperperks"
+    "xws": "sunkeeperperks",
+    "assetno": "###"
   },
   {
     "name": "sun perks",
     "points": 28,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-sunkeeper-perks.png",
-    "xws": "sunkeeperperks"
+    "xws": "sunperks",
+    "assetno": "###"
   },
   {
     "name": "tinkerer perks",
     "points": 29,
     "expansion": "gloomhaven",
     "image": "character-perks/gloomhaven/gh-tinkerer-perks.png",
-    "xws": "tinkererperks"
+    "xws": "tinkererperks",
+    "assetno": "###"
   },
   {
     "name": "diviner perks",
