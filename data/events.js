@@ -4,2100 +4,2400 @@
     "points": 0,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-01-b.png",
-    "xws": "ghce01b"
+    "xws": "ghce01b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-01-f",
     "points": 1,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-01-f.png",
-    "xws": "ghce01f"
+    "xws": "ghce01f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-02-b",
     "points": 2,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-02-b.png",
-    "xws": "ghce02b"
+    "xws": "ghce02b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-02-f",
     "points": 3,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-02-f.png",
-    "xws": "ghce02f"
+    "xws": "ghce02f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-03-b",
     "points": 4,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-03-b.png",
-    "xws": "ghce03b"
+    "xws": "ghce03b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-03-f",
     "points": 5,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-03-f.png",
-    "xws": "ghce03f"
+    "xws": "ghce03f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-04-b",
     "points": 6,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-04-b.png",
-    "xws": "ghce04b"
+    "xws": "ghce04b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-04-f",
     "points": 7,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-04-f.png",
-    "xws": "ghce04f"
+    "xws": "ghce04f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-05-b",
     "points": 8,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-05-b.png",
-    "xws": "ghce05b"
+    "xws": "ghce05b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-05-f",
     "points": 9,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-05-f.png",
-    "xws": "ghce05f"
+    "xws": "ghce05f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-06-b",
     "points": 10,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-06-b.png",
-    "xws": "ghce06b"
+    "xws": "ghce06b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-06-f",
     "points": 11,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-06-f.png",
-    "xws": "ghce06f"
+    "xws": "ghce06f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-07-b",
     "points": 12,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-07-b.png",
-    "xws": "ghce07b"
+    "xws": "ghce07b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-07-f",
     "points": 13,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-07-f.png",
-    "xws": "ghce07f"
+    "xws": "ghce07f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-08-b",
     "points": 14,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-08-b.png",
-    "xws": "ghce08b"
+    "xws": "ghce08b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-08-f",
     "points": 15,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-08-f.png",
-    "xws": "ghce08f"
+    "xws": "ghce08f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-09-b",
     "points": 16,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-09-b.png",
-    "xws": "ghce09b"
+    "xws": "ghce09b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-09-f",
     "points": 17,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-09-f.png",
-    "xws": "ghce09f"
+    "xws": "ghce09f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-10-b",
     "points": 18,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-10-b.png",
-    "xws": "ghce10b"
+    "xws": "ghce10b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-10-f",
     "points": 19,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-10-f.png",
-    "xws": "ghce10f"
+    "xws": "ghce10f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-11-b",
     "points": 20,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-11-b.png",
-    "xws": "ghce11b"
+    "xws": "ghce11b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-11-f",
     "points": 21,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-11-f.png",
-    "xws": "ghce11f"
+    "xws": "ghce11f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-12-b",
     "points": 22,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-12-b.png",
-    "xws": "ghce12b"
+    "xws": "ghce12b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-12-f",
     "points": 23,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-12-f.png",
-    "xws": "ghce12f"
+    "xws": "ghce12f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-13-b",
     "points": 24,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-13-b.png",
-    "xws": "ghce13b"
+    "xws": "ghce13b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-13-f",
     "points": 25,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-13-f.png",
-    "xws": "ghce13f"
+    "xws": "ghce13f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-14-b",
     "points": 26,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-14-b.png",
-    "xws": "ghce14b"
+    "xws": "ghce14b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-14-f",
     "points": 27,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-14-f.png",
-    "xws": "ghce14f"
+    "xws": "ghce14f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-15-b",
     "points": 28,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-15-b.png",
-    "xws": "ghce15b"
+    "xws": "ghce15b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-15-f",
     "points": 29,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-15-f.png",
-    "xws": "ghce15f"
+    "xws": "ghce15f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-16-b",
     "points": 30,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-16-b.png",
-    "xws": "ghce16b"
+    "xws": "ghce16b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-16-f",
     "points": 31,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-16-f.png",
-    "xws": "ghce16f"
+    "xws": "ghce16f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-17-b",
     "points": 32,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-17-b.png",
-    "xws": "ghce17b"
+    "xws": "ghce17b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-17-f",
     "points": 33,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-17-f.png",
-    "xws": "ghce17f"
+    "xws": "ghce17f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-18-b",
     "points": 34,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-18-b.png",
-    "xws": "ghce18b"
+    "xws": "ghce18b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-18-f",
     "points": 35,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-18-f.png",
-    "xws": "ghce18f"
+    "xws": "ghce18f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-19-b",
     "points": 36,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-19-b.png",
-    "xws": "ghce19b"
+    "xws": "ghce19b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-19-f",
     "points": 37,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-19-f.png",
-    "xws": "ghce19f"
+    "xws": "ghce19f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-20-b",
     "points": 38,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-20-b.png",
-    "xws": "ghce20b"
+    "xws": "ghce20b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-20-f",
     "points": 39,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-20-f.png",
-    "xws": "ghce20f"
+    "xws": "ghce20f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-21-b",
     "points": 40,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-21-b.png",
-    "xws": "ghce21b"
+    "xws": "ghce21b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-21-f",
     "points": 41,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-21-f.png",
-    "xws": "ghce21f"
+    "xws": "ghce21f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-22-b",
     "points": 42,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-22-b.png",
-    "xws": "ghce22b"
+    "xws": "ghce22b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-22-f",
     "points": 43,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-22-f.png",
-    "xws": "ghce22f"
+    "xws": "ghce22f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-23-b",
     "points": 44,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-23-b.png",
-    "xws": "ghce23b"
+    "xws": "ghce23b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-23-f",
     "points": 45,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-23-f.png",
-    "xws": "ghce23f"
+    "xws": "ghce23f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-24-b",
     "points": 46,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-24-b.png",
-    "xws": "ghce24b"
+    "xws": "ghce24b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-24-f",
     "points": 47,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-24-f.png",
-    "xws": "ghce24f"
+    "xws": "ghce24f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-25-b",
     "points": 48,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-25-b.png",
-    "xws": "ghce25b"
+    "xws": "ghce25b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-25-f",
     "points": 49,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-25-f.png",
-    "xws": "ghce25f"
+    "xws": "ghce25f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-26-b",
     "points": 50,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-26-b.png",
-    "xws": "ghce26b"
+    "xws": "ghce26b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-26-f",
     "points": 51,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-26-f.png",
-    "xws": "ghce26f"
+    "xws": "ghce26f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-27-b",
     "points": 52,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-27-b.png",
-    "xws": "ghce27b"
+    "xws": "ghce27b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-27-f",
     "points": 53,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-27-f.png",
-    "xws": "ghce27f"
+    "xws": "ghce27f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-28-b",
     "points": 54,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-28-b.png",
-    "xws": "ghce28b"
+    "xws": "ghce28b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-28-f",
     "points": 55,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-28-f.png",
-    "xws": "ghce28f"
+    "xws": "ghce28f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-29-b",
     "points": 56,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-29-b.png",
-    "xws": "ghce29b"
+    "xws": "ghce29b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-29-f",
     "points": 57,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-29-f.png",
-    "xws": "ghce29f"
+    "xws": "ghce29f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-30-b",
     "points": 58,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-30-b.png",
-    "xws": "ghce30b"
+    "xws": "ghce30b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-30-f",
     "points": 59,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-30-f.png",
-    "xws": "ghce30f"
+    "xws": "ghce30f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-31-b",
     "points": 60,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-31-b.png",
-    "xws": "ghce31b"
+    "xws": "ghce31b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-31-f",
     "points": 61,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-31-f.png",
-    "xws": "ghce31f"
+    "xws": "ghce31f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-32-b",
     "points": 62,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-32-b.png",
-    "xws": "ghce32b"
+    "xws": "ghce32b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-32-f",
     "points": 63,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-32-f.png",
-    "xws": "ghce32f"
+    "xws": "ghce32f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-33-b",
     "points": 64,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-33-b.png",
-    "xws": "ghce33b"
+    "xws": "ghce33b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-33-f",
     "points": 65,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-33-f.png",
-    "xws": "ghce33f"
+    "xws": "ghce33f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-34-b",
     "points": 66,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-34-b.png",
-    "xws": "ghce34b"
+    "xws": "ghce34b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-34-f",
     "points": 67,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-34-f.png",
-    "xws": "ghce34f"
+    "xws": "ghce34f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-35-b",
     "points": 68,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-35-b.png",
-    "xws": "ghce35b"
+    "xws": "ghce35b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-35-f",
     "points": 69,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-35-f.png",
-    "xws": "ghce35f"
+    "xws": "ghce35f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-36-b",
     "points": 70,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-36-b.png",
-    "xws": "ghce36b"
+    "xws": "ghce36b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-36-f",
     "points": 71,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-36-f.png",
-    "xws": "ghce36f"
+    "xws": "ghce36f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-37-b",
     "points": 72,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-37-b.png",
-    "xws": "ghce37b"
+    "xws": "ghce37b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-37-f",
     "points": 73,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-37-f.png",
-    "xws": "ghce37f"
+    "xws": "ghce37f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-38-b",
     "points": 74,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-38-b.png",
-    "xws": "ghce38b"
+    "xws": "ghce38b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-38-f",
     "points": 75,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-38-f.png",
-    "xws": "ghce38f"
+    "xws": "ghce38f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-39-b",
     "points": 76,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-39-b.png",
-    "xws": "ghce39b"
+    "xws": "ghce39b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-39-f",
     "points": 77,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-39-f.png",
-    "xws": "ghce39f"
+    "xws": "ghce39f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-40-b",
     "points": 78,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-40-b.png",
-    "xws": "ghce40b"
+    "xws": "ghce40b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-40-f",
     "points": 79,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-40-f.png",
-    "xws": "ghce40f"
+    "xws": "ghce40f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-41-b",
     "points": 80,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-41-b.png",
-    "xws": "ghce41b"
+    "xws": "ghce41b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-41-f",
     "points": 81,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-41-f.png",
-    "xws": "ghce41f"
+    "xws": "ghce41f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-42-b",
     "points": 82,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-42-b.png",
-    "xws": "ghce42b"
+    "xws": "ghce42b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-42-f",
     "points": 83,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-42-f.png",
-    "xws": "ghce42f"
+    "xws": "ghce42f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-43-b",
     "points": 84,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-43-b.png",
-    "xws": "ghce43b"
+    "xws": "ghce43b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-43-f",
     "points": 85,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-43-f.png",
-    "xws": "ghce43f"
+    "xws": "ghce43f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-44-b",
     "points": 86,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-44-b.png",
-    "xws": "ghce44b"
+    "xws": "ghce44b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-44-f",
     "points": 87,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-44-f.png",
-    "xws": "ghce44f"
+    "xws": "ghce44f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-45-b",
     "points": 88,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-45-b.png",
-    "xws": "ghce45b"
+    "xws": "ghce45b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-45-f",
     "points": 89,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-45-f.png",
-    "xws": "ghce45f"
+    "xws": "ghce45f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-46-b",
     "points": 90,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-46-b.png",
-    "xws": "ghce46b"
+    "xws": "ghce46b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-46-f",
     "points": 91,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-46-f.png",
-    "xws": "ghce46f"
+    "xws": "ghce46f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-47-b",
     "points": 92,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-47-b.png",
-    "xws": "ghce47b"
+    "xws": "ghce47b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-47-f",
     "points": 93,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-47-f.png",
-    "xws": "ghce47f"
+    "xws": "ghce47f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-48-b",
     "points": 94,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-48-b.png",
-    "xws": "ghce48b"
+    "xws": "ghce48b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-48-f",
     "points": 95,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-48-f.png",
-    "xws": "ghce48f"
+    "xws": "ghce48f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-49-b",
     "points": 96,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-49-b.png",
-    "xws": "ghce49b"
+    "xws": "ghce49b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-49-f",
     "points": 97,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-49-f.png",
-    "xws": "ghce49f"
+    "xws": "ghce49f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-50-b",
     "points": 98,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-50-b.png",
-    "xws": "ghce50b"
+    "xws": "ghce50b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-50-f",
     "points": 99,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-50-f.png",
-    "xws": "ghce50f"
+    "xws": "ghce50f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-51-b",
     "points": 100,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-51-b.png",
-    "xws": "ghce51b"
+    "xws": "ghce51b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-51-f",
     "points": 101,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-51-f.png",
-    "xws": "ghce51f"
+    "xws": "ghce51f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-52-b",
     "points": 102,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-52-b.png",
-    "xws": "ghce52b"
+    "xws": "ghce52b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-52-f",
     "points": 103,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-52-f.png",
-    "xws": "ghce52f"
+    "xws": "ghce52f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-53-b",
     "points": 104,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-53-b.png",
-    "xws": "ghce53b"
+    "xws": "ghce53b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-53-f",
     "points": 105,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-53-f.png",
-    "xws": "ghce53f"
+    "xws": "ghce53f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-54-b",
     "points": 106,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-54-b.png",
-    "xws": "ghce54b"
+    "xws": "ghce54b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-54-f",
     "points": 107,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-54-f.png",
-    "xws": "ghce54f"
+    "xws": "ghce54f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-55-b",
     "points": 108,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-55-b.png",
-    "xws": "ghce55b"
+    "xws": "ghce55b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-55-f",
     "points": 109,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-55-f.png",
-    "xws": "ghce55f"
+    "xws": "ghce55f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-56-b",
     "points": 110,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-56-b.png",
-    "xws": "ghce56b"
+    "xws": "ghce56b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-56-f",
     "points": 111,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-56-f.png",
-    "xws": "ghce56f"
+    "xws": "ghce56f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-57-b",
     "points": 112,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-57-b.png",
-    "xws": "ghce57b"
+    "xws": "ghce57b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-57-f",
     "points": 113,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-57-f.png",
-    "xws": "ghce57f"
+    "xws": "ghce57f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-58-b",
     "points": 114,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-58-b.png",
-    "xws": "ghce58b"
+    "xws": "ghce58b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-58-f",
     "points": 115,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-58-f.png",
-    "xws": "ghce58f"
+    "xws": "ghce58f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-59-b",
     "points": 116,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-59-b.png",
-    "xws": "ghce59b"
+    "xws": "ghce59b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-59-f",
     "points": 117,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-59-f.png",
-    "xws": "ghce59f"
+    "xws": "ghce59f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-60-b",
     "points": 118,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-60-b.png",
-    "xws": "ghce60b"
+    "xws": "ghce60b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-60-f",
     "points": 119,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-60-f.png",
-    "xws": "ghce60f"
+    "xws": "ghce60f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-61-b",
     "points": 120,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-61-b.png",
-    "xws": "ghce61b"
+    "xws": "ghce61b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-61-f",
     "points": 121,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-61-f.png",
-    "xws": "ghce61f"
+    "xws": "ghce61f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-62-b",
     "points": 122,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-62-b.png",
-    "xws": "ghce62b"
+    "xws": "ghce62b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-62-f",
     "points": 123,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-62-f.png",
-    "xws": "ghce62f"
+    "xws": "ghce62f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-63-b",
     "points": 124,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-63-b.png",
-    "xws": "ghce63b"
+    "xws": "ghce63b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-63-f",
     "points": 125,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-63-f.png",
-    "xws": "ghce63f"
+    "xws": "ghce63f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-64-b",
     "points": 126,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-64-b.png",
-    "xws": "ghce64b"
+    "xws": "ghce64b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-64-f",
     "points": 127,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-64-f.png",
-    "xws": "ghce64f"
+    "xws": "ghce64f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-65-b",
     "points": 128,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-65-b.png",
-    "xws": "ghce65b"
+    "xws": "ghce65b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-65-f",
     "points": 129,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-65-f.png",
-    "xws": "ghce65f"
+    "xws": "ghce65f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-66-b",
     "points": 130,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-66-b.png",
-    "xws": "ghce66b"
+    "xws": "ghce66b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-66-f",
     "points": 131,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-66-f.png",
-    "xws": "ghce66f"
+    "xws": "ghce66f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-67-b",
     "points": 132,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-67-b.png",
-    "xws": "ghce67b"
+    "xws": "ghce67b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-67-f",
     "points": 133,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-67-f.png",
-    "xws": "ghce67f"
+    "xws": "ghce67f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-68-b",
     "points": 134,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-68-b.png",
-    "xws": "ghce68b"
+    "xws": "ghce68b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-68-f",
     "points": 135,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-68-f.png",
-    "xws": "ghce68f"
+    "xws": "ghce68f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-69-b",
     "points": 136,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-69-b.png",
-    "xws": "ghce69b"
+    "xws": "ghce69b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-69-f",
     "points": 137,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-69-f.png",
-    "xws": "ghce69f"
+    "xws": "ghce69f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-70-b",
     "points": 138,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-70-b.png",
-    "xws": "ghce70b"
+    "xws": "ghce70b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-70-f",
     "points": 139,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-70-f.png",
-    "xws": "ghce70f"
+    "xws": "ghce70f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-71-b",
     "points": 140,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-71-b.png",
-    "xws": "ghce71b"
+    "xws": "ghce71b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-71-f",
     "points": 141,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-71-f.png",
-    "xws": "ghce71f"
+    "xws": "ghce71f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-72-b",
     "points": 142,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-72-b.png",
-    "xws": "ghce72b"
+    "xws": "ghce72b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-72-f",
     "points": 143,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-72-f.png",
-    "xws": "ghce72f"
+    "xws": "ghce72f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-73-b",
     "points": 144,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-73-b.png",
-    "xws": "ghce73b"
+    "xws": "ghce73b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-73-f",
     "points": 145,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-73-f.png",
-    "xws": "ghce73f"
+    "xws": "ghce73f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-74-b",
     "points": 146,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-74-b.png",
-    "xws": "ghce74b"
+    "xws": "ghce74b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-74-f",
     "points": 147,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-74-f.png",
-    "xws": "ghce74f"
+    "xws": "ghce74f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-75-b",
     "points": 148,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-75-b.png",
-    "xws": "ghce75b"
+    "xws": "ghce75b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-75-f",
     "points": 149,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-75-f.png",
-    "xws": "ghce75f"
+    "xws": "ghce75f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-76-b",
     "points": 150,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-76-b.png",
-    "xws": "ghce76b"
+    "xws": "ghce76b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-76-f",
     "points": 151,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-76-f.png",
-    "xws": "ghce76f"
+    "xws": "ghce76f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-77-b",
     "points": 152,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-77-b.png",
-    "xws": "ghce77b"
+    "xws": "ghce77b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-77-f",
     "points": 153,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-77-f.png",
-    "xws": "ghce77f"
+    "xws": "ghce77f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-78-b",
     "points": 154,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-78-b.png",
-    "xws": "ghce78b"
+    "xws": "ghce78b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-78-f",
     "points": 155,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-78-f.png",
-    "xws": "ghce78f"
+    "xws": "ghce78f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-79-b",
     "points": 156,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-79-b.png",
-    "xws": "ghce79b"
+    "xws": "ghce79b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-79-f",
     "points": 157,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-79-f.png",
-    "xws": "ghce79f"
+    "xws": "ghce79f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-80-b",
     "points": 158,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-80-b.png",
-    "xws": "ghce80b"
+    "xws": "ghce80b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-80-f",
     "points": 159,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-80-f.png",
-    "xws": "ghce80f"
+    "xws": "ghce80f",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-81-b",
     "points": 160,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-81-b.png",
-    "xws": "ghce81b"
+    "xws": "ghce81b",
+    "assetno": "###"
   },
   {
     "name": "gh-ce-81-f",
     "points": 161,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/city/gh-ce-81-f.png",
-    "xws": "ghce81f"
+    "xws": "ghce81f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-01-b",
     "points": 162,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-01-b.png",
-    "xws": "ghre01b"
+    "xws": "ghre01b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-01-f",
     "points": 163,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-01-f.png",
-    "xws": "ghre01f"
+    "xws": "ghre01f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-02-b",
     "points": 164,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-02-b.png",
-    "xws": "ghre02b"
+    "xws": "ghre02b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-02-f",
     "points": 165,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-02-f.png",
-    "xws": "ghre02f"
+    "xws": "ghre02f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-03-b",
     "points": 166,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-03-b.png",
-    "xws": "ghre03b"
+    "xws": "ghre03b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-03-f",
     "points": 167,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-03-f.png",
-    "xws": "ghre03f"
+    "xws": "ghre03f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-04-b",
     "points": 168,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-04-b.png",
-    "xws": "ghre04b"
+    "xws": "ghre04b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-04-f",
     "points": 169,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-04-f.png",
-    "xws": "ghre04f"
+    "xws": "ghre04f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-05-b",
     "points": 170,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-05-b.png",
-    "xws": "ghre05b"
+    "xws": "ghre05b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-05-f",
     "points": 171,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-05-f.png",
-    "xws": "ghre05f"
+    "xws": "ghre05f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-06-b",
     "points": 172,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-06-b.png",
-    "xws": "ghre06b"
+    "xws": "ghre06b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-06-f",
     "points": 173,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-06-f.png",
-    "xws": "ghre06f"
+    "xws": "ghre06f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-07-b",
     "points": 174,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-07-b.png",
-    "xws": "ghre07b"
+    "xws": "ghre07b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-07-f",
     "points": 175,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-07-f.png",
-    "xws": "ghre07f"
+    "xws": "ghre07f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-08-b",
     "points": 176,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-08-b.png",
-    "xws": "ghre08b"
+    "xws": "ghre08b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-08-f",
     "points": 177,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-08-f.png",
-    "xws": "ghre08f"
+    "xws": "ghre08f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-09-b",
     "points": 178,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-09-b.png",
-    "xws": "ghre09b"
+    "xws": "ghre09b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-09-f",
     "points": 179,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-09-f.png",
-    "xws": "ghre09f"
+    "xws": "ghre09f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-10-b",
     "points": 180,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-10-b.png",
-    "xws": "ghre10b"
+    "xws": "ghre10b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-10-f",
     "points": 181,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-10-f.png",
-    "xws": "ghre10f"
+    "xws": "ghre10f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-11-b",
     "points": 182,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-11-b.png",
-    "xws": "ghre11b"
+    "xws": "ghre11b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-11-f",
     "points": 183,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-11-f.png",
-    "xws": "ghre11f"
+    "xws": "ghre11f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-12-b",
     "points": 184,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-12-b.png",
-    "xws": "ghre12b"
+    "xws": "ghre12b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-12-f",
     "points": 185,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-12-f.png",
-    "xws": "ghre12f"
+    "xws": "ghre12f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-13-b",
     "points": 186,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-13-b.png",
-    "xws": "ghre13b"
+    "xws": "ghre13b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-13-f",
     "points": 187,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-13-f.png",
-    "xws": "ghre13f"
+    "xws": "ghre13f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-14-b",
     "points": 188,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-14-b.png",
-    "xws": "ghre14b"
+    "xws": "ghre14b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-14-f",
     "points": 189,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-14-f.png",
-    "xws": "ghre14f"
+    "xws": "ghre14f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-15-b",
     "points": 190,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-15-b.png",
-    "xws": "ghre15b"
+    "xws": "ghre15b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-15-f",
     "points": 191,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-15-f.png",
-    "xws": "ghre15f"
+    "xws": "ghre15f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-16-b",
     "points": 192,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-16-b.png",
-    "xws": "ghre16b"
+    "xws": "ghre16b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-16-f",
     "points": 193,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-16-f.png",
-    "xws": "ghre16f"
+    "xws": "ghre16f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-17-b",
     "points": 194,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-17-b.png",
-    "xws": "ghre17b"
+    "xws": "ghre17b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-17-f",
     "points": 195,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-17-f.png",
-    "xws": "ghre17f"
+    "xws": "ghre17f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-18-b",
     "points": 196,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-18-b.png",
-    "xws": "ghre18b"
+    "xws": "ghre18b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-18-f",
     "points": 197,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-18-f.png",
-    "xws": "ghre18f"
+    "xws": "ghre18f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-19-b",
     "points": 198,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-19-b.png",
-    "xws": "ghre19b"
+    "xws": "ghre19b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-19-f",
     "points": 199,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-19-f.png",
-    "xws": "ghre19f"
+    "xws": "ghre19f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-20-b",
     "points": 200,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-20-b.png",
-    "xws": "ghre20b"
+    "xws": "ghre20b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-20-f",
     "points": 201,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-20-f.png",
-    "xws": "ghre20f"
+    "xws": "ghre20f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-21-b",
     "points": 202,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-21-b.png",
-    "xws": "ghre21b"
+    "xws": "ghre21b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-21-f",
     "points": 203,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-21-f.png",
-    "xws": "ghre21f"
+    "xws": "ghre21f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-22-b",
     "points": 204,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-22-b.png",
-    "xws": "ghre22b"
+    "xws": "ghre22b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-22-f",
     "points": 205,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-22-f.png",
-    "xws": "ghre22f"
+    "xws": "ghre22f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-23-b",
     "points": 206,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-23-b.png",
-    "xws": "ghre23b"
+    "xws": "ghre23b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-23-f",
     "points": 207,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-23-f.png",
-    "xws": "ghre23f"
+    "xws": "ghre23f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-24-b",
     "points": 208,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-24-b.png",
-    "xws": "ghre24b"
+    "xws": "ghre24b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-24-f",
     "points": 209,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-24-f.png",
-    "xws": "ghre24f"
+    "xws": "ghre24f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-25-b",
     "points": 210,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-25-b.png",
-    "xws": "ghre25b"
+    "xws": "ghre25b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-25-f",
     "points": 211,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-25-f.png",
-    "xws": "ghre25f"
+    "xws": "ghre25f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-26-b",
     "points": 212,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-26-b.png",
-    "xws": "ghre26b"
+    "xws": "ghre26b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-26-f",
     "points": 213,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-26-f.png",
-    "xws": "ghre26f"
+    "xws": "ghre26f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-27-b",
     "points": 214,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-27-b.png",
-    "xws": "ghre27b"
+    "xws": "ghre27b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-27-f",
     "points": 215,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-27-f.png",
-    "xws": "ghre27f"
+    "xws": "ghre27f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-28-b",
     "points": 216,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-28-b.png",
-    "xws": "ghre28b"
+    "xws": "ghre28b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-28-f",
     "points": 217,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-28-f.png",
-    "xws": "ghre28f"
+    "xws": "ghre28f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-29-b",
     "points": 218,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-29-b.png",
-    "xws": "ghre29b"
+    "xws": "ghre29b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-29-f",
     "points": 219,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-29-f.png",
-    "xws": "ghre29f"
+    "xws": "ghre29f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-30-b",
     "points": 220,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-30-b.png",
-    "xws": "ghre30b"
+    "xws": "ghre30b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-30-f",
     "points": 221,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-30-f.png",
-    "xws": "ghre30f"
+    "xws": "ghre30f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-31-b",
     "points": 222,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-31-b.png",
-    "xws": "ghre31b"
+    "xws": "ghre31b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-31-f",
     "points": 223,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-31-f.png",
-    "xws": "ghre31f"
+    "xws": "ghre31f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-32-b",
     "points": 224,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-32-b.png",
-    "xws": "ghre32b"
+    "xws": "ghre32b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-32-f",
     "points": 225,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-32-f.png",
-    "xws": "ghre32f"
+    "xws": "ghre32f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-33-b",
     "points": 226,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-33-b.png",
-    "xws": "ghre33b"
+    "xws": "ghre33b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-33-f",
     "points": 227,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-33-f.png",
-    "xws": "ghre33f"
+    "xws": "ghre33f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-34-b",
     "points": 228,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-34-b.png",
-    "xws": "ghre34b"
+    "xws": "ghre34b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-34-f",
     "points": 229,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-34-f.png",
-    "xws": "ghre34f"
+    "xws": "ghre34f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-35-b",
     "points": 230,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-35-b.png",
-    "xws": "ghre35b"
+    "xws": "ghre35b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-35-f",
     "points": 231,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-35-f.png",
-    "xws": "ghre35f"
+    "xws": "ghre35f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-36-b",
     "points": 232,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-36-b.png",
-    "xws": "ghre36b"
+    "xws": "ghre36b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-36-f",
     "points": 233,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-36-f.png",
-    "xws": "ghre36f"
+    "xws": "ghre36f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-37-b",
     "points": 234,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-37-b.png",
-    "xws": "ghre37b"
+    "xws": "ghre37b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-37-f",
     "points": 235,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-37-f.png",
-    "xws": "ghre37f"
+    "xws": "ghre37f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-38-b",
     "points": 236,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-38-b.png",
-    "xws": "ghre38b"
+    "xws": "ghre38b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-38-f",
     "points": 237,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-38-f.png",
-    "xws": "ghre38f"
+    "xws": "ghre38f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-39-b",
     "points": 238,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-39-b.png",
-    "xws": "ghre39b"
+    "xws": "ghre39b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-39-f",
     "points": 239,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-39-f.png",
-    "xws": "ghre39f"
+    "xws": "ghre39f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-40-b",
     "points": 240,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-40-b.png",
-    "xws": "ghre40b"
+    "xws": "ghre40b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-40-f",
     "points": 241,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-40-f.png",
-    "xws": "ghre40f"
+    "xws": "ghre40f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-41-b",
     "points": 242,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-41-b.png",
-    "xws": "ghre41b"
+    "xws": "ghre41b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-41-f",
     "points": 243,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-41-f.png",
-    "xws": "ghre41f"
+    "xws": "ghre41f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-42-b",
     "points": 244,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-42-b.png",
-    "xws": "ghre42b"
+    "xws": "ghre42b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-42-f",
     "points": 245,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-42-f.png",
-    "xws": "ghre42f"
+    "xws": "ghre42f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-43-b",
     "points": 246,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-43-b.png",
-    "xws": "ghre43b"
+    "xws": "ghre43b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-43-f",
     "points": 247,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-43-f.png",
-    "xws": "ghre43f"
+    "xws": "ghre43f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-44-b",
     "points": 248,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-44-b.png",
-    "xws": "ghre44b"
+    "xws": "ghre44b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-44-f",
     "points": 249,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-44-f.png",
-    "xws": "ghre44f"
+    "xws": "ghre44f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-45-b",
     "points": 250,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-45-b.png",
-    "xws": "ghre45b"
+    "xws": "ghre45b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-45-f",
     "points": 251,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-45-f.png",
-    "xws": "ghre45f"
+    "xws": "ghre45f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-46-b",
     "points": 252,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-46-b.png",
-    "xws": "ghre46b"
+    "xws": "ghre46b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-46-f",
     "points": 253,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-46-f.png",
-    "xws": "ghre46f"
+    "xws": "ghre46f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-47-b",
     "points": 254,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-47-b.png",
-    "xws": "ghre47b"
+    "xws": "ghre47b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-47-f",
     "points": 255,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-47-f.png",
-    "xws": "ghre47f"
+    "xws": "ghre47f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-48-b",
     "points": 256,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-48-b.png",
-    "xws": "ghre48b"
+    "xws": "ghre48b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-48-f",
     "points": 257,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-48-f.png",
-    "xws": "ghre48f"
+    "xws": "ghre48f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-49-b",
     "points": 258,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-49-b.png",
-    "xws": "ghre49b"
+    "xws": "ghre49b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-49-f",
     "points": 259,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-49-f.png",
-    "xws": "ghre49f"
+    "xws": "ghre49f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-50-b",
     "points": 260,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-50-b.png",
-    "xws": "ghre50b"
+    "xws": "ghre50b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-50-f",
     "points": 261,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-50-f.png",
-    "xws": "ghre50f"
+    "xws": "ghre50f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-51-b",
     "points": 262,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-51-b.png",
-    "xws": "ghre51b"
+    "xws": "ghre51b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-51-f",
     "points": 263,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-51-f.png",
-    "xws": "ghre51f"
+    "xws": "ghre51f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-52-b",
     "points": 264,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-52-b.png",
-    "xws": "ghre52b"
+    "xws": "ghre52b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-52-f",
     "points": 265,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-52-f.png",
-    "xws": "ghre52f"
+    "xws": "ghre52f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-53-b",
     "points": 266,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-53-b.png",
-    "xws": "ghre53b"
+    "xws": "ghre53b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-53-f",
     "points": 267,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-53-f.png",
-    "xws": "ghre53f"
+    "xws": "ghre53f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-54-b",
     "points": 268,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-54-b.png",
-    "xws": "ghre54b"
+    "xws": "ghre54b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-54-f",
     "points": 269,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-54-f.png",
-    "xws": "ghre54f"
+    "xws": "ghre54f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-55-b",
     "points": 270,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-55-b.png",
-    "xws": "ghre55b"
+    "xws": "ghre55b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-55-f",
     "points": 271,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-55-f.png",
-    "xws": "ghre55f"
+    "xws": "ghre55f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-56-b",
     "points": 272,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-56-b.png",
-    "xws": "ghre56b"
+    "xws": "ghre56b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-56-f",
     "points": 273,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-56-f.png",
-    "xws": "ghre56f"
+    "xws": "ghre56f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-57-b",
     "points": 274,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-57-b.png",
-    "xws": "ghre57b"
+    "xws": "ghre57b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-57-f",
     "points": 275,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-57-f.png",
-    "xws": "ghre57f"
+    "xws": "ghre57f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-58-b",
     "points": 276,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-58-b.png",
-    "xws": "ghre58b"
+    "xws": "ghre58b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-58-f",
     "points": 277,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-58-f.png",
-    "xws": "ghre58f"
+    "xws": "ghre58f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-59-b",
     "points": 278,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-59-b.png",
-    "xws": "ghre59b"
+    "xws": "ghre59b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-59-f",
     "points": 279,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-59-f.png",
-    "xws": "ghre59f"
+    "xws": "ghre59f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-60-b",
     "points": 280,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-60-b.png",
-    "xws": "ghre60b"
+    "xws": "ghre60b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-60-f",
     "points": 281,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-60-f.png",
-    "xws": "ghre60f"
+    "xws": "ghre60f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-61-b",
     "points": 282,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-61-b.png",
-    "xws": "ghre61b"
+    "xws": "ghre61b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-61-f",
     "points": 283,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-61-f.png",
-    "xws": "ghre61f"
+    "xws": "ghre61f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-62-b",
     "points": 284,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-62-b.png",
-    "xws": "ghre62b"
+    "xws": "ghre62b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-62-f",
     "points": 285,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-62-f.png",
-    "xws": "ghre62f"
+    "xws": "ghre62f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-63-b",
     "points": 286,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-63-b.png",
-    "xws": "ghre63b"
+    "xws": "ghre63b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-63-f",
     "points": 287,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-63-f.png",
-    "xws": "ghre63f"
+    "xws": "ghre63f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-64-b",
     "points": 288,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-64-b.png",
-    "xws": "ghre64b"
+    "xws": "ghre64b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-64-f",
     "points": 289,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-64-f.png",
-    "xws": "ghre64f"
+    "xws": "ghre64f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-65-b",
     "points": 290,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-65-b.png",
-    "xws": "ghre65b"
+    "xws": "ghre65b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-65-f",
     "points": 291,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-65-f.png",
-    "xws": "ghre65f"
+    "xws": "ghre65f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-66-b",
     "points": 292,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-66-b.png",
-    "xws": "ghre66b"
+    "xws": "ghre66b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-66-f",
     "points": 293,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-66-f.png",
-    "xws": "ghre66f"
+    "xws": "ghre66f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-67-b",
     "points": 294,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-67-b.png",
-    "xws": "ghre67b"
+    "xws": "ghre67b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-67-f",
     "points": 295,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-67-f.png",
-    "xws": "ghre67f"
+    "xws": "ghre67f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-68-b",
     "points": 296,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-68-b.png",
-    "xws": "ghre68b"
+    "xws": "ghre68b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-68-f",
     "points": 297,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-68-f.png",
-    "xws": "ghre68f"
+    "xws": "ghre68f",
+    "assetno": "###"
   },
   {
     "name": "gh-re-69-b",
     "points": 298,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-69-b.png",
-    "xws": "ghre69b"
+    "xws": "ghre69b",
+    "assetno": "###"
   },
   {
     "name": "gh-re-69-f",
     "points": 299,
     "expansion": "gloomhaven",
     "image": "events/gloomhaven/road/gh-re-69-f.png",
-    "xws": "ghre69f"
+    "xws": "ghre69f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-82-b",
