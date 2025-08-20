@@ -4,420 +4,480 @@
     "points": 0,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a1a.png",
-    "xws": "a1a"
+    "xws": "a1a",
+    "assetno": "###"
   },
   {
     "name": "a1b",
     "points": 1,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a1b.png",
-    "xws": "a1b"
+    "xws": "a1b",
+    "assetno": "###"
   },
   {
     "name": "a2a",
     "points": 2,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a2a.png",
-    "xws": "a2a"
+    "xws": "a2a",
+    "assetno": "###"
   },
   {
     "name": "a2b",
     "points": 3,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a2b.png",
-    "xws": "a2b"
+    "xws": "a2b",
+    "assetno": "###"
   },
   {
     "name": "a3a",
     "points": 4,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a3a.png",
-    "xws": "a3a"
+    "xws": "a3a",
+    "assetno": "###"
   },
   {
     "name": "a3b",
     "points": 5,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a3b.png",
-    "xws": "a3b"
+    "xws": "a3b",
+    "assetno": "###"
   },
   {
     "name": "a4a",
     "points": 6,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a4a.png",
-    "xws": "a4a"
+    "xws": "a4a",
+    "assetno": "###"
   },
   {
     "name": "a4b",
     "points": 7,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-a4b.png",
-    "xws": "a4b"
+    "xws": "a4b",
+    "assetno": "###"
   },
   {
     "name": "b1a",
     "points": 8,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b1a.png",
-    "xws": "b1a"
+    "xws": "b1a",
+    "assetno": "###"
   },
   {
     "name": "b1b",
     "points": 9,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b1b.png",
-    "xws": "b1b"
+    "xws": "b1b",
+    "assetno": "###"
   },
   {
     "name": "b2a",
     "points": 10,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b2a.png",
-    "xws": "b2a"
+    "xws": "b2a",
+    "assetno": "###"
   },
   {
     "name": "b2b",
     "points": 11,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b2b.png",
-    "xws": "b2b"
+    "xws": "b2b",
+    "assetno": "###"
   },
   {
     "name": "b3a",
     "points": 12,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b3a.png",
-    "xws": "b3a"
+    "xws": "b3a",
+    "assetno": "###"
   },
   {
     "name": "b3b",
     "points": 13,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b3b.png",
-    "xws": "b3b"
+    "xws": "b3b",
+    "assetno": "###"
   },
   {
     "name": "b4a",
     "points": 14,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b4a.png",
-    "xws": "b4a"
+    "xws": "b4a",
+    "assetno": "###"
   },
   {
     "name": "b4b",
     "points": 15,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-b4b.png",
-    "xws": "b4b"
+    "xws": "b4b",
+    "assetno": "###"
   },
   {
     "name": "c1a",
     "points": 16,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-c1a.png",
-    "xws": "c1a"
+    "xws": "c1a",
+    "assetno": "###"
   },
   {
     "name": "c1b",
     "points": 17,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-c1b.png",
-    "xws": "c1b"
+    "xws": "c1b",
+    "assetno": "###"
   },
   {
     "name": "c2a",
     "points": 18,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-c2a.png",
-    "xws": "c2a"
+    "xws": "c2a",
+    "assetno": "###"
   },
   {
     "name": "c2b",
     "points": 19,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-c2b.png",
-    "xws": "c2b"
+    "xws": "c2b",
+    "assetno": "###"
   },
   {
     "name": "d1a",
     "points": 20,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-d1a.png",
-    "xws": "d1a"
+    "xws": "d1a",
+    "assetno": "###"
   },
   {
     "name": "d1b",
     "points": 21,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-d1b.png",
-    "xws": "d1b"
+    "xws": "d1b",
+    "assetno": "###"
   },
   {
     "name": "d2a",
     "points": 22,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-d2a.png",
-    "xws": "d2a"
+    "xws": "d2a",
+    "assetno": "###"
   },
   {
     "name": "d2b",
     "points": 23,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-d2b.png",
-    "xws": "d2b"
+    "xws": "d2b",
+    "assetno": "###"
   },
   {
     "name": "e1a",
     "points": 24,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-e1a.png",
-    "xws": "e1a"
+    "xws": "e1a",
+    "assetno": "###"
   },
   {
     "name": "e1b",
     "points": 25,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-e1b.png",
-    "xws": "e1b"
+    "xws": "e1b",
+    "assetno": "###"
   },
   {
     "name": "f1a",
     "points": 26,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-f1a.png",
-    "xws": "f1a"
+    "xws": "f1a",
+    "assetno": "###"
   },
   {
     "name": "f1b",
     "points": 27,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-f1b.png",
-    "xws": "f1b"
+    "xws": "f1b",
+    "assetno": "###"
   },
   {
     "name": "g1a",
     "points": 28,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-g1a.png",
-    "xws": "g1a"
+    "xws": "g1a",
+    "assetno": "###"
   },
   {
     "name": "g1b",
     "points": 29,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-g1b.png",
-    "xws": "g1b"
+    "xws": "g1b",
+    "assetno": "###"
   },
   {
     "name": "g2a",
     "points": 30,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-g2a.png",
-    "xws": "g2a"
+    "xws": "g2a",
+    "assetno": "###"
   },
   {
     "name": "g2b",
     "points": 31,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-g2b.png",
-    "xws": "g2b"
+    "xws": "g2b",
+    "assetno": "###"
   },
   {
     "name": "h1a",
     "points": 32,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-h1a.png",
-    "xws": "h1a"
+    "xws": "h1a",
+    "assetno": "###"
   },
   {
     "name": "h1b",
     "points": 33,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-h1b.png",
-    "xws": "h1b"
+    "xws": "h1b",
+    "assetno": "###"
   },
   {
     "name": "h2a",
     "points": 34,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-h2a.png",
-    "xws": "h2a"
+    "xws": "h2a",
+    "assetno": "###"
   },
   {
     "name": "h2b",
     "points": 35,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-h2b.png",
-    "xws": "h2b"
+    "xws": "h2b",
+    "assetno": "###"
   },
   {
     "name": "h3a",
     "points": 36,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-h3a.png",
-    "xws": "h3a"
+    "xws": "h3a",
+    "assetno": "###"
   },
   {
     "name": "h3b",
     "points": 37,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-h3b.png",
-    "xws": "h3b"
+    "xws": "h3b",
+    "assetno": "###"
   },
   {
     "name": "i1a",
     "points": 38,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-i1a.png",
-    "xws": "i1a"
+    "xws": "i1a",
+    "assetno": "###"
   },
   {
     "name": "i1b",
     "points": 39,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-i1b.png",
-    "xws": "i1b"
+    "xws": "i1b",
+    "assetno": "###"
   },
   {
     "name": "i2a",
     "points": 40,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-i2a.png",
-    "xws": "i2a"
+    "xws": "i2a",
+    "assetno": "###"
   },
   {
     "name": "i2b",
     "points": 41,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-i2b.png",
-    "xws": "i2b"
+    "xws": "i2b",
+    "assetno": "###"
   },
   {
     "name": "j1a",
     "points": 42,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-j1a.png",
-    "xws": "j1a"
+    "xws": "j1a",
+    "assetno": "###"
   },
   {
     "name": "j1b",
     "points": 43,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-j1b.png",
-    "xws": "j1b"
+    "xws": "j1b",
+    "assetno": "###"
   },
   {
     "name": "j2a",
     "points": 44,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-j2a.png",
-    "xws": "j2a"
+    "xws": "j2a",
+    "assetno": "###"
   },
   {
     "name": "j2b",
     "points": 45,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-j2b.png",
-    "xws": "j2b"
+    "xws": "j2b",
+    "assetno": "###"
   },
   {
     "name": "k1a",
     "points": 46,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-k1a.png",
-    "xws": "k1a"
+    "xws": "k1a",
+    "assetno": "###"
   },
   {
     "name": "k1b",
     "points": 47,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-k1b.png",
-    "xws": "k1b"
+    "xws": "k1b",
+    "assetno": "###"
   },
   {
     "name": "k2a",
     "points": 48,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-k2a.png",
-    "xws": "k2a"
+    "xws": "k2a",
+    "assetno": "###"
   },
   {
     "name": "k2b",
     "points": 49,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-k2b.png",
-    "xws": "k2b"
+    "xws": "k2b",
+    "assetno": "###"
   },
   {
     "name": "l1a",
     "points": 50,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-l1a.png",
-    "xws": "l1a"
+    "xws": "l1a",
+    "assetno": "###"
   },
   {
     "name": "l1b",
     "points": 51,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-l1b.png",
-    "xws": "l1b"
+    "xws": "l1b",
+    "assetno": "###"
   },
   {
     "name": "l2a",
     "points": 52,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-l2a.png",
-    "xws": "l2a"
+    "xws": "l2a",
+    "assetno": "###"
   },
   {
     "name": "l2b",
     "points": 53,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-l2b.png",
-    "xws": "l2b"
+    "xws": "l2b",
+    "assetno": "###"
   },
   {
     "name": "l3a",
     "points": 54,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-l3a.png",
-    "xws": "l3a"
+    "xws": "l3a",
+    "assetno": "###"
   },
   {
     "name": "l3b",
     "points": 55,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-l3b.png",
-    "xws": "l3b"
+    "xws": "l3b",
+    "assetno": "###"
   },
   {
     "name": "m1a",
     "points": 56,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-m1a.png",
-    "xws": "m1a"
+    "xws": "m1a",
+    "assetno": "###"
   },
   {
     "name": "m1b",
     "points": 57,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-m1b.png",
-    "xws": "m1b"
+    "xws": "m1b",
+    "assetno": "###"
   },
   {
     "name": "n1a",
     "points": 58,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-n1a.png",
-    "xws": "n1a"
+    "xws": "n1a",
+    "assetno": "###"
   },
   {
     "name": "n1b",
     "points": 59,
     "expansion": "gloomhaven",
     "image": "map-tiles/gloomhaven/gh-n1b.png",
-    "xws": "n1b"
+    "xws": "n1b",
+    "assetno": "###"
   },
   {
     "name": "01a",
