@@ -1,591 +1,675 @@
 [
   {
-    "name": "random dungeon a-back",
+    "name": "a-back",
     "points": 0,
     "expansion": "gloomhaven",
     "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-a-back.png",
-    "xws": "randomdungeonaback"
+    "xws": "aback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon ab-back",
+    "name": "ab-back",
     "points": 1,
     "expansion": "gloomhaven",
     "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-ab-back.png",
-    "xws": "randomdungeonabback"
+    "xws": "abback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon b-back",
+    "name": "alcove",
     "points": 2,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-b-back.png",
-    "xws": "randomdungeonbback"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-alcove.png",
+    "xws": "alcove",
+    "assetno": "551"
   },
   {
-    "name": "random dungeon 534",
+    "name": "551",
     "points": 3,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-sewer.png",
-    "xws": "randomdungeonsewer"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-alcove.png",
+    "xws": "alcove",
+    "assetno": "551"
   },
   {
-    "name": "random dungeon sewer",
+    "name": "altar",
     "points": 4,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-sewer.png",
-    "xws": "randomdungeonsewer"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-altar.png",
+    "xws": "altar",
+    "assetno": "542"
   },
   {
-    "name": "random dungeon 535",
+    "name": "542",
     "points": 5,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-crossroads.png",
-    "xws": "randomdungeoncrossroads"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-altar.png",
+    "xws": "altar",
+    "assetno": "542"
   },
   {
-    "name": "random dungeon crossroads",
+    "name": "armory",
     "points": 6,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-crossroads.png",
-    "xws": "randomdungeoncrossroads"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-armory.png",
+    "xws": "armory",
+    "assetno": "543"
   },
   {
-    "name": "random dungeon 536",
+    "name": "543",
     "points": 7,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-passage.png",
-    "xws": "randomdungeonpassage"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-armory.png",
+    "xws": "armory",
+    "assetno": "543"
   },
   {
-    "name": "random dungeon passage",
+    "name": "b-back",
     "points": 8,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-passage.png",
-    "xws": "randomdungeonpassage"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-b-back.png",
+    "xws": "bback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon 537",
+    "name": "burrow",
     "points": 9,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-dead-end.png",
-    "xws": "randomdungeondeadend"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-burrow.png",
+    "xws": "burrow",
+    "assetno": "553"
   },
   {
-    "name": "random dungeon dead-end",
+    "name": "553",
     "points": 10,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-dead-end.png",
-    "xws": "randomdungeondeadend"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-burrow.png",
+    "xws": "burrow",
+    "assetno": "553"
   },
   {
-    "name": "random dungeon 538",
+    "name": "cabin",
     "points": 11,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hallway.png",
-    "xws": "randomdungeonhallway"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cabin.png",
+    "xws": "cabin",
+    "assetno": "540"
   },
   {
-    "name": "random dungeon hallway",
+    "name": "540",
     "points": 12,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hallway.png",
-    "xws": "randomdungeonhallway"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cabin.png",
+    "xws": "cabin",
+    "assetno": "540"
   },
   {
-    "name": "random dungeon 539",
+    "name": "cave",
     "points": 13,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-road.png",
-    "xws": "randomdungeonroad"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cave.png",
+    "xws": "cave",
+    "assetno": "549"
   },
   {
-    "name": "random dungeon road",
+    "name": "549",
     "points": 14,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-road.png",
-    "xws": "randomdungeonroad"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cave.png",
+    "xws": "cave",
+    "assetno": "549"
   },
   {
-    "name": "random dungeon 540",
+    "name": "clearing",
     "points": 15,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cabin.png",
-    "xws": "randomdungeoncabin"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-clearing.png",
+    "xws": "clearing",
+    "assetno": "541"
   },
   {
-    "name": "random dungeon cabin",
+    "name": "541",
     "points": 16,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cabin.png",
-    "xws": "randomdungeoncabin"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-clearing.png",
+    "xws": "clearing",
+    "assetno": "541"
   },
   {
-    "name": "random dungeon 541",
+    "name": "corridor",
     "points": 17,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-clearing.png",
-    "xws": "randomdungeonclearing"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-corridor.png",
+    "xws": "corridor",
+    "assetno": "548"
   },
   {
-    "name": "random dungeon clearing",
+    "name": "548",
     "points": 18,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-clearing.png",
-    "xws": "randomdungeonclearing"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-corridor.png",
+    "xws": "corridor",
+    "assetno": "548"
   },
   {
-    "name": "random dungeon 542",
+    "name": "crossroads",
     "points": 19,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-altar.png",
-    "xws": "randomdungeonaltar"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-crossroads.png",
+    "xws": "crossroads",
+    "assetno": "535"
   },
   {
-    "name": "random dungeon altar",
+    "name": "535",
     "points": 20,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-altar.png",
-    "xws": "randomdungeonaltar"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-crossroads.png",
+    "xws": "crossroads",
+    "assetno": "535"
   },
   {
-    "name": "random dungeon 543",
+    "name": "dead-end",
     "points": 21,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-armory.png",
-    "xws": "randomdungeonarmory"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-dead-end.png",
+    "xws": "deadend",
+    "assetno": "537"
   },
   {
-    "name": "random dungeon armory",
+    "name": "537",
     "points": 22,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-armory.png",
-    "xws": "randomdungeonarmory"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-dead-end.png",
+    "xws": "deadend",
+    "assetno": "537"
   },
   {
-    "name": "random dungeon 544",
+    "name": "den",
     "points": 23,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-encampment.png",
-    "xws": "randomdungeonencampment"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-den.png",
+    "xws": "den",
+    "assetno": "546"
   },
   {
-    "name": "random dungeon encampment",
+    "name": "546",
     "points": 24,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-encampment.png",
-    "xws": "randomdungeonencampment"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-den.png",
+    "xws": "den",
+    "assetno": "546"
   },
   {
-    "name": "random dungeon 545",
+    "name": "encampment",
     "points": 25,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-library.png",
-    "xws": "randomdungeonlibrary"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-encampment.png",
+    "xws": "encampment",
+    "assetno": "544"
   },
   {
-    "name": "random dungeon library",
+    "name": "544",
     "points": 26,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-library.png",
-    "xws": "randomdungeonlibrary"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-encampment.png",
+    "xws": "encampment",
+    "assetno": "544"
   },
   {
-    "name": "random dungeon 546",
+    "name": "hallway",
     "points": 27,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-den.png",
-    "xws": "randomdungeonden"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hallway.png",
+    "xws": "hallway",
+    "assetno": "538"
   },
   {
-    "name": "random dungeon den",
+    "name": "538",
     "points": 28,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-den.png",
-    "xws": "randomdungeonden"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hallway.png",
+    "xws": "hallway",
+    "assetno": "538"
   },
   {
-    "name": "random dungeon 547",
+    "name": "hovel",
     "points": 29,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-trail.png",
-    "xws": "randomdungeontrail"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hovel.png",
+    "xws": "hovel",
+    "assetno": "552"
   },
   {
-    "name": "random dungeon trail",
+    "name": "552",
     "points": 30,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-trail.png",
-    "xws": "randomdungeontrail"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hovel.png",
+    "xws": "hovel",
+    "assetno": "552"
   },
   {
-    "name": "random dungeon 548",
+    "name": "library",
     "points": 31,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-corridor.png",
-    "xws": "randomdungeoncorridor"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-library.png",
+    "xws": "library",
+    "assetno": "545"
   },
   {
-    "name": "random dungeon corridor",
+    "name": "545",
     "points": 32,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-corridor.png",
-    "xws": "randomdungeoncorridor"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-library.png",
+    "xws": "library",
+    "assetno": "545"
   },
   {
-    "name": "random dungeon 549",
+    "name": "passage",
     "points": 33,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cave.png",
-    "xws": "randomdungeoncave"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-passage.png",
+    "xws": "passage",
+    "assetno": "536"
   },
   {
-    "name": "random dungeon cave",
+    "name": "536",
     "points": 34,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-cave.png",
-    "xws": "randomdungeoncave"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-passage.png",
+    "xws": "passage",
+    "assetno": "536"
   },
   {
-    "name": "random dungeon 550",
+    "name": "road",
     "points": 35,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-tunnel.png",
-    "xws": "randomdungeontunnel"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-road.png",
+    "xws": "road",
+    "assetno": "539"
   },
   {
-    "name": "random dungeon tunnel",
+    "name": "539",
     "points": 36,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-tunnel.png",
-    "xws": "randomdungeontunnel"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-road.png",
+    "xws": "road",
+    "assetno": "539"
   },
   {
-    "name": "random dungeon 551",
+    "name": "sewer",
     "points": 37,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-alcove.png",
-    "xws": "randomdungeonalcove"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-sewer.png",
+    "xws": "sewer",
+    "assetno": "534"
   },
   {
-    "name": "random dungeon alcove",
+    "name": "534",
     "points": 38,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-alcove.png",
-    "xws": "randomdungeonalcove"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-sewer.png",
+    "xws": "sewer",
+    "assetno": "534"
   },
   {
-    "name": "random dungeon 552",
+    "name": "trail",
     "points": 39,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hovel.png",
-    "xws": "randomdungeonhovel"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-trail.png",
+    "xws": "trail",
+    "assetno": "547"
   },
   {
-    "name": "random dungeon hovel",
+    "name": "547",
     "points": 40,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-hovel.png",
-    "xws": "randomdungeonhovel"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-trail.png",
+    "xws": "trail",
+    "assetno": "547"
   },
   {
-    "name": "random dungeon 553",
+    "name": "tunnel",
     "points": 41,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-burrow.png",
-    "xws": "randomdungeonburrow"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-tunnel.png",
+    "xws": "tunnel",
+    "assetno": "550"
   },
   {
-    "name": "random dungeon burrow",
+    "name": "550",
     "points": 42,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-burrow.png",
-    "xws": "randomdungeonburrow"
+    "image": "random-dungeons/gloomhaven/dungeons/gh-dungeon-tunnel.png",
+    "xws": "tunnel",
+    "assetno": "550"
   },
   {
-    "name": "random dungeon monster-back",
+    "name": "archaic",
     "points": 43,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-monster-back.png",
-    "xws": "randomdungeonmonsterback"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-archaic.png",
+    "xws": "archaic",
+    "assetno": "566"
   },
   {
-    "name": "random dungeon 554",
+    "name": "566",
     "points": 44,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-mangy.png",
-    "xws": "randomdungeonmangy"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-archaic.png",
+    "xws": "archaic",
+    "assetno": "566"
   },
   {
-    "name": "random dungeon mangy",
+    "name": "corrupted",
     "points": 45,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-mangy.png",
-    "xws": "randomdungeonmangy"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-corrupted.png",
+    "xws": "corrupted",
+    "assetno": "570"
   },
   {
-    "name": "random dungeon 555",
+    "name": "570",
     "points": 46,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-drowned.png",
-    "xws": "randomdungeondrowned"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-corrupted.png",
+    "xws": "corrupted",
+    "assetno": "570"
   },
   {
-    "name": "random dungeon drowned",
+    "name": "crushing",
     "points": 47,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-drowned.png",
-    "xws": "randomdungeondrowned"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-crushing.png",
+    "xws": "crushing",
+    "assetno": "563"
   },
   {
-    "name": "random dungeon 556",
+    "name": "563",
     "points": 48,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-hopeless.png",
-    "xws": "randomdungeonhopeless"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-crushing.png",
+    "xws": "crushing",
+    "assetno": "563"
   },
   {
-    "name": "random dungeon hopeless",
+    "name": "cutthroat",
     "points": 49,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-hopeless.png",
-    "xws": "randomdungeonhopeless"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-cutthroat.png",
+    "xws": "cutthroat",
+    "assetno": "560"
   },
   {
-    "name": "random dungeon 557",
+    "name": "560",
     "points": 50,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-defiled.png",
-    "xws": "randomdungeondefiled"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-cutthroat.png",
+    "xws": "cutthroat",
+    "assetno": "560"
   },
   {
-    "name": "random dungeon defiled",
+    "name": "defiled",
     "points": 51,
     "expansion": "gloomhaven",
     "image": "random-dungeons/gloomhaven/monsters/gh-monster-defiled.png",
-    "xws": "randomdungeondefiled"
+    "xws": "defiled",
+    "assetno": "557"
   },
   {
-    "name": "random dungeon 558",
+    "name": "557",
     "points": 52,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-wild.png",
-    "xws": "randomdungeonwild"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-defiled.png",
+    "xws": "defiled",
+    "assetno": "557"
   },
   {
-    "name": "random dungeon wild",
+    "name": "drowned",
     "points": 53,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-wild.png",
-    "xws": "randomdungeonwild"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-drowned.png",
+    "xws": "drowned",
+    "assetno": "555"
   },
   {
-    "name": "random dungeon 559",
+    "name": "555",
     "points": 54,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-fortified.png",
-    "xws": "randomdungeonfortified"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-drowned.png",
+    "xws": "drowned",
+    "assetno": "555"
   },
   {
-    "name": "random dungeon fortified",
+    "name": "foggy",
     "points": 55,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-fortified.png",
-    "xws": "randomdungeonfortified"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-foggy.png",
+    "xws": "foggy",
+    "assetno": "562"
   },
   {
-    "name": "random dungeon 560",
+    "name": "562",
     "points": 56,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-cutthroat.png",
-    "xws": "randomdungeoncutthroat"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-foggy.png",
+    "xws": "foggy",
+    "assetno": "562"
   },
   {
-    "name": "random dungeon cutthroat",
+    "name": "fortified",
     "points": 57,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-cutthroat.png",
-    "xws": "randomdungeoncutthroat"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-fortified.png",
+    "xws": "fortified",
+    "assetno": "559"
   },
   {
-    "name": "random dungeon 561",
+    "name": "559",
     "points": 58,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-rotting.png",
-    "xws": "randomdungeonrotting"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-fortified.png",
+    "xws": "fortified",
+    "assetno": "559"
   },
   {
-    "name": "random dungeon rotting",
+    "name": "frigid",
     "points": 59,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-rotting.png",
-    "xws": "randomdungeonrotting"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-frigid.png",
+    "xws": "frigid",
+    "assetno": "573"
   },
   {
-    "name": "random dungeon 562",
+    "name": "573",
     "points": 60,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-foggy.png",
-    "xws": "randomdungeonfoggy"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-frigid.png",
+    "xws": "frigid",
+    "assetno": "573"
   },
   {
-    "name": "random dungeon foggy",
+    "name": "hopeless",
     "points": 61,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-foggy.png",
-    "xws": "randomdungeonfoggy"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-hopeless.png",
+    "xws": "hopeless",
+    "assetno": "556"
   },
   {
-    "name": "random dungeon 563",
+    "name": "556",
     "points": 62,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-crushing.png",
-    "xws": "randomdungeoncrushing"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-hopeless.png",
+    "xws": "hopeless",
+    "assetno": "556"
   },
   {
-    "name": "random dungeon crushing",
+    "name": "horrific",
     "points": 63,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-crushing.png",
-    "xws": "randomdungeoncrushing"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-horrific.png",
+    "xws": "horrific",
+    "assetno": "565"
   },
   {
-    "name": "random dungeon 564",
+    "name": "565",
     "points": 64,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-tribal.png",
-    "xws": "randomdungeontribal"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-horrific.png",
+    "xws": "horrific",
+    "assetno": "565"
   },
   {
-    "name": "random dungeon tribal",
+    "name": "infected",
     "points": 65,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-tribal.png",
-    "xws": "randomdungeontribal"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-infected.png",
+    "xws": "infected",
+    "assetno": "571"
   },
   {
-    "name": "random dungeon 565",
+    "name": "571",
     "points": 66,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-horrific.png",
-    "xws": "randomdungeonhorrific"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-infected.png",
+    "xws": "infected",
+    "assetno": "571"
   },
   {
-    "name": "random dungeon horrific",
+    "name": "mangy",
     "points": 67,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-horrific.png",
-    "xws": "randomdungeonhorrific"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-mangy.png",
+    "xws": "mangy",
+    "assetno": "554"
   },
   {
-    "name": "random dungeon 566",
+    "name": "554",
     "points": 68,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-archaic.png",
-    "xws": "randomdungeonarchaic"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-mangy.png",
+    "xws": "mangy",
+    "assetno": "554"
   },
   {
-    "name": "random dungeon archaic",
+    "name": "monster-back",
     "points": 69,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-archaic.png",
-    "xws": "randomdungeonarchaic"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-monster-back.png",
+    "xws": "monsterback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon 567",
+    "name": "putrid",
     "points": 70,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-scaled.png",
-    "xws": "randomdungeonscaled"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-putrid.png",
+    "xws": "putrid",
+    "assetno": "572"
   },
   {
-    "name": "random dungeon scaled",
+    "name": "572",
     "points": 71,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-scaled.png",
-    "xws": "randomdungeonscaled"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-putrid.png",
+    "xws": "putrid",
+    "assetno": "572"
   },
   {
-    "name": "random dungeon 568",
+    "name": "rotting",
     "points": 72,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-venomous.png",
-    "xws": "randomdungeonvenomous"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-rotting.png",
+    "xws": "rotting",
+    "assetno": "561"
   },
   {
-    "name": "random dungeon venomous",
+    "name": "561",
     "points": 73,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-venomous.png",
-    "xws": "randomdungeonvenomous"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-rotting.png",
+    "xws": "rotting",
+    "assetno": "561"
   },
   {
-    "name": "random dungeon 569",
+    "name": "scaled",
     "points": 74,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-unstable.png",
-    "xws": "randomdungeonunstable"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-scaled.png",
+    "xws": "scaled",
+    "assetno": "567"
   },
   {
-    "name": "random dungeon unstable",
+    "name": "567",
     "points": 75,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-unstable.png",
-    "xws": "randomdungeonunstable"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-scaled.png",
+    "xws": "scaled",
+    "assetno": "567"
   },
   {
-    "name": "random dungeon 570",
+    "name": "tribal",
     "points": 76,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-corrupted.png",
-    "xws": "randomdungeoncorrupted"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-tribal.png",
+    "xws": "tribal",
+    "assetno": "564"
   },
   {
-    "name": "random dungeon corrupted",
+    "name": "564",
     "points": 77,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-corrupted.png",
-    "xws": "randomdungeoncorrupted"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-tribal.png",
+    "xws": "tribal",
+    "assetno": "564"
   },
   {
-    "name": "random dungeon 571",
+    "name": "unstable",
     "points": 78,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-infected.png",
-    "xws": "randomdungeoninfected"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-unstable.png",
+    "xws": "unstable",
+    "assetno": "569"
   },
   {
-    "name": "random dungeon infected",
+    "name": "569",
     "points": 79,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-infected.png",
-    "xws": "randomdungeoninfected"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-unstable.png",
+    "xws": "unstable",
+    "assetno": "569"
   },
   {
-    "name": "random dungeon 572",
+    "name": "venomous",
     "points": 80,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-putrid.png",
-    "xws": "randomdungeonputrid"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-venomous.png",
+    "xws": "venomous",
+    "assetno": "568"
   },
   {
-    "name": "random dungeon putrid",
+    "name": "568",
     "points": 81,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-putrid.png",
-    "xws": "randomdungeonputrid"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-venomous.png",
+    "xws": "venomous",
+    "assetno": "568"
   },
   {
-    "name": "random dungeon 573",
+    "name": "wild",
     "points": 82,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-frigid.png",
-    "xws": "randomdungeonfrigid"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-wild.png",
+    "xws": "wild",
+    "assetno": "558"
   },
   {
-    "name": "random dungeon frigid",
+    "name": "558",
     "points": 83,
     "expansion": "gloomhaven",
-    "image": "random-dungeons/gloomhaven/monsters/gh-monster-frigid.png",
-    "xws": "randomdungeonfrigid"
+    "image": "random-dungeons/gloomhaven/monsters/gh-monster-wild.png",
+    "xws": "wild",
+    "assetno": "558"
   },
   {
     "name": "random dungeon monster-back",
