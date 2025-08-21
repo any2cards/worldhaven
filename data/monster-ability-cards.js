@@ -1445,15 +1445,15 @@
     "expansion": "gloomhaven",
     "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-6.png",
     "xws": "ghmagu6",
-    "assetno": "539"
+    "assetno": "529"
   },
   {
-    "name": "539",
+    "name": "529",
     "points": 181,
     "expansion": "gloomhaven",
     "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-6.png",
     "xws": "ghmagu6",
-    "assetno": "539"
+    "assetno": "529"
   },
   {
     "name": "gh-ma-gu-7",
