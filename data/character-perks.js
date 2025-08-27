@@ -244,7 +244,8 @@
     "points": 30,
     "expansion": "forgotten circles",
     "image": "character-perks/forgotten-circles/fc-diviner-perks.png",
-    "xws": "divinerperks"
+    "xws": "divinerperks",
+    "assetno": "###"
   },
   {
     "name": "banner spear perks",
