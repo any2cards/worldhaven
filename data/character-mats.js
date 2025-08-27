@@ -468,14 +468,16 @@
     "points": 58,
     "expansion": "forgotten circles",
     "image": "character-mats/forgotten-circles/fc-diviner.png",
-    "xws": "diviner"
+    "xws": "diviner",
+    "assetno": "###"
   },
   {
     "name": "diviner",
     "points": 59,
     "expansion": "forgotten circles",
     "image": "character-mats/forgotten-circles/fc-diviner-back.png",
-    "xws": "diviner"
+    "xws": "diviner",
+    "assetno": "###"
   },
   {
     "name": "banner spear",
