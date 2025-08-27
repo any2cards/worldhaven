@@ -2404,434 +2404,496 @@
     "points": 300,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-82-b.png",
-    "xws": "fcce82b"
+    "xws": "fcce82b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-82-f",
     "points": 301,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-82-f.png",
-    "xws": "fcce82f"
+    "xws": "fcce82f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-83-b",
     "points": 302,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-83-b.png",
-    "xws": "fcce83b"
+    "xws": "fcce83b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-83-f",
     "points": 303,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-83-f.png",
-    "xws": "fcce83f"
+    "xws": "fcce83f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-84-b",
     "points": 304,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-84-b.png",
-    "xws": "fcce84b"
+    "xws": "fcce84b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-84-f",
     "points": 305,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-84-f.png",
-    "xws": "fcce84f"
+    "xws": "fcce84f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-85-b",
     "points": 306,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-85-b.png",
-    "xws": "fcce85b"
+    "xws": "fcce85b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-85-f",
     "points": 307,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-85-f.png",
-    "xws": "fcce85f"
+    "xws": "fcce85f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-86-b",
     "points": 308,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-86-b.png",
-    "xws": "fcce86b"
+    "xws": "fcce86b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-86-f",
     "points": 309,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-86-f.png",
-    "xws": "fcce86f"
+    "xws": "fcce86f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-87-b",
     "points": 310,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-87-b.png",
-    "xws": "fcce87b"
+    "xws": "fcce87b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-87-f",
     "points": 311,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-87-f.png",
-    "xws": "fcce87f"
+    "xws": "fcce87f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-88-b",
     "points": 312,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-88-b.png",
-    "xws": "fcce88b"
+    "xws": "fcce88b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-88-f",
     "points": 313,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-88-f.png",
-    "xws": "fcce88f"
+    "xws": "fcce88f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-89-b",
     "points": 314,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-89-b.png",
-    "xws": "fcce89b"
+    "xws": "fcce89b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-89-f",
     "points": 315,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-89-f.png",
-    "xws": "fcce89f"
+    "xws": "fcce89f",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-90-b",
     "points": 316,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-90-b.png",
-    "xws": "fcce90b"
+    "xws": "fcce90b",
+    "assetno": "###"
   },
   {
     "name": "fc-ce-90-f",
     "points": 317,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/city/fc-ce-90-f.png",
-    "xws": "fcce90f"
+    "xws": "fcce90f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-01-b",
     "points": 318,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-01-b.png",
-    "xws": "fcrf01b"
+    "xws": "fcrf01b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-01-f",
     "points": 319,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-01-f.png",
-    "xws": "fcrf01f"
+    "xws": "fcrf01f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-02-b",
     "points": 320,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-02-b.png",
-    "xws": "fcrf02b"
+    "xws": "fcrf02b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-02-f",
     "points": 321,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-02-f.png",
-    "xws": "fcrf02f"
+    "xws": "fcrf02f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-03-b",
     "points": 322,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-03-b.png",
-    "xws": "fcrf03b"
+    "xws": "fcrf03b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-03-f",
     "points": 323,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-03-f.png",
-    "xws": "fcrf03f"
+    "xws": "fcrf03f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-04-b",
     "points": 324,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-04-b.png",
-    "xws": "fcrf04b"
+    "xws": "fcrf04b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-04-f",
     "points": 325,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-04-f.png",
-    "xws": "fcrf04f"
+    "xws": "fcrf04f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-05-b",
     "points": 326,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-05-b.png",
-    "xws": "fcrf05b"
+    "xws": "fcrf05b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-05-f",
     "points": 327,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-05-f.png",
-    "xws": "fcrf05f"
+    "xws": "fcrf05f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-06-b",
     "points": 328,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-06-b.png",
-    "xws": "fcrf06b"
+    "xws": "fcrf06b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-06-f",
     "points": 329,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-06-f.png",
-    "xws": "fcrf06f"
+    "xws": "fcrf06f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-07-b",
     "points": 330,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-07-b.png",
-    "xws": "fcrf07b"
+    "xws": "fcrf07b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-07-f",
     "points": 331,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-07-f.png",
-    "xws": "fcrf07f"
+    "xws": "fcrf07f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-08-b",
     "points": 332,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-08-b.png",
-    "xws": "fcrf08b"
+    "xws": "fcrf08b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-08-f",
     "points": 333,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-08-f.png",
-    "xws": "fcrf08f"
+    "xws": "fcrf08f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-09-b",
     "points": 334,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-09-b.png",
-    "xws": "fcrf09b"
+    "xws": "fcrf09b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-09-f",
     "points": 335,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-09-f.png",
-    "xws": "fcrf09f"
+    "xws": "fcrf09f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-10-b",
     "points": 336,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-10-b.png",
-    "xws": "fcrf10b"
+    "xws": "fcrf10b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-10-f",
     "points": 337,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-10-f.png",
-    "xws": "fcrf10f"
+    "xws": "fcrf10f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-11-b",
     "points": 338,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-11-b.png",
-    "xws": "fcrf11b"
+    "xws": "fcrf11b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-11-f",
     "points": 339,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-11-f.png",
-    "xws": "fcrf11f"
+    "xws": "fcrf11f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-12-b",
     "points": 340,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-12-b.png",
-    "xws": "fcrf12b"
+    "xws": "fcrf12b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-12-f",
     "points": 341,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-12-f.png",
-    "xws": "fcrf12f"
+    "xws": "fcrf12f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-13-b",
     "points": 342,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-13-b.png",
-    "xws": "fcrf13b"
+    "xws": "fcrf13b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-13-f",
     "points": 343,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-13-f.png",
-    "xws": "fcrf13f"
+    "xws": "fcrf13f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-14-b",
     "points": 344,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-14-b.png",
-    "xws": "fcrf14b"
+    "xws": "fcrf14b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-14-f",
     "points": 345,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-14-f.png",
-    "xws": "fcrf14f"
+    "xws": "fcrf14f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-15-b",
     "points": 346,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-15-b.png",
-    "xws": "fcrf15b"
+    "xws": "fcrf15b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-15-f",
     "points": 347,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-15-f.png",
-    "xws": "fcrf15f"
+    "xws": "fcrf15f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-16-b",
     "points": 348,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-16-b.png",
-    "xws": "fcrf16b"
+    "xws": "fcrf16b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-16-f",
     "points": 349,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-16-f.png",
-    "xws": "fcrf16f"
+    "xws": "fcrf16f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-17-b",
     "points": 350,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-17-b.png",
-    "xws": "fcrf17b"
+    "xws": "fcrf17b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-17-f",
     "points": 351,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-17-f.png",
-    "xws": "fcrf17f"
+    "xws": "fcrf17f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-18-b",
     "points": 352,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-18-b.png",
-    "xws": "fcrf18b"
+    "xws": "fcrf18b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-18-f",
     "points": 353,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-18-f.png",
-    "xws": "fcrf18f"
+    "xws": "fcrf18f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-19-b",
     "points": 354,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-19-b.png",
-    "xws": "fcrf19b"
+    "xws": "fcrf19b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-19-f",
     "points": 355,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-19-f.png",
-    "xws": "fcrf19f"
+    "xws": "fcrf19f",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-20-b",
     "points": 356,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-20-b.png",
-    "xws": "fcrf20b"
+    "xws": "fcrf20b",
+    "assetno": "###"
   },
   {
     "name": "fc-rf-20-f",
     "points": 357,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/rift/fc-rf-20-f.png",
-    "xws": "fcrf20f"
+    "xws": "fcrf20f",
+    "assetno": "###"
   },
   {
     "name": "fc-re-82-b",
     "points": 358,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/road/fc-re-82-b.png",
-    "xws": "fcre82b"
+    "xws": "fcre82b",
+    "assetno": "###"
   },
   {
     "name": "fc-re-82-f",
     "points": 359,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/road/fc-re-82-f.png",
-    "xws": "fcre82f"
+    "xws": "fcre82f",
+    "assetno": "###"
   },
   {
     "name": "fc-re-83-b",
     "points": 360,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/road/fc-re-83-b.png",
-    "xws": "fcre83b"
+    "xws": "fcre83b",
+    "assetno": "###"
   },
   {
     "name": "fc-re-83-f",
     "points": 361,
     "expansion": "forgotten circles",
     "image": "events/forgotten-circles/road/fc-re-83-f.png",
-    "xws": "fcre83f"
+    "xws": "fcre83f",
+    "assetno": "###"
   },
   {
     "name": "fh-be-01-b",
