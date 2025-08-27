@@ -12507,7 +12507,7 @@
     "assetno": "580"
   },
   {
-    "name": "dr back",
+    "name": "dr-back",
     "points": 1137,
     "expansion": "forgotten circles",
     "image": "character-ability-cards/forgotten-circles/dr/fc-dr-back.png",
