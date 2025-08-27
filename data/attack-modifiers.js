@@ -7786,7 +7786,7 @@
   {
     "name": "fc-am-dr-01",
     "points": 973,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-01.png",
     "xws": "fcamdr01",
     "assetno": "976"
@@ -7794,7 +7794,7 @@
   {
     "name": "976",
     "points": 974,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-01.png",
     "xws": "fcamdr01",
     "assetno": "976"
@@ -7802,7 +7802,7 @@
   {
     "name": "fc-am-dr-02",
     "points": 975,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-02.png",
     "xws": "fcamdr02",
     "assetno": "977"
@@ -7810,7 +7810,7 @@
   {
     "name": "977",
     "points": 976,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-02.png",
     "xws": "fcamdr02",
     "assetno": "977"
@@ -7818,7 +7818,7 @@
   {
     "name": "fc-am-dr-03",
     "points": 977,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-03.png",
     "xws": "fcamdr03",
     "assetno": "978"
@@ -7826,7 +7826,7 @@
   {
     "name": "978",
     "points": 978,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-03.png",
     "xws": "fcamdr03",
     "assetno": "978"
@@ -7834,7 +7834,7 @@
   {
     "name": "fc-am-dr-04",
     "points": 979,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-04.png",
     "xws": "fcamdr04",
     "assetno": "979"
@@ -7842,7 +7842,7 @@
   {
     "name": "979",
     "points": 980,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-04.png",
     "xws": "fcamdr04",
     "assetno": "979"
@@ -7850,7 +7850,7 @@
   {
     "name": "fc-am-dr-05",
     "points": 981,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-05.png",
     "xws": "fcamdr05",
     "assetno": "980"
@@ -7858,7 +7858,7 @@
   {
     "name": "980",
     "points": 982,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-05.png",
     "xws": "fcamdr05",
     "assetno": "980"
@@ -7866,7 +7866,7 @@
   {
     "name": "fc-am-dr-06",
     "points": 983,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-06.png",
     "xws": "fcamdr06",
     "assetno": "981"
@@ -7874,7 +7874,7 @@
   {
     "name": "981",
     "points": 984,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-06.png",
     "xws": "fcamdr06",
     "assetno": "981"
@@ -7882,7 +7882,7 @@
   {
     "name": "fc-am-dr-07",
     "points": 985,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-07.png",
     "xws": "fcamdr07",
     "assetno": "982"
@@ -7890,7 +7890,7 @@
   {
     "name": "982",
     "points": 986,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-07.png",
     "xws": "fcamdr07",
     "assetno": "982"
@@ -7898,7 +7898,7 @@
   {
     "name": "fc-am-dr-08",
     "points": 987,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-08.png",
     "xws": "fcamdr08",
     "assetno": "983"
@@ -7906,7 +7906,7 @@
   {
     "name": "983",
     "points": 988,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-08.png",
     "xws": "fcamdr08",
     "assetno": "983"
@@ -7914,7 +7914,7 @@
   {
     "name": "fc-am-dr-09",
     "points": 989,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-09.png",
     "xws": "fcamdr09",
     "assetno": "984"
@@ -7922,7 +7922,7 @@
   {
     "name": "984",
     "points": 990,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-09.png",
     "xws": "fcamdr09",
     "assetno": "984"
@@ -7930,7 +7930,7 @@
   {
     "name": "fc-am-dr-10",
     "points": 991,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-10.png",
     "xws": "fcamdr10",
     "assetno": "985"
@@ -7938,7 +7938,7 @@
   {
     "name": "985",
     "points": 992,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-10.png",
     "xws": "fcamdr10",
     "assetno": "985"
@@ -7946,7 +7946,7 @@
   {
     "name": "fc-am-dr-11",
     "points": 993,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-11.png",
     "xws": "fcamdr11",
     "assetno": "986"
@@ -7954,7 +7954,7 @@
   {
     "name": "986",
     "points": 994,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-11.png",
     "xws": "fcamdr11",
     "assetno": "986"
@@ -7962,7 +7962,7 @@
   {
     "name": "fc-am-dr-12",
     "points": 995,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-12.png",
     "xws": "fcamdr12",
     "assetno": "987"
@@ -7970,7 +7970,7 @@
   {
     "name": "987",
     "points": 996,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-12.png",
     "xws": "fcamdr12",
     "assetno": "987"
@@ -7978,7 +7978,7 @@
   {
     "name": "fc-am-dr-13",
     "points": 997,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-13.png",
     "xws": "fcamdr13",
     "assetno": "988"
@@ -7986,7 +7986,7 @@
   {
     "name": "988",
     "points": 998,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-13.png",
     "xws": "fcamdr13",
     "assetno": "988"
@@ -7994,7 +7994,7 @@
   {
     "name": "fc-am-dr-14",
     "points": 999,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-14.png",
     "xws": "fcamdr14",
     "assetno": "989"
@@ -8002,7 +8002,7 @@
   {
     "name": "989",
     "points": 1000,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-14.png",
     "xws": "fcamdr14",
     "assetno": "989"
@@ -8010,7 +8010,7 @@
   {
     "name": "fc-am-dr-15",
     "points": 1001,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-15.png",
     "xws": "fcamdr15",
     "assetno": "990"
@@ -8018,7 +8018,7 @@
   {
     "name": "990",
     "points": 1002,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-15.png",
     "xws": "fcamdr15",
     "assetno": "990"
@@ -8026,7 +8026,7 @@
   {
     "name": "fc-am-dr-back",
     "points": 1003,
-    "expansion": "forgotten-circles",
+    "expansion": "forgotten circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-back.png",
     "xws": "fcamdrback",
     "assetno": "###"
