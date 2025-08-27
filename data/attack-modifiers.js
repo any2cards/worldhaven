@@ -7784,4747 +7784,4883 @@
     "assetno": "###"
   },
   {
-    "name": "fc-am-dr-back",
+    "name": "fc-am-dr-01",
     "points": 973,
-    "expansion": "forgotten circles",
-    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-back.png",
-    "xws": "fcamdrback"
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-01.png",
+    "xws": "fcamdr01",
+    "assetno": "976"
   },
   {
-    "name": "fc-am-dr-01",
+    "name": "976",
     "points": 974,
-    "expansion": "forgotten circles",
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-01.png",
-    "xws": "fcamdr01"
+    "xws": "fcamdr01",
+    "assetno": "976"
   },
   {
     "name": "fc-am-dr-02",
     "points": 975,
-    "expansion": "forgotten circles",
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-02.png",
-    "xws": "fcamdr02"
+    "xws": "fcamdr02",
+    "assetno": "977"
+  },
+  {
+    "name": "977",
+    "points": 976,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-02.png",
+    "xws": "fcamdr02",
+    "assetno": "977"
   },
   {
     "name": "fc-am-dr-03",
-    "points": 976,
-    "expansion": "forgotten circles",
+    "points": 977,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-03.png",
-    "xws": "fcamdr03"
+    "xws": "fcamdr03",
+    "assetno": "978"
+  },
+  {
+    "name": "978",
+    "points": 978,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-03.png",
+    "xws": "fcamdr03",
+    "assetno": "978"
   },
   {
     "name": "fc-am-dr-04",
-    "points": 977,
-    "expansion": "forgotten circles",
+    "points": 979,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-04.png",
-    "xws": "fcamdr04"
+    "xws": "fcamdr04",
+    "assetno": "979"
+  },
+  {
+    "name": "979",
+    "points": 980,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-04.png",
+    "xws": "fcamdr04",
+    "assetno": "979"
   },
   {
     "name": "fc-am-dr-05",
-    "points": 978,
-    "expansion": "forgotten circles",
+    "points": 981,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-05.png",
-    "xws": "fcamdr05"
+    "xws": "fcamdr05",
+    "assetno": "980"
+  },
+  {
+    "name": "980",
+    "points": 982,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-05.png",
+    "xws": "fcamdr05",
+    "assetno": "980"
   },
   {
     "name": "fc-am-dr-06",
-    "points": 979,
-    "expansion": "forgotten circles",
+    "points": 983,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-06.png",
-    "xws": "fcamdr06"
+    "xws": "fcamdr06",
+    "assetno": "981"
+  },
+  {
+    "name": "981",
+    "points": 984,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-06.png",
+    "xws": "fcamdr06",
+    "assetno": "981"
   },
   {
     "name": "fc-am-dr-07",
-    "points": 980,
-    "expansion": "forgotten circles",
+    "points": 985,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-07.png",
-    "xws": "fcamdr07"
+    "xws": "fcamdr07",
+    "assetno": "982"
+  },
+  {
+    "name": "982",
+    "points": 986,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-07.png",
+    "xws": "fcamdr07",
+    "assetno": "982"
   },
   {
     "name": "fc-am-dr-08",
-    "points": 981,
-    "expansion": "forgotten circles",
+    "points": 987,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-08.png",
-    "xws": "fcamdr08"
+    "xws": "fcamdr08",
+    "assetno": "983"
+  },
+  {
+    "name": "983",
+    "points": 988,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-08.png",
+    "xws": "fcamdr08",
+    "assetno": "983"
   },
   {
     "name": "fc-am-dr-09",
-    "points": 982,
-    "expansion": "forgotten circles",
+    "points": 989,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-09.png",
-    "xws": "fcamdr09"
+    "xws": "fcamdr09",
+    "assetno": "984"
+  },
+  {
+    "name": "984",
+    "points": 990,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-09.png",
+    "xws": "fcamdr09",
+    "assetno": "984"
   },
   {
     "name": "fc-am-dr-10",
-    "points": 983,
-    "expansion": "forgotten circles",
+    "points": 991,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-10.png",
-    "xws": "fcamdr10"
+    "xws": "fcamdr10",
+    "assetno": "985"
+  },
+  {
+    "name": "985",
+    "points": 992,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-10.png",
+    "xws": "fcamdr10",
+    "assetno": "985"
   },
   {
     "name": "fc-am-dr-11",
-    "points": 984,
-    "expansion": "forgotten circles",
+    "points": 993,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-11.png",
-    "xws": "fcamdr11"
+    "xws": "fcamdr11",
+    "assetno": "986"
+  },
+  {
+    "name": "986",
+    "points": 994,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-11.png",
+    "xws": "fcamdr11",
+    "assetno": "986"
   },
   {
     "name": "fc-am-dr-12",
-    "points": 985,
-    "expansion": "forgotten circles",
+    "points": 995,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-12.png",
-    "xws": "fcamdr12"
+    "xws": "fcamdr12",
+    "assetno": "987"
+  },
+  {
+    "name": "987",
+    "points": 996,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-12.png",
+    "xws": "fcamdr12",
+    "assetno": "987"
   },
   {
     "name": "fc-am-dr-13",
-    "points": 986,
-    "expansion": "forgotten circles",
+    "points": 997,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-13.png",
-    "xws": "fcamdr13"
+    "xws": "fcamdr13",
+    "assetno": "988"
+  },
+  {
+    "name": "988",
+    "points": 998,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-13.png",
+    "xws": "fcamdr13",
+    "assetno": "988"
   },
   {
     "name": "fc-am-dr-14",
-    "points": 987,
-    "expansion": "forgotten circles",
+    "points": 999,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-14.png",
-    "xws": "fcamdr14"
+    "xws": "fcamdr14",
+    "assetno": "989"
+  },
+  {
+    "name": "989",
+    "points": 1000,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-14.png",
+    "xws": "fcamdr14",
+    "assetno": "989"
   },
   {
     "name": "fc-am-dr-15",
-    "points": 988,
-    "expansion": "forgotten circles",
+    "points": 1001,
+    "expansion": "forgotten-circles",
     "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-15.png",
-    "xws": "fcamdr15"
+    "xws": "fcamdr15",
+    "assetno": "990"
+  },
+  {
+    "name": "990",
+    "points": 1002,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-15.png",
+    "xws": "fcamdr15",
+    "assetno": "990"
+  },
+  {
+    "name": "fc-am-dr-back",
+    "points": 1003,
+    "expansion": "forgotten-circles",
+    "image": "attack-modifiers/forgotten-circles/dr/fc-am-dr-back.png",
+    "xws": "fcamdrback",
+    "assetno": "###"
   },
   {
     "name": "fh-am-a-back",
-    "points": 989,
+    "points": 1004,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-back.png",
     "xws": "fhamaback"
   },
   {
     "name": "fh-am-a-01",
-    "points": 990,
+    "points": 1005,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-01.png",
     "xws": "fhama01"
   },
   {
     "name": "fh-am-a-02",
-    "points": 991,
+    "points": 1006,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-02.png",
     "xws": "fhama02"
   },
   {
     "name": "fh-am-a-03",
-    "points": 992,
+    "points": 1007,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-03.png",
     "xws": "fhama03"
   },
   {
     "name": "fh-am-a-04",
-    "points": 993,
+    "points": 1008,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-04.png",
     "xws": "fhama04"
   },
   {
     "name": "fh-am-a-05",
-    "points": 994,
+    "points": 1009,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-05.png",
     "xws": "fhama05"
   },
   {
     "name": "fh-am-a-06",
-    "points": 995,
+    "points": 1010,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-06.png",
     "xws": "fhama06"
   },
   {
     "name": "fh-am-a-07",
-    "points": 996,
+    "points": 1011,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-07.png",
     "xws": "fhama07"
   },
   {
     "name": "fh-am-a-08",
-    "points": 997,
+    "points": 1012,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-08.png",
     "xws": "fhama08"
   },
   {
     "name": "fh-am-a-09",
-    "points": 998,
+    "points": 1013,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-09.png",
     "xws": "fhama09"
   },
   {
     "name": "fh-am-a-10",
-    "points": 999,
+    "points": 1014,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-10.png",
     "xws": "fhama10"
   },
   {
     "name": "fh-am-a-11",
-    "points": 1000,
+    "points": 1015,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-11.png",
     "xws": "fhama11"
   },
   {
     "name": "fh-am-a-12",
-    "points": 1001,
+    "points": 1016,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-12.png",
     "xws": "fhama12"
   },
   {
     "name": "fh-am-a-13",
-    "points": 1002,
+    "points": 1017,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-13.png",
     "xws": "fhama13"
   },
   {
     "name": "fh-am-a-14",
-    "points": 1003,
+    "points": 1018,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-14.png",
     "xws": "fhama14"
   },
   {
     "name": "fh-am-a-15",
-    "points": 1004,
+    "points": 1019,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-15.png",
     "xws": "fhama15"
   },
   {
     "name": "fh-am-a-16",
-    "points": 1005,
+    "points": 1020,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-16.png",
     "xws": "fhama16"
   },
   {
     "name": "fh-am-a-17",
-    "points": 1006,
+    "points": 1021,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-17.png",
     "xws": "fhama17"
   },
   {
     "name": "fh-am-a-18",
-    "points": 1007,
+    "points": 1022,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-18.png",
     "xws": "fhama18"
   },
   {
     "name": "fh-am-a-19",
-    "points": 1008,
+    "points": 1023,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-19.png",
     "xws": "fhama19"
   },
   {
     "name": "fh-am-a-20",
-    "points": 1009,
+    "points": 1024,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/ally/fh-am-a-20.png",
     "xws": "fhama20"
   },
   {
     "name": "fh-am-m-back",
-    "points": 1010,
+    "points": 1025,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-back.png",
     "xws": "fhammback"
   },
   {
     "name": "fh-am-m-01",
-    "points": 1011,
+    "points": 1026,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-01.png",
     "xws": "fhamm01"
   },
   {
     "name": "fh-am-m-02",
-    "points": 1012,
+    "points": 1027,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-02.png",
     "xws": "fhamm02"
   },
   {
     "name": "fh-am-m-03",
-    "points": 1013,
+    "points": 1028,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-03.png",
     "xws": "fhamm03"
   },
   {
     "name": "fh-am-m-04",
-    "points": 1014,
+    "points": 1029,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-04.png",
     "xws": "fhamm04"
   },
   {
     "name": "fh-am-m-05",
-    "points": 1015,
+    "points": 1030,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-05.png",
     "xws": "fhamm05"
   },
   {
     "name": "fh-am-m-06",
-    "points": 1016,
+    "points": 1031,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-06.png",
     "xws": "fhamm06"
   },
   {
     "name": "fh-am-m-07",
-    "points": 1017,
+    "points": 1032,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-07.png",
     "xws": "fhamm07"
   },
   {
     "name": "fh-am-m-08",
-    "points": 1018,
+    "points": 1033,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-08.png",
     "xws": "fhamm08"
   },
   {
     "name": "fh-am-m-09",
-    "points": 1019,
+    "points": 1034,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-09.png",
     "xws": "fhamm09"
   },
   {
     "name": "fh-am-m-10",
-    "points": 1020,
+    "points": 1035,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-10.png",
     "xws": "fhamm10"
   },
   {
     "name": "fh-am-m-11",
-    "points": 1021,
+    "points": 1036,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-11.png",
     "xws": "fhamm11"
   },
   {
     "name": "fh-am-m-12",
-    "points": 1022,
+    "points": 1037,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-12.png",
     "xws": "fhamm12"
   },
   {
     "name": "fh-am-m-13",
-    "points": 1023,
+    "points": 1038,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-13.png",
     "xws": "fhamm13"
   },
   {
     "name": "fh-am-m-14",
-    "points": 1024,
+    "points": 1039,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-14.png",
     "xws": "fhamm14"
   },
   {
     "name": "fh-am-m-15",
-    "points": 1025,
+    "points": 1040,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-15.png",
     "xws": "fhamm15"
   },
   {
     "name": "fh-am-m-16",
-    "points": 1026,
+    "points": 1041,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-16.png",
     "xws": "fhamm16"
   },
   {
     "name": "fh-am-m-17",
-    "points": 1027,
+    "points": 1042,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-17.png",
     "xws": "fhamm17"
   },
   {
     "name": "fh-am-m-18",
-    "points": 1028,
+    "points": 1043,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-18.png",
     "xws": "fhamm18"
   },
   {
     "name": "fh-am-m-19",
-    "points": 1029,
+    "points": 1044,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-19.png",
     "xws": "fhamm19"
   },
   {
     "name": "fh-am-m-20",
-    "points": 1030,
+    "points": 1045,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster/fh-am-m-20.png",
     "xws": "fhamm20"
   },
   {
     "name": "fh-am-mm-back",
-    "points": 1031,
+    "points": 1046,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-back.png",
     "xws": "fhammmback"
   },
   {
     "name": "fh-am-mm-01",
-    "points": 1032,
+    "points": 1047,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-01.png",
     "xws": "fhammm01"
   },
   {
     "name": "fh-am-mm-02",
-    "points": 1033,
+    "points": 1048,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-02.png",
     "xws": "fhammm02"
   },
   {
     "name": "fh-am-mm-03",
-    "points": 1034,
+    "points": 1049,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-03.png",
     "xws": "fhammm03"
   },
   {
     "name": "fh-am-mm-04",
-    "points": 1035,
+    "points": 1050,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-04.png",
     "xws": "fhammm04"
   },
   {
     "name": "fh-am-mm-05",
-    "points": 1036,
+    "points": 1051,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-05.png",
     "xws": "fhammm05"
   },
   {
     "name": "fh-am-mm-06",
-    "points": 1037,
+    "points": 1052,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-06.png",
     "xws": "fhammm06"
   },
   {
     "name": "fh-am-mm-07",
-    "points": 1038,
+    "points": 1053,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-07.png",
     "xws": "fhammm07"
   },
   {
     "name": "fh-am-mm-08",
-    "points": 1039,
+    "points": 1054,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-08.png",
     "xws": "fhammm08"
   },
   {
     "name": "fh-am-mm-09",
-    "points": 1040,
+    "points": 1055,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-09.png",
     "xws": "fhammm09"
   },
   {
     "name": "fh-am-mm-10",
-    "points": 1041,
+    "points": 1056,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/monster-mod/fh-am-mm-10.png",
     "xws": "fhammm10"
   },
   {
     "name": "fh-am-p1-back",
-    "points": 1042,
+    "points": 1057,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-back.png",
     "xws": "fhamp1back"
   },
   {
     "name": "fh-am-p1-01",
-    "points": 1043,
+    "points": 1058,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-01.png",
     "xws": "fhamp101"
   },
   {
     "name": "fh-am-p1-02",
-    "points": 1044,
+    "points": 1059,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-02.png",
     "xws": "fhamp102"
   },
   {
     "name": "fh-am-p1-03",
-    "points": 1045,
+    "points": 1060,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-03.png",
     "xws": "fhamp103"
   },
   {
     "name": "fh-am-p1-04",
-    "points": 1046,
+    "points": 1061,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-04.png",
     "xws": "fhamp104"
   },
   {
     "name": "fh-am-p1-05",
-    "points": 1047,
+    "points": 1062,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-05.png",
     "xws": "fhamp105"
   },
   {
     "name": "fh-am-p1-06",
-    "points": 1048,
+    "points": 1063,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-06.png",
     "xws": "fhamp106"
   },
   {
     "name": "fh-am-p1-07",
-    "points": 1049,
+    "points": 1064,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-07.png",
     "xws": "fhamp107"
   },
   {
     "name": "fh-am-p1-08",
-    "points": 1050,
+    "points": 1065,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-08.png",
     "xws": "fhamp108"
   },
   {
     "name": "fh-am-p1-09",
-    "points": 1051,
+    "points": 1066,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-09.png",
     "xws": "fhamp109"
   },
   {
     "name": "fh-am-p1-10",
-    "points": 1052,
+    "points": 1067,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-10.png",
     "xws": "fhamp110"
   },
   {
     "name": "fh-am-p1-11",
-    "points": 1053,
+    "points": 1068,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-11.png",
     "xws": "fhamp111"
   },
   {
     "name": "fh-am-p1-12",
-    "points": 1054,
+    "points": 1069,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-12.png",
     "xws": "fhamp112"
   },
   {
     "name": "fh-am-p1-13",
-    "points": 1055,
+    "points": 1070,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-13.png",
     "xws": "fhamp113"
   },
   {
     "name": "fh-am-p1-14",
-    "points": 1056,
+    "points": 1071,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-14.png",
     "xws": "fhamp114"
   },
   {
     "name": "fh-am-p1-15",
-    "points": 1057,
+    "points": 1072,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-15.png",
     "xws": "fhamp115"
   },
   {
     "name": "fh-am-p1-16",
-    "points": 1058,
+    "points": 1073,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-16.png",
     "xws": "fhamp116"
   },
   {
     "name": "fh-am-p1-17",
-    "points": 1059,
+    "points": 1074,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-17.png",
     "xws": "fhamp117"
   },
   {
     "name": "fh-am-p1-18",
-    "points": 1060,
+    "points": 1075,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-18.png",
     "xws": "fhamp118"
   },
   {
     "name": "fh-am-p1-19",
-    "points": 1061,
+    "points": 1076,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-19.png",
     "xws": "fhamp119"
   },
   {
     "name": "fh-am-p1-20",
-    "points": 1062,
+    "points": 1077,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p1-20.png",
     "xws": "fhamp120"
   },
   {
     "name": "fh-am-p2-back",
-    "points": 1063,
+    "points": 1078,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-back.png",
     "xws": "fhamp2back"
   },
   {
     "name": "fh-am-p2-01",
-    "points": 1064,
+    "points": 1079,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-01.png",
     "xws": "fhamp201"
   },
   {
     "name": "fh-am-p2-02",
-    "points": 1065,
+    "points": 1080,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-02.png",
     "xws": "fhamp202"
   },
   {
     "name": "fh-am-p2-03",
-    "points": 1066,
+    "points": 1081,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-03.png",
     "xws": "fhamp203"
   },
   {
     "name": "fh-am-p2-04",
-    "points": 1067,
+    "points": 1082,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-04.png",
     "xws": "fhamp204"
   },
   {
     "name": "fh-am-p2-05",
-    "points": 1068,
+    "points": 1083,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-05.png",
     "xws": "fhamp205"
   },
   {
     "name": "fh-am-p2-06",
-    "points": 1069,
+    "points": 1084,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-06.png",
     "xws": "fhamp206"
   },
   {
     "name": "fh-am-p2-07",
-    "points": 1070,
+    "points": 1085,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-07.png",
     "xws": "fhamp207"
   },
   {
     "name": "fh-am-p2-08",
-    "points": 1071,
+    "points": 1086,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-08.png",
     "xws": "fhamp208"
   },
   {
     "name": "fh-am-p2-09",
-    "points": 1072,
+    "points": 1087,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-09.png",
     "xws": "fhamp209"
   },
   {
     "name": "fh-am-p2-10",
-    "points": 1073,
+    "points": 1088,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-10.png",
     "xws": "fhamp210"
   },
   {
     "name": "fh-am-p2-11",
-    "points": 1074,
+    "points": 1089,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-11.png",
     "xws": "fhamp211"
   },
   {
     "name": "fh-am-p2-12",
-    "points": 1075,
+    "points": 1090,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-12.png",
     "xws": "fhamp212"
   },
   {
     "name": "fh-am-p2-13",
-    "points": 1076,
+    "points": 1091,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-13.png",
     "xws": "fhamp213"
   },
   {
     "name": "fh-am-p2-14",
-    "points": 1077,
+    "points": 1092,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-14.png",
     "xws": "fhamp214"
   },
   {
     "name": "fh-am-p2-15",
-    "points": 1078,
+    "points": 1093,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-15.png",
     "xws": "fhamp215"
   },
   {
     "name": "fh-am-p2-16",
-    "points": 1079,
+    "points": 1094,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-16.png",
     "xws": "fhamp216"
   },
   {
     "name": "fh-am-p2-17",
-    "points": 1080,
+    "points": 1095,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-17.png",
     "xws": "fhamp217"
   },
   {
     "name": "fh-am-p2-18",
-    "points": 1081,
+    "points": 1096,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-18.png",
     "xws": "fhamp218"
   },
   {
     "name": "fh-am-p2-19",
-    "points": 1082,
+    "points": 1097,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-19.png",
     "xws": "fhamp219"
   },
   {
     "name": "fh-am-p2-20",
-    "points": 1083,
+    "points": 1098,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p2-20.png",
     "xws": "fhamp220"
   },
   {
     "name": "fh-am-p3-back",
-    "points": 1084,
+    "points": 1099,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-back.png",
     "xws": "fhamp3back"
   },
   {
     "name": "fh-am-p3-01",
-    "points": 1085,
+    "points": 1100,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-01.png",
     "xws": "fhamp301"
   },
   {
     "name": "fh-am-p3-02",
-    "points": 1086,
+    "points": 1101,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-02.png",
     "xws": "fhamp302"
   },
   {
     "name": "fh-am-p3-03",
-    "points": 1087,
+    "points": 1102,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-03.png",
     "xws": "fhamp303"
   },
   {
     "name": "fh-am-p3-04",
-    "points": 1088,
+    "points": 1103,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-04.png",
     "xws": "fhamp304"
   },
   {
     "name": "fh-am-p3-05",
-    "points": 1089,
+    "points": 1104,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-05.png",
     "xws": "fhamp305"
   },
   {
     "name": "fh-am-p3-06",
-    "points": 1090,
+    "points": 1105,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-06.png",
     "xws": "fhamp306"
   },
   {
     "name": "fh-am-p3-07",
-    "points": 1091,
+    "points": 1106,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-07.png",
     "xws": "fhamp307"
   },
   {
     "name": "fh-am-p3-08",
-    "points": 1092,
+    "points": 1107,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-08.png",
     "xws": "fhamp308"
   },
   {
     "name": "fh-am-p3-09",
-    "points": 1093,
+    "points": 1108,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-09.png",
     "xws": "fhamp309"
   },
   {
     "name": "fh-am-p3-10",
-    "points": 1094,
+    "points": 1109,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-10.png",
     "xws": "fhamp310"
   },
   {
     "name": "fh-am-p3-11",
-    "points": 1095,
+    "points": 1110,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-11.png",
     "xws": "fhamp311"
   },
   {
     "name": "fh-am-p3-12",
-    "points": 1096,
+    "points": 1111,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-12.png",
     "xws": "fhamp312"
   },
   {
     "name": "fh-am-p3-13",
-    "points": 1097,
+    "points": 1112,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-13.png",
     "xws": "fhamp313"
   },
   {
     "name": "fh-am-p3-14",
-    "points": 1098,
+    "points": 1113,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-14.png",
     "xws": "fhamp314"
   },
   {
     "name": "fh-am-p3-15",
-    "points": 1099,
+    "points": 1114,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-15.png",
     "xws": "fhamp315"
   },
   {
     "name": "fh-am-p3-16",
-    "points": 1100,
+    "points": 1115,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-16.png",
     "xws": "fhamp316"
   },
   {
     "name": "fh-am-p3-17",
-    "points": 1101,
+    "points": 1116,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-17.png",
     "xws": "fhamp317"
   },
   {
     "name": "fh-am-p3-18",
-    "points": 1102,
+    "points": 1117,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-18.png",
     "xws": "fhamp318"
   },
   {
     "name": "fh-am-p3-19",
-    "points": 1103,
+    "points": 1118,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-19.png",
     "xws": "fhamp319"
   },
   {
     "name": "fh-am-p3-20",
-    "points": 1104,
+    "points": 1119,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p3-20.png",
     "xws": "fhamp320"
   },
   {
     "name": "fh-am-p4-back",
-    "points": 1105,
+    "points": 1120,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-back.png",
     "xws": "fhamp4back"
   },
   {
     "name": "fh-am-p4-01",
-    "points": 1106,
+    "points": 1121,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-01.png",
     "xws": "fhamp401"
   },
   {
     "name": "fh-am-p4-02",
-    "points": 1107,
+    "points": 1122,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-02.png",
     "xws": "fhamp402"
   },
   {
     "name": "fh-am-p4-03",
-    "points": 1108,
+    "points": 1123,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-03.png",
     "xws": "fhamp403"
   },
   {
     "name": "fh-am-p4-04",
-    "points": 1109,
+    "points": 1124,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-04.png",
     "xws": "fhamp404"
   },
   {
     "name": "fh-am-p4-05",
-    "points": 1110,
+    "points": 1125,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-05.png",
     "xws": "fhamp405"
   },
   {
     "name": "fh-am-p4-06",
-    "points": 1111,
+    "points": 1126,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-06.png",
     "xws": "fhamp406"
   },
   {
     "name": "fh-am-p4-07",
-    "points": 1112,
+    "points": 1127,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-07.png",
     "xws": "fhamp407"
   },
   {
     "name": "fh-am-p4-08",
-    "points": 1113,
+    "points": 1128,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-08.png",
     "xws": "fhamp408"
   },
   {
     "name": "fh-am-p4-09",
-    "points": 1114,
+    "points": 1129,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-09.png",
     "xws": "fhamp409"
   },
   {
     "name": "fh-am-p4-10",
-    "points": 1115,
+    "points": 1130,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-10.png",
     "xws": "fhamp410"
   },
   {
     "name": "fh-am-p4-11",
-    "points": 1116,
+    "points": 1131,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-11.png",
     "xws": "fhamp411"
   },
   {
     "name": "fh-am-p4-12",
-    "points": 1117,
+    "points": 1132,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-12.png",
     "xws": "fhamp412"
   },
   {
     "name": "fh-am-p4-13",
-    "points": 1118,
+    "points": 1133,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-13.png",
     "xws": "fhamp413"
   },
   {
     "name": "fh-am-p4-14",
-    "points": 1119,
+    "points": 1134,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-14.png",
     "xws": "fhamp414"
   },
   {
     "name": "fh-am-p4-15",
-    "points": 1120,
+    "points": 1135,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-15.png",
     "xws": "fhamp415"
   },
   {
     "name": "fh-am-p4-16",
-    "points": 1121,
+    "points": 1136,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-16.png",
     "xws": "fhamp416"
   },
   {
     "name": "fh-am-p4-17",
-    "points": 1122,
+    "points": 1137,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-17.png",
     "xws": "fhamp417"
   },
   {
     "name": "fh-am-p4-18",
-    "points": 1123,
+    "points": 1138,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-18.png",
     "xws": "fhamp418"
   },
   {
     "name": "fh-am-p4-19",
-    "points": 1124,
+    "points": 1139,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-19.png",
     "xws": "fhamp419"
   },
   {
     "name": "fh-am-p4-20",
-    "points": 1125,
+    "points": 1140,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player/fh-am-p4-20.png",
     "xws": "fhamp420"
   },
   {
     "name": "fh-am-pm-back",
-    "points": 1126,
+    "points": 1141,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-back.png",
     "xws": "fhampmback"
   },
   {
     "name": "fh-am-pm-01",
-    "points": 1127,
+    "points": 1142,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-01.png",
     "xws": "fhampm01"
   },
   {
     "name": "fh-am-pm-02",
-    "points": 1128,
+    "points": 1143,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-02.png",
     "xws": "fhampm02"
   },
   {
     "name": "fh-am-pm-03",
-    "points": 1129,
+    "points": 1144,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-03.png",
     "xws": "fhampm03"
   },
   {
     "name": "fh-am-pm-04",
-    "points": 1130,
+    "points": 1145,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-04.png",
     "xws": "fhampm04"
   },
   {
     "name": "fh-am-pm-05",
-    "points": 1131,
+    "points": 1146,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-05.png",
     "xws": "fhampm05"
   },
   {
     "name": "fh-am-pm-06",
-    "points": 1132,
+    "points": 1147,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-06.png",
     "xws": "fhampm06"
   },
   {
     "name": "fh-am-pm-07",
-    "points": 1133,
+    "points": 1148,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-07.png",
     "xws": "fhampm07"
   },
   {
     "name": "fh-am-pm-08",
-    "points": 1134,
+    "points": 1149,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-08.png",
     "xws": "fhampm08"
   },
   {
     "name": "fh-am-pm-09",
-    "points": 1135,
+    "points": 1150,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-09.png",
     "xws": "fhampm09"
   },
   {
     "name": "fh-am-pm-10",
-    "points": 1136,
+    "points": 1151,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-10.png",
     "xws": "fhampm10"
   },
   {
     "name": "fh-am-pm-11",
-    "points": 1137,
+    "points": 1152,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-11.png",
     "xws": "fhampm11"
   },
   {
     "name": "fh-am-pm-12",
-    "points": 1138,
+    "points": 1153,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-12.png",
     "xws": "fhampm12"
   },
   {
     "name": "fh-am-pm-13",
-    "points": 1139,
+    "points": 1154,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-13.png",
     "xws": "fhampm13"
   },
   {
     "name": "fh-am-pm-14",
-    "points": 1140,
+    "points": 1155,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-14.png",
     "xws": "fhampm14"
   },
   {
     "name": "fh-am-pm-15",
-    "points": 1141,
+    "points": 1156,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-15.png",
     "xws": "fhampm15"
   },
   {
     "name": "fh-am-pm-16",
-    "points": 1142,
+    "points": 1157,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-16.png",
     "xws": "fhampm16"
   },
   {
     "name": "fh-am-pm-17",
-    "points": 1143,
+    "points": 1158,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-17.png",
     "xws": "fhampm17"
   },
   {
     "name": "fh-am-pm-18",
-    "points": 1144,
+    "points": 1159,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-18.png",
     "xws": "fhampm18"
   },
   {
     "name": "fh-am-pm-19",
-    "points": 1145,
+    "points": 1160,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-19.png",
     "xws": "fhampm19"
   },
   {
     "name": "fh-am-pm-20",
-    "points": 1146,
+    "points": 1161,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-20.png",
     "xws": "fhampm20"
   },
   {
     "name": "fh-am-pm-21",
-    "points": 1147,
+    "points": 1162,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-21.png",
     "xws": "fhampm21"
   },
   {
     "name": "fh-am-pm-22",
-    "points": 1148,
+    "points": 1163,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-22.png",
     "xws": "fhampm22"
   },
   {
     "name": "fh-am-pm-23",
-    "points": 1149,
+    "points": 1164,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-23.png",
     "xws": "fhampm23"
   },
   {
     "name": "fh-am-pm-24",
-    "points": 1150,
+    "points": 1165,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-24.png",
     "xws": "fhampm24"
   },
   {
     "name": "fh-am-pm-25",
-    "points": 1151,
+    "points": 1166,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-25.png",
     "xws": "fhampm25"
   },
   {
     "name": "fh-am-pm-26",
-    "points": 1152,
+    "points": 1167,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-26.png",
     "xws": "fhampm26"
   },
   {
     "name": "fh-am-pm-27",
-    "points": 1153,
+    "points": 1168,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-27.png",
     "xws": "fhampm27"
   },
   {
     "name": "fh-am-pm-28",
-    "points": 1154,
+    "points": 1169,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-28.png",
     "xws": "fhampm28"
   },
   {
     "name": "fh-am-pm-29",
-    "points": 1155,
+    "points": 1170,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-29.png",
     "xws": "fhampm29"
   },
   {
     "name": "fh-am-pm-30",
-    "points": 1156,
+    "points": 1171,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-30.png",
     "xws": "fhampm30"
   },
   {
     "name": "fh-am-pm-31",
-    "points": 1157,
+    "points": 1172,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-31.png",
     "xws": "fhampm31"
   },
   {
     "name": "fh-am-pm-32",
-    "points": 1158,
+    "points": 1173,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-32.png",
     "xws": "fhampm32"
   },
   {
     "name": "fh-am-pm-33",
-    "points": 1159,
+    "points": 1174,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-33.png",
     "xws": "fhampm33"
   },
   {
     "name": "fh-am-pm-34",
-    "points": 1160,
+    "points": 1175,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-34.png",
     "xws": "fhampm34"
   },
   {
     "name": "fh-am-pm-35",
-    "points": 1161,
+    "points": 1176,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/player-mod/fh-am-pm-35.png",
     "xws": "fhampm35"
   },
   {
     "name": "fh-am-tg-back",
-    "points": 1162,
+    "points": 1177,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-back.png",
     "xws": "fhamtgback"
   },
   {
     "name": "fh-am-tg-01",
-    "points": 1163,
+    "points": 1178,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-01.png",
     "xws": "fhamtg01"
   },
   {
     "name": "fh-am-tg-02",
-    "points": 1164,
+    "points": 1179,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-02.png",
     "xws": "fhamtg02"
   },
   {
     "name": "fh-am-tg-03",
-    "points": 1165,
+    "points": 1180,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-03.png",
     "xws": "fhamtg03"
   },
   {
     "name": "fh-am-tg-04",
-    "points": 1166,
+    "points": 1181,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-04.png",
     "xws": "fhamtg04"
   },
   {
     "name": "fh-am-tg-05",
-    "points": 1167,
+    "points": 1182,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-05.png",
     "xws": "fhamtg05"
   },
   {
     "name": "fh-am-tg-06",
-    "points": 1168,
+    "points": 1183,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-06.png",
     "xws": "fhamtg06"
   },
   {
     "name": "fh-am-tg-07",
-    "points": 1169,
+    "points": 1184,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-07.png",
     "xws": "fhamtg07"
   },
   {
     "name": "fh-am-tg-08",
-    "points": 1170,
+    "points": 1185,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-08.png",
     "xws": "fhamtg08"
   },
   {
     "name": "fh-am-tg-09",
-    "points": 1171,
+    "points": 1186,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-09.png",
     "xws": "fhamtg09"
   },
   {
     "name": "fh-am-tg-10",
-    "points": 1172,
+    "points": 1187,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-10.png",
     "xws": "fhamtg10"
   },
   {
     "name": "fh-am-tg-11",
-    "points": 1173,
+    "points": 1188,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-11.png",
     "xws": "fhamtg11"
   },
   {
     "name": "fh-am-tg-12",
-    "points": 1174,
+    "points": 1189,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-12.png",
     "xws": "fhamtg12"
   },
   {
     "name": "fh-am-tg-13",
-    "points": 1175,
+    "points": 1190,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-13.png",
     "xws": "fhamtg13"
   },
   {
     "name": "fh-am-tg-14",
-    "points": 1176,
+    "points": 1191,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-14.png",
     "xws": "fhamtg14"
   },
   {
     "name": "fh-am-tg-15",
-    "points": 1177,
+    "points": 1192,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-15.png",
     "xws": "fhamtg15"
   },
   {
     "name": "fh-am-tg-16",
-    "points": 1178,
+    "points": 1193,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-16.png",
     "xws": "fhamtg16"
   },
   {
     "name": "fh-am-tg-17",
-    "points": 1179,
+    "points": 1194,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-17.png",
     "xws": "fhamtg17"
   },
   {
     "name": "fh-am-tg-18",
-    "points": 1180,
+    "points": 1195,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-18.png",
     "xws": "fhamtg18"
   },
   {
     "name": "fh-am-tg-19",
-    "points": 1181,
+    "points": 1196,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-19.png",
     "xws": "fhamtg19"
   },
   {
     "name": "fh-am-tg-20",
-    "points": 1182,
+    "points": 1197,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-20.png",
     "xws": "fhamtg20"
   },
   {
     "name": "fh-am-tg-21",
-    "points": 1183,
+    "points": 1198,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-21.png",
     "xws": "fhamtg21"
   },
   {
     "name": "fh-am-tg-22",
-    "points": 1184,
+    "points": 1199,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-22.png",
     "xws": "fhamtg22"
   },
   {
     "name": "fh-am-tg-23",
-    "points": 1185,
+    "points": 1200,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-23.png",
     "xws": "fhamtg23"
   },
   {
     "name": "fh-am-tg-24",
-    "points": 1186,
+    "points": 1201,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-24.png",
     "xws": "fhamtg24"
   },
   {
     "name": "fh-am-tg-25",
-    "points": 1187,
+    "points": 1202,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-25.png",
     "xws": "fhamtg25"
   },
   {
     "name": "fh-am-tg-26",
-    "points": 1188,
+    "points": 1203,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-26.png",
     "xws": "fhamtg26"
   },
   {
     "name": "fh-am-tg-27",
-    "points": 1189,
+    "points": 1204,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-27.png",
     "xws": "fhamtg27"
   },
   {
     "name": "fh-am-tg-28",
-    "points": 1190,
+    "points": 1205,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-28.png",
     "xws": "fhamtg28"
   },
   {
     "name": "fh-am-tg-29",
-    "points": 1191,
+    "points": 1206,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-29.png",
     "xws": "fhamtg29"
   },
   {
     "name": "fh-am-tg-30",
-    "points": 1192,
+    "points": 1207,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-30.png",
     "xws": "fhamtg30"
   },
   {
     "name": "fh-am-tg-31",
-    "points": 1193,
+    "points": 1208,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-31.png",
     "xws": "fhamtg31"
   },
   {
     "name": "fh-am-tg-32",
-    "points": 1194,
+    "points": 1209,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-32.png",
     "xws": "fhamtg32"
   },
   {
     "name": "fh-am-tg-33",
-    "points": 1195,
+    "points": 1210,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-33.png",
     "xws": "fhamtg33"
   },
   {
     "name": "fh-am-tg-34",
-    "points": 1196,
+    "points": 1211,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-34.png",
     "xws": "fhamtg34"
   },
   {
     "name": "fh-am-tg-35",
-    "points": 1197,
+    "points": 1212,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-35.png",
     "xws": "fhamtg35"
   },
   {
     "name": "fh-am-tg-36",
-    "points": 1198,
+    "points": 1213,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-36.png",
     "xws": "fhamtg36"
   },
   {
     "name": "fh-am-tg-37",
-    "points": 1199,
+    "points": 1214,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-37.png",
     "xws": "fhamtg37"
   },
   {
     "name": "fh-am-tg-38",
-    "points": 1200,
+    "points": 1215,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-38.png",
     "xws": "fhamtg38"
   },
   {
     "name": "fh-am-tg-39",
-    "points": 1201,
+    "points": 1216,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-39.png",
     "xws": "fhamtg39"
   },
   {
     "name": "fh-am-tg-40",
-    "points": 1202,
+    "points": 1217,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-40.png",
     "xws": "fhamtg40"
   },
   {
     "name": "fh-am-tg-41",
-    "points": 1203,
+    "points": 1218,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-41.png",
     "xws": "fhamtg41"
   },
   {
     "name": "fh-am-tg-42",
-    "points": 1204,
+    "points": 1219,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-42.png",
     "xws": "fhamtg42"
   },
   {
     "name": "fh-am-tg-43",
-    "points": 1205,
+    "points": 1220,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-43.png",
     "xws": "fhamtg43"
   },
   {
     "name": "fh-am-tg-44",
-    "points": 1206,
+    "points": 1221,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-44.png",
     "xws": "fhamtg44"
   },
   {
     "name": "fh-am-tg-45",
-    "points": 1207,
+    "points": 1222,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-45.png",
     "xws": "fhamtg45"
   },
   {
     "name": "fh-am-tg-46",
-    "points": 1208,
+    "points": 1223,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-46.png",
     "xws": "fhamtg46"
   },
   {
     "name": "fh-am-tg-47",
-    "points": 1209,
+    "points": 1224,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-47.png",
     "xws": "fhamtg47"
   },
   {
     "name": "fh-am-tg-48",
-    "points": 1210,
+    "points": 1225,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-48.png",
     "xws": "fhamtg48"
   },
   {
     "name": "fh-am-tg-49",
-    "points": 1211,
+    "points": 1226,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-49.png",
     "xws": "fhamtg49"
   },
   {
     "name": "fh-am-tg-50",
-    "points": 1212,
+    "points": 1227,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-50.png",
     "xws": "fhamtg50"
   },
   {
     "name": "fh-am-tg-51",
-    "points": 1213,
+    "points": 1228,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-51.png",
     "xws": "fhamtg51"
   },
   {
     "name": "fh-am-tg-52",
-    "points": 1214,
+    "points": 1229,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-52.png",
     "xws": "fhamtg52"
   },
   {
     "name": "fh-am-tg-53",
-    "points": 1215,
+    "points": 1230,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-53.png",
     "xws": "fhamtg53"
   },
   {
     "name": "fh-am-tg-54",
-    "points": 1216,
+    "points": 1231,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-54.png",
     "xws": "fhamtg54"
   },
   {
     "name": "fh-am-tg-55",
-    "points": 1217,
+    "points": 1232,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/base/town-guard/fh-am-tg-55.png",
     "xws": "fhamtg55"
   },
   {
     "name": "fh-am-bb-back",
-    "points": 1218,
+    "points": 1233,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-back.png",
     "xws": "fhambbback"
   },
   {
     "name": "fh-am-bb-01",
-    "points": 1219,
+    "points": 1234,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-01.png",
     "xws": "fhambb01"
   },
   {
     "name": "fh-am-bb-02",
-    "points": 1220,
+    "points": 1235,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-02.png",
     "xws": "fhambb02"
   },
   {
     "name": "fh-am-bb-03",
-    "points": 1221,
+    "points": 1236,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-03.png",
     "xws": "fhambb03"
   },
   {
     "name": "fh-am-bb-04",
-    "points": 1222,
+    "points": 1237,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-04.png",
     "xws": "fhambb04"
   },
   {
     "name": "fh-am-bb-05",
-    "points": 1223,
+    "points": 1238,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-05.png",
     "xws": "fhambb05"
   },
   {
     "name": "fh-am-bb-06",
-    "points": 1224,
+    "points": 1239,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-06.png",
     "xws": "fhambb06"
   },
   {
     "name": "fh-am-bb-07",
-    "points": 1225,
+    "points": 1240,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-07.png",
     "xws": "fhambb07"
   },
   {
     "name": "fh-am-bb-08",
-    "points": 1226,
+    "points": 1241,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-08.png",
     "xws": "fhambb08"
   },
   {
     "name": "fh-am-bb-09",
-    "points": 1227,
+    "points": 1242,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-09.png",
     "xws": "fhambb09"
   },
   {
     "name": "fh-am-bb-10",
-    "points": 1228,
+    "points": 1243,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-10.png",
     "xws": "fhambb10"
   },
   {
     "name": "fh-am-bb-11",
-    "points": 1229,
+    "points": 1244,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-11.png",
     "xws": "fhambb11"
   },
   {
     "name": "fh-am-bb-12",
-    "points": 1230,
+    "points": 1245,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-12.png",
     "xws": "fhambb12"
   },
   {
     "name": "fh-am-bb-13",
-    "points": 1231,
+    "points": 1246,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-13.png",
     "xws": "fhambb13"
   },
   {
     "name": "fh-am-bb-14",
-    "points": 1232,
+    "points": 1247,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-14.png",
     "xws": "fhambb14"
   },
   {
     "name": "fh-am-bb-15",
-    "points": 1233,
+    "points": 1248,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-am-bb-15.png",
     "xws": "fhambb15"
   },
   {
     "name": "fh-pe-bb-back",
-    "points": 1234,
+    "points": 1249,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-pe-bb-back.png",
     "xws": "fhpebbback"
   },
   {
     "name": "fh-pe-bb-01",
-    "points": 1235,
+    "points": 1250,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-pe-bb-01.png",
     "xws": "fhpebb01"
   },
   {
     "name": "entropy transfer",
-    "points": 1236,
+    "points": 1251,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-pe-bb-01.png",
     "xws": "fhpebb01"
   },
   {
     "name": "fh-pe-bb-02",
-    "points": 1237,
+    "points": 1252,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-pe-bb-02.png",
     "xws": "fhpebb02"
   },
   {
     "name": "head start",
-    "points": 1238,
+    "points": 1253,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-pe-bb-02.png",
     "xws": "fhpebb02"
   },
   {
     "name": "fh-pe-bb-03",
-    "points": 1239,
+    "points": 1254,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-pe-bb-03.png",
     "xws": "fhpebb03"
   },
   {
     "name": "perpetual motion",
-    "points": 1240,
+    "points": 1255,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bb/fh-pe-bb-03.png",
     "xws": "fhpebb03"
   },
   {
     "name": "fh-am-bn-back",
-    "points": 1241,
+    "points": 1256,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-back.png",
     "xws": "fhambnback"
   },
   {
     "name": "fh-am-bn-01",
-    "points": 1242,
+    "points": 1257,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-01.png",
     "xws": "fhambn01"
   },
   {
     "name": "fh-am-bn-02",
-    "points": 1243,
+    "points": 1258,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-02.png",
     "xws": "fhambn02"
   },
   {
     "name": "fh-am-bn-03",
-    "points": 1244,
+    "points": 1259,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-03.png",
     "xws": "fhambn03"
   },
   {
     "name": "fh-am-bn-04",
-    "points": 1245,
+    "points": 1260,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-04.png",
     "xws": "fhambn04"
   },
   {
     "name": "fh-am-bn-05",
-    "points": 1246,
+    "points": 1261,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-05.png",
     "xws": "fhambn05"
   },
   {
     "name": "fh-am-bn-06",
-    "points": 1247,
+    "points": 1262,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-06.png",
     "xws": "fhambn06"
   },
   {
     "name": "fh-am-bn-07",
-    "points": 1248,
+    "points": 1263,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-07.png",
     "xws": "fhambn07"
   },
   {
     "name": "fh-am-bn-08",
-    "points": 1249,
+    "points": 1264,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-08.png",
     "xws": "fhambn08"
   },
   {
     "name": "fh-am-bn-09",
-    "points": 1250,
+    "points": 1265,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-09.png",
     "xws": "fhambn09"
   },
   {
     "name": "fh-am-bn-10",
-    "points": 1251,
+    "points": 1266,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-10.png",
     "xws": "fhambn10"
   },
   {
     "name": "fh-am-bn-11",
-    "points": 1252,
+    "points": 1267,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-11.png",
     "xws": "fhambn11"
   },
   {
     "name": "fh-am-bn-12",
-    "points": 1253,
+    "points": 1268,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-12.png",
     "xws": "fhambn12"
   },
   {
     "name": "fh-am-bn-13",
-    "points": 1254,
+    "points": 1269,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-13.png",
     "xws": "fhambn13"
   },
   {
     "name": "fh-am-bn-14",
-    "points": 1255,
+    "points": 1270,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-14.png",
     "xws": "fhambn14"
   },
   {
     "name": "fh-am-bn-15",
-    "points": 1256,
+    "points": 1271,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-15.png",
     "xws": "fhambn15"
   },
   {
     "name": "fh-am-bn-16",
-    "points": 1257,
+    "points": 1272,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-16.png",
     "xws": "fhambn16"
   },
   {
     "name": "fh-am-bn-17",
-    "points": 1258,
+    "points": 1273,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-am-bn-17.png",
     "xws": "fhambn17"
   },
   {
     "name": "fh-pe-bn-back",
-    "points": 1259,
+    "points": 1274,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-pe-bn-back.png",
     "xws": "fhpebnback"
   },
   {
     "name": "fh-pe-bn-01",
-    "points": 1260,
+    "points": 1275,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-pe-bn-01.png",
     "xws": "fhpebn01"
   },
   {
     "name": "tireless leadership",
-    "points": 1261,
+    "points": 1276,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-pe-bn-01.png",
     "xws": "fhpebn01"
   },
   {
     "name": "fh-pe-bn-02",
-    "points": 1262,
+    "points": 1277,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-pe-bn-02.png",
     "xws": "fhpebn02"
   },
   {
     "name": "into the breach",
-    "points": 1263,
+    "points": 1278,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-pe-bn-02.png",
     "xws": "fhpebn02"
   },
   {
     "name": "fh-pe-bn-03",
-    "points": 1264,
+    "points": 1279,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-pe-bn-03.png",
     "xws": "fhpebn03"
   },
   {
     "name": "iron will",
-    "points": 1265,
+    "points": 1280,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bn/fh-pe-bn-03.png",
     "xws": "fhpebn03"
   },
   {
     "name": "fh-am-bo-back",
-    "points": 1266,
+    "points": 1281,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-back.png",
     "xws": "fhamboback"
   },
   {
     "name": "fh-am-bo-01",
-    "points": 1267,
+    "points": 1282,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-01.png",
     "xws": "fhambo01"
   },
   {
     "name": "fh-am-bo-02",
-    "points": 1268,
+    "points": 1283,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-02.png",
     "xws": "fhambo02"
   },
   {
     "name": "fh-am-bo-03",
-    "points": 1269,
+    "points": 1284,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-03.png",
     "xws": "fhambo03"
   },
   {
     "name": "fh-am-bo-04",
-    "points": 1270,
+    "points": 1285,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-04.png",
     "xws": "fhambo04"
   },
   {
     "name": "fh-am-bo-05",
-    "points": 1271,
+    "points": 1286,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-05.png",
     "xws": "fhambo05"
   },
   {
     "name": "fh-am-bo-06",
-    "points": 1272,
+    "points": 1287,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-06.png",
     "xws": "fhambo06"
   },
   {
     "name": "fh-am-bo-07",
-    "points": 1273,
+    "points": 1288,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-07.png",
     "xws": "fhambo07"
   },
   {
     "name": "fh-am-bo-08",
-    "points": 1274,
+    "points": 1289,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-08.png",
     "xws": "fhambo08"
   },
   {
     "name": "fh-am-bo-09",
-    "points": 1275,
+    "points": 1290,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-09.png",
     "xws": "fhambo09"
   },
   {
     "name": "fh-am-bo-10",
-    "points": 1276,
+    "points": 1291,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-10.png",
     "xws": "fhambo10"
   },
   {
     "name": "fh-am-bo-11",
-    "points": 1277,
+    "points": 1292,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-11.png",
     "xws": "fhambo11"
   },
   {
     "name": "fh-am-bo-12",
-    "points": 1278,
+    "points": 1293,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-12.png",
     "xws": "fhambo12"
   },
   {
     "name": "fh-am-bo-13",
-    "points": 1279,
+    "points": 1294,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-13.png",
     "xws": "fhambo13"
   },
   {
     "name": "fh-am-bo-14",
-    "points": 1280,
+    "points": 1295,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-14.png",
     "xws": "fhambo14"
   },
   {
     "name": "fh-am-bo-15",
-    "points": 1281,
+    "points": 1296,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-15.png",
     "xws": "fhambo15"
   },
   {
     "name": "fh-am-bo-16",
-    "points": 1282,
+    "points": 1297,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-16.png",
     "xws": "fhambo16"
   },
   {
     "name": "fh-am-bo-17",
-    "points": 1283,
+    "points": 1298,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-17.png",
     "xws": "fhambo17"
   },
   {
     "name": "fh-am-bo-18",
-    "points": 1284,
+    "points": 1299,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-18.png",
     "xws": "fhambo18"
   },
   {
     "name": "fh-am-bo-19",
-    "points": 1285,
+    "points": 1300,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-am-bo-19.png",
     "xws": "fhambo19"
   },
   {
     "name": "fh-pe-bo-back",
-    "points": 1286,
+    "points": 1301,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-pe-bo-back.png",
     "xws": "fhpeboback"
   },
   {
     "name": "fh-pe-bo-01",
-    "points": 1287,
+    "points": 1302,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-pe-bo-01.png",
     "xws": "fhpebo01"
   },
   {
     "name": "reclaimed essence",
-    "points": 1288,
+    "points": 1303,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-pe-bo-01.png",
     "xws": "fhpebo01"
   },
   {
     "name": "fh-pe-bo-02",
-    "points": 1289,
+    "points": 1304,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-pe-bo-02.png",
     "xws": "fhpebo02"
   },
   {
     "name": "soul pact",
-    "points": 1290,
+    "points": 1305,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-pe-bo-02.png",
     "xws": "fhpebo02"
   },
   {
     "name": "fh-pe-bo-03",
-    "points": 1291,
+    "points": 1306,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-pe-bo-03.png",
     "xws": "fhpebo03"
   },
   {
     "name": "dead on arrival",
-    "points": 1292,
+    "points": 1307,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/bo/fh-pe-bo-03.png",
     "xws": "fhpebo03"
   },
   {
     "name": "fh-am-cr-back",
-    "points": 1293,
+    "points": 1308,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-back.png",
     "xws": "fhamcrback"
   },
   {
     "name": "fh-am-cr-01",
-    "points": 1294,
+    "points": 1309,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-01.png",
     "xws": "fhamcr01"
   },
   {
     "name": "fh-am-cr-02",
-    "points": 1295,
+    "points": 1310,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-02.png",
     "xws": "fhamcr02"
   },
   {
     "name": "fh-am-cr-03",
-    "points": 1296,
+    "points": 1311,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-03.png",
     "xws": "fhamcr03"
   },
   {
     "name": "fh-am-cr-04",
-    "points": 1297,
+    "points": 1312,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-04.png",
     "xws": "fhamcr04"
   },
   {
     "name": "fh-am-cr-05",
-    "points": 1298,
+    "points": 1313,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-05.png",
     "xws": "fhamcr05"
   },
   {
     "name": "fh-am-cr-06",
-    "points": 1299,
+    "points": 1314,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-06.png",
     "xws": "fhamcr06"
   },
   {
     "name": "fh-am-cr-07",
-    "points": 1300,
+    "points": 1315,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-07.png",
     "xws": "fhamcr07"
   },
   {
     "name": "fh-am-cr-08",
-    "points": 1301,
+    "points": 1316,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-08.png",
     "xws": "fhamcr08"
   },
   {
     "name": "fh-am-cr-09",
-    "points": 1302,
+    "points": 1317,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-09.png",
     "xws": "fhamcr09"
   },
   {
     "name": "fh-am-cr-10",
-    "points": 1303,
+    "points": 1318,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-10.png",
     "xws": "fhamcr10"
   },
   {
     "name": "fh-am-cr-11",
-    "points": 1304,
+    "points": 1319,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-11.png",
     "xws": "fhamcr11"
   },
   {
     "name": "fh-am-cr-12",
-    "points": 1305,
+    "points": 1320,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-12.png",
     "xws": "fhamcr12"
   },
   {
     "name": "fh-am-cr-13",
-    "points": 1306,
+    "points": 1321,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-13.png",
     "xws": "fhamcr13"
   },
   {
     "name": "fh-am-cr-14",
-    "points": 1307,
+    "points": 1322,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-14.png",
     "xws": "fhamcr14"
   },
   {
     "name": "fh-am-cr-15",
-    "points": 1308,
+    "points": 1323,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-15.png",
     "xws": "fhamcr15"
   },
   {
     "name": "fh-am-cr-16",
-    "points": 1309,
+    "points": 1324,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-16.png",
     "xws": "fhamcr16"
   },
   {
     "name": "fh-am-cr-17",
-    "points": 1310,
+    "points": 1325,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-17.png",
     "xws": "fhamcr17"
   },
   {
     "name": "fh-am-cr-18",
-    "points": 1311,
+    "points": 1326,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-18.png",
     "xws": "fhamcr18"
   },
   {
     "name": "fh-am-cr-19",
-    "points": 1312,
+    "points": 1327,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-am-cr-19.png",
     "xws": "fhamcr19"
   },
   {
     "name": "fh-pe-cr-back",
-    "points": 1313,
+    "points": 1328,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-pe-cr-back.png",
     "xws": "fhpecrback"
   },
   {
     "name": "fh-pe-cr-01",
-    "points": 1314,
+    "points": 1329,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-pe-cr-01.png",
     "xws": "fhpecr01"
   },
   {
     "name": "resilient shell",
-    "points": 1315,
+    "points": 1330,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-pe-cr-01.png",
     "xws": "fhpecr01"
   },
   {
     "name": "fh-pe-cr-02",
-    "points": 1316,
+    "points": 1331,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-pe-cr-02.png",
     "xws": "fhpecr02"
   },
   {
     "name": "curl up",
-    "points": 1317,
+    "points": 1332,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-pe-cr-02.png",
     "xws": "fhpecr02"
   },
   {
     "name": "fh-pe-cr-03",
-    "points": 1318,
+    "points": 1333,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-pe-cr-03.png",
     "xws": "fhpecr03"
   },
   {
     "name": "aquatic predator",
-    "points": 1319,
+    "points": 1334,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/cr/fh-pe-cr-03.png",
     "xws": "fhpecr03"
   },
   {
     "name": "fh-am-df-back",
-    "points": 1320,
+    "points": 1335,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-back.png",
     "xws": "fhamdfback"
   },
   {
     "name": "fh-am-df-01",
-    "points": 1321,
+    "points": 1336,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-01.png",
     "xws": "fhamdf01"
   },
   {
     "name": "fh-am-df-02",
-    "points": 1322,
+    "points": 1337,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-02.png",
     "xws": "fhamdf02"
   },
   {
     "name": "fh-am-df-03",
-    "points": 1323,
+    "points": 1338,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-03.png",
     "xws": "fhamdf03"
   },
   {
     "name": "fh-am-df-04",
-    "points": 1324,
+    "points": 1339,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-04.png",
     "xws": "fhamdf04"
   },
   {
     "name": "fh-am-df-05",
-    "points": 1325,
+    "points": 1340,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-05.png",
     "xws": "fhamdf05"
   },
   {
     "name": "fh-am-df-06",
-    "points": 1326,
+    "points": 1341,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-06.png",
     "xws": "fhamdf06"
   },
   {
     "name": "fh-am-df-07",
-    "points": 1327,
+    "points": 1342,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-07.png",
     "xws": "fhamdf07"
   },
   {
     "name": "fh-am-df-08",
-    "points": 1328,
+    "points": 1343,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-08.png",
     "xws": "fhamdf08"
   },
   {
     "name": "fh-am-df-09",
-    "points": 1329,
+    "points": 1344,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-09.png",
     "xws": "fhamdf09"
   },
   {
     "name": "fh-am-df-10",
-    "points": 1330,
+    "points": 1345,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-10.png",
     "xws": "fhamdf10"
   },
   {
     "name": "fh-am-df-11",
-    "points": 1331,
+    "points": 1346,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-11.png",
     "xws": "fhamdf11"
   },
   {
     "name": "fh-am-df-12",
-    "points": 1332,
+    "points": 1347,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-12.png",
     "xws": "fhamdf12"
   },
   {
     "name": "fh-am-df-13",
-    "points": 1333,
+    "points": 1348,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-13.png",
     "xws": "fhamdf13"
   },
   {
     "name": "fh-am-df-14",
-    "points": 1334,
+    "points": 1349,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-14.png",
     "xws": "fhamdf14"
   },
   {
     "name": "fh-am-df-15",
-    "points": 1335,
+    "points": 1350,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-15.png",
     "xws": "fhamdf15"
   },
   {
     "name": "fh-am-df-16",
-    "points": 1336,
+    "points": 1351,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-16.png",
     "xws": "fhamdf16"
   },
   {
     "name": "fh-am-df-17",
-    "points": 1337,
+    "points": 1352,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-17.png",
     "xws": "fhamdf17"
   },
   {
     "name": "fh-am-df-18",
-    "points": 1338,
+    "points": 1353,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-18.png",
     "xws": "fhamdf18"
   },
   {
     "name": "fh-am-df-19",
-    "points": 1339,
+    "points": 1354,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-am-df-19.png",
     "xws": "fhamdf19"
   },
   {
     "name": "fh-pe-df-back",
-    "points": 1340,
+    "points": 1355,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-pe-df-back.png",
     "xws": "fhpedfback"
   },
   {
     "name": "fh-pe-df-01",
-    "points": 1341,
+    "points": 1356,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-pe-df-01.png",
     "xws": "fhpedf01"
   },
   {
     "name": "persistence",
-    "points": 1342,
+    "points": 1357,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-pe-df-01.png",
     "xws": "fhpedf01"
   },
   {
     "name": "fh-pe-df-02",
-    "points": 1343,
+    "points": 1358,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-pe-df-02.png",
     "xws": "fhpedf02"
   },
   {
     "name": "expanded arsenal",
-    "points": 1344,
+    "points": 1359,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-pe-df-02.png",
     "xws": "fhpedf02"
   },
   {
     "name": "fh-pe-df-03",
-    "points": 1345,
+    "points": 1360,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-pe-df-03.png",
     "xws": "fhpedf03"
   },
   {
     "name": "scavenger",
-    "points": 1346,
+    "points": 1361,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/df/fh-pe-df-03.png",
     "xws": "fhpedf03"
   },
   {
     "name": "fh-am-dt-back",
-    "points": 1347,
+    "points": 1362,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-back.png",
     "xws": "fhamdtback"
   },
   {
     "name": "fh-am-dt-01",
-    "points": 1348,
+    "points": 1363,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-01.png",
     "xws": "fhamdt01"
   },
   {
     "name": "fh-am-dt-02",
-    "points": 1349,
+    "points": 1364,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-02.png",
     "xws": "fhamdt02"
   },
   {
     "name": "fh-am-dt-03",
-    "points": 1350,
+    "points": 1365,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-03.png",
     "xws": "fhamdt03"
   },
   {
     "name": "fh-am-dt-04",
-    "points": 1351,
+    "points": 1366,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-04.png",
     "xws": "fhamdt04"
   },
   {
     "name": "fh-am-dt-05",
-    "points": 1352,
+    "points": 1367,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-05.png",
     "xws": "fhamdt05"
   },
   {
     "name": "fh-am-dt-06",
-    "points": 1353,
+    "points": 1368,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-06.png",
     "xws": "fhamdt06"
   },
   {
     "name": "fh-am-dt-07",
-    "points": 1354,
+    "points": 1369,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-07.png",
     "xws": "fhamdt07"
   },
   {
     "name": "fh-am-dt-08",
-    "points": 1355,
+    "points": 1370,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-08.png",
     "xws": "fhamdt08"
   },
   {
     "name": "fh-am-dt-09",
-    "points": 1356,
+    "points": 1371,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-09.png",
     "xws": "fhamdt09"
   },
   {
     "name": "fh-am-dt-10",
-    "points": 1357,
+    "points": 1372,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-10.png",
     "xws": "fhamdt10"
   },
   {
     "name": "fh-am-dt-11",
-    "points": 1358,
+    "points": 1373,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-11.png",
     "xws": "fhamdt11"
   },
   {
     "name": "fh-am-dt-12",
-    "points": 1359,
+    "points": 1374,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-12.png",
     "xws": "fhamdt12"
   },
   {
     "name": "fh-am-dt-13",
-    "points": 1360,
+    "points": 1375,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-13.png",
     "xws": "fhamdt13"
   },
   {
     "name": "fh-am-dt-14",
-    "points": 1361,
+    "points": 1376,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-14.png",
     "xws": "fhamdt14"
   },
   {
     "name": "fh-am-dt-15",
-    "points": 1362,
+    "points": 1377,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-15.png",
     "xws": "fhamdt15"
   },
   {
     "name": "fh-am-dt-16",
-    "points": 1363,
+    "points": 1378,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-16.png",
     "xws": "fhamdt16"
   },
   {
     "name": "fh-am-dt-17",
-    "points": 1364,
+    "points": 1379,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-17.png",
     "xws": "fhamdt17"
   },
   {
     "name": "fh-am-dt-18",
-    "points": 1365,
+    "points": 1380,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-am-dt-18.png",
     "xws": "fhamdt18"
   },
   {
     "name": "fh-pe-dt-back",
-    "points": 1366,
+    "points": 1381,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-pe-dt-back.png",
     "xws": "fhpedtback"
   },
   {
     "name": "fh-pe-dt-01",
-    "points": 1367,
+    "points": 1382,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-pe-dt-01.png",
     "xws": "fhpedt01"
   },
   {
     "name": "grisly claim",
-    "points": 1368,
+    "points": 1383,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-pe-dt-01.png",
     "xws": "fhpedt01"
   },
   {
     "name": "fh-pe-dt-02",
-    "points": 1369,
+    "points": 1384,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-pe-dt-02.png",
     "xws": "fhpedt02"
   },
   {
     "name": "decorated veteran",
-    "points": 1370,
+    "points": 1385,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-pe-dt-02.png",
     "xws": "fhpedt02"
   },
   {
     "name": "fh-pe-dt-03",
-    "points": 1371,
+    "points": 1386,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-pe-dt-03.png",
     "xws": "fhpedt03"
   },
   {
     "name": "unseen predator",
-    "points": 1372,
+    "points": 1387,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dt/fh-pe-dt-03.png",
     "xws": "fhpedt03"
   },
   {
     "name": "fh-am-dw-back",
-    "points": 1373,
+    "points": 1388,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-back.png",
     "xws": "fhamdwback"
   },
   {
     "name": "fh-am-dw-01",
-    "points": 1374,
+    "points": 1389,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-01.png",
     "xws": "fhamdw01"
   },
   {
     "name": "fh-am-dw-02",
-    "points": 1375,
+    "points": 1390,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-02.png",
     "xws": "fhamdw02"
   },
   {
     "name": "fh-am-dw-03",
-    "points": 1376,
+    "points": 1391,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-03.png",
     "xws": "fhamdw03"
   },
   {
     "name": "fh-am-dw-04",
-    "points": 1377,
+    "points": 1392,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-04.png",
     "xws": "fhamdw04"
   },
   {
     "name": "fh-am-dw-05",
-    "points": 1378,
+    "points": 1393,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-05.png",
     "xws": "fhamdw05"
   },
   {
     "name": "fh-am-dw-06",
-    "points": 1379,
+    "points": 1394,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-06.png",
     "xws": "fhamdw06"
   },
   {
     "name": "fh-am-dw-07",
-    "points": 1380,
+    "points": 1395,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-07.png",
     "xws": "fhamdw07"
   },
   {
     "name": "fh-am-dw-08",
-    "points": 1381,
+    "points": 1396,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-08.png",
     "xws": "fhamdw08"
   },
   {
     "name": "fh-am-dw-09",
-    "points": 1382,
+    "points": 1397,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-09.png",
     "xws": "fhamdw09"
   },
   {
     "name": "fh-am-dw-10",
-    "points": 1383,
+    "points": 1398,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-10.png",
     "xws": "fhamdw10"
   },
   {
     "name": "fh-am-dw-11",
-    "points": 1384,
+    "points": 1399,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-11.png",
     "xws": "fhamdw11"
   },
   {
     "name": "fh-am-dw-12",
-    "points": 1385,
+    "points": 1400,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-12.png",
     "xws": "fhamdw12"
   },
   {
     "name": "fh-am-dw-13",
-    "points": 1386,
+    "points": 1401,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-13.png",
     "xws": "fhamdw13"
   },
   {
     "name": "fh-am-dw-14",
-    "points": 1387,
+    "points": 1402,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-14.png",
     "xws": "fhamdw14"
   },
   {
     "name": "fh-am-dw-15",
-    "points": 1388,
+    "points": 1403,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-15.png",
     "xws": "fhamdw15"
   },
   {
     "name": "fh-am-dw-16",
-    "points": 1389,
+    "points": 1404,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-16.png",
     "xws": "fhamdw16"
   },
   {
     "name": "fh-am-dw-17",
-    "points": 1390,
+    "points": 1405,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-am-dw-17.png",
     "xws": "fhamdw17"
   },
   {
     "name": "fh-pe-dw-back",
-    "points": 1391,
+    "points": 1406,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-pe-dw-back.png",
     "xws": "fhpedwback"
   },
   {
     "name": "fh-pe-dw-01",
-    "points": 1392,
+    "points": 1407,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-pe-dw-01.png",
     "xws": "fhpedw01"
   },
   {
     "name": "restless night",
-    "points": 1393,
+    "points": 1408,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-pe-dw-01.png",
     "xws": "fhpedw01"
   },
   {
     "name": "fh-pe-dw-02",
-    "points": 1394,
+    "points": 1409,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-pe-dw-02.png",
     "xws": "fhpedw02"
   },
   {
     "name": "haunting dreams",
-    "points": 1395,
+    "points": 1410,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-pe-dw-02.png",
     "xws": "fhpedw02"
   },
   {
     "name": "fh-pe-dw-03",
-    "points": 1396,
+    "points": 1411,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-pe-dw-03.png",
     "xws": "fhpedw03"
   },
   {
     "name": "cloak of shadow",
-    "points": 1397,
+    "points": 1412,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/dw/fh-pe-dw-03.png",
     "xws": "fhpedw03"
   },
   {
     "name": "fh-am-ff-back",
-    "points": 1398,
+    "points": 1413,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-back.png",
     "xws": "fhamffback"
   },
   {
     "name": "fh-am-ff-01",
-    "points": 1399,
+    "points": 1414,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-01.png",
     "xws": "fhamff01"
   },
   {
     "name": "fh-am-ff-02",
-    "points": 1400,
+    "points": 1415,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-02.png",
     "xws": "fhamff02"
   },
   {
     "name": "fh-am-ff-03",
-    "points": 1401,
+    "points": 1416,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-03.png",
     "xws": "fhamff03"
   },
   {
     "name": "fh-am-ff-04",
-    "points": 1402,
+    "points": 1417,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-04.png",
     "xws": "fhamff04"
   },
   {
     "name": "fh-am-ff-05",
-    "points": 1403,
+    "points": 1418,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-05.png",
     "xws": "fhamff05"
   },
   {
     "name": "fh-am-ff-06",
-    "points": 1404,
+    "points": 1419,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-06.png",
     "xws": "fhamff06"
   },
   {
     "name": "fh-am-ff-07",
-    "points": 1405,
+    "points": 1420,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-07.png",
     "xws": "fhamff07"
   },
   {
     "name": "fh-am-ff-08",
-    "points": 1406,
+    "points": 1421,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-08.png",
     "xws": "fhamff08"
   },
   {
     "name": "fh-am-ff-09",
-    "points": 1407,
+    "points": 1422,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-09.png",
     "xws": "fhamff09"
   },
   {
     "name": "fh-am-ff-10",
-    "points": 1408,
+    "points": 1423,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-10.png",
     "xws": "fhamff10"
   },
   {
     "name": "fh-am-ff-11",
-    "points": 1409,
+    "points": 1424,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-11.png",
     "xws": "fhamff11"
   },
   {
     "name": "fh-am-ff-12",
-    "points": 1410,
+    "points": 1425,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-12.png",
     "xws": "fhamff12"
   },
   {
     "name": "fh-am-ff-13",
-    "points": 1411,
+    "points": 1426,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-13.png",
     "xws": "fhamff13"
   },
   {
     "name": "fh-am-ff-14",
-    "points": 1412,
+    "points": 1427,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-14.png",
     "xws": "fhamff14"
   },
   {
     "name": "fh-am-ff-15",
-    "points": 1413,
+    "points": 1428,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-15.png",
     "xws": "fhamff15"
   },
   {
     "name": "fh-am-ff-16",
-    "points": 1414,
+    "points": 1429,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-16.png",
     "xws": "fhamff16"
   },
   {
     "name": "fh-am-ff-17",
-    "points": 1415,
+    "points": 1430,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-am-ff-17.png",
     "xws": "fhamff17"
   },
   {
     "name": "fh-pe-ff-back",
-    "points": 1416,
+    "points": 1431,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-pe-ff-back.png",
     "xws": "fhpeffback"
   },
   {
     "name": "fh-pe-ff-01",
-    "points": 1417,
+    "points": 1432,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-pe-ff-01.png",
     "xws": "fhpeff01"
   },
   {
     "name": "sure footing",
-    "points": 1418,
+    "points": 1433,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-pe-ff-01.png",
     "xws": "fhpeff01"
   },
   {
     "name": "fh-pe-ff-02",
-    "points": 1419,
+    "points": 1434,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-pe-ff-02.png",
     "xws": "fhpeff02"
   },
   {
     "name": "the mountain's boon",
-    "points": 1420,
+    "points": 1435,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-pe-ff-02.png",
     "xws": "fhpeff02"
   },
   {
     "name": "fh-pe-ff-03",
-    "points": 1421,
+    "points": 1436,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-pe-ff-03.png",
     "xws": "fhpeff03"
   },
   {
     "name": "thick-skinned",
-    "points": 1422,
+    "points": 1437,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ff/fh-pe-ff-03.png",
     "xws": "fhpeff03"
   },
   {
     "name": "fh-am-ge-back",
-    "points": 1423,
+    "points": 1438,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-back.png",
     "xws": "fhamgeback"
   },
   {
     "name": "fh-am-ge-01",
-    "points": 1424,
+    "points": 1439,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-01.png",
     "xws": "fhamge01"
   },
   {
     "name": "fh-am-ge-02",
-    "points": 1425,
+    "points": 1440,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-02.png",
     "xws": "fhamge02"
   },
   {
     "name": "fh-am-ge-03",
-    "points": 1426,
+    "points": 1441,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-03.png",
     "xws": "fhamge03"
   },
   {
     "name": "fh-am-ge-04",
-    "points": 1427,
+    "points": 1442,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-04.png",
     "xws": "fhamge04"
   },
   {
     "name": "fh-am-ge-05",
-    "points": 1428,
+    "points": 1443,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-05.png",
     "xws": "fhamge05"
   },
   {
     "name": "fh-am-ge-06",
-    "points": 1429,
+    "points": 1444,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-06.png",
     "xws": "fhamge06"
   },
   {
     "name": "fh-am-ge-07",
-    "points": 1430,
+    "points": 1445,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-07.png",
     "xws": "fhamge07"
   },
   {
     "name": "fh-am-ge-08",
-    "points": 1431,
+    "points": 1446,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-08.png",
     "xws": "fhamge08"
   },
   {
     "name": "fh-am-ge-09",
-    "points": 1432,
+    "points": 1447,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-09.png",
     "xws": "fhamge09"
   },
   {
     "name": "fh-am-ge-10",
-    "points": 1433,
+    "points": 1448,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-10.png",
     "xws": "fhamge10"
   },
   {
     "name": "fh-am-ge-11",
-    "points": 1434,
+    "points": 1449,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-11.png",
     "xws": "fhamge11"
   },
   {
     "name": "fh-am-ge-12",
-    "points": 1435,
+    "points": 1450,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-12.png",
     "xws": "fhamge12"
   },
   {
     "name": "fh-am-ge-13",
-    "points": 1436,
+    "points": 1451,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-13.png",
     "xws": "fhamge13"
   },
   {
     "name": "fh-am-ge-14",
-    "points": 1437,
+    "points": 1452,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-14.png",
     "xws": "fhamge14"
   },
   {
     "name": "fh-am-ge-15",
-    "points": 1438,
+    "points": 1453,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-am-ge-15.png",
     "xws": "fhamge15"
   },
   {
     "name": "fh-pe-ge-back",
-    "points": 1439,
+    "points": 1454,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-pe-ge-back.png",
     "xws": "fhpegeback"
   },
   {
     "name": "fh-pe-ge-01",
-    "points": 1440,
+    "points": 1455,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-pe-ge-01.png",
     "xws": "fhpege01"
   },
   {
     "name": "revitalizing swarm",
-    "points": 1441,
+    "points": 1456,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-pe-ge-01.png",
     "xws": "fhpege01"
   },
   {
     "name": "fh-pe-ge-02",
-    "points": 1442,
+    "points": 1457,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-pe-ge-02.png",
     "xws": "fhpege02"
   },
   {
     "name": "acquired resistance",
-    "points": 1443,
+    "points": 1458,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-pe-ge-02.png",
     "xws": "fhpege02"
   },
   {
     "name": "fh-pe-ge-03",
-    "points": 1444,
+    "points": 1459,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-pe-ge-03.png",
     "xws": "fhpege03"
   },
   {
     "name": "unstable equilibrium",
-    "points": 1445,
+    "points": 1460,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ge/fh-pe-ge-03.png",
     "xws": "fhpege03"
   },
   {
     "name": "fh-am-hv-back",
-    "points": 1446,
+    "points": 1461,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-back.png",
     "xws": "fhamhvback"
   },
   {
     "name": "fh-am-hv-01",
-    "points": 1447,
+    "points": 1462,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-01.png",
     "xws": "fhamhv01"
   },
   {
     "name": "fh-am-hv-02",
-    "points": 1448,
+    "points": 1463,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-02.png",
     "xws": "fhamhv02"
   },
   {
     "name": "fh-am-hv-03",
-    "points": 1449,
+    "points": 1464,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-03.png",
     "xws": "fhamhv03"
   },
   {
     "name": "fh-am-hv-04",
-    "points": 1450,
+    "points": 1465,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-04.png",
     "xws": "fhamhv04"
   },
   {
     "name": "fh-am-hv-05",
-    "points": 1451,
+    "points": 1466,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-05.png",
     "xws": "fhamhv05"
   },
   {
     "name": "fh-am-hv-06",
-    "points": 1452,
+    "points": 1467,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-06.png",
     "xws": "fhamhv06"
   },
   {
     "name": "fh-am-hv-07",
-    "points": 1453,
+    "points": 1468,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-07.png",
     "xws": "fhamhv07"
   },
   {
     "name": "fh-am-hv-08",
-    "points": 1454,
+    "points": 1469,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-08.png",
     "xws": "fhamhv08"
   },
   {
     "name": "fh-am-hv-09",
-    "points": 1455,
+    "points": 1470,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-09.png",
     "xws": "fhamhv09"
   },
   {
     "name": "fh-am-hv-10",
-    "points": 1456,
+    "points": 1471,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-10.png",
     "xws": "fhamhv10"
   },
   {
     "name": "fh-am-hv-11",
-    "points": 1457,
+    "points": 1472,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-11.png",
     "xws": "fhamhv11"
   },
   {
     "name": "fh-am-hv-12",
-    "points": 1458,
+    "points": 1473,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-12.png",
     "xws": "fhamhv12"
   },
   {
     "name": "fh-am-hv-13",
-    "points": 1459,
+    "points": 1474,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-13.png",
     "xws": "fhamhv13"
   },
   {
     "name": "fh-am-hv-14",
-    "points": 1460,
+    "points": 1475,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-14.png",
     "xws": "fhamhv14"
   },
   {
     "name": "fh-am-hv-15",
-    "points": 1461,
+    "points": 1476,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-am-hv-15.png",
     "xws": "fhamhv15"
   },
   {
     "name": "fh-pe-hv-back",
-    "points": 1462,
+    "points": 1477,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-pe-hv-back.png",
     "xws": "fhpehvback"
   },
   {
     "name": "fh-pe-hv-01",
-    "points": 1463,
+    "points": 1478,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-pe-hv-01.png",
     "xws": "fhpehv01"
   },
   {
     "name": "remote override",
-    "points": 1464,
+    "points": 1479,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-pe-hv-01.png",
     "xws": "fhpehv01"
   },
   {
     "name": "fh-pe-hv-02",
-    "points": 1465,
+    "points": 1480,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-pe-hv-02.png",
     "xws": "fhpehv02"
   },
   {
     "name": "adaptive programming",
-    "points": 1466,
+    "points": 1481,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-pe-hv-02.png",
     "xws": "fhpehv02"
   },
   {
     "name": "fh-pe-hv-03",
-    "points": 1467,
+    "points": 1482,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-pe-hv-03.png",
     "xws": "fhpehv03"
   },
   {
     "name": "galvanized frame",
-    "points": 1468,
+    "points": 1483,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/hv/fh-pe-hv-03.png",
     "xws": "fhpehv03"
   },
   {
     "name": "fh-am-if-back",
-    "points": 1469,
+    "points": 1484,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-back.png",
     "xws": "fhamifback"
   },
   {
     "name": "fh-am-if-01",
-    "points": 1470,
+    "points": 1485,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-01.png",
     "xws": "fhamif01"
   },
   {
     "name": "fh-am-if-02",
-    "points": 1471,
+    "points": 1486,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-02.png",
     "xws": "fhamif02"
   },
   {
     "name": "fh-am-if-03",
-    "points": 1472,
+    "points": 1487,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-03.png",
     "xws": "fhamif03"
   },
   {
     "name": "fh-am-if-04",
-    "points": 1473,
+    "points": 1488,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-04.png",
     "xws": "fhamif04"
   },
   {
     "name": "fh-am-if-05",
-    "points": 1474,
+    "points": 1489,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-05.png",
     "xws": "fhamif05"
   },
   {
     "name": "fh-am-if-06",
-    "points": 1475,
+    "points": 1490,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-06.png",
     "xws": "fhamif06"
   },
   {
     "name": "fh-am-if-07",
-    "points": 1476,
+    "points": 1491,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-07.png",
     "xws": "fhamif07"
   },
   {
     "name": "fh-am-if-08",
-    "points": 1477,
+    "points": 1492,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-08.png",
     "xws": "fhamif08"
   },
   {
     "name": "fh-am-if-09",
-    "points": 1478,
+    "points": 1493,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-09.png",
     "xws": "fhamif09"
   },
   {
     "name": "fh-am-if-10",
-    "points": 1479,
+    "points": 1494,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-10.png",
     "xws": "fhamif10"
   },
   {
     "name": "fh-am-if-11",
-    "points": 1480,
+    "points": 1495,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-11.png",
     "xws": "fhamif11"
   },
   {
     "name": "fh-am-if-12",
-    "points": 1481,
+    "points": 1496,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-12.png",
     "xws": "fhamif12"
   },
   {
     "name": "fh-am-if-13",
-    "points": 1482,
+    "points": 1497,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-13.png",
     "xws": "fhamif13"
   },
   {
     "name": "fh-am-if-14",
-    "points": 1483,
+    "points": 1498,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-14.png",
     "xws": "fhamif14"
   },
   {
     "name": "fh-am-if-15",
-    "points": 1484,
+    "points": 1499,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-15.png",
     "xws": "fhamif15"
   },
   {
     "name": "fh-am-if-16",
-    "points": 1485,
+    "points": 1500,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-16.png",
     "xws": "fhamif16"
   },
   {
     "name": "fh-am-if-17",
-    "points": 1486,
+    "points": 1501,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-17.png",
     "xws": "fhamif17"
   },
   {
     "name": "fh-am-if-18",
-    "points": 1487,
+    "points": 1502,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-18.png",
     "xws": "fhamif18"
   },
   {
     "name": "fh-am-if-19",
-    "points": 1488,
+    "points": 1503,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-19.png",
     "xws": "fhamif19"
   },
   {
     "name": "fh-am-if-20",
-    "points": 1489,
+    "points": 1504,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-am-if-20.png",
     "xws": "fhamif20"
   },
   {
     "name": "fh-pe-if-back",
-    "points": 1490,
+    "points": 1505,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-pe-if-back.png",
     "xws": "fhpeifback"
   },
   {
     "name": "fh-pe-if-01",
-    "points": 1491,
+    "points": 1506,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-pe-if-01.png",
     "xws": "fhpeif01"
   },
   {
     "name": "sustained animation",
-    "points": 1492,
+    "points": 1507,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-pe-if-01.png",
     "xws": "fhpeif01"
   },
   {
     "name": "fh-pe-if-02",
-    "points": 1493,
+    "points": 1508,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-pe-if-02.png",
     "xws": "fhpeif02"
   },
   {
     "name": "elemental tempering",
-    "points": 1494,
+    "points": 1509,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-pe-if-02.png",
     "xws": "fhpeif02"
   },
   {
     "name": "fh-pe-if-03",
-    "points": 1495,
+    "points": 1510,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-pe-if-03.png",
     "xws": "fhpeif03"
   },
   {
     "name": "radiant boon",
-    "points": 1496,
+    "points": 1511,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/if/fh-pe-if-03.png",
     "xws": "fhpeif03"
   },
   {
     "name": "fh-am-me-back",
-    "points": 1497,
+    "points": 1512,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-back.png",
     "xws": "fhammeback"
   },
   {
     "name": "fh-am-me-01",
-    "points": 1498,
+    "points": 1513,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-01.png",
     "xws": "fhamme01"
   },
   {
     "name": "fh-am-me-02",
-    "points": 1499,
+    "points": 1514,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-02.png",
     "xws": "fhamme02"
   },
   {
     "name": "fh-am-me-03",
-    "points": 1500,
+    "points": 1515,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-03.png",
     "xws": "fhamme03"
   },
   {
     "name": "fh-am-me-04",
-    "points": 1501,
+    "points": 1516,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-04.png",
     "xws": "fhamme04"
   },
   {
     "name": "fh-am-me-05",
-    "points": 1502,
+    "points": 1517,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-05.png",
     "xws": "fhamme05"
   },
   {
     "name": "fh-am-me-06",
-    "points": 1503,
+    "points": 1518,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-06.png",
     "xws": "fhamme06"
   },
   {
     "name": "fh-am-me-07",
-    "points": 1504,
+    "points": 1519,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-07.png",
     "xws": "fhamme07"
   },
   {
     "name": "fh-am-me-08",
-    "points": 1505,
+    "points": 1520,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-08.png",
     "xws": "fhamme08"
   },
   {
     "name": "fh-am-me-09",
-    "points": 1506,
+    "points": 1521,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-09.png",
     "xws": "fhamme09"
   },
   {
     "name": "fh-am-me-10",
-    "points": 1507,
+    "points": 1522,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-10.png",
     "xws": "fhamme10"
   },
   {
     "name": "fh-am-me-11",
-    "points": 1508,
+    "points": 1523,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-11.png",
     "xws": "fhamme11"
   },
   {
     "name": "fh-am-me-12",
-    "points": 1509,
+    "points": 1524,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-12.png",
     "xws": "fhamme12"
   },
   {
     "name": "fh-am-me-13",
-    "points": 1510,
+    "points": 1525,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-13.png",
     "xws": "fhamme13"
   },
   {
     "name": "fh-am-me-14",
-    "points": 1511,
+    "points": 1526,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-14.png",
     "xws": "fhamme14"
   },
   {
     "name": "fh-am-me-15",
-    "points": 1512,
+    "points": 1527,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-15.png",
     "xws": "fhamme15"
   },
   {
     "name": "fh-am-me-16",
-    "points": 1513,
+    "points": 1528,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-am-me-16.png",
     "xws": "fhamme16"
   },
   {
     "name": "fh-pe-me-back",
-    "points": 1514,
+    "points": 1529,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-pe-me-back.png",
     "xws": "fhpemeback"
   },
   {
     "name": "fh-pe-me-01",
-    "points": 1515,
+    "points": 1530,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-pe-me-01.png",
     "xws": "fhpeme01"
   },
   {
     "name": "valve adjustment",
-    "points": 1516,
+    "points": 1531,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-pe-me-01.png",
     "xws": "fhpeme01"
   },
   {
     "name": "fh-pe-me-02",
-    "points": 1517,
+    "points": 1532,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-pe-me-02.png",
     "xws": "fhpeme02"
   },
   {
     "name": "synthetic resistance",
-    "points": 1518,
+    "points": 1533,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-pe-me-02.png",
     "xws": "fhpeme02"
   },
   {
     "name": "fh-pe-me-03",
-    "points": 1519,
+    "points": 1534,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-pe-me-03.png",
     "xws": "fhpeme03"
   },
   {
     "name": "emergency reboot",
-    "points": 1520,
+    "points": 1535,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/me/fh-pe-me-03.png",
     "xws": "fhpeme03"
   },
   {
     "name": "fh-am-pc-back",
-    "points": 1521,
+    "points": 1536,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-back.png",
     "xws": "fhampcback"
   },
   {
     "name": "fh-am-pc-01",
-    "points": 1522,
+    "points": 1537,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-01.png",
     "xws": "fhampc01"
   },
   {
     "name": "fh-am-pc-02",
-    "points": 1523,
+    "points": 1538,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-02.png",
     "xws": "fhampc02"
   },
   {
     "name": "fh-am-pc-03",
-    "points": 1524,
+    "points": 1539,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-03.png",
     "xws": "fhampc03"
   },
   {
     "name": "fh-am-pc-04",
-    "points": 1525,
+    "points": 1540,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-04.png",
     "xws": "fhampc04"
   },
   {
     "name": "fh-am-pc-05",
-    "points": 1526,
+    "points": 1541,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-05.png",
     "xws": "fhampc05"
   },
   {
     "name": "fh-am-pc-06",
-    "points": 1527,
+    "points": 1542,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-06.png",
     "xws": "fhampc06"
   },
   {
     "name": "fh-am-pc-07",
-    "points": 1528,
+    "points": 1543,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-07.png",
     "xws": "fhampc07"
   },
   {
     "name": "fh-am-pc-08",
-    "points": 1529,
+    "points": 1544,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-08.png",
     "xws": "fhampc08"
   },
   {
     "name": "fh-am-pc-09",
-    "points": 1530,
+    "points": 1545,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-09.png",
     "xws": "fhampc09"
   },
   {
     "name": "fh-am-pc-10",
-    "points": 1531,
+    "points": 1546,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-10.png",
     "xws": "fhampc10"
   },
   {
     "name": "fh-am-pc-11",
-    "points": 1532,
+    "points": 1547,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-11.png",
     "xws": "fhampc11"
   },
   {
     "name": "fh-am-pc-12",
-    "points": 1533,
+    "points": 1548,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-12.png",
     "xws": "fhampc12"
   },
   {
     "name": "fh-am-pc-13",
-    "points": 1534,
+    "points": 1549,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-13.png",
     "xws": "fhampc13"
   },
   {
     "name": "fh-am-pc-14",
-    "points": 1535,
+    "points": 1550,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-14.png",
     "xws": "fhampc14"
   },
   {
     "name": "fh-am-pc-15",
-    "points": 1536,
+    "points": 1551,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-15.png",
     "xws": "fhampc15"
   },
   {
     "name": "fh-am-pc-16",
-    "points": 1537,
+    "points": 1552,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-16.png",
     "xws": "fhampc16"
   },
   {
     "name": "fh-am-pc-17",
-    "points": 1538,
+    "points": 1553,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-17.png",
     "xws": "fhampc17"
   },
   {
     "name": "fh-am-pc-18",
-    "points": 1539,
+    "points": 1554,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-18.png",
     "xws": "fhampc18"
   },
   {
     "name": "fh-am-pc-19",
-    "points": 1540,
+    "points": 1555,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-am-pc-19.png",
     "xws": "fhampc19"
   },
   {
     "name": "fh-pe-pc-back",
-    "points": 1541,
+    "points": 1556,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-pe-pc-back.png",
     "xws": "fhpepcback"
   },
   {
     "name": "fh-pe-pc-01",
-    "points": 1542,
+    "points": 1557,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-pe-pc-01.png",
     "xws": "fhpepc01"
   },
   {
     "name": "extended torment",
-    "points": 1543,
+    "points": 1558,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-pe-pc-01.png",
     "xws": "fhpepc01"
   },
   {
     "name": "fh-pe-pc-02",
-    "points": 1544,
+    "points": 1559,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-pe-pc-02.png",
     "xws": "fhpepc02"
   },
   {
     "name": "last laugh",
-    "points": 1545,
+    "points": 1560,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-pe-pc-02.png",
     "xws": "fhpepc02"
   },
   {
     "name": "fh-pe-pc-03",
-    "points": 1546,
+    "points": 1561,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-pe-pc-03.png",
     "xws": "fhpepc03"
   },
   {
     "name": "scar tissue",
-    "points": 1547,
+    "points": 1562,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/pc/fh-pe-pc-03.png",
     "xws": "fhpepc03"
   },
   {
     "name": "fh-am-py-back",
-    "points": 1548,
+    "points": 1563,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-back.png",
     "xws": "fhampyback"
   },
   {
     "name": "fh-am-py-01",
-    "points": 1549,
+    "points": 1564,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-01.png",
     "xws": "fhampy01"
   },
   {
     "name": "fh-am-py-02",
-    "points": 1550,
+    "points": 1565,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-02.png",
     "xws": "fhampy02"
   },
   {
     "name": "fh-am-py-03",
-    "points": 1551,
+    "points": 1566,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-03.png",
     "xws": "fhampy03"
   },
   {
     "name": "fh-am-py-04",
-    "points": 1552,
+    "points": 1567,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-04.png",
     "xws": "fhampy04"
   },
   {
     "name": "fh-am-py-05",
-    "points": 1553,
+    "points": 1568,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-05.png",
     "xws": "fhampy05"
   },
   {
     "name": "fh-am-py-06",
-    "points": 1554,
+    "points": 1569,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-06.png",
     "xws": "fhampy06"
   },
   {
     "name": "fh-am-py-07",
-    "points": 1555,
+    "points": 1570,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-07.png",
     "xws": "fhampy07"
   },
   {
     "name": "fh-am-py-08",
-    "points": 1556,
+    "points": 1571,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-08.png",
     "xws": "fhampy08"
   },
   {
     "name": "fh-am-py-09",
-    "points": 1557,
+    "points": 1572,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-09.png",
     "xws": "fhampy09"
   },
   {
     "name": "fh-am-py-10",
-    "points": 1558,
+    "points": 1573,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-10.png",
     "xws": "fhampy10"
   },
   {
     "name": "fh-am-py-11",
-    "points": 1559,
+    "points": 1574,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-11.png",
     "xws": "fhampy11"
   },
   {
     "name": "fh-am-py-12",
-    "points": 1560,
+    "points": 1575,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-12.png",
     "xws": "fhampy12"
   },
   {
     "name": "fh-am-py-13",
-    "points": 1561,
+    "points": 1576,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-13.png",
     "xws": "fhampy13"
   },
   {
     "name": "fh-am-py-14",
-    "points": 1562,
+    "points": 1577,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-14.png",
     "xws": "fhampy14"
   },
   {
     "name": "fh-am-py-15",
-    "points": 1563,
+    "points": 1578,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-15.png",
     "xws": "fhampy15"
   },
   {
     "name": "fh-am-py-16",
-    "points": 1564,
+    "points": 1579,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-am-py-16.png",
     "xws": "fhampy16"
   },
   {
     "name": "fh-pe-py-back",
-    "points": 1565,
+    "points": 1580,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-pe-py-back.png",
     "xws": "fhpepyback"
   },
   {
     "name": "fh-pe-py-01",
-    "points": 1566,
+    "points": 1581,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-pe-py-01.png",
     "xws": "fhpepy01"
   },
   {
     "name": "improvised armor",
-    "points": 1567,
+    "points": 1582,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-pe-py-01.png",
     "xws": "fhpepy01"
   },
   {
     "name": "fh-pe-py-02",
-    "points": 1568,
+    "points": 1583,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-pe-py-02.png",
     "xws": "fhpepy02"
   },
   {
     "name": "spitting magma",
-    "points": 1569,
+    "points": 1584,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-pe-py-02.png",
     "xws": "fhpepy02"
   },
   {
     "name": "fh-pe-py-03",
-    "points": 1570,
+    "points": 1585,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-pe-py-03.png",
     "xws": "fhpepy03"
   },
   {
     "name": "dormant peace",
-    "points": 1571,
+    "points": 1586,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/py/fh-pe-py-03.png",
     "xws": "fhpepy03"
   },
   {
     "name": "fh-am-sd-back",
-    "points": 1572,
+    "points": 1587,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-back.png",
     "xws": "fhamsdback"
   },
   {
     "name": "fh-am-sd-01",
-    "points": 1573,
+    "points": 1588,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-01.png",
     "xws": "fhamsd01"
   },
   {
     "name": "fh-am-sd-02",
-    "points": 1574,
+    "points": 1589,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-02.png",
     "xws": "fhamsd02"
   },
   {
     "name": "fh-am-sd-03",
-    "points": 1575,
+    "points": 1590,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-03.png",
     "xws": "fhamsd03"
   },
   {
     "name": "fh-am-sd-04",
-    "points": 1576,
+    "points": 1591,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-04.png",
     "xws": "fhamsd04"
   },
   {
     "name": "fh-am-sd-05",
-    "points": 1577,
+    "points": 1592,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-05.png",
     "xws": "fhamsd05"
   },
   {
     "name": "fh-am-sd-06",
-    "points": 1578,
+    "points": 1593,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-06.png",
     "xws": "fhamsd06"
   },
   {
     "name": "fh-am-sd-07",
-    "points": 1579,
+    "points": 1594,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-07.png",
     "xws": "fhamsd07"
   },
   {
     "name": "fh-am-sd-08",
-    "points": 1580,
+    "points": 1595,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-08.png",
     "xws": "fhamsd08"
   },
   {
     "name": "fh-am-sd-09",
-    "points": 1581,
+    "points": 1596,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-09.png",
     "xws": "fhamsd09"
   },
   {
     "name": "fh-am-sd-10",
-    "points": 1582,
+    "points": 1597,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-10.png",
     "xws": "fhamsd10"
   },
   {
     "name": "fh-am-sd-11",
-    "points": 1583,
+    "points": 1598,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-11.png",
     "xws": "fhamsd11"
   },
   {
     "name": "fh-am-sd-12",
-    "points": 1584,
+    "points": 1599,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-12.png",
     "xws": "fhamsd12"
   },
   {
     "name": "fh-am-sd-13",
-    "points": 1585,
+    "points": 1600,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-13.png",
     "xws": "fhamsd13"
   },
   {
     "name": "fh-am-sd-14",
-    "points": 1586,
+    "points": 1601,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-14.png",
     "xws": "fhamsd14"
   },
   {
     "name": "fh-am-sd-15",
-    "points": 1587,
+    "points": 1602,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-15.png",
     "xws": "fhamsd15"
   },
   {
     "name": "fh-am-sd-16",
-    "points": 1588,
+    "points": 1603,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-16.png",
     "xws": "fhamsd16"
   },
   {
     "name": "fh-am-sd-17",
-    "points": 1589,
+    "points": 1604,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-am-sd-17.png",
     "xws": "fhamsd17"
   },
   {
     "name": "fh-pe-sd-back",
-    "points": 1590,
+    "points": 1605,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-pe-sd-back.png",
     "xws": "fhpesdback"
   },
   {
     "name": "fh-pe-sd-01",
-    "points": 1591,
+    "points": 1606,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-pe-sd-01.png",
     "xws": "fhpesd01"
   },
   {
     "name": "heart of the storm",
-    "points": 1592,
+    "points": 1607,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-pe-sd-01.png",
     "xws": "fhpesd01"
   },
   {
     "name": "fh-pe-sd-02",
-    "points": 1593,
+    "points": 1608,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-pe-sd-02.png",
     "xws": "fhpesd02"
   },
   {
     "name": "winter's breath",
-    "points": 1594,
+    "points": 1609,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-pe-sd-02.png",
     "xws": "fhpesd02"
   },
   {
     "name": "fh-pe-sd-03",
-    "points": 1595,
+    "points": 1610,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-pe-sd-03.png",
     "xws": "fhpesd03"
   },
   {
     "name": "blinding flurries",
-    "points": 1596,
+    "points": 1611,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sd/fh-pe-sd-03.png",
     "xws": "fhpesd03"
   },
   {
     "name": "fh-am-sh-back",
-    "points": 1597,
+    "points": 1612,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-back.png",
     "xws": "fhamshback"
   },
   {
     "name": "fh-am-sh-01",
-    "points": 1598,
+    "points": 1613,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-01.png",
     "xws": "fhamsh01"
   },
   {
     "name": "fh-am-sh-02",
-    "points": 1599,
+    "points": 1614,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-02.png",
     "xws": "fhamsh02"
   },
   {
     "name": "fh-am-sh-03",
-    "points": 1600,
+    "points": 1615,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-03.png",
     "xws": "fhamsh03"
   },
   {
     "name": "fh-am-sh-04",
-    "points": 1601,
+    "points": 1616,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-04.png",
     "xws": "fhamsh04"
   },
   {
     "name": "fh-am-sh-05",
-    "points": 1602,
+    "points": 1617,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-05.png",
     "xws": "fhamsh05"
   },
   {
     "name": "fh-am-sh-06",
-    "points": 1603,
+    "points": 1618,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-06.png",
     "xws": "fhamsh06"
   },
   {
     "name": "fh-am-sh-07",
-    "points": 1604,
+    "points": 1619,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-07.png",
     "xws": "fhamsh07"
   },
   {
     "name": "fh-am-sh-08",
-    "points": 1605,
+    "points": 1620,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-08.png",
     "xws": "fhamsh08"
   },
   {
     "name": "fh-am-sh-09",
-    "points": 1606,
+    "points": 1621,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-09.png",
     "xws": "fhamsh09"
   },
   {
     "name": "fh-am-sh-10",
-    "points": 1607,
+    "points": 1622,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-10.png",
     "xws": "fhamsh10"
   },
   {
     "name": "fh-am-sh-11",
-    "points": 1608,
+    "points": 1623,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-11.png",
     "xws": "fhamsh11"
   },
   {
     "name": "fh-am-sh-12",
-    "points": 1609,
+    "points": 1624,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-12.png",
     "xws": "fhamsh12"
   },
   {
     "name": "fh-am-sh-13",
-    "points": 1610,
+    "points": 1625,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-13.png",
     "xws": "fhamsh13"
   },
   {
     "name": "fh-am-sh-14",
-    "points": 1611,
+    "points": 1626,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-14.png",
     "xws": "fhamsh14"
   },
   {
     "name": "fh-am-sh-15",
-    "points": 1612,
+    "points": 1627,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-15.png",
     "xws": "fhamsh15"
   },
   {
     "name": "fh-am-sh-16",
-    "points": 1613,
+    "points": 1628,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-am-sh-16.png",
     "xws": "fhamsh16"
   },
   {
     "name": "fh-pe-sh-back",
-    "points": 1614,
+    "points": 1629,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-pe-sh-back.png",
     "xws": "fhpeshback"
   },
   {
     "name": "fh-pe-sh-01",
-    "points": 1615,
+    "points": 1630,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-pe-sh-01.png",
     "xws": "fhpesh01"
   },
   {
     "name": "profound note",
-    "points": 1616,
+    "points": 1631,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-pe-sh-01.png",
     "xws": "fhpesh01"
   },
   {
     "name": "fh-pe-sh-02",
-    "points": 1617,
+    "points": 1632,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-pe-sh-02.png",
     "xws": "fhpesh02"
   },
   {
     "name": "hyperresonance",
-    "points": 1618,
+    "points": 1633,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-pe-sh-02.png",
     "xws": "fhpesh02"
   },
   {
     "name": "fh-pe-sh-03",
-    "points": 1619,
+    "points": 1634,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-pe-sh-03.png",
     "xws": "fhpesh03"
   },
   {
     "name": "precognition",
-    "points": 1620,
+    "points": 1635,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/sh/fh-pe-sh-03.png",
     "xws": "fhpesh03"
   },
   {
     "name": "fh-am-ta-back",
-    "points": 1621,
+    "points": 1636,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-back.png",
     "xws": "fhamtaback"
   },
   {
     "name": "fh-am-ta-01",
-    "points": 1622,
+    "points": 1637,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-01.png",
     "xws": "fhamta01"
   },
   {
     "name": "fh-am-ta-02",
-    "points": 1623,
+    "points": 1638,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-02.png",
     "xws": "fhamta02"
   },
   {
     "name": "fh-am-ta-03",
-    "points": 1624,
+    "points": 1639,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-03.png",
     "xws": "fhamta03"
   },
   {
     "name": "fh-am-ta-04",
-    "points": 1625,
+    "points": 1640,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-04.png",
     "xws": "fhamta04"
   },
   {
     "name": "fh-am-ta-05",
-    "points": 1626,
+    "points": 1641,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-05.png",
     "xws": "fhamta05"
   },
   {
     "name": "fh-am-ta-06",
-    "points": 1627,
+    "points": 1642,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-06.png",
     "xws": "fhamta06"
   },
   {
     "name": "fh-am-ta-07",
-    "points": 1628,
+    "points": 1643,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-07.png",
     "xws": "fhamta07"
   },
   {
     "name": "fh-am-ta-08",
-    "points": 1629,
+    "points": 1644,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-08.png",
     "xws": "fhamta08"
   },
   {
     "name": "fh-am-ta-09",
-    "points": 1630,
+    "points": 1645,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-09.png",
     "xws": "fhamta09"
   },
   {
     "name": "fh-am-ta-10",
-    "points": 1631,
+    "points": 1646,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-10.png",
     "xws": "fhamta10"
   },
   {
     "name": "fh-am-ta-11",
-    "points": 1632,
+    "points": 1647,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-11.png",
     "xws": "fhamta11"
   },
   {
     "name": "fh-am-ta-12",
-    "points": 1633,
+    "points": 1648,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-12.png",
     "xws": "fhamta12"
   },
   {
     "name": "fh-am-ta-13",
-    "points": 1634,
+    "points": 1649,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-13.png",
     "xws": "fhamta13"
   },
   {
     "name": "fh-am-ta-14",
-    "points": 1635,
+    "points": 1650,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-14.png",
     "xws": "fhamta14"
   },
   {
     "name": "fh-am-ta-15",
-    "points": 1636,
+    "points": 1651,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-15.png",
     "xws": "fhamta15"
   },
   {
     "name": "fh-am-ta-16",
-    "points": 1637,
+    "points": 1652,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-16.png",
     "xws": "fhamta16"
   },
   {
     "name": "fh-am-ta-17",
-    "points": 1638,
+    "points": 1653,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-17.png",
     "xws": "fhamta17"
   },
   {
     "name": "fh-am-ta-18",
-    "points": 1639,
+    "points": 1654,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-18.png",
     "xws": "fhamta18"
   },
   {
     "name": "fh-am-ta-19",
-    "points": 1640,
+    "points": 1655,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-19.png",
     "xws": "fhamta19"
   },
   {
     "name": "fh-am-ta-20",
-    "points": 1641,
+    "points": 1656,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-20.png",
     "xws": "fhamta20"
   },
   {
     "name": "fh-am-ta-21",
-    "points": 1642,
+    "points": 1657,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-am-ta-21.png",
     "xws": "fhamta21"
   },
   {
     "name": "fh-pe-ta-back",
-    "points": 1643,
+    "points": 1658,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-pe-ta-back.png",
     "xws": "fhpetaback"
   },
   {
     "name": "fh-pe-ta-01",
-    "points": 1644,
+    "points": 1659,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-pe-ta-01.png",
     "xws": "fhpeta01"
   },
   {
     "name": "idle hands",
-    "points": 1645,
+    "points": 1660,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-pe-ta-01.png",
     "xws": "fhpeta01"
   },
   {
     "name": "fh-pe-ta-02",
-    "points": 1646,
+    "points": 1661,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-pe-ta-02.png",
     "xws": "fhpeta02"
   },
   {
     "name": "careful footing",
-    "points": 1647,
+    "points": 1662,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-pe-ta-02.png",
     "xws": "fhpeta02"
   },
   {
     "name": "fh-pe-ta-03",
-    "points": 1648,
+    "points": 1663,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-pe-ta-03.png",
     "xws": "fhpeta03"
   },
   {
     "name": "always be prepared",
-    "points": 1649,
+    "points": 1664,
     "expansion": "frosthaven",
     "image": "attack-modifiers/frosthaven/ta/fh-pe-ta-03.png",
     "xws": "fhpeta03"
   },
   {
     "name": "jl-am-m-01",
-    "points": 1650,
+    "points": 1665,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-01.png",
     "xws": "jlamm01",
@@ -12532,7 +12668,7 @@
   },
   {
     "name": "318",
-    "points": 1651,
+    "points": 1666,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-01.png",
     "xws": "jlamm01",
@@ -12540,7 +12676,7 @@
   },
   {
     "name": "jl-am-m-02",
-    "points": 1652,
+    "points": 1667,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-02.png",
     "xws": "jlamm02",
@@ -12548,7 +12684,7 @@
   },
   {
     "name": "319",
-    "points": 1653,
+    "points": 1668,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-02.png",
     "xws": "jlamm02",
@@ -12556,7 +12692,7 @@
   },
   {
     "name": "jl-am-m-03",
-    "points": 1654,
+    "points": 1669,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-03.png",
     "xws": "jlamm03",
@@ -12564,7 +12700,7 @@
   },
   {
     "name": "320",
-    "points": 1655,
+    "points": 1670,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-03.png",
     "xws": "jlamm03",
@@ -12572,7 +12708,7 @@
   },
   {
     "name": "jl-am-m-04",
-    "points": 1656,
+    "points": 1671,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-04.png",
     "xws": "jlamm04",
@@ -12580,7 +12716,7 @@
   },
   {
     "name": "321",
-    "points": 1657,
+    "points": 1672,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-04.png",
     "xws": "jlamm04",
@@ -12588,7 +12724,7 @@
   },
   {
     "name": "jl-am-m-05",
-    "points": 1658,
+    "points": 1673,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-05.png",
     "xws": "jlamm05",
@@ -12596,7 +12732,7 @@
   },
   {
     "name": "322",
-    "points": 1659,
+    "points": 1674,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-05.png",
     "xws": "jlamm05",
@@ -12604,7 +12740,7 @@
   },
   {
     "name": "jl-am-m-06",
-    "points": 1660,
+    "points": 1675,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-06.png",
     "xws": "jlamm06",
@@ -12612,7 +12748,7 @@
   },
   {
     "name": "323",
-    "points": 1661,
+    "points": 1676,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-06.png",
     "xws": "jlamm06",
@@ -12620,7 +12756,7 @@
   },
   {
     "name": "jl-am-m-07",
-    "points": 1662,
+    "points": 1677,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-07.png",
     "xws": "jlamm07",
@@ -12628,7 +12764,7 @@
   },
   {
     "name": "324",
-    "points": 1663,
+    "points": 1678,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-07.png",
     "xws": "jlamm07",
@@ -12636,7 +12772,7 @@
   },
   {
     "name": "jl-am-m-08",
-    "points": 1664,
+    "points": 1679,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-08.png",
     "xws": "jlamm08",
@@ -12644,7 +12780,7 @@
   },
   {
     "name": "325",
-    "points": 1665,
+    "points": 1680,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-08.png",
     "xws": "jlamm08",
@@ -12652,7 +12788,7 @@
   },
   {
     "name": "jl-am-m-09",
-    "points": 1666,
+    "points": 1681,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-09.png",
     "xws": "jlamm09",
@@ -12660,7 +12796,7 @@
   },
   {
     "name": "326",
-    "points": 1667,
+    "points": 1682,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-09.png",
     "xws": "jlamm09",
@@ -12668,7 +12804,7 @@
   },
   {
     "name": "jl-am-m-10",
-    "points": 1668,
+    "points": 1683,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-10.png",
     "xws": "jlamm10",
@@ -12676,7 +12812,7 @@
   },
   {
     "name": "327",
-    "points": 1669,
+    "points": 1684,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-10.png",
     "xws": "jlamm10",
@@ -12684,7 +12820,7 @@
   },
   {
     "name": "jl-am-m-11",
-    "points": 1670,
+    "points": 1685,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-11.png",
     "xws": "jlamm11",
@@ -12692,7 +12828,7 @@
   },
   {
     "name": "328",
-    "points": 1671,
+    "points": 1686,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-11.png",
     "xws": "jlamm11",
@@ -12700,7 +12836,7 @@
   },
   {
     "name": "jl-am-m-12",
-    "points": 1672,
+    "points": 1687,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-12.png",
     "xws": "jlamm12",
@@ -12708,7 +12844,7 @@
   },
   {
     "name": "329",
-    "points": 1673,
+    "points": 1688,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-12.png",
     "xws": "jlamm12",
@@ -12716,7 +12852,7 @@
   },
   {
     "name": "jl-am-m-13",
-    "points": 1674,
+    "points": 1689,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-13.png",
     "xws": "jlamm13",
@@ -12724,7 +12860,7 @@
   },
   {
     "name": "330",
-    "points": 1675,
+    "points": 1690,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-13.png",
     "xws": "jlamm13",
@@ -12732,7 +12868,7 @@
   },
   {
     "name": "jl-am-m-14",
-    "points": 1676,
+    "points": 1691,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-14.png",
     "xws": "jlamm14",
@@ -12740,7 +12876,7 @@
   },
   {
     "name": "331",
-    "points": 1677,
+    "points": 1692,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-14.png",
     "xws": "jlamm14",
@@ -12748,7 +12884,7 @@
   },
   {
     "name": "jl-am-m-15",
-    "points": 1678,
+    "points": 1693,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-15.png",
     "xws": "jlamm15",
@@ -12756,7 +12892,7 @@
   },
   {
     "name": "332",
-    "points": 1679,
+    "points": 1694,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-15.png",
     "xws": "jlamm15",
@@ -12764,7 +12900,7 @@
   },
   {
     "name": "jl-am-m-16",
-    "points": 1680,
+    "points": 1695,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-16.png",
     "xws": "jlamm16",
@@ -12772,7 +12908,7 @@
   },
   {
     "name": "333",
-    "points": 1681,
+    "points": 1696,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-16.png",
     "xws": "jlamm16",
@@ -12780,7 +12916,7 @@
   },
   {
     "name": "jl-am-m-17",
-    "points": 1682,
+    "points": 1697,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-17.png",
     "xws": "jlamm17",
@@ -12788,7 +12924,7 @@
   },
   {
     "name": "334",
-    "points": 1683,
+    "points": 1698,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-17.png",
     "xws": "jlamm17",
@@ -12796,7 +12932,7 @@
   },
   {
     "name": "jl-am-m-18",
-    "points": 1684,
+    "points": 1699,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-18.png",
     "xws": "jlamm18",
@@ -12804,7 +12940,7 @@
   },
   {
     "name": "335",
-    "points": 1685,
+    "points": 1700,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-18.png",
     "xws": "jlamm18",
@@ -12812,7 +12948,7 @@
   },
   {
     "name": "jl-am-m-19",
-    "points": 1686,
+    "points": 1701,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-19.png",
     "xws": "jlamm19",
@@ -12820,7 +12956,7 @@
   },
   {
     "name": "336",
-    "points": 1687,
+    "points": 1702,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-19.png",
     "xws": "jlamm19",
@@ -12828,7 +12964,7 @@
   },
   {
     "name": "jl-am-m-20",
-    "points": 1688,
+    "points": 1703,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-20.png",
     "xws": "jlamm20",
@@ -12836,7 +12972,7 @@
   },
   {
     "name": "337",
-    "points": 1689,
+    "points": 1704,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-20.png",
     "xws": "jlamm20",
@@ -12844,7 +12980,7 @@
   },
   {
     "name": "jl-am-m-back",
-    "points": 1690,
+    "points": 1705,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster/jl-am-m-back.png",
     "xws": "jlammback",
@@ -12852,7 +12988,7 @@
   },
   {
     "name": "jl-am-mm-01",
-    "points": 1691,
+    "points": 1706,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-01.png",
     "xws": "jlammm01",
@@ -12860,7 +12996,7 @@
   },
   {
     "name": "348",
-    "points": 1692,
+    "points": 1707,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-01.png",
     "xws": "jlammm01",
@@ -12868,7 +13004,7 @@
   },
   {
     "name": "jl-am-mm-02",
-    "points": 1693,
+    "points": 1708,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-02.png",
     "xws": "jlammm02",
@@ -12876,7 +13012,7 @@
   },
   {
     "name": "349",
-    "points": 1694,
+    "points": 1709,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-02.png",
     "xws": "jlammm02",
@@ -12884,7 +13020,7 @@
   },
   {
     "name": "jl-am-mm-03",
-    "points": 1695,
+    "points": 1710,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-03.png",
     "xws": "jlammm03",
@@ -12892,7 +13028,7 @@
   },
   {
     "name": "350",
-    "points": 1696,
+    "points": 1711,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-03.png",
     "xws": "jlammm03",
@@ -12900,7 +13036,7 @@
   },
   {
     "name": "jl-am-mm-04",
-    "points": 1697,
+    "points": 1712,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-04.png",
     "xws": "jlammm04",
@@ -12908,7 +13044,7 @@
   },
   {
     "name": "351",
-    "points": 1698,
+    "points": 1713,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-04.png",
     "xws": "jlammm04",
@@ -12916,7 +13052,7 @@
   },
   {
     "name": "jl-am-mm-05",
-    "points": 1699,
+    "points": 1714,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-05.png",
     "xws": "jlammm05",
@@ -12924,7 +13060,7 @@
   },
   {
     "name": "352",
-    "points": 1700,
+    "points": 1715,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-05.png",
     "xws": "jlammm05",
@@ -12932,7 +13068,7 @@
   },
   {
     "name": "jl-am-mm-06",
-    "points": 1701,
+    "points": 1716,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-06.png",
     "xws": "jlammm06",
@@ -12940,7 +13076,7 @@
   },
   {
     "name": "353",
-    "points": 1702,
+    "points": 1717,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-06.png",
     "xws": "jlammm06",
@@ -12948,7 +13084,7 @@
   },
   {
     "name": "jl-am-mm-07",
-    "points": 1703,
+    "points": 1718,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-07.png",
     "xws": "jlammm07",
@@ -12956,7 +13092,7 @@
   },
   {
     "name": "354",
-    "points": 1704,
+    "points": 1719,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-07.png",
     "xws": "jlammm07",
@@ -12964,7 +13100,7 @@
   },
   {
     "name": "jl-am-mm-08",
-    "points": 1705,
+    "points": 1720,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-08.png",
     "xws": "jlammm08",
@@ -12972,7 +13108,7 @@
   },
   {
     "name": "355",
-    "points": 1706,
+    "points": 1721,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-08.png",
     "xws": "jlammm08",
@@ -12980,7 +13116,7 @@
   },
   {
     "name": "jl-am-mm-09",
-    "points": 1707,
+    "points": 1722,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-09.png",
     "xws": "jlammm09",
@@ -12988,7 +13124,7 @@
   },
   {
     "name": "356",
-    "points": 1708,
+    "points": 1723,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-09.png",
     "xws": "jlammm09",
@@ -12996,7 +13132,7 @@
   },
   {
     "name": "jl-am-mm-10",
-    "points": 1709,
+    "points": 1724,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-10.png",
     "xws": "jlammm10",
@@ -13004,7 +13140,7 @@
   },
   {
     "name": "357",
-    "points": 1710,
+    "points": 1725,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-10.png",
     "xws": "jlammm10",
@@ -13012,7 +13148,7 @@
   },
   {
     "name": "jl-am-mm-back",
-    "points": 1711,
+    "points": 1726,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/monster-mod/jl-am-mm-back.png",
     "xws": "jlammmback",
@@ -13020,7 +13156,7 @@
   },
   {
     "name": "jl-am-pm-01",
-    "points": 1712,
+    "points": 1727,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-01.png",
     "xws": "jlampm01",
@@ -13028,7 +13164,7 @@
   },
   {
     "name": "338",
-    "points": 1713,
+    "points": 1728,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-01.png",
     "xws": "jlampm01",
@@ -13036,7 +13172,7 @@
   },
   {
     "name": "jl-am-pm-02",
-    "points": 1714,
+    "points": 1729,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-02.png",
     "xws": "jlampm02",
@@ -13044,7 +13180,7 @@
   },
   {
     "name": "339",
-    "points": 1715,
+    "points": 1730,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-02.png",
     "xws": "jlampm02",
@@ -13052,7 +13188,7 @@
   },
   {
     "name": "jl-am-pm-03",
-    "points": 1716,
+    "points": 1731,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-03.png",
     "xws": "jlampm03",
@@ -13060,7 +13196,7 @@
   },
   {
     "name": "340",
-    "points": 1717,
+    "points": 1732,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-03.png",
     "xws": "jlampm03",
@@ -13068,7 +13204,7 @@
   },
   {
     "name": "jl-am-pm-04",
-    "points": 1718,
+    "points": 1733,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-04.png",
     "xws": "jlampm04",
@@ -13076,7 +13212,7 @@
   },
   {
     "name": "341",
-    "points": 1719,
+    "points": 1734,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-04.png",
     "xws": "jlampm04",
@@ -13084,7 +13220,7 @@
   },
   {
     "name": "jl-am-pm-05",
-    "points": 1720,
+    "points": 1735,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-05.png",
     "xws": "jlampm05",
@@ -13092,7 +13228,7 @@
   },
   {
     "name": "342",
-    "points": 1721,
+    "points": 1736,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-05.png",
     "xws": "jlampm05",
@@ -13100,7 +13236,7 @@
   },
   {
     "name": "jl-am-pm-06",
-    "points": 1722,
+    "points": 1737,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-06.png",
     "xws": "jlampm06",
@@ -13108,7 +13244,7 @@
   },
   {
     "name": "343",
-    "points": 1723,
+    "points": 1738,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-06.png",
     "xws": "jlampm06",
@@ -13116,7 +13252,7 @@
   },
   {
     "name": "jl-am-pm-07",
-    "points": 1724,
+    "points": 1739,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-07.png",
     "xws": "jlampm07",
@@ -13124,7 +13260,7 @@
   },
   {
     "name": "344",
-    "points": 1725,
+    "points": 1740,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-07.png",
     "xws": "jlampm07",
@@ -13132,7 +13268,7 @@
   },
   {
     "name": "jl-am-pm-08",
-    "points": 1726,
+    "points": 1741,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-08.png",
     "xws": "jlampm08",
@@ -13140,7 +13276,7 @@
   },
   {
     "name": "345",
-    "points": 1727,
+    "points": 1742,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-08.png",
     "xws": "jlampm08",
@@ -13148,7 +13284,7 @@
   },
   {
     "name": "jl-am-pm-09",
-    "points": 1728,
+    "points": 1743,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-09.png",
     "xws": "jlampm09",
@@ -13156,7 +13292,7 @@
   },
   {
     "name": "346",
-    "points": 1729,
+    "points": 1744,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-09.png",
     "xws": "jlampm09",
@@ -13164,7 +13300,7 @@
   },
   {
     "name": "jl-am-pm-10",
-    "points": 1730,
+    "points": 1745,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-10.png",
     "xws": "jlampm10",
@@ -13172,7 +13308,7 @@
   },
   {
     "name": "347",
-    "points": 1731,
+    "points": 1746,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-10.png",
     "xws": "jlampm10",
@@ -13180,7 +13316,7 @@
   },
   {
     "name": "jl-am-pm-11",
-    "points": 1732,
+    "points": 1747,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-11.png",
     "xws": "jlampm11",
@@ -13188,7 +13324,7 @@
   },
   {
     "name": "358",
-    "points": 1733,
+    "points": 1748,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-11.png",
     "xws": "jlampm11",
@@ -13196,7 +13332,7 @@
   },
   {
     "name": "jl-am-pm-12",
-    "points": 1734,
+    "points": 1749,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-12.png",
     "xws": "jlampm12",
@@ -13204,7 +13340,7 @@
   },
   {
     "name": "359",
-    "points": 1735,
+    "points": 1750,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-12.png",
     "xws": "jlampm12",
@@ -13212,7 +13348,7 @@
   },
   {
     "name": "jl-am-pm-13",
-    "points": 1736,
+    "points": 1751,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-13.png",
     "xws": "jlampm13",
@@ -13220,7 +13356,7 @@
   },
   {
     "name": "360",
-    "points": 1737,
+    "points": 1752,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-13.png",
     "xws": "jlampm13",
@@ -13228,7 +13364,7 @@
   },
   {
     "name": "jl-am-pm-14",
-    "points": 1738,
+    "points": 1753,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-14.png",
     "xws": "jlampm14",
@@ -13236,7 +13372,7 @@
   },
   {
     "name": "361",
-    "points": 1739,
+    "points": 1754,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-14.png",
     "xws": "jlampm14",
@@ -13244,7 +13380,7 @@
   },
   {
     "name": "jl-am-pm-15",
-    "points": 1740,
+    "points": 1755,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-15.png",
     "xws": "jlampm15",
@@ -13252,7 +13388,7 @@
   },
   {
     "name": "362",
-    "points": 1741,
+    "points": 1756,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-15.png",
     "xws": "jlampm15",
@@ -13260,7 +13396,7 @@
   },
   {
     "name": "jl-am-pm-16",
-    "points": 1742,
+    "points": 1757,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-16.png",
     "xws": "jlampm16",
@@ -13268,7 +13404,7 @@
   },
   {
     "name": "363",
-    "points": 1743,
+    "points": 1758,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-16.png",
     "xws": "jlampm16",
@@ -13276,7 +13412,7 @@
   },
   {
     "name": "jl-am-pm-17",
-    "points": 1744,
+    "points": 1759,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-17.png",
     "xws": "jlampm17",
@@ -13284,7 +13420,7 @@
   },
   {
     "name": "364",
-    "points": 1745,
+    "points": 1760,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-17.png",
     "xws": "jlampm17",
@@ -13292,7 +13428,7 @@
   },
   {
     "name": "jl-am-pm-18",
-    "points": 1746,
+    "points": 1761,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-18.png",
     "xws": "jlampm18",
@@ -13300,7 +13436,7 @@
   },
   {
     "name": "365",
-    "points": 1747,
+    "points": 1762,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-18.png",
     "xws": "jlampm18",
@@ -13308,7 +13444,7 @@
   },
   {
     "name": "jl-am-pm-19",
-    "points": 1748,
+    "points": 1763,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-19.png",
     "xws": "jlampm19",
@@ -13316,7 +13452,7 @@
   },
   {
     "name": "366",
-    "points": 1749,
+    "points": 1764,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-19.png",
     "xws": "jlampm19",
@@ -13324,7 +13460,7 @@
   },
   {
     "name": "jl-am-pm-20",
-    "points": 1750,
+    "points": 1765,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-20.png",
     "xws": "jlampm20",
@@ -13332,7 +13468,7 @@
   },
   {
     "name": "367",
-    "points": 1751,
+    "points": 1766,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-20.png",
     "xws": "jlampm20",
@@ -13340,7 +13476,7 @@
   },
   {
     "name": "jl-am-pm-back",
-    "points": 1752,
+    "points": 1767,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/base/player-mod/jl-am-pm-back.png",
     "xws": "jlampmback",
@@ -13348,7 +13484,7 @@
   },
   {
     "name": "jl-am-de-01",
-    "points": 1753,
+    "points": 1768,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-01.png",
     "xws": "jlamde01",
@@ -13356,7 +13492,7 @@
   },
   {
     "name": "131",
-    "points": 1754,
+    "points": 1769,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-01.png",
     "xws": "jlamde01",
@@ -13364,7 +13500,7 @@
   },
   {
     "name": "jl-am-de-02",
-    "points": 1755,
+    "points": 1770,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-02.png",
     "xws": "jlamde02",
@@ -13372,7 +13508,7 @@
   },
   {
     "name": "132",
-    "points": 1756,
+    "points": 1771,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-02.png",
     "xws": "jlamde02",
@@ -13380,7 +13516,7 @@
   },
   {
     "name": "jl-am-de-03",
-    "points": 1757,
+    "points": 1772,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-03.png",
     "xws": "jlamde03",
@@ -13388,7 +13524,7 @@
   },
   {
     "name": "133",
-    "points": 1758,
+    "points": 1773,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-03.png",
     "xws": "jlamde03",
@@ -13396,7 +13532,7 @@
   },
   {
     "name": "jl-am-de-04",
-    "points": 1759,
+    "points": 1774,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-04.png",
     "xws": "jlamde04",
@@ -13404,7 +13540,7 @@
   },
   {
     "name": "134",
-    "points": 1760,
+    "points": 1775,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-04.png",
     "xws": "jlamde04",
@@ -13412,7 +13548,7 @@
   },
   {
     "name": "jl-am-de-05",
-    "points": 1761,
+    "points": 1776,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-05.png",
     "xws": "jlamde05",
@@ -13420,7 +13556,7 @@
   },
   {
     "name": "135",
-    "points": 1762,
+    "points": 1777,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-05.png",
     "xws": "jlamde05",
@@ -13428,7 +13564,7 @@
   },
   {
     "name": "jl-am-de-06",
-    "points": 1763,
+    "points": 1778,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-06.png",
     "xws": "jlamde06",
@@ -13436,7 +13572,7 @@
   },
   {
     "name": "136",
-    "points": 1764,
+    "points": 1779,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-06.png",
     "xws": "jlamde06",
@@ -13444,7 +13580,7 @@
   },
   {
     "name": "jl-am-de-07",
-    "points": 1765,
+    "points": 1780,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-07.png",
     "xws": "jlamde07",
@@ -13452,7 +13588,7 @@
   },
   {
     "name": "137",
-    "points": 1766,
+    "points": 1781,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-07.png",
     "xws": "jlamde07",
@@ -13460,7 +13596,7 @@
   },
   {
     "name": "jl-am-de-08",
-    "points": 1767,
+    "points": 1782,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-08.png",
     "xws": "jlamde08",
@@ -13468,7 +13604,7 @@
   },
   {
     "name": "138",
-    "points": 1768,
+    "points": 1783,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-08.png",
     "xws": "jlamde08",
@@ -13476,7 +13612,7 @@
   },
   {
     "name": "jl-am-de-09",
-    "points": 1769,
+    "points": 1784,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-09.png",
     "xws": "jlamde09",
@@ -13484,7 +13620,7 @@
   },
   {
     "name": "139",
-    "points": 1770,
+    "points": 1785,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-09.png",
     "xws": "jlamde09",
@@ -13492,7 +13628,7 @@
   },
   {
     "name": "jl-am-de-10",
-    "points": 1771,
+    "points": 1786,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-10.png",
     "xws": "jlamde10",
@@ -13500,7 +13636,7 @@
   },
   {
     "name": "140",
-    "points": 1772,
+    "points": 1787,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-10.png",
     "xws": "jlamde10",
@@ -13508,7 +13644,7 @@
   },
   {
     "name": "jl-am-de-11",
-    "points": 1773,
+    "points": 1788,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-11.png",
     "xws": "jlamde11",
@@ -13516,7 +13652,7 @@
   },
   {
     "name": "141",
-    "points": 1774,
+    "points": 1789,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-11.png",
     "xws": "jlamde11",
@@ -13524,7 +13660,7 @@
   },
   {
     "name": "jl-am-de-back",
-    "points": 1775,
+    "points": 1790,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/de/jl-am-de-back.png",
     "xws": "jlamdeback",
@@ -13532,7 +13668,7 @@
   },
   {
     "name": "jl-am-ha-01",
-    "points": 1776,
+    "points": 1791,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-01.png",
     "xws": "jlamha01",
@@ -13540,7 +13676,7 @@
   },
   {
     "name": "060",
-    "points": 1777,
+    "points": 1792,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-01.png",
     "xws": "jlamha01",
@@ -13548,7 +13684,7 @@
   },
   {
     "name": "jl-am-ha-02",
-    "points": 1778,
+    "points": 1793,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-02.png",
     "xws": "jlamha02",
@@ -13556,7 +13692,7 @@
   },
   {
     "name": "061",
-    "points": 1779,
+    "points": 1794,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-02.png",
     "xws": "jlamha02",
@@ -13564,7 +13700,7 @@
   },
   {
     "name": "jl-am-ha-03",
-    "points": 1780,
+    "points": 1795,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-03.png",
     "xws": "jlamha03",
@@ -13572,7 +13708,7 @@
   },
   {
     "name": "062",
-    "points": 1781,
+    "points": 1796,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-03.png",
     "xws": "jlamha03",
@@ -13580,7 +13716,7 @@
   },
   {
     "name": "jl-am-ha-04",
-    "points": 1782,
+    "points": 1797,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-04.png",
     "xws": "jlamha04",
@@ -13588,7 +13724,7 @@
   },
   {
     "name": "063",
-    "points": 1783,
+    "points": 1798,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-04.png",
     "xws": "jlamha04",
@@ -13596,7 +13732,7 @@
   },
   {
     "name": "jl-am-ha-05",
-    "points": 1784,
+    "points": 1799,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-05.png",
     "xws": "jlamha05",
@@ -13604,7 +13740,7 @@
   },
   {
     "name": "064",
-    "points": 1785,
+    "points": 1800,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-05.png",
     "xws": "jlamha05",
@@ -13612,7 +13748,7 @@
   },
   {
     "name": "jl-am-ha-06",
-    "points": 1786,
+    "points": 1801,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-06.png",
     "xws": "jlamha06",
@@ -13620,7 +13756,7 @@
   },
   {
     "name": "065",
-    "points": 1787,
+    "points": 1802,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-06.png",
     "xws": "jlamha06",
@@ -13628,7 +13764,7 @@
   },
   {
     "name": "jl-am-ha-07",
-    "points": 1788,
+    "points": 1803,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-07.png",
     "xws": "jlamha07",
@@ -13636,7 +13772,7 @@
   },
   {
     "name": "066",
-    "points": 1789,
+    "points": 1804,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-07.png",
     "xws": "jlamha07",
@@ -13644,7 +13780,7 @@
   },
   {
     "name": "jl-am-ha-08",
-    "points": 1790,
+    "points": 1805,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-08.png",
     "xws": "jlamha08",
@@ -13652,7 +13788,7 @@
   },
   {
     "name": "067",
-    "points": 1791,
+    "points": 1806,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-08.png",
     "xws": "jlamha08",
@@ -13660,7 +13796,7 @@
   },
   {
     "name": "jl-am-ha-09",
-    "points": 1792,
+    "points": 1807,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-09.png",
     "xws": "jlamha09",
@@ -13668,7 +13804,7 @@
   },
   {
     "name": "068",
-    "points": 1793,
+    "points": 1808,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-09.png",
     "xws": "jlamha09",
@@ -13676,7 +13812,7 @@
   },
   {
     "name": "jl-am-ha-10",
-    "points": 1794,
+    "points": 1809,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-10.png",
     "xws": "jlamha10",
@@ -13684,7 +13820,7 @@
   },
   {
     "name": "069",
-    "points": 1795,
+    "points": 1810,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-10.png",
     "xws": "jlamha10",
@@ -13692,7 +13828,7 @@
   },
   {
     "name": "jl-am-ha-11",
-    "points": 1796,
+    "points": 1811,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-11.png",
     "xws": "jlamha11",
@@ -13700,7 +13836,7 @@
   },
   {
     "name": "070",
-    "points": 1797,
+    "points": 1812,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-11.png",
     "xws": "jlamha11",
@@ -13708,7 +13844,7 @@
   },
   {
     "name": "jl-am-ha-12",
-    "points": 1798,
+    "points": 1813,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-12.png",
     "xws": "jlamha12",
@@ -13716,7 +13852,7 @@
   },
   {
     "name": "071",
-    "points": 1799,
+    "points": 1814,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-12.png",
     "xws": "jlamha12",
@@ -13724,7 +13860,7 @@
   },
   {
     "name": "jl-am-ha-13",
-    "points": 1800,
+    "points": 1815,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-13.png",
     "xws": "jlamha13",
@@ -13732,7 +13868,7 @@
   },
   {
     "name": "072",
-    "points": 1801,
+    "points": 1816,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-13.png",
     "xws": "jlamha13",
@@ -13740,7 +13876,7 @@
   },
   {
     "name": "jl-am-ha-back",
-    "points": 1802,
+    "points": 1817,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/ha/jl-am-ha-back.png",
     "xws": "jlamhaback",
@@ -13748,7 +13884,7 @@
   },
   {
     "name": "jl-am-rg-01",
-    "points": 1803,
+    "points": 1818,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-01.png",
     "xws": "jlamrg01",
@@ -13756,7 +13892,7 @@
   },
   {
     "name": "274",
-    "points": 1804,
+    "points": 1819,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-01.png",
     "xws": "jlamrg01",
@@ -13764,7 +13900,7 @@
   },
   {
     "name": "jl-am-rg-02",
-    "points": 1805,
+    "points": 1820,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-02.png",
     "xws": "jlamrg02",
@@ -13772,7 +13908,7 @@
   },
   {
     "name": "275",
-    "points": 1806,
+    "points": 1821,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-02.png",
     "xws": "jlamrg02",
@@ -13780,7 +13916,7 @@
   },
   {
     "name": "jl-am-rg-03",
-    "points": 1807,
+    "points": 1822,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-03.png",
     "xws": "jlamrg03",
@@ -13788,7 +13924,7 @@
   },
   {
     "name": "276",
-    "points": 1808,
+    "points": 1823,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-03.png",
     "xws": "jlamrg03",
@@ -13796,7 +13932,7 @@
   },
   {
     "name": "jl-am-rg-04",
-    "points": 1809,
+    "points": 1824,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-04.png",
     "xws": "jlamrg04",
@@ -13804,7 +13940,7 @@
   },
   {
     "name": "277",
-    "points": 1810,
+    "points": 1825,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-04.png",
     "xws": "jlamrg04",
@@ -13812,7 +13948,7 @@
   },
   {
     "name": "jl-am-rg-05",
-    "points": 1811,
+    "points": 1826,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-05.png",
     "xws": "jlamrg05",
@@ -13820,7 +13956,7 @@
   },
   {
     "name": "278",
-    "points": 1812,
+    "points": 1827,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-05.png",
     "xws": "jlamrg05",
@@ -13828,7 +13964,7 @@
   },
   {
     "name": "jl-am-rg-06",
-    "points": 1813,
+    "points": 1828,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-06.png",
     "xws": "jlamrg06",
@@ -13836,7 +13972,7 @@
   },
   {
     "name": "279",
-    "points": 1814,
+    "points": 1829,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-06.png",
     "xws": "jlamrg06",
@@ -13844,7 +13980,7 @@
   },
   {
     "name": "jl-am-rg-07",
-    "points": 1815,
+    "points": 1830,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-07.png",
     "xws": "jlamrg07",
@@ -13852,7 +13988,7 @@
   },
   {
     "name": "280",
-    "points": 1816,
+    "points": 1831,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-07.png",
     "xws": "jlamrg07",
@@ -13860,7 +13996,7 @@
   },
   {
     "name": "jl-am-rg-08",
-    "points": 1817,
+    "points": 1832,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-08.png",
     "xws": "jlamrg08",
@@ -13868,7 +14004,7 @@
   },
   {
     "name": "281",
-    "points": 1818,
+    "points": 1833,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-08.png",
     "xws": "jlamrg08",
@@ -13876,7 +14012,7 @@
   },
   {
     "name": "jl-am-rg-09",
-    "points": 1819,
+    "points": 1834,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-09.png",
     "xws": "jlamrg09",
@@ -13884,7 +14020,7 @@
   },
   {
     "name": "282",
-    "points": 1820,
+    "points": 1835,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-09.png",
     "xws": "jlamrg09",
@@ -13892,7 +14028,7 @@
   },
   {
     "name": "jl-am-rg-10",
-    "points": 1821,
+    "points": 1836,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-10.png",
     "xws": "jlamrg10",
@@ -13900,7 +14036,7 @@
   },
   {
     "name": "283",
-    "points": 1822,
+    "points": 1837,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-10.png",
     "xws": "jlamrg10",
@@ -13908,7 +14044,7 @@
   },
   {
     "name": "jl-am-rg-11",
-    "points": 1823,
+    "points": 1838,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-11.png",
     "xws": "jlamrg11",
@@ -13916,7 +14052,7 @@
   },
   {
     "name": "284",
-    "points": 1824,
+    "points": 1839,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-11.png",
     "xws": "jlamrg11",
@@ -13924,7 +14060,7 @@
   },
   {
     "name": "jl-am-rg-12",
-    "points": 1825,
+    "points": 1840,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-12.png",
     "xws": "jlamrg12",
@@ -13932,7 +14068,7 @@
   },
   {
     "name": "285",
-    "points": 1826,
+    "points": 1841,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-12.png",
     "xws": "jlamrg12",
@@ -13940,7 +14076,7 @@
   },
   {
     "name": "jl-am-rg-back",
-    "points": 1827,
+    "points": 1842,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/rg/jl-am-rg-back.png",
     "xws": "jlamrgback",
@@ -13948,7 +14084,7 @@
   },
   {
     "name": "jl-am-vw-01",
-    "points": 1828,
+    "points": 1843,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-01.png",
     "xws": "jlamvw01",
@@ -13956,7 +14092,7 @@
   },
   {
     "name": "202",
-    "points": 1829,
+    "points": 1844,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-01.png",
     "xws": "jlamvw01",
@@ -13964,7 +14100,7 @@
   },
   {
     "name": "jl-am-vw-02",
-    "points": 1830,
+    "points": 1845,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-02.png",
     "xws": "jlamvw02",
@@ -13972,7 +14108,7 @@
   },
   {
     "name": "203",
-    "points": 1831,
+    "points": 1846,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-02.png",
     "xws": "jlamvw02",
@@ -13980,7 +14116,7 @@
   },
   {
     "name": "jl-am-vw-03",
-    "points": 1832,
+    "points": 1847,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-03.png",
     "xws": "jlamvw03",
@@ -13988,7 +14124,7 @@
   },
   {
     "name": "204",
-    "points": 1833,
+    "points": 1848,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-03.png",
     "xws": "jlamvw03",
@@ -13996,7 +14132,7 @@
   },
   {
     "name": "jl-am-vw-04",
-    "points": 1834,
+    "points": 1849,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-04.png",
     "xws": "jlamvw04",
@@ -14004,7 +14140,7 @@
   },
   {
     "name": "205",
-    "points": 1835,
+    "points": 1850,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-04.png",
     "xws": "jlamvw04",
@@ -14012,7 +14148,7 @@
   },
   {
     "name": "jl-am-vw-05",
-    "points": 1836,
+    "points": 1851,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-05.png",
     "xws": "jlamvw05",
@@ -14020,7 +14156,7 @@
   },
   {
     "name": "206",
-    "points": 1837,
+    "points": 1852,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-05.png",
     "xws": "jlamvw05",
@@ -14028,7 +14164,7 @@
   },
   {
     "name": "jl-am-vw-06",
-    "points": 1838,
+    "points": 1853,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-06.png",
     "xws": "jlamvw06",
@@ -14036,7 +14172,7 @@
   },
   {
     "name": "207",
-    "points": 1839,
+    "points": 1854,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-06.png",
     "xws": "jlamvw06",
@@ -14044,7 +14180,7 @@
   },
   {
     "name": "jl-am-vw-07",
-    "points": 1840,
+    "points": 1855,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-07.png",
     "xws": "jlamvw07",
@@ -14052,7 +14188,7 @@
   },
   {
     "name": "208",
-    "points": 1841,
+    "points": 1856,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-07.png",
     "xws": "jlamvw07",
@@ -14060,7 +14196,7 @@
   },
   {
     "name": "jl-am-vw-08",
-    "points": 1842,
+    "points": 1857,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-08.png",
     "xws": "jlamvw08",
@@ -14068,7 +14204,7 @@
   },
   {
     "name": "209",
-    "points": 1843,
+    "points": 1858,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-08.png",
     "xws": "jlamvw08",
@@ -14076,7 +14212,7 @@
   },
   {
     "name": "jl-am-vw-09",
-    "points": 1844,
+    "points": 1859,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-09.png",
     "xws": "jlamvw09",
@@ -14084,7 +14220,7 @@
   },
   {
     "name": "210",
-    "points": 1845,
+    "points": 1860,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-09.png",
     "xws": "jlamvw09",
@@ -14092,7 +14228,7 @@
   },
   {
     "name": "jl-am-vw-10",
-    "points": 1846,
+    "points": 1861,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-10.png",
     "xws": "jlamvw10",
@@ -14100,7 +14236,7 @@
   },
   {
     "name": "211",
-    "points": 1847,
+    "points": 1862,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-10.png",
     "xws": "jlamvw10",
@@ -14108,7 +14244,7 @@
   },
   {
     "name": "jl-am-vw-11",
-    "points": 1848,
+    "points": 1863,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-11.png",
     "xws": "jlamvw11",
@@ -14116,7 +14252,7 @@
   },
   {
     "name": "212",
-    "points": 1849,
+    "points": 1864,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-11.png",
     "xws": "jlamvw11",
@@ -14124,7 +14260,7 @@
   },
   {
     "name": "jl-am-vw-12",
-    "points": 1850,
+    "points": 1865,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-12.png",
     "xws": "jlamvw12",
@@ -14132,7 +14268,7 @@
   },
   {
     "name": "213",
-    "points": 1851,
+    "points": 1866,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-12.png",
     "xws": "jlamvw12",
@@ -14140,7 +14276,7 @@
   },
   {
     "name": "jl-am-vw-13",
-    "points": 1852,
+    "points": 1867,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-13.png",
     "xws": "jlamvw13",
@@ -14148,7 +14284,7 @@
   },
   {
     "name": "214",
-    "points": 1853,
+    "points": 1868,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-13.png",
     "xws": "jlamvw13",
@@ -14156,7 +14292,7 @@
   },
   {
     "name": "jl-am-vw-back",
-    "points": 1854,
+    "points": 1869,
     "expansion": "jaws of the lion",
     "image": "attack-modifiers/jaws-of-the-lion/vw/jl-am-vw-back.png",
     "xws": "jlamvwback",
@@ -14164,4018 +14300,4018 @@
   },
   {
     "name": "cs-am-m-back",
-    "points": 1855,
+    "points": 1870,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-back.png",
     "xws": "csammback"
   },
   {
     "name": "cs-am-m-01",
-    "points": 1856,
+    "points": 1871,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-01.png",
     "xws": "csamm01"
   },
   {
     "name": "cs-am-m-02",
-    "points": 1857,
+    "points": 1872,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-02.png",
     "xws": "csamm02"
   },
   {
     "name": "cs-am-m-03",
-    "points": 1858,
+    "points": 1873,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-03.png",
     "xws": "csamm03"
   },
   {
     "name": "cs-am-m-04",
-    "points": 1859,
+    "points": 1874,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-04.png",
     "xws": "csamm04"
   },
   {
     "name": "cs-am-m-05",
-    "points": 1860,
+    "points": 1875,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-05.png",
     "xws": "csamm05"
   },
   {
     "name": "cs-am-m-06",
-    "points": 1861,
+    "points": 1876,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-06.png",
     "xws": "csamm06"
   },
   {
     "name": "cs-am-m-07",
-    "points": 1862,
+    "points": 1877,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-07.png",
     "xws": "csamm07"
   },
   {
     "name": "cs-am-m-08",
-    "points": 1863,
+    "points": 1878,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-08.png",
     "xws": "csamm08"
   },
   {
     "name": "cs-am-m-09",
-    "points": 1864,
+    "points": 1879,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-09.png",
     "xws": "csamm09"
   },
   {
     "name": "cs-am-m-10",
-    "points": 1865,
+    "points": 1880,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-10.png",
     "xws": "csamm10"
   },
   {
     "name": "cs-am-m-11",
-    "points": 1866,
+    "points": 1881,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-11.png",
     "xws": "csamm11"
   },
   {
     "name": "cs-am-m-12",
-    "points": 1867,
+    "points": 1882,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-12.png",
     "xws": "csamm12"
   },
   {
     "name": "cs-am-m-13",
-    "points": 1868,
+    "points": 1883,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-13.png",
     "xws": "csamm13"
   },
   {
     "name": "cs-am-m-14",
-    "points": 1869,
+    "points": 1884,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-14.png",
     "xws": "csamm14"
   },
   {
     "name": "cs-am-m-15",
-    "points": 1870,
+    "points": 1885,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-15.png",
     "xws": "csamm15"
   },
   {
     "name": "cs-am-m-16",
-    "points": 1871,
+    "points": 1886,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-16.png",
     "xws": "csamm16"
   },
   {
     "name": "cs-am-m-17",
-    "points": 1872,
+    "points": 1887,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-17.png",
     "xws": "csamm17"
   },
   {
     "name": "cs-am-m-18",
-    "points": 1873,
+    "points": 1888,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-18.png",
     "xws": "csamm18"
   },
   {
     "name": "cs-am-m-19",
-    "points": 1874,
+    "points": 1889,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-19.png",
     "xws": "csamm19"
   },
   {
     "name": "cs-am-m-20",
-    "points": 1875,
+    "points": 1890,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-20.png",
     "xws": "csamm20"
   },
   {
     "name": "cs-am-mm-back",
-    "points": 1876,
+    "points": 1891,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-back.png",
     "xws": "csammmback"
   },
   {
     "name": "cs-am-mm-01",
-    "points": 1877,
+    "points": 1892,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-01.png",
     "xws": "csammm01"
   },
   {
     "name": "cs-am-mm-02",
-    "points": 1878,
+    "points": 1893,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-02.png",
     "xws": "csammm02"
   },
   {
     "name": "cs-am-mm-03",
-    "points": 1879,
+    "points": 1894,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-03.png",
     "xws": "csammm03"
   },
   {
     "name": "cs-am-mm-04",
-    "points": 1880,
+    "points": 1895,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-04.png",
     "xws": "csammm04"
   },
   {
     "name": "cs-am-mm-05",
-    "points": 1881,
+    "points": 1896,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-05.png",
     "xws": "csammm05"
   },
   {
     "name": "cs-am-mm-06",
-    "points": 1882,
+    "points": 1897,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-06.png",
     "xws": "csammm06"
   },
   {
     "name": "cs-am-mm-07",
-    "points": 1883,
+    "points": 1898,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-07.png",
     "xws": "csammm07"
   },
   {
     "name": "cs-am-mm-08",
-    "points": 1884,
+    "points": 1899,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-08.png",
     "xws": "csammm08"
   },
   {
     "name": "cs-am-mm-09",
-    "points": 1885,
+    "points": 1900,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-09.png",
     "xws": "csammm09"
   },
   {
     "name": "cs-am-mm-10",
-    "points": 1886,
+    "points": 1901,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-10.png",
     "xws": "csammm10"
   },
   {
     "name": "cs-am-p1-back",
-    "points": 1887,
+    "points": 1902,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-back.png",
     "xws": "csamp1back"
   },
   {
     "name": "cs-am-p1-01",
-    "points": 1888,
+    "points": 1903,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-01.png",
     "xws": "csamp101"
   },
   {
     "name": "cs-am-p1-02",
-    "points": 1889,
+    "points": 1904,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-02.png",
     "xws": "csamp102"
   },
   {
     "name": "cs-am-p1-03",
-    "points": 1890,
+    "points": 1905,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-03.png",
     "xws": "csamp103"
   },
   {
     "name": "cs-am-p1-04",
-    "points": 1891,
+    "points": 1906,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-04.png",
     "xws": "csamp104"
   },
   {
     "name": "cs-am-p1-05",
-    "points": 1892,
+    "points": 1907,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-05.png",
     "xws": "csamp105"
   },
   {
     "name": "cs-am-p1-06",
-    "points": 1893,
+    "points": 1908,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-06.png",
     "xws": "csamp106"
   },
   {
     "name": "cs-am-p1-07",
-    "points": 1894,
+    "points": 1909,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-07.png",
     "xws": "csamp107"
   },
   {
     "name": "cs-am-p1-08",
-    "points": 1895,
+    "points": 1910,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-08.png",
     "xws": "csamp108"
   },
   {
     "name": "cs-am-p1-09",
-    "points": 1896,
+    "points": 1911,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-09.png",
     "xws": "csamp109"
   },
   {
     "name": "cs-am-p1-10",
-    "points": 1897,
+    "points": 1912,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-10.png",
     "xws": "csamp110"
   },
   {
     "name": "cs-am-p1-11",
-    "points": 1898,
+    "points": 1913,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-11.png",
     "xws": "csamp111"
   },
   {
     "name": "cs-am-p1-12",
-    "points": 1899,
+    "points": 1914,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-12.png",
     "xws": "csamp112"
   },
   {
     "name": "cs-am-p1-13",
-    "points": 1900,
+    "points": 1915,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-13.png",
     "xws": "csamp113"
   },
   {
     "name": "cs-am-p1-14",
-    "points": 1901,
+    "points": 1916,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-14.png",
     "xws": "csamp114"
   },
   {
     "name": "cs-am-p1-15",
-    "points": 1902,
+    "points": 1917,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-15.png",
     "xws": "csamp115"
   },
   {
     "name": "cs-am-p1-16",
-    "points": 1903,
+    "points": 1918,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-16.png",
     "xws": "csamp116"
   },
   {
     "name": "cs-am-p1-17",
-    "points": 1904,
+    "points": 1919,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-17.png",
     "xws": "csamp117"
   },
   {
     "name": "cs-am-p1-18",
-    "points": 1905,
+    "points": 1920,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-18.png",
     "xws": "csamp118"
   },
   {
     "name": "cs-am-p1-19",
-    "points": 1906,
+    "points": 1921,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-19.png",
     "xws": "csamp119"
   },
   {
     "name": "cs-am-p1-20",
-    "points": 1907,
+    "points": 1922,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-20.png",
     "xws": "csamp120"
   },
   {
     "name": "cs-am-p2-back",
-    "points": 1908,
+    "points": 1923,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-back.png",
     "xws": "csamp2back"
   },
   {
     "name": "cs-am-p2-01",
-    "points": 1909,
+    "points": 1924,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-01.png",
     "xws": "csamp201"
   },
   {
     "name": "cs-am-p2-02",
-    "points": 1910,
+    "points": 1925,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-02.png",
     "xws": "csamp202"
   },
   {
     "name": "cs-am-p2-03",
-    "points": 1911,
+    "points": 1926,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-03.png",
     "xws": "csamp203"
   },
   {
     "name": "cs-am-p2-04",
-    "points": 1912,
+    "points": 1927,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-04.png",
     "xws": "csamp204"
   },
   {
     "name": "cs-am-p2-05",
-    "points": 1913,
+    "points": 1928,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-05.png",
     "xws": "csamp205"
   },
   {
     "name": "cs-am-p2-06",
-    "points": 1914,
+    "points": 1929,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-06.png",
     "xws": "csamp206"
   },
   {
     "name": "cs-am-p2-07",
-    "points": 1915,
+    "points": 1930,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-07.png",
     "xws": "csamp207"
   },
   {
     "name": "cs-am-p2-08",
-    "points": 1916,
+    "points": 1931,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-08.png",
     "xws": "csamp208"
   },
   {
     "name": "cs-am-p2-09",
-    "points": 1917,
+    "points": 1932,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-09.png",
     "xws": "csamp209"
   },
   {
     "name": "cs-am-p2-10",
-    "points": 1918,
+    "points": 1933,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-10.png",
     "xws": "csamp210"
   },
   {
     "name": "cs-am-p2-11",
-    "points": 1919,
+    "points": 1934,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-11.png",
     "xws": "csamp211"
   },
   {
     "name": "cs-am-p2-12",
-    "points": 1920,
+    "points": 1935,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-12.png",
     "xws": "csamp212"
   },
   {
     "name": "cs-am-p2-13",
-    "points": 1921,
+    "points": 1936,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-13.png",
     "xws": "csamp213"
   },
   {
     "name": "cs-am-p2-14",
-    "points": 1922,
+    "points": 1937,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-14.png",
     "xws": "csamp214"
   },
   {
     "name": "cs-am-p2-15",
-    "points": 1923,
+    "points": 1938,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-15.png",
     "xws": "csamp215"
   },
   {
     "name": "cs-am-p2-16",
-    "points": 1924,
+    "points": 1939,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-16.png",
     "xws": "csamp216"
   },
   {
     "name": "cs-am-p2-17",
-    "points": 1925,
+    "points": 1940,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-17.png",
     "xws": "csamp217"
   },
   {
     "name": "cs-am-p2-18",
-    "points": 1926,
+    "points": 1941,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-18.png",
     "xws": "csamp218"
   },
   {
     "name": "cs-am-p2-19",
-    "points": 1927,
+    "points": 1942,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-19.png",
     "xws": "csamp219"
   },
   {
     "name": "cs-am-p2-20",
-    "points": 1928,
+    "points": 1943,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-20.png",
     "xws": "csamp220"
   },
   {
     "name": "cs-am-p3-back",
-    "points": 1929,
+    "points": 1944,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-back.png",
     "xws": "csamp3back"
   },
   {
     "name": "cs-am-p3-01",
-    "points": 1930,
+    "points": 1945,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-01.png",
     "xws": "csamp301"
   },
   {
     "name": "cs-am-p3-02",
-    "points": 1931,
+    "points": 1946,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-02.png",
     "xws": "csamp302"
   },
   {
     "name": "cs-am-p3-03",
-    "points": 1932,
+    "points": 1947,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-03.png",
     "xws": "csamp303"
   },
   {
     "name": "cs-am-p3-04",
-    "points": 1933,
+    "points": 1948,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-04.png",
     "xws": "csamp304"
   },
   {
     "name": "cs-am-p3-05",
-    "points": 1934,
+    "points": 1949,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-05.png",
     "xws": "csamp305"
   },
   {
     "name": "cs-am-p3-06",
-    "points": 1935,
+    "points": 1950,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-06.png",
     "xws": "csamp306"
   },
   {
     "name": "cs-am-p3-07",
-    "points": 1936,
+    "points": 1951,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-07.png",
     "xws": "csamp307"
   },
   {
     "name": "cs-am-p3-08",
-    "points": 1937,
+    "points": 1952,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-08.png",
     "xws": "csamp308"
   },
   {
     "name": "cs-am-p3-09",
-    "points": 1938,
+    "points": 1953,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-09.png",
     "xws": "csamp309"
   },
   {
     "name": "cs-am-p3-10",
-    "points": 1939,
+    "points": 1954,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-10.png",
     "xws": "csamp310"
   },
   {
     "name": "cs-am-p3-11",
-    "points": 1940,
+    "points": 1955,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-11.png",
     "xws": "csamp311"
   },
   {
     "name": "cs-am-p3-12",
-    "points": 1941,
+    "points": 1956,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-12.png",
     "xws": "csamp312"
   },
   {
     "name": "cs-am-p3-13",
-    "points": 1942,
+    "points": 1957,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-13.png",
     "xws": "csamp313"
   },
   {
     "name": "cs-am-p3-14",
-    "points": 1943,
+    "points": 1958,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-14.png",
     "xws": "csamp314"
   },
   {
     "name": "cs-am-p3-15",
-    "points": 1944,
+    "points": 1959,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-15.png",
     "xws": "csamp315"
   },
   {
     "name": "cs-am-p3-16",
-    "points": 1945,
+    "points": 1960,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-16.png",
     "xws": "csamp316"
   },
   {
     "name": "cs-am-p3-17",
-    "points": 1946,
+    "points": 1961,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-17.png",
     "xws": "csamp317"
   },
   {
     "name": "cs-am-p3-18",
-    "points": 1947,
+    "points": 1962,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-18.png",
     "xws": "csamp318"
   },
   {
     "name": "cs-am-p3-19",
-    "points": 1948,
+    "points": 1963,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-19.png",
     "xws": "csamp319"
   },
   {
     "name": "cs-am-p3-20",
-    "points": 1949,
+    "points": 1964,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-20.png",
     "xws": "csamp320"
   },
   {
     "name": "cs-am-p4-back",
-    "points": 1950,
+    "points": 1965,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-back.png",
     "xws": "csamp4back"
   },
   {
     "name": "cs-am-p4-01",
-    "points": 1951,
+    "points": 1966,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-01.png",
     "xws": "csamp401"
   },
   {
     "name": "cs-am-p4-02",
-    "points": 1952,
+    "points": 1967,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-02.png",
     "xws": "csamp402"
   },
   {
     "name": "cs-am-p4-03",
-    "points": 1953,
+    "points": 1968,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-03.png",
     "xws": "csamp403"
   },
   {
     "name": "cs-am-p4-04",
-    "points": 1954,
+    "points": 1969,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-04.png",
     "xws": "csamp404"
   },
   {
     "name": "cs-am-p4-05",
-    "points": 1955,
+    "points": 1970,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-05.png",
     "xws": "csamp405"
   },
   {
     "name": "cs-am-p4-06",
-    "points": 1956,
+    "points": 1971,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-06.png",
     "xws": "csamp406"
   },
   {
     "name": "cs-am-p4-07",
-    "points": 1957,
+    "points": 1972,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-07.png",
     "xws": "csamp407"
   },
   {
     "name": "cs-am-p4-08",
-    "points": 1958,
+    "points": 1973,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-08.png",
     "xws": "csamp408"
   },
   {
     "name": "cs-am-p4-09",
-    "points": 1959,
+    "points": 1974,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-09.png",
     "xws": "csamp409"
   },
   {
     "name": "cs-am-p4-10",
-    "points": 1960,
+    "points": 1975,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-10.png",
     "xws": "csamp410"
   },
   {
     "name": "cs-am-p4-11",
-    "points": 1961,
+    "points": 1976,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-11.png",
     "xws": "csamp411"
   },
   {
     "name": "cs-am-p4-12",
-    "points": 1962,
+    "points": 1977,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-12.png",
     "xws": "csamp412"
   },
   {
     "name": "cs-am-p4-13",
-    "points": 1963,
+    "points": 1978,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-13.png",
     "xws": "csamp413"
   },
   {
     "name": "cs-am-p4-14",
-    "points": 1964,
+    "points": 1979,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-14.png",
     "xws": "csamp414"
   },
   {
     "name": "cs-am-p4-15",
-    "points": 1965,
+    "points": 1980,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-15.png",
     "xws": "csamp415"
   },
   {
     "name": "cs-am-p4-16",
-    "points": 1966,
+    "points": 1981,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-16.png",
     "xws": "csamp416"
   },
   {
     "name": "cs-am-p4-17",
-    "points": 1967,
+    "points": 1982,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-17.png",
     "xws": "csamp417"
   },
   {
     "name": "cs-am-p4-18",
-    "points": 1968,
+    "points": 1983,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-18.png",
     "xws": "csamp418"
   },
   {
     "name": "cs-am-p4-19",
-    "points": 1969,
+    "points": 1984,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-19.png",
     "xws": "csamp419"
   },
   {
     "name": "cs-am-p4-20",
-    "points": 1970,
+    "points": 1985,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-20.png",
     "xws": "csamp420"
   },
   {
     "name": "cs-am-pm-back",
-    "points": 1971,
+    "points": 1986,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-back.png",
     "xws": "csampmback"
   },
   {
     "name": "cs-am-pm-01",
-    "points": 1972,
+    "points": 1987,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-01.png",
     "xws": "csampm01"
   },
   {
     "name": "cs-am-pm-02",
-    "points": 1973,
+    "points": 1988,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-02.png",
     "xws": "csampm02"
   },
   {
     "name": "cs-am-pm-03",
-    "points": 1974,
+    "points": 1989,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-03.png",
     "xws": "csampm03"
   },
   {
     "name": "cs-am-pm-04",
-    "points": 1975,
+    "points": 1990,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-04.png",
     "xws": "csampm04"
   },
   {
     "name": "cs-am-pm-05",
-    "points": 1976,
+    "points": 1991,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-05.png",
     "xws": "csampm05"
   },
   {
     "name": "cs-am-pm-06",
-    "points": 1977,
+    "points": 1992,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-06.png",
     "xws": "csampm06"
   },
   {
     "name": "cs-am-pm-07",
-    "points": 1978,
+    "points": 1993,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-07.png",
     "xws": "csampm07"
   },
   {
     "name": "cs-am-pm-08",
-    "points": 1979,
+    "points": 1994,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-08.png",
     "xws": "csampm08"
   },
   {
     "name": "cs-am-pm-09",
-    "points": 1980,
+    "points": 1995,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-09.png",
     "xws": "csampm09"
   },
   {
     "name": "cs-am-pm-10",
-    "points": 1981,
+    "points": 1996,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-10.png",
     "xws": "csampm10"
   },
   {
     "name": "cs-am-pm-11",
-    "points": 1982,
+    "points": 1997,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-11.png",
     "xws": "csampm11"
   },
   {
     "name": "cs-am-pm-12",
-    "points": 1983,
+    "points": 1998,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-12.png",
     "xws": "csampm12"
   },
   {
     "name": "cs-am-pm-13",
-    "points": 1984,
+    "points": 1999,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-13.png",
     "xws": "csampm13"
   },
   {
     "name": "cs-am-pm-14",
-    "points": 1985,
+    "points": 2000,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-14.png",
     "xws": "csampm14"
   },
   {
     "name": "cs-am-pm-15",
-    "points": 1986,
+    "points": 2001,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-15.png",
     "xws": "csampm15"
   },
   {
     "name": "cs-am-pm-16",
-    "points": 1987,
+    "points": 2002,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-16.png",
     "xws": "csampm16"
   },
   {
     "name": "cs-am-pm-17",
-    "points": 1988,
+    "points": 2003,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-17.png",
     "xws": "csampm17"
   },
   {
     "name": "cs-am-pm-18",
-    "points": 1989,
+    "points": 2004,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-18.png",
     "xws": "csampm18"
   },
   {
     "name": "cs-am-pm-19",
-    "points": 1990,
+    "points": 2005,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-19.png",
     "xws": "csampm19"
   },
   {
     "name": "cs-am-pm-20",
-    "points": 1991,
+    "points": 2006,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-20.png",
     "xws": "csampm20"
   },
   {
     "name": "cs-am-pm-21",
-    "points": 1992,
+    "points": 2007,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-21.png",
     "xws": "csampm21"
   },
   {
     "name": "cs-am-pm-22",
-    "points": 1993,
+    "points": 2008,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-22.png",
     "xws": "csampm22"
   },
   {
     "name": "cs-am-pm-23",
-    "points": 1994,
+    "points": 2009,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-23.png",
     "xws": "csampm23"
   },
   {
     "name": "cs-am-pm-24",
-    "points": 1995,
+    "points": 2010,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-24.png",
     "xws": "csampm24"
   },
   {
     "name": "cs-am-pm-25",
-    "points": 1996,
+    "points": 2011,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-25.png",
     "xws": "csampm25"
   },
   {
     "name": "cs-am-pm-26",
-    "points": 1997,
+    "points": 2012,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-26.png",
     "xws": "csampm26"
   },
   {
     "name": "cs-am-pm-27",
-    "points": 1998,
+    "points": 2013,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-27.png",
     "xws": "csampm27"
   },
   {
     "name": "cs-am-pm-28",
-    "points": 1999,
+    "points": 2014,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-28.png",
     "xws": "csampm28"
   },
   {
     "name": "cs-am-pm-29",
-    "points": 2000,
+    "points": 2015,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-29.png",
     "xws": "csampm29"
   },
   {
     "name": "cs-am-pm-30",
-    "points": 2001,
+    "points": 2016,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-30.png",
     "xws": "csampm30"
   },
   {
     "name": "cs-am-pm-31",
-    "points": 2002,
+    "points": 2017,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-31.png",
     "xws": "csampm31"
   },
   {
     "name": "cs-am-pm-32",
-    "points": 2003,
+    "points": 2018,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-32.png",
     "xws": "csampm32"
   },
   {
     "name": "cs-am-pm-33",
-    "points": 2004,
+    "points": 2019,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-33.png",
     "xws": "csampm33"
   },
   {
     "name": "cs-am-pm-34",
-    "points": 2005,
+    "points": 2020,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-34.png",
     "xws": "csampm34"
   },
   {
     "name": "cs-am-pm-35",
-    "points": 2006,
+    "points": 2021,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-35.png",
     "xws": "csampm35"
   },
   {
     "name": "cs-am-aa-back",
-    "points": 2007,
+    "points": 2022,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-back.png",
     "xws": "csamaaback"
   },
   {
     "name": "cs-am-aa-01",
-    "points": 2008,
+    "points": 2023,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-01.png",
     "xws": "csamaa01"
   },
   {
     "name": "cs-am-aa-02",
-    "points": 2009,
+    "points": 2024,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-02.png",
     "xws": "csamaa02"
   },
   {
     "name": "cs-am-aa-03",
-    "points": 2010,
+    "points": 2025,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-03.png",
     "xws": "csamaa03"
   },
   {
     "name": "cs-am-aa-04",
-    "points": 2011,
+    "points": 2026,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-04.png",
     "xws": "csamaa04"
   },
   {
     "name": "cs-am-aa-05",
-    "points": 2012,
+    "points": 2027,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-05.png",
     "xws": "csamaa05"
   },
   {
     "name": "cs-am-aa-06",
-    "points": 2013,
+    "points": 2028,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-06.png",
     "xws": "csamaa06"
   },
   {
     "name": "cs-am-aa-07",
-    "points": 2014,
+    "points": 2029,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-07.png",
     "xws": "csamaa07"
   },
   {
     "name": "cs-am-aa-08",
-    "points": 2015,
+    "points": 2030,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-08.png",
     "xws": "csamaa08"
   },
   {
     "name": "cs-am-aa-09",
-    "points": 2016,
+    "points": 2031,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-09.png",
     "xws": "csamaa09"
   },
   {
     "name": "cs-am-aa-10",
-    "points": 2017,
+    "points": 2032,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-10.png",
     "xws": "csamaa10"
   },
   {
     "name": "cs-am-aa-11",
-    "points": 2018,
+    "points": 2033,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-11.png",
     "xws": "csamaa11"
   },
   {
     "name": "cs-am-aa-12",
-    "points": 2019,
+    "points": 2034,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-12.png",
     "xws": "csamaa12"
   },
   {
     "name": "cs-am-aa-13",
-    "points": 2020,
+    "points": 2035,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-13.png",
     "xws": "csamaa13"
   },
   {
     "name": "cs-am-aa-14",
-    "points": 2021,
+    "points": 2036,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-14.png",
     "xws": "csamaa14"
   },
   {
     "name": "cs-am-aa-15",
-    "points": 2022,
+    "points": 2037,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-15.png",
     "xws": "csamaa15"
   },
   {
     "name": "cs-am-aa-16",
-    "points": 2023,
+    "points": 2038,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-16.png",
     "xws": "csamaa16"
   },
   {
     "name": "cs-am-aa-17",
-    "points": 2024,
+    "points": 2039,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/aa/cs-am-aa-17.png",
     "xws": "csamaa17"
   },
   {
     "name": "cs-am-bk-back",
-    "points": 2025,
+    "points": 2040,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-back.png",
     "xws": "csambkback"
   },
   {
     "name": "cs-am-bk-01",
-    "points": 2026,
+    "points": 2041,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-01.png",
     "xws": "csambk01"
   },
   {
     "name": "cs-am-bk-02",
-    "points": 2027,
+    "points": 2042,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-02.png",
     "xws": "csambk02"
   },
   {
     "name": "cs-am-bk-03",
-    "points": 2028,
+    "points": 2043,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-03.png",
     "xws": "csambk03"
   },
   {
     "name": "cs-am-bk-04",
-    "points": 2029,
+    "points": 2044,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-04.png",
     "xws": "csambk04"
   },
   {
     "name": "cs-am-bk-05",
-    "points": 2030,
+    "points": 2045,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-05.png",
     "xws": "csambk05"
   },
   {
     "name": "cs-am-bk-06",
-    "points": 2031,
+    "points": 2046,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-06.png",
     "xws": "csambk06"
   },
   {
     "name": "cs-am-bk-07",
-    "points": 2032,
+    "points": 2047,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-07.png",
     "xws": "csambk07"
   },
   {
     "name": "cs-am-bk-08",
-    "points": 2033,
+    "points": 2048,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-08.png",
     "xws": "csambk08"
   },
   {
     "name": "cs-am-bk-09",
-    "points": 2034,
+    "points": 2049,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-09.png",
     "xws": "csambk09"
   },
   {
     "name": "cs-am-bk-10",
-    "points": 2035,
+    "points": 2050,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-10.png",
     "xws": "csambk10"
   },
   {
     "name": "cs-am-bk-11",
-    "points": 2036,
+    "points": 2051,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-11.png",
     "xws": "csambk11"
   },
   {
     "name": "cs-am-bk-12",
-    "points": 2037,
+    "points": 2052,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-12.png",
     "xws": "csambk12"
   },
   {
     "name": "cs-am-bk-13",
-    "points": 2038,
+    "points": 2053,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-13.png",
     "xws": "csambk13"
   },
   {
     "name": "cs-am-bk-14",
-    "points": 2039,
+    "points": 2054,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-14.png",
     "xws": "csambk14"
   },
   {
     "name": "cs-am-bk-15",
-    "points": 2040,
+    "points": 2055,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-15.png",
     "xws": "csambk15"
   },
   {
     "name": "cs-am-bk-16",
-    "points": 2041,
+    "points": 2056,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-16.png",
     "xws": "csambk16"
   },
   {
     "name": "cs-am-bk-17",
-    "points": 2042,
+    "points": 2057,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-17.png",
     "xws": "csambk17"
   },
   {
     "name": "cs-am-bk-18",
-    "points": 2043,
+    "points": 2058,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bk/cs-am-bk-18.png",
     "xws": "csambk18"
   },
   {
     "name": "cs-am-bm-back",
-    "points": 2044,
+    "points": 2059,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-back.png",
     "xws": "csambmback"
   },
   {
     "name": "cs-am-bm-01",
-    "points": 2045,
+    "points": 2060,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-01.png",
     "xws": "csambm01"
   },
   {
     "name": "cs-am-bm-02",
-    "points": 2046,
+    "points": 2061,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-02.png",
     "xws": "csambm02"
   },
   {
     "name": "cs-am-bm-03",
-    "points": 2047,
+    "points": 2062,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-03.png",
     "xws": "csambm03"
   },
   {
     "name": "cs-am-bm-04",
-    "points": 2048,
+    "points": 2063,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-04.png",
     "xws": "csambm04"
   },
   {
     "name": "cs-am-bm-05",
-    "points": 2049,
+    "points": 2064,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-05.png",
     "xws": "csambm05"
   },
   {
     "name": "cs-am-bm-06",
-    "points": 2050,
+    "points": 2065,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-06.png",
     "xws": "csambm06"
   },
   {
     "name": "cs-am-bm-07",
-    "points": 2051,
+    "points": 2066,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-07.png",
     "xws": "csambm07"
   },
   {
     "name": "cs-am-bm-08",
-    "points": 2052,
+    "points": 2067,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-08.png",
     "xws": "csambm08"
   },
   {
     "name": "cs-am-bm-09",
-    "points": 2053,
+    "points": 2068,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-09.png",
     "xws": "csambm09"
   },
   {
     "name": "cs-am-bm-10",
-    "points": 2054,
+    "points": 2069,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-10.png",
     "xws": "csambm10"
   },
   {
     "name": "cs-am-bm-11",
-    "points": 2055,
+    "points": 2070,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-11.png",
     "xws": "csambm11"
   },
   {
     "name": "cs-am-bm-12",
-    "points": 2056,
+    "points": 2071,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-12.png",
     "xws": "csambm12"
   },
   {
     "name": "cs-am-bm-13",
-    "points": 2057,
+    "points": 2072,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-13.png",
     "xws": "csambm13"
   },
   {
     "name": "cs-am-bm-14",
-    "points": 2058,
+    "points": 2073,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-14.png",
     "xws": "csambm14"
   },
   {
     "name": "cs-am-bm-15",
-    "points": 2059,
+    "points": 2074,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-15.png",
     "xws": "csambm15"
   },
   {
     "name": "cs-am-bm-16",
-    "points": 2060,
+    "points": 2075,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-16.png",
     "xws": "csambm16"
   },
   {
     "name": "cs-am-bm-17",
-    "points": 2061,
+    "points": 2076,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/bm/cs-am-bm-17.png",
     "xws": "csambm17"
   },
   {
     "name": "cs-am-cg-back",
-    "points": 2062,
+    "points": 2077,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-back.png",
     "xws": "csamcgback"
   },
   {
     "name": "cs-am-cg-01",
-    "points": 2063,
+    "points": 2078,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-01.png",
     "xws": "csamcg01"
   },
   {
     "name": "cs-am-cg-02",
-    "points": 2064,
+    "points": 2079,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-02.png",
     "xws": "csamcg02"
   },
   {
     "name": "cs-am-cg-03",
-    "points": 2065,
+    "points": 2080,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-03.png",
     "xws": "csamcg03"
   },
   {
     "name": "cs-am-cg-04",
-    "points": 2066,
+    "points": 2081,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-04.png",
     "xws": "csamcg04"
   },
   {
     "name": "cs-am-cg-05",
-    "points": 2067,
+    "points": 2082,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-05.png",
     "xws": "csamcg05"
   },
   {
     "name": "cs-am-cg-06",
-    "points": 2068,
+    "points": 2083,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-06.png",
     "xws": "csamcg06"
   },
   {
     "name": "cs-am-cg-07",
-    "points": 2069,
+    "points": 2084,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-07.png",
     "xws": "csamcg07"
   },
   {
     "name": "cs-am-cg-08",
-    "points": 2070,
+    "points": 2085,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-08.png",
     "xws": "csamcg08"
   },
   {
     "name": "cs-am-cg-09",
-    "points": 2071,
+    "points": 2086,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-09.png",
     "xws": "csamcg09"
   },
   {
     "name": "cs-am-cg-10",
-    "points": 2072,
+    "points": 2087,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-10.png",
     "xws": "csamcg10"
   },
   {
     "name": "cs-am-cg-11",
-    "points": 2073,
+    "points": 2088,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-11.png",
     "xws": "csamcg11"
   },
   {
     "name": "cs-am-cg-12",
-    "points": 2074,
+    "points": 2089,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-12.png",
     "xws": "csamcg12"
   },
   {
     "name": "cs-am-cg-13",
-    "points": 2075,
+    "points": 2090,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-13.png",
     "xws": "csamcg13"
   },
   {
     "name": "cs-am-cg-14",
-    "points": 2076,
+    "points": 2091,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-14.png",
     "xws": "csamcg14"
   },
   {
     "name": "cs-am-cg-15",
-    "points": 2077,
+    "points": 2092,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-15.png",
     "xws": "csamcg15"
   },
   {
     "name": "cs-am-cg-16",
-    "points": 2078,
+    "points": 2093,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-16.png",
     "xws": "csamcg16"
   },
   {
     "name": "cs-am-cg-17",
-    "points": 2079,
+    "points": 2094,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-17.png",
     "xws": "csamcg17"
   },
   {
     "name": "cs-am-cg-18",
-    "points": 2080,
+    "points": 2095,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/cg/cs-am-cg-18.png",
     "xws": "csamcg18"
   },
   {
     "name": "cs-am-ct-back",
-    "points": 2081,
+    "points": 2096,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-back.png",
     "xws": "csamctback"
   },
   {
     "name": "cs-am-ct-01",
-    "points": 2082,
+    "points": 2097,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-01.png",
     "xws": "csamct01"
   },
   {
     "name": "cs-am-ct-02",
-    "points": 2083,
+    "points": 2098,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-02.png",
     "xws": "csamct02"
   },
   {
     "name": "cs-am-ct-03",
-    "points": 2084,
+    "points": 2099,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-03.png",
     "xws": "csamct03"
   },
   {
     "name": "cs-am-ct-04",
-    "points": 2085,
+    "points": 2100,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-04.png",
     "xws": "csamct04"
   },
   {
     "name": "cs-am-ct-05",
-    "points": 2086,
+    "points": 2101,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-05.png",
     "xws": "csamct05"
   },
   {
     "name": "cs-am-ct-06",
-    "points": 2087,
+    "points": 2102,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-06.png",
     "xws": "csamct06"
   },
   {
     "name": "cs-am-ct-07",
-    "points": 2088,
+    "points": 2103,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-07.png",
     "xws": "csamct07"
   },
   {
     "name": "cs-am-ct-08",
-    "points": 2089,
+    "points": 2104,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-08.png",
     "xws": "csamct08"
   },
   {
     "name": "cs-am-ct-09",
-    "points": 2090,
+    "points": 2105,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-09.png",
     "xws": "csamct09"
   },
   {
     "name": "cs-am-ct-10",
-    "points": 2091,
+    "points": 2106,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-10.png",
     "xws": "csamct10"
   },
   {
     "name": "cs-am-ct-11",
-    "points": 2092,
+    "points": 2107,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-11.png",
     "xws": "csamct11"
   },
   {
     "name": "cs-am-ct-12",
-    "points": 2093,
+    "points": 2108,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-12.png",
     "xws": "csamct12"
   },
   {
     "name": "cs-am-ct-13",
-    "points": 2094,
+    "points": 2109,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-13.png",
     "xws": "csamct13"
   },
   {
     "name": "cs-am-ct-14",
-    "points": 2095,
+    "points": 2110,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-14.png",
     "xws": "csamct14"
   },
   {
     "name": "cs-am-ct-15",
-    "points": 2096,
+    "points": 2111,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-15.png",
     "xws": "csamct15"
   },
   {
     "name": "cs-am-ct-16",
-    "points": 2097,
+    "points": 2112,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-16.png",
     "xws": "csamct16"
   },
   {
     "name": "cs-am-ct-17",
-    "points": 2098,
+    "points": 2113,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ct/cs-am-ct-17.png",
     "xws": "csamct17"
   },
   {
     "name": "cs-am-fk-back",
-    "points": 2099,
+    "points": 2114,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-back.png",
     "xws": "csamfkback"
   },
   {
     "name": "cs-am-fk-01",
-    "points": 2100,
+    "points": 2115,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-01.png",
     "xws": "csamfk01"
   },
   {
     "name": "cs-am-fk-02",
-    "points": 2101,
+    "points": 2116,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-02.png",
     "xws": "csamfk02"
   },
   {
     "name": "cs-am-fk-03",
-    "points": 2102,
+    "points": 2117,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-03.png",
     "xws": "csamfk03"
   },
   {
     "name": "cs-am-fk-04",
-    "points": 2103,
+    "points": 2118,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-04.png",
     "xws": "csamfk04"
   },
   {
     "name": "cs-am-fk-05",
-    "points": 2104,
+    "points": 2119,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-05.png",
     "xws": "csamfk05"
   },
   {
     "name": "cs-am-fk-06",
-    "points": 2105,
+    "points": 2120,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-06.png",
     "xws": "csamfk06"
   },
   {
     "name": "cs-am-fk-07",
-    "points": 2106,
+    "points": 2121,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-07.png",
     "xws": "csamfk07"
   },
   {
     "name": "cs-am-fk-08",
-    "points": 2107,
+    "points": 2122,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-08.png",
     "xws": "csamfk08"
   },
   {
     "name": "cs-am-fk-09",
-    "points": 2108,
+    "points": 2123,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-09.png",
     "xws": "csamfk09"
   },
   {
     "name": "cs-am-fk-10",
-    "points": 2109,
+    "points": 2124,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-10.png",
     "xws": "csamfk10"
   },
   {
     "name": "cs-am-fk-11",
-    "points": 2110,
+    "points": 2125,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-11.png",
     "xws": "csamfk11"
   },
   {
     "name": "cs-am-fk-12",
-    "points": 2111,
+    "points": 2126,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-12.png",
     "xws": "csamfk12"
   },
   {
     "name": "cs-am-fk-13",
-    "points": 2112,
+    "points": 2127,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-13.png",
     "xws": "csamfk13"
   },
   {
     "name": "cs-am-fk-14",
-    "points": 2113,
+    "points": 2128,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-14.png",
     "xws": "csamfk14"
   },
   {
     "name": "cs-am-fk-15",
-    "points": 2114,
+    "points": 2129,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-15.png",
     "xws": "csamfk15"
   },
   {
     "name": "cs-am-fk-16",
-    "points": 2115,
+    "points": 2130,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-16.png",
     "xws": "csamfk16"
   },
   {
     "name": "cs-am-fk-17",
-    "points": 2116,
+    "points": 2131,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-17.png",
     "xws": "csamfk17"
   },
   {
     "name": "cs-am-fk-18",
-    "points": 2117,
+    "points": 2132,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-18.png",
     "xws": "csamfireknight18"
   },
   {
     "name": "cs-am-fk-19",
-    "points": 2118,
+    "points": 2133,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/fk/cs-am-fk-19.png",
     "xws": "csamfireknight19"
   },
   {
     "name": "cs-am-ho-back",
-    "points": 2119,
+    "points": 2134,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-back.png",
     "xws": "csamhoback"
   },
   {
     "name": "cs-am-ho-01",
-    "points": 2120,
+    "points": 2135,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-01.png",
     "xws": "csamho01"
   },
   {
     "name": "cs-am-ho-02",
-    "points": 2121,
+    "points": 2136,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-02.png",
     "xws": "csamho02"
   },
   {
     "name": "cs-am-ho-03",
-    "points": 2122,
+    "points": 2137,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-03.png",
     "xws": "csamho03"
   },
   {
     "name": "cs-am-ho-04",
-    "points": 2123,
+    "points": 2138,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-04.png",
     "xws": "csamho04"
   },
   {
     "name": "cs-am-ho-05",
-    "points": 2124,
+    "points": 2139,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-05.png",
     "xws": "csamho05"
   },
   {
     "name": "cs-am-ho-06",
-    "points": 2125,
+    "points": 2140,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-06.png",
     "xws": "csamho06"
   },
   {
     "name": "cs-am-ho-07",
-    "points": 2126,
+    "points": 2141,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-07.png",
     "xws": "csamho07"
   },
   {
     "name": "cs-am-ho-08",
-    "points": 2127,
+    "points": 2142,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-08.png",
     "xws": "csamho08"
   },
   {
     "name": "cs-am-ho-09",
-    "points": 2128,
+    "points": 2143,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-09.png",
     "xws": "csamho09"
   },
   {
     "name": "cs-am-ho-10",
-    "points": 2129,
+    "points": 2144,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-10.png",
     "xws": "csamho10"
   },
   {
     "name": "cs-am-ho-11",
-    "points": 2130,
+    "points": 2145,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-11.png",
     "xws": "csamho11"
   },
   {
     "name": "cs-am-ho-12",
-    "points": 2131,
+    "points": 2146,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-12.png",
     "xws": "csamho12"
   },
   {
     "name": "cs-am-ho-13",
-    "points": 2132,
+    "points": 2147,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-13.png",
     "xws": "csamho13"
   },
   {
     "name": "cs-am-ho-14",
-    "points": 2133,
+    "points": 2148,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-14.png",
     "xws": "csamho14"
   },
   {
     "name": "cs-am-ho-15",
-    "points": 2134,
+    "points": 2149,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-15.png",
     "xws": "csamho15"
   },
   {
     "name": "cs-am-ho-16",
-    "points": 2135,
+    "points": 2150,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-16.png",
     "xws": "csamho16"
   },
   {
     "name": "cs-am-ho-17",
-    "points": 2136,
+    "points": 2151,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-17.png",
     "xws": "csamho17"
   },
   {
     "name": "cs-am-ho-18",
-    "points": 2137,
+    "points": 2152,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-18.png",
     "xws": "csamho18"
   },
   {
     "name": "cs-am-ho-19",
-    "points": 2138,
+    "points": 2153,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-19.png",
     "xws": "csamho19"
   },
   {
     "name": "cs-am-ho-20",
-    "points": 2139,
+    "points": 2154,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-20.png",
     "xws": "csamho20"
   },
   {
     "name": "cs-am-ho-21",
-    "points": 2140,
+    "points": 2155,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-21.png",
     "xws": "csamho21"
   },
   {
     "name": "cs-am-ho-22",
-    "points": 2141,
+    "points": 2156,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-22.png",
     "xws": "csamho22"
   },
   {
     "name": "cs-am-ho-23",
-    "points": 2142,
+    "points": 2157,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-23.png",
     "xws": "csamho23"
   },
   {
     "name": "cs-am-hp-back",
-    "points": 2143,
+    "points": 2158,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-back.png",
     "xws": "csamhpback"
   },
   {
     "name": "cs-am-hp-01",
-    "points": 2144,
+    "points": 2159,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-01.png",
     "xws": "csamhp01"
   },
   {
     "name": "cs-am-hp-02",
-    "points": 2145,
+    "points": 2160,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-02.png",
     "xws": "csamhp02"
   },
   {
     "name": "cs-am-hp-03",
-    "points": 2146,
+    "points": 2161,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-03.png",
     "xws": "csamhp03"
   },
   {
     "name": "cs-am-hp-04",
-    "points": 2147,
+    "points": 2162,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-04.png",
     "xws": "csamhp04"
   },
   {
     "name": "cs-am-hp-05",
-    "points": 2148,
+    "points": 2163,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-05.png",
     "xws": "csamhp05"
   },
   {
     "name": "cs-am-hp-06",
-    "points": 2149,
+    "points": 2164,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-06.png",
     "xws": "csamhp06"
   },
   {
     "name": "cs-am-hp-07",
-    "points": 2150,
+    "points": 2165,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-07.png",
     "xws": "csamhp07"
   },
   {
     "name": "cs-am-hp-08",
-    "points": 2151,
+    "points": 2166,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-08.png",
     "xws": "csamhp08"
   },
   {
     "name": "cs-am-hp-09",
-    "points": 2152,
+    "points": 2167,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-09.png",
     "xws": "csamhp09"
   },
   {
     "name": "cs-am-hp-10",
-    "points": 2153,
+    "points": 2168,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-10.png",
     "xws": "csamhp10"
   },
   {
     "name": "cs-am-hp-11",
-    "points": 2154,
+    "points": 2169,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-11.png",
     "xws": "csamhp11"
   },
   {
     "name": "cs-am-hp-12",
-    "points": 2155,
+    "points": 2170,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-12.png",
     "xws": "csamhp12"
   },
   {
     "name": "cs-am-hp-13",
-    "points": 2156,
+    "points": 2171,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-13.png",
     "xws": "csamhp13"
   },
   {
     "name": "cs-am-hp-14",
-    "points": 2157,
+    "points": 2172,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-14.png",
     "xws": "csamhp14"
   },
   {
     "name": "cs-am-hp-15",
-    "points": 2158,
+    "points": 2173,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/hp/cs-am-hp-15.png",
     "xws": "csamhp15"
   },
   {
     "name": "cs-am-lu-back",
-    "points": 2159,
+    "points": 2174,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-back.png",
     "xws": "csamluback"
   },
   {
     "name": "cs-am-lu-01",
-    "points": 2160,
+    "points": 2175,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-01.png",
     "xws": "csamlu01"
   },
   {
     "name": "cs-am-lu-02",
-    "points": 2161,
+    "points": 2176,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-02.png",
     "xws": "csamlu02"
   },
   {
     "name": "cs-am-lu-03",
-    "points": 2162,
+    "points": 2177,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-03.png",
     "xws": "csamlu03"
   },
   {
     "name": "cs-am-lu-04",
-    "points": 2163,
+    "points": 2178,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-04.png",
     "xws": "csamlu04"
   },
   {
     "name": "cs-am-lu-05",
-    "points": 2164,
+    "points": 2179,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-05.png",
     "xws": "csamlu05"
   },
   {
     "name": "cs-am-lu-06",
-    "points": 2165,
+    "points": 2180,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-06.png",
     "xws": "csamlu06"
   },
   {
     "name": "cs-am-lu-07",
-    "points": 2166,
+    "points": 2181,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-07.png",
     "xws": "csamlu07"
   },
   {
     "name": "cs-am-lu-08",
-    "points": 2167,
+    "points": 2182,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-08.png",
     "xws": "csamlu08"
   },
   {
     "name": "cs-am-lu-09",
-    "points": 2168,
+    "points": 2183,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-09.png",
     "xws": "csamlu09"
   },
   {
     "name": "cs-am-lu-10",
-    "points": 2169,
+    "points": 2184,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-10.png",
     "xws": "csamlu10"
   },
   {
     "name": "cs-am-lu-11",
-    "points": 2170,
+    "points": 2185,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-11.png",
     "xws": "csamlu11"
   },
   {
     "name": "cs-am-lu-12",
-    "points": 2171,
+    "points": 2186,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-12.png",
     "xws": "csamlu12"
   },
   {
     "name": "cs-am-lu-13",
-    "points": 2172,
+    "points": 2187,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/lu/cs-am-lu-13.png",
     "xws": "csamlu13"
   },
   {
     "name": "cs-am-mf-back",
-    "points": 2173,
+    "points": 2188,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-back.png",
     "xws": "csammfback"
   },
   {
     "name": "cs-am-mf-01",
-    "points": 2174,
+    "points": 2189,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-01.png",
     "xws": "csammf01"
   },
   {
     "name": "cs-am-mf-02",
-    "points": 2175,
+    "points": 2190,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-02.png",
     "xws": "csammf02"
   },
   {
     "name": "cs-am-mf-03",
-    "points": 2176,
+    "points": 2191,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-03.png",
     "xws": "csammf03"
   },
   {
     "name": "cs-am-mf-04",
-    "points": 2177,
+    "points": 2192,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-04.png",
     "xws": "csammf04"
   },
   {
     "name": "cs-am-mf-05",
-    "points": 2178,
+    "points": 2193,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-05.png",
     "xws": "csammf05"
   },
   {
     "name": "cs-am-mf-06",
-    "points": 2179,
+    "points": 2194,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-06.png",
     "xws": "csammf06"
   },
   {
     "name": "cs-am-mf-07",
-    "points": 2180,
+    "points": 2195,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-07.png",
     "xws": "csammf07"
   },
   {
     "name": "cs-am-mf-08",
-    "points": 2181,
+    "points": 2196,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-08.png",
     "xws": "csammf08"
   },
   {
     "name": "cs-am-mf-09",
-    "points": 2182,
+    "points": 2197,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-09.png",
     "xws": "csammf09"
   },
   {
     "name": "cs-am-mf-10",
-    "points": 2183,
+    "points": 2198,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-10.png",
     "xws": "csammf10"
   },
   {
     "name": "cs-am-mf-11",
-    "points": 2184,
+    "points": 2199,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-11.png",
     "xws": "csammf11"
   },
   {
     "name": "cs-am-mf-12",
-    "points": 2185,
+    "points": 2200,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-12.png",
     "xws": "csammf12"
   },
   {
     "name": "cs-am-mf-13",
-    "points": 2186,
+    "points": 2201,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-13.png",
     "xws": "csammf13"
   },
   {
     "name": "cs-am-mf-14",
-    "points": 2187,
+    "points": 2202,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-14.png",
     "xws": "csammf14"
   },
   {
     "name": "cs-am-mf-15",
-    "points": 2188,
+    "points": 2203,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-15.png",
     "xws": "csammf15"
   },
   {
     "name": "cs-am-mf-16",
-    "points": 2189,
+    "points": 2204,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-16.png",
     "xws": "csammf16"
   },
   {
     "name": "cs-am-mf-17",
-    "points": 2190,
+    "points": 2205,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-17.png",
     "xws": "csammf17"
   },
   {
     "name": "cs-am-mf-18",
-    "points": 2191,
+    "points": 2206,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-18.png",
     "xws": "csammf18"
   },
   {
     "name": "cs-am-mf-19",
-    "points": 2192,
+    "points": 2207,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-19.png",
     "xws": "csammf19"
   },
   {
     "name": "cs-am-mf-20",
-    "points": 2193,
+    "points": 2208,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-20.png",
     "xws": "csammf20"
   },
   {
     "name": "cs-am-mf-21",
-    "points": 2194,
+    "points": 2209,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/mf/cs-am-mf-21.png",
     "xws": "csammf21"
   },
   {
     "name": "cs-am-pa-back",
-    "points": 2195,
+    "points": 2210,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-back.png",
     "xws": "csampaback"
   },
   {
     "name": "cs-am-pa-01",
-    "points": 2196,
+    "points": 2211,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-01.png",
     "xws": "csampa01"
   },
   {
     "name": "cs-am-pa-02",
-    "points": 2197,
+    "points": 2212,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-02.png",
     "xws": "csampa02"
   },
   {
     "name": "cs-am-pa-03",
-    "points": 2198,
+    "points": 2213,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-03.png",
     "xws": "csampa03"
   },
   {
     "name": "cs-am-pa-04",
-    "points": 2199,
+    "points": 2214,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-04.png",
     "xws": "csampa04"
   },
   {
     "name": "cs-am-pa-05",
-    "points": 2200,
+    "points": 2215,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-05.png",
     "xws": "csampa05"
   },
   {
     "name": "cs-am-pa-06",
-    "points": 2201,
+    "points": 2216,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-06.png",
     "xws": "csampa06"
   },
   {
     "name": "cs-am-pa-07",
-    "points": 2202,
+    "points": 2217,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-07.png",
     "xws": "csampa07"
   },
   {
     "name": "cs-am-pa-08",
-    "points": 2203,
+    "points": 2218,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-08.png",
     "xws": "csampa08"
   },
   {
     "name": "cs-am-pa-09",
-    "points": 2204,
+    "points": 2219,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-09.png",
     "xws": "csampa09"
   },
   {
     "name": "cs-am-pa-10",
-    "points": 2205,
+    "points": 2220,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-10.png",
     "xws": "csampa10"
   },
   {
     "name": "cs-am-pa-11",
-    "points": 2206,
+    "points": 2221,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-11.png",
     "xws": "csampa11"
   },
   {
     "name": "cs-am-pa-12",
-    "points": 2207,
+    "points": 2222,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-12.png",
     "xws": "csampa12"
   },
   {
     "name": "cs-am-pa-13",
-    "points": 2208,
+    "points": 2223,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-13.png",
     "xws": "csampa13"
   },
   {
     "name": "cs-am-pa-14",
-    "points": 2209,
+    "points": 2224,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-14.png",
     "xws": "csampa14"
   },
   {
     "name": "cs-am-pa-15",
-    "points": 2210,
+    "points": 2225,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-15.png",
     "xws": "csampa15"
   },
   {
     "name": "cs-am-pa-16",
-    "points": 2211,
+    "points": 2226,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/party/cs-am-pa-16.png",
     "xws": "csampa16"
   },
   {
     "name": "cs-am-qa-back",
-    "points": 2212,
+    "points": 2227,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-back.png",
     "xws": "csamqaback"
   },
   {
     "name": "cs-am-qa-01",
-    "points": 2213,
+    "points": 2228,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-01.png",
     "xws": "csamqa01"
   },
   {
     "name": "cs-am-qa-02",
-    "points": 2214,
+    "points": 2229,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-02.png",
     "xws": "csamqa02"
   },
   {
     "name": "cs-am-qa-03",
-    "points": 2215,
+    "points": 2230,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-03.png",
     "xws": "csamqa03"
   },
   {
     "name": "cs-am-qa-04",
-    "points": 2216,
+    "points": 2231,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-04.png",
     "xws": "csamqa04"
   },
   {
     "name": "cs-am-qa-05",
-    "points": 2217,
+    "points": 2232,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-05.png",
     "xws": "csamqa05"
   },
   {
     "name": "cs-am-qa-06",
-    "points": 2218,
+    "points": 2233,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-06.png",
     "xws": "csamqa06"
   },
   {
     "name": "cs-am-qa-07",
-    "points": 2219,
+    "points": 2234,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-07.png",
     "xws": "csamqa07"
   },
   {
     "name": "cs-am-qa-08",
-    "points": 2220,
+    "points": 2235,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-08.png",
     "xws": "csamqa08"
   },
   {
     "name": "cs-am-qa-09",
-    "points": 2221,
+    "points": 2236,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-09.png",
     "xws": "csamqa09"
   },
   {
     "name": "cs-am-qa-10",
-    "points": 2222,
+    "points": 2237,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-10.png",
     "xws": "csamqa10"
   },
   {
     "name": "cs-am-qa-11",
-    "points": 2223,
+    "points": 2238,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-11.png",
     "xws": "csamqa11"
   },
   {
     "name": "cs-am-qa-12",
-    "points": 2224,
+    "points": 2239,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-12.png",
     "xws": "csamqa12"
   },
   {
     "name": "cs-am-qa-13",
-    "points": 2225,
+    "points": 2240,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-13.png",
     "xws": "csamqa13"
   },
   {
     "name": "cs-am-qa-14",
-    "points": 2226,
+    "points": 2241,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-14.png",
     "xws": "csamqa14"
   },
   {
     "name": "cs-am-qa-15",
-    "points": 2227,
+    "points": 2242,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-15.png",
     "xws": "csamqa15"
   },
   {
     "name": "cs-am-qa-16",
-    "points": 2228,
+    "points": 2243,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-16.png",
     "xws": "csamqa16"
   },
   {
     "name": "cs-am-qa-17",
-    "points": 2229,
+    "points": 2244,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/qa/cs-am-qa-17.png",
     "xws": "csamqa17"
   },
   {
     "name": "cs-am-rm-back",
-    "points": 2230,
+    "points": 2245,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-back.png",
     "xws": "csamrmback"
   },
   {
     "name": "cs-am-rm-01",
-    "points": 2231,
+    "points": 2246,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-01.png",
     "xws": "csamrm01"
   },
   {
     "name": "cs-am-rm-02",
-    "points": 2232,
+    "points": 2247,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-02.png",
     "xws": "csamrm02"
   },
   {
     "name": "cs-am-rm-03",
-    "points": 2233,
+    "points": 2248,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-03.png",
     "xws": "csamrm03"
   },
   {
     "name": "cs-am-rm-04",
-    "points": 2234,
+    "points": 2249,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-04.png",
     "xws": "csamrm04"
   },
   {
     "name": "cs-am-rm-05",
-    "points": 2235,
+    "points": 2250,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-05.png",
     "xws": "csamrm05"
   },
   {
     "name": "cs-am-rm-06",
-    "points": 2236,
+    "points": 2251,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-06.png",
     "xws": "csamrm06"
   },
   {
     "name": "cs-am-rm-07",
-    "points": 2237,
+    "points": 2252,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-07.png",
     "xws": "csamrm07"
   },
   {
     "name": "cs-am-rm-08",
-    "points": 2238,
+    "points": 2253,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-08.png",
     "xws": "csamrm08"
   },
   {
     "name": "cs-am-rm-09",
-    "points": 2239,
+    "points": 2254,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-09.png",
     "xws": "csamrm09"
   },
   {
     "name": "cs-am-rm-10",
-    "points": 2240,
+    "points": 2255,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-10.png",
     "xws": "csamrm10"
   },
   {
     "name": "cs-am-rm-11",
-    "points": 2241,
+    "points": 2256,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-11.png",
     "xws": "csamrm11"
   },
   {
     "name": "cs-am-rm-12",
-    "points": 2242,
+    "points": 2257,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-12.png",
     "xws": "csamrm12"
   },
   {
     "name": "cs-am-rm-13",
-    "points": 2243,
+    "points": 2258,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-13.png",
     "xws": "csamrm13"
   },
   {
     "name": "cs-am-rm-14",
-    "points": 2244,
+    "points": 2259,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-14.png",
     "xws": "csamrm14"
   },
   {
     "name": "cs-am-rm-15",
-    "points": 2245,
+    "points": 2260,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-15.png",
     "xws": "csamrm15"
   },
   {
     "name": "cs-am-rm-16",
-    "points": 2246,
+    "points": 2261,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-16.png",
     "xws": "csamrm16"
   },
   {
     "name": "cs-am-rm-17",
-    "points": 2247,
+    "points": 2262,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-17.png",
     "xws": "csamrm17"
   },
   {
     "name": "cs-am-rm-18",
-    "points": 2248,
+    "points": 2263,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-18.png",
     "xws": "csamrm18"
   },
   {
     "name": "cs-am-rm-19",
-    "points": 2249,
+    "points": 2264,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-19.png",
     "xws": "csamrm19"
   },
   {
     "name": "cs-am-rm-20",
-    "points": 2250,
+    "points": 2265,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-20.png",
     "xws": "csamrm20"
   },
   {
     "name": "cs-am-rm-21",
-    "points": 2251,
+    "points": 2266,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-21.png",
     "xws": "csamrm21"
   },
   {
     "name": "cs-am-rm-22",
-    "points": 2252,
+    "points": 2267,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-22.png",
     "xws": "csamrm22"
   },
   {
     "name": "cs-am-rm-23",
-    "points": 2253,
+    "points": 2268,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-am-rm-23.png",
     "xws": "csamrm23"
   },
   {
     "name": "cs-pe-rm-back",
-    "points": 2254,
+    "points": 2269,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-pe-rm-back.png",
     "xws": "cspermback"
   },
   {
     "name": "cs-pe-rm-01",
-    "points": 2255,
+    "points": 2270,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-pe-rm-01.png",
     "xws": "csperm01"
   },
   {
     "name": "cs-pe-rm-02",
-    "points": 2256,
+    "points": 2271,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-pe-rm-02.png",
     "xws": "csperm02"
   },
   {
     "name": "cs-pe-rm-03",
-    "points": 2257,
+    "points": 2272,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/rm/cs-pe-rm-03.png",
     "xws": "csperm03"
   },
   {
     "name": "cs-am-sa-back",
-    "points": 2258,
+    "points": 2273,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-back.png",
     "xws": "csamsaback"
   },
   {
     "name": "cs-am-sa-01",
-    "points": 2259,
+    "points": 2274,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-01.png",
     "xws": "csamsa01"
   },
   {
     "name": "cs-am-sa-02",
-    "points": 2260,
+    "points": 2275,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-02.png",
     "xws": "csamsa02"
   },
   {
     "name": "cs-am-sa-03",
-    "points": 2261,
+    "points": 2276,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-03.png",
     "xws": "csamsa03"
   },
   {
     "name": "cs-am-sa-04",
-    "points": 2262,
+    "points": 2277,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-04.png",
     "xws": "csamsa04"
   },
   {
     "name": "cs-am-sa-05",
-    "points": 2263,
+    "points": 2278,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-05.png",
     "xws": "csamsa05"
   },
   {
     "name": "cs-am-sa-06",
-    "points": 2264,
+    "points": 2279,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-06.png",
     "xws": "csamsa06"
   },
   {
     "name": "cs-am-sa-07",
-    "points": 2265,
+    "points": 2280,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-07.png",
     "xws": "csamsa07"
   },
   {
     "name": "cs-am-sa-08",
-    "points": 2266,
+    "points": 2281,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-08.png",
     "xws": "csamsa08"
   },
   {
     "name": "cs-am-sa-09",
-    "points": 2267,
+    "points": 2282,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-09.png",
     "xws": "csamsa09"
   },
   {
     "name": "cs-am-sa-10",
-    "points": 2268,
+    "points": 2283,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-10.png",
     "xws": "csamsa10"
   },
   {
     "name": "cs-am-sa-11",
-    "points": 2269,
+    "points": 2284,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-11.png",
     "xws": "csamsa11"
   },
   {
     "name": "cs-am-sa-12",
-    "points": 2270,
+    "points": 2285,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-12.png",
     "xws": "csamsa12"
   },
   {
     "name": "cs-am-sa-13",
-    "points": 2271,
+    "points": 2286,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-13.png",
     "xws": "csamsa13"
   },
   {
     "name": "cs-am-sa-14",
-    "points": 2272,
+    "points": 2287,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-14.png",
     "xws": "csamsa14"
   },
   {
     "name": "cs-am-sa-15",
-    "points": 2273,
+    "points": 2288,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-15.png",
     "xws": "csamsa15"
   },
   {
     "name": "cs-am-sa-16",
-    "points": 2274,
+    "points": 2289,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-16.png",
     "xws": "csamsa16"
   },
   {
     "name": "cs-am-sp-back",
-    "points": 2275,
+    "points": 2290,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-back.png",
     "xws": "csamspiritcallerback"
   },
   {
     "name": "cs-am-sp-01",
-    "points": 2276,
+    "points": 2291,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-01.png",
     "xws": "csamspiritcaller01"
   },
   {
     "name": "cs-am-sp-02",
-    "points": 2277,
+    "points": 2292,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-02.png",
     "xws": "csamspiritcaller02"
   },
   {
     "name": "cs-am-sp-03",
-    "points": 2278,
+    "points": 2293,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-03.png",
     "xws": "csamspiritcaller03"
   },
   {
     "name": "cs-am-sp-04",
-    "points": 2279,
+    "points": 2294,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-04.png",
     "xws": "csamspiritcaller04"
   },
   {
     "name": "cs-am-sp-05",
-    "points": 2280,
+    "points": 2295,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-05.png",
     "xws": "csamspiritcaller05"
   },
   {
     "name": "cs-am-sp-06",
-    "points": 2281,
+    "points": 2296,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-06.png",
     "xws": "csamspiritcaller06"
   },
   {
     "name": "cs-am-sp-07",
-    "points": 2282,
+    "points": 2297,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-07.png",
     "xws": "csamspiritcaller07"
   },
   {
     "name": "cs-am-sp-08",
-    "points": 2283,
+    "points": 2298,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-08.png",
     "xws": "csamspiritcaller08"
   },
   {
     "name": "cs-am-sp-09",
-    "points": 2284,
+    "points": 2299,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-09.png",
     "xws": "csamspiritcaller09"
   },
   {
     "name": "cs-am-sp-10",
-    "points": 2285,
+    "points": 2300,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-10.png",
     "xws": "csamspiritcaller10"
   },
   {
     "name": "cs-am-sp-11",
-    "points": 2286,
+    "points": 2301,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-11.png",
     "xws": "csamspiritcaller11"
   },
   {
     "name": "cs-am-sp-12",
-    "points": 2287,
+    "points": 2302,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-12.png",
     "xws": "csamspiritcaller12"
   },
   {
     "name": "cs-am-sp-13",
-    "points": 2288,
+    "points": 2303,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-13.png",
     "xws": "csamspiritcaller13"
   },
   {
     "name": "cs-am-sp-14",
-    "points": 2289,
+    "points": 2304,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-14.png",
     "xws": "csamspiritcaller14"
   },
   {
     "name": "cs-am-sp-15",
-    "points": 2290,
+    "points": 2305,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-15.png",
     "xws": "csamspiritcaller15"
   },
   {
     "name": "cs-am-sp-16",
-    "points": 2291,
+    "points": 2306,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-16.png",
     "xws": "csamspiritcaller16"
   },
   {
     "name": "cs-am-sp-17",
-    "points": 2292,
+    "points": 2307,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-17.png",
     "xws": "csamspiritcaller17"
   },
   {
     "name": "cs-am-sp-18",
-    "points": 2293,
+    "points": 2308,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-18.png",
     "xws": "csamspiritcaller18"
   },
   {
     "name": "cs-am-sp-19",
-    "points": 2294,
+    "points": 2309,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/sp/cs-am-sp-19.png",
     "xws": "csamspiritcaller19"
   },
   {
     "name": "cs-am-st-back",
-    "points": 2295,
+    "points": 2310,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-back.png",
     "xws": "csamstback"
   },
   {
     "name": "cs-am-st-01",
-    "points": 2296,
+    "points": 2311,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-01.png",
     "xws": "csamst01"
   },
   {
     "name": "cs-am-st-02",
-    "points": 2297,
+    "points": 2312,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-02.png",
     "xws": "csamst02"
   },
   {
     "name": "cs-am-st-03",
-    "points": 2298,
+    "points": 2313,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-03.png",
     "xws": "csamst03"
   },
   {
     "name": "cs-am-st-04",
-    "points": 2299,
+    "points": 2314,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-04.png",
     "xws": "csamst04"
   },
   {
     "name": "cs-am-st-05",
-    "points": 2300,
+    "points": 2315,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-05.png",
     "xws": "csamst05"
   },
   {
     "name": "cs-am-st-06",
-    "points": 2301,
+    "points": 2316,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-06.png",
     "xws": "csamst06"
   },
   {
     "name": "cs-am-st-07",
-    "points": 2302,
+    "points": 2317,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-07.png",
     "xws": "csamst07"
   },
   {
     "name": "cs-am-st-08",
-    "points": 2303,
+    "points": 2318,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-08.png",
     "xws": "csamst08"
   },
   {
     "name": "cs-am-st-09",
-    "points": 2304,
+    "points": 2319,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-09.png",
     "xws": "csamst09"
   },
   {
     "name": "cs-am-st-10",
-    "points": 2305,
+    "points": 2320,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-10.png",
     "xws": "csamst10"
   },
   {
     "name": "cs-am-st-11",
-    "points": 2306,
+    "points": 2321,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-11.png",
     "xws": "csamst11"
   },
   {
     "name": "cs-am-st-12",
-    "points": 2307,
+    "points": 2322,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-12.png",
     "xws": "csamst12"
   },
   {
     "name": "cs-am-st-13",
-    "points": 2308,
+    "points": 2323,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-13.png",
     "xws": "csamst13"
   },
   {
     "name": "cs-am-st-14",
-    "points": 2309,
+    "points": 2324,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-14.png",
     "xws": "csamst14"
   },
   {
     "name": "cs-am-st-15",
-    "points": 2310,
+    "points": 2325,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-15.png",
     "xws": "csamst15"
   },
   {
     "name": "cs-am-st-16",
-    "points": 2311,
+    "points": 2326,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-16.png",
     "xws": "csamst16"
   },
   {
     "name": "cs-am-st-17",
-    "points": 2312,
+    "points": 2327,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/st/cs-am-st-17.png",
     "xws": "csamst17"
   },
   {
     "name": "toa-am-in-back",
-    "points": 2313,
+    "points": 2328,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-back.png",
     "xws": "toaaminback"
   },
   {
     "name": "toa-am-in-01",
-    "points": 2314,
+    "points": 2329,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-01.png",
     "xws": "toaamin01"
   },
   {
     "name": "toa-am-in-02",
-    "points": 2315,
+    "points": 2330,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-02.png",
     "xws": "toaamin02"
   },
   {
     "name": "toa-am-in-03",
-    "points": 2316,
+    "points": 2331,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-03.png",
     "xws": "toaamin03"
   },
   {
     "name": "toa-am-in-04",
-    "points": 2317,
+    "points": 2332,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-04.png",
     "xws": "toaamin04"
   },
   {
     "name": "toa-am-in-05",
-    "points": 2318,
+    "points": 2333,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-05.png",
     "xws": "toaamin05"
   },
   {
     "name": "toa-am-in-06",
-    "points": 2319,
+    "points": 2334,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-06.png",
     "xws": "toaamin06"
   },
   {
     "name": "toa-am-in-07",
-    "points": 2320,
+    "points": 2335,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-07.png",
     "xws": "toaamin07"
   },
   {
     "name": "toa-am-in-08",
-    "points": 2321,
+    "points": 2336,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-08.png",
     "xws": "toaamin08"
   },
   {
     "name": "toa-am-in-09",
-    "points": 2322,
+    "points": 2337,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-09.png",
     "xws": "toaamin09"
   },
   {
     "name": "toa-am-in-10",
-    "points": 2323,
+    "points": 2338,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-10.png",
     "xws": "toaamin10"
   },
   {
     "name": "toa-am-in-11",
-    "points": 2324,
+    "points": 2339,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-11.png",
     "xws": "toaamin11"
   },
   {
     "name": "toa-am-in-12",
-    "points": 2325,
+    "points": 2340,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-12.png",
     "xws": "toaamin12"
   },
   {
     "name": "toa-am-in-13",
-    "points": 2326,
+    "points": 2341,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-13.png",
     "xws": "toaamin13"
   },
   {
     "name": "toa-am-in-14",
-    "points": 2327,
+    "points": 2342,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-14.png",
     "xws": "toaamin14"
   },
   {
     "name": "toa-am-in-15",
-    "points": 2328,
+    "points": 2343,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-15.png",
     "xws": "toaamin15"
   },
   {
     "name": "toa-am-in-16",
-    "points": 2329,
+    "points": 2344,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-16.png",
     "xws": "toaamin16"
   },
   {
     "name": "toa-am-in-17",
-    "points": 2330,
+    "points": 2345,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-17.png",
     "xws": "toaamin17"
   },
   {
     "name": "toa-am-in-18",
-    "points": 2331,
+    "points": 2346,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-18.png",
     "xws": "toaamin18"
   },
   {
     "name": "toa-am-in-19",
-    "points": 2332,
+    "points": 2347,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-19.png",
     "xws": "toaamin19"
   },
   {
     "name": "toa-am-in-20",
-    "points": 2333,
+    "points": 2348,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-20.png",
     "xws": "toaamin20"
   },
   {
     "name": "toa-am-in-21",
-    "points": 2334,
+    "points": 2349,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-21.png",
     "xws": "toaamin21"
   },
   {
     "name": "toa-am-in-22",
-    "points": 2335,
+    "points": 2350,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-22.png",
     "xws": "toaamin22"
   },
   {
     "name": "toa-am-in-23",
-    "points": 2336,
+    "points": 2351,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-23.png",
     "xws": "toaamin23"
   },
   {
     "name": "toa-am-in-24",
-    "points": 2337,
+    "points": 2352,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-24.png",
     "xws": "toaamin24"
   },
   {
     "name": "toa-am-in-25",
-    "points": 2338,
+    "points": 2353,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-25.png",
     "xws": "toaamin25"
   },
   {
     "name": "toa-am-in-26",
-    "points": 2339,
+    "points": 2354,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-26.png",
     "xws": "toaamin26"
   },
   {
     "name": "toa-am-in-27",
-    "points": 2340,
+    "points": 2355,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-27.png",
     "xws": "toaamin27"
   },
   {
     "name": "toa-am-in-28",
-    "points": 2341,
+    "points": 2356,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-28.png",
     "xws": "toaamin28"
   },
   {
     "name": "toa-am-in-29",
-    "points": 2342,
+    "points": 2357,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-29.png",
     "xws": "toaamin29"
   },
   {
     "name": "toa-am-in-30",
-    "points": 2343,
+    "points": 2358,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-30.png",
     "xws": "toaamin30"
   },
   {
     "name": "toa-am-in-31",
-    "points": 2344,
+    "points": 2359,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/in/toa-am-in-31.png",
     "xws": "toaamin31"
   },
   {
     "name": "toa-am-rh-back",
-    "points": 2345,
+    "points": 2360,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-back.png",
     "xws": "toaamrhback"
   },
   {
     "name": "toa-am-rh-01",
-    "points": 2346,
+    "points": 2361,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-01.png",
     "xws": "toaamrh01"
   },
   {
     "name": "toa-am-rh-02",
-    "points": 2347,
+    "points": 2362,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-02.png",
     "xws": "toaamrh02"
   },
   {
     "name": "toa-am-rh-03",
-    "points": 2348,
+    "points": 2363,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-03.png",
     "xws": "toaamrh03"
   },
   {
     "name": "toa-am-rh-04",
-    "points": 2349,
+    "points": 2364,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-04.png",
     "xws": "toaamrh04"
   },
   {
     "name": "toa-am-rh-05",
-    "points": 2350,
+    "points": 2365,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-05.png",
     "xws": "toaamrh05"
   },
   {
     "name": "toa-am-rh-06",
-    "points": 2351,
+    "points": 2366,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-06.png",
     "xws": "toaamrh06"
   },
   {
     "name": "toa-am-rh-07",
-    "points": 2352,
+    "points": 2367,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-07.png",
     "xws": "toaamrh07"
   },
   {
     "name": "toa-am-rh-08",
-    "points": 2353,
+    "points": 2368,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-08.png",
     "xws": "toaamrh08"
   },
   {
     "name": "toa-am-rh-09",
-    "points": 2354,
+    "points": 2369,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-09.png",
     "xws": "toaamrh09"
   },
   {
     "name": "toa-am-rh-10",
-    "points": 2355,
+    "points": 2370,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-10.png",
     "xws": "toaamrh10"
   },
   {
     "name": "toa-am-rh-11",
-    "points": 2356,
+    "points": 2371,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-11.png",
     "xws": "toaamrh11"
   },
   {
     "name": "toa-am-rh-12",
-    "points": 2357,
+    "points": 2372,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-12.png",
     "xws": "toaamrh12"
   },
   {
     "name": "toa-am-rh-13",
-    "points": 2358,
+    "points": 2373,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-13.png",
     "xws": "toaamrh13"
   },
   {
     "name": "toa-am-rh-14",
-    "points": 2359,
+    "points": 2374,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-14.png",
     "xws": "toaamrh14"
   },
   {
     "name": "toa-am-rh-15",
-    "points": 2360,
+    "points": 2375,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-15.png",
     "xws": "toaamrh15"
   },
   {
     "name": "toa-am-rh-16",
-    "points": 2361,
+    "points": 2376,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-16.png",
     "xws": "toaamrh16"
   },
   {
     "name": "toa-am-rh-17",
-    "points": 2362,
+    "points": 2377,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/rh/toa-am-rh-17.png",
     "xws": "toaamrh17"
   },
   {
     "name": "toa-am-sr-back",
-    "points": 2363,
+    "points": 2378,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-back.png",
     "xws": "toaamsrback"
   },
   {
     "name": "toa-am-sr-01",
-    "points": 2364,
+    "points": 2379,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-01.png",
     "xws": "toaamsr01"
   },
   {
     "name": "toa-am-sr-02",
-    "points": 2365,
+    "points": 2380,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-02.png",
     "xws": "toaamsr02"
   },
   {
     "name": "toa-am-sr-03",
-    "points": 2366,
+    "points": 2381,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-03.png",
     "xws": "toaamsr03"
   },
   {
     "name": "toa-am-sr-04",
-    "points": 2367,
+    "points": 2382,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-04.png",
     "xws": "toaamsr04"
   },
   {
     "name": "toa-am-sr-05",
-    "points": 2368,
+    "points": 2383,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-05.png",
     "xws": "toaamsr05"
   },
   {
     "name": "toa-am-sr-06",
-    "points": 2369,
+    "points": 2384,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-06.png",
     "xws": "toaamsr06"
   },
   {
     "name": "toa-am-sr-07",
-    "points": 2370,
+    "points": 2385,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-07.png",
     "xws": "toaamsr07"
   },
   {
     "name": "toa-am-sr-08",
-    "points": 2371,
+    "points": 2386,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-08.png",
     "xws": "toaamsr08"
   },
   {
     "name": "toa-am-sr-09",
-    "points": 2372,
+    "points": 2387,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-09.png",
     "xws": "toaamsr09"
   },
   {
     "name": "toa-am-sr-10",
-    "points": 2373,
+    "points": 2388,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-10.png",
     "xws": "toaamsr10"
   },
   {
     "name": "toa-am-sr-11",
-    "points": 2374,
+    "points": 2389,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-11.png",
     "xws": "toaamsr11"
   },
   {
     "name": "toa-am-sr-12",
-    "points": 2375,
+    "points": 2390,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-12.png",
     "xws": "toaamsr12"
   },
   {
     "name": "toa-am-sr-13",
-    "points": 2376,
+    "points": 2391,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/sr/toa-am-sr-13.png",
     "xws": "toaamsr13"
   },
   {
     "name": "toa-am-tp-back",
-    "points": 2377,
+    "points": 2392,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-back.png",
     "xws": "toaamtpback"
   },
   {
     "name": "toa-am-tp-01",
-    "points": 2378,
+    "points": 2393,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-01.png",
     "xws": "toaamtp01"
   },
   {
     "name": "toa-am-tp-02",
-    "points": 2379,
+    "points": 2394,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-02.png",
     "xws": "toaamtp02"
   },
   {
     "name": "toa-am-tp-03",
-    "points": 2380,
+    "points": 2395,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-03.png",
     "xws": "toaamtp03"
   },
   {
     "name": "toa-am-tp-04",
-    "points": 2381,
+    "points": 2396,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-04.png",
     "xws": "toaamtp04"
   },
   {
     "name": "toa-am-tp-05",
-    "points": 2382,
+    "points": 2397,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-05.png",
     "xws": "toaamtp05"
   },
   {
     "name": "toa-am-tp-06",
-    "points": 2383,
+    "points": 2398,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-06.png",
     "xws": "toaamtp06"
   },
   {
     "name": "toa-am-tp-07",
-    "points": 2384,
+    "points": 2399,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-07.png",
     "xws": "toaamtp07"
   },
   {
     "name": "toa-am-tp-08",
-    "points": 2385,
+    "points": 2400,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-08.png",
     "xws": "toaamtp08"
   },
   {
     "name": "toa-am-tp-09",
-    "points": 2386,
+    "points": 2401,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-09.png",
     "xws": "toaamtp09"
   },
   {
     "name": "toa-am-tp-10",
-    "points": 2387,
+    "points": 2402,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-10.png",
     "xws": "toaamtp10"
   },
   {
     "name": "toa-am-tp-11",
-    "points": 2388,
+    "points": 2403,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tp/toa-am-tp-11.png",
     "xws": "toaamtp11"
   },
   {
     "name": "toa-am-tr-back",
-    "points": 2389,
+    "points": 2404,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-back.png",
     "xws": "toaamtrback"
   },
   {
     "name": "toa-am-tr-01",
-    "points": 2390,
+    "points": 2405,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-01.png",
     "xws": "toaamtr01"
   },
   {
     "name": "toa-am-tr-02",
-    "points": 2391,
+    "points": 2406,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-02.png",
     "xws": "toaamtr02"
   },
   {
     "name": "toa-am-tr-03",
-    "points": 2392,
+    "points": 2407,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-03.png",
     "xws": "toaamtr03"
   },
   {
     "name": "toa-am-tr-04",
-    "points": 2393,
+    "points": 2408,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-04.png",
     "xws": "toaamtr04"
   },
   {
     "name": "toa-am-tr-05",
-    "points": 2394,
+    "points": 2409,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-05.png",
     "xws": "toaamtr05"
   },
   {
     "name": "toa-am-tr-06",
-    "points": 2395,
+    "points": 2410,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-06.png",
     "xws": "toaamtr06"
   },
   {
     "name": "toa-am-tr-07",
-    "points": 2396,
+    "points": 2411,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-07.png",
     "xws": "toaamtr07"
   },
   {
     "name": "toa-am-tr-08",
-    "points": 2397,
+    "points": 2412,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-08.png",
     "xws": "toaamtr08"
   },
   {
     "name": "toa-am-tr-09",
-    "points": 2398,
+    "points": 2413,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-09.png",
     "xws": "toaamtr09"
   },
   {
     "name": "toa-am-tr-10",
-    "points": 2399,
+    "points": 2414,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-10.png",
     "xws": "toaamtr10"
   },
   {
     "name": "toa-am-tr-11",
-    "points": 2400,
+    "points": 2415,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-11.png",
     "xws": "toaamtr11"
   },
   {
     "name": "toa-am-tr-12",
-    "points": 2401,
+    "points": 2416,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-12.png",
     "xws": "toaamtr12"
   },
   {
     "name": "toa-am-tr-13",
-    "points": 2402,
+    "points": 2417,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-13.png",
     "xws": "toaamtr13"
   },
   {
     "name": "toa-am-tr-14",
-    "points": 2403,
+    "points": 2418,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-14.png",
     "xws": "toaamtr14"
   },
   {
     "name": "toa-am-tr-15",
-    "points": 2404,
+    "points": 2419,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-15.png",
     "xws": "toaamtr15"
   },
   {
     "name": "toa-am-tr-16",
-    "points": 2405,
+    "points": 2420,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-16.png",
     "xws": "toaamtr16"
   },
   {
     "name": "toa-am-tr-17",
-    "points": 2406,
+    "points": 2421,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-17.png",
     "xws": "toaamtr17"
   },
   {
     "name": "toa-am-tr-18",
-    "points": 2407,
+    "points": 2422,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-18.png",
     "xws": "toaamtr18"
   },
   {
     "name": "toa-am-tr-19",
-    "points": 2408,
+    "points": 2423,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-19.png",
     "xws": "toaamtr19"
   },
   {
     "name": "toa-am-tr-20",
-    "points": 2409,
+    "points": 2424,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/tr/toa-am-tr-20.png",
     "xws": "toaamtr20"
   },
   {
     "name": "toa-am-vq-back",
-    "points": 2410,
+    "points": 2425,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-back.png",
     "xws": "toaamvqback"
   },
   {
     "name": "toa-am-vq-01",
-    "points": 2411,
+    "points": 2426,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-01.png",
     "xws": "toaamvq01"
   },
   {
     "name": "toa-am-vq-02",
-    "points": 2412,
+    "points": 2427,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-02.png",
     "xws": "toaamvq02"
   },
   {
     "name": "toa-am-vq-03",
-    "points": 2413,
+    "points": 2428,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-03.png",
     "xws": "toaamvq03"
   },
   {
     "name": "toa-am-vq-04",
-    "points": 2414,
+    "points": 2429,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-04.png",
     "xws": "toaamvq04"
   },
   {
     "name": "toa-am-vq-05",
-    "points": 2415,
+    "points": 2430,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-05.png",
     "xws": "toaamvq05"
   },
   {
     "name": "toa-am-vq-06",
-    "points": 2416,
+    "points": 2431,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-06.png",
     "xws": "toaamvq06"
   },
   {
     "name": "toa-am-vq-07",
-    "points": 2417,
+    "points": 2432,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-07.png",
     "xws": "toaamvq07"
   },
   {
     "name": "toa-am-vq-08",
-    "points": 2418,
+    "points": 2433,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-08.png",
     "xws": "toaamvq08"
   },
   {
     "name": "toa-am-vq-09",
-    "points": 2419,
+    "points": 2434,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-09.png",
     "xws": "toaamvq09"
   },
   {
     "name": "toa-am-vq-10",
-    "points": 2420,
+    "points": 2435,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-10.png",
     "xws": "toaamvq10"
   },
   {
     "name": "toa-am-vq-11",
-    "points": 2421,
+    "points": 2436,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-11.png",
     "xws": "toaamvq11"
   },
   {
     "name": "toa-am-vq-12",
-    "points": 2422,
+    "points": 2437,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-12.png",
     "xws": "toaamvq12"
   },
   {
     "name": "toa-am-vq-13",
-    "points": 2423,
+    "points": 2438,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-13.png",
     "xws": "toaamvq13"
   },
   {
     "name": "toa-am-vq-14",
-    "points": 2424,
+    "points": 2439,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-14.png",
     "xws": "toaamvq14"
   },
   {
     "name": "toa-am-vq-15",
-    "points": 2425,
+    "points": 2440,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-15.png",
     "xws": "toaamvq15"
   },
   {
     "name": "toa-am-vq-16",
-    "points": 2426,
+    "points": 2441,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-16.png",
     "xws": "toaamvq16"
   },
   {
     "name": "toa-am-vq-17",
-    "points": 2427,
+    "points": 2442,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-17.png",
     "xws": "toaamvq17"
   },
   {
     "name": "toa-am-vq-18",
-    "points": 2428,
+    "points": 2443,
     "expansion": "trail of ashes",
     "image": "attack-modifiers/trail-of-ashes/vq/toa-am-vq-18.png",
     "xws": "toaamvq18"
