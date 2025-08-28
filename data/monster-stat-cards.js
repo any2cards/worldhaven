@@ -480,19 +480,19 @@
     "assetno": "###"
   },
   {
-    "name": "monster stat card envelope 6",
+    "name": "monster stat card envelope",
     "points": 60,
     "expansion": "gloomhaven",
     "image": "monster-stat-cards/gloomhaven/gh-monster-stat-card-envelope-6.png",
-    "xws": "monsterstatcardenvelope6",
+    "xws": "monsterstatcardenvelope",
     "assetno": "###"
   },
   {
-    "name": "monster stat card envelope 10",
+    "name": "monster stat card envelope",
     "points": 61,
     "expansion": "gloomhaven",
     "image": "monster-stat-cards/gloomhaven/gh-monster-stat-card-envelope-10.png",
-    "xws": "monsterstatcardenvelope10",
+    "xws": "monsterstatcardenvelope",
     "assetno": "###"
   },
   {
@@ -772,154 +772,176 @@
     "points": 96,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-aesther-ashblade-0.png",
-    "xws": "aestherashblade"
+    "xws": "aestherashblade",
+    "assetno": "###"
   },
   {
     "name": "aesther ashblade",
     "points": 97,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-aesther-ashblade-4.png",
-    "xws": "aestherashblade"
+    "xws": "aestherashblade",
+    "assetno": "###"
   },
   {
     "name": "aesther scout",
     "points": 98,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-aesther-scout-0.png",
-    "xws": "aestherscout"
+    "xws": "aestherscout",
+    "assetno": "###"
   },
   {
     "name": "aesther scout",
     "points": 99,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-aesther-scout-4.png",
-    "xws": "aestherscout"
+    "xws": "aestherscout",
+    "assetno": "###"
   },
   {
     "name": "human commander",
     "points": 100,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-human-commander-0.png",
-    "xws": "humancommander"
+    "xws": "humancommander",
+    "assetno": "###"
   },
   {
     "name": "human commander",
     "points": 101,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-human-commander-4.png",
-    "xws": "humancommander"
+    "xws": "humancommander",
+    "assetno": "###"
   },
   {
     "name": "manifestation of corruption",
     "points": 102,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-manifestation-of-corruption-0.png",
-    "xws": "manifestationofcorruption"
+    "xws": "manifestationofcorruption",
+    "assetno": "###"
   },
   {
     "name": "manifestation of corruption",
     "points": 103,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-manifestation-of-corruption-4.png",
-    "xws": "manifestationofcorruption"
+    "xws": "manifestationofcorruption",
+    "assetno": "###"
   },
   {
     "name": "selah naberis",
     "points": 104,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-selah-naberis-0.png",
-    "xws": "selahnaberis"
+    "xws": "selahnaberis",
+    "assetno": "###"
   },
   {
     "name": "selah naberis",
     "points": 105,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-selah-naberis-4.png",
-    "xws": "selahnaberis"
+    "xws": "selahnaberis",
+    "assetno": "###"
   },
   {
     "name": "sraka the wise",
     "points": 106,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-sraka-the-wise-0.png",
-    "xws": "srakathewise"
+    "xws": "srakathewise",
+    "assetno": "###"
   },
   {
     "name": "sraka the wise",
     "points": 107,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-sraka-the-wise-4.png",
-    "xws": "srakathewise"
+    "xws": "srakathewise",
+    "assetno": "###"
   },
   {
     "name": "the steel lion",
     "points": 108,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-the-steel-lion-0.png",
-    "xws": "thesteellion"
+    "xws": "thesteellion",
+    "assetno": "###"
   },
   {
     "name": "the steel lion",
     "points": 109,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-the-steel-lion-4.png",
-    "xws": "thesteellion"
+    "xws": "thesteellion",
+    "assetno": "###"
   },
   {
     "name": "uyart ikkuma",
     "points": 110,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-uyart-ikkuma-0.png",
-    "xws": "uyartikkuma"
+    "xws": "uyartikkuma",
+    "assetno": "###"
   },
   {
     "name": "uyart ikkuma",
     "points": 111,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-uyart-ikkuma-4.png",
-    "xws": "uyartikkuma"
+    "xws": "uyartikkuma",
+    "assetno": "###"
   },
   {
     "name": "valrath commander",
     "points": 112,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-valrath-commander-0.png",
-    "xws": "valrathcommander"
+    "xws": "valrathcommander",
+    "assetno": "###"
   },
   {
     "name": "valrath commander",
     "points": 113,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-valrath-commander-4.png",
-    "xws": "valrathcommander"
+    "xws": "valrathcommander",
+    "assetno": "###"
   },
   {
     "name": "valrath savage",
     "points": 114,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-valrath-savage-0.png",
-    "xws": "valrathsavage"
+    "xws": "valrathsavage",
+    "assetno": "###"
   },
   {
     "name": "valrath savage",
     "points": 115,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-valrath-savage-4.png",
-    "xws": "valrathsavage"
+    "xws": "valrathsavage",
+    "assetno": "###"
   },
   {
     "name": "valrath tracker",
     "points": 116,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-valrath-tracker-0.png",
-    "xws": "valrathtracker"
+    "xws": "valrathtracker",
+    "assetno": "###"
   },
   {
     "name": "valrath tracker",
     "points": 117,
     "expansion": "forgotten circles",
     "image": "monster-stat-cards/forgotten-circles/fc-valrath-tracker-4.png",
-    "xws": "valrathtracker"
+    "xws": "valrathtracker",
+    "assetno": "###"
   },
   {
     "name": "boss stat card envelope 6",
@@ -2239,24 +2261,8 @@
     "assetno": "###"
   },
   {
-    "name": "monster stat card envelope 6",
-    "points": 303,
-    "expansion": "jaws of the lion",
-    "image": "monster-stat-cards/jaws-of-the-lion/jl-monster-stat-card-envelope-6.png",
-    "xws": "monsterstatcardenvelope6",
-    "assetno": "###"
-  },
-  {
-    "name": "monster stat card envelope 10",
-    "points": 304,
-    "expansion": "jaws of the lion",
-    "image": "monster-stat-cards/jaws-of-the-lion/jl-monster-stat-card-envelope-10.png",
-    "xws": "monsterstatcardenvelope10",
-    "assetno": "###"
-  },
-  {
     "name": "rat monstrosity",
-    "points": 305,
+    "points": 303,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-rat-monstrosity-0.png",
     "xws": "ratmonstrosity",
@@ -2264,7 +2270,7 @@
   },
   {
     "name": "rat monstrosity",
-    "points": 306,
+    "points": 304,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-rat-monstrosity-4.png",
     "xws": "ratmonstrosity",
@@ -2272,7 +2278,7 @@
   },
   {
     "name": "stone golem",
-    "points": 307,
+    "points": 305,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-stone-golem-0.png",
     "xws": "stonegolem",
@@ -2280,7 +2286,7 @@
   },
   {
     "name": "stone golem",
-    "points": 308,
+    "points": 306,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-stone-golem-4.png",
     "xws": "stonegolem",
@@ -2288,7 +2294,7 @@
   },
   {
     "name": "vermling raider",
-    "points": 309,
+    "points": 307,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-raider-0.png",
     "xws": "vermlingraider",
@@ -2296,7 +2302,7 @@
   },
   {
     "name": "vermling raider",
-    "points": 310,
+    "points": 308,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-raider-4.png",
     "xws": "vermlingraider",
@@ -2304,7 +2310,7 @@
   },
   {
     "name": "vermling scout",
-    "points": 311,
+    "points": 309,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-scout-0.png",
     "xws": "vermlingscout",
@@ -2312,7 +2318,7 @@
   },
   {
     "name": "vermling scout",
-    "points": 312,
+    "points": 310,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-scout-4.png",
     "xws": "vermlingscout",
@@ -2320,7 +2326,7 @@
   },
   {
     "name": "zealot",
-    "points": 313,
+    "points": 311,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-zealot-0.png",
     "xws": "zealot",
@@ -2328,7 +2334,7 @@
   },
   {
     "name": "zealot",
-    "points": 314,
+    "points": 312,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-zealot-4.png",
     "xws": "zealot",
@@ -2336,364 +2342,364 @@
   },
   {
     "name": "gnashing drake",
-    "points": 315,
+    "points": 313,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-0.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "gnashing drake",
-    "points": 316,
+    "points": 314,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-2.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "gnashing drake",
-    "points": 317,
+    "points": 315,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-4.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "gnashing drake",
-    "points": 318,
+    "points": 316,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-6.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 319,
+    "points": 317,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-0.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 320,
+    "points": 318,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-2.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 321,
+    "points": 319,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-4.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 322,
+    "points": 320,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-6.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "harrower aegis",
-    "points": 323,
+    "points": 321,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-0.png",
     "xws": "harroweraegis"
   },
   {
     "name": "harrower aegis",
-    "points": 324,
+    "points": 322,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-2.png",
     "xws": "harroweraegis"
   },
   {
     "name": "harrower aegis",
-    "points": 325,
+    "points": 323,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-4.png",
     "xws": "harroweraegis"
   },
   {
     "name": "harrower aegis",
-    "points": 326,
+    "points": 324,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-6.png",
     "xws": "harroweraegis"
   },
   {
     "name": "inox bloodguard",
-    "points": 327,
+    "points": 325,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-0.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "inox bloodguard",
-    "points": 328,
+    "points": 326,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-2.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "inox bloodguard",
-    "points": 329,
+    "points": 327,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-4.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "inox bloodguard",
-    "points": 330,
+    "points": 328,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-6.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "ravenous gharial",
-    "points": 331,
+    "points": 329,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-0.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ravenous gharial",
-    "points": 332,
+    "points": 330,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-2.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ravenous gharial",
-    "points": 333,
+    "points": 331,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-4.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ravenous gharial",
-    "points": 334,
+    "points": 332,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-6.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ruinmaw",
-    "points": 335,
+    "points": 333,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-0.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 336,
+    "points": 334,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-2.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 337,
+    "points": 335,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-4.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 338,
+    "points": 336,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-6.png",
     "xws": "ruinmaw"
   },
   {
     "name": "terrorscale drake",
-    "points": 339,
+    "points": 337,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-0.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "terrorscale drake",
-    "points": 340,
+    "points": 338,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-2.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "terrorscale drake",
-    "points": 341,
+    "points": 339,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-4.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "terrorscale drake",
-    "points": 342,
+    "points": 340,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-6.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "water spirit",
-    "points": 343,
+    "points": 341,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-0.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 344,
+    "points": 342,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-2.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 345,
+    "points": 343,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 346,
+    "points": 344,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-6.png",
     "xws": "waterspirit"
   },
   {
     "name": "harrower bugflute",
-    "points": 347,
+    "points": 345,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-0.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "harrower bugflute",
-    "points": 348,
+    "points": 346,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-2.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "harrower bugflute",
-    "points": 349,
+    "points": 347,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-4.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "harrower bugflute",
-    "points": 350,
+    "points": 348,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-6.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "shardrender",
-    "points": 351,
+    "points": 349,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-0.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 352,
+    "points": 350,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-2.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 353,
+    "points": 351,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-4.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 354,
+    "points": 352,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-6.png",
     "xws": "shardrender"
   },
   {
     "name": "smoke spirit",
-    "points": 355,
+    "points": 353,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-0.png",
     "xws": "smokespirit"
   },
   {
     "name": "smoke spirit",
-    "points": 356,
+    "points": 354,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-2.png",
     "xws": "smokespirit"
   },
   {
     "name": "smoke spirit",
-    "points": 357,
+    "points": 355,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-4.png",
     "xws": "smokespirit"
   },
   {
     "name": "smoke spirit",
-    "points": 358,
+    "points": 356,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-6.png",
     "xws": "smokespirit"
   },
   {
     "name": "talo",
-    "points": 359,
+    "points": 357,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-0.png",
     "xws": "talo"
   },
   {
     "name": "talo",
-    "points": 360,
+    "points": 358,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-2.png",
     "xws": "talo"
   },
   {
     "name": "talo",
-    "points": 361,
+    "points": 359,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-4.png",
     "xws": "talo"
   },
   {
     "name": "talo",
-    "points": 362,
+    "points": 360,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-6.png",
     "xws": "talo"
   },
   {
     "name": "valrath vanquisher",
-    "points": 363,
+    "points": 361,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-0.png",
     "xws": "valrathvanquisher"
   },
   {
     "name": "valrath vanquisher",
-    "points": 364,
+    "points": 362,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-2.png",
     "xws": "valrathvanquisher"
   },
   {
     "name": "valrath vanquisher",
-    "points": 365,
+    "points": 363,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-4.png",
     "xws": "valrathvanquisher"
   },
   {
     "name": "valrath vanquisher",
-    "points": 366,
+    "points": 364,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-6.png",
     "xws": "valrathvanquisher"
