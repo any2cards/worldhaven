@@ -612,7 +612,8 @@
     "points": 76,
     "expansion": "forgotten circles",
     "image": "tokens/forgotten-circles/character-tokens/fc-diviner-rift.png",
-    "xws": "rift"
+    "xws": "rift",
+    "assetno": "###"
   },
   {
     "name": "bane",
