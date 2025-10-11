@@ -1032,11 +1032,11 @@
     "assetno": "###"
   },
   {
-    "name": "drill mosaic standee",
+    "name": "drill standee",
     "points": 129,
     "expansion": "frosthaven",
     "image": "art/frosthaven/characters/standees/fh-metal-mosaic-standee.png",
-    "xws": "drillmosaicstandee",
+    "xws": "drillstandee",
     "assetno": "###"
   },
   {
