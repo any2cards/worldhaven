@@ -392,435 +392,976 @@
     "assetno": "###"
   },
   {
-    "name": "battle-goals-back",
+    "name": "accountant",
     "points": 49,
     "expansion": "frosthaven",
-    "image": "battle-goals/frosthaven/fh-battle-goals-back.png",
-    "xws": "battlegoalsback"
+    "image": "battle-goals/frosthaven/fh-accountant.png",
+    "xws": "accountant",
+    "assetno": "1301"
   },
   {
-    "name": "accountant",
+    "name": "1301",
     "points": 50,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-accountant.png",
-    "xws": "accountant"
+    "xws": "accountant",
+    "assetno": "1301"
   },
   {
     "name": "acrobat",
     "points": 51,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-acrobat.png",
-    "xws": "acrobat"
+    "xws": "acrobat",
+    "assetno": "1302"
+  },
+  {
+    "name": "1302",
+    "points": 52,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-acrobat.png",
+    "xws": "acrobat",
+    "assetno": "1302"
   },
   {
     "name": "ascetic",
-    "points": 52,
+    "points": 53,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-ascetic.png",
-    "xws": "ascetic"
+    "xws": "ascetic",
+    "assetno": "1303"
+  },
+  {
+    "name": "1303",
+    "points": 54,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-ascetic.png",
+    "xws": "ascetic",
+    "assetno": "1303"
   },
   {
     "name": "assassin",
-    "points": 53,
+    "points": 55,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-assassin.png",
-    "xws": "assassin"
+    "xws": "assassin",
+    "assetno": "1346"
+  },
+  {
+    "name": "1346",
+    "points": 56,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-assassin.png",
+    "xws": "assassin",
+    "assetno": "1346"
   },
   {
     "name": "assistant",
-    "points": 54,
+    "points": 57,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-assistant.png",
-    "xws": "assistant"
+    "xws": "assistant",
+    "assetno": "1304"
+  },
+  {
+    "name": "1304",
+    "points": 58,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-assistant.png",
+    "xws": "assistant",
+    "assetno": "1304"
   },
   {
     "name": "bastion",
-    "points": 55,
+    "points": 59,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-bastion.png",
-    "xws": "bastion"
+    "xws": "bastion",
+    "assetno": "1305"
+  },
+  {
+    "name": "1305",
+    "points": 60,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-bastion.png",
+    "xws": "bastion",
+    "assetno": "1305"
+  },
+  {
+    "name": "battle goals back",
+    "points": 61,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-battle-goals-back.png",
+    "xws": "battlegoalsback",
+    "assetno": "####"
   },
   {
     "name": "bully",
-    "points": 56,
+    "points": 62,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-bully.png",
-    "xws": "bully"
+    "xws": "bully",
+    "assetno": "1306"
+  },
+  {
+    "name": "1306",
+    "points": 63,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-bully.png",
+    "xws": "bully",
+    "assetno": "1306"
   },
   {
     "name": "cleaner",
-    "points": 57,
+    "points": 64,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-cleaner.png",
-    "xws": "cleaner"
+    "xws": "cleaner",
+    "assetno": "1307"
+  },
+  {
+    "name": "1307",
+    "points": 65,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-cleaner.png",
+    "xws": "cleaner",
+    "assetno": "1307"
   },
   {
     "name": "closer",
-    "points": 58,
+    "points": 66,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-closer.png",
-    "xws": "closer"
+    "xws": "closer",
+    "assetno": "1308"
+  },
+  {
+    "name": "1308",
+    "points": 67,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-closer.png",
+    "xws": "closer",
+    "assetno": "1308"
   },
   {
     "name": "conservator",
-    "points": 59,
+    "points": 68,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-conservator.png",
-    "xws": "conservator"
+    "xws": "conservator",
+    "assetno": "1309"
+  },
+  {
+    "name": "1309",
+    "points": 69,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-conservator.png",
+    "xws": "conservator",
+    "assetno": "1309"
   },
   {
     "name": "daredevil",
-    "points": 60,
+    "points": 70,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-daredevil.png",
-    "xws": "daredevil"
+    "xws": "daredevil",
+    "assetno": "1347"
+  },
+  {
+    "name": "1347",
+    "points": 71,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-daredevil.png",
+    "xws": "daredevil",
+    "assetno": "1347"
   },
   {
     "name": "dawdler",
-    "points": 61,
+    "points": 72,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-dawdler.png",
-    "xws": "dawdler"
+    "xws": "dawdler",
+    "assetno": "1348"
+  },
+  {
+    "name": "1348",
+    "points": 73,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-dawdler.png",
+    "xws": "dawdler",
+    "assetno": "1348"
   },
   {
     "name": "diehard",
-    "points": 62,
+    "points": 74,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-diehard.png",
-    "xws": "diehard"
+    "xws": "diehard",
+    "assetno": "1310"
+  },
+  {
+    "name": "1310",
+    "points": 75,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-diehard.png",
+    "xws": "diehard",
+    "assetno": "1310"
   },
   {
     "name": "duelist",
-    "points": 63,
+    "points": 76,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-duelist.png",
-    "xws": "duelist"
+    "xws": "duelist",
+    "assetno": "1349"
+  },
+  {
+    "name": "1349",
+    "points": 77,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-duelist.png",
+    "xws": "duelist",
+    "assetno": "1349"
   },
   {
     "name": "dynamo",
-    "points": 64,
+    "points": 78,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-dynamo.png",
-    "xws": "dynamo"
+    "xws": "dynamo",
+    "assetno": "1311"
+  },
+  {
+    "name": "1311",
+    "points": 79,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-dynamo.png",
+    "xws": "dynamo",
+    "assetno": "1311"
   },
   {
     "name": "egoist",
-    "points": 65,
+    "points": 80,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-egoist.png",
-    "xws": "egoist"
+    "xws": "egoist",
+    "assetno": "1312"
+  },
+  {
+    "name": "1312",
+    "points": 81,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-egoist.png",
+    "xws": "egoist",
+    "assetno": "1312"
   },
   {
     "name": "executioner",
-    "points": 66,
+    "points": 82,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-executioner.png",
-    "xws": "executioner"
+    "xws": "executioner",
+    "assetno": "1313"
+  },
+  {
+    "name": "1313",
+    "points": 83,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-executioner.png",
+    "xws": "executioner",
+    "assetno": "1313"
   },
   {
     "name": "exterminator",
-    "points": 67,
+    "points": 84,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-exterminator.png",
-    "xws": "exterminator"
+    "xws": "exterminator",
+    "assetno": "1350"
+  },
+  {
+    "name": "1350",
+    "points": 85,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-exterminator.png",
+    "xws": "exterminator",
+    "assetno": "1350"
   },
   {
     "name": "gambler",
-    "points": 68,
+    "points": 86,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-gambler.png",
-    "xws": "gambler"
+    "xws": "gambler",
+    "assetno": "1314"
+  },
+  {
+    "name": "1314",
+    "points": 87,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-gambler.png",
+    "xws": "gambler",
+    "assetno": "1314"
   },
   {
     "name": "hunter",
-    "points": 69,
+    "points": 88,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-hunter.png",
-    "xws": "hunter"
+    "xws": "hunter",
+    "assetno": "1315"
+  },
+  {
+    "name": "1315",
+    "points": 89,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-hunter.png",
+    "xws": "hunter",
+    "assetno": "1315"
   },
   {
     "name": "insomniac",
-    "points": 70,
+    "points": 90,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-insomniac.png",
-    "xws": "insomniac"
+    "xws": "insomniac",
+    "assetno": "1316"
+  },
+  {
+    "name": "1316",
+    "points": 91,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-insomniac.png",
+    "xws": "insomniac",
+    "assetno": "1316"
   },
   {
     "name": "layabout",
-    "points": 71,
+    "points": 92,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-layabout.png",
-    "xws": "layabout"
+    "xws": "layabout",
+    "assetno": "1351"
+  },
+  {
+    "name": "1351",
+    "points": 93,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-layabout.png",
+    "xws": "layabout",
+    "assetno": "1351"
   },
   {
     "name": "masochist",
-    "points": 72,
+    "points": 94,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-masochist.png",
-    "xws": "masochist"
+    "xws": "masochist",
+    "assetno": "1317"
+  },
+  {
+    "name": "1317",
+    "points": 95,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-masochist.png",
+    "xws": "masochist",
+    "assetno": "1317"
   },
   {
     "name": "miser",
-    "points": 73,
+    "points": 96,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-miser.png",
-    "xws": "miser"
+    "xws": "miser",
+    "assetno": "1352"
+  },
+  {
+    "name": "1352",
+    "points": 97,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-miser.png",
+    "xws": "miser",
+    "assetno": "1352"
   },
   {
     "name": "mugger",
-    "points": 74,
+    "points": 98,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-mugger.png",
-    "xws": "mugger"
+    "xws": "mugger",
+    "assetno": "1318"
+  },
+  {
+    "name": "1318",
+    "points": 99,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-mugger.png",
+    "xws": "mugger",
+    "assetno": "1318"
   },
   {
     "name": "opener",
-    "points": 75,
+    "points": 100,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-opener.png",
-    "xws": "opener"
+    "xws": "opener",
+    "assetno": "1319"
+  },
+  {
+    "name": "1319",
+    "points": 101,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-opener.png",
+    "xws": "opener",
+    "assetno": "1319"
   },
   {
     "name": "optimist",
-    "points": 76,
+    "points": 102,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-optimist.png",
-    "xws": "optimist"
+    "xws": "optimist",
+    "assetno": "1320"
+  },
+  {
+    "name": "1320",
+    "points": 103,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-optimist.png",
+    "xws": "optimist",
+    "assetno": "1320"
   },
   {
     "name": "overachiever",
-    "points": 77,
+    "points": 104,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-overachiever.png",
-    "xws": "overachiever"
+    "xws": "overachiever",
+    "assetno": "1353"
+  },
+  {
+    "name": "1353",
+    "points": 105,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-overachiever.png",
+    "xws": "overachiever",
+    "assetno": "1353"
   },
   {
     "name": "pacifist",
-    "points": 78,
+    "points": 106,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-pacifist.png",
-    "xws": "pacifist"
+    "xws": "pacifist",
+    "assetno": "1321"
+  },
+  {
+    "name": "1321",
+    "points": 107,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-pacifist.png",
+    "xws": "pacifist",
+    "assetno": "1321"
   },
   {
     "name": "pauper",
-    "points": 79,
+    "points": 108,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-pauper.png",
-    "xws": "pauper"
+    "xws": "pauper",
+    "assetno": "1322"
+  },
+  {
+    "name": "1322",
+    "points": 109,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-pauper.png",
+    "xws": "pauper",
+    "assetno": "1322"
   },
   {
     "name": "peacemonger",
-    "points": 80,
+    "points": 110,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-peacemonger.png",
-    "xws": "peacemonger"
+    "xws": "peacemonger",
+    "assetno": "1354"
+  },
+  {
+    "name": "1354",
+    "points": 111,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-peacemonger.png",
+    "xws": "peacemonger",
+    "assetno": "1354"
   },
   {
     "name": "pedestrian",
-    "points": 81,
+    "points": 112,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-pedestrian.png",
-    "xws": "pedestrian"
+    "xws": "pedestrian",
+    "assetno": "1323"
+  },
+  {
+    "name": "1323",
+    "points": 113,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-pedestrian.png",
+    "xws": "pedestrian",
+    "assetno": "1323"
   },
   {
     "name": "perfectionist",
-    "points": 82,
+    "points": 114,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-perfectionist.png",
-    "xws": "perfectionist"
+    "xws": "perfectionist",
+    "assetno": "1324"
+  },
+  {
+    "name": "1324",
+    "points": 115,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-perfectionist.png",
+    "xws": "perfectionist",
+    "assetno": "1324"
   },
   {
     "name": "pickpocket",
-    "points": 83,
+    "points": 116,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-pickpocket.png",
-    "xws": "pickpocket"
+    "xws": "pickpocket",
+    "assetno": "1325"
+  },
+  {
+    "name": "1325",
+    "points": 117,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-pickpocket.png",
+    "xws": "pickpocket",
+    "assetno": "1325"
   },
   {
     "name": "pincusion",
-    "points": 84,
+    "points": 118,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-pincusion.png",
-    "xws": "pincusion"
+    "xws": "pincusion",
+    "assetno": "1326"
+  },
+  {
+    "name": "1326",
+    "points": 119,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-pincusion.png",
+    "xws": "pincusion",
+    "assetno": "1326"
   },
   {
     "name": "plebeian",
-    "points": 85,
+    "points": 120,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-plebeian.png",
-    "xws": "plebeian"
+    "xws": "plebeian",
+    "assetno": "1327"
+  },
+  {
+    "name": "1327",
+    "points": 121,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-plebeian.png",
+    "xws": "plebeian",
+    "assetno": "1327"
   },
   {
     "name": "prepper",
-    "points": 86,
+    "points": 122,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-prepper.png",
-    "xws": "prepper"
+    "xws": "prepper",
+    "assetno": "1355"
+  },
+  {
+    "name": "1355",
+    "points": 123,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-prepper.png",
+    "xws": "prepper",
+    "assetno": "1355"
   },
   {
     "name": "prohibitionist",
-    "points": 87,
+    "points": 124,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-prohibitionist.png",
-    "xws": "prohibitionist"
+    "xws": "prohibitionist",
+    "assetno": "1328"
+  },
+  {
+    "name": "1328",
+    "points": 125,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-prohibitionist.png",
+    "xws": "prohibitionist",
+    "assetno": "1328"
   },
   {
     "name": "promoter",
-    "points": 88,
+    "points": 126,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-promoter.png",
-    "xws": "promoter"
+    "xws": "promoter",
+    "assetno": "1329"
+  },
+  {
+    "name": "1329",
+    "points": 127,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-promoter.png",
+    "xws": "promoter",
+    "assetno": "1329"
   },
   {
     "name": "rambler",
-    "points": 89,
+    "points": 128,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-rambler.png",
-    "xws": "rambler"
+    "xws": "rambler",
+    "assetno": "1330"
+  },
+  {
+    "name": "1330",
+    "points": 129,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-rambler.png",
+    "xws": "rambler",
+    "assetno": "1330"
   },
   {
     "name": "ravager",
-    "points": 90,
+    "points": 130,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-ravager.png",
-    "xws": "ravager"
+    "xws": "ravager",
+    "assetno": "1331"
+  },
+  {
+    "name": "1331",
+    "points": 131,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-ravager.png",
+    "xws": "ravager",
+    "assetno": "1331"
   },
   {
     "name": "recluse",
-    "points": 91,
+    "points": 132,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-recluse.png",
-    "xws": "recluse"
+    "xws": "recluse",
+    "assetno": "1332"
+  },
+  {
+    "name": "1332",
+    "points": 133,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-recluse.png",
+    "xws": "recluse",
+    "assetno": "1332"
   },
   {
     "name": "ritualist",
-    "points": 92,
+    "points": 134,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-ritualist.png",
-    "xws": "ritualist"
+    "xws": "ritualist",
+    "assetno": "1333"
+  },
+  {
+    "name": "1333",
+    "points": 135,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-ritualist.png",
+    "xws": "ritualist",
+    "assetno": "1333"
   },
   {
     "name": "sadist",
-    "points": 93,
+    "points": 136,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-sadist.png",
-    "xws": "sadist"
+    "xws": "sadist",
+    "assetno": "1334"
+  },
+  {
+    "name": "1334",
+    "points": 137,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-sadist.png",
+    "xws": "sadist",
+    "assetno": "1334"
   },
   {
     "name": "scrambler",
-    "points": 94,
+    "points": 138,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-scrambler.png",
-    "xws": "scrambler"
+    "xws": "scrambler",
+    "assetno": "1335"
+  },
+  {
+    "name": "1335",
+    "points": 139,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-scrambler.png",
+    "xws": "scrambler",
+    "assetno": "1335"
   },
   {
     "name": "shirker",
-    "points": 95,
+    "points": 140,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-shirker.png",
-    "xws": "shirker"
+    "xws": "shirker",
+    "assetno": "1336"
+  },
+  {
+    "name": "1336",
+    "points": 141,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-shirker.png",
+    "xws": "shirker",
+    "assetno": "1336"
   },
   {
     "name": "slayer",
-    "points": 96,
+    "points": 142,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-slayer.png",
-    "xws": "slayer"
+    "xws": "slayer",
+    "assetno": "1356"
+  },
+  {
+    "name": "1356",
+    "points": 143,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-slayer.png",
+    "xws": "slayer",
+    "assetno": "1356"
   },
   {
     "name": "sleeper",
-    "points": 97,
+    "points": 144,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-sleeper.png",
-    "xws": "sleeper"
+    "xws": "sleeper",
+    "assetno": "1337"
+  },
+  {
+    "name": "1337",
+    "points": 145,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-sleeper.png",
+    "xws": "sleeper",
+    "assetno": "1337"
   },
   {
     "name": "slowpoke",
-    "points": 98,
+    "points": 146,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-slowpoke.png",
-    "xws": "slowpoke"
+    "xws": "slowpoke",
+    "assetno": "1357"
+  },
+  {
+    "name": "1357",
+    "points": 147,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-slowpoke.png",
+    "xws": "slowpoke",
+    "assetno": "1357"
   },
   {
     "name": "sluggard",
-    "points": 99,
+    "points": 148,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-sluggard.png",
-    "xws": "sluggard"
+    "xws": "sluggard",
+    "assetno": "1338"
+  },
+  {
+    "name": "1338",
+    "points": 149,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-sluggard.png",
+    "xws": "sluggard",
+    "assetno": "1338"
   },
   {
     "name": "specialist",
-    "points": 100,
+    "points": 150,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-specialist.png",
-    "xws": "specialist"
+    "xws": "specialist",
+    "assetno": "1358"
+  },
+  {
+    "name": "1358",
+    "points": 151,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-specialist.png",
+    "xws": "specialist",
+    "assetno": "1358"
   },
   {
     "name": "straggler",
-    "points": 101,
+    "points": 152,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-straggler.png",
-    "xws": "straggler"
+    "xws": "straggler",
+    "assetno": "1339"
+  },
+  {
+    "name": "1339",
+    "points": 153,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-straggler.png",
+    "xws": "straggler",
+    "assetno": "1339"
   },
   {
     "name": "streamliner",
-    "points": 102,
+    "points": 154,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-streamliner.png",
-    "xws": "streamliner"
+    "xws": "streamliner",
+    "assetno": "1340"
+  },
+  {
+    "name": "1340",
+    "points": 155,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-streamliner.png",
+    "xws": "streamliner",
+    "assetno": "1340"
   },
   {
     "name": "tormentor",
-    "points": 103,
+    "points": 156,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-tormentor.png",
-    "xws": "tormentor"
+    "xws": "tormentor",
+    "assetno": "1341"
+  },
+  {
+    "name": "1341",
+    "points": 157,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-tormentor.png",
+    "xws": "tormentor",
+    "assetno": "1341"
   },
   {
     "name": "vanguard",
-    "points": 104,
+    "points": 158,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-vanguard.png",
-    "xws": "vanguard"
+    "xws": "vanguard",
+    "assetno": "1359"
+  },
+  {
+    "name": "1359",
+    "points": 159,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-vanguard.png",
+    "xws": "vanguard",
+    "assetno": "1359"
   },
   {
     "name": "wallflower",
-    "points": 105,
+    "points": 160,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-wallflower.png",
-    "xws": "wallflower"
+    "xws": "wallflower",
+    "assetno": "1360"
+  },
+  {
+    "name": "1360",
+    "points": 161,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-wallflower.png",
+    "xws": "wallflower",
+    "assetno": "1360"
   },
   {
     "name": "wastrel",
-    "points": 106,
+    "points": 162,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-wastrel.png",
-    "xws": "wastrel"
+    "xws": "wastrel",
+    "assetno": "1342"
+  },
+  {
+    "name": "1342",
+    "points": 163,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-wastrel.png",
+    "xws": "wastrel",
+    "assetno": "1342"
   },
   {
     "name": "weakling",
-    "points": 107,
+    "points": 164,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-weakling.png",
-    "xws": "weakling"
+    "xws": "weakling",
+    "assetno": "1343"
+  },
+  {
+    "name": "1343",
+    "points": 165,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-weakling.png",
+    "xws": "weakling",
+    "assetno": "1343"
   },
   {
     "name": "workhorse",
-    "points": 108,
+    "points": 166,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-workhorse.png",
-    "xws": "workhorse"
+    "xws": "workhorse",
+    "assetno": "1344"
+  },
+  {
+    "name": "1344",
+    "points": 167,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-workhorse.png",
+    "xws": "workhorse",
+    "assetno": "1344"
   },
   {
     "name": "zealot",
-    "points": 109,
+    "points": 168,
     "expansion": "frosthaven",
     "image": "battle-goals/frosthaven/fh-zealot.png",
-    "xws": "zealot"
+    "xws": "zealot",
+    "assetno": "1345"
+  },
+  {
+    "name": "1345",
+    "points": 169,
+    "expansion": "frosthaven",
+    "image": "battle-goals/frosthaven/fh-zealot.png",
+    "xws": "zealot",
+    "assetno": "1345"
   },
   {
     "name": "acrobat",
-    "points": 110,
+    "points": 170,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-acrobat.png",
     "xws": "acrobat",
@@ -828,7 +1369,7 @@
   },
   {
     "name": "286",
-    "points": 111,
+    "points": 171,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-acrobat.png",
     "xws": "acrobat",
@@ -836,7 +1377,7 @@
   },
   {
     "name": "agoraphobe",
-    "points": 112,
+    "points": 172,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-agoraphobe.png",
     "xws": "agoraphobe",
@@ -844,7 +1385,7 @@
   },
   {
     "name": "287",
-    "points": 113,
+    "points": 173,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-agoraphobe.png",
     "xws": "agoraphobe",
@@ -852,7 +1393,7 @@
   },
   {
     "name": "altruist",
-    "points": 114,
+    "points": 174,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-altruist.png",
     "xws": "altruist",
@@ -860,7 +1401,7 @@
   },
   {
     "name": "288",
-    "points": 115,
+    "points": 175,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-altruist.png",
     "xws": "altruist",
@@ -868,7 +1409,7 @@
   },
   {
     "name": "assistant",
-    "points": 116,
+    "points": 176,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-assistant.png",
     "xws": "assistant",
@@ -876,7 +1417,7 @@
   },
   {
     "name": "289",
-    "points": 117,
+    "points": 177,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-assistant.png",
     "xws": "assistant",
@@ -884,7 +1425,7 @@
   },
   {
     "name": "battle goals back",
-    "points": 118,
+    "points": 178,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-battle-goals-back.png",
     "xws": "battlegoalsback",
@@ -892,7 +1433,7 @@
   },
   {
     "name": "challenger",
-    "points": 119,
+    "points": 179,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-challenger.png",
     "xws": "challenger",
@@ -900,7 +1441,7 @@
   },
   {
     "name": "290",
-    "points": 120,
+    "points": 180,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-challenger.png",
     "xws": "challenger",
@@ -908,7 +1449,7 @@
   },
   {
     "name": "closer",
-    "points": 121,
+    "points": 181,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-closer.png",
     "xws": "closer",
@@ -916,7 +1457,7 @@
   },
   {
     "name": "291",
-    "points": 122,
+    "points": 182,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-closer.png",
     "xws": "closer",
@@ -924,7 +1465,7 @@
   },
   {
     "name": "conservator",
-    "points": 123,
+    "points": 183,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-conservator.png",
     "xws": "conservator",
@@ -932,7 +1473,7 @@
   },
   {
     "name": "292",
-    "points": 124,
+    "points": 184,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-conservator.png",
     "xws": "conservator",
@@ -940,7 +1481,7 @@
   },
   {
     "name": "diehard",
-    "points": 125,
+    "points": 185,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-diehard.png",
     "xws": "diehard",
@@ -948,7 +1489,7 @@
   },
   {
     "name": "293",
-    "points": 126,
+    "points": 186,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-diehard.png",
     "xws": "diehard",
@@ -956,7 +1497,7 @@
   },
   {
     "name": "egoist",
-    "points": 127,
+    "points": 187,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-egoist.png",
     "xws": "egoist",
@@ -964,7 +1505,7 @@
   },
   {
     "name": "294",
-    "points": 128,
+    "points": 188,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-egoist.png",
     "xws": "egoist",
@@ -972,7 +1513,7 @@
   },
   {
     "name": "fast healer",
-    "points": 129,
+    "points": 189,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-fast-healer.png",
     "xws": "fasthealer",
@@ -980,7 +1521,7 @@
   },
   {
     "name": "295",
-    "points": 130,
+    "points": 190,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-fast-healer.png",
     "xws": "fasthealer",
@@ -988,7 +1529,7 @@
   },
   {
     "name": "gambler",
-    "points": 131,
+    "points": 191,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-gambler.png",
     "xws": "gambler",
@@ -996,7 +1537,7 @@
   },
   {
     "name": "296",
-    "points": 132,
+    "points": 192,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-gambler.png",
     "xws": "gambler",
@@ -1004,7 +1545,7 @@
   },
   {
     "name": "hothead",
-    "points": 133,
+    "points": 193,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-hothead.png",
     "xws": "hothead",
@@ -1012,7 +1553,7 @@
   },
   {
     "name": "297",
-    "points": 134,
+    "points": 194,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-hothead.png",
     "xws": "hothead",
@@ -1020,7 +1561,7 @@
   },
   {
     "name": "insomniac",
-    "points": 135,
+    "points": 195,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-insomniac.png",
     "xws": "insomniac",
@@ -1028,7 +1569,7 @@
   },
   {
     "name": "298",
-    "points": 136,
+    "points": 196,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-insomniac.png",
     "xws": "insomniac",
@@ -1036,7 +1577,7 @@
   },
   {
     "name": "masochist",
-    "points": 137,
+    "points": 197,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-masochist.png",
     "xws": "masochist",
@@ -1044,7 +1585,7 @@
   },
   {
     "name": "299",
-    "points": 138,
+    "points": 198,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-masochist.png",
     "xws": "masochist",
@@ -1052,7 +1593,7 @@
   },
   {
     "name": "mugger",
-    "points": 139,
+    "points": 199,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-mugger.png",
     "xws": "mugger",
@@ -1060,7 +1601,7 @@
   },
   {
     "name": "300",
-    "points": 140,
+    "points": 200,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-mugger.png",
     "xws": "mugger",
@@ -1068,7 +1609,7 @@
   },
   {
     "name": "opener",
-    "points": 141,
+    "points": 201,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-opener.png",
     "xws": "opener",
@@ -1076,7 +1617,7 @@
   },
   {
     "name": "301",
-    "points": 142,
+    "points": 202,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-opener.png",
     "xws": "opener",
@@ -1084,7 +1625,7 @@
   },
   {
     "name": "pacifist",
-    "points": 143,
+    "points": 203,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pacifist.png",
     "xws": "pacifist",
@@ -1092,7 +1633,7 @@
   },
   {
     "name": "302",
-    "points": 144,
+    "points": 204,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pacifist.png",
     "xws": "pacifist",
@@ -1100,7 +1641,7 @@
   },
   {
     "name": "pickpocket",
-    "points": 145,
+    "points": 205,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pickpocket.png",
     "xws": "pickpocket",
@@ -1108,7 +1649,7 @@
   },
   {
     "name": "303",
-    "points": 146,
+    "points": 206,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pickpocket.png",
     "xws": "pickpocket",
@@ -1116,7 +1657,7 @@
   },
   {
     "name": "pincushion",
-    "points": 147,
+    "points": 207,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pincushion.png",
     "xws": "pincushion",
@@ -1124,7 +1665,7 @@
   },
   {
     "name": "304",
-    "points": 148,
+    "points": 208,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-pincushion.png",
     "xws": "pincushion",
@@ -1132,7 +1673,7 @@
   },
   {
     "name": "plebeian",
-    "points": 149,
+    "points": 209,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-plebeian.png",
     "xws": "plebeian",
@@ -1140,7 +1681,7 @@
   },
   {
     "name": "305",
-    "points": 150,
+    "points": 210,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-plebeian.png",
     "xws": "plebeian",
@@ -1148,7 +1689,7 @@
   },
   {
     "name": "prohibitionist",
-    "points": 151,
+    "points": 211,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-prohibitionist.png",
     "xws": "prohibitionist",
@@ -1156,7 +1697,7 @@
   },
   {
     "name": "306",
-    "points": 152,
+    "points": 212,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-prohibitionist.png",
     "xws": "prohibitionist",
@@ -1164,7 +1705,7 @@
   },
   {
     "name": "ravager",
-    "points": 153,
+    "points": 213,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-ravager.png",
     "xws": "ravager",
@@ -1172,7 +1713,7 @@
   },
   {
     "name": "307",
-    "points": 154,
+    "points": 214,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-ravager.png",
     "xws": "ravager",
@@ -1180,7 +1721,7 @@
   },
   {
     "name": "recluse",
-    "points": 155,
+    "points": 215,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-recluse.png",
     "xws": "recluse",
@@ -1188,7 +1729,7 @@
   },
   {
     "name": "308",
-    "points": 156,
+    "points": 216,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-recluse.png",
     "xws": "recluse",
@@ -1196,7 +1737,7 @@
   },
   {
     "name": "sadist",
-    "points": 157,
+    "points": 217,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-sadist.png",
     "xws": "sadist",
@@ -1204,7 +1745,7 @@
   },
   {
     "name": "309",
-    "points": 158,
+    "points": 218,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-sadist.png",
     "xws": "sadist",
@@ -1212,7 +1753,7 @@
   },
   {
     "name": "scrambler",
-    "points": 159,
+    "points": 219,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-scrambler.png",
     "xws": "scrambler",
@@ -1220,7 +1761,7 @@
   },
   {
     "name": "310",
-    "points": 160,
+    "points": 220,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-scrambler.png",
     "xws": "scrambler",
@@ -1228,7 +1769,7 @@
   },
   {
     "name": "shadow",
-    "points": 161,
+    "points": 221,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-shadow.png",
     "xws": "shadow",
@@ -1236,7 +1777,7 @@
   },
   {
     "name": "311",
-    "points": 162,
+    "points": 222,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-shadow.png",
     "xws": "shadow",
@@ -1244,7 +1785,7 @@
   },
   {
     "name": "shirker",
-    "points": 163,
+    "points": 223,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-shirker.png",
     "xws": "shirker",
@@ -1252,7 +1793,7 @@
   },
   {
     "name": "312",
-    "points": 164,
+    "points": 224,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-shirker.png",
     "xws": "shirker",
@@ -1260,7 +1801,7 @@
   },
   {
     "name": "specialist",
-    "points": 165,
+    "points": 225,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-specialist.png",
     "xws": "specialist",
@@ -1268,7 +1809,7 @@
   },
   {
     "name": "313",
-    "points": 166,
+    "points": 226,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-specialist.png",
     "xws": "specialist",
@@ -1276,7 +1817,7 @@
   },
   {
     "name": "straggler",
-    "points": 167,
+    "points": 227,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-straggler.png",
     "xws": "straggler",
@@ -1284,7 +1825,7 @@
   },
   {
     "name": "314",
-    "points": 168,
+    "points": 228,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-straggler.png",
     "xws": "straggler",
@@ -1292,7 +1833,7 @@
   },
   {
     "name": "trailblazer",
-    "points": 169,
+    "points": 229,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-trailblazer.png",
     "xws": "trailblazer",
@@ -1300,7 +1841,7 @@
   },
   {
     "name": "315",
-    "points": 170,
+    "points": 230,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-trailblazer.png",
     "xws": "trailblazer",
@@ -1308,7 +1849,7 @@
   },
   {
     "name": "transmitter",
-    "points": 171,
+    "points": 231,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-transmitter.png",
     "xws": "transmitter",
@@ -1316,7 +1857,7 @@
   },
   {
     "name": "316",
-    "points": 172,
+    "points": 232,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-transmitter.png",
     "xws": "transmitter",
@@ -1324,7 +1865,7 @@
   },
   {
     "name": "weakling",
-    "points": 173,
+    "points": 233,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-weakling.png",
     "xws": "weakling",
@@ -1332,7 +1873,7 @@
   },
   {
     "name": "317",
-    "points": 174,
+    "points": 234,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-weakling.png",
     "xws": "weakling",
