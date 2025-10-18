@@ -12897,10 +12897,10 @@
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-bb-back.png",
     "xws": "bbback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "blinkblade"
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "blinkblade",
+    "assetno": "###"
   },
   {
     "name": "blurry jab",
@@ -12910,6205 +12910,11746 @@
     "xws": "blurryjab",
     "level": "1",
     "initiative": "20/50",
-    "cardno": "032",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "032"
+  },
+  {
+    "name": "032",
+    "points": 1174,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-blurry-jab.png",
+    "xws": "blurryjab",
+    "level": "1",
+    "initiative": "20/50",
+    "character-xws": "blinkblade",
+    "assetno": "032"
   },
   {
     "name": "borrowed time",
-    "points": 1174,
+    "points": 1175,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-borrowed-time.png",
     "xws": "borrowedtime",
     "level": "x",
     "initiative": "02/32",
-    "cardno": "044",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "044"
+  },
+  {
+    "name": "044",
+    "points": 1176,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-borrowed-time.png",
+    "xws": "borrowedtime",
+    "level": "x",
+    "initiative": "02/32",
+    "character-xws": "blinkblade",
+    "assetno": "044"
   },
   {
     "name": "breakneck speed",
-    "points": 1175,
+    "points": 1177,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-breakneck-speed.png",
     "xws": "breakneckspeed",
     "level": "5",
     "initiative": "03/33",
-    "cardno": "051",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "051"
+  },
+  {
+    "name": "051",
+    "points": 1178,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-breakneck-speed.png",
+    "xws": "breakneckspeed",
+    "level": "5",
+    "initiative": "03/33",
+    "character-xws": "blinkblade",
+    "assetno": "051"
   },
   {
     "name": "cascading reaction",
-    "points": 1176,
+    "points": 1179,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-cascading-reaction.png",
     "xws": "cascadingreaction",
     "level": "1",
     "initiative": "19/49",
-    "cardno": "040",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "040"
+  },
+  {
+    "name": "040",
+    "points": 1180,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-cascading-reaction.png",
+    "xws": "cascadingreaction",
+    "level": "1",
+    "initiative": "19/49",
+    "character-xws": "blinkblade",
+    "assetno": "040"
   },
   {
     "name": "double time",
-    "points": 1177,
+    "points": 1181,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-double-time.png",
     "xws": "doubletime",
     "level": "3",
     "initiative": "22/52",
-    "cardno": "048",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "048"
+  },
+  {
+    "name": "048",
+    "points": 1182,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-double-time.png",
+    "xws": "doubletime",
+    "level": "3",
+    "initiative": "22/52",
+    "character-xws": "blinkblade",
+    "assetno": "048"
   },
   {
     "name": "drive recharge",
-    "points": 1178,
+    "points": 1183,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-drive-recharge.png",
     "xws": "driverecharge",
     "level": "1",
     "initiative": "69/99",
-    "cardno": "039",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "039"
+  },
+  {
+    "name": "039",
+    "points": 1184,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-drive-recharge.png",
+    "xws": "driverecharge",
+    "level": "1",
+    "initiative": "69/99",
+    "character-xws": "blinkblade",
+    "assetno": "039"
   },
   {
     "name": "experimental adjustment",
-    "points": 1179,
+    "points": 1185,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-experimental-adjustment.png",
     "xws": "experimentaladjustment",
     "level": "x",
     "initiative": "12/42",
-    "cardno": "042",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "042"
+  },
+  {
+    "name": "042",
+    "points": 1186,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-experimental-adjustment.png",
+    "xws": "experimentaladjustment",
+    "level": "x",
+    "initiative": "12/42",
+    "character-xws": "blinkblade",
+    "assetno": "042"
   },
   {
     "name": "fastest alive",
-    "points": 1180,
+    "points": 1187,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-fastest-alive.png",
     "xws": "fastestalive",
     "level": "8",
     "initiative": "01/31",
-    "cardno": "058",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "058"
+  },
+  {
+    "name": "058",
+    "points": 1188,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-fastest-alive.png",
+    "xws": "fastestalive",
+    "level": "8",
+    "initiative": "01/31",
+    "character-xws": "blinkblade",
+    "assetno": "058"
   },
   {
     "name": "flashing flurry",
-    "points": 1181,
+    "points": 1189,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-flashing-flurry.png",
     "xws": "flashingflurry",
     "level": "5",
     "initiative": "40/70",
-    "cardno": "052",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "052"
+  },
+  {
+    "name": "052",
+    "points": 1190,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-flashing-flurry.png",
+    "xws": "flashingflurry",
+    "level": "5",
+    "initiative": "40/70",
+    "character-xws": "blinkblade",
+    "assetno": "052"
   },
   {
     "name": "fractured timeline",
-    "points": 1182,
+    "points": 1191,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-fractured-timeline.png",
     "xws": "fracturedtimeline",
     "level": "9",
     "initiative": "55/85",
-    "cardno": "060",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "060"
+  },
+  {
+    "name": "060",
+    "points": 1192,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-fractured-timeline.png",
+    "xws": "fracturedtimeline",
+    "level": "9",
+    "initiative": "55/85",
+    "character-xws": "blinkblade",
+    "assetno": "060"
   },
   {
     "name": "hit and run",
-    "points": 1183,
+    "points": 1193,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-hit-and-run.png",
     "xws": "hitandrun",
     "level": "1",
     "initiative": "41/71",
-    "cardno": "038",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "038"
+  },
+  {
+    "name": "038",
+    "points": 1194,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-hit-and-run.png",
+    "xws": "hitandrun",
+    "level": "1",
+    "initiative": "41/71",
+    "character-xws": "blinkblade",
+    "assetno": "038"
   },
   {
     "name": "kinetic transfer",
-    "points": 1184,
+    "points": 1195,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-kinetic-transfer.png",
     "xws": "kinetictransfer",
     "level": "1",
     "initiative": "36/66",
-    "cardno": "035",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "035"
+  },
+  {
+    "name": "035",
+    "points": 1196,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-kinetic-transfer.png",
+    "xws": "kinetictransfer",
+    "level": "1",
+    "initiative": "36/66",
+    "character-xws": "blinkblade",
+    "assetno": "035"
   },
   {
     "name": "make it count",
-    "points": 1185,
+    "points": 1197,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-make-it-count.png",
     "xws": "makeitcount",
     "level": "3",
     "initiative": "51/81",
-    "cardno": "047",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "047"
+  },
+  {
+    "name": "047",
+    "points": 1198,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-make-it-count.png",
+    "xws": "makeitcount",
+    "level": "3",
+    "initiative": "51/81",
+    "character-xws": "blinkblade",
+    "assetno": "047"
   },
   {
     "name": "overdrive",
-    "points": 1186,
+    "points": 1199,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-overdrive.png",
     "xws": "overdrive",
     "level": "1",
     "initiative": "60/90",
-    "cardno": "036",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "036"
+  },
+  {
+    "name": "036",
+    "points": 1200,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-overdrive.png",
+    "xws": "overdrive",
+    "level": "1",
+    "initiative": "60/90",
+    "character-xws": "blinkblade",
+    "assetno": "036"
   },
   {
     "name": "phasing blades",
-    "points": 1187,
+    "points": 1201,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-phasing-blades.png",
     "xws": "phasingblades",
     "level": "7",
     "initiative": "63/93",
-    "cardno": "055",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "055"
+  },
+  {
+    "name": "055",
+    "points": 1202,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-phasing-blades.png",
+    "xws": "phasingblades",
+    "level": "7",
+    "initiative": "63/93",
+    "character-xws": "blinkblade",
+    "assetno": "055"
   },
   {
     "name": "potential energy",
-    "points": 1188,
+    "points": 1203,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-potential-energy.png",
     "xws": "potentialenergy",
     "level": "4",
     "initiative": "32/62",
-    "cardno": "050",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "050"
+  },
+  {
+    "name": "050",
+    "points": 1204,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-potential-energy.png",
+    "xws": "potentialenergy",
+    "level": "4",
+    "initiative": "32/62",
+    "character-xws": "blinkblade",
+    "assetno": "050"
   },
   {
     "name": "power leak",
-    "points": 1189,
+    "points": 1205,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-power-leak.png",
     "xws": "powerleak",
     "level": "1",
     "initiative": "17/47",
-    "cardno": "037",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "037"
+  },
+  {
+    "name": "037",
+    "points": 1206,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-power-leak.png",
+    "xws": "powerleak",
+    "level": "1",
+    "initiative": "17/47",
+    "character-xws": "blinkblade",
+    "assetno": "037"
   },
   {
     "name": "precision timing",
-    "points": 1190,
+    "points": 1207,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-precision-timing.png",
     "xws": "precisiontiming",
     "level": "4",
     "initiative": "15/45",
-    "cardno": "049",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "049"
+  },
+  {
+    "name": "049",
+    "points": 1208,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-precision-timing.png",
+    "xws": "precisiontiming",
+    "level": "4",
+    "initiative": "15/45",
+    "character-xws": "blinkblade",
+    "assetno": "049"
   },
   {
     "name": "quantum uncertainty",
-    "points": 1191,
+    "points": 1209,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-quantum-uncertainty.png",
     "xws": "quantumuncertainty",
     "level": "8",
     "initiative": "35/65",
-    "cardno": "057",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "057"
+  },
+  {
+    "name": "057",
+    "points": 1210,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-quantum-uncertainty.png",
+    "xws": "quantumuncertainty",
+    "level": "8",
+    "initiative": "35/65",
+    "character-xws": "blinkblade",
+    "assetno": "057"
   },
   {
     "name": "reckless augmentation",
-    "points": 1192,
+    "points": 1211,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-reckless-augmentation.png",
     "xws": "recklessaugmentation",
     "level": "2",
     "initiative": "10/40",
-    "cardno": "046",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "046"
+  },
+  {
+    "name": "046",
+    "points": 1212,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-reckless-augmentation.png",
+    "xws": "recklessaugmentation",
+    "level": "2",
+    "initiative": "10/40",
+    "character-xws": "blinkblade",
+    "assetno": "046"
   },
   {
     "name": "reverse the flow",
-    "points": 1193,
+    "points": 1213,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-reverse-the-flow.png",
     "xws": "reversetheflow",
     "level": "9",
     "initiative": "58/88",
-    "cardno": "059",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "059"
+  },
+  {
+    "name": "059",
+    "points": 1214,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-reverse-the-flow.png",
+    "xws": "reversetheflow",
+    "level": "9",
+    "initiative": "58/88",
+    "character-xws": "blinkblade",
+    "assetno": "059"
   },
   {
     "name": "rushed to the end",
-    "points": 1194,
+    "points": 1215,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-rushed-to-the-end.png",
     "xws": "rushedtotheend",
     "level": "7",
     "initiative": "32/62",
-    "cardno": "056",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "056"
+  },
+  {
+    "name": "056",
+    "points": 1216,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-rushed-to-the-end.png",
+    "xws": "rushedtotheend",
+    "level": "7",
+    "initiative": "32/62",
+    "character-xws": "blinkblade",
+    "assetno": "056"
   },
   {
     "name": "sand in the hourglass",
-    "points": 1195,
+    "points": 1217,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-sand-in-the-hourglass.png",
     "xws": "sandinthehourglass",
     "level": "x",
     "initiative": "52/82",
-    "cardno": "043",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "043"
+  },
+  {
+    "name": "043",
+    "points": 1218,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-sand-in-the-hourglass.png",
+    "xws": "sandinthehourglass",
+    "level": "x",
+    "initiative": "52/82",
+    "character-xws": "blinkblade",
+    "assetno": "043"
   },
   {
     "name": "sap speed",
-    "points": 1196,
+    "points": 1219,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-sap-speed.png",
     "xws": "sapspeed",
     "level": "1",
     "initiative": "45/75",
-    "cardno": "034",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "034"
+  },
+  {
+    "name": "034",
+    "points": 1220,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-sap-speed.png",
+    "xws": "sapspeed",
+    "level": "1",
+    "initiative": "45/75",
+    "character-xws": "blinkblade",
+    "assetno": "034"
   },
   {
     "name": "stab them all",
-    "points": 1197,
+    "points": 1221,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-stab-them-all.png",
     "xws": "stabthemall",
     "level": "6",
     "initiative": "04/34",
-    "cardno": "053",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "053"
+  },
+  {
+    "name": "053",
+    "points": 1222,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-stab-them-all.png",
+    "xws": "stabthemall",
+    "level": "6",
+    "initiative": "04/34",
+    "character-xws": "blinkblade",
+    "assetno": "053"
   },
   {
     "name": "systems reboot",
-    "points": 1198,
+    "points": 1223,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-systems-reboot.png",
     "xws": "systemsreboot",
     "level": "2",
     "initiative": "57/87",
-    "cardno": "045",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "045"
+  },
+  {
+    "name": "045",
+    "points": 1224,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-systems-reboot.png",
+    "xws": "systemsreboot",
+    "level": "2",
+    "initiative": "57/87",
+    "character-xws": "blinkblade",
+    "assetno": "045"
   },
   {
     "name": "temporal displacement",
-    "points": 1199,
+    "points": 1225,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-temporal-displacement.png",
     "xws": "temporaldisplacement",
     "level": "1",
     "initiative": "44/74",
-    "cardno": "041",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "041"
+  },
+  {
+    "name": "041",
+    "points": 1226,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-temporal-displacement.png",
+    "xws": "temporaldisplacement",
+    "level": "1",
+    "initiative": "44/74",
+    "character-xws": "blinkblade",
+    "assetno": "041"
   },
   {
     "name": "the knife's edge",
-    "points": 1200,
+    "points": 1227,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-the-knifes-edge.png",
     "xws": "theknifesedge",
     "level": "6",
     "initiative": "65/95",
-    "cardno": "054",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "054"
+  },
+  {
+    "name": "054",
+    "points": 1228,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bb/fh-the-knifes-edge.png",
+    "xws": "theknifesedge",
+    "level": "6",
+    "initiative": "65/95",
+    "character-xws": "blinkblade",
+    "assetno": "054"
   },
   {
     "name": "twin strike",
-    "points": 1201,
+    "points": 1229,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bb/fh-twin-strike.png",
     "xws": "twinstrike",
     "level": "1",
     "initiative": "24/54",
-    "cardno": "033",
-    "character-xws": "blinkblade"
+    "character-xws": "blinkblade",
+    "assetno": "033"
   },
   {
-    "name": "bn-back",
-    "points": 1202,
+    "name": "033",
+    "points": 1230,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/bn/fh-bn-back.png",
-    "xws": "bnback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "banner spear"
+    "image": "character-ability-cards/frosthaven/bb/fh-twin-strike.png",
+    "xws": "twinstrike",
+    "level": "1",
+    "initiative": "24/54",
+    "character-xws": "blinkblade",
+    "assetno": "033"
   },
   {
     "name": "air support",
-    "points": 1203,
+    "points": 1231,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-air-support.png",
     "xws": "airsupport",
     "level": "4",
     "initiative": "20",
-    "cardno": "079",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "079"
+  },
+  {
+    "name": "079",
+    "points": 1232,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-air-support.png",
+    "xws": "airsupport",
+    "level": "4",
+    "initiative": "20",
+    "character-xws": "banner spear",
+    "assetno": "079"
   },
   {
     "name": "trained falcon",
-    "points": 1204,
+    "points": 1233,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-air-support.png",
-    "xws": "airsupport",
+    "xws": "trainedfalcon",
     "level": "4",
     "initiative": "20",
-    "cardno": "079",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "079"
   },
   {
     "name": "at all costs",
-    "points": 1205,
+    "points": 1234,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-at-all-costs.png",
     "xws": "atallcosts",
     "level": "1",
     "initiative": "60",
-    "cardno": "061",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "061"
+  },
+  {
+    "name": "061",
+    "points": 1235,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-at-all-costs.png",
+    "xws": "atallcosts",
+    "level": "1",
+    "initiative": "60",
+    "character-xws": "banner spear",
+    "assetno": "061"
   },
   {
     "name": "reinforcement",
-    "points": 1206,
+    "points": 1236,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-at-all-costs.png",
-    "xws": "atallcosts",
+    "xws": "reinforcement",
     "level": "1",
     "initiative": "60",
-    "cardno": "061",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "061"
   },
   {
     "name": "barricade",
-    "points": 1207,
+    "points": 1237,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-barricade.png",
     "xws": "barricade",
     "level": "6",
     "initiative": "16",
-    "cardno": "082",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "082"
+  },
+  {
+    "name": "082",
+    "points": 1238,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-barricade.png",
+    "xws": "barricade",
+    "level": "6",
+    "initiative": "16",
+    "character-xws": "banner spear",
+    "assetno": "082"
   },
   {
     "name": "banner of valor",
-    "points": 1208,
+    "points": 1239,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-barricade.png",
-    "xws": "barricade",
+    "xws": "bannerofvalor",
     "level": "6",
     "initiative": "16",
-    "cardno": "082",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "082"
+  },
+  {
+    "name": "bn-back",
+    "points": 1240,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-bn-back.png",
+    "xws": "bnback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "banner spear",
+    "assetno": "###"
   },
   {
     "name": "boldening blow",
-    "points": 1209,
+    "points": 1241,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-boldening-blow.png",
     "xws": "boldeningblow",
     "level": "4",
     "initiative": "72",
-    "cardno": "078",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "078"
+  },
+  {
+    "name": "078",
+    "points": 1242,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-boldening-blow.png",
+    "xws": "boldeningblow",
+    "level": "4",
+    "initiative": "72",
+    "character-xws": "banner spear",
+    "assetno": "078"
   },
   {
     "name": "bolstering shout",
-    "points": 1210,
+    "points": 1243,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-bolstering-shout.png",
-    "xws": "blsteringshout",
+    "xws": "bolsteringshout",
     "level": "6",
     "initiative": "75",
-    "cardno": "083",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "083"
+  },
+  {
+    "name": "083",
+    "points": 1244,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-bolstering-shout.png",
+    "xws": "bolsteringshout",
+    "level": "6",
+    "initiative": "75",
+    "character-xws": "banner spear",
+    "assetno": "083"
   },
   {
     "name": "combined effort",
-    "points": 1211,
+    "points": 1245,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-combined-effort.png",
     "xws": "combinedeffort",
     "level": "1",
     "initiative": "32",
-    "cardno": "067",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "067"
+  },
+  {
+    "name": "067",
+    "points": 1246,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-combined-effort.png",
+    "xws": "combinedeffort",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "banner spear",
+    "assetno": "067"
   },
   {
     "name": "deflecting maneuver",
-    "points": 1212,
+    "points": 1247,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-deflecting-maneuver.png",
     "xws": "deflectingmaneuver",
     "level": "1",
     "initiative": "15",
-    "cardno": "065",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "065"
+  },
+  {
+    "name": "065",
+    "points": 1248,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-deflecting-maneuver.png",
+    "xws": "deflectingmaneuver",
+    "level": "1",
+    "initiative": "15",
+    "character-xws": "banner spear",
+    "assetno": "065"
   },
   {
     "name": "driving inspiration",
-    "points": 1213,
+    "points": 1249,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-driving-inspiration.png",
     "xws": "drivinginspiration",
     "level": "x",
     "initiative": "18",
-    "cardno": "073",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "073"
+  },
+  {
+    "name": "073",
+    "points": 1250,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-driving-inspiration.png",
+    "xws": "drivinginspiration",
+    "level": "x",
+    "initiative": "18",
+    "character-xws": "banner spear",
+    "assetno": "073"
   },
   {
     "name": "banner of hope",
-    "points": 1214,
+    "points": 1251,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-driving-inspiration.png",
-    "xws": "drivinginspiration",
+    "xws": "bannerofhope",
     "level": "x",
     "initiative": "18",
-    "cardno": "073",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "073"
   },
   {
     "name": "explosive epicenter",
-    "points": 1215,
+    "points": 1252,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-explosive-epicenter.png",
     "xws": "explosiveepicenter",
     "level": "5",
     "initiative": "78",
-    "cardno": "080",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "080"
+  },
+  {
+    "name": "080",
+    "points": 1253,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-explosive-epicenter.png",
+    "xws": "explosiveepicenter",
+    "level": "5",
+    "initiative": "78",
+    "character-xws": "banner spear",
+    "assetno": "080"
   },
   {
     "name": "hail of spears",
-    "points": 1216,
+    "points": 1254,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-hail-of-spears.png",
     "xws": "hailofspears",
     "level": "9",
     "initiative": "44",
-    "cardno": "089",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "089"
+  },
+  {
+    "name": "089",
+    "points": 1255,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-hail-of-spears.png",
+    "xws": "hailofspears",
+    "level": "9",
+    "initiative": "44",
+    "character-xws": "banner spear",
+    "assetno": "089"
   },
   {
     "name": "head of the hammer",
-    "points": 1217,
+    "points": 1256,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-head-of-the-hammer.png",
     "xws": "headofthehammer",
     "level": "3",
     "initiative": "87",
-    "cardno": "077",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "077"
+  },
+  {
+    "name": "077",
+    "points": 1257,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-head-of-the-hammer.png",
+    "xws": "headofthehammer",
+    "level": "3",
+    "initiative": "87",
+    "character-xws": "banner spear",
+    "assetno": "077"
   },
   {
     "name": "hold the line",
-    "points": 1218,
+    "points": 1258,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-hold-the-line.png",
     "xws": "holdtheline",
     "level": "5",
     "initiative": "05",
-    "cardno": "081",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "081"
+  },
+  {
+    "name": "081",
+    "points": 1259,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-hold-the-line.png",
+    "xws": "holdtheline",
+    "level": "5",
+    "initiative": "05",
+    "character-xws": "banner spear",
+    "assetno": "081"
   },
   {
     "name": "incendiary throw",
-    "points": 1219,
+    "points": 1260,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-incendiary-throw.png",
     "xws": "incendiarythrow",
     "level": "x",
     "initiative": "22",
-    "cardno": "072",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "072"
+  },
+  {
+    "name": "072",
+    "points": 1261,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-incendiary-throw.png",
+    "xws": "incendiarythrow",
+    "level": "x",
+    "initiative": "22",
+    "character-xws": "banner spear",
+    "assetno": "072"
   },
   {
     "name": "torch bearer",
-    "points": 1220,
+    "points": 1262,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-incendiary-throw.png",
-    "xws": "incendiarythrow",
+    "xws": "torchbearer",
     "level": "x",
     "initiative": "22",
-    "cardno": "072",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "072"
   },
   {
     "name": "javelin",
-    "points": 1221,
+    "points": 1263,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-javelin.png",
     "xws": "javelin",
     "level": "1",
     "initiative": "21",
-    "cardno": "064",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "064"
+  },
+  {
+    "name": "064",
+    "points": 1264,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-javelin.png",
+    "xws": "javelin",
+    "level": "1",
+    "initiative": "21",
+    "character-xws": "banner spear",
+    "assetno": "064"
   },
   {
     "name": "lead from afar",
-    "points": 1222,
+    "points": 1265,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-lead-from-afar.png",
     "xws": "leadfromafar",
     "level": "7",
     "initiative": "80",
-    "cardno": "085",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "085"
+  },
+  {
+    "name": "085",
+    "points": 1266,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-lead-from-afar.png",
+    "xws": "leadfromafar",
+    "level": "7",
+    "initiative": "80",
+    "character-xws": "banner spear",
+    "assetno": "085"
   },
   {
     "name": "longbowman",
-    "points": 1223,
+    "points": 1267,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-lead-from-afar.png",
-    "xws": "leadfromafar",
+    "xws": "longbowman",
     "level": "7",
     "initiative": "80",
-    "cardno": "085",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "085"
   },
   {
     "name": "let them come",
-    "points": 1224,
+    "points": 1268,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-let-them-come.png",
     "xws": "letthemcome",
     "level": "3",
     "initiative": "24",
-    "cardno": "076",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "076"
+  },
+  {
+    "name": "076",
+    "points": 1269,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-let-them-come.png",
+    "xws": "letthemcome",
+    "level": "3",
+    "initiative": "24",
+    "character-xws": "banner spear",
+    "assetno": "076"
   },
   {
     "name": "banner of courage",
-    "points": 1225,
+    "points": 1270,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-let-them-come.png",
-    "xws": "letthemcome",
+    "xws": "bannerofcourage",
     "level": "3",
     "initiative": "24",
-    "cardno": "076",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "076"
   },
   {
     "name": "meat grinder",
-    "points": 1226,
+    "points": 1271,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-meat-grinder.png",
     "xws": "meatgrinder",
     "level": "2",
     "initiative": "62",
-    "cardno": "074",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "074"
+  },
+  {
+    "name": "074",
+    "points": 1272,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-meat-grinder.png",
+    "xws": "meatgrinder",
+    "level": "2",
+    "initiative": "62",
+    "character-xws": "banner spear",
+    "assetno": "074"
   },
   {
     "name": "pincer movement",
-    "points": 1227,
+    "points": 1273,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-pincer-movement.png",
     "xws": "pincermovement",
     "level": "1",
     "initiative": "69",
-    "cardno": "069",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "069"
+  },
+  {
+    "name": "069",
+    "points": 1274,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-pincer-movement.png",
+    "xws": "pincermovement",
+    "level": "1",
+    "initiative": "69",
+    "character-xws": "banner spear",
+    "assetno": "069"
   },
   {
     "name": "pinning charge",
-    "points": 1228,
+    "points": 1275,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-pinning-charge.png",
     "xws": "pinningcharge",
     "level": "2",
     "initiative": "17",
-    "cardno": "075",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "075"
+  },
+  {
+    "name": "075",
+    "points": 1276,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-pinning-charge.png",
+    "xws": "pinningcharge",
+    "level": "2",
+    "initiative": "17",
+    "character-xws": "banner spear",
+    "assetno": "075"
   },
   {
     "name": "rallying cry",
-    "points": 1229,
+    "points": 1277,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-rallying-cry.png",
     "xws": "rallyingcry",
     "level": "1",
     "initiative": "71",
-    "cardno": "062",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "062"
+  },
+  {
+    "name": "062",
+    "points": 1278,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-rallying-cry.png",
+    "xws": "rallyingcry",
+    "level": "1",
+    "initiative": "71",
+    "character-xws": "banner spear",
+    "assetno": "062"
   },
   {
     "name": "banner of strength",
-    "points": 1230,
+    "points": 1279,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-rallying-cry.png",
-    "xws": "rallyingcry",
+    "xws": "bannerofstrength",
     "level": "1",
     "initiative": "71",
-    "cardno": "062",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "062"
   },
   {
     "name": "regroup",
-    "points": 1231,
+    "points": 1280,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-regroup.png",
     "xws": "regroup",
     "level": "1",
     "initiative": "25",
-    "cardno": "070",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "070"
+  },
+  {
+    "name": "070",
+    "points": 1281,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-regroup.png",
+    "xws": "regroup",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "banner spear",
+    "assetno": "070"
   },
   {
     "name": "resolved courage",
-    "points": 1232,
+    "points": 1282,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-resolved-courage.png",
     "xws": "resolvedcourage",
     "level": "x",
     "initiative": "10",
-    "cardno": "071",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "071"
+  },
+  {
+    "name": "071",
+    "points": 1283,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-resolved-courage.png",
+    "xws": "resolvedcourage",
+    "level": "x",
+    "initiative": "10",
+    "character-xws": "banner spear",
+    "assetno": "071"
   },
   {
     "name": "set for the charge",
-    "points": 1233,
+    "points": 1284,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-set-for-the-charge.png",
     "xws": "setforthecharge",
     "level": "1",
     "initiative": "06",
-    "cardno": "068",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "068"
+  },
+  {
+    "name": "068",
+    "points": 1285,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-set-for-the-charge.png",
+    "xws": "setforthecharge",
+    "level": "1",
+    "initiative": "06",
+    "character-xws": "banner spear",
+    "assetno": "068"
   },
   {
     "name": "sweeping aid",
-    "points": 1234,
+    "points": 1286,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-sweeping-aid.png",
     "xws": "sweepingaid",
     "level": "8",
     "initiative": "73",
-    "cardno": "086",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "086"
+  },
+  {
+    "name": "086",
+    "points": 1287,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-sweeping-aid.png",
+    "xws": "sweepingaid",
+    "level": "8",
+    "initiative": "73",
+    "character-xws": "banner spear",
+    "assetno": "086"
   },
   {
     "name": "take no prisoners",
-    "points": 1235,
+    "points": 1288,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-take-no-prisoners.png",
     "xws": "takenoprisoners",
     "level": "9",
     "initiative": "85",
-    "cardno": "088",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "088"
+  },
+  {
+    "name": "088",
+    "points": 1289,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-take-no-prisoners.png",
+    "xws": "takenoprisoners",
+    "level": "9",
+    "initiative": "85",
+    "character-xws": "banner spear",
+    "assetno": "088"
   },
   {
     "name": "banner of doom",
-    "points": 1236,
+    "points": 1290,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-take-no-prisoners.png",
-    "xws": "takenoprisoners",
+    "xws": "bannerofdoom",
     "level": "9",
     "initiative": "85",
-    "cardno": "088",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "088"
   },
   {
     "name": "taunting howl",
-    "points": 1237,
+    "points": 1291,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-taunting-howl.png",
     "xws": "tauntinghowl",
     "level": "8",
     "initiative": "11",
-    "cardno": "087",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "087"
+  },
+  {
+    "name": "087",
+    "points": 1292,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-taunting-howl.png",
+    "xws": "tauntinghowl",
+    "level": "8",
+    "initiative": "11",
+    "character-xws": "banner spear",
+    "assetno": "087"
   },
   {
     "name": "tip of the spear",
-    "points": 1238,
+    "points": 1293,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-tip-of-the-spear.png",
     "xws": "tipofthespear",
     "level": "1",
     "initiative": "67",
-    "cardno": "066",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "066"
+  },
+  {
+    "name": "066",
+    "points": 1294,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-tip-of-the-spear.png",
+    "xws": "tipofthespear",
+    "level": "1",
+    "initiative": "67",
+    "character-xws": "banner spear",
+    "assetno": "066"
   },
   {
     "name": "tri-thrust",
-    "points": 1239,
+    "points": 1295,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-tri-thrust.png",
     "xws": "trithrust",
     "level": "7",
     "initiative": "27",
-    "cardno": "084",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "084"
+  },
+  {
+    "name": "084",
+    "points": 1296,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bn/fh-tri-thrust.png",
+    "xws": "trithrust",
+    "level": "7",
+    "initiative": "27",
+    "character-xws": "banner spear",
+    "assetno": "084"
   },
   {
     "name": "unbreakable wall",
-    "points": 1240,
+    "points": 1297,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bn/fh-unbreakable-wall.png",
     "xws": "unbreakablewall",
     "level": "1",
     "initiative": "83",
-    "cardno": "063",
-    "character-xws": "banner spear"
+    "character-xws": "banner spear",
+    "assetno": "063"
   },
   {
-    "name": "bo-back",
-    "points": 1241,
+    "name": "063",
+    "points": 1298,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/bo/fh-bo-back.png",
-    "xws": "anback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "boneshaper"
+    "image": "character-ability-cards/frosthaven/bn/fh-unbreakable-wall.png",
+    "xws": "unbreakablewall",
+    "level": "1",
+    "initiative": "83",
+    "character-xws": "banner spear",
+    "assetno": "063"
   },
   {
     "name": "angry spirits",
-    "points": 1242,
+    "points": 1299,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-angry-spirits.png",
     "xws": "angryspirits",
     "level": "1",
     "initiative": "76",
-    "cardno": "126",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "126"
+  },
+  {
+    "name": "126",
+    "points": 1300,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-angry-spirits.png",
+    "xws": "angryspirits",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "boneshaper",
+    "assetno": "126"
   },
   {
     "name": "wraith",
-    "points": 1243,
+    "points": 1301,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-angry-spirits.png",
-    "xws": "angryspirits",
+    "xws": "wraith",
     "level": "1",
     "initiative": "76",
-    "cardno": "126",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "126"
   },
   {
     "name": "approach oblivion",
-    "points": 1244,
+    "points": 1302,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-approach-oblivion.png",
     "xws": "approachoblivion",
     "level": "x",
     "initiative": "53",
-    "cardno": "132",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "132"
+  },
+  {
+    "name": "132",
+    "points": 1303,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-approach-oblivion.png",
+    "xws": "approachoblivion",
+    "level": "x",
+    "initiative": "53",
+    "character-xws": "boneshaper",
+    "assetno": "132"
   },
   {
     "name": "behold the shrouded sun",
-    "points": 1245,
+    "points": 1304,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-behold-the-shrouded-sun.png",
     "xws": "beholdtheshroudedsun",
     "level": "9",
     "initiative": "10",
-    "cardno": "150",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "150"
+  },
+  {
+    "name": "150",
+    "points": 1305,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-behold-the-shrouded-sun.png",
+    "xws": "beholdtheshroudedsun",
+    "level": "9",
+    "initiative": "10",
+    "character-xws": "boneshaper",
+    "assetno": "150"
+  },
+  {
+    "name": "bo-back",
+    "points": 1306,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-bo-back.png",
+    "xws": "boback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "boneshaper",
+    "assetno": "###"
   },
   {
     "name": "bone dagger",
-    "points": 1246,
+    "points": 1307,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-bone-dagger.png",
     "xws": "bonedagger",
     "level": "2",
     "initiative": "29",
-    "cardno": "136",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "136"
+  },
+  {
+    "name": "136",
+    "points": 1308,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-bone-dagger.png",
+    "xws": "bonedagger",
+    "level": "2",
+    "initiative": "29",
+    "character-xws": "boneshaper",
+    "assetno": "136"
   },
   {
     "name": "command the wretched",
-    "points": 1247,
+    "points": 1309,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-command-the-wretched.png",
     "xws": "commandthewretched",
     "level": "1",
     "initiative": "83",
-    "cardno": "129",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "129"
+  },
+  {
+    "name": "129",
+    "points": 1310,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-command-the-wretched.png",
+    "xws": "commandthewretched",
+    "level": "1",
+    "initiative": "83",
+    "character-xws": "boneshaper",
+    "assetno": "129"
   },
   {
     "name": "critical failure",
-    "points": 1248,
+    "points": 1311,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-critical-failure.png",
     "xws": "criticalfailure",
     "level": "4",
     "initiative": "95",
-    "cardno": "139",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "139"
+  },
+  {
+    "name": "139",
+    "points": 1312,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-critical-failure.png",
+    "xws": "criticalfailure",
+    "level": "4",
+    "initiative": "95",
+    "character-xws": "boneshaper",
+    "assetno": "139"
   },
   {
     "name": "damned horde",
-    "points": 1249,
+    "points": 1313,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-damned-horde.png",
     "xws": "damnedhorde",
     "level": "1",
     "initiative": "71",
-    "cardno": "122",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "122"
+  },
+  {
+    "name": "122",
+    "points": 1314,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-damned-horde.png",
+    "xws": "damnedhorde",
+    "level": "1",
+    "initiative": "71",
+    "character-xws": "boneshaper",
+    "assetno": "122"
   },
   {
     "name": "shambling skeleton",
-    "points": 1250,
+    "points": 1315,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-damned-horde.png",
-    "xws": "damnedhorde",
+    "xws": "shamblingskeleton",
     "level": "1",
     "initiative": "71",
-    "cardno": "122",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "122"
   },
   {
     "name": "dark tidings",
-    "points": 1251,
+    "points": 1316,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-dark-tidings.png",
     "xws": "darktidings",
     "level": "1",
     "initiative": "43",
-    "cardno": "125",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "125"
+  },
+  {
+    "name": "125",
+    "points": 1317,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-dark-tidings.png",
+    "xws": "darktidings",
+    "level": "1",
+    "initiative": "43",
+    "character-xws": "boneshaper",
+    "assetno": "125"
   },
   {
     "name": "decaying will",
-    "points": 1252,
+    "points": 1318,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-decaying-will.png",
     "xws": "decayingwill",
     "level": "1",
     "initiative": "46",
-    "cardno": "124",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "124"
+  },
+  {
+    "name": "124",
+    "points": 1319,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-decaying-will.png",
+    "xws": "decayingwill",
+    "level": "1",
+    "initiative": "46",
+    "character-xws": "boneshaper",
+    "assetno": "124"
   },
   {
     "name": "endless numbers",
-    "points": 1253,
+    "points": 1320,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-endless-numbers.png",
     "xws": "endlessnumbers",
     "level": "8",
     "initiative": "86",
-    "cardno": "147",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "147"
+  },
+  {
+    "name": "147",
+    "points": 1321,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-endless-numbers.png",
+    "xws": "endlessnumbers",
+    "level": "8",
+    "initiative": "86",
+    "character-xws": "boneshaper",
+    "assetno": "147"
   },
   {
     "name": "bone horde",
-    "points": 1254,
+    "points": 1322,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-endless-numbers.png",
-    "xws": "endlessnumbers",
+    "xws": "bonehorde",
     "level": "8",
     "initiative": "86",
-    "cardno": "147",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "147"
   },
   {
     "name": "eternal torment",
-    "points": 1255,
+    "points": 1323,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-eternal-torment.png",
     "xws": "eternaltorment",
     "level": "1",
     "initiative": "70",
-    "cardno": "130",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "130"
+  },
+  {
+    "name": "130",
+    "points": 1324,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-eternal-torment.png",
+    "xws": "eternaltorment",
+    "level": "1",
+    "initiative": "70",
+    "character-xws": "boneshaper",
+    "assetno": "130"
   },
   {
     "name": "exploding corpse",
-    "points": 1256,
+    "points": 1325,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-exploding-corpse.png",
     "xws": "explodingcorpse",
     "level": "x",
     "initiative": "21",
-    "cardno": "133",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "133"
+  },
+  {
+    "name": "133",
+    "points": 1326,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-exploding-corpse.png",
+    "xws": "explodingcorpse",
+    "level": "x",
+    "initiative": "21",
+    "character-xws": "boneshaper",
+    "assetno": "133"
   },
   {
     "name": "fell remedy",
-    "points": 1257,
+    "points": 1327,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-fell-remedy.png",
     "xws": "fellremedy",
     "level": "1",
     "initiative": "30",
-    "cardno": "127",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "127"
+  },
+  {
+    "name": "127",
+    "points": 1328,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-fell-remedy.png",
+    "xws": "fellremedy",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "boneshaper",
+    "assetno": "127"
   },
   {
     "name": "flesh shield",
-    "points": 1258,
+    "points": 1329,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-flesh-shield.png",
     "xws": "fleshshield",
     "level": "4",
     "initiative": "16",
-    "cardno": "140",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "140"
+  },
+  {
+    "name": "140",
+    "points": 1330,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-flesh-shield.png",
+    "xws": "fleshshield",
+    "level": "4",
+    "initiative": "16",
+    "character-xws": "boneshaper",
+    "assetno": "140"
   },
   {
     "name": "flow of the black river",
-    "points": 1259,
+    "points": 1331,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-flow-of-the-black-river.png",
     "xws": "flowoftheblackriver",
     "level": "1",
     "initiative": "18",
-    "cardno": "128",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "128"
+  },
+  {
+    "name": "128",
+    "points": 1332,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-flow-of-the-black-river.png",
+    "xws": "flowoftheblackriver",
+    "level": "1",
+    "initiative": "18",
+    "character-xws": "boneshaper",
+    "assetno": "128"
   },
   {
     "name": "grave digging",
-    "points": 1260,
+    "points": 1333,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-grave-digging.png",
     "xws": "gravedigging",
     "level": "3",
     "initiative": "96",
-    "cardno": "137",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "137"
+  },
+  {
+    "name": "137",
+    "points": 1334,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-grave-digging.png",
+    "xws": "gravedigging",
+    "level": "3",
+    "initiative": "96",
+    "character-xws": "boneshaper",
+    "assetno": "137"
   },
   {
     "name": "shambling skeleton",
-    "points": 1261,
+    "points": 1335,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-grave-digging.png",
-    "xws": "gravedigging",
+    "xws": "shamblingskeleton",
     "level": "3",
     "initiative": "96",
-    "cardno": "137",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "137"
   },
   {
     "name": "life in death",
-    "points": 1262,
+    "points": 1336,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-life-in-death.png",
     "xws": "lifeindeath",
     "level": "1",
     "initiative": "91",
-    "cardno": "120",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "120"
+  },
+  {
+    "name": "120",
+    "points": 1337,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-life-in-death.png",
+    "xws": "lifeindeath",
+    "level": "1",
+    "initiative": "91",
+    "character-xws": "boneshaper",
+    "assetno": "120"
   },
   {
     "name": "shambling skeleton",
-    "points": 1263,
+    "points": 1338,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-life-in-death.png",
-    "xws": "lifeindeath",
+    "xws": "shamblingskeleton",
     "level": "1",
     "initiative": "91",
-    "cardno": "120",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "120"
   },
   {
     "name": "malicious conversion",
-    "points": 1264,
+    "points": 1339,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-malicious-conversion.png",
     "xws": "maliciousconversion",
     "level": "1",
     "initiative": "26",
-    "cardno": "131",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "131"
+  },
+  {
+    "name": "131",
+    "points": 1340,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-malicious-conversion.png",
+    "xws": "maliciousconversion",
+    "level": "1",
+    "initiative": "26",
+    "character-xws": "boneshaper",
+    "assetno": "131"
   },
   {
     "name": "putrid cloud",
-    "points": 1265,
+    "points": 1341,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-putrid-cloud.png",
     "xws": "putridcloud",
     "level": "3",
     "initiative": "28",
-    "cardno": "138",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "138"
+  },
+  {
+    "name": "138",
+    "points": 1342,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-putrid-cloud.png",
+    "xws": "putridcloud",
+    "level": "3",
+    "initiative": "28",
+    "character-xws": "boneshaper",
+    "assetno": "138"
   },
   {
     "name": "recycled limbs",
-    "points": 1266,
+    "points": 1343,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-recycled-limbs.png",
     "xws": "recycledlimbs",
     "level": "7",
     "initiative": "52",
-    "cardno": "145",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "145"
+  },
+  {
+    "name": "145",
+    "points": 1344,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-recycled-limbs.png",
+    "xws": "recycledlimbs",
+    "level": "7",
+    "initiative": "52",
+    "character-xws": "boneshaper",
+    "assetno": "145"
   },
   {
     "name": "returned servant",
-    "points": 1267,
+    "points": 1345,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-returned-servant.png",
     "xws": "returnedservant",
     "level": "1",
     "initiative": "81",
-    "cardno": "121",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "121"
+  },
+  {
+    "name": "121",
+    "points": 1346,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-returned-servant.png",
+    "xws": "returnedservant",
+    "level": "1",
+    "initiative": "81",
+    "character-xws": "boneshaper",
+    "assetno": "121"
   },
   {
     "name": "shambling skeleton",
-    "points": 1268,
+    "points": 1347,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-returned-servant.png",
-    "xws": "returnedservant",
+    "xws": "shamblingskeleton",
     "level": "1",
     "initiative": "81",
-    "cardno": "121",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "121"
   },
   {
     "name": "rotting multitude",
-    "points": 1269,
+    "points": 1348,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-rotting-multitude.png",
     "xws": "rottingmultitude",
     "level": "6",
     "initiative": "66",
-    "cardno": "143",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "143"
+  },
+  {
+    "name": "143",
+    "points": 1349,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-rotting-multitude.png",
+    "xws": "rottingmultitude",
+    "level": "6",
+    "initiative": "66",
+    "character-xws": "boneshaper",
+    "assetno": "143"
   },
   {
     "name": "two shambling skeletons",
-    "points": 1270,
+    "points": 1350,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-rotting-multitude.png",
-    "xws": "rottingmultitude",
+    "xws": "twoshamblingskeletons",
     "level": "6",
     "initiative": "66",
-    "cardno": "143",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "143"
   },
   {
     "name": "solid bones",
-    "points": 1271,
+    "points": 1351,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-solid-bones.png",
     "xws": "solidbones",
     "level": "5",
     "initiative": "32",
-    "cardno": "142",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "142"
+  },
+  {
+    "name": "142",
+    "points": 1352,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-solid-bones.png",
+    "xws": "solidbones",
+    "level": "5",
+    "initiative": "32",
+    "character-xws": "boneshaper",
+    "assetno": "142"
   },
   {
     "name": "soul claim",
-    "points": 1272,
+    "points": 1353,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-soul-claim.png",
     "xws": "soulclaim",
     "level": "7",
     "initiative": "23",
-    "cardno": "146",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "146"
+  },
+  {
+    "name": "146",
+    "points": 1354,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-soul-claim.png",
+    "xws": "soulclaim",
+    "level": "7",
+    "initiative": "23",
+    "character-xws": "boneshaper",
+    "assetno": "146"
   },
   {
     "name": "transfer of essence",
-    "points": 1273,
+    "points": 1355,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-transfer-of-essence.png",
     "xws": "transferofessence",
     "level": "1",
     "initiative": "62",
-    "cardno": "123",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "123"
+  },
+  {
+    "name": "123",
+    "points": 1356,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-transfer-of-essence.png",
+    "xws": "transferofessence",
+    "level": "1",
+    "initiative": "62",
+    "character-xws": "boneshaper",
+    "assetno": "123"
   },
   {
     "name": "twisted decree",
-    "points": 1274,
+    "points": 1357,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-twisted-decree.png",
     "xws": "twisteddecree",
     "level": "6",
     "initiative": "85",
-    "cardno": "144",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "144"
+  },
+  {
+    "name": "144",
+    "points": 1358,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-twisted-decree.png",
+    "xws": "twisteddecree",
+    "level": "6",
+    "initiative": "85",
+    "character-xws": "boneshaper",
+    "assetno": "144"
   },
   {
     "name": "unearthed horror",
-    "points": 1275,
+    "points": 1359,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-unearthed-horror.png",
     "xws": "unearthedhorror",
     "level": "2",
     "initiative": "94",
-    "cardno": "135",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "135"
+  },
+  {
+    "name": "135",
+    "points": 1360,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-unearthed-horror.png",
+    "xws": "unearthedhorror",
+    "level": "2",
+    "initiative": "94",
+    "character-xws": "boneshaper",
+    "assetno": "135"
   },
   {
     "name": "raging corpse",
-    "points": 1276,
+    "points": 1361,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-unearthed-horror.png",
-    "xws": "unearthedhorror",
+    "xws": "ragingcorpse",
     "level": "2",
     "initiative": "94",
-    "cardno": "135",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "135"
   },
   {
     "name": "unforgivable methods",
-    "points": 1277,
+    "points": 1362,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-unforgivable-methods.png",
     "xws": "unforgivablemethods",
     "level": "5",
     "initiative": "98",
-    "cardno": "141",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "141"
+  },
+  {
+    "name": "141",
+    "points": 1363,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-unforgivable-methods.png",
+    "xws": "unforgivablemethods",
+    "level": "5",
+    "initiative": "98",
+    "character-xws": "boneshaper",
+    "assetno": "141"
   },
   {
     "name": "stitched atrocity",
-    "points": 1278,
+    "points": 1364,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-unforgivable-methods.png",
-    "xws": "unforgivablemethods",
+    "xws": "stitchedatrocity",
     "level": "5",
     "initiative": "98",
-    "cardno": "141",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "141"
   },
   {
     "name": "unholy prowess",
-    "points": 1279,
+    "points": 1365,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-unholy-prowess.png",
     "xws": "unholyprowess",
     "level": "9",
     "initiative": "97",
-    "cardno": "149",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "149"
+  },
+  {
+    "name": "149",
+    "points": 1366,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-unholy-prowess.png",
+    "xws": "unholyprowess",
+    "level": "9",
+    "initiative": "97",
+    "character-xws": "boneshaper",
+    "assetno": "149"
   },
   {
     "name": "skeleton sorcerer",
-    "points": 1280,
+    "points": 1367,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-unholy-prowess.png",
-    "xws": "unholyprowess",
+    "xws": "skeletonsorcerer",
     "level": "9",
     "initiative": "97",
-    "cardno": "149",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "149"
   },
   {
     "name": "wailing from beyond",
-    "points": 1281,
+    "points": 1368,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-wailing-from-beyond.png",
     "xws": "wailingfrombeyond",
     "level": "8",
     "initiative": "73",
-    "cardno": "148",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "148"
+  },
+  {
+    "name": "148",
+    "points": 1369,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/bo/fh-wailing-from-beyond.png",
+    "xws": "wailingfrombeyond",
+    "level": "8",
+    "initiative": "73",
+    "character-xws": "boneshaper",
+    "assetno": "148"
   },
   {
     "name": "wrath of the turned earth",
-    "points": 1282,
+    "points": 1370,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/bo/fh-wrath-of-the-turned-earth.png",
     "xws": "wrathoftheturnedearth",
     "level": "x",
     "initiative": "80",
-    "cardno": "134",
-    "character-xws": "boneshaper"
+    "character-xws": "boneshaper",
+    "assetno": "134"
   },
   {
-    "name": "cr-back",
-    "points": 1283,
+    "name": "134",
+    "points": 1371,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/cr/fh-cr-back.png",
-    "xws": "crback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "crashing tide"
+    "image": "character-ability-cards/frosthaven/bo/fh-wrath-of-the-turned-earth.png",
+    "xws": "wrathoftheturnedearth",
+    "level": "x",
+    "initiative": "80",
+    "character-xws": "boneshaper",
+    "assetno": "134"
   },
   {
     "name": "blood in the water",
-    "points": 1284,
+    "points": 1372,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-blood-in-the-water.png",
     "xws": "bloodinthewater",
     "level": "2",
     "initiative": "53",
-    "cardno": "490",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "490"
+  },
+  {
+    "name": "490",
+    "points": 1373,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-blood-in-the-water.png",
+    "xws": "bloodinthewater",
+    "level": "2",
+    "initiative": "53",
+    "character-xws": "crashing tide",
+    "assetno": "490"
   },
   {
     "name": "chaotic refraction",
-    "points": 1285,
+    "points": 1374,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-chaotic-refraction.png",
     "xws": "chaoticrefraction",
     "level": "4",
     "initiative": "26",
-    "cardno": "493",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "493"
+  },
+  {
+    "name": "493",
+    "points": 1375,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-chaotic-refraction.png",
+    "xws": "chaoticrefraction",
+    "level": "4",
+    "initiative": "26",
+    "character-xws": "crashing tide",
+    "assetno": "493"
   },
   {
     "name": "cleansing swell",
-    "points": 1286,
+    "points": 1376,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-cleansing-swell.png",
     "xws": "cleansingswell",
     "level": "1",
     "initiative": "45",
-    "cardno": "481",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "481"
+  },
+  {
+    "name": "481",
+    "points": 1377,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-cleansing-swell.png",
+    "xws": "cleansingswell",
+    "level": "1",
+    "initiative": "45",
+    "character-xws": "crashing tide",
+    "assetno": "481"
   },
   {
     "name": "clean sweep",
-    "points": 1287,
+    "points": 1378,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-clean-sweep.png",
     "xws": "cleansweep",
     "level": "4",
     "initiative": "65",
-    "cardno": "494",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "494"
+  },
+  {
+    "name": "494",
+    "points": 1379,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-clean-sweep.png",
+    "xws": "cleansweep",
+    "level": "4",
+    "initiative": "65",
+    "character-xws": "crashing tide",
+    "assetno": "494"
   },
   {
     "name": "crashing surge",
-    "points": 1288,
+    "points": 1380,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-crashing-surge.png",
     "xws": "crashingsurge",
     "level": "1",
     "initiative": "34",
-    "cardno": "483",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "483"
+  },
+  {
+    "name": "483",
+    "points": 1381,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-crashing-surge.png",
+    "xws": "crashingsurge",
+    "level": "1",
+    "initiative": "34",
+    "character-xws": "crashing tide",
+    "assetno": "483"
+  },
+  {
+    "name": "cr-back",
+    "points": 1382,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-cr-back.png",
+    "xws": "crback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "crashing tide",
+    "assetno": "###"
   },
   {
     "name": "cresting force",
-    "points": 1289,
+    "points": 1383,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-cresting-force.png",
     "xws": "crestingforce",
     "level": "1",
     "initiative": "87",
-    "cardno": "482",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "482"
+  },
+  {
+    "name": "482",
+    "points": 1384,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-cresting-force.png",
+    "xws": "crestingforce",
+    "level": "1",
+    "initiative": "87",
+    "character-xws": "crashing tide",
+    "assetno": "482"
   },
   {
     "name": "crush armor",
-    "points": 1290,
+    "points": 1385,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-crush-armor.png",
     "xws": "crusharmor",
     "level": "x",
     "initiative": "42",
-    "cardno": "488",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "488"
+  },
+  {
+    "name": "488",
+    "points": 1386,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-crush-armor.png",
+    "xws": "crusharmor",
+    "level": "x",
+    "initiative": "42",
+    "character-xws": "crashing tide",
+    "assetno": "488"
   },
   {
     "name": "death on all sides",
-    "points": 1291,
+    "points": 1387,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-death-on-all-sides.png",
     "xws": "deathonallsides",
     "level": "8",
     "initiative": "73",
-    "cardno": "501",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "501"
+  },
+  {
+    "name": "501",
+    "points": 1388,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-death-on-all-sides.png",
+    "xws": "deathonallsides",
+    "level": "8",
+    "initiative": "73",
+    "character-xws": "crashing tide",
+    "assetno": "501"
   },
   {
     "name": "down to the depths",
-    "points": 1292,
+    "points": 1389,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-down-to-the-depths.png",
     "xws": "downtothedepths",
     "level": "1",
     "initiative": "74",
-    "cardno": "478",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "478"
+  },
+  {
+    "name": "478",
+    "points": 1390,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-down-to-the-depths.png",
+    "xws": "downtothedepths",
+    "level": "1",
+    "initiative": "74",
+    "character-xws": "crashing tide",
+    "assetno": "478"
   },
   {
     "name": "drown beneath the waves",
-    "points": 1293,
+    "points": 1391,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-drown-beneath-the-waves.png",
     "xws": "drownbeneaththewaves",
     "level": "7",
     "initiative": "09",
-    "cardno": "500",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "500"
+  },
+  {
+    "name": "500",
+    "points": 1392,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-drown-beneath-the-waves.png",
+    "xws": "drownbeneaththewaves",
+    "level": "7",
+    "initiative": "09",
+    "character-xws": "crashing tide",
+    "assetno": "500"
   },
   {
     "name": "dug in",
-    "points": 1294,
+    "points": 1393,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-dug-in.png",
     "xws": "dugin",
     "level": "7",
     "initiative": "76",
-    "cardno": "499",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "499"
+  },
+  {
+    "name": "499",
+    "points": 1394,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-dug-in.png",
+    "xws": "dugin",
+    "level": "7",
+    "initiative": "76",
+    "character-xws": "crashing tide",
+    "assetno": "499"
   },
   {
     "name": "ebb and flow",
-    "points": 1295,
+    "points": 1395,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-ebb-and-flow.png",
     "xws": "ebbandflow",
     "level": "8",
     "initiative": "24",
-    "cardno": "502",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "502"
+  },
+  {
+    "name": "502",
+    "points": 1396,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-ebb-and-flow.png",
+    "xws": "ebbandflow",
+    "level": "8",
+    "initiative": "24",
+    "character-xws": "crashing tide",
+    "assetno": "502"
   },
   {
     "name": "endless cycle",
-    "points": 1296,
+    "points": 1397,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-endless-cycle.png",
     "xws": "endlesscycle",
     "level": "3",
     "initiative": "08",
-    "cardno": "492",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "492"
+  },
+  {
+    "name": "492",
+    "points": 1398,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-endless-cycle.png",
+    "xws": "endlesscycle",
+    "level": "3",
+    "initiative": "08",
+    "character-xws": "crashing tide",
+    "assetno": "492"
   },
   {
     "name": "high tide",
-    "points": 1297,
+    "points": 1399,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-high-tide.png",
     "xws": "hightide",
     "level": "9",
     "initiative": "90",
-    "cardno": "503",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "503"
+  },
+  {
+    "name": "503",
+    "points": 1400,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-high-tide.png",
+    "xws": "hightide",
+    "level": "9",
+    "initiative": "90",
+    "character-xws": "crashing tide",
+    "assetno": "503"
   },
   {
     "name": "low tide",
-    "points": 1298,
+    "points": 1401,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-low-tide.png",
     "xws": "lowtide",
     "level": "9",
     "initiative": "10",
-    "cardno": "504",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "504"
+  },
+  {
+    "name": "504",
+    "points": 1402,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-low-tide.png",
+    "xws": "lowtide",
+    "level": "9",
+    "initiative": "10",
+    "character-xws": "crashing tide",
+    "assetno": "504"
   },
   {
     "name": "mighty claws",
-    "points": 1299,
+    "points": 1403,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-mighty-claws.png",
     "xws": "mightyclaws",
     "level": "1",
     "initiative": "23",
-    "cardno": "484",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "484"
+  },
+  {
+    "name": "484",
+    "points": 1404,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-mighty-claws.png",
+    "xws": "mightyclaws",
+    "level": "1",
+    "initiative": "23",
+    "character-xws": "crashing tide",
+    "assetno": "484"
   },
   {
     "name": "overwhelming wave",
-    "points": 1300,
+    "points": 1405,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-overwhelming-wave.png",
     "xws": "overwhelmingwave",
     "level": "1",
     "initiative": "86",
-    "cardno": "474",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "474"
+  },
+  {
+    "name": "474",
+    "points": 1406,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-overwhelming-wave.png",
+    "xws": "overwhelmingwave",
+    "level": "1",
+    "initiative": "86",
+    "character-xws": "crashing tide",
+    "assetno": "474"
   },
   {
     "name": "pool of power",
-    "points": 1301,
+    "points": 1407,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-pool-of-power.png",
     "xws": "poolofpower",
     "level": "1",
     "initiative": "41",
-    "cardno": "479",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "479"
+  },
+  {
+    "name": "479",
+    "points": 1408,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-pool-of-power.png",
+    "xws": "poolofpower",
+    "level": "1",
+    "initiative": "41",
+    "character-xws": "crashing tide",
+    "assetno": "479"
   },
   {
     "name": "powerful pincer",
-    "points": 1302,
+    "points": 1409,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-powerful-pincer.png",
     "xws": "powerfulpincer",
     "level": "6",
     "initiative": "70",
-    "cardno": "497",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "497"
+  },
+  {
+    "name": "497",
+    "points": 1410,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-powerful-pincer.png",
+    "xws": "powerfulpincer",
+    "level": "6",
+    "initiative": "70",
+    "character-xws": "crashing tide",
+    "assetno": "497"
   },
   {
     "name": "rancid brine",
-    "points": 1303,
+    "points": 1411,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-rancid-brine.png",
     "xws": "rancidbrine",
     "level": "1",
     "initiative": "62",
-    "cardno": "476",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "476"
+  },
+  {
+    "name": "476",
+    "points": 1412,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-rancid-brine.png",
+    "xws": "rancidbrine",
+    "level": "1",
+    "initiative": "62",
+    "character-xws": "crashing tide",
+    "assetno": "476"
   },
   {
     "name": "rising flood",
-    "points": 1304,
+    "points": 1413,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-rising-flood.png",
     "xws": "risingflood",
     "level": "x",
     "initiative": "49",
-    "cardno": "486",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "486"
+  },
+  {
+    "name": "486",
+    "points": 1414,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-rising-flood.png",
+    "xws": "risingflood",
+    "level": "x",
+    "initiative": "49",
+    "character-xws": "crashing tide",
+    "assetno": "486"
   },
   {
     "name": "sharp chitin",
-    "points": 1305,
+    "points": 1415,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-sharp-chitin.png",
     "xws": "sharpchitin",
     "level": "1",
     "initiative": "25",
-    "cardno": "477",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "477"
+  },
+  {
+    "name": "477",
+    "points": 1416,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-sharp-chitin.png",
+    "xws": "sharpchitin",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "crashing tide",
+    "assetno": "477"
   },
   {
     "name": "shuck",
-    "points": 1306,
+    "points": 1417,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-shuck.png",
     "xws": "shuck",
     "level": "3",
     "initiative": "55",
-    "cardno": "491",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "491"
+  },
+  {
+    "name": "491",
+    "points": 1418,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-shuck.png",
+    "xws": "shuck",
+    "level": "3",
+    "initiative": "55",
+    "character-xws": "crashing tide",
+    "assetno": "491"
   },
   {
     "name": "skitter",
-    "points": 1307,
+    "points": 1419,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-skitter.png",
     "xws": "skitter",
     "level": "1",
     "initiative": "51",
-    "cardno": "480",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "480"
+  },
+  {
+    "name": "480",
+    "points": 1420,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-skitter.png",
+    "xws": "skitter",
+    "level": "1",
+    "initiative": "51",
+    "character-xws": "crashing tide",
+    "assetno": "480"
   },
   {
     "name": "smashing torrent",
-    "points": 1308,
+    "points": 1421,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-smashing-torrent.png",
     "xws": "smashingtorrent",
     "level": "2",
     "initiative": "79",
-    "cardno": "489",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "489"
+  },
+  {
+    "name": "489",
+    "points": 1422,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-smashing-torrent.png",
+    "xws": "smashingtorrent",
+    "level": "2",
+    "initiative": "79",
+    "character-xws": "crashing tide",
+    "assetno": "489"
   },
   {
     "name": "sodden soil",
-    "points": 1309,
+    "points": 1423,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-sodden-soil.png",
     "xws": "soddensoil",
     "level": "5",
     "initiative": "17",
-    "cardno": "496",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "496"
+  },
+  {
+    "name": "496",
+    "points": 1424,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-sodden-soil.png",
+    "xws": "soddensoil",
+    "level": "5",
+    "initiative": "17",
+    "character-xws": "crashing tide",
+    "assetno": "496"
   },
   {
     "name": "soft flesh",
-    "points": 1310,
+    "points": 1425,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-soft-flesh.png",
     "xws": "softflesh",
     "level": "1",
     "initiative": "75",
-    "cardno": "475",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "475"
+  },
+  {
+    "name": "475",
+    "points": 1426,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-soft-flesh.png",
+    "xws": "softflesh",
+    "level": "1",
+    "initiative": "75",
+    "character-xws": "crashing tide",
+    "assetno": "475"
   },
   {
     "name": "submerge",
-    "points": 1311,
+    "points": 1427,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-submerge.png",
     "xws": "submerge",
     "level": "1",
     "initiative": "68",
-    "cardno": "485",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "485"
+  },
+  {
+    "name": "485",
+    "points": 1428,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-submerge.png",
+    "xws": "submerge",
+    "level": "1",
+    "initiative": "68",
+    "character-xws": "crashing tide",
+    "assetno": "485"
   },
   {
     "name": "tidal blast",
-    "points": 1312,
+    "points": 1429,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-tidal-blast.png",
     "xws": "tidalblast",
     "level": "5",
     "initiative": "71",
-    "cardno": "495",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "495"
+  },
+  {
+    "name": "495",
+    "points": 1430,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-tidal-blast.png",
+    "xws": "tidalblast",
+    "level": "5",
+    "initiative": "71",
+    "character-xws": "crashing tide",
+    "assetno": "495"
   },
   {
     "name": "twilight grasp",
-    "points": 1313,
+    "points": 1431,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-twilight-grasp.png",
     "xws": "twilightgrasp",
     "level": "6",
     "initiative": "33",
-    "cardno": "498",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "498"
+  },
+  {
+    "name": "498",
+    "points": 1432,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/cr/fh-twilight-grasp.png",
+    "xws": "twilightgrasp",
+    "level": "6",
+    "initiative": "33",
+    "character-xws": "crashing tide",
+    "assetno": "498"
   },
   {
     "name": "undertow",
-    "points": 1314,
+    "points": 1433,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/cr/fh-undertow.png",
     "xws": "undertow",
     "level": "x",
     "initiative": "15",
-    "cardno": "487",
-    "character-xws": "crashing tide"
+    "character-xws": "crashing tide",
+    "assetno": "487"
   },
   {
-    "name": "df-back",
-    "points": 1315,
+    "name": "487",
+    "points": 1434,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/df/fh-df-back.png",
-    "xws": "dfback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "drifter"
+    "image": "character-ability-cards/frosthaven/cr/fh-undertow.png",
+    "xws": "undertow",
+    "level": "x",
+    "initiative": "15",
+    "character-xws": "crashing tide",
+    "assetno": "487"
   },
   {
     "name": "accurate strikes",
-    "points": 1316,
+    "points": 1435,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-accurate-strikes.png",
     "xws": "accuratestrikes",
     "level": "6",
     "initiative": "56",
-    "cardno": "024",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "024"
+  },
+  {
+    "name": "024",
+    "points": 1436,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-accurate-strikes.png",
+    "xws": "accuratestrikes",
+    "level": "6",
+    "initiative": "56",
+    "character-xws": "drifter",
+    "assetno": "024"
   },
   {
     "name": "against all odds",
-    "points": 1317,
+    "points": 1437,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-against-all-odds.png",
     "xws": "againstallodds",
     "level": "8",
     "initiative": "37",
-    "cardno": "028",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "028"
+  },
+  {
+    "name": "028",
+    "points": 1438,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-against-all-odds.png",
+    "xws": "againstallodds",
+    "level": "8",
+    "initiative": "37",
+    "character-xws": "drifter",
+    "assetno": "028"
   },
   {
     "name": "bloodletting",
-    "points": 1318,
+    "points": 1439,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-bloodletting.png",
     "xws": "bloodletting",
     "level": "1",
     "initiative": "65",
-    "cardno": "011",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "011"
+  },
+  {
+    "name": "011",
+    "points": 1440,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-bloodletting.png",
+    "xws": "bloodletting",
+    "level": "1",
+    "initiative": "65",
+    "character-xws": "drifter",
+    "assetno": "011"
   },
   {
     "name": "break through",
-    "points": 1319,
+    "points": 1441,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-break-through.png",
     "xws": "breakthrough",
     "level": "5",
     "initiative": "34",
-    "cardno": "023",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "023"
+  },
+  {
+    "name": "023",
+    "points": 1442,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-break-through.png",
+    "xws": "breakthrough",
+    "level": "5",
+    "initiative": "34",
+    "character-xws": "drifter",
+    "assetno": "023"
   },
   {
     "name": "chunk of flesh",
-    "points": 1320,
+    "points": 1443,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-chunk-of-flesh.png",
     "xws": "chunkofflesh",
     "level": "4",
     "initiative": "62",
-    "cardno": "020",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "020"
+  },
+  {
+    "name": "020",
+    "points": 1444,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-chunk-of-flesh.png",
+    "xws": "chunkofflesh",
+    "level": "4",
+    "initiative": "62",
+    "character-xws": "drifter",
+    "assetno": "020"
   },
   {
     "name": "consume stamina",
-    "points": 1321,
+    "points": 1445,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-consume-stamina.png",
     "xws": "consumestamina",
     "level": "6",
     "initiative": "21",
-    "cardno": "025",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "025"
+  },
+  {
+    "name": "025",
+    "points": 1446,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-consume-stamina.png",
+    "xws": "consumestamina",
+    "level": "6",
+    "initiative": "21",
+    "character-xws": "drifter",
+    "assetno": "025"
   },
   {
     "name": "continuous health",
-    "points": 1322,
+    "points": 1447,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-continuous-health.png",
     "xws": "continuoushealth",
     "level": "1",
     "initiative": "61",
-    "cardno": "004",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "004"
+  },
+  {
+    "name": "004",
+    "points": 1448,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-continuous-health.png",
+    "xws": "continuoushealth",
+    "level": "1",
+    "initiative": "61",
+    "character-xws": "drifter",
+    "assetno": "004"
   },
   {
     "name": "crushing weight",
-    "points": 1323,
+    "points": 1449,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-crushing-weight.png",
     "xws": "crushingweight",
     "level": "1",
     "initiative": "71",
-    "cardno": "001",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "001"
+  },
+  {
+    "name": "001",
+    "points": 1450,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-crushing-weight.png",
+    "xws": "crushingweight",
+    "level": "1",
+    "initiative": "71",
+    "character-xws": "drifter",
+    "assetno": "001"
   },
   {
     "name": "deadly shot",
-    "points": 1324,
+    "points": 1451,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-deadly-shot.png",
     "xws": "deadlyshot",
     "level": "1",
     "initiative": "32",
-    "cardno": "010",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "010"
+  },
+  {
+    "name": "010",
+    "points": 1452,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-deadly-shot.png",
+    "xws": "deadlyshot",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "drifter",
+    "assetno": "010"
   },
   {
     "name": "destructive fury",
-    "points": 1325,
+    "points": 1453,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-destructive-fury.png",
     "xws": "destructivefury",
     "level": "x",
     "initiative": "19",
-    "cardno": "015",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "015"
+  },
+  {
+    "name": "015",
+    "points": 1454,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-destructive-fury.png",
+    "xws": "destructivefury",
+    "level": "x",
+    "initiative": "19",
+    "character-xws": "drifter",
+    "assetno": "015"
+  },
+  {
+    "name": "df-back",
+    "points": 1455,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-df-back.png",
+    "xws": "dfback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "drifter",
+    "assetno": "###"
   },
   {
     "name": "draining arrows",
-    "points": 1326,
+    "points": 1456,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-draining-arrows.png",
     "xws": "drainingarrows",
     "level": "1",
     "initiative": "23",
-    "cardno": "008",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "008"
+  },
+  {
+    "name": "008",
+    "points": 1457,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-draining-arrows.png",
+    "xws": "drainingarrows",
+    "level": "1",
+    "initiative": "23",
+    "character-xws": "drifter",
+    "assetno": "008"
   },
   {
     "name": "dual bow",
-    "points": 1327,
+    "points": 1458,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-dual-bow.png",
     "xws": "dualbow",
     "level": "3",
     "initiative": "26",
-    "cardno": "019",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "019"
+  },
+  {
+    "name": "019",
+    "points": 1459,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-dual-bow.png",
+    "xws": "dualbow",
+    "level": "3",
+    "initiative": "26",
+    "character-xws": "drifter",
+    "assetno": "019"
   },
   {
     "name": "ever forward",
-    "points": 1328,
+    "points": 1460,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-ever-forward.png",
     "xws": "everforward",
     "level": "2",
     "initiative": "67",
-    "cardno": "017",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "017"
+  },
+  {
+    "name": "017",
+    "points": 1461,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-ever-forward.png",
+    "xws": "everforward",
+    "level": "2",
+    "initiative": "67",
+    "character-xws": "drifter",
+    "assetno": "017"
   },
   {
     "name": "everlasting",
-    "points": 1329,
+    "points": 1462,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-everlasting.png",
     "xws": "everlasting",
     "level": "9",
     "initiative": "96",
-    "cardno": "030",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "030"
+  },
+  {
+    "name": "030",
+    "points": 1463,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-everlasting.png",
+    "xws": "everlasting",
+    "level": "9",
+    "initiative": "96",
+    "character-xws": "drifter",
+    "assetno": "030"
   },
   {
     "name": "fierce barrage",
-    "points": 1330,
+    "points": 1464,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-fierce-barrage.png",
     "xws": "fiercebarrage",
     "level": "3",
     "initiative": "32",
-    "cardno": "018",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "018"
+  },
+  {
+    "name": "018",
+    "points": 1465,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-fierce-barrage.png",
+    "xws": "fiercebarrage",
+    "level": "3",
+    "initiative": "32",
+    "character-xws": "drifter",
+    "assetno": "018"
   },
   {
     "name": "fortitude",
-    "points": 1331,
+    "points": 1466,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-fortitude.png",
     "xws": "fortitude",
     "level": "x",
     "initiative": "31",
-    "cardno": "013",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "013"
+  },
+  {
+    "name": "013",
+    "points": 1467,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-fortitude.png",
+    "xws": "fortitude",
+    "level": "x",
+    "initiative": "31",
+    "character-xws": "drifter",
+    "assetno": "013"
   },
   {
     "name": "gift of the prey",
-    "points": 1332,
+    "points": 1468,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-gift-of-the-prey.png",
     "xws": "giftoftheprey",
     "level": "4",
     "initiative": "40",
-    "cardno": "021",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "021"
+  },
+  {
+    "name": "021",
+    "points": 1469,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-gift-of-the-prey.png",
+    "xws": "giftoftheprey",
+    "level": "4",
+    "initiative": "40",
+    "character-xws": "drifter",
+    "assetno": "021"
   },
   {
     "name": "inevitable conclusion",
-    "points": 1333,
+    "points": 1470,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-inevitable-conclusion.png",
     "xws": "inevitableconclusion",
     "level": "8",
     "initiative": "29",
-    "cardno": "029",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "029"
+  },
+  {
+    "name": "029",
+    "points": 1471,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-inevitable-conclusion.png",
+    "xws": "inevitableconclusion",
+    "level": "8",
+    "initiative": "29",
+    "character-xws": "drifter",
+    "assetno": "029"
   },
   {
     "name": "like the wind",
-    "points": 1334,
+    "points": 1472,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-like-the-wind.png",
     "xws": "likethewind",
     "level": "7",
     "initiative": "77",
-    "cardno": "026",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "026"
+  },
+  {
+    "name": "026",
+    "points": 1473,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-like-the-wind.png",
+    "xws": "likethewind",
+    "level": "7",
+    "initiative": "77",
+    "character-xws": "drifter",
+    "assetno": "026"
   },
   {
     "name": "no remorse",
-    "points": 1335,
+    "points": 1474,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-no-remorse.png",
     "xws": "noremorse",
     "level": "x",
     "initiative": "20",
-    "cardno": "014",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "014"
+  },
+  {
+    "name": "014",
+    "points": 1475,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-no-remorse.png",
+    "xws": "noremorse",
+    "level": "x",
+    "initiative": "20",
+    "character-xws": "drifter",
+    "assetno": "014"
   },
   {
     "name": "precision aim",
-    "points": 1336,
+    "points": 1476,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-precision-aim.png",
     "xws": "precisionaim",
     "level": "1",
     "initiative": "66",
-    "cardno": "003",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "003"
+  },
+  {
+    "name": "003",
+    "points": 1477,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-precision-aim.png",
+    "xws": "precisionaim",
+    "level": "1",
+    "initiative": "66",
+    "character-xws": "drifter",
+    "assetno": "003"
   },
   {
     "name": "prudent preparation",
-    "points": 1337,
+    "points": 1478,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-prudent-preparation.png",
     "xws": "prudentpreparation",
     "level": "1",
     "initiative": "14",
-    "cardno": "009",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "009"
+  },
+  {
+    "name": "009",
+    "points": 1479,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-prudent-preparation.png",
+    "xws": "prudentpreparation",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "drifter",
+    "assetno": "009"
   },
   {
     "name": "relentless",
-    "points": 1338,
+    "points": 1480,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-relentless.png",
     "xws": "relentless",
     "level": "1",
     "initiative": "89",
-    "cardno": "005",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "005"
+  },
+  {
+    "name": "005",
+    "points": 1481,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-relentless.png",
+    "xws": "relentless",
+    "level": "1",
+    "initiative": "89",
+    "character-xws": "drifter",
+    "assetno": "005"
   },
   {
     "name": "shockwave",
-    "points": 1339,
+    "points": 1482,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-shockwave.png",
     "xws": "shockwave",
     "level": "2",
     "initiative": "17",
-    "cardno": "016",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "016"
+  },
+  {
+    "name": "016",
+    "points": 1483,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-shockwave.png",
+    "xws": "shockwave",
+    "level": "2",
+    "initiative": "17",
+    "character-xws": "drifter",
+    "assetno": "016"
   },
   {
     "name": "survivalist",
-    "points": 1340,
+    "points": 1484,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-survivalist.png",
     "xws": "survivalist",
     "level": "5",
     "initiative": "91",
-    "cardno": "022",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "022"
+  },
+  {
+    "name": "022",
+    "points": 1485,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-survivalist.png",
+    "xws": "survivalist",
+    "level": "5",
+    "initiative": "91",
+    "character-xws": "drifter",
+    "assetno": "022"
   },
   {
     "name": "sustained momentum",
-    "points": 1341,
+    "points": 1486,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-sustained-momentum.png",
     "xws": "sustainedmomentum",
     "level": "1",
     "initiative": "76",
-    "cardno": "002",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "002"
+  },
+  {
+    "name": "002",
+    "points": 1487,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-sustained-momentum.png",
+    "xws": "sustainedmomentum",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "drifter",
+    "assetno": "002"
   },
   {
     "name": "unbreakable",
-    "points": 1342,
+    "points": 1488,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-unbreakable.png",
     "xws": "unbreakable",
     "level": "1",
     "initiative": "90",
-    "cardno": "006",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "006"
+  },
+  {
+    "name": "006",
+    "points": 1489,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-unbreakable.png",
+    "xws": "unbreakable",
+    "level": "1",
+    "initiative": "90",
+    "character-xws": "drifter",
+    "assetno": "006"
   },
   {
     "name": "unending fight",
-    "points": 1343,
+    "points": 1490,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-unending-fight.png",
     "xws": "unendingfight",
     "level": "7",
     "initiative": "25",
-    "cardno": "027",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "027"
+  },
+  {
+    "name": "027",
+    "points": 1491,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-unending-fight.png",
+    "xws": "unendingfight",
+    "level": "7",
+    "initiative": "25",
+    "character-xws": "drifter",
+    "assetno": "027"
   },
   {
     "name": "use every part",
-    "points": 1344,
+    "points": 1492,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-use-every-part.png",
     "xws": "useeverypart",
     "level": "9",
     "initiative": "18",
-    "cardno": "031",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "031"
+  },
+  {
+    "name": "031",
+    "points": 1493,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-use-every-part.png",
+    "xws": "useeverypart",
+    "level": "9",
+    "initiative": "18",
+    "character-xws": "drifter",
+    "assetno": "031"
   },
   {
     "name": "vile assault",
-    "points": 1345,
+    "points": 1494,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-vile-assault.png",
     "xws": "vileassault",
     "level": "1",
     "initiative": "27",
-    "cardno": "007",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "007"
+  },
+  {
+    "name": "007",
+    "points": 1495,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/df/fh-vile-assault.png",
+    "xws": "vileassault",
+    "level": "1",
+    "initiative": "27",
+    "character-xws": "drifter",
+    "assetno": "007"
   },
   {
     "name": "violent inheritance",
-    "points": 1346,
+    "points": 1496,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/df/fh-violent-inheritance.png",
     "xws": "violentinheritance",
     "level": "1",
     "initiative": "70",
-    "cardno": "012",
-    "character-xws": "drifter"
+    "character-xws": "drifter",
+    "assetno": "012"
   },
   {
-    "name": "dt-back",
-    "points": 1347,
+    "name": "012",
+    "points": 1497,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/dt/fh-dt-back.png",
-    "xws": "dtback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "deepwraith"
+    "image": "character-ability-cards/frosthaven/df/fh-violent-inheritance.png",
+    "xws": "violentinheritance",
+    "level": "1",
+    "initiative": "70",
+    "character-xws": "drifter",
+    "assetno": "012"
   },
   {
     "name": "black night of the deep",
-    "points": 1348,
+    "points": 1498,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-black-night-of-the-deep.png",
     "xws": "blacknightofthedeep",
     "level": "9",
     "initiative": "26",
-    "cardno": "472",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "472"
+  },
+  {
+    "name": "472",
+    "points": 1499,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-black-night-of-the-deep.png",
+    "xws": "blacknightofthedeep",
+    "level": "9",
+    "initiative": "26",
+    "character-xws": "deepwraith",
+    "assetno": "472"
   },
   {
     "name": "black scythe",
-    "points": 1349,
+    "points": 1500,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-black-scythe.png",
     "xws": "blackscythe",
     "level": "1",
     "initiative": "45",
-    "cardno": "453",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "453"
+  },
+  {
+    "name": "453",
+    "points": 1501,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-black-scythe.png",
+    "xws": "blackscythe",
+    "level": "1",
+    "initiative": "45",
+    "character-xws": "deepwraith",
+    "assetno": "453"
   },
   {
     "name": "claw of doom",
-    "points": 1350,
+    "points": 1502,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-claw-of-doom.png",
     "xws": "clawofdoom",
     "level": "6",
     "initiative": "30",
-    "cardno": "466",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "466"
+  },
+  {
+    "name": "466",
+    "points": 1503,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-claw-of-doom.png",
+    "xws": "clawofdoom",
+    "level": "6",
+    "initiative": "30",
+    "character-xws": "deepwraith",
+    "assetno": "466"
   },
   {
     "name": "consume the helpless",
-    "points": 1351,
+    "points": 1504,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-consume-the-helpless.png",
     "xws": "consumethehelpless",
     "level": "9",
     "initiative": "12",
-    "cardno": "473",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "473"
+  },
+  {
+    "name": "473",
+    "points": 1505,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-consume-the-helpless.png",
+    "xws": "consumethehelpless",
+    "level": "9",
+    "initiative": "12",
+    "character-xws": "deepwraith",
+    "assetno": "473"
   },
   {
     "name": "crippling terror",
-    "points": 1352,
+    "points": 1506,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-crippling-terror.png",
     "xws": "cripplingterror",
     "level": "3",
     "initiative": "15",
-    "cardno": "460",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "460"
+  },
+  {
+    "name": "460",
+    "points": 1507,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-crippling-terror.png",
+    "xws": "cripplingterror",
+    "level": "3",
+    "initiative": "15",
+    "character-xws": "deepwraith",
+    "assetno": "460"
   },
   {
     "name": "crushing darkness",
-    "points": 1353,
+    "points": 1508,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-crushing-darkness.png",
     "xws": "crushingdarkness",
     "level": "4",
     "initiative": "40",
-    "cardno": "462",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "462"
+  },
+  {
+    "name": "462",
+    "points": 1509,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-crushing-darkness.png",
+    "xws": "crushingdarkness",
+    "level": "4",
+    "initiative": "40",
+    "character-xws": "deepwraith",
+    "assetno": "462"
   },
   {
     "name": "death spiral",
-    "points": 1354,
+    "points": 1510,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-death-spiral.png",
     "xws": "deathspiral",
     "level": "5",
     "initiative": "48",
-    "cardno": "465",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "465"
+  },
+  {
+    "name": "465",
+    "points": 1511,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-death-spiral.png",
+    "xws": "deathspiral",
+    "level": "5",
+    "initiative": "48",
+    "character-xws": "deepwraith",
+    "assetno": "465"
   },
   {
     "name": "dire frenzy",
-    "points": 1355,
+    "points": 1512,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-dire-frenzy.png",
     "xws": "direfrenzy",
     "level": "7",
     "initiative": "26",
-    "cardno": "469",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "469"
+  },
+  {
+    "name": "469",
+    "points": 1513,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-dire-frenzy.png",
+    "xws": "direfrenzy",
+    "level": "7",
+    "initiative": "26",
+    "character-xws": "deepwraith",
+    "assetno": "469"
+  },
+  {
+    "name": "dt-back",
+    "points": 1514,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-dt-back.png",
+    "xws": "dtback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "deepwraith",
+    "assetno": "###"
   },
   {
     "name": "extra decoration",
-    "points": 1356,
+    "points": 1515,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-extra-decoration.png",
     "xws": "extradecoration",
     "level": "5",
     "initiative": "92",
-    "cardno": "464",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "464"
+  },
+  {
+    "name": "464",
+    "points": 1516,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-extra-decoration.png",
+    "xws": "extradecoration",
+    "level": "5",
+    "initiative": "92",
+    "character-xws": "deepwraith",
+    "assetno": "464"
   },
   {
     "name": "grim trophies",
-    "points": 1357,
+    "points": 1517,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-grim-trophies.png",
     "xws": "grimtrophies",
     "level": "4",
     "initiative": "18",
-    "cardno": "463",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "463"
+  },
+  {
+    "name": "463",
+    "points": 1518,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-grim-trophies.png",
+    "xws": "grimtrophies",
+    "level": "4",
+    "initiative": "18",
+    "character-xws": "deepwraith",
+    "assetno": "463"
   },
   {
     "name": "hasten the end",
-    "points": 1358,
+    "points": 1519,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-hasten-the-end.png",
     "xws": "hastentheend",
     "level": "7",
     "initiative": "65",
-    "cardno": "468",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "468"
+  },
+  {
+    "name": "468",
+    "points": 1520,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-hasten-the-end.png",
+    "xws": "hastentheend",
+    "level": "7",
+    "initiative": "65",
+    "character-xws": "deepwraith",
+    "assetno": "468"
   },
   {
     "name": "haunting brutality",
-    "points": 1359,
+    "points": 1521,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-haunting-brutality.png",
     "xws": "hauntingbrutality",
     "level": "x",
     "initiative": "23",
-    "cardno": "457",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "457"
+  },
+  {
+    "name": "457",
+    "points": 1522,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-haunting-brutality.png",
+    "xws": "hauntingbrutality",
+    "level": "x",
+    "initiative": "23",
+    "character-xws": "deepwraith",
+    "assetno": "457"
   },
   {
     "name": "hollow aura",
-    "points": 1360,
+    "points": 1523,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-hollow-aura.png",
     "xws": "hollowaura",
     "level": "1",
     "initiative": "88",
-    "cardno": "446",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "446"
+  },
+  {
+    "name": "446",
+    "points": 1524,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-hollow-aura.png",
+    "xws": "hollowaura",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "deepwraith",
+    "assetno": "446"
   },
   {
     "name": "ink cloud",
-    "points": 1361,
+    "points": 1525,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-ink-cloud.png",
     "xws": "inkcloud",
     "level": "1",
     "initiative": "28",
-    "cardno": "449",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "449"
+  },
+  {
+    "name": "449",
+    "points": 1526,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-ink-cloud.png",
+    "xws": "inkcloud",
+    "level": "1",
+    "initiative": "28",
+    "character-xws": "deepwraith",
+    "assetno": "449"
   },
   {
     "name": "lacerating stabs",
-    "points": 1362,
+    "points": 1527,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-lacerating-stabs.png",
     "xws": "laceratingstabs",
     "level": "1",
     "initiative": "14",
-    "cardno": "450",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "450"
+  },
+  {
+    "name": "450",
+    "points": 1528,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-lacerating-stabs.png",
+    "xws": "laceratingstabs",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "deepwraith",
+    "assetno": "450"
   },
   {
     "name": "lie in wait",
-    "points": 1363,
+    "points": 1529,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-lie-in-wait.png",
     "xws": "lieinwait",
     "level": "2",
     "initiative": "98",
-    "cardno": "459",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "459"
+  },
+  {
+    "name": "459",
+    "points": 1530,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-lie-in-wait.png",
+    "xws": "lieinwait",
+    "level": "2",
+    "initiative": "98",
+    "character-xws": "deepwraith",
+    "assetno": "459"
   },
   {
     "name": "mantle of dread",
-    "points": 1364,
+    "points": 1531,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-mantle-of-dread.png",
     "xws": "mantleofdread",
     "level": "1",
     "initiative": "96",
-    "cardno": "452",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "452"
+  },
+  {
+    "name": "452",
+    "points": 1532,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-mantle-of-dread.png",
+    "xws": "mantleofdread",
+    "level": "1",
+    "initiative": "96",
+    "character-xws": "deepwraith",
+    "assetno": "452"
   },
   {
     "name": "morbid camouflage",
-    "points": 1365,
+    "points": 1533,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-morbid-camouflage.png",
     "xws": "morbidcamouflage",
     "level": "x",
     "initiative": "31",
-    "cardno": "456",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "456"
+  },
+  {
+    "name": "456",
+    "points": 1534,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-morbid-camouflage.png",
+    "xws": "morbidcamouflage",
+    "level": "x",
+    "initiative": "31",
+    "character-xws": "deepwraith",
+    "assetno": "456"
   },
   {
     "name": "pinning spines",
-    "points": 1366,
+    "points": 1535,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-pinning-spines.png",
     "xws": "pinningspines",
     "level": "3",
     "initiative": "25",
-    "cardno": "461",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "461"
+  },
+  {
+    "name": "461",
+    "points": 1536,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-pinning-spines.png",
+    "xws": "pinningspines",
+    "level": "3",
+    "initiative": "25",
+    "character-xws": "deepwraith",
+    "assetno": "461"
   },
   {
     "name": "rip from the bone",
-    "points": 1367,
+    "points": 1537,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-rip-from-the-bone.png",
     "xws": "ripfromthebone",
     "level": "8",
     "initiative": "11",
-    "cardno": "471",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "471"
+  },
+  {
+    "name": "471",
+    "points": 1538,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-rip-from-the-bone.png",
+    "xws": "ripfromthebone",
+    "level": "8",
+    "initiative": "11",
+    "character-xws": "deepwraith",
+    "assetno": "471"
   },
   {
     "name": "skewer the flesh",
-    "points": 1368,
+    "points": 1539,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-skewer-the-flesh.png",
     "xws": "skewertheflesh",
     "level": "1",
     "initiative": "86",
-    "cardno": "447",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "447"
+  },
+  {
+    "name": "447",
+    "points": 1540,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-skewer-the-flesh.png",
+    "xws": "skewertheflesh",
+    "level": "1",
+    "initiative": "86",
+    "character-xws": "deepwraith",
+    "assetno": "447"
   },
   {
     "name": "skull collection",
-    "points": 1369,
+    "points": 1541,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-skull-collection.png",
     "xws": "skullcollection",
     "level": "1",
     "initiative": "22",
-    "cardno": "445",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "445"
+  },
+  {
+    "name": "445",
+    "points": 1542,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-skull-collection.png",
+    "xws": "skullcollection",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "deepwraith",
+    "assetno": "445"
   },
   {
     "name": "slipping into death",
-    "points": 1370,
+    "points": 1543,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-slipping-into-death.png",
     "xws": "slippingintodeath",
     "level": "2",
     "initiative": "89",
-    "cardno": "458",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "458"
+  },
+  {
+    "name": "458",
+    "points": 1544,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-slipping-into-death.png",
+    "xws": "slippingintodeath",
+    "level": "2",
+    "initiative": "89",
+    "character-xws": "deepwraith",
+    "assetno": "458"
   },
   {
     "name": "soul hunger",
-    "points": 1371,
+    "points": 1545,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-soul-hunger.png",
     "xws": "soulhunger",
     "level": "x",
     "initiative": "91",
-    "cardno": "455",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "455"
+  },
+  {
+    "name": "455",
+    "points": 1546,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-soul-hunger.png",
+    "xws": "soulhunger",
+    "level": "x",
+    "initiative": "91",
+    "character-xws": "deepwraith",
+    "assetno": "455"
   },
   {
     "name": "staring into the abyss",
-    "points": 1372,
+    "points": 1547,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-staring-into-the-abyss.png",
     "xws": "staringintotheabyss",
     "level": "1",
     "initiative": "63",
-    "cardno": "451",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "451"
+  },
+  {
+    "name": "451",
+    "points": 1548,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-staring-into-the-abyss.png",
+    "xws": "staringintotheabyss",
+    "level": "1",
+    "initiative": "63",
+    "character-xws": "deepwraith",
+    "assetno": "451"
   },
   {
     "name": "succumb to fear",
-    "points": 1373,
+    "points": 1549,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-succumb-to-fear.png",
     "xws": "succumbtofear",
     "level": "1",
     "initiative": "20",
-    "cardno": "448",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "448"
+  },
+  {
+    "name": "448",
+    "points": 1550,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-succumb-to-fear.png",
+    "xws": "succumbtofear",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "deepwraith",
+    "assetno": "448"
   },
   {
     "name": "the remorseless deep",
-    "points": 1374,
+    "points": 1551,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-the-remorseless-deep.png",
     "xws": "theremorselessdeep",
     "level": "6",
     "initiative": "22",
-    "cardno": "467",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "467"
+  },
+  {
+    "name": "467",
+    "points": 1552,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-the-remorseless-deep.png",
+    "xws": "theremorselessdeep",
+    "level": "6",
+    "initiative": "22",
+    "character-xws": "deepwraith",
+    "assetno": "467"
   },
   {
     "name": "tumultuous panic",
-    "points": 1375,
+    "points": 1553,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-tumultuous-panic.png",
     "xws": "tumultuouspanic",
     "level": "1",
     "initiative": "66",
-    "cardno": "454",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "454"
+  },
+  {
+    "name": "454",
+    "points": 1554,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dt/fh-tumultuous-panic.png",
+    "xws": "tumultuouspanic",
+    "level": "1",
+    "initiative": "66",
+    "character-xws": "deepwraith",
+    "assetno": "454"
   },
   {
     "name": "unseen horror",
-    "points": 1376,
+    "points": 1555,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dt/fh-unseen-horror.png",
     "xws": "unseenhorror",
     "level": "8",
     "initiative": "19",
-    "cardno": "470",
-    "character-xws": "deepwraith"
+    "character-xws": "deepwraith",
+    "assetno": "470"
   },
   {
-    "name": "dw-back",
-    "points": 1377,
+    "name": "470",
+    "points": 1556,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/dw/fh-dw-back.png",
-    "xws": "dwback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "deathwalker"
+    "image": "character-ability-cards/frosthaven/dt/fh-unseen-horror.png",
+    "xws": "unseenhorror",
+    "level": "8",
+    "initiative": "19",
+    "character-xws": "deepwraith",
+    "assetno": "470"
   },
   {
     "name": "anger of the dead",
-    "points": 1378,
+    "points": 1557,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-anger-of-the-dead.png",
     "xws": "angerofthedead",
     "level": "1",
     "initiative": "14",
-    "cardno": "091",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "091"
+  },
+  {
+    "name": "091",
+    "points": 1558,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-anger-of-the-dead.png",
+    "xws": "angerofthedead",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "deathwalker",
+    "assetno": "091"
   },
   {
     "name": "black barrage",
-    "points": 1379,
+    "points": 1559,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-black-barrage.png",
     "xws": "blackbarrage",
     "level": "1",
     "initiative": "28",
-    "cardno": "095",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "095"
+  },
+  {
+    "name": "095",
+    "points": 1560,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-black-barrage.png",
+    "xws": "blackbarrage",
+    "level": "1",
+    "initiative": "28",
+    "character-xws": "deathwalker",
+    "assetno": "095"
   },
   {
     "name": "black lance",
-    "points": 1380,
+    "points": 1561,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-black-lance.png",
     "xws": "blacklance",
     "level": "9",
     "initiative": "16",
-    "cardno": "119",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "119"
+  },
+  {
+    "name": "119",
+    "points": 1562,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-black-lance.png",
+    "xws": "blacklance",
+    "level": "9",
+    "initiative": "16",
+    "character-xws": "deathwalker",
+    "assetno": "119"
   },
   {
     "name": "call of doom",
-    "points": 1381,
+    "points": 1563,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-call-of-doom.png",
     "xws": "callofdoom",
     "level": "1",
     "initiative": "32",
-    "cardno": "096",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "096"
+  },
+  {
+    "name": "096",
+    "points": 1564,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-call-of-doom.png",
+    "xws": "callofdoom",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "deathwalker",
+    "assetno": "096"
   },
   {
     "name": "call to the abyss",
-    "points": 1382,
+    "points": 1565,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-call-to-the-abyss.png",
     "xws": "calltotheabyss",
     "level": "1",
     "initiative": "82",
-    "cardno": "090",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "090"
+  },
+  {
+    "name": "090",
+    "points": 1566,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-call-to-the-abyss.png",
+    "xws": "calltotheabyss",
+    "level": "1",
+    "initiative": "82",
+    "character-xws": "deathwalker",
+    "assetno": "090"
   },
   {
     "name": "dark fog",
-    "points": 1383,
+    "points": 1567,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-dark-fog.png",
     "xws": "darkfog",
     "level": "1",
     "initiative": "46",
-    "cardno": "094",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "094"
+  },
+  {
+    "name": "094",
+    "points": 1568,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-dark-fog.png",
+    "xws": "darkfog",
+    "level": "1",
+    "initiative": "46",
+    "character-xws": "deathwalker",
+    "assetno": "094"
   },
   {
     "name": "dead bolt",
-    "points": 1384,
+    "points": 1569,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-dead-bolt.png",
     "xws": "deadbolt",
     "level": "3",
     "initiative": "88",
-    "cardno": "106",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "106"
+  },
+  {
+    "name": "106",
+    "points": 1570,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-dead-bolt.png",
+    "xws": "deadbolt",
+    "level": "3",
+    "initiative": "88",
+    "character-xws": "deathwalker",
+    "assetno": "106"
   },
   {
     "name": "deepening despair",
-    "points": 1385,
+    "points": 1571,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-deepening-despair.png",
     "xws": "deepeningdespair",
     "level": "2",
     "initiative": "11",
-    "cardno": "105",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "105"
+  },
+  {
+    "name": "105",
+    "points": 1572,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-deepening-despair.png",
+    "xws": "deepeningdespair",
+    "level": "2",
+    "initiative": "11",
+    "character-xws": "deathwalker",
+    "assetno": "105"
   },
   {
     "name": "dominate",
-    "points": 1386,
+    "points": 1573,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-dominate.png",
     "xws": "dominate",
     "level": "5",
     "initiative": "29",
-    "cardno": "111",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "111"
+  },
+  {
+    "name": "111",
+    "points": 1574,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-dominate.png",
+    "xws": "dominate",
+    "level": "5",
+    "initiative": "29",
+    "character-xws": "deathwalker",
+    "assetno": "111"
+  },
+  {
+    "name": "dw-back",
+    "points": 1575,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-dw-back.png",
+    "xws": "dwback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "deathwalker",
+    "assetno": "###"
   },
   {
     "name": "eclipse",
-    "points": 1387,
+    "points": 1576,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-eclipse.png",
     "xws": "eclipse",
     "level": "1",
     "initiative": "86",
-    "cardno": "097",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "097"
+  },
+  {
+    "name": "097",
+    "points": 1577,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-eclipse.png",
+    "xws": "eclipse",
+    "level": "1",
+    "initiative": "86",
+    "character-xws": "deathwalker",
+    "assetno": "097"
   },
   {
     "name": "fleeting dusk",
-    "points": 1388,
+    "points": 1578,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-fleeting-dusk.png",
     "xws": "fleetingdusk",
     "level": "4",
     "initiative": "36",
-    "cardno": "108",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "108"
+  },
+  {
+    "name": "108",
+    "points": 1579,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-fleeting-dusk.png",
+    "xws": "fleetingdusk",
+    "level": "4",
+    "initiative": "36",
+    "character-xws": "deathwalker",
+    "assetno": "108"
   },
   {
     "name": "fluid night",
-    "points": 1389,
+    "points": 1580,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-fluid-night.png",
     "xws": "fluidnight",
     "level": "1",
     "initiative": "24",
-    "cardno": "093",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "093"
+  },
+  {
+    "name": "093",
+    "points": 1581,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-fluid-night.png",
+    "xws": "fluidnight",
+    "level": "1",
+    "initiative": "24",
+    "character-xws": "deathwalker",
+    "assetno": "093"
   },
   {
     "name": "forceful spirits",
-    "points": 1390,
+    "points": 1582,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-forceful-spirits.png",
     "xws": "forcefulspirits",
     "level": "x",
     "initiative": "34",
-    "cardno": "102",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "102"
+  },
+  {
+    "name": "102",
+    "points": 1583,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-forceful-spirits.png",
+    "xws": "forcefulspirits",
+    "level": "x",
+    "initiative": "34",
+    "character-xws": "deathwalker",
+    "assetno": "102"
   },
   {
     "name": "frozen in fear",
-    "points": 1391,
+    "points": 1584,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-frozen-in-fear.png",
     "xws": "frozeninfear",
     "level": "8",
     "initiative": "21",
-    "cardno": "117",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "117"
+  },
+  {
+    "name": "117",
+    "points": 1585,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-frozen-in-fear.png",
+    "xws": "frozeninfear",
+    "level": "8",
+    "initiative": "21",
+    "character-xws": "deathwalker",
+    "assetno": "117"
   },
   {
     "name": "hungry grasps",
-    "points": 1392,
+    "points": 1586,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-hungry-grasps.png",
     "xws": "hungrygrasps",
     "level": "7",
     "initiative": "25",
-    "cardno": "115",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "115"
+  },
+  {
+    "name": "115",
+    "points": 1587,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-hungry-grasps.png",
+    "xws": "hungrygrasps",
+    "level": "7",
+    "initiative": "25",
+    "character-xws": "deathwalker",
+    "assetno": "115"
   },
   {
     "name": "lashing tendrils",
-    "points": 1393,
+    "points": 1588,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-lashing-tendrils.png",
     "xws": "lashingtendrils",
     "level": "8",
     "initiative": "80",
-    "cardno": "116",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "116"
+  },
+  {
+    "name": "116",
+    "points": 1589,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-lashing-tendrils.png",
+    "xws": "lashingtendrils",
+    "level": "8",
+    "initiative": "80",
+    "character-xws": "deathwalker",
+    "assetno": "116"
   },
   {
     "name": "lingering rot",
-    "points": 1394,
+    "points": 1590,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-lingering-rot.png",
     "xws": "lingeringrot",
     "level": "1",
     "initiative": "64",
-    "cardno": "098",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "098"
+  },
+  {
+    "name": "098",
+    "points": 1591,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-lingering-rot.png",
+    "xws": "lingeringrot",
+    "level": "1",
+    "initiative": "64",
+    "character-xws": "deathwalker",
+    "assetno": "098"
   },
   {
     "name": "medium",
-    "points": 1395,
+    "points": 1592,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-medium.png",
     "xws": "medium",
     "level": "5",
     "initiative": "55",
-    "cardno": "110",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "110"
+  },
+  {
+    "name": "110",
+    "points": 1593,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-medium.png",
+    "xws": "medium",
+    "level": "5",
+    "initiative": "55",
+    "character-xws": "deathwalker",
+    "assetno": "110"
   },
   {
     "name": "proliferation of the abyss",
-    "points": 1396,
+    "points": 1594,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-proliferation-of-the-abyss.png",
     "xws": "proliferationoftheabyss",
     "level": "7",
     "initiative": "38",
-    "cardno": "114",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "114"
+  },
+  {
+    "name": "114",
+    "points": 1595,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-proliferation-of-the-abyss.png",
+    "xws": "proliferationoftheabyss",
+    "level": "7",
+    "initiative": "38",
+    "character-xws": "deathwalker",
+    "assetno": "114"
   },
   {
     "name": "pulled across",
-    "points": 1397,
+    "points": 1596,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-pulled-across.png",
     "xws": "pulledacross",
     "level": "4",
     "initiative": "77",
-    "cardno": "109",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "109"
+  },
+  {
+    "name": "109",
+    "points": 1597,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-pulled-across.png",
+    "xws": "pulledacross",
+    "level": "4",
+    "initiative": "77",
+    "character-xws": "deathwalker",
+    "assetno": "109"
   },
   {
     "name": "rest in the shade",
-    "points": 1398,
+    "points": 1598,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-rest-in-the-shade.png",
     "xws": "restintheshade",
     "level": "x",
     "initiative": "26",
-    "cardno": "103",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "103"
+  },
+  {
+    "name": "103",
+    "points": 1599,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-rest-in-the-shade.png",
+    "xws": "restintheshade",
+    "level": "x",
+    "initiative": "26",
+    "character-xws": "deathwalker",
+    "assetno": "103"
   },
   {
     "name": "restless spirits",
-    "points": 1399,
+    "points": 1600,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-restless-spirits.png",
     "xws": "restlessspirits",
     "level": "2",
     "initiative": "20",
-    "cardno": "104",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "104"
+  },
+  {
+    "name": "104",
+    "points": 1601,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-restless-spirits.png",
+    "xws": "restlessspirits",
+    "level": "2",
+    "initiative": "20",
+    "character-xws": "deathwalker",
+    "assetno": "104"
   },
   {
     "name": "ritual sacrifice",
-    "points": 1400,
+    "points": 1602,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-ritual-sacrifice.png",
     "xws": "ritualsacrifice",
     "level": "3",
     "initiative": "13",
-    "cardno": "107",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "107"
+  },
+  {
+    "name": "107",
+    "points": 1603,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-ritual-sacrifice.png",
+    "xws": "ritualsacrifice",
+    "level": "3",
+    "initiative": "13",
+    "character-xws": "deathwalker",
+    "assetno": "107"
   },
   {
     "name": "shadow step",
-    "points": 1401,
+    "points": 1604,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-shadow-step.png",
     "xws": "shadowstep",
     "level": "1",
     "initiative": "19",
-    "cardno": "099",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "099"
+  },
+  {
+    "name": "099",
+    "points": 1605,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-shadow-step.png",
+    "xws": "shadowstep",
+    "level": "1",
+    "initiative": "19",
+    "character-xws": "deathwalker",
+    "assetno": "099"
   },
   {
     "name": "strength of the abyss",
-    "points": 1402,
+    "points": 1606,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-strength-of-the-abyss.png",
     "xws": "strengthoftheabyss",
     "level": "1",
     "initiative": "50",
-    "cardno": "100",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "100"
+  },
+  {
+    "name": "100",
+    "points": 1607,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-strength-of-the-abyss.png",
+    "xws": "strengthoftheabyss",
+    "level": "1",
+    "initiative": "50",
+    "character-xws": "deathwalker",
+    "assetno": "100"
   },
   {
     "name": "sunless apparition",
-    "points": 1403,
+    "points": 1608,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-sunless-apparition.png",
     "xws": "sunlessapparition",
     "level": "1",
     "initiative": "96",
-    "cardno": "092",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "092"
+  },
+  {
+    "name": "092",
+    "points": 1609,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-sunless-apparition.png",
+    "xws": "sunlessapparition",
+    "level": "1",
+    "initiative": "96",
+    "character-xws": "deathwalker",
+    "assetno": "092"
   },
   {
     "name": "shadow beast",
-    "points": 1404,
+    "points": 1610,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-sunless-apparition.png",
-    "xws": "sunlessapparition",
+    "xws": "shadowbeast",
     "level": "1",
     "initiative": "96",
-    "cardno": "092",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "092"
   },
   {
     "name": "the night takes shape",
-    "points": 1405,
+    "points": 1611,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-the-night-takes-shape.png",
     "xws": "thenighttakesshape",
     "level": "6",
     "initiative": "94",
-    "cardno": "112",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "112"
+  },
+  {
+    "name": "112",
+    "points": 1612,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-the-night-takes-shape.png",
+    "xws": "thenighttakesshape",
+    "level": "6",
+    "initiative": "94",
+    "character-xws": "deathwalker",
+    "assetno": "112"
   },
   {
     "name": "shadow horror",
-    "points": 1406,
+    "points": 1613,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-the-night-takes-shape.png",
-    "xws": "thenighttakesshape",
+    "xws": "shadowhorror",
     "level": "6",
     "initiative": "94",
-    "cardno": "112",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "112"
   },
   {
     "name": "vengeful storm",
-    "points": 1407,
+    "points": 1614,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-vengeful-storm.png",
     "xws": "vengefulstorm",
     "level": "6",
     "initiative": "18",
-    "cardno": "113",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "113"
+  },
+  {
+    "name": "113",
+    "points": 1615,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-vengeful-storm.png",
+    "xws": "vengefulstorm",
+    "level": "6",
+    "initiative": "18",
+    "character-xws": "deathwalker",
+    "assetno": "113"
   },
   {
     "name": "wave of anguish",
-    "points": 1408,
+    "points": 1616,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-wave-of-anguish.png",
     "xws": "waveofanguish",
     "level": "x",
     "initiative": "58",
-    "cardno": "101",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "101"
+  },
+  {
+    "name": "101",
+    "points": 1617,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/dw/fh-wave-of-anguish.png",
+    "xws": "waveofanguish",
+    "level": "x",
+    "initiative": "58",
+    "character-xws": "deathwalker",
+    "assetno": "101"
   },
   {
     "name": "when your time comes",
-    "points": 1409,
+    "points": 1618,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/dw/fh-when-your-time-comes.png",
     "xws": "whenyourtimecomes",
     "level": "9",
     "initiative": "72",
-    "cardno": "118",
-    "character-xws": "deathwalker"
+    "character-xws": "deathwalker",
+    "assetno": "118"
   },
   {
-    "name": "ff-back",
-    "points": 1410,
+    "name": "118",
+    "points": 1619,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/ff/fh-ff-back.png",
-    "xws": "ffback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "frozen fist"
+    "image": "character-ability-cards/frosthaven/dw/fh-when-your-time-comes.png",
+    "xws": "whenyourtimecomes",
+    "level": "9",
+    "initiative": "72",
+    "character-xws": "deathwalker",
+    "assetno": "118"
   },
   {
     "name": "bring down the mountain",
-    "points": 1411,
+    "points": 1620,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-bring-down-the-mountain.png",
     "xws": "bringdownthemountain",
     "level": "9",
     "initiative": "09",
-    "cardno": "385",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "385"
+  },
+  {
+    "name": "385",
+    "points": 1621,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-bring-down-the-mountain.png",
+    "xws": "bringdownthemountain",
+    "level": "9",
+    "initiative": "09",
+    "character-xws": "frozen fist",
+    "assetno": "385"
   },
   {
     "name": "cold boulder",
-    "points": 1412,
+    "points": 1622,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-cold-boulder.png",
     "xws": "coldboulder",
     "level": "1",
     "initiative": "70",
-    "cardno": "361",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "361"
+  },
+  {
+    "name": "361",
+    "points": 1623,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-cold-boulder.png",
+    "xws": "coldboulder",
+    "level": "1",
+    "initiative": "70",
+    "character-xws": "frozen fist",
+    "assetno": "361"
   },
   {
     "name": "crushing crystals",
-    "points": 1413,
+    "points": 1624,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-crushing-crystals.png",
     "xws": "crushingcrystals",
     "level": "2",
     "initiative": "67",
-    "cardno": "372",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "372"
+  },
+  {
+    "name": "372",
+    "points": 1625,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-crushing-crystals.png",
+    "xws": "crushingcrystals",
+    "level": "2",
+    "initiative": "67",
+    "character-xws": "frozen fist",
+    "assetno": "372"
   },
   {
     "name": "draw of the bedrock",
-    "points": 1414,
+    "points": 1626,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-draw-of-the-bedrock.png",
     "xws": "drawofthebedrock",
     "level": "2",
     "initiative": "10",
-    "cardno": "371",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "371"
+  },
+  {
+    "name": "371",
+    "points": 1627,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-draw-of-the-bedrock.png",
+    "xws": "drawofthebedrock",
+    "level": "2",
+    "initiative": "10",
+    "character-xws": "frozen fist",
+    "assetno": "371"
   },
   {
     "name": "draw strength",
-    "points": 1415,
+    "points": 1628,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-draw-strength.png",
     "xws": "drawstrength",
     "level": "8",
     "initiative": "28",
-    "cardno": "384",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "384"
+  },
+  {
+    "name": "384",
+    "points": 1629,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-draw-strength.png",
+    "xws": "drawstrength",
+    "level": "8",
+    "initiative": "28",
+    "character-xws": "frozen fist",
+    "assetno": "384"
   },
   {
     "name": "encased punch",
-    "points": 1416,
+    "points": 1630,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-encased-punch.png",
     "xws": "encasedpunch",
     "level": "1",
     "initiative": "19",
-    "cardno": "364",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "364"
+  },
+  {
+    "name": "364",
+    "points": 1631,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-encased-punch.png",
+    "xws": "encasedpunch",
+    "level": "1",
+    "initiative": "19",
+    "character-xws": "frozen fist",
+    "assetno": "364"
+  },
+  {
+    "name": "ff-back",
+    "points": 1632,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-ff-back.png",
+    "xws": "ffback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "frozen fist",
+    "assetno": "###"
   },
   {
     "name": "freezing shell",
-    "points": 1417,
+    "points": 1633,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-freezing-shell.png",
     "xws": "freezingshell",
     "level": "x",
     "initiative": "17",
-    "cardno": "370",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "370"
+  },
+  {
+    "name": "370",
+    "points": 1634,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-freezing-shell.png",
+    "xws": "freezingshell",
+    "level": "x",
+    "initiative": "17",
+    "character-xws": "frozen fist",
+    "assetno": "370"
   },
   {
     "name": "frost eruption",
-    "points": 1418,
+    "points": 1635,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-frost-eruption.png",
     "xws": "frosteruption",
     "level": "1",
     "initiative": "61",
-    "cardno": "362",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "362"
+  },
+  {
+    "name": "362",
+    "points": 1636,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-frost-eruption.png",
+    "xws": "frosteruption",
+    "level": "1",
+    "initiative": "61",
+    "character-xws": "frozen fist",
+    "assetno": "362"
   },
   {
     "name": "frozen over",
-    "points": 1419,
+    "points": 1637,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-frozen-over.png",
     "xws": "frozenover",
     "level": "3",
     "initiative": "20",
-    "cardno": "374",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "374"
+  },
+  {
+    "name": "374",
+    "points": 1638,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-frozen-over.png",
+    "xws": "frozenover",
+    "level": "3",
+    "initiative": "20",
+    "character-xws": "frozen fist",
+    "assetno": "374"
   },
   {
     "name": "frozen spike",
-    "points": 1420,
+    "points": 1639,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-frozen-spike.png",
     "xws": "frozenspike",
     "level": "9",
     "initiative": "33",
-    "cardno": "386",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "386"
+  },
+  {
+    "name": "386",
+    "points": 1640,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-frozen-spike.png",
+    "xws": "frozenspike",
+    "level": "9",
+    "initiative": "33",
+    "character-xws": "frozen fist",
+    "assetno": "386"
   },
   {
     "name": "fury of the mountain",
-    "points": 1421,
+    "points": 1641,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-fury-of-the-mountain.png",
     "xws": "furyofthemountain",
     "level": "1",
     "initiative": "23",
-    "cardno": "363",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "363"
+  },
+  {
+    "name": "363",
+    "points": 1642,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-fury-of-the-mountain.png",
+    "xws": "furyofthemountain",
+    "level": "1",
+    "initiative": "23",
+    "character-xws": "frozen fist",
+    "assetno": "363"
   },
   {
     "name": "gift of the mountain",
-    "points": 1422,
+    "points": 1643,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-gift-of-the-mountain.png",
     "xws": "giftofthemountain",
     "level": "7",
     "initiative": "73",
-    "cardno": "381",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "381"
+  },
+  {
+    "name": "381",
+    "points": 1644,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-gift-of-the-mountain.png",
+    "xws": "giftofthemountain",
+    "level": "7",
+    "initiative": "73",
+    "character-xws": "frozen fist",
+    "assetno": "381"
   },
   {
     "name": "glacier slam",
-    "points": 1423,
+    "points": 1645,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-glacier-slam.png",
     "xws": "glacierslam",
     "level": "6",
     "initiative": "84",
-    "cardno": "380",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "380"
+  },
+  {
+    "name": "380",
+    "points": 1646,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-glacier-slam.png",
+    "xws": "glacierslam",
+    "level": "6",
+    "initiative": "84",
+    "character-xws": "frozen fist",
+    "assetno": "380"
   },
   {
     "name": "ice blast",
-    "points": 1424,
+    "points": 1647,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-ice-blast.png",
     "xws": "iceblast",
     "level": "1",
     "initiative": "32",
-    "cardno": "367",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "367"
+  },
+  {
+    "name": "367",
+    "points": 1648,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-ice-blast.png",
+    "xws": "iceblast",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "frozen fist",
+    "assetno": "367"
   },
   {
     "name": "ice uppercut",
-    "points": 1425,
+    "points": 1649,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-ice-uppercut.png",
     "xws": "iceuppercut",
     "level": "5",
     "initiative": "15",
-    "cardno": "378",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "378"
+  },
+  {
+    "name": "378",
+    "points": 1650,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-ice-uppercut.png",
+    "xws": "iceuppercut",
+    "level": "5",
+    "initiative": "15",
+    "character-xws": "frozen fist",
+    "assetno": "378"
   },
   {
     "name": "lacerating eruption",
-    "points": 1426,
+    "points": 1651,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-lacerating-eruption.png",
     "xws": "laceratingeruption",
     "level": "3",
     "initiative": "51",
-    "cardno": "373",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "373"
+  },
+  {
+    "name": "373",
+    "points": 1652,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-lacerating-eruption.png",
+    "xws": "laceratingeruption",
+    "level": "3",
+    "initiative": "51",
+    "character-xws": "frozen fist",
+    "assetno": "373"
   },
   {
     "name": "one with the mountain",
-    "points": 1427,
+    "points": 1653,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-one-with-the-mountain.png",
     "xws": "onewiththemountain",
     "level": "1",
     "initiative": "83",
-    "cardno": "360",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "360"
+  },
+  {
+    "name": "360",
+    "points": 1654,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-one-with-the-mountain.png",
+    "xws": "onewiththemountain",
+    "level": "1",
+    "initiative": "83",
+    "character-xws": "frozen fist",
+    "assetno": "360"
   },
   {
     "name": "packed solid",
-    "points": 1428,
+    "points": 1655,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-packed-solid.png",
     "xws": "packedsolid",
     "level": "4",
     "initiative": "55",
-    "cardno": "376",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "376"
+  },
+  {
+    "name": "376",
+    "points": 1656,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-packed-solid.png",
+    "xws": "packedsolid",
+    "level": "4",
+    "initiative": "55",
+    "character-xws": "frozen fist",
+    "assetno": "376"
   },
   {
     "name": "piercing pummel",
-    "points": 1429,
+    "points": 1657,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-piercing-pummel.png",
     "xws": "piercingpummel",
     "level": "1",
     "initiative": "30",
-    "cardno": "366",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "366"
+  },
+  {
+    "name": "366",
+    "points": 1658,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-piercing-pummel.png",
+    "xws": "piercingpummel",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "frozen fist",
+    "assetno": "366"
   },
   {
     "name": "preserved fury",
-    "points": 1430,
+    "points": 1659,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-preserved-fury.png",
     "xws": "preservedfury",
     "level": "5",
     "initiative": "49",
-    "cardno": "377",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "377"
+  },
+  {
+    "name": "377",
+    "points": 1660,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-preserved-fury.png",
+    "xws": "preservedfury",
+    "level": "5",
+    "initiative": "49",
+    "character-xws": "frozen fist",
+    "assetno": "377"
   },
   {
     "name": "primal bellow",
-    "points": 1431,
+    "points": 1661,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-primal-bellow.png",
     "xws": "primalbellow",
     "level": "x",
     "initiative": "84",
-    "cardno": "369",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "369"
+  },
+  {
+    "name": "369",
+    "points": 1662,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-primal-bellow.png",
+    "xws": "primalbellow",
+    "level": "x",
+    "initiative": "84",
+    "character-xws": "frozen fist",
+    "assetno": "369"
   },
   {
     "name": "seeing stars",
-    "points": 1432,
+    "points": 1663,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-seeing-stars.png",
     "xws": "seeingstars",
     "level": "7",
     "initiative": "29",
-    "cardno": "382",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "382"
+  },
+  {
+    "name": "382",
+    "points": 1664,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-seeing-stars.png",
+    "xws": "seeingstars",
+    "level": "7",
+    "initiative": "29",
+    "character-xws": "frozen fist",
+    "assetno": "382"
   },
   {
     "name": "shard launch",
-    "points": 1433,
+    "points": 1665,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-shard-launch.png",
     "xws": "shardlaunch",
     "level": "x",
     "initiative": "52",
-    "cardno": "368",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "368"
+  },
+  {
+    "name": "368",
+    "points": 1666,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-shard-launch.png",
+    "xws": "shardlaunch",
+    "level": "x",
+    "initiative": "52",
+    "character-xws": "frozen fist",
+    "assetno": "368"
   },
   {
     "name": "shattering blow",
-    "points": 1434,
+    "points": 1667,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-shattering-blow.png",
     "xws": "shatteringblow",
     "level": "8",
     "initiative": "18",
-    "cardno": "383",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "383"
+  },
+  {
+    "name": "383",
+    "points": 1668,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-shattering-blow.png",
+    "xws": "shatteringblow",
+    "level": "8",
+    "initiative": "18",
+    "character-xws": "frozen fist",
+    "assetno": "383"
   },
   {
     "name": "the mountain's fist",
-    "points": 1435,
+    "points": 1669,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-the-mountains-fist.png",
     "xws": "themountainsfist",
     "level": "4",
     "initiative": "16",
-    "cardno": "375",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "375"
+  },
+  {
+    "name": "375",
+    "points": 1670,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-the-mountains-fist.png",
+    "xws": "themountainsfist",
+    "level": "4",
+    "initiative": "16",
+    "character-xws": "frozen fist",
+    "assetno": "375"
   },
   {
     "name": "thick frost",
-    "points": 1436,
+    "points": 1671,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-thick-frost.png",
     "xws": "thickfrost",
     "level": "6",
     "initiative": "21",
-    "cardno": "379",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "379"
+  },
+  {
+    "name": "379",
+    "points": 1672,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ff/fh-thick-frost.png",
+    "xws": "thickfrost",
+    "level": "6",
+    "initiative": "21",
+    "character-xws": "frozen fist",
+    "assetno": "379"
   },
   {
     "name": "voice from below",
-    "points": 1437,
+    "points": 1673,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ff/fh-voice-from-below.png",
     "xws": "voicefrombelow",
     "level": "1",
     "initiative": "22",
-    "cardno": "365",
-    "character-xws": "frozen fist"
+    "character-xws": "frozen fist",
+    "assetno": "365"
   },
   {
-    "name": "ge-back",
-    "points": 1438,
+    "name": "365",
+    "points": 1674,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/ge/fh-ge-back.png",
-    "xws": "geback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "geminate"
+    "image": "character-ability-cards/frosthaven/ff/fh-voice-from-below.png",
+    "xws": "voicefrombelow",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "frozen fist",
+    "assetno": "365"
   },
   {
     "name": "accelerated metabolism",
-    "points": 1439,
+    "points": 1675,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-accelerated-metabolism.png",
     "xws": "acceleratedmetabolism",
     "level": "8",
     "initiative": "85",
-    "cardno": "181",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "181"
+  },
+  {
+    "name": "181",
+    "points": 1676,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-accelerated-metabolism.png",
+    "xws": "acceleratedmetabolism",
+    "level": "8",
+    "initiative": "85",
+    "character-xws": "geminate",
+    "assetno": "181"
   },
   {
     "name": "alluring pheromones",
-    "points": 1440,
+    "points": 1677,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-alluring-pheromones.png",
     "xws": "alluringpheromones",
     "level": "7",
     "initiative": "49",
-    "cardno": "180",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "180"
+  },
+  {
+    "name": "180",
+    "points": 1678,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-alluring-pheromones.png",
+    "xws": "alluringpheromones",
+    "level": "7",
+    "initiative": "49",
+    "character-xws": "geminate",
+    "assetno": "180"
   },
   {
     "name": "changeling's boon",
-    "points": 1441,
+    "points": 1679,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-changelings-boon.png",
     "xws": "changelingsboon",
     "level": "1",
     "initiative": "40",
-    "cardno": "154",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "154"
+  },
+  {
+    "name": "154",
+    "points": 1680,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-changelings-boon.png",
+    "xws": "changelingsboon",
+    "level": "1",
+    "initiative": "40",
+    "character-xws": "geminate",
+    "assetno": "154"
   },
   {
     "name": "chitinous horde",
-    "points": 1442,
+    "points": 1681,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-chitinous-horde.png",
     "xws": "chitinoushorde",
     "level": "5",
     "initiative": "15",
-    "cardno": "176",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "176"
+  },
+  {
+    "name": "176",
+    "points": 1682,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-chitinous-horde.png",
+    "xws": "chitinoushorde",
+    "level": "5",
+    "initiative": "15",
+    "character-xws": "geminate",
+    "assetno": "176"
   },
   {
     "name": "corrosive acids",
-    "points": 1443,
+    "points": 1683,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-corrosive-acids.png",
     "xws": "corrosiveacids",
     "level": "6",
     "initiative": "28",
-    "cardno": "177",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "177"
+  },
+  {
+    "name": "177",
+    "points": 1684,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-corrosive-acids.png",
+    "xws": "corrosiveacids",
+    "level": "6",
+    "initiative": "28",
+    "character-xws": "geminate",
+    "assetno": "177"
   },
   {
     "name": "drag down",
-    "points": 1444,
+    "points": 1685,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-drag-down.png",
     "xws": "dragdown",
     "level": "1",
     "initiative": "34",
-    "cardno": "156",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "156"
+  },
+  {
+    "name": "156",
+    "points": 1686,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-drag-down.png",
+    "xws": "dragdown",
+    "level": "1",
+    "initiative": "34",
+    "character-xws": "geminate",
+    "assetno": "156"
   },
   {
     "name": "dragonfly surge",
-    "points": 1445,
+    "points": 1687,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-dragonfly-surge.png",
     "xws": "dragonflysurge",
     "level": "3",
     "initiative": "50",
-    "cardno": "172",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "172"
+  },
+  {
+    "name": "172",
+    "points": 1688,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-dragonfly-surge.png",
+    "xws": "dragonflysurge",
+    "level": "3",
+    "initiative": "50",
+    "character-xws": "geminate",
+    "assetno": "172"
   },
   {
     "name": "draining pincers",
-    "points": 1446,
+    "points": 1689,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-draining-pincers.png",
     "xws": "drainingpincers",
     "level": "1",
     "initiative": "72",
-    "cardno": "152",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "152"
+  },
+  {
+    "name": "152",
+    "points": 1690,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-draining-pincers.png",
+    "xws": "drainingpincers",
+    "level": "1",
+    "initiative": "72",
+    "character-xws": "geminate",
+    "assetno": "152"
   },
   {
     "name": "feeding frenzy",
-    "points": 1447,
+    "points": 1691,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-feeding-frenzy.png",
     "xws": "feedingfrenzy",
     "level": "x",
     "initiative": "62",
-    "cardno": "159",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "159"
+  },
+  {
+    "name": "159",
+    "points": 1692,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-feeding-frenzy.png",
+    "xws": "feedingfrenzy",
+    "level": "x",
+    "initiative": "62",
+    "character-xws": "geminate",
+    "assetno": "159"
   },
   {
     "name": "firefly swarm",
-    "points": 1448,
+    "points": 1693,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-firefly-swarm.png",
     "xws": "fireflyswarm",
     "level": "1",
     "initiative": "76",
-    "cardno": "162",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "162"
+  },
+  {
+    "name": "162",
+    "points": 1694,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-firefly-swarm.png",
+    "xws": "fireflyswarm",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "geminate",
+    "assetno": "162"
   },
   {
     "name": "flailing tendrils",
-    "points": 1449,
+    "points": 1695,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-flailing-tendrils.png",
     "xws": "flailingtendrils",
     "level": "1",
     "initiative": "12",
-    "cardno": "155",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "155"
+  },
+  {
+    "name": "155",
+    "points": 1696,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-flailing-tendrils.png",
+    "xws": "flailingtendrils",
+    "level": "1",
+    "initiative": "12",
+    "character-xws": "geminate",
+    "assetno": "155"
   },
   {
     "name": "formless grace",
-    "points": 1450,
+    "points": 1697,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-formless-grace.png",
     "xws": "formlessgrace",
     "level": "5",
     "initiative": "75",
-    "cardno": "175",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "175"
+  },
+  {
+    "name": "175",
+    "points": 1698,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-formless-grace.png",
+    "xws": "formlessgrace",
+    "level": "5",
+    "initiative": "75",
+    "character-xws": "geminate",
+    "assetno": "175"
+  },
+  {
+    "name": "ge-back",
+    "points": 1699,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-ge-back.png",
+    "xws": "geback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "geminate",
+    "assetno": "###"
   },
   {
     "name": "hail of thorns",
-    "points": 1451,
+    "points": 1700,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-hail-of-thorns.png",
     "xws": "hailofthorns",
     "level": "1",
     "initiative": "88",
-    "cardno": "166",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "166"
+  },
+  {
+    "name": "166",
+    "points": 1701,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-hail-of-thorns.png",
+    "xws": "hailofthorns",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "geminate",
+    "assetno": "166"
   },
   {
     "name": "harbinger of ruin",
-    "points": 1452,
+    "points": 1702,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-harbinger-of-ruin.png",
     "xws": "harbingerofruin",
     "level": "9",
     "initiative": "11",
-    "cardno": "183",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "183"
+  },
+  {
+    "name": "183",
+    "points": 1703,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-harbinger-of-ruin.png",
+    "xws": "harbingerofruin",
+    "level": "9",
+    "initiative": "11",
+    "character-xws": "geminate",
+    "assetno": "183"
   },
   {
     "name": "harvest the essence",
-    "points": 1453,
+    "points": 1704,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-harvest-the-essence.png",
     "xws": "harvesttheessence",
     "level": "1",
     "initiative": "60",
-    "cardno": "165",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "165"
+  },
+  {
+    "name": "165",
+    "points": 1705,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-harvest-the-essence.png",
+    "xws": "harvesttheessence",
+    "level": "1",
+    "initiative": "60",
+    "character-xws": "geminate",
+    "assetno": "165"
   },
   {
     "name": "hirudotherapy",
-    "points": 1454,
+    "points": 1706,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-hirudotherapy.png",
     "xws": "hirudotherapy",
     "level": "6",
     "initiative": "92",
-    "cardno": "178",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "178"
+  },
+  {
+    "name": "178",
+    "points": 1707,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-hirudotherapy.png",
+    "xws": "hirudotherapy",
+    "level": "6",
+    "initiative": "92",
+    "character-xws": "geminate",
+    "assetno": "178"
   },
   {
     "name": "hornbeetle carapace",
-    "points": 1455,
+    "points": 1708,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-hornbeetle-carapace.png",
     "xws": "hornbeetlecarapace",
     "level": "1",
     "initiative": "20",
-    "cardno": "157",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "157"
+  },
+  {
+    "name": "157",
+    "points": 1709,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-hornbeetle-carapace.png",
+    "xws": "hornbeetlecarapace",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "geminate",
+    "assetno": "157"
   },
   {
     "name": "hornet stingers",
-    "points": 1456,
+    "points": 1710,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-hornet-stingers.png",
     "xws": "hornetstingers",
     "level": "1",
     "initiative": "23",
-    "cardno": "153",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "153"
+  },
+  {
+    "name": "153",
+    "points": 1711,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-hornet-stingers.png",
+    "xws": "hornetstingers",
+    "level": "1",
+    "initiative": "23",
+    "character-xws": "geminate",
+    "assetno": "153"
   },
   {
     "name": "icebound quills",
-    "points": 1457,
+    "points": 1712,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-icebound-quills.png",
     "xws": "iceboundquills",
     "level": "1",
     "initiative": "14",
-    "cardno": "151",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "151"
+  },
+  {
+    "name": "151",
+    "points": 1713,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-icebound-quills.png",
+    "xws": "iceboundquills",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "geminate",
+    "assetno": "151"
   },
   {
     "name": "into my embrace",
-    "points": 1458,
+    "points": 1714,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-into-my-embrace.png",
     "xws": "intomyembrace",
     "level": "1",
     "initiative": "36",
-    "cardno": "161",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "161"
+  },
+  {
+    "name": "161",
+    "points": 1715,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-into-my-embrace.png",
+    "xws": "intomyembrace",
+    "level": "1",
+    "initiative": "36",
+    "character-xws": "geminate",
+    "assetno": "161"
   },
   {
     "name": "locust host",
-    "points": 1459,
+    "points": 1716,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-locust-host.png",
     "xws": "locusthost",
     "level": "2",
     "initiative": "23",
-    "cardno": "170",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "170"
+  },
+  {
+    "name": "170",
+    "points": 1717,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-locust-host.png",
+    "xws": "locusthost",
+    "level": "2",
+    "initiative": "23",
+    "character-xws": "geminate",
+    "assetno": "170"
   },
   {
     "name": "luminous descent",
-    "points": 1460,
+    "points": 1718,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-luminous-descent.png",
     "xws": "luminousdescent",
     "level": "4",
     "initiative": "67",
-    "cardno": "174",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "174"
+  },
+  {
+    "name": "174",
+    "points": 1719,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-luminous-descent.png",
+    "xws": "luminousdescent",
+    "level": "4",
+    "initiative": "67",
+    "character-xws": "geminate",
+    "assetno": "174"
   },
   {
     "name": "mandible storm",
-    "points": 1461,
+    "points": 1720,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-mandible-storm.png",
     "xws": "mandiblestorm",
     "level": "3",
     "initiative": "30",
-    "cardno": "171",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "171"
+  },
+  {
+    "name": "171",
+    "points": 1721,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-mandible-storm.png",
+    "xws": "mandiblestorm",
+    "level": "3",
+    "initiative": "30",
+    "character-xws": "geminate",
+    "assetno": "171"
   },
   {
     "name": "mind spike",
-    "points": 1462,
+    "points": 1722,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-mind-spike.png",
     "xws": "mindspike",
     "level": "1",
     "initiative": "18",
-    "cardno": "164",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "164"
+  },
+  {
+    "name": "164",
+    "points": 1723,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-mind-spike.png",
+    "xws": "mindspike",
+    "level": "1",
+    "initiative": "18",
+    "character-xws": "geminate",
+    "assetno": "164"
   },
   {
     "name": "oscillating entity",
-    "points": 1463,
+    "points": 1724,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-oscillating-entity.png",
     "xws": "oscillatingentity",
     "level": "8",
     "initiative": "55",
-    "cardno": "182",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "182"
+  },
+  {
+    "name": "182",
+    "points": 1725,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-oscillating-entity.png",
+    "xws": "oscillatingentity",
+    "level": "8",
+    "initiative": "55",
+    "character-xws": "geminate",
+    "assetno": "182"
   },
   {
     "name": "reckless jab",
-    "points": 1464,
+    "points": 1726,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-reckless-jab.png",
     "xws": "recklessjab",
     "level": "x",
     "initiative": "38",
-    "cardno": "158",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "158"
+  },
+  {
+    "name": "158",
+    "points": 1727,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-reckless-jab.png",
+    "xws": "recklessjab",
+    "level": "x",
+    "initiative": "38",
+    "character-xws": "geminate",
+    "assetno": "158"
   },
   {
     "name": "reshape the guise",
-    "points": 1465,
+    "points": 1728,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-reshape-the-guise.png",
     "xws": "reshapetheguise",
     "level": "x",
     "initiative": "38",
-    "cardno": "168",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "168"
+  },
+  {
+    "name": "168",
+    "points": 1729,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-reshape-the-guise.png",
+    "xws": "reshapetheguise",
+    "level": "x",
+    "initiative": "38",
+    "character-xws": "geminate",
+    "assetno": "168"
   },
   {
     "name": "scarab flight",
-    "points": 1466,
+    "points": 1730,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-scarab-flight.png",
     "xws": "scarabflight",
     "level": "1",
     "initiative": "30",
-    "cardno": "163",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "163"
+  },
+  {
+    "name": "163",
+    "points": 1731,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-scarab-flight.png",
+    "xws": "scarabflight",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "geminate",
+    "assetno": "163"
   },
   {
     "name": "selfless offering",
-    "points": 1467,
+    "points": 1732,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-selfless-offering.png",
     "xws": "selflessoffering",
     "level": "1",
     "initiative": "27",
-    "cardno": "160",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "160"
+  },
+  {
+    "name": "160",
+    "points": 1733,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-selfless-offering.png",
+    "xws": "selflessoffering",
+    "level": "1",
+    "initiative": "27",
+    "character-xws": "geminate",
+    "assetno": "160"
   },
   {
     "name": "smoldering hatred",
-    "points": 1468,
+    "points": 1734,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-smoldering-hatred.png",
     "xws": "smolderinghatred",
     "level": "x",
     "initiative": "32",
-    "cardno": "167",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "167"
+  },
+  {
+    "name": "167",
+    "points": 1735,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-smoldering-hatred.png",
+    "xws": "smolderinghatred",
+    "level": "x",
+    "initiative": "32",
+    "character-xws": "geminate",
+    "assetno": "167"
   },
   {
     "name": "thresh and flail",
-    "points": 1469,
+    "points": 1736,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-thresh-and-flail.png",
     "xws": "threshandflail",
     "level": "4",
     "initiative": "43",
-    "cardno": "173",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "173"
+  },
+  {
+    "name": "173",
+    "points": 1737,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-thresh-and-flail.png",
+    "xws": "threshandflail",
+    "level": "4",
+    "initiative": "43",
+    "character-xws": "geminate",
+    "assetno": "173"
   },
   {
     "name": "two-pronged entrapment",
-    "points": 1470,
+    "points": 1738,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-two-pronged-entrapment.png",
     "xws": "twoprongedentrapment",
     "level": "7",
     "initiative": "21",
-    "cardno": "179",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "179"
+  },
+  {
+    "name": "179",
+    "points": 1739,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-two-pronged-entrapment.png",
+    "xws": "twoprongedentrapment",
+    "level": "7",
+    "initiative": "21",
+    "character-xws": "geminate",
+    "assetno": "179"
   },
   {
     "name": "venomous barbs",
-    "points": 1471,
+    "points": 1740,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-venomous-barbs.png",
     "xws": "venomousbarbs",
     "level": "2",
     "initiative": "17",
-    "cardno": "169",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "169"
+  },
+  {
+    "name": "169",
+    "points": 1741,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ge/fh-venomous-barbs.png",
+    "xws": "venomousbarbs",
+    "level": "2",
+    "initiative": "17",
+    "character-xws": "geminate",
+    "assetno": "169"
   },
   {
     "name": "voice of salvation",
-    "points": 1472,
+    "points": 1742,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ge/fh-voice-of-salvation.png",
     "xws": "voiceofsalvation",
     "level": "9",
     "initiative": "39",
-    "cardno": "184",
-    "character-xws": "geminate"
+    "character-xws": "geminate",
+    "assetno": "184"
   },
   {
-    "name": "hv-back",
-    "points": 1473,
+    "name": "184",
+    "points": 1743,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/hv/fh-hv-back.png",
-    "xws": "hvback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "hive"
+    "image": "character-ability-cards/frosthaven/ge/fh-voice-of-salvation.png",
+    "xws": "voiceofsalvation",
+    "level": "9",
+    "initiative": "39",
+    "character-xws": "geminate",
+    "assetno": "184"
   },
   {
     "name": "aimed assault",
-    "points": 1474,
+    "points": 1744,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-aimed-assault.png",
     "xws": "aimedassault",
     "level": "1",
     "initiative": "88",
-    "cardno": "391",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "391"
+  },
+  {
+    "name": "391",
+    "points": 1745,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-aimed-assault.png",
+    "xws": "aimedassault",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "hive",
+    "assetno": "391"
   },
   {
     "name": "sniper turret",
-    "points": 1475,
+    "points": 1746,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-aimed-assault.png",
-    "xws": "aimedassault",
+    "xws": "sniperturret",
     "level": "1",
     "initiative": "88",
-    "cardno": "391",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "391"
   },
   {
     "name": "burning slash",
-    "points": 1476,
+    "points": 1747,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-burning-slash.png",
     "xws": "burningslash",
     "level": "8",
     "initiative": "29",
-    "cardno": "414",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "414"
+  },
+  {
+    "name": "414",
+    "points": 1748,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-burning-slash.png",
+    "xws": "burningslash",
+    "level": "8",
+    "initiative": "29",
+    "character-xws": "hive",
+    "assetno": "414"
   },
   {
     "name": "code geminate",
-    "points": 1477,
+    "points": 1749,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-code-geminate.png",
     "xws": "codegeminate",
     "level": "5",
     "initiative": "28",
-    "cardno": "408",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "408"
+  },
+  {
+    "name": "408",
+    "points": 1750,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-code-geminate.png",
+    "xws": "codegeminate",
+    "level": "5",
+    "initiative": "28",
+    "character-xws": "hive",
+    "assetno": "408"
   },
   {
     "name": "coiled limbs",
-    "points": 1478,
+    "points": 1751,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-coiled-limbs.png",
     "xws": "coiledlimbs",
     "level": "1",
     "initiative": "82",
-    "cardno": "390",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "390"
+  },
+  {
+    "name": "390",
+    "points": 1752,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-coiled-limbs.png",
+    "xws": "coiledlimbs",
+    "level": "1",
+    "initiative": "82",
+    "character-xws": "hive",
+    "assetno": "390"
   },
   {
     "name": "leaper",
-    "points": 1479,
+    "points": 1753,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-coiled-limbs.png",
-    "xws": "coiledlimbs",
+    "xws": "leaper",
     "level": "1",
     "initiative": "82",
-    "cardno": "390",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "390"
   },
   {
     "name": "disassemble",
-    "points": 1480,
+    "points": 1754,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-disassemble.png",
     "xws": "disassemble",
     "level": "9",
     "initiative": "20",
-    "cardno": "416",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "416"
+  },
+  {
+    "name": "416",
+    "points": 1755,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-disassemble.png",
+    "xws": "disassemble",
+    "level": "9",
+    "initiative": "20",
+    "character-xws": "hive",
+    "assetno": "416"
   },
   {
     "name": "divergent destruction",
-    "points": 1481,
+    "points": 1756,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-divergent-destruction.png",
     "xws": "divergentdestruction",
     "level": "4",
     "initiative": "22",
-    "cardno": "406",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "406"
+  },
+  {
+    "name": "406",
+    "points": 1757,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-divergent-destruction.png",
+    "xws": "divergentdestruction",
+    "level": "4",
+    "initiative": "22",
+    "character-xws": "hive",
+    "assetno": "406"
   },
   {
     "name": "faceless entity",
-    "points": 1482,
+    "points": 1758,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-faceless-entity.png",
     "xws": "facelessentity",
     "level": "1",
     "initiative": "12",
-    "cardno": "393",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "393"
+  },
+  {
+    "name": "393",
+    "points": 1759,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-faceless-entity.png",
+    "xws": "facelessentity",
+    "level": "1",
+    "initiative": "12",
+    "character-xws": "hive",
+    "assetno": "393"
   },
   {
     "name": "force field",
-    "points": 1483,
+    "points": 1760,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-force-field.png",
     "xws": "forcefield",
     "level": "2",
     "initiative": "78",
-    "cardno": "401",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "401"
+  },
+  {
+    "name": "401",
+    "points": 1761,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-force-field.png",
+    "xws": "forcefield",
+    "level": "2",
+    "initiative": "78",
+    "character-xws": "hive",
+    "assetno": "401"
   },
   {
     "name": "dampening unit",
-    "points": 1484,
+    "points": 1762,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-force-field.png",
-    "xws": "forcefield",
+    "xws": "dampeningunit",
     "level": "2",
     "initiative": "78",
-    "cardno": "401",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "401"
   },
   {
     "name": "heavy metal",
-    "points": 1485,
+    "points": 1763,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-heavy-metal.png",
     "xws": "heavymetal",
     "level": "9",
     "initiative": "76",
-    "cardno": "415",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "415"
   },
   {
-    "name": "sledge driver",
-    "points": 1486,
+    "name": "415",
+    "points": 1764,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-heavy-metal.png",
     "xws": "heavymetal",
     "level": "9",
     "initiative": "76",
-    "cardno": "415",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "415"
+  },
+  {
+    "name": "seldge driver",
+    "points": 1765,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-heavy-metal.png",
+    "xws": "seldgedriver",
+    "level": "9",
+    "initiative": "76",
+    "character-xws": "hive",
+    "assetno": "415"
   },
   {
     "name": "high impact projectiles",
-    "points": 1487,
+    "points": 1766,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-high-impact-projectiles.png",
     "xws": "highimpactprojectiles",
     "level": "1",
     "initiative": "16",
-    "cardno": "396",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "396"
+  },
+  {
+    "name": "396",
+    "points": 1767,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-high-impact-projectiles.png",
+    "xws": "highimpactprojectiles",
+    "level": "1",
+    "initiative": "16",
+    "character-xws": "hive",
+    "assetno": "396"
   },
   {
     "name": "hijack",
-    "points": 1488,
+    "points": 1768,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-hijack.png",
     "xws": "hijack",
     "level": "3",
     "initiative": "40",
-    "cardno": "404",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "404"
+  },
+  {
+    "name": "404",
+    "points": 1769,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-hijack.png",
+    "xws": "hijack",
+    "level": "3",
+    "initiative": "40",
+    "character-xws": "hive",
+    "assetno": "404"
   },
   {
     "name": "hunter-killer",
-    "points": 1489,
+    "points": 1770,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-hunter-killer.png",
     "xws": "hunterkiller",
     "level": "1",
     "initiative": "84",
-    "cardno": "389",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "389"
+  },
+  {
+    "name": "389",
+    "points": 1771,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-hunter-killer.png",
+    "xws": "hunterkiller",
+    "level": "1",
+    "initiative": "84",
+    "character-xws": "hive",
+    "assetno": "389"
   },
   {
     "name": "jackal mech",
-    "points": 1490,
+    "points": 1772,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-hunter-killer.png",
-    "xws": "hunterkiller",
+    "xws": "jackalmech",
     "level": "1",
     "initiative": "84",
-    "cardno": "389",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "389"
+  },
+  {
+    "name": "hv-back",
+    "points": 1773,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-hv-back.png",
+    "xws": "hvback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "hive",
+    "assetno": "###"
   },
   {
     "name": "interference",
-    "points": 1491,
+    "points": 1774,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-interference.png",
     "xws": "interference",
     "level": "1",
     "initiative": "21",
-    "cardno": "397",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "397"
+  },
+  {
+    "name": "397",
+    "points": 1775,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-interference.png",
+    "xws": "interference",
+    "level": "1",
+    "initiative": "21",
+    "character-xws": "hive",
+    "assetno": "397"
   },
   {
     "name": "launch pod",
-    "points": 1492,
+    "points": 1776,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-launch-pod.png",
     "xws": "launchpod",
     "level": "1",
     "initiative": "77",
-    "cardno": "392",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "392"
+  },
+  {
+    "name": "392",
+    "points": 1777,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-launch-pod.png",
+    "xws": "launchpod",
+    "level": "1",
+    "initiative": "77",
+    "character-xws": "hive",
+    "assetno": "392"
   },
   {
     "name": "long-range missile",
-    "points": 1493,
+    "points": 1778,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-long-range-missile.png",
     "xws": "longrangemissile",
     "level": "2",
     "initiative": "19",
-    "cardno": "402",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "402"
+  },
+  {
+    "name": "402",
+    "points": 1779,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-long-range-missile.png",
+    "xws": "longrangemissile",
+    "level": "2",
+    "initiative": "19",
+    "character-xws": "hive",
+    "assetno": "402"
   },
   {
     "name": "mortar shells",
-    "points": 1494,
+    "points": 1780,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-mortar-shells.png",
     "xws": "mortarshells",
     "level": "7",
     "initiative": "85",
-    "cardno": "411",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "411"
+  },
+  {
+    "name": "411",
+    "points": 1781,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-mortar-shells.png",
+    "xws": "mortarshells",
+    "level": "7",
+    "initiative": "85",
+    "character-xws": "hive",
+    "assetno": "411"
   },
   {
     "name": "bombardier",
-    "points": 1495,
+    "points": 1782,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-mortar-shells.png",
-    "xws": "mortarshells",
+    "xws": "bombardier",
     "level": "7",
     "initiative": "85",
-    "cardno": "411",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "411"
   },
   {
     "name": "net dispersal",
-    "points": 1496,
+    "points": 1783,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-net-dispersal.png",
     "xws": "netdispersal",
     "level": "5",
     "initiative": "94",
-    "cardno": "407",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "407"
+  },
+  {
+    "name": "407",
+    "points": 1784,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-net-dispersal.png",
+    "xws": "netdispersal",
+    "level": "5",
+    "initiative": "94",
+    "character-xws": "hive",
+    "assetno": "407"
   },
   {
     "name": "trapping unit",
-    "points": 1497,
+    "points": 1785,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-net-dispersal.png",
-    "xws": "netdispersal",
+    "xws": "trappingunit",
     "level": "5",
     "initiative": "94",
-    "cardno": "407",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "407"
   },
   {
     "name": "plague protocol",
-    "points": 1498,
+    "points": 1786,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-plague-protocol.png",
     "xws": "plagueprotocol",
     "level": "4",
     "initiative": "98",
-    "cardno": "405",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "405"
+  },
+  {
+    "name": "405",
+    "points": 1787,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-plague-protocol.png",
+    "xws": "plagueprotocol",
+    "level": "4",
+    "initiative": "98",
+    "character-xws": "hive",
+    "assetno": "405"
   },
   {
     "name": "toxin distributor",
-    "points": 1499,
+    "points": 1788,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-plague-protocol.png",
-    "xws": "plagueprotocol",
+    "xws": "toxindistributor",
     "level": "4",
     "initiative": "98",
-    "cardno": "405",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "405"
   },
   {
     "name": "plated defense",
-    "points": 1500,
+    "points": 1789,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-plated-defense.png",
     "xws": "plateddefense",
     "level": "1",
     "initiative": "80",
-    "cardno": "387",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "387"
+  },
+  {
+    "name": "387",
+    "points": 1790,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-plated-defense.png",
+    "xws": "plateddefense",
+    "level": "1",
+    "initiative": "80",
+    "character-xws": "hive",
+    "assetno": "387"
   },
   {
     "name": "armored tank",
-    "points": 1501,
+    "points": 1791,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-plated-defense.png",
-    "xws": "plateddefense",
+    "xws": "armoredtank",
     "level": "1",
     "initiative": "80",
-    "cardno": "387",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "387"
   },
   {
     "name": "prepare for deployment",
-    "points": 1502,
+    "points": 1792,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-prepare-for-deployment.png",
     "xws": "preparefordeployment",
     "level": "1",
     "initiative": "64",
-    "cardno": "394",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "394"
+  },
+  {
+    "name": "394",
+    "points": 1793,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-prepare-for-deployment.png",
+    "xws": "preparefordeployment",
+    "level": "1",
+    "initiative": "64",
+    "character-xws": "hive",
+    "assetno": "394"
   },
   {
     "name": "rapid fire",
-    "points": 1503,
+    "points": 1794,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-rapid-fire.png",
     "xws": "rapidfire",
     "level": "3",
     "initiative": "92",
-    "cardno": "403",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "403"
+  },
+  {
+    "name": "403",
+    "points": 1795,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-rapid-fire.png",
+    "xws": "rapidfire",
+    "level": "3",
+    "initiative": "92",
+    "character-xws": "hive",
+    "assetno": "403"
   },
   {
     "name": "machine bolter",
-    "points": 1504,
+    "points": 1796,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-rapid-fire.png",
-    "xws": "rapidfire",
+    "xws": "machinebolter",
     "level": "3",
     "initiative": "92",
-    "cardno": "403",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "403"
   },
   {
     "name": "reaper function",
-    "points": 1505,
+    "points": 1797,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-reaper-function.png",
     "xws": "reaperfunction",
     "level": "1",
     "initiative": "32",
-    "cardno": "395",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "395"
+  },
+  {
+    "name": "395",
+    "points": 1798,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-reaper-function.png",
+    "xws": "reaperfunction",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "hive",
+    "assetno": "395"
   },
   {
     "name": "reassemble",
-    "points": 1506,
+    "points": 1799,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-reassemble.png",
     "xws": "reassemble",
     "level": "x",
     "initiative": "27",
-    "cardno": "400",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "400"
+  },
+  {
+    "name": "400",
+    "points": 1800,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-reassemble.png",
+    "xws": "reassemble",
+    "level": "x",
+    "initiative": "27",
+    "character-xws": "hive",
+    "assetno": "400"
   },
   {
     "name": "recall",
-    "points": 1507,
+    "points": 1801,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-recall.png",
     "xws": "recall",
     "level": "7",
     "initiative": "91",
-    "cardno": "412",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "412"
+  },
+  {
+    "name": "412",
+    "points": 1802,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-recall.png",
+    "xws": "recall",
+    "level": "7",
+    "initiative": "91",
+    "character-xws": "hive",
+    "assetno": "412"
   },
   {
     "name": "reconstructive aid",
-    "points": 1508,
+    "points": 1803,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-reconstructive-aid.png",
     "xws": "reconstructiveaid",
     "level": "1",
     "initiative": "90",
-    "cardno": "388",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "388"
+  },
+  {
+    "name": "388",
+    "points": 1804,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-reconstructive-aid.png",
+    "xws": "reconstructiveaid",
+    "level": "1",
+    "initiative": "90",
+    "character-xws": "hive",
+    "assetno": "388"
   },
   {
     "name": "repair drone",
-    "points": 1509,
+    "points": 1805,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-reconstructive-aid.png",
-    "xws": "reconstructiveaid",
+    "xws": "repairdrone",
     "level": "1",
     "initiative": "90",
-    "cardno": "388",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "388"
   },
   {
     "name": "remote control",
-    "points": 1510,
+    "points": 1806,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-remote-control.png",
     "xws": "remotecontrol",
     "level": "x",
     "initiative": "48",
-    "cardno": "399",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "399"
+  },
+  {
+    "name": "399",
+    "points": 1807,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-remote-control.png",
+    "xws": "remotecontrol",
+    "level": "x",
+    "initiative": "48",
+    "character-xws": "hive",
+    "assetno": "399"
   },
   {
     "name": "shocking pulse",
-    "points": 1511,
+    "points": 1808,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-shocking-pulse.png",
     "xws": "shockingpulse",
     "level": "x",
     "initiative": "86",
-    "cardno": "398",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "398"
   },
   {
-    "name": "arcing generator",
-    "points": 1512,
+    "name": "398",
+    "points": 1809,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-shocking-pulse.png",
     "xws": "shockingpulse",
     "level": "x",
     "initiative": "86",
-    "cardno": "398",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "398"
+  },
+  {
+    "name": "acring generator",
+    "points": 1810,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-shocking-pulse.png",
+    "xws": "acringgenerator",
+    "level": "x",
+    "initiative": "86",
+    "character-xws": "hive",
+    "assetno": "398"
   },
   {
     "name": "spinning blades",
-    "points": 1513,
+    "points": 1811,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-spinning-blades.png",
     "xws": "spinningblades",
     "level": "6",
     "initiative": "79",
-    "cardno": "409",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "409"
+  },
+  {
+    "name": "409",
+    "points": 1812,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-spinning-blades.png",
+    "xws": "spinningblades",
+    "level": "6",
+    "initiative": "79",
+    "character-xws": "hive",
+    "assetno": "409"
   },
   {
     "name": "sword propeller",
-    "points": 1514,
+    "points": 1813,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-spinning-blades.png",
-    "xws": "spinningblades",
+    "xws": "swordpropeller",
     "level": "6",
     "initiative": "79",
-    "cardno": "409",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "409"
   },
   {
     "name": "swarming bulwark",
-    "points": 1515,
+    "points": 1814,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-swarming-bulwark.png",
     "xws": "swarmingbulwark",
     "level": "8",
     "initiative": "96",
-    "cardno": "413",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "413"
+  },
+  {
+    "name": "413",
+    "points": 1815,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/hv/fh-swarming-bulwark.png",
+    "xws": "swarmingbulwark",
+    "level": "8",
+    "initiative": "96",
+    "character-xws": "hive",
+    "assetno": "413"
   },
   {
     "name": "shield spider",
-    "points": 1516,
+    "points": 1816,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-swarming-bulwark.png",
-    "xws": "swarmingbulwark",
+    "xws": "shieldspider",
     "level": "8",
     "initiative": "96",
-    "cardno": "413",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "413"
   },
   {
     "name": "triage program",
-    "points": 1517,
+    "points": 1817,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/hv/fh-triage-program.png",
     "xws": "triageprogram",
     "level": "6",
     "initiative": "13",
-    "cardno": "410",
-    "character-xws": "hive"
+    "character-xws": "hive",
+    "assetno": "410"
   },
   {
-    "name": "if-back",
-    "points": 1518,
+    "name": "410",
+    "points": 1818,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/if/fh-if-back.png",
-    "xws": "ifback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "infuser"
+    "image": "character-ability-cards/frosthaven/hv/fh-triage-program.png",
+    "xws": "triageprogram",
+    "level": "6",
+    "initiative": "13",
+    "character-xws": "hive",
+    "assetno": "410"
   },
   {
     "name": "ancient rites of power",
-    "points": 1519,
+    "points": 1819,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-ancient-rites-of-power.png",
     "xws": "ancientritesofpower",
     "level": "9",
     "initiative": "94",
-    "cardno": "213",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "213"
+  },
+  {
+    "name": "213",
+    "points": 1820,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-ancient-rites-of-power.png",
+    "xws": "ancientritesofpower",
+    "level": "9",
+    "initiative": "94",
+    "character-xws": "infuser",
+    "assetno": "213"
   },
   {
     "name": "battle prowess",
-    "points": 1520,
+    "points": 1821,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-battle-prowess.png",
     "xws": "battleprowess",
     "level": "x",
     "initiative": "78",
-    "cardno": "197",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "197"
+  },
+  {
+    "name": "197",
+    "points": 1822,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-battle-prowess.png",
+    "xws": "battleprowess",
+    "level": "x",
+    "initiative": "78",
+    "character-xws": "infuser",
+    "assetno": "197"
   },
   {
     "name": "boon of the tempest",
-    "points": 1521,
+    "points": 1823,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-boon-of-the-tempest.png",
     "xws": "boonofthetempest",
     "level": "1",
     "initiative": "28",
-    "cardno": "185",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "185"
+  },
+  {
+    "name": "185",
+    "points": 1824,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-boon-of-the-tempest.png",
+    "xws": "boonofthetempest",
+    "level": "1",
+    "initiative": "28",
+    "character-xws": "infuser",
+    "assetno": "185"
   },
   {
     "name": "bounty of the earth",
-    "points": 1522,
+    "points": 1825,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-bounty-of-the-earth.png",
     "xws": "bountyoftheearth",
     "level": "1",
     "initiative": "23",
-    "cardno": "186",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "186"
+  },
+  {
+    "name": "186",
+    "points": 1826,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-bounty-of-the-earth.png",
+    "xws": "bountyoftheearth",
+    "level": "1",
+    "initiative": "23",
+    "character-xws": "infuser",
+    "assetno": "186"
   },
   {
     "name": "caress of the night",
-    "points": 1523,
+    "points": 1827,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-caress-of-the-night.png",
     "xws": "caressofthenight",
     "level": "1",
     "initiative": "87",
-    "cardno": "187",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "187"
+  },
+  {
+    "name": "187",
+    "points": 1828,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-caress-of-the-night.png",
+    "xws": "caressofthenight",
+    "level": "1",
+    "initiative": "87",
+    "character-xws": "infuser",
+    "assetno": "187"
   },
   {
     "name": "coalescing darkness",
-    "points": 1524,
+    "points": 1829,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-coalescing-darkness.png",
     "xws": "coalescingdarkness",
     "level": "4",
     "initiative": "85",
-    "cardno": "203",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "203"
+  },
+  {
+    "name": "203",
+    "points": 1830,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-coalescing-darkness.png",
+    "xws": "coalescingdarkness",
+    "level": "4",
+    "initiative": "85",
+    "character-xws": "infuser",
+    "assetno": "203"
   },
   {
     "name": "crystalline aegis",
-    "points": 1525,
+    "points": 1831,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-crystalline-aegis.png",
     "xws": "crystallineaegis",
     "level": "x",
     "initiative": "17",
-    "cardno": "198",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "198"
+  },
+  {
+    "name": "198",
+    "points": 1832,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-crystalline-aegis.png",
+    "xws": "crystallineaegis",
+    "level": "x",
+    "initiative": "17",
+    "character-xws": "infuser",
+    "assetno": "198"
   },
   {
     "name": "desperate throw",
-    "points": 1526,
+    "points": 1833,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-desperate-throw.png",
     "xws": "desperatethrow",
     "level": "4",
     "initiative": "16",
-    "cardno": "204",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "204"
+  },
+  {
+    "name": "204",
+    "points": 1834,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-desperate-throw.png",
+    "xws": "desperatethrow",
+    "level": "4",
+    "initiative": "16",
+    "character-xws": "infuser",
+    "assetno": "204"
   },
   {
     "name": "diamondization",
-    "points": 1527,
+    "points": 1835,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-diamondization.png",
     "xws": "diamondization",
     "level": "7",
     "initiative": "10",
-    "cardno": "209",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "209"
+  },
+  {
+    "name": "209",
+    "points": 1836,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-diamondization.png",
+    "xws": "diamondization",
+    "level": "7",
+    "initiative": "10",
+    "character-xws": "infuser",
+    "assetno": "209"
   },
   {
     "name": "emerald edge",
-    "points": 1528,
+    "points": 1837,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-emerald-edge.png",
     "xws": "emeraldedge",
     "level": "1",
     "initiative": "70",
-    "cardno": "189",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "189"
+  },
+  {
+    "name": "189",
+    "points": 1838,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-emerald-edge.png",
+    "xws": "emeraldedge",
+    "level": "1",
+    "initiative": "70",
+    "character-xws": "infuser",
+    "assetno": "189"
   },
   {
     "name": "formless bladestorm",
-    "points": 1529,
+    "points": 1839,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-formless-bladestorm.png",
     "xws": "formlessbladestorm",
     "level": "1",
     "initiative": "33",
-    "cardno": "188",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "188"
+  },
+  {
+    "name": "188",
+    "points": 1840,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-formless-bladestorm.png",
+    "xws": "formlessbladestorm",
+    "level": "1",
+    "initiative": "33",
+    "character-xws": "infuser",
+    "assetno": "188"
   },
   {
     "name": "gale barrage",
-    "points": 1530,
+    "points": 1841,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-gale-barrage.png",
     "xws": "galebarrage",
     "level": "6",
     "initiative": "44",
-    "cardno": "208",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "208"
+  },
+  {
+    "name": "208",
+    "points": 1842,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-gale-barrage.png",
+    "xws": "galebarrage",
+    "level": "6",
+    "initiative": "44",
+    "character-xws": "infuser",
+    "assetno": "208"
   },
   {
     "name": "gemstone resonance",
-    "points": 1531,
+    "points": 1843,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-gemstone-resonance.png",
     "xws": "gemstoneresonance",
     "level": "5",
     "initiative": "30",
-    "cardno": "205",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "205"
+  },
+  {
+    "name": "205",
+    "points": 1844,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-gemstone-resonance.png",
+    "xws": "gemstoneresonance",
+    "level": "5",
+    "initiative": "30",
+    "character-xws": "infuser",
+    "assetno": "205"
   },
   {
     "name": "guide the flow",
-    "points": 1532,
+    "points": 1845,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-guide-the-flow.png",
     "xws": "guidetheflow",
     "level": "3",
     "initiative": "35",
-    "cardno": "202",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "202"
+  },
+  {
+    "name": "202",
+    "points": 1846,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-guide-the-flow.png",
+    "xws": "guidetheflow",
+    "level": "3",
+    "initiative": "35",
+    "character-xws": "infuser",
+    "assetno": "202"
+  },
+  {
+    "name": "if-back",
+    "points": 1847,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-if-back.png",
+    "xws": "ifback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "infuser",
+    "assetno": "###"
   },
   {
     "name": "imbue with life",
-    "points": 1533,
+    "points": 1848,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-imbue-with-life.png",
     "xws": "imbuewithlife",
     "level": "x",
     "initiative": "42",
-    "cardno": "196",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "196"
+  },
+  {
+    "name": "196",
+    "points": 1849,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-imbue-with-life.png",
+    "xws": "imbuewithlife",
+    "level": "x",
+    "initiative": "42",
+    "character-xws": "infuser",
+    "assetno": "196"
   },
   {
     "name": "animated claymore",
-    "points": 1534,
+    "points": 1850,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-imbue-with-life.png",
-    "xws": "imbuewithlife",
+    "xws": "animatedclaymore",
     "level": "x",
     "initiative": "42",
-    "cardno": "196",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "196"
   },
   {
     "name": "malachite shockwave",
-    "points": 1535,
+    "points": 1851,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-malachite-shockwave.png",
     "xws": "malachiteshockwave",
     "level": "7",
     "initiative": "68",
-    "cardno": "210",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "210"
+  },
+  {
+    "name": "210",
+    "points": 1852,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-malachite-shockwave.png",
+    "xws": "malachiteshockwave",
+    "level": "7",
+    "initiative": "68",
+    "character-xws": "infuser",
+    "assetno": "210"
   },
   {
     "name": "obsidian spear",
-    "points": 1536,
+    "points": 1853,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-obsidian-spear.png",
     "xws": "obsidianspear",
     "level": "5",
     "initiative": "84",
-    "cardno": "206",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "206"
+  },
+  {
+    "name": "206",
+    "points": 1854,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-obsidian-spear.png",
+    "xws": "obsidianspear",
+    "level": "5",
+    "initiative": "84",
+    "character-xws": "infuser",
+    "assetno": "206"
   },
   {
     "name": "onyx shards",
-    "points": 1537,
+    "points": 1855,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-onyx-shards.png",
     "xws": "onyxshards",
     "level": "1",
     "initiative": "20",
-    "cardno": "191",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "191"
+  },
+  {
+    "name": "191",
+    "points": 1856,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-onyx-shards.png",
+    "xws": "onyxshards",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "infuser",
+    "assetno": "191"
   },
   {
     "name": "propulsive tailwind",
-    "points": 1538,
+    "points": 1857,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-propulsive-tailwind.png",
     "xws": "propulsivetailwind",
     "level": "6",
     "initiative": "91",
-    "cardno": "207",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "207"
+  },
+  {
+    "name": "207",
+    "points": 1858,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-propulsive-tailwind.png",
+    "xws": "propulsivetailwind",
+    "level": "6",
+    "initiative": "91",
+    "character-xws": "infuser",
+    "assetno": "207"
   },
   {
     "name": "reinforced riposte",
-    "points": 1539,
+    "points": 1859,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-reinforced-riposte.png",
     "xws": "reinforcedriposte",
     "level": "3",
     "initiative": "18",
-    "cardno": "201",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "201"
+  },
+  {
+    "name": "201",
+    "points": 1860,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-reinforced-riposte.png",
+    "xws": "reinforcedriposte",
+    "level": "3",
+    "initiative": "18",
+    "character-xws": "infuser",
+    "assetno": "201"
   },
   {
     "name": "remote impact",
-    "points": 1540,
+    "points": 1861,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-remote-impact.png",
     "xws": "remoteimpact",
     "level": "2",
     "initiative": "72",
-    "cardno": "200",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "200"
+  },
+  {
+    "name": "200",
+    "points": 1862,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-remote-impact.png",
+    "xws": "remoteimpact",
+    "level": "2",
+    "initiative": "72",
+    "character-xws": "infuser",
+    "assetno": "200"
   },
   {
     "name": "rising momentum",
-    "points": 1541,
+    "points": 1863,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-rising-momentum.png",
     "xws": "risingmomentum",
     "level": "1",
     "initiative": "25",
-    "cardno": "194",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "194"
+  },
+  {
+    "name": "194",
+    "points": 1864,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-rising-momentum.png",
+    "xws": "risingmomentum",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "infuser",
+    "assetno": "194"
   },
   {
     "name": "sky-splitting strike",
-    "points": 1542,
+    "points": 1865,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-sky-splitting-strike.png",
     "xws": "skysplittingstrike",
     "level": "9",
     "initiative": "50",
-    "cardno": "214",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "214"
+  },
+  {
+    "name": "214",
+    "points": 1866,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-sky-splitting-strike.png",
+    "xws": "skysplittingstrike",
+    "level": "9",
+    "initiative": "50",
+    "character-xws": "infuser",
+    "assetno": "214"
   },
   {
     "name": "slashing cyclone",
-    "points": 1543,
+    "points": 1867,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-slashing-cyclone.png",
     "xws": "slashingcyclone",
     "level": "1",
     "initiative": "14",
-    "cardno": "193",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "193"
+  },
+  {
+    "name": "193",
+    "points": 1868,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-slashing-cyclone.png",
+    "xws": "slashingcyclone",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "infuser",
+    "assetno": "193"
   },
   {
     "name": "stoic vigilance",
-    "points": 1544,
+    "points": 1869,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-stoic-vigilance.png",
     "xws": "stoicvigilance",
     "level": "1",
     "initiative": "12",
-    "cardno": "195",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "195"
+  },
+  {
+    "name": "195",
+    "points": 1870,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-stoic-vigilance.png",
+    "xws": "stoicvigilance",
+    "level": "1",
+    "initiative": "12",
+    "character-xws": "infuser",
+    "assetno": "195"
   },
   {
     "name": "swift pivot",
-    "points": 1545,
+    "points": 1871,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-swift-pivot.png",
     "xws": "swiftpivot",
     "level": "8",
     "initiative": "08",
-    "cardno": "212",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "212"
+  },
+  {
+    "name": "212",
+    "points": 1872,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-swift-pivot.png",
+    "xws": "swiftpivot",
+    "level": "8",
+    "initiative": "08",
+    "character-xws": "infuser",
+    "assetno": "212"
   },
   {
     "name": "torrential cleave",
-    "points": 1546,
+    "points": 1873,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-torrential-cleave.png",
     "xws": "torrentialcleave",
     "level": "1",
     "initiative": "83",
-    "cardno": "190",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "190"
+  },
+  {
+    "name": "190",
+    "points": 1874,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-torrential-cleave.png",
+    "xws": "torrentialcleave",
+    "level": "1",
+    "initiative": "83",
+    "character-xws": "infuser",
+    "assetno": "190"
   },
   {
     "name": "unstoppable impulse",
-    "points": 1547,
+    "points": 1875,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-unstoppable-impulse.png",
     "xws": "unstoppableimpulse",
     "level": "1",
     "initiative": "56",
-    "cardno": "192",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "192"
+  },
+  {
+    "name": "192",
+    "points": 1876,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-unstoppable-impulse.png",
+    "xws": "unstoppableimpulse",
+    "level": "1",
+    "initiative": "56",
+    "character-xws": "infuser",
+    "assetno": "192"
   },
   {
     "name": "untether the shackles",
-    "points": 1548,
+    "points": 1877,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-untether-the-shackles.png",
     "xws": "untethertheshackles",
     "level": "8",
     "initiative": "61",
-    "cardno": "211",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "211"
+  },
+  {
+    "name": "211",
+    "points": 1878,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/if/fh-untether-the-shackles.png",
+    "xws": "untethertheshackles",
+    "level": "8",
+    "initiative": "61",
+    "character-xws": "infuser",
+    "assetno": "211"
   },
   {
     "name": "spiritbound falchion",
-    "points": 1549,
+    "points": 1879,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-untether-the-shackles.png",
-    "xws": "untethertheshackles",
+    "xws": "spiritboundfalchion",
     "level": "8",
     "initiative": "61",
-    "cardno": "211",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "211"
   },
   {
     "name": "veil of protection",
-    "points": 1550,
+    "points": 1880,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/if/fh-veil-of-protection.png",
     "xws": "veilofprotection",
     "level": "2",
     "initiative": "47",
-    "cardno": "199",
-    "character-xws": "infuser"
+    "character-xws": "infuser",
+    "assetno": "199"
   },
   {
-    "name": "me-back",
-    "points": 1551,
+    "name": "199",
+    "points": 1881,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/me/fh-me-back.png",
-    "xws": "meback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "metal mosaic"
+    "image": "character-ability-cards/frosthaven/if/fh-veil-of-protection.png",
+    "xws": "veilofprotection",
+    "level": "2",
+    "initiative": "47",
+    "character-xws": "infuser",
+    "assetno": "199"
   },
   {
     "name": "ancient drill",
-    "points": 1552,
+    "points": 1882,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-ancient-drill.png",
     "xws": "ancientdrill",
     "level": "1",
     "initiative": "90",
-    "cardno": "418",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "418"
+  },
+  {
+    "name": "418",
+    "points": 1883,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-ancient-drill.png",
+    "xws": "ancientdrill",
+    "level": "1",
+    "initiative": "90",
+    "character-xws": "metal mosaic",
+    "assetno": "418"
   },
   {
     "name": "beam axe",
-    "points": 1553,
+    "points": 1884,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-beam-axe.png",
     "xws": "beamaxe",
     "level": "1",
     "initiative": "29",
-    "cardno": "423",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "423"
+  },
+  {
+    "name": "423",
+    "points": 1885,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-beam-axe.png",
+    "xws": "beamaxe",
+    "level": "1",
+    "initiative": "29",
+    "character-xws": "metal mosaic",
+    "assetno": "423"
   },
   {
     "name": "bronze plating",
-    "points": 1554,
+    "points": 1886,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-bronze-plating.png",
     "xws": "bronzeplating",
     "level": "2",
     "initiative": "18",
-    "cardno": "430",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "430"
+  },
+  {
+    "name": "430",
+    "points": 1887,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-bronze-plating.png",
+    "xws": "bronzeplating",
+    "level": "2",
+    "initiative": "18",
+    "character-xws": "metal mosaic",
+    "assetno": "430"
   },
   {
     "name": "cryogenic hibernation",
-    "points": 1555,
+    "points": 1888,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-cryogenic-hibernation.png",
     "xws": "cryogenichibernation",
     "level": "7",
     "initiative": "19",
-    "cardno": "440",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "440"
+  },
+  {
+    "name": "440",
+    "points": 1889,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-cryogenic-hibernation.png",
+    "xws": "cryogenichibernation",
+    "level": "7",
+    "initiative": "19",
+    "character-xws": "metal mosaic",
+    "assetno": "440"
   },
   {
     "name": "curious gear",
-    "points": 1556,
+    "points": 1890,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-curious-gear.png",
     "xws": "curiousgear",
     "level": "x",
     "initiative": "12",
-    "cardno": "428",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "428"
+  },
+  {
+    "name": "428",
+    "points": 1891,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-curious-gear.png",
+    "xws": "curiousgear",
+    "level": "x",
+    "initiative": "12",
+    "character-xws": "metal mosaic",
+    "assetno": "428"
   },
   {
     "name": "curious machinery",
-    "points": 1557,
+    "points": 1892,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-curious-machinery.png",
     "xws": "curiousmachinery",
     "level": "8",
     "initiative": "11",
-    "cardno": "442",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "442"
+  },
+  {
+    "name": "442",
+    "points": 1893,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-curious-machinery.png",
+    "xws": "curiousmachinery",
+    "level": "8",
+    "initiative": "11",
+    "character-xws": "metal mosaic",
+    "assetno": "442"
   },
   {
     "name": "electrical discharge",
-    "points": 1558,
+    "points": 1894,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-electrical-discharge.png",
     "xws": "electricaldischarge",
     "level": "3",
     "initiative": "26",
-    "cardno": "432",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "432"
+  },
+  {
+    "name": "432",
+    "points": 1895,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-electrical-discharge.png",
+    "xws": "electricaldischarge",
+    "level": "3",
+    "initiative": "26",
+    "character-xws": "metal mosaic",
+    "assetno": "432"
   },
   {
     "name": "energy conversion",
-    "points": 1559,
+    "points": 1896,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-energy-conversion.png",
     "xws": "energyconversion",
     "level": "4",
     "initiative": "23",
-    "cardno": "433",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "433"
+  },
+  {
+    "name": "433",
+    "points": 1897,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-energy-conversion.png",
+    "xws": "energyconversion",
+    "level": "4",
+    "initiative": "23",
+    "character-xws": "metal mosaic",
+    "assetno": "433"
   },
   {
     "name": "heat conduction",
-    "points": 1560,
+    "points": 1898,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-heat-conduction.png",
     "xws": "heatconduction",
     "level": "5",
     "initiative": "11",
-    "cardno": "436",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "436"
+  },
+  {
+    "name": "436",
+    "points": 1899,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-heat-conduction.png",
+    "xws": "heatconduction",
+    "level": "5",
+    "initiative": "11",
+    "character-xws": "metal mosaic",
+    "assetno": "436"
   },
   {
     "name": "heated drill",
-    "points": 1561,
+    "points": 1900,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-heated-drill.png",
     "xws": "heateddrill",
     "level": "7",
     "initiative": "80",
-    "cardno": "439",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "439"
+  },
+  {
+    "name": "439",
+    "points": 1901,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-heated-drill.png",
+    "xws": "heateddrill",
+    "level": "7",
+    "initiative": "80",
+    "character-xws": "metal mosaic",
+    "assetno": "439"
   },
   {
     "name": "magnetic field",
-    "points": 1562,
+    "points": 1902,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-magnetic-field.png",
     "xws": "magneticfield",
     "level": "4",
     "initiative": "21",
-    "cardno": "434",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "434"
+  },
+  {
+    "name": "434",
+    "points": 1903,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-magnetic-field.png",
+    "xws": "magneticfield",
+    "level": "4",
+    "initiative": "21",
+    "character-xws": "metal mosaic",
+    "assetno": "434"
+  },
+  {
+    "name": "me-back",
+    "points": 1904,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-me-back.png",
+    "xws": "meback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "metal mosaic",
+    "assetno": "###"
   },
   {
     "name": "memory drive",
-    "points": 1563,
+    "points": 1905,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-memory-drive.png",
     "xws": "memorydrive",
     "level": "1",
     "initiative": "64",
-    "cardno": "424",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "424"
+  },
+  {
+    "name": "424",
+    "points": 1906,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-memory-drive.png",
+    "xws": "memorydrive",
+    "level": "1",
+    "initiative": "64",
+    "character-xws": "metal mosaic",
+    "assetno": "424"
   },
   {
     "name": "piston barrage",
-    "points": 1564,
+    "points": 1907,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-piston-barrage.png",
     "xws": "pistonbarrage",
     "level": "8",
     "initiative": "33",
-    "cardno": "441",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "441"
+  },
+  {
+    "name": "441",
+    "points": 1908,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-piston-barrage.png",
+    "xws": "pistonbarrage",
+    "level": "8",
+    "initiative": "33",
+    "character-xws": "metal mosaic",
+    "assetno": "441"
   },
   {
     "name": "polarity shift",
-    "points": 1565,
+    "points": 1909,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-polarity-shift.png",
     "xws": "polarityshift",
     "level": "9",
     "initiative": "79",
-    "cardno": "443",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "443"
+  },
+  {
+    "name": "443",
+    "points": 1910,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-polarity-shift.png",
+    "xws": "polarityshift",
+    "level": "9",
+    "initiative": "79",
+    "character-xws": "metal mosaic",
+    "assetno": "443"
   },
   {
     "name": "power core",
-    "points": 1566,
+    "points": 1911,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-power-core.png",
     "xws": "powercore",
     "level": "1",
     "initiative": "83",
-    "cardno": "420",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "420"
+  },
+  {
+    "name": "420",
+    "points": 1912,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-power-core.png",
+    "xws": "powercore",
+    "level": "1",
+    "initiative": "83",
+    "character-xws": "metal mosaic",
+    "assetno": "420"
   },
   {
     "name": "pressure build-up",
-    "points": 1567,
+    "points": 1913,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-pressure-build-up.png",
     "xws": "pressurebuildup",
     "level": "1",
     "initiative": "20",
-    "cardno": "422",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "422"
+  },
+  {
+    "name": "422",
+    "points": 1914,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-pressure-build-up.png",
+    "xws": "pressurebuildup",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "metal mosaic",
+    "assetno": "422"
   },
   {
     "name": "processing",
-    "points": 1568,
+    "points": 1915,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-processing.png",
     "xws": "processing",
     "level": "x",
     "initiative": "95",
-    "cardno": "426",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "426"
+  },
+  {
+    "name": "426",
+    "points": 1916,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-processing.png",
+    "xws": "processing",
+    "level": "x",
+    "initiative": "95",
+    "character-xws": "metal mosaic",
+    "assetno": "426"
   },
   {
     "name": "radiation",
-    "points": 1569,
+    "points": 1917,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-radiation.png",
     "xws": "radiation",
     "level": "5",
     "initiative": "37",
-    "cardno": "435",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "435"
+  },
+  {
+    "name": "435",
+    "points": 1918,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-radiation.png",
+    "xws": "radiation",
+    "level": "5",
+    "initiative": "37",
+    "character-xws": "metal mosaic",
+    "assetno": "435"
   },
   {
     "name": "recursion",
-    "points": 1570,
+    "points": 1919,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-recursion.png",
     "xws": "recursion",
     "level": "x",
     "initiative": "50",
-    "cardno": "427",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "427"
+  },
+  {
+    "name": "427",
+    "points": 1920,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-recursion.png",
+    "xws": "recursion",
+    "level": "x",
+    "initiative": "50",
+    "character-xws": "metal mosaic",
+    "assetno": "427"
   },
   {
     "name": "release valve",
-    "points": 1571,
+    "points": 1921,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-release-valve.png",
     "xws": "releasevalve",
     "level": "2",
     "initiative": "30",
-    "cardno": "429",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "429"
+  },
+  {
+    "name": "429",
+    "points": 1922,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-release-valve.png",
+    "xws": "releasevalve",
+    "level": "2",
+    "initiative": "30",
+    "character-xws": "metal mosaic",
+    "assetno": "429"
   },
   {
     "name": "rocket boots",
-    "points": 1572,
+    "points": 1923,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-rocket-boots.png",
     "xws": "rocketboots",
     "level": "1",
     "initiative": "22",
-    "cardno": "419",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "419"
+  },
+  {
+    "name": "419",
+    "points": 1924,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-rocket-boots.png",
+    "xws": "rocketboots",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "metal mosaic",
+    "assetno": "419"
   },
   {
     "name": "scalding blast",
-    "points": 1573,
+    "points": 1925,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-scalding-blast.png",
     "xws": "scaldingblast",
     "level": "6",
     "initiative": "45",
-    "cardno": "437",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "437"
+  },
+  {
+    "name": "437",
+    "points": 1926,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-scalding-blast.png",
+    "xws": "scaldingblast",
+    "level": "6",
+    "initiative": "45",
+    "character-xws": "metal mosaic",
+    "assetno": "437"
   },
   {
     "name": "steam armor",
-    "points": 1574,
+    "points": 1927,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-steam-armor.png",
     "xws": "steamarmor",
     "level": "1",
     "initiative": "17",
-    "cardno": "417",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "417"
+  },
+  {
+    "name": "417",
+    "points": 1928,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-steam-armor.png",
+    "xws": "steamarmor",
+    "level": "1",
+    "initiative": "17",
+    "character-xws": "metal mosaic",
+    "assetno": "417"
   },
   {
     "name": "steam core",
-    "points": 1575,
+    "points": 1929,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-steam-core.png",
     "xws": "steamcore",
     "level": "6",
     "initiative": "71",
-    "cardno": "438",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "438"
+  },
+  {
+    "name": "438",
+    "points": 1930,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-steam-core.png",
+    "xws": "steamcore",
+    "level": "6",
+    "initiative": "71",
+    "character-xws": "metal mosaic",
+    "assetno": "438"
   },
   {
     "name": "steel piston",
-    "points": 1576,
+    "points": 1931,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-steel-piston.png",
     "xws": "steelpiston",
     "level": "1",
     "initiative": "40",
-    "cardno": "421",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "421"
+  },
+  {
+    "name": "421",
+    "points": 1932,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-steel-piston.png",
+    "xws": "steelpiston",
+    "level": "1",
+    "initiative": "40",
+    "character-xws": "metal mosaic",
+    "assetno": "421"
   },
   {
     "name": "stress vents",
-    "points": 1577,
+    "points": 1933,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-stress-vents.png",
     "xws": "stressvents",
     "level": "3",
     "initiative": "15",
-    "cardno": "431",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "431"
+  },
+  {
+    "name": "431",
+    "points": 1934,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-stress-vents.png",
+    "xws": "stressvents",
+    "level": "3",
+    "initiative": "15",
+    "character-xws": "metal mosaic",
+    "assetno": "431"
   },
   {
     "name": "super heat transfer",
-    "points": 1578,
+    "points": 1935,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-super-heat-transfer.png",
     "xws": "superheattransfer",
     "level": "1",
     "initiative": "25",
-    "cardno": "425",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "425"
+  },
+  {
+    "name": "425",
+    "points": 1936,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/me/fh-super-heat-transfer.png",
+    "xws": "superheattransfer",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "metal mosaic",
+    "assetno": "425"
   },
   {
     "name": "unstable core",
-    "points": 1579,
+    "points": 1937,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/me/fh-unstable-core.png",
     "xws": "unstablecore",
     "level": "9",
     "initiative": "10",
-    "cardno": "444",
-    "character-xws": "metal mosaic"
+    "character-xws": "metal mosaic",
+    "assetno": "444"
   },
   {
-    "name": "pc-back",
-    "points": 1580,
+    "name": "444",
+    "points": 1938,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/pc/fh-pc-back.png",
-    "xws": "pcback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "pain conduit"
+    "image": "character-ability-cards/frosthaven/me/fh-unstable-core.png",
+    "xws": "unstablecore",
+    "level": "9",
+    "initiative": "10",
+    "character-xws": "metal mosaic",
+    "assetno": "444"
   },
   {
     "name": "blood ritual",
-    "points": 1581,
+    "points": 1939,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-blood-ritual.png",
     "xws": "bloodritual",
     "level": "1",
     "initiative": "56",
-    "cardno": "306",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "306"
+  },
+  {
+    "name": "306",
+    "points": 1940,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-blood-ritual.png",
+    "xws": "bloodritual",
+    "level": "1",
+    "initiative": "56",
+    "character-xws": "pain conduit",
+    "assetno": "306"
   },
   {
     "name": "burned at both ends",
-    "points": 1582,
+    "points": 1941,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-burned-at-both-ends.png",
     "xws": "burnedatbothends",
     "level": "3",
     "initiative": "30",
-    "cardno": "316",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "316"
+  },
+  {
+    "name": "316",
+    "points": 1942,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-burned-at-both-ends.png",
+    "xws": "burnedatbothends",
+    "level": "3",
+    "initiative": "30",
+    "character-xws": "pain conduit",
+    "assetno": "316"
   },
   {
     "name": "chained by despair",
-    "points": 1583,
+    "points": 1943,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-chained-by-despair.png",
     "xws": "chainedbydespair",
     "level": "5",
     "initiative": "15",
-    "cardno": "321",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "321"
+  },
+  {
+    "name": "321",
+    "points": 1944,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-chained-by-despair.png",
+    "xws": "chainedbydespair",
+    "level": "5",
+    "initiative": "15",
+    "character-xws": "pain conduit",
+    "assetno": "321"
   },
   {
     "name": "chained by spite",
-    "points": 1584,
+    "points": 1945,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-chained-by-spite.png",
     "xws": "chainedbyspite",
     "level": "5",
     "initiative": "15",
-    "cardno": "320",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "320"
+  },
+  {
+    "name": "320",
+    "points": 1946,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-chained-by-spite.png",
+    "xws": "chainedbyspite",
+    "level": "5",
+    "initiative": "15",
+    "character-xws": "pain conduit",
+    "assetno": "320"
   },
   {
     "name": "cleansing fire",
-    "points": 1585,
+    "points": 1947,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-cleansing-fire.png",
     "xws": "cleansingfire",
     "level": "1",
     "initiative": "64",
-    "cardno": "309",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "309"
+  },
+  {
+    "name": "309",
+    "points": 1948,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-cleansing-fire.png",
+    "xws": "cleansingfire",
+    "level": "1",
+    "initiative": "64",
+    "character-xws": "pain conduit",
+    "assetno": "309"
   },
   {
     "name": "delayed malady",
-    "points": 1586,
+    "points": 1949,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-delayed-malady.png",
     "xws": "delayedmalady",
     "level": "x",
     "initiative": "90",
-    "cardno": "311",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "311"
+  },
+  {
+    "name": "311",
+    "points": 1950,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-delayed-malady.png",
+    "xws": "delayedmalady",
+    "level": "x",
+    "initiative": "90",
+    "character-xws": "pain conduit",
+    "assetno": "311"
   },
   {
     "name": "down to the dirt",
-    "points": 1587,
+    "points": 1951,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-down-to-the-dirt.png",
     "xws": "downtothedirt",
     "level": "4",
     "initiative": "39",
-    "cardno": "319",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "319"
+  },
+  {
+    "name": "319",
+    "points": 1952,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-down-to-the-dirt.png",
+    "xws": "downtothedirt",
+    "level": "4",
+    "initiative": "39",
+    "character-xws": "pain conduit",
+    "assetno": "319"
   },
   {
     "name": "explosive wounds",
-    "points": 1588,
+    "points": 1953,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-explosive-wounds.png",
     "xws": "explosivewounds",
     "level": "1",
     "initiative": "43",
-    "cardno": "308",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "308"
+  },
+  {
+    "name": "308",
+    "points": 1954,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-explosive-wounds.png",
+    "xws": "explosivewounds",
+    "level": "1",
+    "initiative": "43",
+    "character-xws": "pain conduit",
+    "assetno": "308"
   },
   {
     "name": "hopelessness",
-    "points": 1589,
+    "points": 1955,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-hopelessness.png",
     "xws": "hopelessness",
     "level": "6",
     "initiative": "83",
-    "cardno": "322",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "322"
+  },
+  {
+    "name": "322",
+    "points": 1956,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-hopelessness.png",
+    "xws": "hopelessness",
+    "level": "6",
+    "initiative": "83",
+    "character-xws": "pain conduit",
+    "assetno": "322"
   },
   {
     "name": "infection purge",
-    "points": 1590,
+    "points": 1957,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-infection-purge.png",
     "xws": "infectionpurge",
     "level": "2",
     "initiative": "45",
-    "cardno": "315",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "315"
+  },
+  {
+    "name": "315",
+    "points": 1958,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-infection-purge.png",
+    "xws": "infectionpurge",
+    "level": "2",
+    "initiative": "45",
+    "character-xws": "pain conduit",
+    "assetno": "315"
   },
   {
     "name": "line of transference",
-    "points": 1591,
+    "points": 1959,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-line-of-transference.png",
     "xws": "lineoftransference",
     "level": "1",
     "initiative": "25",
-    "cardno": "302",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "302"
+  },
+  {
+    "name": "302",
+    "points": 1960,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-line-of-transference.png",
+    "xws": "lineoftransference",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "pain conduit",
+    "assetno": "302"
   },
   {
     "name": "mirrored misery",
-    "points": 1592,
+    "points": 1961,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-mirrored-misery.png",
     "xws": "mirroredmisery",
     "level": "4",
     "initiative": "72",
-    "cardno": "318",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "318"
+  },
+  {
+    "name": "318",
+    "points": 1962,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-mirrored-misery.png",
+    "xws": "mirroredmisery",
+    "level": "4",
+    "initiative": "72",
+    "character-xws": "pain conduit",
+    "assetno": "318"
+  },
+  {
+    "name": "pc-back",
+    "points": 1963,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-pc-back.png",
+    "xws": "pcback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "pain conduit",
+    "assetno": "###"
   },
   {
     "name": "penance",
-    "points": 1593,
+    "points": 1964,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-penance.png",
     "xws": "penance",
     "level": "7",
     "initiative": "12",
-    "cardno": "325",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "325"
+  },
+  {
+    "name": "325",
+    "points": 1965,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-penance.png",
+    "xws": "penance",
+    "level": "7",
+    "initiative": "12",
+    "character-xws": "pain conduit",
+    "assetno": "325"
   },
   {
     "name": "phantom limb",
-    "points": 1594,
+    "points": 1966,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-phantom-limb.png",
     "xws": "phantomlimb",
     "level": "6",
     "initiative": "75",
-    "cardno": "323",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "323"
+  },
+  {
+    "name": "323",
+    "points": 1967,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-phantom-limb.png",
+    "xws": "phantomlimb",
+    "level": "6",
+    "initiative": "75",
+    "character-xws": "pain conduit",
+    "assetno": "323"
   },
   {
     "name": "pleasure in pain",
-    "points": 1595,
+    "points": 1968,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-pleasure-in-pain.png",
     "xws": "pleasureinpain",
     "level": "x",
     "initiative": "47",
-    "cardno": "313",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "313"
+  },
+  {
+    "name": "313",
+    "points": 1969,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-pleasure-in-pain.png",
+    "xws": "pleasureinpain",
+    "level": "x",
+    "initiative": "47",
+    "character-xws": "pain conduit",
+    "assetno": "313"
   },
   {
     "name": "redemption",
-    "points": 1596,
+    "points": 1970,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-redemption.png",
     "xws": "redemption",
     "level": "9",
     "initiative": "33",
-    "cardno": "328",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "328"
+  },
+  {
+    "name": "328",
+    "points": 1971,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-redemption.png",
+    "xws": "redemption",
+    "level": "9",
+    "initiative": "33",
+    "character-xws": "pain conduit",
+    "assetno": "328"
   },
   {
     "name": "reject the gift",
-    "points": 1597,
+    "points": 1972,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-reject-the-gift.png",
     "xws": "rejectthegift",
     "level": "7",
     "initiative": "20",
-    "cardno": "324",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "324"
+  },
+  {
+    "name": "324",
+    "points": 1973,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-reject-the-gift.png",
+    "xws": "rejectthegift",
+    "level": "7",
+    "initiative": "20",
+    "character-xws": "pain conduit",
+    "assetno": "324"
   },
   {
     "name": "reprisal",
-    "points": 1598,
+    "points": 1974,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-reprisal.png",
     "xws": "reprisal",
     "level": "3",
     "initiative": "70",
-    "cardno": "317",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "317"
+  },
+  {
+    "name": "317",
+    "points": 1975,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-reprisal.png",
+    "xws": "reprisal",
+    "level": "3",
+    "initiative": "70",
+    "character-xws": "pain conduit",
+    "assetno": "317"
   },
   {
     "name": "reversal of fate",
-    "points": 1599,
+    "points": 1976,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-reversal-of-fate.png",
     "xws": "reversaloffate",
     "level": "2",
     "initiative": "23",
-    "cardno": "314",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "314"
+  },
+  {
+    "name": "314",
+    "points": 1977,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-reversal-of-fate.png",
+    "xws": "reversaloffate",
+    "level": "2",
+    "initiative": "23",
+    "character-xws": "pain conduit",
+    "assetno": "314"
   },
   {
     "name": "scarred effigy",
-    "points": 1600,
+    "points": 1978,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-scarred-effigy.png",
     "xws": "scarredeffigy",
     "level": "1",
     "initiative": "19",
-    "cardno": "307",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "307"
+  },
+  {
+    "name": "307",
+    "points": 1979,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-scarred-effigy.png",
+    "xws": "scarredeffigy",
+    "level": "1",
+    "initiative": "19",
+    "character-xws": "pain conduit",
+    "assetno": "307"
   },
   {
     "name": "flesh fiend",
-    "points": 1601,
+    "points": 1980,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-scarred-effigy.png",
-    "xws": "scarredeffigy",
-    "level": "1",
-    "initiative": "19",
-    "cardno": "307",
-    "character-xws": "pain conduit"
+    "xws": "fleshfiend",
+    "assetno": "307"
   },
   {
     "name": "shared affliction",
-    "points": 1602,
+    "points": 1981,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-shared-affliction.png",
     "xws": "sharedaffliction",
     "level": "1",
     "initiative": "61",
-    "cardno": "301",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "301"
+  },
+  {
+    "name": "301",
+    "points": 1982,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-shared-affliction.png",
+    "xws": "sharedaffliction",
+    "level": "1",
+    "initiative": "61",
+    "character-xws": "pain conduit",
+    "assetno": "301"
   },
   {
     "name": "swift vengeance",
-    "points": 1603,
+    "points": 1983,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-swift-vengeance.png",
     "xws": "swiftvengeance",
     "level": "1",
     "initiative": "21",
-    "cardno": "310",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "310"
+  },
+  {
+    "name": "310",
+    "points": 1984,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-swift-vengeance.png",
+    "xws": "swiftvengeance",
+    "level": "1",
+    "initiative": "21",
+    "character-xws": "pain conduit",
+    "assetno": "310"
   },
   {
     "name": "the agony of others",
-    "points": 1604,
+    "points": 1985,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-the-agony-of-others.png",
     "xws": "theagonyofothers",
     "level": "1",
     "initiative": "78",
-    "cardno": "304",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "304"
+  },
+  {
+    "name": "304",
+    "points": 1986,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-the-agony-of-others.png",
+    "xws": "theagonyofothers",
+    "level": "1",
+    "initiative": "78",
+    "character-xws": "pain conduit",
+    "assetno": "304"
   },
   {
     "name": "the end of everything",
-    "points": 1605,
+    "points": 1987,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-the-end-of-everything.png",
     "xws": "theendofeverything",
     "level": "9",
     "initiative": "99",
-    "cardno": "329",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "329"
+  },
+  {
+    "name": "329",
+    "points": 1988,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-the-end-of-everything.png",
+    "xws": "theendofeverything",
+    "level": "9",
+    "initiative": "99",
+    "character-xws": "pain conduit",
+    "assetno": "329"
   },
   {
     "name": "transferred injury",
-    "points": 1606,
+    "points": 1989,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-transferred-injury.png",
     "xws": "transferredinjury",
     "level": "1",
     "initiative": "74",
-    "cardno": "303",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "303"
+  },
+  {
+    "name": "303",
+    "points": 1990,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-transferred-injury.png",
+    "xws": "transferredinjury",
+    "level": "1",
+    "initiative": "74",
+    "character-xws": "pain conduit",
+    "assetno": "303"
   },
   {
     "name": "unending torment",
-    "points": 1607,
+    "points": 1991,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-unending-torment.png",
     "xws": "unendingtorment",
     "level": "1",
     "initiative": "29",
-    "cardno": "305",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "305"
+  },
+  {
+    "name": "305",
+    "points": 1992,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-unending-torment.png",
+    "xws": "unendingtorment",
+    "level": "1",
+    "initiative": "29",
+    "character-xws": "pain conduit",
+    "assetno": "305"
   },
   {
     "name": "unstable effigy",
-    "points": 1608,
+    "points": 1993,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-unstable-effigy.png",
     "xws": "unstableeffigy",
     "level": "x",
     "initiative": "18",
-    "cardno": "312",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "312"
+  },
+  {
+    "name": "312",
+    "points": 1994,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-unstable-effigy.png",
+    "xws": "unstableeffigy",
+    "level": "x",
+    "initiative": "18",
+    "character-xws": "pain conduit",
+    "assetno": "312"
   },
   {
     "name": "flesh bomb",
-    "points": 1609,
+    "points": 1995,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-unstable-effigy.png",
-    "xws": "unstableeffigy",
+    "xws": "fleshbomb",
     "level": "x",
     "initiative": "18",
-    "cardno": "312",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "312"
   },
   {
     "name": "wave of anguish",
-    "points": 1610,
+    "points": 1996,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-wave-of-anguish.png",
     "xws": "waveofanguish",
     "level": "8",
     "initiative": "68",
-    "cardno": "326",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "326"
+  },
+  {
+    "name": "326",
+    "points": 1997,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/pc/fh-wave-of-anguish.png",
+    "xws": "waveofanguish",
+    "level": "8",
+    "initiative": "68",
+    "character-xws": "pain conduit",
+    "assetno": "326"
   },
   {
     "name": "wracked with pain",
-    "points": 1611,
+    "points": 1998,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/pc/fh-wracked-with-pain.png",
     "xws": "wrackedwithpain",
     "level": "8",
     "initiative": "22",
-    "cardno": "327",
-    "character-xws": "pain conduit"
+    "character-xws": "pain conduit",
+    "assetno": "327"
   },
   {
-    "name": "py-back",
-    "points": 1612,
+    "name": "327",
+    "points": 1999,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/py/fh-py-back.png",
-    "xws": "pyback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "pyroclast"
+    "image": "character-ability-cards/frosthaven/pc/fh-wracked-with-pain.png",
+    "xws": "wrackedwithpain",
+    "level": "8",
+    "initiative": "22",
+    "character-xws": "pain conduit",
+    "assetno": "327"
   },
   {
     "name": "calamity",
-    "points": 1613,
+    "points": 2000,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-calamity.png",
     "xws": "calamity",
     "level": "9",
     "initiative": "35",
-    "cardno": "243",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "243"
+  },
+  {
+    "name": "243",
+    "points": 2001,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-calamity.png",
+    "xws": "calamity",
+    "level": "9",
+    "initiative": "35",
+    "character-xws": "pyroclast",
+    "assetno": "243"
   },
   {
     "name": "cinder lance",
-    "points": 1614,
+    "points": 2002,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-cinder-lance.png",
     "xws": "cinderlance",
     "level": "8",
     "initiative": "90",
-    "cardno": "241",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "241"
+  },
+  {
+    "name": "241",
+    "points": 2003,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-cinder-lance.png",
+    "xws": "cinderlance",
+    "level": "8",
+    "initiative": "90",
+    "character-xws": "pyroclast",
+    "assetno": "241"
   },
   {
     "name": "cloud of ash",
-    "points": 1615,
+    "points": 2004,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-cloud-of-ash.png",
     "xws": "cloudofash",
     "level": "1",
     "initiative": "23",
-    "cardno": "224",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "224"
+  },
+  {
+    "name": "224",
+    "points": 2005,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-cloud-of-ash.png",
+    "xws": "cloudofash",
+    "level": "1",
+    "initiative": "23",
+    "character-xws": "pyroclast",
+    "assetno": "224"
   },
   {
     "name": "cooling",
-    "points": 1616,
+    "points": 2006,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-cooling.png",
     "xws": "cooling",
     "level": "1",
     "initiative": "75",
-    "cardno": "215",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "215"
+  },
+  {
+    "name": "215",
+    "points": 2007,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-cooling.png",
+    "xws": "cooling",
+    "level": "1",
+    "initiative": "75",
+    "character-xws": "pyroclast",
+    "assetno": "215"
   },
   {
     "name": "deep fury",
-    "points": 1617,
+    "points": 2008,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-deep-fury.png",
     "xws": "deepfury",
     "level": "2",
     "initiative": "38",
-    "cardno": "229",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "229"
+  },
+  {
+    "name": "229",
+    "points": 2009,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-deep-fury.png",
+    "xws": "deepfury",
+    "level": "2",
+    "initiative": "38",
+    "character-xws": "pyroclast",
+    "assetno": "229"
   },
   {
     "name": "erupting rage",
-    "points": 1618,
+    "points": 2010,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-erupting-rage.png",
     "xws": "eruptingrage",
     "level": "7",
     "initiative": "70",
-    "cardno": "238",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "238"
+  },
+  {
+    "name": "238",
+    "points": 2011,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-erupting-rage.png",
+    "xws": "eruptingrage",
+    "level": "7",
+    "initiative": "70",
+    "character-xws": "pyroclast",
+    "assetno": "238"
   },
   {
     "name": "eruption",
-    "points": 1619,
+    "points": 2012,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-eruption.png",
     "xws": "eruption",
     "level": "1",
     "initiative": "47",
-    "cardno": "218",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "218"
+  },
+  {
+    "name": "218",
+    "points": 2013,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-eruption.png",
+    "xws": "eruption",
+    "level": "1",
+    "initiative": "47",
+    "character-xws": "pyroclast",
+    "assetno": "218"
   },
   {
     "name": "feed the beast",
-    "points": 1620,
+    "points": 2014,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-feed-the-beast.png",
     "xws": "feedthebeast",
     "level": "8",
     "initiative": "27",
-    "cardno": "240",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "240"
+  },
+  {
+    "name": "240",
+    "points": 2015,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-feed-the-beast.png",
+    "xws": "feedthebeast",
+    "level": "8",
+    "initiative": "27",
+    "character-xws": "pyroclast",
+    "assetno": "240"
   },
   {
     "name": "flowing fire",
-    "points": 1621,
+    "points": 2016,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-flowing-fire.png",
     "xws": "flowingfire",
     "level": "1",
     "initiative": "20",
-    "cardno": "217",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "217"
+  },
+  {
+    "name": "217",
+    "points": 2017,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-flowing-fire.png",
+    "xws": "flowingfire",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "pyroclast",
+    "assetno": "217"
   },
   {
     "name": "force of the earth",
-    "points": 1622,
+    "points": 2018,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-force-of-the-earth.png",
     "xws": "forceoftheearth",
     "level": "x",
     "initiative": "15",
-    "cardno": "226",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "226"
+  },
+  {
+    "name": "226",
+    "points": 2019,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-force-of-the-earth.png",
+    "xws": "forceoftheearth",
+    "level": "x",
+    "initiative": "15",
+    "character-xws": "pyroclast",
+    "assetno": "226"
   },
   {
     "name": "hand of flame",
-    "points": 1623,
+    "points": 2020,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-hand-of-flame.png",
     "xws": "handofflame",
     "level": "4",
     "initiative": "29",
-    "cardno": "232",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "232"
+  },
+  {
+    "name": "232",
+    "points": 2021,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-hand-of-flame.png",
+    "xws": "handofflame",
+    "level": "4",
+    "initiative": "29",
+    "character-xws": "pyroclast",
+    "assetno": "232"
   },
   {
     "name": "hardened spike",
-    "points": 1624,
+    "points": 2022,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-hardened-spike.png",
     "xws": "hardenedspike",
     "level": "3",
     "initiative": "80",
-    "cardno": "231",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "231"
+  },
+  {
+    "name": "231",
+    "points": 2023,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-hardened-spike.png",
+    "xws": "hardenedspike",
+    "level": "3",
+    "initiative": "80",
+    "character-xws": "pyroclast",
+    "assetno": "231"
   },
   {
     "name": "heat wave",
-    "points": 1625,
+    "points": 2024,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-heat-wave.png",
     "xws": "heatwave",
     "level": "4",
     "initiative": "08",
-    "cardno": "233",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "233"
+  },
+  {
+    "name": "233",
+    "points": 2025,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-heat-wave.png",
+    "xws": "heatwave",
+    "level": "4",
+    "initiative": "08",
+    "character-xws": "pyroclast",
+    "assetno": "233"
   },
   {
     "name": "igneous path",
-    "points": 1626,
+    "points": 2026,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-igneous-path.png",
     "xws": "igneouspath",
     "level": "1",
     "initiative": "18",
-    "cardno": "220",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "220"
+  },
+  {
+    "name": "220",
+    "points": 2027,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-igneous-path.png",
+    "xws": "igneouspath",
+    "level": "1",
+    "initiative": "18",
+    "character-xws": "pyroclast",
+    "assetno": "220"
   },
   {
     "name": "lava bomb",
-    "points": 1627,
+    "points": 2028,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-lava-bomb.png",
     "xws": "lavabomb",
     "level": "1",
     "initiative": "53",
-    "cardno": "219",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "219"
+  },
+  {
+    "name": "219",
+    "points": 2029,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-lava-bomb.png",
+    "xws": "lavabomb",
+    "level": "1",
+    "initiative": "53",
+    "character-xws": "pyroclast",
+    "assetno": "219"
   },
   {
     "name": "liquid stone",
-    "points": 1628,
+    "points": 2030,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-liquid-stone.png",
     "xws": "liquidstone",
     "level": "1",
     "initiative": "28",
-    "cardno": "223",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "223"
+  },
+  {
+    "name": "223",
+    "points": 2031,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-liquid-stone.png",
+    "xws": "liquidstone",
+    "level": "1",
+    "initiative": "28",
+    "character-xws": "pyroclast",
+    "assetno": "223"
   },
   {
     "name": "living magma",
-    "points": 1629,
+    "points": 2032,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-living-magma.png",
     "xws": "livingmagma",
     "level": "3",
     "initiative": "22",
-    "cardno": "230",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "230"
+  },
+  {
+    "name": "230",
+    "points": 2033,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-living-magma.png",
+    "xws": "livingmagma",
+    "level": "3",
+    "initiative": "22",
+    "character-xws": "pyroclast",
+    "assetno": "230"
   },
   {
     "name": "magma orbs",
-    "points": 1630,
+    "points": 2034,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-magma-orbs.png",
     "xws": "magmaorbs",
     "level": "5",
     "initiative": "82",
-    "cardno": "235",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "235"
+  },
+  {
+    "name": "235",
+    "points": 2035,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-magma-orbs.png",
+    "xws": "magmaorbs",
+    "level": "5",
+    "initiative": "82",
+    "character-xws": "pyroclast",
+    "assetno": "235"
   },
   {
     "name": "melted armor",
-    "points": 1631,
+    "points": 2036,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-melted-armor.png",
     "xws": "meltedarmor",
     "level": "1",
     "initiative": "62",
-    "cardno": "222",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "222"
+  },
+  {
+    "name": "222",
+    "points": 2037,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-melted-armor.png",
+    "xws": "meltedarmor",
+    "level": "1",
+    "initiative": "62",
+    "character-xws": "pyroclast",
+    "assetno": "222"
   },
   {
     "name": "metamorphic rock",
-    "points": 1632,
+    "points": 2038,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-metamorphic-rock.png",
     "xws": "metamorphicrock",
     "level": "x",
     "initiative": "68",
-    "cardno": "227",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "227"
+  },
+  {
+    "name": "227",
+    "points": 2039,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-metamorphic-rock.png",
+    "xws": "metamorphicrock",
+    "level": "x",
+    "initiative": "68",
+    "character-xws": "pyroclast",
+    "assetno": "227"
   },
   {
     "name": "obsidian shield",
-    "points": 1633,
+    "points": 2040,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-obsidian-shield.png",
     "xws": "obsidianshield",
     "level": "6",
     "initiative": "19",
-    "cardno": "237",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "237"
+  },
+  {
+    "name": "237",
+    "points": 2041,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-obsidian-shield.png",
+    "xws": "obsidianshield",
+    "level": "6",
+    "initiative": "19",
+    "character-xws": "pyroclast",
+    "assetno": "237"
+  },
+  {
+    "name": "py-back",
+    "points": 2042,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-py-back.png",
+    "xws": "pyback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "pyroclast",
+    "assetno": "###"
   },
   {
     "name": "quenched rage",
-    "points": 1634,
+    "points": 2043,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-quenched-rage.png",
     "xws": "quenchedrage",
     "level": "1",
     "initiative": "30",
-    "cardno": "216",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "216"
+  },
+  {
+    "name": "216",
+    "points": 2044,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-quenched-rage.png",
+    "xws": "quenchedrage",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "pyroclast",
+    "assetno": "216"
   },
   {
     "name": "rain of fire",
-    "points": 1635,
+    "points": 2045,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-rain-of-fire.png",
     "xws": "rainoffire",
     "level": "5",
     "initiative": "21",
-    "cardno": "234",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "234"
+  },
+  {
+    "name": "234",
+    "points": 2046,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-rain-of-fire.png",
+    "xws": "rainoffire",
+    "level": "5",
+    "initiative": "21",
+    "character-xws": "pyroclast",
+    "assetno": "234"
   },
   {
     "name": "return to the source",
-    "points": 1636,
+    "points": 2047,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-return-to-the-source.png",
     "xws": "returntothesource",
     "level": "6",
     "initiative": "14",
-    "cardno": "236",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "236"
+  },
+  {
+    "name": "236",
+    "points": 2048,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-return-to-the-source.png",
+    "xws": "returntothesource",
+    "level": "6",
+    "initiative": "14",
+    "character-xws": "pyroclast",
+    "assetno": "236"
   },
   {
     "name": "searing smoke",
-    "points": 1637,
+    "points": 2049,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-searing-smoke.png",
     "xws": "searingsmoke",
     "level": "2",
     "initiative": "45",
-    "cardno": "228",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "228"
+  },
+  {
+    "name": "228",
+    "points": 2050,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-searing-smoke.png",
+    "xws": "searingsmoke",
+    "level": "2",
+    "initiative": "45",
+    "character-xws": "pyroclast",
+    "assetno": "228"
   },
   {
     "name": "stone armor",
-    "points": 1638,
+    "points": 2051,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-stone-armor.png",
     "xws": "stonearmor",
     "level": "9",
     "initiative": "09",
-    "cardno": "242",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "242"
+  },
+  {
+    "name": "242",
+    "points": 2052,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-stone-armor.png",
+    "xws": "stonearmor",
+    "level": "9",
+    "initiative": "09",
+    "character-xws": "pyroclast",
+    "assetno": "242"
   },
   {
     "name": "swelter",
-    "points": 1639,
+    "points": 2053,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-swelter.png",
     "xws": "swelter",
     "level": "7",
     "initiative": "32",
-    "cardno": "239",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "239"
+  },
+  {
+    "name": "239",
+    "points": 2054,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-swelter.png",
+    "xws": "swelter",
+    "level": "7",
+    "initiative": "32",
+    "character-xws": "pyroclast",
+    "assetno": "239"
   },
   {
     "name": "under pressure",
-    "points": 1640,
+    "points": 2055,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-under-pressure.png",
     "xws": "underpressure",
     "level": "1",
     "initiative": "85",
-    "cardno": "221",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "221"
+  },
+  {
+    "name": "221",
+    "points": 2056,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/py/fh-under-pressure.png",
+    "xws": "underpressure",
+    "level": "1",
+    "initiative": "85",
+    "character-xws": "pyroclast",
+    "assetno": "221"
   },
   {
     "name": "wildfire",
-    "points": 1641,
+    "points": 2057,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/py/fh-wildfire.png",
     "xws": "wildfire",
     "level": "x",
     "initiative": "72",
-    "cardno": "225",
-    "character-xws": "pyroclast"
+    "character-xws": "pyroclast",
+    "assetno": "225"
   },
   {
-    "name": "sd-back",
-    "points": 1642,
+    "name": "225",
+    "points": 2058,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/sd/fh-sd-back.png",
-    "xws": "sdback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "snowdancer"
+    "image": "character-ability-cards/frosthaven/py/fh-wildfire.png",
+    "xws": "wildfire",
+    "level": "x",
+    "initiative": "72",
+    "character-xws": "pyroclast",
+    "assetno": "225"
   },
   {
     "name": "birds in a tempest",
-    "points": 1643,
+    "points": 2059,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-birds-in-a-tempest.png",
     "xws": "birdsinatempest",
     "level": "2",
     "initiative": "18",
-    "cardno": "344",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "344"
+  },
+  {
+    "name": "344",
+    "points": 2060,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-birds-in-a-tempest.png",
+    "xws": "birdsinatempest",
+    "level": "2",
+    "initiative": "18",
+    "character-xws": "snowdancer",
+    "assetno": "344"
   },
   {
     "name": "2 white owls",
-    "points": 1644,
+    "points": 2061,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-birds-in-a-tempest.png",
-    "xws": "birdsinatempest",
+    "xws": "2whiteowls",
     "level": "2",
     "initiative": "18",
-    "cardno": "344",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "344"
   },
   {
     "name": "biting frost",
-    "points": 1645,
+    "points": 2062,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-biting-frost.png",
     "xws": "bitingfrost",
     "level": "4",
     "initiative": "16",
-    "cardno": "349",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "349"
+  },
+  {
+    "name": "349",
+    "points": 2063,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-biting-frost.png",
+    "xws": "bitingfrost",
+    "level": "4",
+    "initiative": "16",
+    "character-xws": "snowdancer",
+    "assetno": "349"
   },
   {
     "name": "blinding vortex",
-    "points": 1646,
+    "points": 2064,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-blinding-vortex.png",
     "xws": "blindingvortex",
     "level": "x",
     "initiative": "31",
-    "cardno": "342",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "342"
+  },
+  {
+    "name": "342",
+    "points": 2065,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-blinding-vortex.png",
+    "xws": "blindingvortex",
+    "level": "x",
+    "initiative": "31",
+    "character-xws": "snowdancer",
+    "assetno": "342"
   },
   {
     "name": "blizzard",
-    "points": 1647,
+    "points": 2066,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-blizzard.png",
     "xws": "blizzard",
     "level": "1",
     "initiative": "71",
-    "cardno": "330",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "330"
+  },
+  {
+    "name": "330",
+    "points": 2067,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-blizzard.png",
+    "xws": "blizzard",
+    "level": "1",
+    "initiative": "71",
+    "character-xws": "snowdancer",
+    "assetno": "330"
   },
   {
     "name": "chilling impact",
-    "points": 1648,
+    "points": 2068,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-chilling-impact.png",
     "xws": "chillingimpact",
     "level": "1",
     "initiative": "31",
-    "cardno": "332",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "332"
+  },
+  {
+    "name": "332",
+    "points": 2069,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-chilling-impact.png",
+    "xws": "chillingimpact",
+    "level": "1",
+    "initiative": "31",
+    "character-xws": "snowdancer",
+    "assetno": "332"
   },
   {
     "name": "cold snap",
-    "points": 1649,
+    "points": 2070,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-cold-snap.png",
     "xws": "coldsnap",
     "level": "3",
     "initiative": "86",
-    "cardno": "346",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "346"
+  },
+  {
+    "name": "346",
+    "points": 2071,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-cold-snap.png",
+    "xws": "coldsnap",
+    "level": "3",
+    "initiative": "86",
+    "character-xws": "snowdancer",
+    "assetno": "346"
   },
   {
     "name": "cold therapy",
-    "points": 1650,
+    "points": 2072,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-cold-therapy.png",
     "xws": "coldtherapy",
     "level": "1",
     "initiative": "20",
-    "cardno": "340",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "340"
+  },
+  {
+    "name": "340",
+    "points": 2073,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-cold-therapy.png",
+    "xws": "coldtherapy",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "snowdancer",
+    "assetno": "340"
   },
   {
     "name": "cross winds",
-    "points": 1651,
+    "points": 2074,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-cross-winds.png",
     "xws": "crosswinds",
     "level": "1",
     "initiative": "32",
-    "cardno": "338",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "338"
+  },
+  {
+    "name": "338",
+    "points": 2075,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-cross-winds.png",
+    "xws": "crosswinds",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "snowdancer",
+    "assetno": "338"
   },
   {
     "name": "enticing breeze",
-    "points": 1652,
+    "points": 2076,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-enticing-breeze.png",
     "xws": "enticingbreeze",
     "level": "1",
     "initiative": "76",
-    "cardno": "331",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "331"
+  },
+  {
+    "name": "331",
+    "points": 2077,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-enticing-breeze.png",
+    "xws": "enticingbreeze",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "snowdancer",
+    "assetno": "331"
   },
   {
     "name": "freezing storm",
-    "points": 1653,
+    "points": 2078,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-freezing-storm.png",
     "xws": "freezingstorm",
     "level": "7",
     "initiative": "81",
-    "cardno": "354",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "354"
+  },
+  {
+    "name": "354",
+    "points": 2079,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-freezing-storm.png",
+    "xws": "freezingstorm",
+    "level": "7",
+    "initiative": "81",
+    "character-xws": "snowdancer",
+    "assetno": "354"
   },
   {
     "name": "frigid growth",
-    "points": 1654,
+    "points": 2080,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-frigid-growth.png",
     "xws": "frigidgrowth",
     "level": "1",
     "initiative": "70",
-    "cardno": "339",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "339"
+  },
+  {
+    "name": "339",
+    "points": 2081,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-frigid-growth.png",
+    "xws": "frigidgrowth",
+    "level": "1",
+    "initiative": "70",
+    "character-xws": "snowdancer",
+    "assetno": "339"
   },
   {
     "name": "frozen brand",
-    "points": 1655,
+    "points": 2082,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-frozen-brand.png",
     "xws": "frozenbrand",
     "level": "6",
     "initiative": "33",
-    "cardno": "353",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "353"
+  },
+  {
+    "name": "353",
+    "points": 2083,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-frozen-brand.png",
+    "xws": "frozenbrand",
+    "level": "6",
+    "initiative": "33",
+    "character-xws": "snowdancer",
+    "assetno": "353"
   },
   {
     "name": "gathering force",
-    "points": 1656,
+    "points": 2084,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-gathering-force.png",
     "xws": "gatheringforce",
     "level": "1",
     "initiative": "89",
-    "cardno": "333",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "333"
+  },
+  {
+    "name": "333",
+    "points": 2085,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-gathering-force.png",
+    "xws": "gatheringforce",
+    "level": "1",
+    "initiative": "89",
+    "character-xws": "snowdancer",
+    "assetno": "333"
   },
   {
     "name": "lifting gust",
-    "points": 1657,
+    "points": 2086,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-lifting-gust.png",
     "xws": "liftinggust",
     "level": "1",
     "initiative": "27",
-    "cardno": "335",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "335"
+  },
+  {
+    "name": "335",
+    "points": 2087,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-lifting-gust.png",
+    "xws": "liftinggust",
+    "level": "1",
+    "initiative": "27",
+    "character-xws": "snowdancer",
+    "assetno": "335"
   },
   {
     "name": "nature's breath",
-    "points": 1658,
+    "points": 2088,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-natures-breath.png",
     "xws": "naturesbreath",
     "level": "1",
     "initiative": "90",
-    "cardno": "334",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "334"
+  },
+  {
+    "name": "334",
+    "points": 2089,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-natures-breath.png",
+    "xws": "naturesbreath",
+    "level": "1",
+    "initiative": "90",
+    "character-xws": "snowdancer",
+    "assetno": "334"
   },
   {
     "name": "snow fox",
-    "points": 1659,
+    "points": 2090,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-natures-breath.png",
-    "xws": "naturesbreath",
+    "xws": "snowfox",
     "level": "1",
     "initiative": "90",
-    "cardno": "334",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "334"
   },
   {
     "name": "polar vortex",
-    "points": 1660,
+    "points": 2091,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-polar-vortex.png",
     "xws": "polarvortex",
     "level": "3",
     "initiative": "61",
-    "cardno": "347",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "347"
+  },
+  {
+    "name": "347",
+    "points": 2092,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-polar-vortex.png",
+    "xws": "polarvortex",
+    "level": "3",
+    "initiative": "61",
+    "character-xws": "snowdancer",
+    "assetno": "347"
   },
   {
     "name": "refreshing flurry",
-    "points": 1661,
+    "points": 2093,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-refreshing-flurry.png",
     "xws": "refreshingflurry",
     "level": "6",
     "initiative": "95",
-    "cardno": "352",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "352"
+  },
+  {
+    "name": "352",
+    "points": 2094,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-refreshing-flurry.png",
+    "xws": "refreshingflurry",
+    "level": "6",
+    "initiative": "95",
+    "character-xws": "snowdancer",
+    "assetno": "352"
   },
   {
     "name": "polar cat",
-    "points": 1662,
+    "points": 2095,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-refreshing-flurry.png",
-    "xws": "refreshingflurry",
+    "xws": "polarcat",
     "level": "6",
     "initiative": "95",
-    "cardno": "352",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "352"
+  },
+  {
+    "name": "sd-back",
+    "points": 2096,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-sd-back.png",
+    "xws": "sdback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "snowdancer",
+    "assetno": "###"
   },
   {
     "name": "shifting snow",
-    "points": 1663,
+    "points": 2097,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-shifting-snow.png",
     "xws": "shiftingsnow",
     "level": "5",
     "initiative": "17",
-    "cardno": "351",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "351"
+  },
+  {
+    "name": "351",
+    "points": 2098,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-shifting-snow.png",
+    "xws": "shiftingsnow",
+    "level": "5",
+    "initiative": "17",
+    "character-xws": "snowdancer",
+    "assetno": "351"
   },
   {
     "name": "snowball",
-    "points": 1664,
+    "points": 2099,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-snowball.png",
     "xws": "snowball",
     "level": "1",
     "initiative": "23",
-    "cardno": "336",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "336"
+  },
+  {
+    "name": "336",
+    "points": 2100,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-snowball.png",
+    "xws": "snowball",
+    "level": "1",
+    "initiative": "23",
+    "character-xws": "snowdancer",
+    "assetno": "336"
   },
   {
     "name": "snowblind",
-    "points": 1665,
+    "points": 2101,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-snowblind.png",
     "xws": "snowblind",
     "level": "9",
     "initiative": "83",
-    "cardno": "359",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "359"
+  },
+  {
+    "name": "359",
+    "points": 2102,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-snowblind.png",
+    "xws": "snowblind",
+    "level": "9",
+    "initiative": "83",
+    "character-xws": "snowdancer",
+    "assetno": "359"
   },
   {
     "name": "storm wall",
-    "points": 1666,
+    "points": 2103,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-storm-wall.png",
     "xws": "stormwall",
     "level": "7",
     "initiative": "30",
-    "cardno": "355",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "355"
+  },
+  {
+    "name": "355",
+    "points": 2104,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-storm-wall.png",
+    "xws": "stormwall",
+    "level": "7",
+    "initiative": "30",
+    "character-xws": "snowdancer",
+    "assetno": "355"
   },
   {
     "name": "surging blow",
-    "points": 1667,
+    "points": 2105,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-surging-blow.png",
     "xws": "surgingblow",
     "level": "8",
     "initiative": "73",
-    "cardno": "356",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "356"
+  },
+  {
+    "name": "356",
+    "points": 2106,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-surging-blow.png",
+    "xws": "surgingblow",
+    "level": "8",
+    "initiative": "73",
+    "character-xws": "snowdancer",
+    "assetno": "356"
   },
   {
     "name": "the endless white",
-    "points": 1668,
+    "points": 2107,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-the-endless-white.png",
     "xws": "theendlesswhite",
     "level": "8",
     "initiative": "05",
-    "cardno": "357",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "357"
+  },
+  {
+    "name": "357",
+    "points": 2108,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-the-endless-white.png",
+    "xws": "theendlesswhite",
+    "level": "8",
+    "initiative": "05",
+    "character-xws": "snowdancer",
+    "assetno": "357"
   },
   {
     "name": "the spirit's call",
-    "points": 1669,
+    "points": 2109,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-the-spirits-call.png",
     "xws": "thespiritscall",
     "level": "x",
     "initiative": "45",
-    "cardno": "343",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "343"
+  },
+  {
+    "name": "343",
+    "points": 2110,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-the-spirits-call.png",
+    "xws": "thespiritscall",
+    "level": "x",
+    "initiative": "45",
+    "character-xws": "snowdancer",
+    "assetno": "343"
   },
   {
     "name": "tornado",
-    "points": 1670,
+    "points": 2111,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-tornado.png",
     "xws": "tornado",
     "level": "2",
     "initiative": "59",
-    "cardno": "345",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "345"
+  },
+  {
+    "name": "345",
+    "points": 2112,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-tornado.png",
+    "xws": "tornado",
+    "level": "2",
+    "initiative": "59",
+    "character-xws": "snowdancer",
+    "assetno": "345"
   },
   {
     "name": "whipping gale",
-    "points": 1671,
+    "points": 2113,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-whipping-gale.png",
     "xws": "whippinggale",
     "level": "5",
     "initiative": "79",
-    "cardno": "350",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "350"
+  },
+  {
+    "name": "350",
+    "points": 2114,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-whipping-gale.png",
+    "xws": "whippinggale",
+    "level": "5",
+    "initiative": "79",
+    "character-xws": "snowdancer",
+    "assetno": "350"
   },
   {
     "name": "whiteout",
-    "points": 1672,
+    "points": 2115,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-whiteout.png",
     "xws": "whiteout",
     "level": "1",
     "initiative": "21",
-    "cardno": "337",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "337"
+  },
+  {
+    "name": "337",
+    "points": 2116,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-whiteout.png",
+    "xws": "whiteout",
+    "level": "1",
+    "initiative": "21",
+    "character-xws": "snowdancer",
+    "assetno": "337"
   },
   {
     "name": "white winds",
-    "points": 1673,
+    "points": 2117,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-white-winds.png",
     "xws": "whitewinds",
     "level": "x",
     "initiative": "11",
-    "cardno": "341",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "341"
+  },
+  {
+    "name": "341",
+    "points": 2118,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-white-winds.png",
+    "xws": "whitewinds",
+    "level": "x",
+    "initiative": "11",
+    "character-xws": "snowdancer",
+    "assetno": "341"
   },
   {
     "name": "winds of change",
-    "points": 1674,
+    "points": 2119,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-winds-of-change.png",
     "xws": "windsofchange",
     "level": "9",
     "initiative": "15",
-    "cardno": "358",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "358"
+  },
+  {
+    "name": "358",
+    "points": 2120,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sd/fh-winds-of-change.png",
+    "xws": "windsofchange",
+    "level": "9",
+    "initiative": "15",
+    "character-xws": "snowdancer",
+    "assetno": "358"
   },
   {
     "name": "zephyr barrier",
-    "points": 1675,
+    "points": 2121,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sd/fh-zephyr-barrier.png",
     "xws": "zephyrbarrier",
     "level": "4",
     "initiative": "40",
-    "cardno": "348",
-    "character-xws": "snowdancer"
+    "character-xws": "snowdancer",
+    "assetno": "348"
   },
   {
-    "name": "sh-back",
-    "points": 1676,
+    "name": "348",
+    "points": 2122,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/sh/fh-sh-back.png",
-    "xws": "shback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "shattersong"
+    "image": "character-ability-cards/frosthaven/sd/fh-zephyr-barrier.png",
+    "xws": "zephyrbarrier",
+    "level": "4",
+    "initiative": "40",
+    "character-xws": "snowdancer",
+    "assetno": "348"
   },
   {
     "name": "barbaric yawp",
-    "points": 1677,
+    "points": 2123,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-barbaric-yawp.png",
     "xws": "barbaricyawp",
     "level": "9",
     "initiative": "66",
-    "cardno": "271",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "271"
+  },
+  {
+    "name": "271",
+    "points": 2124,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-barbaric-yawp.png",
+    "xws": "barbaricyawp",
+    "level": "9",
+    "initiative": "66",
+    "character-xws": "shattersong",
+    "assetno": "271"
   },
   {
     "name": "befuddling bellow",
-    "points": 1678,
+    "points": 2125,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-befuddling-bellow.png",
     "xws": "befuddlingbellow",
     "level": "2",
     "initiative": "18",
-    "cardno": "258",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "258"
+  },
+  {
+    "name": "258",
+    "points": 2126,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-befuddling-bellow.png",
+    "xws": "befuddlingbellow",
+    "level": "2",
+    "initiative": "18",
+    "character-xws": "shattersong",
+    "assetno": "258"
   },
   {
     "name": "calamitous yawp",
-    "points": 1679,
+    "points": 2127,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-calamitous-yawp.png",
     "xws": "calamitousyawp",
     "level": "x",
     "initiative": "65",
-    "cardno": "254",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "254"
+  },
+  {
+    "name": "254",
+    "points": 2128,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-calamitous-yawp.png",
+    "xws": "calamitousyawp",
+    "level": "x",
+    "initiative": "65",
+    "character-xws": "shattersong",
+    "assetno": "254"
   },
   {
     "name": "cloaking refraction",
-    "points": 1680,
+    "points": 2129,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-cloaking-refraction.png",
     "xws": "cloakingrefraction",
     "level": "7",
     "initiative": "11",
-    "cardno": "268",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "268"
+  },
+  {
+    "name": "268",
+    "points": 2130,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-cloaking-refraction.png",
+    "xws": "cloakingrefraction",
+    "level": "7",
+    "initiative": "11",
+    "character-xws": "shattersong",
+    "assetno": "268"
   },
   {
     "name": "concentrated blast",
-    "points": 1681,
+    "points": 2131,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-concentrated-blast.png",
     "xws": "concentratedblast",
     "level": "4",
     "initiative": "38",
-    "cardno": "261",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "261"
+  },
+  {
+    "name": "261",
+    "points": 2132,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-concentrated-blast.png",
+    "xws": "concentratedblast",
+    "level": "4",
+    "initiative": "38",
+    "character-xws": "shattersong",
+    "assetno": "261"
   },
   {
     "name": "devastating shout",
-    "points": 1682,
+    "points": 2133,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-devastating-shout.png",
     "xws": "devastatingshout",
     "level": "1",
     "initiative": "68",
-    "cardno": "253",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "253"
+  },
+  {
+    "name": "253",
+    "points": 2134,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-devastating-shout.png",
+    "xws": "devastatingshout",
+    "level": "1",
+    "initiative": "68",
+    "character-xws": "shattersong",
+    "assetno": "253"
   },
   {
     "name": "din of battle",
-    "points": 1683,
+    "points": 2135,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-din-of-battle.png",
     "xws": "dinofbattle",
     "level": "x",
     "initiative": "14",
-    "cardno": "255",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "255"
+  },
+  {
+    "name": "255",
+    "points": 2136,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-din-of-battle.png",
+    "xws": "dinofbattle",
+    "level": "x",
+    "initiative": "14",
+    "character-xws": "shattersong",
+    "assetno": "255"
   },
   {
     "name": "elemental pulse",
-    "points": 1684,
+    "points": 2137,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-elemental-pulse.png",
     "xws": "elementalpulse",
     "level": "4",
     "initiative": "25",
-    "cardno": "262",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "262"
+  },
+  {
+    "name": "262",
+    "points": 2138,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-elemental-pulse.png",
+    "xws": "elementalpulse",
+    "level": "4",
+    "initiative": "25",
+    "character-xws": "shattersong",
+    "assetno": "262"
   },
   {
     "name": "empowering note",
-    "points": 1685,
+    "points": 2139,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-empowering-note.png",
     "xws": "empoweringnote",
     "level": "5",
     "initiative": "45",
-    "cardno": "264",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "264"
+  },
+  {
+    "name": "264",
+    "points": 2140,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-empowering-note.png",
+    "xws": "empoweringnote",
+    "level": "5",
+    "initiative": "45",
+    "character-xws": "shattersong",
+    "assetno": "264"
   },
   {
     "name": "empowering pulse",
-    "points": 1686,
+    "points": 2141,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-empowering-pulse.png",
     "xws": "empoweringpulse",
     "level": "1",
     "initiative": "22",
-    "cardno": "252",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "252"
+  },
+  {
+    "name": "252",
+    "points": 2142,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-empowering-pulse.png",
+    "xws": "empoweringpulse",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "shattersong",
+    "assetno": "252"
   },
   {
     "name": "feedback",
-    "points": 1687,
+    "points": 2143,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-feedback.png",
     "xws": "feedback",
     "level": "8",
     "initiative": "24",
-    "cardno": "270",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "270"
+  },
+  {
+    "name": "270",
+    "points": 2144,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-feedback.png",
+    "xws": "feedback",
+    "level": "8",
+    "initiative": "24",
+    "character-xws": "shattersong",
+    "assetno": "270"
   },
   {
     "name": "forceful vibrations",
-    "points": 1688,
+    "points": 2145,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-forceful-vibrations.png",
     "xws": "forcefulvibrations",
     "level": "1",
     "initiative": "27",
-    "cardno": "247",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "247"
+  },
+  {
+    "name": "247",
+    "points": 2146,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-forceful-vibrations.png",
+    "xws": "forcefulvibrations",
+    "level": "1",
+    "initiative": "27",
+    "character-xws": "shattersong",
+    "assetno": "247"
   },
   {
     "name": "foreboding tremors",
-    "points": 1689,
+    "points": 2147,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-foreboding-tremors.png",
     "xws": "forebodingtremors",
     "level": "1",
     "initiative": "21",
-    "cardno": "249",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "249"
+  },
+  {
+    "name": "249",
+    "points": 2148,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-foreboding-tremors.png",
+    "xws": "forebodingtremors",
+    "level": "1",
+    "initiative": "21",
+    "character-xws": "shattersong",
+    "assetno": "249"
   },
   {
     "name": "future sense",
-    "points": 1690,
+    "points": 2149,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-future-sense.png",
     "xws": "futuresense",
     "level": "6",
     "initiative": "28",
-    "cardno": "266",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "266"
+  },
+  {
+    "name": "266",
+    "points": 2150,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-future-sense.png",
+    "xws": "futuresense",
+    "level": "6",
+    "initiative": "28",
+    "character-xws": "shattersong",
+    "assetno": "266"
   },
   {
     "name": "heartening harmony",
-    "points": 1691,
+    "points": 2151,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-heartening-harmony.png",
     "xws": "hearteningharmony",
     "level": "1",
     "initiative": "30",
-    "cardno": "246",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "246"
+  },
+  {
+    "name": "246",
+    "points": 2152,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-heartening-harmony.png",
+    "xws": "hearteningharmony",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "shattersong",
+    "assetno": "246"
   },
   {
     "name": "illuminative tone",
-    "points": 1692,
+    "points": 2153,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-illuminative-tone.png",
     "xws": "illuminativetone",
     "level": "x",
     "initiative": "72",
-    "cardno": "256",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "256"
+  },
+  {
+    "name": "256",
+    "points": 2154,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-illuminative-tone.png",
+    "xws": "illuminativetone",
+    "level": "x",
+    "initiative": "72",
+    "character-xws": "shattersong",
+    "assetno": "256"
   },
   {
     "name": "lifting voice",
-    "points": 1693,
+    "points": 2155,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-lifting-voice.png",
     "xws": "liftingvoice",
     "level": "1",
     "initiative": "29",
-    "cardno": "245",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "245"
+  },
+  {
+    "name": "245",
+    "points": 2156,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-lifting-voice.png",
+    "xws": "liftingvoice",
+    "level": "1",
+    "initiative": "29",
+    "character-xws": "shattersong",
+    "assetno": "245"
   },
   {
     "name": "precious gems",
-    "points": 1694,
+    "points": 2157,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-precious-gems.png",
     "xws": "preciousgems",
     "level": "1",
     "initiative": "10",
-    "cardno": "251",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "251"
+  },
+  {
+    "name": "251",
+    "points": 2158,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-precious-gems.png",
+    "xws": "preciousgems",
+    "level": "1",
+    "initiative": "10",
+    "character-xws": "shattersong",
+    "assetno": "251"
   },
   {
     "name": "resonant frequency",
-    "points": 1695,
+    "points": 2159,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-resonant-frequency.png",
     "xws": "resonantfrequency",
     "level": "1",
     "initiative": "88",
-    "cardno": "248",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "248"
+  },
+  {
+    "name": "248",
+    "points": 2160,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-resonant-frequency.png",
+    "xws": "resonantfrequency",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "shattersong",
+    "assetno": "248"
   },
   {
     "name": "shape the path",
-    "points": 1696,
+    "points": 2161,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-shape-the-path.png",
     "xws": "shapethepath",
     "level": "3",
     "initiative": "40",
-    "cardno": "259",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "259"
+  },
+  {
+    "name": "259",
+    "points": 2162,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-shape-the-path.png",
+    "xws": "shapethepath",
+    "level": "3",
+    "initiative": "40",
+    "character-xws": "shattersong",
+    "assetno": "259"
+  },
+  {
+    "name": "sh-back",
+    "points": 2163,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-sh-back.png",
+    "xws": "shback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "shattersong",
+    "assetno": "###"
   },
   {
     "name": "shrieking chakram",
-    "points": 1697,
+    "points": 2164,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-shrieking-chakram.png",
     "xws": "shriekingchakram",
     "level": "5",
     "initiative": "08",
-    "cardno": "263",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "263"
+  },
+  {
+    "name": "263",
+    "points": 2165,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-shrieking-chakram.png",
+    "xws": "shriekingchakram",
+    "level": "5",
+    "initiative": "08",
+    "character-xws": "shattersong",
+    "assetno": "263"
   },
   {
     "name": "soft spots",
-    "points": 1698,
+    "points": 2166,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-soft-spots.png",
     "xws": "softspots",
     "level": "8",
     "initiative": "47",
-    "cardno": "269",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "269"
+  },
+  {
+    "name": "269",
+    "points": 2167,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-soft-spots.png",
+    "xws": "softspots",
+    "level": "8",
+    "initiative": "47",
+    "character-xws": "shattersong",
+    "assetno": "269"
   },
   {
     "name": "sonic shock",
-    "points": 1699,
+    "points": 2168,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-sonic-shock.png",
     "xws": "sonicshock",
     "level": "1",
     "initiative": "58",
-    "cardno": "250",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "250"
+  },
+  {
+    "name": "250",
+    "points": 2169,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-sonic-shock.png",
+    "xws": "sonicshock",
+    "level": "1",
+    "initiative": "58",
+    "character-xws": "shattersong",
+    "assetno": "250"
   },
   {
     "name": "sound therapy",
-    "points": 1700,
+    "points": 2170,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-sound-therapy.png",
     "xws": "soundtherapy",
     "level": "7",
     "initiative": "73",
-    "cardno": "267",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "267"
+  },
+  {
+    "name": "267",
+    "points": 2171,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-sound-therapy.png",
+    "xws": "soundtherapy",
+    "level": "7",
+    "initiative": "73",
+    "character-xws": "shattersong",
+    "assetno": "267"
   },
   {
     "name": "stealth vibrations",
-    "points": 1701,
+    "points": 2172,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-stealth-vibrations.png",
     "xws": "stealthvibrations",
     "level": "3",
     "initiative": "35",
-    "cardno": "260",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "260"
+  },
+  {
+    "name": "260",
+    "points": 2173,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-stealth-vibrations.png",
+    "xws": "stealthvibrations",
+    "level": "3",
+    "initiative": "35",
+    "character-xws": "shattersong",
+    "assetno": "260"
   },
   {
     "name": "transparency",
-    "points": 1702,
+    "points": 2174,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-transparency.png",
     "xws": "transparency",
     "level": "2",
     "initiative": "13",
-    "cardno": "257",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "257"
+  },
+  {
+    "name": "257",
+    "points": 2175,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-transparency.png",
+    "xws": "transparency",
+    "level": "2",
+    "initiative": "13",
+    "character-xws": "shattersong",
+    "assetno": "257"
   },
   {
     "name": "unrelenting wail",
-    "points": 1703,
+    "points": 2176,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-unrelenting-wail.png",
     "xws": "unrelentingwail",
     "level": "1",
     "initiative": "26",
-    "cardno": "244",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "244"
+  },
+  {
+    "name": "244",
+    "points": 2177,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-unrelenting-wail.png",
+    "xws": "unrelentingwail",
+    "level": "1",
+    "initiative": "26",
+    "character-xws": "shattersong",
+    "assetno": "244"
   },
   {
     "name": "unsustainable wave",
-    "points": 1704,
+    "points": 2178,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-unsustainable-wave.png",
     "xws": "unsustainablewave",
     "level": "6",
     "initiative": "36",
-    "cardno": "265",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "265"
+  },
+  {
+    "name": "265",
+    "points": 2179,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/sh/fh-unsustainable-wave.png",
+    "xws": "unsustainablewave",
+    "level": "6",
+    "initiative": "36",
+    "character-xws": "shattersong",
+    "assetno": "265"
   },
   {
     "name": "violent vibrations",
-    "points": 1705,
+    "points": 2180,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/sh/fh-violent-vibrations.png",
     "xws": "violentvibrations",
     "level": "9",
     "initiative": "05",
-    "cardno": "272",
-    "character-xws": "shattersong"
+    "character-xws": "shattersong",
+    "assetno": "272"
   },
   {
-    "name": "ta-back",
-    "points": 1706,
+    "name": "272",
+    "points": 2181,
     "expansion": "frosthaven",
-    "image": "character-ability-cards/frosthaven/ta/fh-ta-back.png",
-    "xws": "taback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "trapper"
+    "image": "character-ability-cards/frosthaven/sh/fh-violent-vibrations.png",
+    "xws": "violentvibrations",
+    "level": "9",
+    "initiative": "05",
+    "character-xws": "shattersong",
+    "assetno": "272"
   },
   {
     "name": "boar catcher",
-    "points": 1707,
+    "points": 2182,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-boar-catcher.png",
     "xws": "boarcatcher",
     "level": "1",
     "initiative": "20",
-    "cardno": "275",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "275"
+  },
+  {
+    "name": "275",
+    "points": 2183,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-boar-catcher.png",
+    "xws": "boarcatcher",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "trapper",
+    "assetno": "275"
   },
   {
     "name": "cage of thorns",
-    "points": 1708,
+    "points": 2184,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-cage-of-thorns.png",
     "xws": "cageofthorns",
     "level": "6",
     "initiative": "55",
-    "cardno": "294",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "294"
+  },
+  {
+    "name": "294",
+    "points": 2185,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-cage-of-thorns.png",
+    "xws": "cageofthorns",
+    "level": "6",
+    "initiative": "55",
+    "character-xws": "trapper",
+    "assetno": "294"
   },
   {
     "name": "caltrops",
-    "points": 1709,
+    "points": 2186,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-caltrops.png",
     "xws": "caltrops",
     "level": "1",
     "initiative": "25",
-    "cardno": "273",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "273"
+  },
+  {
+    "name": "273",
+    "points": 2187,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-caltrops.png",
+    "xws": "caltrops",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "trapper",
+    "assetno": "273"
   },
   {
     "name": "dangerous cargo",
-    "points": 1710,
+    "points": 2188,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-dangerous-cargo.png",
     "xws": "dangerouscargo",
     "level": "9",
     "initiative": "23",
-    "cardno": "299",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "299"
+  },
+  {
+    "name": "299",
+    "points": 2189,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-dangerous-cargo.png",
+    "xws": "dangerouscargo",
+    "level": "9",
+    "initiative": "23",
+    "character-xws": "trapper",
+    "assetno": "299"
   },
   {
     "name": "dangerous ground",
-    "points": 1711,
+    "points": 2190,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-dangerous-ground.png",
     "xws": "dangerousground",
     "level": "4",
     "initiative": "31",
-    "cardno": "289",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "289"
+  },
+  {
+    "name": "289",
+    "points": 2191,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-dangerous-ground.png",
+    "xws": "dangerousground",
+    "level": "4",
+    "initiative": "31",
+    "character-xws": "trapper",
+    "assetno": "289"
   },
   {
     "name": "dismantle",
-    "points": 1712,
+    "points": 2192,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-dismantle.png",
     "xws": "dismantle",
     "level": "x",
     "initiative": "72",
-    "cardno": "282",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "282"
+  },
+  {
+    "name": "282",
+    "points": 2193,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-dismantle.png",
+    "xws": "dismantle",
+    "level": "x",
+    "initiative": "72",
+    "character-xws": "trapper",
+    "assetno": "282"
   },
   {
     "name": "electrified net",
-    "points": 1713,
+    "points": 2194,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-electrified-net.png",
     "xws": "electrifiednet",
     "level": "1",
     "initiative": "53",
-    "cardno": "277",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "277"
+  },
+  {
+    "name": "277",
+    "points": 2195,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-electrified-net.png",
+    "xws": "electrifiednet",
+    "level": "1",
+    "initiative": "53",
+    "character-xws": "trapper",
+    "assetno": "277"
   },
   {
     "name": "enticing bait",
-    "points": 1714,
+    "points": 2196,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-enticing-bait.png",
     "xws": "enticingbait",
     "level": "1",
     "initiative": "30",
-    "cardno": "279",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "279"
+  },
+  {
+    "name": "279",
+    "points": 2197,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-enticing-bait.png",
+    "xws": "enticingbait",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "trapper",
+    "assetno": "279"
   },
   {
     "name": "exploding decoy",
-    "points": 1715,
+    "points": 2198,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-exploding-decoy.png",
     "xws": "explodingdecoy",
     "level": "1",
     "initiative": "62",
-    "cardno": "280",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "280"
+  },
+  {
+    "name": "280",
+    "points": 2199,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-exploding-decoy.png",
+    "xws": "explodingdecoy",
+    "level": "1",
+    "initiative": "62",
+    "character-xws": "trapper",
+    "assetno": "280"
   },
   {
     "name": "extra teeth",
-    "points": 1716,
+    "points": 2200,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-extra-teeth.png",
     "xws": "extrateeth",
     "level": "3",
     "initiative": "22",
-    "cardno": "287",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "287"
+  },
+  {
+    "name": "287",
+    "points": 2201,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-extra-teeth.png",
+    "xws": "extrateeth",
+    "level": "3",
+    "initiative": "22",
+    "character-xws": "trapper",
+    "assetno": "287"
   },
   {
     "name": "flurry of nails",
-    "points": 1717,
+    "points": 2202,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-flurry-of-nails.png",
     "xws": "flurryofnails",
     "level": "1",
     "initiative": "68",
-    "cardno": "281",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "281"
+  },
+  {
+    "name": "281",
+    "points": 2203,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-flurry-of-nails.png",
+    "xws": "flurryofnails",
+    "level": "1",
+    "initiative": "68",
+    "character-xws": "trapper",
+    "assetno": "281"
   },
   {
     "name": "foxhole",
-    "points": 1718,
+    "points": 2204,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-foxhole.png",
     "xws": "foxhole",
     "level": "7",
     "initiative": "90",
-    "cardno": "296",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "296"
+  },
+  {
+    "name": "296",
+    "points": 2205,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-foxhole.png",
+    "xws": "foxhole",
+    "level": "7",
+    "initiative": "90",
+    "character-xws": "trapper",
+    "assetno": "296"
   },
   {
     "name": "defense grid",
-    "points": 1719,
+    "points": 2206,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-foxhole.png",
-    "xws": "foxhole",
+    "xws": "defensegrid",
     "level": "7",
     "initiative": "90",
-    "cardno": "296",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "296"
   },
   {
     "name": "furry facade",
-    "points": 1720,
+    "points": 2207,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-furry-facade.png",
     "xws": "furryfacade",
     "level": "1",
     "initiative": "85",
-    "cardno": "274",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "274"
+  },
+  {
+    "name": "274",
+    "points": 2208,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-furry-facade.png",
+    "xws": "furryfacade",
+    "level": "1",
+    "initiative": "85",
+    "character-xws": "trapper",
+    "assetno": "274"
   },
   {
     "name": "shaggy lure",
-    "points": 1721,
+    "points": 2209,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-furry-facade.png",
-    "xws": "furryfacade",
+    "xws": "shaggylure",
     "level": "1",
     "initiative": "85",
-    "cardno": "274",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "274"
   },
   {
     "name": "grasping hazards",
-    "points": 1722,
+    "points": 2210,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-grasping-hazards.png",
     "xws": "graspinghazards",
     "level": "7",
     "initiative": "08",
-    "cardno": "295",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "295"
+  },
+  {
+    "name": "295",
+    "points": 2211,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-grasping-hazards.png",
+    "xws": "graspinghazards",
+    "level": "7",
+    "initiative": "08",
+    "character-xws": "trapper",
+    "assetno": "295"
   },
   {
     "name": "honeypot",
-    "points": 1723,
+    "points": 2212,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-honeypot.png",
     "xws": "honeypot",
     "level": "1",
     "initiative": "18",
-    "cardno": "278",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "278"
+  },
+  {
+    "name": "278",
+    "points": 2213,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-honeypot.png",
+    "xws": "honeypot",
+    "level": "1",
+    "initiative": "18",
+    "character-xws": "trapper",
+    "assetno": "278"
   },
   {
     "name": "improvised improvement",
-    "points": 1724,
+    "points": 2214,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-improvised-improvement.png",
     "xws": "improvisedimprovement",
     "level": "x",
     "initiative": "58",
-    "cardno": "284",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "284"
+  },
+  {
+    "name": "284",
+    "points": 2215,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-improvised-improvement.png",
+    "xws": "improvisedimprovement",
+    "level": "x",
+    "initiative": "58",
+    "character-xws": "trapper",
+    "assetno": "284"
   },
   {
     "name": "lure of the snare",
-    "points": 1725,
+    "points": 2216,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-lure-of-the-snare.png",
     "xws": "lureofthesnare",
     "level": "5",
     "initiative": "59",
-    "cardno": "291",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "291"
+  },
+  {
+    "name": "291",
+    "points": 2217,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-lure-of-the-snare.png",
+    "xws": "lureofthesnare",
+    "level": "5",
+    "initiative": "59",
+    "character-xws": "trapper",
+    "assetno": "291"
   },
   {
     "name": "magnetic shards",
-    "points": 1726,
+    "points": 2218,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-magnetic-shards.png",
     "xws": "magneticshards",
     "level": "8",
     "initiative": "37",
-    "cardno": "298",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "298"
+  },
+  {
+    "name": "298",
+    "points": 2219,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-magnetic-shards.png",
+    "xws": "magneticshards",
+    "level": "8",
+    "initiative": "37",
+    "character-xws": "trapper",
+    "assetno": "298"
   },
   {
     "name": "mother of all traps",
-    "points": 1727,
+    "points": 2220,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-mother-of-all-traps.png",
     "xws": "motherofalltraps",
     "level": "9",
     "initiative": "86",
-    "cardno": "300",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "300"
+  },
+  {
+    "name": "300",
+    "points": 2221,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-mother-of-all-traps.png",
+    "xws": "motherofalltraps",
+    "level": "9",
+    "initiative": "86",
+    "character-xws": "trapper",
+    "assetno": "300"
   },
   {
     "name": "path of pain",
-    "points": 1728,
+    "points": 2222,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-path-of-pain.png",
     "xws": "pathofpain",
     "level": "2",
     "initiative": "38",
-    "cardno": "286",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "286"
+  },
+  {
+    "name": "286",
+    "points": 2223,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-path-of-pain.png",
+    "xws": "pathofpain",
+    "level": "2",
+    "initiative": "38",
+    "character-xws": "trapper",
+    "assetno": "286"
   },
   {
     "name": "persistent pitfalls",
-    "points": 1729,
+    "points": 2224,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-persistent-pitfalls.png",
     "xws": "persistentpitfalls",
     "level": "6",
     "initiative": "13",
-    "cardno": "293",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "293"
+  },
+  {
+    "name": "293",
+    "points": 2225,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-persistent-pitfalls.png",
+    "xws": "persistentpitfalls",
+    "level": "6",
+    "initiative": "13",
+    "character-xws": "trapper",
+    "assetno": "293"
   },
   {
     "name": "proficient hunter",
-    "points": 1730,
+    "points": 2226,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-proficient-hunter.png",
     "xws": "proficienthunter",
     "level": "5",
     "initiative": "26",
-    "cardno": "292",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "292"
+  },
+  {
+    "name": "292",
+    "points": 2227,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-proficient-hunter.png",
+    "xws": "proficienthunter",
+    "level": "5",
+    "initiative": "26",
+    "character-xws": "trapper",
+    "assetno": "292"
   },
   {
     "name": "pyrotechnics",
-    "points": 1731,
+    "points": 2228,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-pyrotechnics.png",
     "xws": "pyrotechnics",
     "level": "3",
     "initiative": "80",
-    "cardno": "288",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "288"
+  },
+  {
+    "name": "288",
+    "points": 2229,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-pyrotechnics.png",
+    "xws": "pyrotechnics",
+    "level": "3",
+    "initiative": "80",
+    "character-xws": "trapper",
+    "assetno": "288"
   },
   {
     "name": "spike pit",
-    "points": 1732,
+    "points": 2230,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-spike-pit.png",
     "xws": "spikepit",
     "level": "1",
     "initiative": "47",
-    "cardno": "276",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "276"
+  },
+  {
+    "name": "276",
+    "points": 2231,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-spike-pit.png",
+    "xws": "spikepit",
+    "level": "1",
+    "initiative": "47",
+    "character-xws": "trapper",
+    "assetno": "276"
   },
   {
     "name": "spike strip",
-    "points": 1733,
+    "points": 2232,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-spike-strip.png",
     "xws": "spikestrip",
     "level": "8",
     "initiative": "67",
-    "cardno": "297",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "297"
   },
   {
-    "name": "spring-loaded",
-    "points": 1734,
+    "name": "297",
+    "points": 2233,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-spike-strip.png",
+    "xws": "spikestrip",
+    "level": "8",
+    "initiative": "67",
+    "character-xws": "trapper",
+    "assetno": "297"
+  },
+  {
+    "name": "spring loaded",
+    "points": 2234,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-spring-loaded.png",
     "xws": "springloaded",
     "level": "x",
     "initiative": "15",
-    "cardno": "283",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "283"
+  },
+  {
+    "name": "283",
+    "points": 2235,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-spring-loaded.png",
+    "xws": "springloaded",
+    "level": "x",
+    "initiative": "15",
+    "character-xws": "trapper",
+    "assetno": "283"
   },
   {
     "name": "stalker's spoils",
-    "points": 1735,
+    "points": 2236,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-stalkers-spoils.png",
     "xws": "stalkersspoils",
     "level": "4",
     "initiative": "10",
-    "cardno": "290",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "290"
+  },
+  {
+    "name": "290",
+    "points": 2237,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-stalkers-spoils.png",
+    "xws": "stalkersspoils",
+    "level": "4",
+    "initiative": "10",
+    "character-xws": "trapper",
+    "assetno": "290"
+  },
+  {
+    "name": "ta-back",
+    "points": 2238,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-ta-back.png",
+    "xws": "taback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "trapper",
+    "assetno": "###"
   },
   {
     "name": "unavoidable outcome",
-    "points": 1736,
+    "points": 2239,
     "expansion": "frosthaven",
     "image": "character-ability-cards/frosthaven/ta/fh-unavoidable-outcome.png",
     "xws": "unavoidableoutcome",
     "level": "2",
     "initiative": "45",
-    "cardno": "285",
-    "character-xws": "trapper"
+    "character-xws": "trapper",
+    "assetno": "285"
+  },
+  {
+    "name": "285",
+    "points": 2240,
+    "expansion": "frosthaven",
+    "image": "character-ability-cards/frosthaven/ta/fh-unavoidable-outcome.png",
+    "xws": "unavoidableoutcome",
+    "level": "2",
+    "initiative": "45",
+    "character-xws": "trapper",
+    "assetno": "285"
   },
   {
     "name": "a-explosive blitz",
-    "points": 1737,
+    "points": 2241,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-explosive-blitz.png",
     "xws": "aexplosiveblitz",
@@ -19119,7 +24660,7 @@
   },
   {
     "name": "077",
-    "points": 1738,
+    "points": 2242,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-explosive-blitz.png",
     "xws": "aexplosiveblitz",
@@ -19130,7 +24671,7 @@
   },
   {
     "name": "a-implode",
-    "points": 1739,
+    "points": 2243,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-implode.png",
     "xws": "aimplode",
@@ -19141,7 +24682,7 @@
   },
   {
     "name": "074",
-    "points": 1740,
+    "points": 2244,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-implode.png",
     "xws": "aimplode",
@@ -19152,7 +24693,7 @@
   },
   {
     "name": "a-knock out the support",
-    "points": 1741,
+    "points": 2245,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-knock-out-the-support.png",
     "xws": "aknockoutthesupport",
@@ -19163,7 +24704,7 @@
   },
   {
     "name": "075",
-    "points": 1742,
+    "points": 2246,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-knock-out-the-support.png",
     "xws": "aknockoutthesupport",
@@ -19174,7 +24715,7 @@
   },
   {
     "name": "a-one-two punch",
-    "points": 1743,
+    "points": 2247,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-one-two-punch.png",
     "xws": "aonetwopunch",
@@ -19185,7 +24726,7 @@
   },
   {
     "name": "079",
-    "points": 1744,
+    "points": 2248,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-one-two-punch.png",
     "xws": "aonetwopunch",
@@ -19196,7 +24737,7 @@
   },
   {
     "name": "a-piston punch",
-    "points": 1745,
+    "points": 2249,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-piston-punch.png",
     "xws": "apistonpunch",
@@ -19207,7 +24748,7 @@
   },
   {
     "name": "076",
-    "points": 1746,
+    "points": 2250,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-piston-punch.png",
     "xws": "apistonpunch",
@@ -19218,7 +24759,7 @@
   },
   {
     "name": "a-the big one",
-    "points": 1747,
+    "points": 2251,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-the-big-one.png",
     "xws": "athebigone",
@@ -19229,7 +24770,7 @@
   },
   {
     "name": "078",
-    "points": 1748,
+    "points": 2252,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-a-the-big-one.png",
     "xws": "athebigone",
@@ -19240,7 +24781,7 @@
   },
   {
     "name": "b-one-two punch",
-    "points": 1749,
+    "points": 2253,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-b-one-two-punch.png",
     "xws": "bonetwopunch",
@@ -19251,7 +24792,7 @@
   },
   {
     "name": "081",
-    "points": 1750,
+    "points": 2254,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-b-one-two-punch.png",
     "xws": "bonetwopunch",
@@ -19262,7 +24803,7 @@
   },
   {
     "name": "b-the big one",
-    "points": 1751,
+    "points": 2255,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-b-the-big-one.png",
     "xws": "bthebigone",
@@ -19273,7 +24814,7 @@
   },
   {
     "name": "080",
-    "points": 1752,
+    "points": 2256,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-b-the-big-one.png",
     "xws": "bthebigone",
@@ -19284,7 +24825,7 @@
   },
   {
     "name": "collateral damage",
-    "points": 1753,
+    "points": 2257,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-collateral-damage.png",
     "xws": "collateraldamage",
@@ -19295,7 +24836,7 @@
   },
   {
     "name": "108",
-    "points": 1754,
+    "points": 2258,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-collateral-damage.png",
     "xws": "collateraldamage",
@@ -19306,7 +24847,7 @@
   },
   {
     "name": "crash protocol",
-    "points": 1755,
+    "points": 2259,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-crash-protocol.png",
     "xws": "crashprotocol",
@@ -19317,7 +24858,7 @@
   },
   {
     "name": "095",
-    "points": 1756,
+    "points": 2260,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-crash-protocol.png",
     "xws": "crashprotocol",
@@ -19328,7 +24869,7 @@
   },
   {
     "name": "crushing weight",
-    "points": 1757,
+    "points": 2261,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-crushing-weight.png",
     "xws": "crushingweight",
@@ -19339,7 +24880,7 @@
   },
   {
     "name": "083",
-    "points": 1758,
+    "points": 2262,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-crushing-weight.png",
     "xws": "crushingweight",
@@ -19350,7 +24891,7 @@
   },
   {
     "name": "de-back",
-    "points": 1759,
+    "points": 2263,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-de-back.png",
     "xws": "deback",
@@ -19361,7 +24902,7 @@
   },
   {
     "name": "de-halt-back",
-    "points": 1760,
+    "points": 2264,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-de-halt-back.png",
     "xws": "dehaltback",
@@ -19372,7 +24913,7 @@
   },
   {
     "name": "de-halt-front",
-    "points": 1761,
+    "points": 2265,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-de-halt-front.png",
     "xws": "dehaltfront",
@@ -19383,7 +24924,7 @@
   },
   {
     "name": "100",
-    "points": 1762,
+    "points": 2266,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-de-halt-front.png",
     "xws": "dehaltfront",
@@ -19394,7 +24935,7 @@
   },
   {
     "name": "de-player-reference-back",
-    "points": 1763,
+    "points": 2267,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-de-player-reference-back.png",
     "xws": "deplayerreferenceback",
@@ -19405,7 +24946,7 @@
   },
   {
     "name": "de-player-reference-front",
-    "points": 1764,
+    "points": 2268,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-de-player-reference-front.png",
     "xws": "deplayerreferencefront",
@@ -19416,7 +24957,7 @@
   },
   {
     "name": "073",
-    "points": 1765,
+    "points": 2269,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-de-player-reference-front.png",
     "xws": "deplayerreferencefront",
@@ -19427,7 +24968,7 @@
   },
   {
     "name": "drill fist",
-    "points": 1766,
+    "points": 2270,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-drill-fist.png",
     "xws": "drillfist",
@@ -19438,7 +24979,7 @@
   },
   {
     "name": "103",
-    "points": 1767,
+    "points": 2271,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-drill-fist.png",
     "xws": "drillfist",
@@ -19449,7 +24990,7 @@
   },
   {
     "name": "dust cloud",
-    "points": 1768,
+    "points": 2272,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-dust-cloud.png",
     "xws": "dustcloud",
@@ -19460,7 +25001,7 @@
   },
   {
     "name": "102",
-    "points": 1769,
+    "points": 2273,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-dust-cloud.png",
     "xws": "dustcloud",
@@ -19471,7 +25012,7 @@
   },
   {
     "name": "explode",
-    "points": 1770,
+    "points": 2274,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-explode.png",
     "xws": "explode",
@@ -19482,7 +25023,7 @@
   },
   {
     "name": "085",
-    "points": 1771,
+    "points": 2275,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-explode.png",
     "xws": "explode",
@@ -19493,7 +25034,7 @@
   },
   {
     "name": "explosive blitz",
-    "points": 1772,
+    "points": 2276,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-explosive-blitz.png",
     "xws": "explosiveblitz",
@@ -19504,7 +25045,7 @@
   },
   {
     "name": "088",
-    "points": 1773,
+    "points": 2277,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-explosive-blitz.png",
     "xws": "explosiveblitz",
@@ -19515,7 +25056,7 @@
   },
   {
     "name": "extra fuel",
-    "points": 1774,
+    "points": 2278,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-extra-fuel.png",
     "xws": "extrafuel",
@@ -19526,7 +25067,7 @@
   },
   {
     "name": "099",
-    "points": 1775,
+    "points": 2279,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-extra-fuel.png",
     "xws": "extrafuel",
@@ -19537,7 +25078,7 @@
   },
   {
     "name": "fire bombs",
-    "points": 1776,
+    "points": 2280,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-fire-bombs.png",
     "xws": "firebombs",
@@ -19548,7 +25089,7 @@
   },
   {
     "name": "096",
-    "points": 1777,
+    "points": 2281,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-fire-bombs.png",
     "xws": "firebombs",
@@ -19559,7 +25100,7 @@
   },
   {
     "name": "gut punch",
-    "points": 1778,
+    "points": 2282,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-gut-punch.png",
     "xws": "gutpunch",
@@ -19570,7 +25111,7 @@
   },
   {
     "name": "106",
-    "points": 1779,
+    "points": 2283,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-gut-punch.png",
     "xws": "gutpunch",
@@ -19581,7 +25122,7 @@
   },
   {
     "name": "implode",
-    "points": 1780,
+    "points": 2284,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-implode.png",
     "xws": "implode",
@@ -19592,7 +25133,7 @@
   },
   {
     "name": "086",
-    "points": 1781,
+    "points": 2285,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-implode.png",
     "xws": "implode",
@@ -19603,7 +25144,7 @@
   },
   {
     "name": "insult to injury",
-    "points": 1782,
+    "points": 2286,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-insult-to-injury.png",
     "xws": "insulttoinjury",
@@ -19614,7 +25155,7 @@
   },
   {
     "name": "105",
-    "points": 1783,
+    "points": 2287,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-insult-to-injury.png",
     "xws": "insulttoinjury",
@@ -19625,7 +25166,7 @@
   },
   {
     "name": "knock out the support",
-    "points": 1784,
+    "points": 2288,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-knock-out-the-support.png",
     "xws": "knockoutthesupport",
@@ -19636,7 +25177,7 @@
   },
   {
     "name": "084",
-    "points": 1785,
+    "points": 2289,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-knock-out-the-support.png",
     "xws": "knockoutthesupport",
@@ -19647,7 +25188,7 @@
   },
   {
     "name": "level",
-    "points": 1786,
+    "points": 2290,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-level.png",
     "xws": "level",
@@ -19658,7 +25199,7 @@
   },
   {
     "name": "092",
-    "points": 1787,
+    "points": 2291,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-level.png",
     "xws": "level",
@@ -19669,7 +25210,7 @@
   },
   {
     "name": "lobbed charge",
-    "points": 1788,
+    "points": 2292,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-lobbed-charge.png",
     "xws": "lobbedcharge",
@@ -19680,7 +25221,7 @@
   },
   {
     "name": "093",
-    "points": 1789,
+    "points": 2293,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-lobbed-charge.png",
     "xws": "lobbedcharge",
@@ -19691,7 +25232,7 @@
   },
   {
     "name": "mech suit",
-    "points": 1790,
+    "points": 2294,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-mech-suit.png",
     "xws": "mechsuit",
@@ -19702,7 +25243,7 @@
   },
   {
     "name": "101",
-    "points": 1791,
+    "points": 2295,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-mech-suit.png",
     "xws": "mechsuit",
@@ -19713,7 +25254,7 @@
   },
   {
     "name": "micro missiles",
-    "points": 1792,
+    "points": 2296,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-micro-missiles.png",
     "xws": "micromissiles",
@@ -19724,7 +25265,7 @@
   },
   {
     "name": "104",
-    "points": 1793,
+    "points": 2297,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-micro-missiles.png",
     "xws": "micromissiles",
@@ -19735,7 +25276,7 @@
   },
   {
     "name": "nowhere to run",
-    "points": 1794,
+    "points": 2298,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-nowhere-to-run.png",
     "xws": "nowheretorun",
@@ -19746,7 +25287,7 @@
   },
   {
     "name": "097",
-    "points": 1795,
+    "points": 2299,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-nowhere-to-run.png",
     "xws": "nowheretorun",
@@ -19757,7 +25298,7 @@
   },
   {
     "name": "one-two punch",
-    "points": 1796,
+    "points": 2300,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-one-two-punch.png",
     "xws": "onetwopunch",
@@ -19768,7 +25309,7 @@
   },
   {
     "name": "090",
-    "points": 1797,
+    "points": 2301,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-one-two-punch.png",
     "xws": "onetwopunch",
@@ -19779,7 +25320,7 @@
   },
   {
     "name": "piston punch",
-    "points": 1798,
+    "points": 2302,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-piston-punch.png",
     "xws": "pistonpunch",
@@ -19790,7 +25331,7 @@
   },
   {
     "name": "087",
-    "points": 1799,
+    "points": 2303,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-piston-punch.png",
     "xws": "pistonpunch",
@@ -19801,7 +25342,7 @@
   },
   {
     "name": "remote detonation",
-    "points": 1800,
+    "points": 2304,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-remote-detonation.png",
     "xws": "remotedetonation",
@@ -19812,7 +25353,7 @@
   },
   {
     "name": "098",
-    "points": 1801,
+    "points": 2305,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-remote-detonation.png",
     "xws": "remotedetonation",
@@ -19823,7 +25364,7 @@
   },
   {
     "name": "robotic enhancement",
-    "points": 1802,
+    "points": 2306,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-robotic-enhancement.png",
     "xws": "roboticenhancement",
@@ -19834,7 +25375,7 @@
   },
   {
     "name": "094",
-    "points": 1803,
+    "points": 2307,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-robotic-enhancement.png",
     "xws": "roboticenhancement",
@@ -19845,7 +25386,7 @@
   },
   {
     "name": "rubble",
-    "points": 1804,
+    "points": 2308,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-rubble.png",
     "xws": "rubble",
@@ -19856,7 +25397,7 @@
   },
   {
     "name": "091",
-    "points": 1805,
+    "points": 2309,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-rubble.png",
     "xws": "rubble",
@@ -19867,7 +25408,7 @@
   },
   {
     "name": "the bigger one",
-    "points": 1806,
+    "points": 2310,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-the-bigger-one.png",
     "xws": "thebiggerone",
@@ -19878,7 +25419,7 @@
   },
   {
     "name": "107",
-    "points": 1807,
+    "points": 2311,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-the-bigger-one.png",
     "xws": "thebiggerone",
@@ -19889,7 +25430,7 @@
   },
   {
     "name": "the big one",
-    "points": 1808,
+    "points": 2312,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-the-big-one.png",
     "xws": "thebigone",
@@ -19900,7 +25441,7 @@
   },
   {
     "name": "089",
-    "points": 1809,
+    "points": 2313,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-the-big-one.png",
     "xws": "thebigone",
@@ -19911,7 +25452,7 @@
   },
   {
     "name": "wholesale destruction",
-    "points": 1810,
+    "points": 2314,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-wholesale-destruction.png",
     "xws": "wholesaledestruction",
@@ -19922,7 +25463,7 @@
   },
   {
     "name": "109",
-    "points": 1811,
+    "points": 2315,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-wholesale-destruction.png",
     "xws": "wholesaledestruction",
@@ -19933,7 +25474,7 @@
   },
   {
     "name": "windup",
-    "points": 1812,
+    "points": 2316,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-windup.png",
     "xws": "windup",
@@ -19944,7 +25485,7 @@
   },
   {
     "name": "082",
-    "points": 1813,
+    "points": 2317,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/de/jl-windup.png",
     "xws": "windup",
@@ -19955,7 +25496,7 @@
   },
   {
     "name": "a-center mass",
-    "points": 1814,
+    "points": 2318,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-center-mass.png",
     "xws": "acentermass",
@@ -19966,7 +25507,7 @@
   },
   {
     "name": "006",
-    "points": 1815,
+    "points": 2319,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-center-mass.png",
     "xws": "acentermass",
@@ -19977,7 +25518,7 @@
   },
   {
     "name": "a-close cuts",
-    "points": 1816,
+    "points": 2320,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-close-cuts.png",
     "xws": "aclosecuts",
@@ -19988,7 +25529,7 @@
   },
   {
     "name": "007",
-    "points": 1817,
+    "points": 2321,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-close-cuts.png",
     "xws": "aclosecuts",
@@ -19999,7 +25540,7 @@
   },
   {
     "name": "a-disorienting barrage",
-    "points": 1818,
+    "points": 2322,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-disorienting-barrage.png",
     "xws": "adisorientingbarrage",
@@ -20010,7 +25551,7 @@
   },
   {
     "name": "004",
-    "points": 1819,
+    "points": 2323,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-disorienting-barrage.png",
     "xws": "adisorientingbarrage",
@@ -20021,7 +25562,7 @@
   },
   {
     "name": "a-double throw",
-    "points": 1820,
+    "points": 2324,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-double-throw.png",
     "xws": "adoublethrow",
@@ -20032,7 +25573,7 @@
   },
   {
     "name": "003",
-    "points": 1821,
+    "points": 2325,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-double-throw.png",
     "xws": "adoublethrow",
@@ -20043,7 +25584,7 @@
   },
   {
     "name": "a-second wind",
-    "points": 1822,
+    "points": 2326,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-second-wind.png",
     "xws": "asecondwind",
@@ -20054,7 +25595,7 @@
   },
   {
     "name": "005",
-    "points": 1823,
+    "points": 2327,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-second-wind.png",
     "xws": "asecondwind",
@@ -20065,7 +25606,7 @@
   },
   {
     "name": "a-stopping power",
-    "points": 1824,
+    "points": 2328,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-stopping-power.png",
     "xws": "astoppingpower",
@@ -20076,7 +25617,7 @@
   },
   {
     "name": "002",
-    "points": 1825,
+    "points": 2329,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-stopping-power.png",
     "xws": "astoppingpower",
@@ -20087,7 +25628,7 @@
   },
   {
     "name": "b-center mass",
-    "points": 1826,
+    "points": 2330,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-center-mass.png",
     "xws": "bcentermass",
@@ -20098,7 +25639,7 @@
   },
   {
     "name": "008",
-    "points": 1827,
+    "points": 2331,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-center-mass.png",
     "xws": "bcentermass",
@@ -20109,7 +25650,7 @@
   },
   {
     "name": "b-close cuts",
-    "points": 1828,
+    "points": 2332,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-close-cuts.png",
     "xws": "bclosecuts",
@@ -20120,7 +25661,7 @@
   },
   {
     "name": "009",
-    "points": 1829,
+    "points": 2333,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-close-cuts.png",
     "xws": "bclosecuts",
@@ -20131,7 +25672,7 @@
   },
   {
     "name": "bombardment",
-    "points": 1830,
+    "points": 2334,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-bombardment.png",
     "xws": "bombardment",
@@ -20142,7 +25683,7 @@
   },
   {
     "name": "031",
-    "points": 1831,
+    "points": 2335,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-bombardment.png",
     "xws": "bombardment",
@@ -20153,7 +25694,7 @@
   },
   {
     "name": "brutalize",
-    "points": 1832,
+    "points": 2336,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-brutalize.png",
     "xws": "brutalize",
@@ -20164,7 +25705,7 @@
   },
   {
     "name": "034",
-    "points": 1833,
+    "points": 2337,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-brutalize.png",
     "xws": "brutalize",
@@ -20175,7 +25716,7 @@
   },
   {
     "name": "camaraderie",
-    "points": 1834,
+    "points": 2338,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-camaraderie.png",
     "xws": "camaraderie",
@@ -20186,7 +25727,7 @@
   },
   {
     "name": "036",
-    "points": 1835,
+    "points": 2339,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-camaraderie.png",
     "xws": "camaraderie",
@@ -20197,7 +25738,7 @@
   },
   {
     "name": "care package",
-    "points": 1836,
+    "points": 2340,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-care-package.png",
     "xws": "carepackage",
@@ -20208,7 +25749,7 @@
   },
   {
     "name": "020",
-    "points": 1837,
+    "points": 2341,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-care-package.png",
     "xws": "carepackage",
@@ -20219,7 +25760,7 @@
   },
   {
     "name": "center mass",
-    "points": 1838,
+    "points": 2342,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-center-mass.png",
     "xws": "centermass",
@@ -20230,7 +25771,7 @@
   },
   {
     "name": "013",
-    "points": 1839,
+    "points": 2343,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-center-mass.png",
     "xws": "centermass",
@@ -20241,7 +25782,7 @@
   },
   {
     "name": "close cuts",
-    "points": 1840,
+    "points": 2344,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-close-cuts.png",
     "xws": "closecuts",
@@ -20252,7 +25793,7 @@
   },
   {
     "name": "012",
-    "points": 1841,
+    "points": 2345,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-close-cuts.png",
     "xws": "closecuts",
@@ -20263,7 +25804,7 @@
   },
   {
     "name": "disorienting barrage",
-    "points": 1842,
+    "points": 2346,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-disorienting-barrage.png",
     "xws": "disorientingbarrage",
@@ -20274,7 +25815,7 @@
   },
   {
     "name": "016",
-    "points": 1843,
+    "points": 2347,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-disorienting-barrage.png",
     "xws": "disorientingbarrage",
@@ -20285,7 +25826,7 @@
   },
   {
     "name": "double throw",
-    "points": 1844,
+    "points": 2348,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-double-throw.png",
     "xws": "doublethrow",
@@ -20296,7 +25837,7 @@
   },
   {
     "name": "015",
-    "points": 1845,
+    "points": 2349,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-double-throw.png",
     "xws": "doublethrow",
@@ -20307,7 +25848,7 @@
   },
   {
     "name": "excessive force",
-    "points": 1846,
+    "points": 2350,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-excessive-force.png",
     "xws": "excessiveforce",
@@ -20318,7 +25859,7 @@
   },
   {
     "name": "033",
-    "points": 1847,
+    "points": 2351,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-excessive-force.png",
     "xws": "excessiveforce",
@@ -20329,7 +25870,7 @@
   },
   {
     "name": "executioner's axe",
-    "points": 1848,
+    "points": 2352,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-executioners-axe.png",
     "xws": "executionersaxe",
@@ -20340,7 +25881,7 @@
   },
   {
     "name": "037",
-    "points": 1849,
+    "points": 2353,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-executioners-axe.png",
     "xws": "executionersaxe",
@@ -20351,7 +25892,7 @@
   },
   {
     "name": "extra lift",
-    "points": 1850,
+    "points": 2354,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-extra-lift.png",
     "xws": "extralift",
@@ -20362,7 +25903,7 @@
   },
   {
     "name": "021",
-    "points": 1851,
+    "points": 2355,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-extra-lift.png",
     "xws": "extralift",
@@ -20373,7 +25914,7 @@
   },
   {
     "name": "fancy hat",
-    "points": 1852,
+    "points": 2356,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fancy-hat.png",
     "xws": "fancyhat",
@@ -20384,7 +25925,7 @@
   },
   {
     "name": "022",
-    "points": 1853,
+    "points": 2357,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fancy-hat.png",
     "xws": "fancyhat",
@@ -20395,7 +25936,7 @@
   },
   {
     "name": "fearsome efficiency",
-    "points": 1854,
+    "points": 2358,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fearsome-efficiency.png",
     "xws": "fearsomeefficiency",
@@ -20406,7 +25947,7 @@
   },
   {
     "name": "025",
-    "points": 1855,
+    "points": 2359,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fearsome-efficiency.png",
     "xws": "fearsomeefficiency",
@@ -20417,7 +25958,7 @@
   },
   {
     "name": "follow through",
-    "points": 1856,
+    "points": 2360,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-follow-through.png",
     "xws": "followthrough",
@@ -20428,7 +25969,7 @@
   },
   {
     "name": "018",
-    "points": 1857,
+    "points": 2361,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-follow-through.png",
     "xws": "followthrough",
@@ -20439,7 +25980,7 @@
   },
   {
     "name": "ha-back",
-    "points": 1858,
+    "points": 2362,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-back.png",
     "xws": "haback",
@@ -20450,7 +25991,7 @@
   },
   {
     "name": "ha-halt-back",
-    "points": 1859,
+    "points": 2363,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-halt-back.png",
     "xws": "hahaltback",
@@ -20461,7 +26002,7 @@
   },
   {
     "name": "ha-halt-front",
-    "points": 1860,
+    "points": 2364,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-halt-front.png",
     "xws": "hahaltfront",
@@ -20472,7 +26013,7 @@
   },
   {
     "name": "029",
-    "points": 1861,
+    "points": 2365,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-halt-front.png",
     "xws": "hahaltfront",
@@ -20483,7 +26024,7 @@
   },
   {
     "name": "ha-player-reference-back",
-    "points": 1862,
+    "points": 2366,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-player-reference-back.png",
     "xws": "haplayerreferenceback",
@@ -20494,7 +26035,7 @@
   },
   {
     "name": "ha-player-reference-front",
-    "points": 1863,
+    "points": 2367,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-player-reference-front.png",
     "xws": "haplayerreferencefront",
@@ -20505,7 +26046,7 @@
   },
   {
     "name": "001",
-    "points": 1864,
+    "points": 2368,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-player-reference-front.png",
     "xws": "haplayerreferencefront",
@@ -20516,7 +26057,7 @@
   },
   {
     "name": "heart seeker",
-    "points": 1865,
+    "points": 2369,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-heart-seeker.png",
     "xws": "heartseeker",
@@ -20527,7 +26068,7 @@
   },
   {
     "name": "038",
-    "points": 1866,
+    "points": 2370,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-heart-seeker.png",
     "xws": "heartseeker",
@@ -20538,7 +26079,7 @@
   },
   {
     "name": "overwatch",
-    "points": 1867,
+    "points": 2371,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-overwatch.png",
     "xws": "overwatch",
@@ -20549,7 +26090,7 @@
   },
   {
     "name": "028",
-    "points": 1868,
+    "points": 2372,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-overwatch.png",
     "xws": "overwatch",
@@ -20560,7 +26101,7 @@
   },
   {
     "name": "power pitch",
-    "points": 1869,
+    "points": 2373,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-power-pitch.png",
     "xws": "powerpitch",
@@ -20571,7 +26112,7 @@
   },
   {
     "name": "017",
-    "points": 1870,
+    "points": 2374,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-power-pitch.png",
     "xws": "powerpitch",
@@ -20582,7 +26123,7 @@
   },
   {
     "name": "quick turnaround",
-    "points": 1871,
+    "points": 2375,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-quick-turnaround.png",
     "xws": "quickturnaround",
@@ -20593,7 +26134,7 @@
   },
   {
     "name": "032",
-    "points": 1872,
+    "points": 2376,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-quick-turnaround.png",
     "xws": "quickturnaround",
@@ -20604,7 +26145,7 @@
   },
   {
     "name": "repeat shot",
-    "points": 1873,
+    "points": 2377,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-repeat-shot.png",
     "xws": "repeatshot",
@@ -20615,7 +26156,7 @@
   },
   {
     "name": "023",
-    "points": 1874,
+    "points": 2378,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-repeat-shot.png",
     "xws": "repeatshot",
@@ -20626,7 +26167,7 @@
   },
   {
     "name": "retrieval",
-    "points": 1875,
+    "points": 2379,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-retrieval.png",
     "xws": "retrieval",
@@ -20637,7 +26178,7 @@
   },
   {
     "name": "011",
-    "points": 1876,
+    "points": 2380,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-retrieval.png",
     "xws": "retrieval",
@@ -20648,7 +26189,7 @@
   },
   {
     "name": "ricochet",
-    "points": 1877,
+    "points": 2381,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ricochet.png",
     "xws": "ricochet",
@@ -20659,7 +26200,7 @@
   },
   {
     "name": "024",
-    "points": 1878,
+    "points": 2382,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ricochet.png",
     "xws": "ricochet",
@@ -20670,7 +26211,7 @@
   },
   {
     "name": "ripped from the flesh",
-    "points": 1879,
+    "points": 2383,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ripped-from-the-flesh.png",
     "xws": "rippedfromtheflesh",
@@ -20681,7 +26222,7 @@
   },
   {
     "name": "027",
-    "points": 1880,
+    "points": 2384,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ripped-from-the-flesh.png",
     "xws": "rippedfromtheflesh",
@@ -20692,7 +26233,7 @@
   },
   {
     "name": "second wind",
-    "points": 1881,
+    "points": 2385,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-second-wind.png",
     "xws": "secondwind",
@@ -20703,7 +26244,7 @@
   },
   {
     "name": "019",
-    "points": 1882,
+    "points": 2386,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-second-wind.png",
     "xws": "secondwind",
@@ -20714,7 +26255,7 @@
   },
   {
     "name": "sharpened blades",
-    "points": 1883,
+    "points": 2387,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-sharpened-blades.png",
     "xws": "sharpenedblades",
@@ -20725,7 +26266,7 @@
   },
   {
     "name": "026",
-    "points": 1884,
+    "points": 2388,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-sharpened-blades.png",
     "xws": "sharpenedblades",
@@ -20736,7 +26277,7 @@
   },
   {
     "name": "shrapnel",
-    "points": 1885,
+    "points": 2389,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-shrapnel.png",
     "xws": "shrapnel",
@@ -20747,7 +26288,7 @@
   },
   {
     "name": "035",
-    "points": 1886,
+    "points": 2390,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-shrapnel.png",
     "xws": "shrapnel",
@@ -20758,7 +26299,7 @@
   },
   {
     "name": "stopping power",
-    "points": 1887,
+    "points": 2391,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-stopping-power.png",
     "xws": "stoppingpower",
@@ -20769,7 +26310,7 @@
   },
   {
     "name": "014",
-    "points": 1888,
+    "points": 2392,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-stopping-power.png",
     "xws": "stoppingpower",
@@ -20780,7 +26321,7 @@
   },
   {
     "name": "the favorite",
-    "points": 1889,
+    "points": 2393,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-favorite.png",
     "xws": "thefavorite",
@@ -20791,7 +26332,7 @@
   },
   {
     "name": "010",
-    "points": 1890,
+    "points": 2394,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-favorite.png",
     "xws": "thefavorite",
@@ -20802,7 +26343,7 @@
   },
   {
     "name": "the new favorite",
-    "points": 1891,
+    "points": 2395,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-new-favorite.png",
     "xws": "thenewfavorite",
@@ -20813,7 +26354,7 @@
   },
   {
     "name": "030",
-    "points": 1892,
+    "points": 2396,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-new-favorite.png",
     "xws": "thenewfavorite",
@@ -20824,7 +26365,7 @@
   },
   {
     "name": "a-blinding sickle",
-    "points": 1893,
+    "points": 2397,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-blinding-sickle.png",
     "xws": "ablindingsickle",
@@ -20835,7 +26376,7 @@
   },
   {
     "name": "217",
-    "points": 1894,
+    "points": 2398,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-blinding-sickle.png",
     "xws": "ablindingsickle",
@@ -20846,7 +26387,7 @@
   },
   {
     "name": "a-desert night",
-    "points": 1895,
+    "points": 2399,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-desert-night.png",
     "xws": "adesertnight",
@@ -20857,7 +26398,7 @@
   },
   {
     "name": "220",
-    "points": 1896,
+    "points": 2400,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-desert-night.png",
     "xws": "adesertnight",
@@ -20868,7 +26409,7 @@
   },
   {
     "name": "a-flaming sickle",
-    "points": 1897,
+    "points": 2401,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-flaming-sickle.png",
     "xws": "aflamingsickle",
@@ -20879,7 +26420,7 @@
   },
   {
     "name": "216",
-    "points": 1898,
+    "points": 2402,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-flaming-sickle.png",
     "xws": "aflamingsickle",
@@ -20890,7 +26431,7 @@
   },
   {
     "name": "a-shield spikes",
-    "points": 1899,
+    "points": 2403,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-shield-spikes.png",
     "xws": "ashieldspikes",
@@ -20901,7 +26442,7 @@
   },
   {
     "name": "221",
-    "points": 1900,
+    "points": 2404,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-shield-spikes.png",
     "xws": "ashieldspikes",
@@ -20912,7 +26453,7 @@
   },
   {
     "name": "a-shocking advance",
-    "points": 1901,
+    "points": 2405,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-shocking-advance.png",
     "xws": "ashockingadvance",
@@ -20923,7 +26464,7 @@
   },
   {
     "name": "219",
-    "points": 1902,
+    "points": 2406,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-shocking-advance.png",
     "xws": "ashockingadvance",
@@ -20934,7 +26475,7 @@
   },
   {
     "name": "a-twirling stabs",
-    "points": 1903,
+    "points": 2407,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-twirling-stabs.png",
     "xws": "atwirlingstabs",
@@ -20945,7 +26486,7 @@
   },
   {
     "name": "218",
-    "points": 1904,
+    "points": 2408,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-a-twirling-stabs.png",
     "xws": "atwirlingstabs",
@@ -20956,7 +26497,7 @@
   },
   {
     "name": "barbaric instincts",
-    "points": 1905,
+    "points": 2409,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-barbaric-instincts.png",
     "xws": "barbaricinstincts",
@@ -20967,7 +26508,7 @@
   },
   {
     "name": "238",
-    "points": 1906,
+    "points": 2410,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-barbaric-instincts.png",
     "xws": "barbaricinstincts",
@@ -20978,7 +26519,7 @@
   },
   {
     "name": "b-desert night",
-    "points": 1907,
+    "points": 2411,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-b-desert-night.png",
     "xws": "bdesertnight",
@@ -20989,7 +26530,7 @@
   },
   {
     "name": "222",
-    "points": 1908,
+    "points": 2412,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-b-desert-night.png",
     "xws": "bdesertnight",
@@ -21000,7 +26541,7 @@
   },
   {
     "name": "b-flaming sickle",
-    "points": 1909,
+    "points": 2413,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-b-flaming-sickle.png",
     "xws": "bflamingsickle",
@@ -21011,7 +26552,7 @@
   },
   {
     "name": "223",
-    "points": 1910,
+    "points": 2414,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-b-flaming-sickle.png",
     "xws": "bflamingsickle",
@@ -21022,7 +26563,7 @@
   },
   {
     "name": "blade dance",
-    "points": 1911,
+    "points": 2415,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-blade-dance.png",
     "xws": "bladedance",
@@ -21033,7 +26574,7 @@
   },
   {
     "name": "235",
-    "points": 1912,
+    "points": 2416,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-blade-dance.png",
     "xws": "bladedance",
@@ -21044,7 +26585,7 @@
   },
   {
     "name": "blinding sickle",
-    "points": 1913,
+    "points": 2417,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-blinding-sickle.png",
     "xws": "blindingsickle",
@@ -21055,7 +26596,7 @@
   },
   {
     "name": "228",
-    "points": 1914,
+    "points": 2418,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-blinding-sickle.png",
     "xws": "blindingsickle",
@@ -21066,7 +26607,7 @@
   },
   {
     "name": "burn away the dark",
-    "points": 1915,
+    "points": 2419,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-burn-away-the-dark.png",
     "xws": "burnawaythedark",
@@ -21077,7 +26618,7 @@
   },
   {
     "name": "242",
-    "points": 1916,
+    "points": 2420,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-burn-away-the-dark.png",
     "xws": "burnawaythedark",
@@ -21088,7 +26629,7 @@
   },
   {
     "name": "desert night",
-    "points": 1917,
+    "points": 2421,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-desert-night.png",
     "xws": "desertnight",
@@ -21099,7 +26640,7 @@
   },
   {
     "name": "233",
-    "points": 1918,
+    "points": 2422,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-desert-night.png",
     "xws": "desertnight",
@@ -21110,7 +26651,7 @@
   },
   {
     "name": "fierce brilliance",
-    "points": 1919,
+    "points": 2423,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-fierce-brilliance.png",
     "xws": "fiercebrilliance",
@@ -21121,7 +26662,7 @@
   },
   {
     "name": "245",
-    "points": 1920,
+    "points": 2424,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-fierce-brilliance.png",
     "xws": "fiercebrilliance",
@@ -21132,7 +26673,7 @@
   },
   {
     "name": "flame shroud",
-    "points": 1921,
+    "points": 2425,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-flame-shroud.png",
     "xws": "flameshroud",
@@ -21143,7 +26684,7 @@
   },
   {
     "name": "230",
-    "points": 1922,
+    "points": 2426,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-flame-shroud.png",
     "xws": "flameshroud",
@@ -21154,7 +26695,7 @@
   },
   {
     "name": "flaming sickle",
-    "points": 1923,
+    "points": 2427,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-flaming-sickle.png",
     "xws": "flamingsickle",
@@ -21165,7 +26706,7 @@
   },
   {
     "name": "227",
-    "points": 1924,
+    "points": 2428,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-flaming-sickle.png",
     "xws": "flamingsickle",
@@ -21176,7 +26717,7 @@
   },
   {
     "name": "flying sickle",
-    "points": 1925,
+    "points": 2429,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-flying-sickle.png",
     "xws": "flyingsickle",
@@ -21187,7 +26728,7 @@
   },
   {
     "name": "246",
-    "points": 1926,
+    "points": 2430,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-flying-sickle.png",
     "xws": "flyingsickle",
@@ -21198,7 +26739,7 @@
   },
   {
     "name": "harvest sickle",
-    "points": 1927,
+    "points": 2431,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-harvest-sickle.png",
     "xws": "harvestsickle",
@@ -21209,7 +26750,7 @@
   },
   {
     "name": "237",
-    "points": 1928,
+    "points": 2432,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-harvest-sickle.png",
     "xws": "harvestsickle",
@@ -21220,7 +26761,7 @@
   },
   {
     "name": "healing sands",
-    "points": 1929,
+    "points": 2433,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-healing-sands.png",
     "xws": "healingsands",
@@ -21231,7 +26772,7 @@
   },
   {
     "name": "225",
-    "points": 1930,
+    "points": 2434,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-healing-sands.png",
     "xws": "healingsands",
@@ -21242,7 +26783,7 @@
   },
   {
     "name": "honorable fury",
-    "points": 1931,
+    "points": 2435,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-honorable-fury.png",
     "xws": "honorablefury",
@@ -21253,7 +26794,7 @@
   },
   {
     "name": "252",
-    "points": 1932,
+    "points": 2436,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-honorable-fury.png",
     "xws": "honorablefury",
@@ -21264,7 +26805,7 @@
   },
   {
     "name": "horns of the beast",
-    "points": 1933,
+    "points": 2437,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-horns-of-the-beast.png",
     "xws": "hornsofthebeast",
@@ -21275,7 +26816,7 @@
   },
   {
     "name": "248",
-    "points": 1934,
+    "points": 2438,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-horns-of-the-beast.png",
     "xws": "hornsofthebeast",
@@ -21286,7 +26827,7 @@
   },
   {
     "name": "no fear",
-    "points": 1935,
+    "points": 2439,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-no-fear.png",
     "xws": "nofear",
@@ -21297,7 +26838,7 @@
   },
   {
     "name": "250",
-    "points": 1936,
+    "points": 2440,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-no-fear.png",
     "xws": "nofear",
@@ -21308,7 +26849,7 @@
   },
   {
     "name": "precision strike",
-    "points": 1937,
+    "points": 2441,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-precision-strike.png",
     "xws": "precisionstrike",
@@ -21319,7 +26860,7 @@
   },
   {
     "name": "236",
-    "points": 1938,
+    "points": 2442,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-precision-strike.png",
     "xws": "precisionstrike",
@@ -21330,7 +26871,7 @@
   },
   {
     "name": "prismatic sickle",
-    "points": 1939,
+    "points": 2443,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-prismatic-sickle.png",
     "xws": "prismaticsickle",
@@ -21341,7 +26882,7 @@
   },
   {
     "name": "249",
-    "points": 1940,
+    "points": 2444,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-prismatic-sickle.png",
     "xws": "prismaticsickle",
@@ -21352,7 +26893,7 @@
   },
   {
     "name": "radiant sickle",
-    "points": 1941,
+    "points": 2445,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-radiant-sickle.png",
     "xws": "radiantsickle",
@@ -21363,7 +26904,7 @@
   },
   {
     "name": "241",
-    "points": 1942,
+    "points": 2446,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-radiant-sickle.png",
     "xws": "radiantsickle",
@@ -21374,7 +26915,7 @@
   },
   {
     "name": "rg-back",
-    "points": 1943,
+    "points": 2447,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-rg-back.png",
     "xws": "rgback",
@@ -21385,7 +26926,7 @@
   },
   {
     "name": "rg-halt-back",
-    "points": 1944,
+    "points": 2448,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-rg-halt-back.png",
     "xws": "rghaltback",
@@ -21396,7 +26937,7 @@
   },
   {
     "name": "rg-halt-front",
-    "points": 1945,
+    "points": 2449,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-rg-halt-front.png",
     "xws": "rghaltfront",
@@ -21407,7 +26948,7 @@
   },
   {
     "name": "243",
-    "points": 1946,
+    "points": 2450,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-rg-halt-front.png",
     "xws": "rghaltfront",
@@ -21418,7 +26959,7 @@
   },
   {
     "name": "rg-player-reference-back",
-    "points": 1947,
+    "points": 2451,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-rg-player-reference-back.png",
     "xws": "rgplayerreferenceback",
@@ -21429,7 +26970,7 @@
   },
   {
     "name": "rg-player-reference-front",
-    "points": 1948,
+    "points": 2452,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-rg-player-reference-front.png",
     "xws": "rgplayerreferencefront",
@@ -21440,7 +26981,7 @@
   },
   {
     "name": "215",
-    "points": 1949,
+    "points": 2453,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-rg-player-reference-front.png",
     "xws": "rgplayerreferencefront",
@@ -21451,7 +26992,7 @@
   },
   {
     "name": "sand devil",
-    "points": 1950,
+    "points": 2454,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-sand-devil.png",
     "xws": "sanddevil",
@@ -21462,7 +27003,7 @@
   },
   {
     "name": "244",
-    "points": 1951,
+    "points": 2455,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-sand-devil.png",
     "xws": "sanddevil",
@@ -21473,7 +27014,7 @@
   },
   {
     "name": "shield of the desert",
-    "points": 1952,
+    "points": 2456,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-shield-of-the-desert.png",
     "xws": "shieldofthedesert",
@@ -21484,7 +27025,7 @@
   },
   {
     "name": "232",
-    "points": 1953,
+    "points": 2457,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-shield-of-the-desert.png",
     "xws": "shieldofthedesert",
@@ -21495,7 +27036,7 @@
   },
   {
     "name": "shield spikes",
-    "points": 1954,
+    "points": 2458,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-shield-spikes.png",
     "xws": "shieldspikes",
@@ -21506,7 +27047,7 @@
   },
   {
     "name": "226",
-    "points": 1955,
+    "points": 2459,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-shield-spikes.png",
     "xws": "shieldspikes",
@@ -21517,7 +27058,7 @@
   },
   {
     "name": "shocking advance",
-    "points": 1956,
+    "points": 2460,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-shocking-advance.png",
     "xws": "shockingadvance",
@@ -21528,7 +27069,7 @@
   },
   {
     "name": "231",
-    "points": 1957,
+    "points": 2461,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-shocking-advance.png",
     "xws": "shockingadvance",
@@ -21539,7 +27080,7 @@
   },
   {
     "name": "soaring shield",
-    "points": 1958,
+    "points": 2462,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-soaring-shield.png",
     "xws": "soaringshield",
@@ -21550,7 +27091,7 @@
   },
   {
     "name": "251",
-    "points": 1959,
+    "points": 2463,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-soaring-shield.png",
     "xws": "soaringshield",
@@ -21561,7 +27102,7 @@
   },
   {
     "name": "strangling chain",
-    "points": 1960,
+    "points": 2464,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-strangling-chain.png",
     "xws": "stranglingchain",
@@ -21572,7 +27113,7 @@
   },
   {
     "name": "240",
-    "points": 1961,
+    "points": 2465,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-strangling-chain.png",
     "xws": "stranglingchain",
@@ -21583,7 +27124,7 @@
   },
   {
     "name": "swift strength",
-    "points": 1962,
+    "points": 2466,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-swift-strength.png",
     "xws": "swiftstrength",
@@ -21594,7 +27135,7 @@
   },
   {
     "name": "224",
-    "points": 1963,
+    "points": 2467,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-swift-strength.png",
     "xws": "swiftstrength",
@@ -21605,7 +27146,7 @@
   },
   {
     "name": "twirling stabs",
-    "points": 1964,
+    "points": 2468,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-twirling-stabs.png",
     "xws": "twirlingstabs",
@@ -21616,7 +27157,7 @@
   },
   {
     "name": "229",
-    "points": 1965,
+    "points": 2469,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-twirling-stabs.png",
     "xws": "twirlingstabs",
@@ -21627,7 +27168,7 @@
   },
   {
     "name": "vicious ballet",
-    "points": 1966,
+    "points": 2470,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-vicious-ballet.png",
     "xws": "viciousballet",
@@ -21638,7 +27179,7 @@
   },
   {
     "name": "247",
-    "points": 1967,
+    "points": 2471,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-vicious-ballet.png",
     "xws": "viciousballet",
@@ -21649,7 +27190,7 @@
   },
   {
     "name": "warmth of the sun",
-    "points": 1968,
+    "points": 2472,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-warmth-of-the-sun.png",
     "xws": "warmthofthesun",
@@ -21660,7 +27201,7 @@
   },
   {
     "name": "239",
-    "points": 1969,
+    "points": 2473,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-warmth-of-the-sun.png",
     "xws": "warmthofthesun",
@@ -21671,7 +27212,7 @@
   },
   {
     "name": "warrior of the sun",
-    "points": 1970,
+    "points": 2474,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-warrior-of-the-sun.png",
     "xws": "warriorofthesun",
@@ -21682,7 +27223,7 @@
   },
   {
     "name": "234",
-    "points": 1971,
+    "points": 2475,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/rg/jl-warrior-of-the-sun.png",
     "xws": "warriorofthesun",
@@ -21693,7 +27234,7 @@
   },
   {
     "name": "a-black boon",
-    "points": 1972,
+    "points": 2476,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-black-boon.png",
     "xws": "ablackboon",
@@ -21704,7 +27245,7 @@
   },
   {
     "name": "143",
-    "points": 1973,
+    "points": 2477,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-black-boon.png",
     "xws": "ablackboon",
@@ -21715,7 +27256,7 @@
   },
   {
     "name": "a-gift of the void",
-    "points": 1974,
+    "points": 2478,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-gift-of-the-void.png",
     "xws": "agiftofthevoid",
@@ -21726,7 +27267,7 @@
   },
   {
     "name": "147",
-    "points": 1975,
+    "points": 2479,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-gift-of-the-void.png",
     "xws": "agiftofthevoid",
@@ -21737,7 +27278,7 @@
   },
   {
     "name": "a-lure of the void",
-    "points": 1976,
+    "points": 2480,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-lure-of-the-void.png",
     "xws": "alureofthevoid",
@@ -21748,7 +27289,7 @@
   },
   {
     "name": "148",
-    "points": 1977,
+    "points": 2481,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-lure-of-the-void.png",
     "xws": "alureofthevoid",
@@ -21759,7 +27300,7 @@
   },
   {
     "name": "a-suggestion",
-    "points": 1978,
+    "points": 2482,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-suggestion.png",
     "xws": "asuggestion",
@@ -21770,7 +27311,7 @@
   },
   {
     "name": "146",
-    "points": 1979,
+    "points": 2483,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-suggestion.png",
     "xws": "asuggestion",
@@ -21781,7 +27322,7 @@
   },
   {
     "name": "a-turn out the lights",
-    "points": 1980,
+    "points": 2484,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-turn-out-the-lights.png",
     "xws": "aturnoutthelights",
@@ -21792,7 +27333,7 @@
   },
   {
     "name": "144",
-    "points": 1981,
+    "points": 2485,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-turn-out-the-lights.png",
     "xws": "aturnoutthelights",
@@ -21803,7 +27344,7 @@
   },
   {
     "name": "a-wicked scratch",
-    "points": 1982,
+    "points": 2486,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-wicked-scratch.png",
     "xws": "awickedscratch",
@@ -21814,7 +27355,7 @@
   },
   {
     "name": "145",
-    "points": 1983,
+    "points": 2487,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-a-wicked-scratch.png",
     "xws": "awickedscratch",
@@ -21825,7 +27366,7 @@
   },
   {
     "name": "black boon",
-    "points": 1984,
+    "points": 2488,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-black-boon.png",
     "xws": "blackboon",
@@ -21836,7 +27377,7 @@
   },
   {
     "name": "154",
-    "points": 1985,
+    "points": 2489,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-black-boon.png",
     "xws": "blackboon",
@@ -21847,7 +27388,7 @@
   },
   {
     "name": "b-lure of the void",
-    "points": 1986,
+    "points": 2490,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-b-lure-of-the-void.png",
     "xws": "blureofthevoid",
@@ -21858,7 +27399,7 @@
   },
   {
     "name": "149",
-    "points": 1987,
+    "points": 2491,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-b-lure-of-the-void.png",
     "xws": "blureofthevoid",
@@ -21869,7 +27410,7 @@
   },
   {
     "name": "b-wicked scratch",
-    "points": 1988,
+    "points": 2492,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-b-wicked-scratch.png",
     "xws": "bwickedscratch",
@@ -21880,7 +27421,7 @@
   },
   {
     "name": "150",
-    "points": 1989,
+    "points": 2493,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-b-wicked-scratch.png",
     "xws": "bwickedscratch",
@@ -21891,7 +27432,7 @@
   },
   {
     "name": "close to the abyss",
-    "points": 1990,
+    "points": 2494,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-close-to-the-abyss.png",
     "xws": "closetotheabyss",
@@ -21902,7 +27443,7 @@
   },
   {
     "name": "152",
-    "points": 1991,
+    "points": 2495,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-close-to-the-abyss.png",
     "xws": "closetotheabyss",
@@ -21913,7 +27454,7 @@
   },
   {
     "name": "cold embrace",
-    "points": 1992,
+    "points": 2496,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-cold-embrace.png",
     "xws": "coldembrace",
@@ -21924,7 +27465,7 @@
   },
   {
     "name": "163",
-    "points": 1993,
+    "points": 2497,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-cold-embrace.png",
     "xws": "coldembrace",
@@ -21935,7 +27476,7 @@
   },
   {
     "name": "commanding presence",
-    "points": 1994,
+    "points": 2498,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-commanding-presence.png",
     "xws": "commandingpresence",
@@ -21946,7 +27487,7 @@
   },
   {
     "name": "168",
-    "points": 1995,
+    "points": 2499,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-commanding-presence.png",
     "xws": "commandingpresence",
@@ -21957,7 +27498,7 @@
   },
   {
     "name": "crushing cold",
-    "points": 1996,
+    "points": 2500,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-crushing-cold.png",
     "xws": "crushingcold",
@@ -21968,7 +27509,7 @@
   },
   {
     "name": "166",
-    "points": 1997,
+    "points": 2501,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-crushing-cold.png",
     "xws": "crushingcold",
@@ -21979,7 +27520,7 @@
   },
   {
     "name": "empowered link",
-    "points": 1998,
+    "points": 2502,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-empowered-link.png",
     "xws": "empoweredlink",
@@ -21990,7 +27531,7 @@
   },
   {
     "name": "178",
-    "points": 1999,
+    "points": 2503,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-empowered-link.png",
     "xws": "empoweredlink",
@@ -22001,7 +27542,7 @@
   },
   {
     "name": "eye of the void",
-    "points": 2000,
+    "points": 2504,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-eye-of-the-void.png",
     "xws": "eyeofthevoid",
@@ -22012,7 +27553,7 @@
   },
   {
     "name": "179",
-    "points": 2001,
+    "points": 2505,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-eye-of-the-void.png",
     "xws": "eyeofthevoid",
@@ -22023,7 +27564,7 @@
   },
   {
     "name": "freeze the soul",
-    "points": 2002,
+    "points": 2506,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-freeze-the-soul.png",
     "xws": "freezethesoul",
@@ -22034,7 +27575,7 @@
   },
   {
     "name": "155",
-    "points": 2003,
+    "points": 2507,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-freeze-the-soul.png",
     "xws": "freezethesoul",
@@ -22045,7 +27586,7 @@
   },
   {
     "name": "gift of the void",
-    "points": 2004,
+    "points": 2508,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-gift-of-the-void.png",
     "xws": "giftofthevoid",
@@ -22056,7 +27597,7 @@
   },
   {
     "name": "153",
-    "points": 2005,
+    "points": 2509,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-gift-of-the-void.png",
     "xws": "giftofthevoid",
@@ -22067,7 +27608,7 @@
   },
   {
     "name": "give and take",
-    "points": 2006,
+    "points": 2510,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-give-and-take.png",
     "xws": "giveandtake",
@@ -22078,7 +27619,7 @@
   },
   {
     "name": "165",
-    "points": 2007,
+    "points": 2511,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-give-and-take.png",
     "xws": "giveandtake",
@@ -22089,7 +27630,7 @@
   },
   {
     "name": "grasp of doom",
-    "points": 2008,
+    "points": 2512,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-grasp-of-doom.png",
     "xws": "graspofdoom",
@@ -22100,7 +27641,7 @@
   },
   {
     "name": "159",
-    "points": 2009,
+    "points": 2513,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-grasp-of-doom.png",
     "xws": "graspofdoom",
@@ -22111,7 +27652,7 @@
   },
   {
     "name": "hateful blast",
-    "points": 2010,
+    "points": 2514,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-hateful-blast.png",
     "xws": "hatefulblast",
@@ -22122,7 +27663,7 @@
   },
   {
     "name": "175",
-    "points": 2011,
+    "points": 2515,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-hateful-blast.png",
     "xws": "hatefulblast",
@@ -22133,7 +27674,7 @@
   },
   {
     "name": "lull into oblivion",
-    "points": 2012,
+    "points": 2516,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-lull-into-oblivion.png",
     "xws": "lullintooblivion",
@@ -22144,7 +27685,7 @@
   },
   {
     "name": "177",
-    "points": 2013,
+    "points": 2517,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-lull-into-oblivion.png",
     "xws": "lullintooblivion",
@@ -22155,7 +27696,7 @@
   },
   {
     "name": "lure of the void",
-    "points": 2014,
+    "points": 2518,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-lure-of-the-void.png",
     "xws": "lureofthevoid",
@@ -22166,7 +27707,7 @@
   },
   {
     "name": "158",
-    "points": 2015,
+    "points": 2519,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-lure-of-the-void.png",
     "xws": "lureofthevoid",
@@ -22177,7 +27718,7 @@
   },
   {
     "name": "master influence",
-    "points": 2016,
+    "points": 2520,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-master-influence.png",
     "xws": "masterinfluence",
@@ -22188,7 +27729,7 @@
   },
   {
     "name": "160",
-    "points": 2017,
+    "points": 2521,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-master-influence.png",
     "xws": "masterinfluence",
@@ -22199,7 +27740,7 @@
   },
   {
     "name": "possessed by fate",
-    "points": 2018,
+    "points": 2522,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-possessed-by-fate.png",
     "xws": "possessedbyfate",
@@ -22210,7 +27751,7 @@
   },
   {
     "name": "180",
-    "points": 2019,
+    "points": 2523,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-possessed-by-fate.png",
     "xws": "possessedbyfate",
@@ -22221,7 +27762,7 @@
   },
   {
     "name": "resigned frenzy",
-    "points": 2020,
+    "points": 2524,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-resigned-frenzy.png",
     "xws": "resignedfrenzy",
@@ -22232,7 +27773,7 @@
   },
   {
     "name": "162",
-    "points": 2021,
+    "points": 2525,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-resigned-frenzy.png",
     "xws": "resignedfrenzy",
@@ -22243,7 +27784,7 @@
   },
   {
     "name": "sap warmth",
-    "points": 2022,
+    "points": 2526,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-sap-warmth.png",
     "xws": "sapwarmth",
@@ -22254,7 +27795,7 @@
   },
   {
     "name": "164",
-    "points": 2023,
+    "points": 2527,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-sap-warmth.png",
     "xws": "sapwarmth",
@@ -22265,7 +27806,7 @@
   },
   {
     "name": "savage instinct",
-    "points": 2024,
+    "points": 2528,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-savage-instinct.png",
     "xws": "savageinstinct",
@@ -22276,7 +27817,7 @@
   },
   {
     "name": "169",
-    "points": 2025,
+    "points": 2529,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-savage-instinct.png",
     "xws": "savageinstinct",
@@ -22287,7 +27828,7 @@
   },
   {
     "name": "signs of the void",
-    "points": 2026,
+    "points": 2530,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-signs-of-the-void.png",
     "xws": "signsofthevoid",
@@ -22298,7 +27839,7 @@
   },
   {
     "name": "151",
-    "points": 2027,
+    "points": 2531,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-signs-of-the-void.png",
     "xws": "signsofthevoid",
@@ -22309,7 +27850,7 @@
   },
   {
     "name": "spirit hunger",
-    "points": 2028,
+    "points": 2532,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-spirit-hunger.png",
     "xws": "spirithunger",
@@ -22320,7 +27861,7 @@
   },
   {
     "name": "176",
-    "points": 2029,
+    "points": 2533,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-spirit-hunger.png",
     "xws": "spirithunger",
@@ -22331,7 +27872,7 @@
   },
   {
     "name": "stand fast",
-    "points": 2030,
+    "points": 2534,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-stand-fast.png",
     "xws": "standfast",
@@ -22342,7 +27883,7 @@
   },
   {
     "name": "172",
-    "points": 2031,
+    "points": 2535,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-stand-fast.png",
     "xws": "standfast",
@@ -22353,7 +27894,7 @@
   },
   {
     "name": "suggestion",
-    "points": 2032,
+    "points": 2536,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-suggestion.png",
     "xws": "suggestion",
@@ -22364,7 +27905,7 @@
   },
   {
     "name": "161",
-    "points": 2033,
+    "points": 2537,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-suggestion.png",
     "xws": "suggestion",
@@ -22375,7 +27916,7 @@
   },
   {
     "name": "surge of power",
-    "points": 2034,
+    "points": 2538,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-surge-of-power.png",
     "xws": "surgeofpower",
@@ -22386,7 +27927,7 @@
   },
   {
     "name": "174",
-    "points": 2035,
+    "points": 2539,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-surge-of-power.png",
     "xws": "surgeofpower",
@@ -22397,7 +27938,7 @@
   },
   {
     "name": "taunting fate",
-    "points": 2036,
+    "points": 2540,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-taunting-fate.png",
     "xws": "tauntingfate",
@@ -22408,7 +27949,7 @@
   },
   {
     "name": "167",
-    "points": 2037,
+    "points": 2541,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-taunting-fate.png",
     "xws": "tauntingfate",
@@ -22419,7 +27960,7 @@
   },
   {
     "name": "the last journey",
-    "points": 2038,
+    "points": 2542,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-the-last-journey.png",
     "xws": "thelastjourney",
@@ -22430,7 +27971,7 @@
   },
   {
     "name": "170",
-    "points": 2039,
+    "points": 2543,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-the-last-journey.png",
     "xws": "thelastjourney",
@@ -22441,7 +27982,7 @@
   },
   {
     "name": "turn out the lights",
-    "points": 2040,
+    "points": 2544,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-turn-out-the-lights.png",
     "xws": "turnoutthelights",
@@ -22452,7 +27993,7 @@
   },
   {
     "name": "157",
-    "points": 2041,
+    "points": 2545,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-turn-out-the-lights.png",
     "xws": "turnoutthelights",
@@ -22463,7 +28004,7 @@
   },
   {
     "name": "vw-back",
-    "points": 2042,
+    "points": 2546,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-vw-back.png",
     "xws": "vwback",
@@ -22474,7 +28015,7 @@
   },
   {
     "name": "vw-halt-back",
-    "points": 2043,
+    "points": 2547,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-vw-halt-back.png",
     "xws": "vwhaltback",
@@ -22485,7 +28026,7 @@
   },
   {
     "name": "vw-halt-front",
-    "points": 2044,
+    "points": 2548,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-vw-halt-front.png",
     "xws": "vwhaltfront",
@@ -22496,7 +28037,7 @@
   },
   {
     "name": "171",
-    "points": 2045,
+    "points": 2549,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-vw-halt-front.png",
     "xws": "vwhaltfront",
@@ -22507,7 +28048,7 @@
   },
   {
     "name": "vw-player-reference-back",
-    "points": 2046,
+    "points": 2550,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-vw-player-reference-back.png",
     "xws": "vwplayerreferenceback",
@@ -22518,7 +28059,7 @@
   },
   {
     "name": "vw-player-reference-front",
-    "points": 2047,
+    "points": 2551,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-vw-player-reference-front.png",
     "xws": "vwplayerreferencefront",
@@ -22529,7 +28070,7 @@
   },
   {
     "name": "142",
-    "points": 2048,
+    "points": 2552,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-vw-player-reference-front.png",
     "xws": "vwplayerreferencefront",
@@ -22540,7 +28081,7 @@
   },
   {
     "name": "wicked scratch",
-    "points": 2049,
+    "points": 2553,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-wicked-scratch.png",
     "xws": "wickedscratch",
@@ -22551,7 +28092,7 @@
   },
   {
     "name": "156",
-    "points": 2050,
+    "points": 2554,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-wicked-scratch.png",
     "xws": "wickedscratch",
@@ -22562,7 +28103,7 @@
   },
   {
     "name": "withering conviction",
-    "points": 2051,
+    "points": 2555,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-withering-conviction.png",
     "xws": "witheringconviction",
@@ -22573,7 +28114,7 @@
   },
   {
     "name": "173",
-    "points": 2052,
+    "points": 2556,
     "expansion": "jaws of the lion",
     "image": "character-ability-cards/jaws-of-the-lion/vw/jl-withering-conviction.png",
     "xws": "witheringconviction",
@@ -22584,7 +28125,7 @@
   },
   {
     "name": "aa-back",
-    "points": 2053,
+    "points": 2557,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-aa-back.png",
     "xws": "aaback",
@@ -22595,7 +28136,7 @@
   },
   {
     "name": "alate dispersion",
-    "points": 2054,
+    "points": 2558,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-alate-dispersion.png",
     "xws": "alatedispersion",
@@ -22606,7 +28147,7 @@
   },
   {
     "name": "rockspine termite",
-    "points": 2055,
+    "points": 2559,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-alate-dispersion.png",
     "xws": "alatedispersion",
@@ -22617,7 +28158,7 @@
   },
   {
     "name": "anti-venom",
-    "points": 2056,
+    "points": 2560,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-anti-venom.png",
     "xws": "antivenom",
@@ -22628,7 +28169,7 @@
   },
   {
     "name": "assimilate adversaries",
-    "points": 2057,
+    "points": 2561,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-assimilate-adversaries.png",
     "xws": "assimilateadversaries",
@@ -22639,7 +28180,7 @@
   },
   {
     "name": "birthing chambers",
-    "points": 2058,
+    "points": 2562,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-birthing-chambers.png",
     "xws": "birthingchambers",
@@ -22650,7 +28191,7 @@
   },
   {
     "name": "ghostshimmer bee",
-    "points": 2059,
+    "points": 2563,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-birthing-chambers.png",
     "xws": "birthingchambers",
@@ -22661,7 +28202,7 @@
   },
   {
     "name": "burning stingers",
-    "points": 2060,
+    "points": 2564,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-burning-stingers.png",
     "xws": "burningstingers",
@@ -22672,7 +28213,7 @@
   },
   {
     "name": "burrow under",
-    "points": 2061,
+    "points": 2565,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-burrow-under.png",
     "xws": "burrowunder",
@@ -22683,7 +28224,7 @@
   },
   {
     "name": "clad in spikes",
-    "points": 2062,
+    "points": 2566,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-clad-in-spikes.png",
     "xws": "cladinspikes",
@@ -22694,7 +28235,7 @@
   },
   {
     "name": "coordinated infestation",
-    "points": 2063,
+    "points": 2567,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-coordinated-infestation.png",
     "xws": "coordinatedinfestation",
@@ -22705,7 +28246,7 @@
   },
   {
     "name": "corrosive spittle",
-    "points": 2064,
+    "points": 2568,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-corrosive-spittle.png",
     "xws": "corrosivespittle",
@@ -22716,7 +28257,7 @@
   },
   {
     "name": "divide and conquer",
-    "points": 2065,
+    "points": 2569,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-divide-and-conquer.png",
     "xws": "divideandconquer",
@@ -22727,7 +28268,7 @@
   },
   {
     "name": "beta aegis",
-    "points": 2066,
+    "points": 2570,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-divide-and-conquer.png",
     "xws": "divideandconquer",
@@ -22738,7 +28279,7 @@
   },
   {
     "name": "encasing webs",
-    "points": 2067,
+    "points": 2571,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-encasing-webs.png",
     "xws": "encasingwebs",
@@ -22749,7 +28290,7 @@
   },
   {
     "name": "erupting mandibles",
-    "points": 2068,
+    "points": 2572,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-erupting-mandibles.png",
     "xws": "eruptingmandibles",
@@ -22760,7 +28301,7 @@
   },
   {
     "name": "ferocious proliferation",
-    "points": 2069,
+    "points": 2573,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-ferocious-proliferation.png",
     "xws": "ferociousproliferation",
@@ -22771,7 +28312,7 @@
   },
   {
     "name": "firespitter ant",
-    "points": 2070,
+    "points": 2574,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-ferocious-proliferation.png",
     "xws": "ferociousproliferation",
@@ -22782,7 +28323,7 @@
   },
   {
     "name": "frantic migration",
-    "points": 2071,
+    "points": 2575,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-frantic-migration.png",
     "xws": "franticmigration",
@@ -22793,7 +28334,7 @@
   },
   {
     "name": "horned carapace",
-    "points": 2072,
+    "points": 2576,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-horned-carapace.png",
     "xws": "hornedcarapace",
@@ -22804,7 +28345,7 @@
   },
   {
     "name": "lacerating horde",
-    "points": 2073,
+    "points": 2577,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-lacerating-horde.png",
     "xws": "laceratinghorde",
@@ -22815,7 +28356,7 @@
   },
   {
     "name": "maddening chatter",
-    "points": 2074,
+    "points": 2578,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-maddening-chatter.png",
     "xws": "maddeningchatter",
@@ -22826,7 +28367,7 @@
   },
   {
     "name": "march of multitudes",
-    "points": 2075,
+    "points": 2579,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-march-of-multitudes.png",
     "xws": "marchofmultitudes",
@@ -22837,7 +28378,7 @@
   },
   {
     "name": "nurture the weak",
-    "points": 2076,
+    "points": 2580,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-nurture-the-weak.png",
     "xws": "nurturetheweak",
@@ -22848,7 +28389,7 @@
   },
   {
     "name": "overwhelming swarm",
-    "points": 2077,
+    "points": 2581,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-overwhelming-swarm.png",
     "xws": "overwhelmingswarm",
@@ -22859,7 +28400,7 @@
   },
   {
     "name": "primal pheromones",
-    "points": 2078,
+    "points": 2582,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-primal-pheromones.png",
     "xws": "primalpheromones",
@@ -22870,7 +28411,7 @@
   },
   {
     "name": "repel intruders",
-    "points": 2079,
+    "points": 2583,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-repel-intruders.png",
     "xws": "repelintruders",
@@ -22881,7 +28422,7 @@
   },
   {
     "name": "firespitter ant",
-    "points": 2080,
+    "points": 2584,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-repel-intruders.png",
     "xws": "repelintruders",
@@ -22892,7 +28433,7 @@
   },
   {
     "name": "retribution of the hive",
-    "points": 2081,
+    "points": 2585,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-retribution-of-the-hive.png",
     "xws": "retributionofthehive",
@@ -22903,7 +28444,7 @@
   },
   {
     "name": "seek nourishment",
-    "points": 2082,
+    "points": 2586,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-seek-nourishment.png",
     "xws": "seeknourishment",
@@ -22914,7 +28455,7 @@
   },
   {
     "name": "ghostshimmer bee",
-    "points": 2083,
+    "points": 2587,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-seek-nourishment.png",
     "xws": "seeknourishment",
@@ -22925,7 +28466,7 @@
   },
   {
     "name": "sentry swarm",
-    "points": 2084,
+    "points": 2588,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-sentry-swarm.png",
     "xws": "sentryswarm",
@@ -22936,7 +28477,7 @@
   },
   {
     "name": "shelter the nest",
-    "points": 2085,
+    "points": 2589,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-shelter-the-nest.png",
     "xws": "shelterthenest",
@@ -22947,7 +28488,7 @@
   },
   {
     "name": "rockspine termite",
-    "points": 2086,
+    "points": 2590,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-shelter-the-nest.png",
     "xws": "shelterthenest",
@@ -22958,7 +28499,7 @@
   },
   {
     "name": "stalk the prey",
-    "points": 2087,
+    "points": 2591,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-stalk-the-prey.png",
     "xws": "stalktheprey",
@@ -22969,7 +28510,7 @@
   },
   {
     "name": "deathshroud spider",
-    "points": 2088,
+    "points": 2592,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-stalk-the-prey.png",
     "xws": "stalktheprey",
@@ -22980,7 +28521,7 @@
   },
   {
     "name": "2 venator tarantulas",
-    "points": 2089,
+    "points": 2593,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-stalk-the-prey.png",
     "xws": "stalktheprey",
@@ -22991,7 +28532,7 @@
   },
   {
     "name": "steelsilk weaver",
-    "points": 2090,
+    "points": 2594,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-steelsilk-weaver.png",
     "xws": "steelsilkweaver",
@@ -23002,7 +28543,7 @@
   },
   {
     "name": "supreme authority",
-    "points": 2091,
+    "points": 2595,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-supreme-authority.png",
     "xws": "supremeauthority",
@@ -23013,7 +28554,7 @@
   },
   {
     "name": "violent outlash",
-    "points": 2092,
+    "points": 2596,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-violent-outlash.png",
     "xws": "violentoutlash",
@@ -23024,7 +28565,7 @@
   },
   {
     "name": "bk-back",
-    "points": 2093,
+    "points": 2597,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-bk-back.png",
     "xws": "bkback",
@@ -23035,7 +28576,7 @@
   },
   {
     "name": "acquire funding",
-    "points": 2094,
+    "points": 2598,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-acquire-funding.png",
     "xws": "acquirefunding",
@@ -23046,7 +28587,7 @@
   },
   {
     "name": "advanced research",
-    "points": 2095,
+    "points": 2599,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-advanced-research.png",
     "xws": "advancedresearch",
@@ -23057,7 +28598,7 @@
   },
   {
     "name": "antibiotic boost",
-    "points": 2096,
+    "points": 2600,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-antibiotic-boost.png",
     "xws": "antibioticboost",
@@ -23068,7 +28609,7 @@
   },
   {
     "name": "astronomical strike",
-    "points": 2097,
+    "points": 2601,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-astronomical-strike.png",
     "xws": "astronomicalstrike",
@@ -23079,7 +28620,7 @@
   },
   {
     "name": "black hole",
-    "points": 2098,
+    "points": 2602,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-astronomical-strike.png",
     "xws": "astronomicalstrike",
@@ -23090,7 +28631,7 @@
   },
   {
     "name": "befuddling serum",
-    "points": 2099,
+    "points": 2603,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-befuddling-serum.png",
     "xws": "befuddlingserum",
@@ -23101,7 +28642,7 @@
   },
   {
     "name": "blinding lightwaves",
-    "points": 2100,
+    "points": 2604,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-blinding-lightwaves.png",
     "xws": "blindinglightwaves",
@@ -23112,7 +28653,7 @@
   },
   {
     "name": "cell regeneration",
-    "points": 2101,
+    "points": 2605,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-cell-regeneration.png",
     "xws": "cellregeneration",
@@ -23123,7 +28664,7 @@
   },
   {
     "name": "contagious malady",
-    "points": 2102,
+    "points": 2606,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-contagious-malady.png",
     "xws": "contagiousmalady",
@@ -23134,7 +28675,7 @@
   },
   {
     "name": "corrosive combustion",
-    "points": 2103,
+    "points": 2607,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-corrosive-combustion.png",
     "xws": "corrosivecombustion",
@@ -23145,7 +28686,7 @@
   },
   {
     "name": "critical hypothesis",
-    "points": 2104,
+    "points": 2608,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-critical-hypothesis.png",
     "xws": "criticalhypothesis",
@@ -23156,7 +28697,7 @@
   },
   {
     "name": "critical observation",
-    "points": 2105,
+    "points": 2609,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-critical-observation.png",
     "xws": "criticalobservation",
@@ -23167,7 +28708,7 @@
   },
   {
     "name": "dynamic balance",
-    "points": 2106,
+    "points": 2610,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-dynamic-balance.png",
     "xws": "dynamicbalance",
@@ -23178,7 +28719,7 @@
   },
   {
     "name": "electromagnetism",
-    "points": 2107,
+    "points": 2611,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-electromagnetism.png",
     "xws": "electromagnetism",
@@ -23189,7 +28730,7 @@
   },
   {
     "name": "metal detector",
-    "points": 2108,
+    "points": 2612,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-electromagnetism.png",
     "xws": "electromagnetism",
@@ -23200,7 +28741,7 @@
   },
   {
     "name": "elevated chemicals",
-    "points": 2109,
+    "points": 2613,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-elevated-chemicals.png",
     "xws": "elevatedchemicals",
@@ -23211,7 +28752,7 @@
   },
   {
     "name": "elevated intake",
-    "points": 2110,
+    "points": 2614,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-elevated-intake.png",
     "xws": "elevatedintake",
@@ -23222,7 +28763,7 @@
   },
   {
     "name": "elixir of life",
-    "points": 2111,
+    "points": 2615,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-elixir-of-life.png",
     "xws": "elixiroflife",
@@ -23233,7 +28774,7 @@
   },
   {
     "name": "enviromental survey",
-    "points": 2112,
+    "points": 2616,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-enviromental-survey.png",
     "xws": "enviromentalsurvey",
@@ -23244,7 +28785,7 @@
   },
   {
     "name": "exothermic cocktail",
-    "points": 2113,
+    "points": 2617,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-exothermic-cocktail.png",
     "xws": "exothermiccocktail",
@@ -23255,7 +28796,7 @@
   },
   {
     "name": "frozen explosion",
-    "points": 2114,
+    "points": 2618,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-frozen-explosion.png",
     "xws": "frozenexplosion",
@@ -23266,7 +28807,7 @@
   },
   {
     "name": "leftover tonic",
-    "points": 2115,
+    "points": 2619,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-leftover-tonic.png",
     "xws": "leftovertonic",
@@ -23277,7 +28818,7 @@
   },
   {
     "name": "magnetic field",
-    "points": 2116,
+    "points": 2620,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-magnetic-field.png",
     "xws": "magneticfield",
@@ -23288,7 +28829,7 @@
   },
   {
     "name": "molecular hydroblast",
-    "points": 2117,
+    "points": 2621,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-molecular-hydroblast.png",
     "xws": "molecularhydroblast",
@@ -23299,7 +28840,7 @@
   },
   {
     "name": "nourishing formula",
-    "points": 2118,
+    "points": 2622,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-nourishing-formula.png",
     "xws": "nourishingformula",
@@ -23310,7 +28851,7 @@
   },
   {
     "name": "nutrient overdose",
-    "points": 2119,
+    "points": 2623,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-nutrient-overdose.png",
     "xws": "nutrientoverdose",
@@ -23321,7 +28862,7 @@
   },
   {
     "name": "preliminary research",
-    "points": 2120,
+    "points": 2624,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-preliminary-research.png",
     "xws": "preliminaryresearch",
@@ -23332,7 +28873,7 @@
   },
   {
     "name": "strength elixir",
-    "points": 2121,
+    "points": 2625,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-strength-elixir.png",
     "xws": "strengthelixir",
@@ -23343,7 +28884,7 @@
   },
   {
     "name": "transformation libation",
-    "points": 2122,
+    "points": 2626,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-transformation-libation.png",
     "xws": "transformationlibation",
@@ -23354,7 +28895,7 @@
   },
   {
     "name": "ultraviolet rays",
-    "points": 2123,
+    "points": 2627,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-ultraviolet-rays.png",
     "xws": "ultravioletrays",
@@ -23365,7 +28906,7 @@
   },
   {
     "name": "versatile concoction",
-    "points": 2124,
+    "points": 2628,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-versatile-concoction.png",
     "xws": "versatileconcoction",
@@ -23376,7 +28917,7 @@
   },
   {
     "name": "weather forecast",
-    "points": 2125,
+    "points": 2629,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-weather-forecast.png",
     "xws": "weatherforecast",
@@ -23387,7 +28928,7 @@
   },
   {
     "name": "bm-back",
-    "points": 2126,
+    "points": 2630,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-bm-back.png",
     "xws": "bmback",
@@ -23398,7 +28939,7 @@
   },
   {
     "name": "airborne skyrocket",
-    "points": 2127,
+    "points": 2631,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-airborne-skyrocket.png",
     "xws": "airborneskyrocket",
@@ -23409,7 +28950,7 @@
   },
   {
     "name": "ballistic barrage",
-    "points": 2128,
+    "points": 2632,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-ballistic-barrage.png",
     "xws": "ballisticbarrage",
@@ -23420,7 +28961,7 @@
   },
   {
     "name": "barbed armor",
-    "points": 2129,
+    "points": 2633,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-barbed-armor.png",
     "xws": "barbedarmor",
@@ -23431,7 +28972,7 @@
   },
   {
     "name": "chain grapnel",
-    "points": 2130,
+    "points": 2634,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-chain-grapnel.png",
     "xws": "chaingrapnel",
@@ -23442,7 +28983,7 @@
   },
   {
     "name": "consistent firing",
-    "points": 2131,
+    "points": 2635,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-consistent-firing.png",
     "xws": "consistentfiring",
@@ -23453,7 +28994,7 @@
   },
   {
     "name": "defense mechanism",
-    "points": 2132,
+    "points": 2636,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-defense-mechanism.png",
     "xws": "defensemechanism",
@@ -23464,7 +29005,7 @@
   },
   {
     "name": "distant retribution",
-    "points": 2133,
+    "points": 2637,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-distant-retribution.png",
     "xws": "distantretribution",
@@ -23475,7 +29016,7 @@
   },
   {
     "name": "double cannons",
-    "points": 2134,
+    "points": 2638,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-double-cannons.png",
     "xws": "doublecannons",
@@ -23486,7 +29027,7 @@
   },
   {
     "name": "exploding cannonball",
-    "points": 2135,
+    "points": 2639,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-exploding-cannonball.png",
     "xws": "explodingcannonball",
@@ -23497,7 +29038,7 @@
   },
   {
     "name": "forceful bolt",
-    "points": 2136,
+    "points": 2640,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-forceful-bolt.png",
     "xws": "forcefulbolt",
@@ -23508,7 +29049,7 @@
   },
   {
     "name": "grappling hook",
-    "points": 2137,
+    "points": 2641,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-grappling-hook.png",
     "xws": "grapplinghook",
@@ -23519,7 +29060,7 @@
   },
   {
     "name": "hurried repairs",
-    "points": 2138,
+    "points": 2642,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-hurried-repairs.png",
     "xws": "hurriedrepairs",
@@ -23530,7 +29071,7 @@
   },
   {
     "name": "ignited launch",
-    "points": 2139,
+    "points": 2643,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-ignited-launch.png",
     "xws": "ignitedlaunch",
@@ -23541,7 +29082,7 @@
   },
   {
     "name": "man the cannon",
-    "points": 2140,
+    "points": 2644,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-man-the-cannon.png",
     "xws": "manthecannon",
@@ -23552,7 +29093,7 @@
   },
   {
     "name": "meteoric blast",
-    "points": 2141,
+    "points": 2645,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-meteoric-blast.png",
     "xws": "meteoricblast",
@@ -23563,7 +29104,7 @@
   },
   {
     "name": "pillars of smoke",
-    "points": 2142,
+    "points": 2646,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-pillars-of-smoke.png",
     "xws": "pillarsofsmoke",
@@ -23574,7 +29115,7 @@
   },
   {
     "name": "powerful buckshot",
-    "points": 2143,
+    "points": 2647,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-powerful-buckshot.png",
     "xws": "powerfulbuckshot",
@@ -23585,7 +29126,7 @@
   },
   {
     "name": "prolific perforation",
-    "points": 2144,
+    "points": 2648,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-prolific-perforation.png",
     "xws": "prolificperforation",
@@ -23596,7 +29137,7 @@
   },
   {
     "name": "quadruple cannons",
-    "points": 2145,
+    "points": 2649,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-quadruple-cannons.png",
     "xws": "quadruplecannons",
@@ -23607,7 +29148,7 @@
   },
   {
     "name": "rapid fire",
-    "points": 2146,
+    "points": 2650,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-rapid-fire.png",
     "xws": "rapidfire",
@@ -23618,7 +29159,7 @@
   },
   {
     "name": "rolling into position",
-    "points": 2147,
+    "points": 2651,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-rolling-into-position.png",
     "xws": "rollingintoposition",
@@ -23629,7 +29170,7 @@
   },
   {
     "name": "sharpened focus",
-    "points": 2148,
+    "points": 2652,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-sharpened-focus.png",
     "xws": "sharpenedfocus",
@@ -23640,7 +29181,7 @@
   },
   {
     "name": "stationary enhancements",
-    "points": 2149,
+    "points": 2653,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-stationary-enhancements.png",
     "xws": "stationaryenhancements",
@@ -23651,7 +29192,7 @@
   },
   {
     "name": "supercharged gunpowder",
-    "points": 2150,
+    "points": 2654,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-supercharged-gunpowder.png",
     "xws": "superchargedgunpowder",
@@ -23662,7 +29203,7 @@
   },
   {
     "name": "superior upgrade",
-    "points": 2151,
+    "points": 2655,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-superior-upgrade.png",
     "xws": "superiorupgrade",
@@ -23673,7 +29214,7 @@
   },
   {
     "name": "twin blast",
-    "points": 2152,
+    "points": 2656,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-twin-blast.png",
     "xws": "twinblast",
@@ -23684,7 +29225,7 @@
   },
   {
     "name": "unbreakable position",
-    "points": 2153,
+    "points": 2657,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-unbreakable-position.png",
     "xws": "unbreakableposition",
@@ -23695,7 +29236,7 @@
   },
   {
     "name": "unexpected bombshell",
-    "points": 2154,
+    "points": 2658,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-unexpected-bombshell.png",
     "xws": "unexpectedbombshell",
@@ -23706,7 +29247,7 @@
   },
   {
     "name": "cg-back",
-    "points": 2155,
+    "points": 2659,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-cg-back.png",
     "xws": "cgback",
@@ -23717,7 +29258,7 @@
   },
   {
     "name": "agonizing clamp",
-    "points": 2156,
+    "points": 2660,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-agonizing-clamp.png",
     "xws": "agonizingclamp",
@@ -23728,7 +29269,7 @@
   },
   {
     "name": "champion of chains",
-    "points": 2157,
+    "points": 2661,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-champion-of-chains.png",
     "xws": "championofchains",
@@ -23739,7 +29280,7 @@
   },
   {
     "name": "chokehold",
-    "points": 2158,
+    "points": 2662,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-chokehold.png",
     "xws": "chokehold",
@@ -23750,7 +29291,7 @@
   },
   {
     "name": "clamping snare",
-    "points": 2159,
+    "points": 2663,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-clamping-snare.png",
     "xws": "clampingsnare",
@@ -23761,7 +29302,7 @@
   },
   {
     "name": "dizzying release",
-    "points": 2160,
+    "points": 2664,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-dizzying-release.png",
     "xws": "dizzyingrelease",
@@ -23772,7 +29313,7 @@
   },
   {
     "name": "double k.o.",
-    "points": 2161,
+    "points": 2665,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-double-ko.png",
     "xws": "doubleko",
@@ -23783,7 +29324,7 @@
   },
   {
     "name": "drag through dirt",
-    "points": 2162,
+    "points": 2666,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-drag-through-dirt.png",
     "xws": "dragthroughthedirt",
@@ -23794,7 +29335,7 @@
   },
   {
     "name": "follow the chains",
-    "points": 2163,
+    "points": 2667,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-follow-the-chains.png",
     "xws": "followthechains",
@@ -23805,7 +29346,7 @@
   },
   {
     "name": "ganging up",
-    "points": 2164,
+    "points": 2668,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-ganging-up.png",
     "xws": "gangingup",
@@ -23816,7 +29357,7 @@
   },
   {
     "name": "impending power",
-    "points": 2165,
+    "points": 2669,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-impending-power.png",
     "xws": "impendingpower",
@@ -23827,7 +29368,7 @@
   },
   {
     "name": "iron thrust",
-    "points": 2166,
+    "points": 2670,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-iron-thrust.png",
     "xws": "ironthrust",
@@ -23838,7 +29379,7 @@
   },
   {
     "name": "latch and tow",
-    "points": 2167,
+    "points": 2671,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-latch-and-tow.png",
     "xws": "latchandtow",
@@ -23849,7 +29390,7 @@
   },
   {
     "name": "locking links",
-    "points": 2168,
+    "points": 2672,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-locking-links.png",
     "xws": "lockinglinks",
@@ -23860,7 +29401,7 @@
   },
   {
     "name": "merciless beatdown",
-    "points": 2169,
+    "points": 2673,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-merciless-beatdown.png",
     "xws": "mercilessbeatdown",
@@ -23871,7 +29412,7 @@
   },
   {
     "name": "meteor hammer",
-    "points": 2170,
+    "points": 2674,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-meteor-hammer.png",
     "xws": "meteorhammer",
@@ -23882,7 +29423,7 @@
   },
   {
     "name": "pivot and smash",
-    "points": 2171,
+    "points": 2675,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-pivot-and-smash.png",
     "xws": "pivotandsmash",
@@ -23893,7 +29434,7 @@
   },
   {
     "name": "roundhouse swing",
-    "points": 2172,
+    "points": 2676,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-roundhouse-swing.png",
     "xws": "roundhouseswing",
@@ -23904,7 +29445,7 @@
   },
   {
     "name": "rusty spikes",
-    "points": 2173,
+    "points": 2677,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-rusty-spikes.png",
     "xws": "rustyspikes",
@@ -23915,7 +29456,7 @@
   },
   {
     "name": "slamming shove",
-    "points": 2174,
+    "points": 2678,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-slamming-shove.png",
     "xws": "slammingshove",
@@ -23926,7 +29467,7 @@
   },
   {
     "name": "spiked knuckles",
-    "points": 2175,
+    "points": 2679,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-spiked-knuckles.png",
     "xws": "spikedknuckles",
@@ -23937,7 +29478,7 @@
   },
   {
     "name": "suffering steel",
-    "points": 2176,
+    "points": 2680,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-suffering-steel.png",
     "xws": "sufferingsteel",
@@ -23948,7 +29489,7 @@
   },
   {
     "name": "sweeping collision",
-    "points": 2177,
+    "points": 2681,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-sweeping-collision.png",
     "xws": "sweepingcollision",
@@ -23959,7 +29500,7 @@
   },
   {
     "name": "syndicated assault",
-    "points": 2178,
+    "points": 2682,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-syndicated-assault.png",
     "xws": "syndicatedassault",
@@ -23970,7 +29511,7 @@
   },
   {
     "name": "tighten the chains",
-    "points": 2179,
+    "points": 2683,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-tighten-the-chains.png",
     "xws": "tightenthechains",
@@ -23981,7 +29522,7 @@
   },
   {
     "name": "titanic chainwhip",
-    "points": 2180,
+    "points": 2684,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-titanic-chainwhip.png",
     "xws": "titanicchainwhip",
@@ -23992,7 +29533,7 @@
   },
   {
     "name": "unending torment",
-    "points": 2181,
+    "points": 2685,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-unending-torment.png",
     "xws": "unendingtorment",
@@ -24003,7 +29544,7 @@
   },
   {
     "name": "untouchable keeper",
-    "points": 2182,
+    "points": 2686,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-untouchable-keeper.png",
     "xws": "untouchablekeeper",
@@ -24014,7 +29555,7 @@
   },
   {
     "name": "vigorous sway",
-    "points": 2183,
+    "points": 2687,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-vigorous-sway.png",
     "xws": "vigoroussway",
@@ -24025,7 +29566,7 @@
   },
   {
     "name": "wrapped in metal",
-    "points": 2184,
+    "points": 2688,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-wrapped-in-metal.png",
     "xws": "wrappedinmetal",
@@ -24036,7 +29577,7 @@
   },
   {
     "name": "ct-back",
-    "points": 2185,
+    "points": 2689,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-ct-back.png",
     "xws": "ctback",
@@ -24047,7 +29588,7 @@
   },
   {
     "name": "agile predator",
-    "points": 2186,
+    "points": 2690,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-agile-predator.png",
     "xws": "agilepredator",
@@ -24058,7 +29599,7 @@
   },
   {
     "name": "black panther",
-    "points": 2187,
+    "points": 2691,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-agile-predator.png",
     "xws": "agilepredator",
@@ -24069,7 +29610,7 @@
   },
   {
     "name": "catastrophic cattle",
-    "points": 2188,
+    "points": 2692,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-catastrophic-cattle.png",
     "xws": "catastrophiccattle",
@@ -24080,7 +29621,7 @@
   },
   {
     "name": "fighting bull",
-    "points": 2189,
+    "points": 2693,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-catastrophic-cattle.png",
     "xws": "catastrophiccattle",
@@ -24091,7 +29632,7 @@
   },
   {
     "name": "ceremonial dance",
-    "points": 2190,
+    "points": 2694,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-ceremonial-dance.png",
     "xws": "ceremonialdance",
@@ -24102,7 +29643,7 @@
   },
   {
     "name": "chest thumper",
-    "points": 2191,
+    "points": 2695,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-chest-thumper.png",
     "xws": "chestthumper",
@@ -24113,7 +29654,7 @@
   },
   {
     "name": "lowland gorilla",
-    "points": 2192,
+    "points": 2696,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-chest-thumper.png",
     "xws": "chestthumper",
@@ -24124,7 +29665,7 @@
   },
   {
     "name": "hunter's mark",
-    "points": 2193,
+    "points": 2697,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-hunters-mark.png",
     "xws": "huntersmark",
@@ -24135,7 +29676,7 @@
   },
   {
     "name": "impervious armor",
-    "points": 2194,
+    "points": 2698,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-impervious-armor.png",
     "xws": "imperviousarmor",
@@ -24146,7 +29687,7 @@
   },
   {
     "name": "battle rhinoceros",
-    "points": 2195,
+    "points": 2699,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-impervious-armor.png",
     "xws": "imperviousarmor",
@@ -24157,7 +29698,7 @@
   },
   {
     "name": "majestic mass",
-    "points": 2196,
+    "points": 2700,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-majestic-mass.png",
     "xws": "majesticmass",
@@ -24168,7 +29709,7 @@
   },
   {
     "name": "war elephant",
-    "points": 2197,
+    "points": 2701,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-majestic-mass.png",
     "xws": "majesticmass",
@@ -24179,7 +29720,7 @@
   },
   {
     "name": "master the reins",
-    "points": 2198,
+    "points": 2702,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-master-the-reins.png",
     "xws": "masterthereins",
@@ -24190,7 +29731,7 @@
   },
   {
     "name": "medicine shield",
-    "points": 2199,
+    "points": 2703,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-medicine-shield.png",
     "xws": "medicineshield",
@@ -24201,7 +29742,7 @@
   },
   {
     "name": "mounded sight",
-    "points": 2200,
+    "points": 2704,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-mounded-sight.png",
     "xws": "moundedsight",
@@ -24212,7 +29753,7 @@
   },
   {
     "name": "cavalry camel",
-    "points": 2201,
+    "points": 2705,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-mounded-sight.png",
     "xws": "moundedsight",
@@ -24223,7 +29764,7 @@
   },
   {
     "name": "one with nature",
-    "points": 2202,
+    "points": 2706,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-one-with-nature.png",
     "xws": "onewithnature",
@@ -24234,7 +29775,7 @@
   },
   {
     "name": "outrun the enemy",
-    "points": 2203,
+    "points": 2707,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-outrun-the-enemy.png",
     "xws": "outruntheenemy",
@@ -24245,7 +29786,7 @@
   },
   {
     "name": "speedy ostrich",
-    "points": 2204,
+    "points": 2708,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-outrun-the-enemy.png",
     "xws": "outruntheenemy",
@@ -24256,7 +29797,7 @@
   },
   {
     "name": "piercing darts",
-    "points": 2205,
+    "points": 2709,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-piercing-darts.png",
     "xws": "piercingdarts",
@@ -24267,7 +29808,7 @@
   },
   {
     "name": "pipe tomahawk",
-    "points": 2206,
+    "points": 2710,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-pipe-tomahawk.png",
     "xws": "pipetomahawk",
@@ -24278,7 +29819,7 @@
   },
   {
     "name": "positive reinforcement",
-    "points": 2207,
+    "points": 2711,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-positive-reinforcement.png",
     "xws": "positivereinforcement",
@@ -24289,7 +29830,7 @@
   },
   {
     "name": "prepared rations",
-    "points": 2208,
+    "points": 2712,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-prepared-rations.png",
     "xws": "preparedrations",
@@ -24300,7 +29841,7 @@
   },
   {
     "name": "pack mule",
-    "points": 2209,
+    "points": 2713,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-prepared-rations.png",
     "xws": "preparedrations",
@@ -24311,7 +29852,7 @@
   },
   {
     "name": "regal beast",
-    "points": 2210,
+    "points": 2714,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-regal-beast.png",
     "xws": "regalbeast",
@@ -24322,7 +29863,7 @@
   },
   {
     "name": "sabretooth tiger",
-    "points": 2211,
+    "points": 2715,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-regal-beast.png",
     "xws": "regalbeast",
@@ -24333,7 +29874,7 @@
   },
   {
     "name": "resurrection",
-    "points": 2212,
+    "points": 2716,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-resurrection.png",
     "xws": "resurrection",
@@ -24344,7 +29885,7 @@
   },
   {
     "name": "skinning knife",
-    "points": 2213,
+    "points": 2717,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-skinning-knife.png",
     "xws": "skinningknife",
@@ -24355,7 +29896,7 @@
   },
   {
     "name": "slow and steady",
-    "points": 2214,
+    "points": 2718,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-slow-and-steady.png",
     "xws": "slowandsteady",
@@ -24366,7 +29907,7 @@
   },
   {
     "name": "giant tortoise",
-    "points": 2215,
+    "points": 2719,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-slow-and-steady.png",
     "xws": "slowandsteady",
@@ -24377,7 +29918,7 @@
   },
   {
     "name": "sniffing hound",
-    "points": 2216,
+    "points": 2720,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-sniffing-hound.png",
     "xws": "sniffinghound",
@@ -24388,7 +29929,7 @@
   },
   {
     "name": "scout dog",
-    "points": 2217,
+    "points": 2721,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-sniffing-hound.png",
     "xws": "sniffinghound",
@@ -24399,7 +29940,7 @@
   },
   {
     "name": "soul whisperer",
-    "points": 2218,
+    "points": 2722,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-soul-whisperer.png",
     "xws": "soulwhisperer",
@@ -24410,7 +29951,7 @@
   },
   {
     "name": "spiked muzzle",
-    "points": 2219,
+    "points": 2723,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-spiked-muzzle.png",
     "xws": "spikedmuzzle",
@@ -24421,7 +29962,7 @@
   },
   {
     "name": "strapping bullwhip",
-    "points": 2220,
+    "points": 2724,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-strapping-bullwhip.png",
     "xws": "strappingbullwhip",
@@ -24432,7 +29973,7 @@
   },
   {
     "name": "sucker punch",
-    "points": 2221,
+    "points": 2725,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-sucker-punch.png",
     "xws": "suckerpunch",
@@ -24443,7 +29984,7 @@
   },
   {
     "name": "take the reins",
-    "points": 2222,
+    "points": 2726,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-take-the-reins.png",
     "xws": "takethereins",
@@ -24454,7 +29995,7 @@
   },
   {
     "name": "tribal blessing",
-    "points": 2223,
+    "points": 2727,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-tribal-blessing.png",
     "xws": "tribalblessing",
@@ -24465,7 +30006,7 @@
   },
   {
     "name": "venomous mayhem",
-    "points": 2224,
+    "points": 2728,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-venomous-mayhem.png",
     "xws": "venomousmayhem",
@@ -24476,7 +30017,7 @@
   },
   {
     "name": "cottonmouth snake",
-    "points": 2225,
+    "points": 2729,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-venomous-mayhem.png",
     "xws": "venomousmayhem",
@@ -24487,7 +30028,7 @@
   },
   {
     "name": "war paint",
-    "points": 2226,
+    "points": 2730,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-war-paint.png",
     "xws": "warpaint",
@@ -24498,7 +30039,7 @@
   },
   {
     "name": "fk-back",
-    "points": 2227,
+    "points": 2731,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-fk-back.png",
     "xws": "fkback",
@@ -24509,7 +30050,7 @@
   },
   {
     "name": "backdraft",
-    "points": 2228,
+    "points": 2732,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-backdraft.png",
     "xws": "backdraft",
@@ -24520,7 +30061,7 @@
   },
   {
     "name": "cauterize wound",
-    "points": 2229,
+    "points": 2733,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-cauterize-wound.png",
     "xws": "cauterizewound",
@@ -24531,7 +30072,7 @@
   },
   {
     "name": "collective combat",
-    "points": 2230,
+    "points": 2734,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-collective-combat.png",
     "xws": "collectivecombat",
@@ -24542,7 +30083,7 @@
   },
   {
     "name": "combat medic",
-    "points": 2231,
+    "points": 2735,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-combat-medic.png",
     "xws": "combatmedic",
@@ -24553,7 +30094,7 @@
   },
   {
     "name": "combined effort",
-    "points": 2232,
+    "points": 2736,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-combined-effort.png",
     "xws": "combinedeffort",
@@ -24564,7 +30105,7 @@
   },
   {
     "name": "controlled aggression",
-    "points": 2233,
+    "points": 2737,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-controlled-aggression.png",
     "xws": "controlledaggression",
@@ -24575,7 +30116,7 @@
   },
   {
     "name": "coordinated attack",
-    "points": 2234,
+    "points": 2738,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-coordinated-attack.png",
     "xws": "coordinatedattack",
@@ -24586,7 +30127,7 @@
   },
   {
     "name": "crew integrity",
-    "points": 2235,
+    "points": 2739,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-crew-integrity.png",
     "xws": "crewintegrity",
@@ -24597,7 +30138,7 @@
   },
   {
     "name": "fiery charisma",
-    "points": 2236,
+    "points": 2740,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-fiery-charisma.png",
     "xws": "fierycharisma",
@@ -24608,7 +30149,7 @@
   },
   {
     "name": "fire whirl",
-    "points": 2237,
+    "points": 2741,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-fire-whirl.png",
     "xws": "firewhirl",
@@ -24619,7 +30160,7 @@
   },
   {
     "name": "flaming axe",
-    "points": 2238,
+    "points": 2742,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-flaming-axe.png",
     "xws": "flamingaxe",
@@ -24630,7 +30171,7 @@
   },
   {
     "name": "flashover",
-    "points": 2239,
+    "points": 2743,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-flashover.png",
     "xws": "flashover",
@@ -24641,7 +30182,7 @@
   },
   {
     "name": "reigniting drakefiend",
-    "points": 2240,
+    "points": 2744,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-flashover.png",
     "xws": "flashover",
@@ -24652,7 +30193,7 @@
   },
   {
     "name": "forcible entry",
-    "points": 2241,
+    "points": 2745,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-forcible-entry.png",
     "xws": "forcibleentry",
@@ -24663,7 +30204,7 @@
   },
   {
     "name": "heavy irons",
-    "points": 2242,
+    "points": 2746,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-heavy-irons.png",
     "xws": "heavyirons",
@@ -24674,7 +30215,7 @@
   },
   {
     "name": "hook and ladder",
-    "points": 2243,
+    "points": 2747,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-hook-and-ladder.png",
     "xws": "hookandladder",
@@ -24685,7 +30226,7 @@
   },
   {
     "name": "incident commander",
-    "points": 2244,
+    "points": 2748,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-incident-commander.png",
     "xws": "incidentcommander",
@@ -24696,7 +30237,7 @@
   },
   {
     "name": "jack of all trades",
-    "points": 2245,
+    "points": 2749,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-jack-of-all-trades.png",
     "xws": "jackofalltrades",
@@ -24707,7 +30248,7 @@
   },
   {
     "name": "kindled tonic",
-    "points": 2246,
+    "points": 2750,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-kindled-tonic.png",
     "xws": "kindledtonic",
@@ -24718,7 +30259,7 @@
   },
   {
     "name": "ladder assault",
-    "points": 2247,
+    "points": 2751,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-ladder-assault.png",
     "xws": "ladderassault",
@@ -24729,7 +30270,7 @@
   },
   {
     "name": "light irons",
-    "points": 2248,
+    "points": 2752,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-light-irons.png",
     "xws": "lightirons",
@@ -24740,7 +30281,7 @@
   },
   {
     "name": "loyal companion",
-    "points": 2249,
+    "points": 2753,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-loyal-companion.png",
     "xws": "loyalcompanion",
@@ -24751,7 +30292,7 @@
   },
   {
     "name": "spotted hound",
-    "points": 2250,
+    "points": 2754,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-loyal-companion.png",
     "xws": "loyalcompanion",
@@ -24762,7 +30303,7 @@
   },
   {
     "name": "mutual aid",
-    "points": 2251,
+    "points": 2755,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-mutual-aid.png",
     "xws": "mutualaid",
@@ -24773,7 +30314,7 @@
   },
   {
     "name": "playing with fire",
-    "points": 2252,
+    "points": 2756,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-playing-with-fire.png",
     "xws": "playingwithfire",
@@ -24784,7 +30325,7 @@
   },
   {
     "name": "practical tools",
-    "points": 2253,
+    "points": 2757,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-practical-tools.png",
     "xws": "practicaltools",
@@ -24795,7 +30336,7 @@
   },
   {
     "name": "rapid response",
-    "points": 2254,
+    "points": 2758,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-rapid-response.png",
     "xws": "rapidresponse",
@@ -24806,7 +30347,7 @@
   },
   {
     "name": "rolling flames",
-    "points": 2255,
+    "points": 2759,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-rolling-flames.png",
     "xws": "rollingflames",
@@ -24817,7 +30358,7 @@
   },
   {
     "name": "search and rescue",
-    "points": 2256,
+    "points": 2760,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-search-and-rescue.png",
     "xws": "searchandrescue",
@@ -24828,7 +30369,7 @@
   },
   {
     "name": "searing blaze",
-    "points": 2257,
+    "points": 2761,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-searing-blaze.png",
     "xws": "searingblaze",
@@ -24839,7 +30380,7 @@
   },
   {
     "name": "trauma care",
-    "points": 2258,
+    "points": 2762,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-trauma-care.png",
     "xws": "traumacare",
@@ -24850,7 +30391,7 @@
   },
   {
     "name": "ho-back",
-    "points": 2259,
+    "points": 2763,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-ho-back.png",
     "xws": "hoback",
@@ -24861,7 +30402,7 @@
   },
   {
     "name": "borrowed vitality",
-    "points": 2260,
+    "points": 2764,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-borrowed-vitality.png",
     "xws": "borrowedvitality",
@@ -24872,7 +30413,7 @@
   },
   {
     "name": "channel the void",
-    "points": 2261,
+    "points": 2765,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-channel-the-void.png",
     "xws": "channelthevoid",
@@ -24883,7 +30424,7 @@
   },
   {
     "name": "empowered assault",
-    "points": 2262,
+    "points": 2766,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-empowered-assault.png",
     "xws": "empoweredassault",
@@ -24894,7 +30435,7 @@
   },
   {
     "name": "enduring darkness",
-    "points": 2263,
+    "points": 2767,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-enduring-darkness.png",
     "xws": "enduringdarkness",
@@ -24905,7 +30446,7 @@
   },
   {
     "name": "enervating strike",
-    "points": 2264,
+    "points": 2768,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-enervating-strike.png",
     "xws": "enervatingstrike",
@@ -24916,7 +30457,7 @@
   },
   {
     "name": "entropy unleashed",
-    "points": 2265,
+    "points": 2769,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-entropy-unleashed.png",
     "xws": "entropyunleashed",
@@ -24927,7 +30468,7 @@
   },
   {
     "name": "find an opening",
-    "points": 2266,
+    "points": 2770,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-find-an-opening.png",
     "xws": "findanopening",
@@ -24938,7 +30479,7 @@
   },
   {
     "name": "gateway to the abyss",
-    "points": 2267,
+    "points": 2771,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-gateway-to-the-abyss.png",
     "xws": "gatewaytotheabyss",
@@ -24949,7 +30490,7 @@
   },
   {
     "name": "greed before need",
-    "points": 2268,
+    "points": 2772,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-greed-before-need.png",
     "xws": "greedbeforeneed",
@@ -24960,7 +30501,7 @@
   },
   {
     "name": "hollow embrace",
-    "points": 2269,
+    "points": 2773,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-hollow-embrace.png",
     "xws": "hollowembrace",
@@ -24971,7 +30512,7 @@
   },
   {
     "name": "implosion",
-    "points": 2270,
+    "points": 2774,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-implosion.png",
     "xws": "implosion",
@@ -24982,7 +30523,7 @@
   },
   {
     "name": "majestic malevolence",
-    "points": 2271,
+    "points": 2775,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-majestic-malevolence.png",
     "xws": "majesticmalevolence",
@@ -24993,7 +30534,7 @@
   },
   {
     "name": "nether binding",
-    "points": 2272,
+    "points": 2776,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-nether-binding.png",
     "xws": "netherbinding",
@@ -25004,7 +30545,7 @@
   },
   {
     "name": "nether blades",
-    "points": 2273,
+    "points": 2777,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-nether-blades.png",
     "xws": "netherblades",
@@ -25015,7 +30556,7 @@
   },
   {
     "name": "no escape",
-    "points": 2274,
+    "points": 2778,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-no-escape.png",
     "xws": "noescape",
@@ -25026,7 +30567,7 @@
   },
   {
     "name": "obliterate",
-    "points": 2275,
+    "points": 2779,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-obliterate.png",
     "xws": "obliterate",
@@ -25037,7 +30578,7 @@
   },
   {
     "name": "one with nothingness",
-    "points": 2276,
+    "points": 2780,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-one-with-nothingness.png",
     "xws": "onewithnothingness",
@@ -25048,7 +30589,7 @@
   },
   {
     "name": "prescient voidmastery",
-    "points": 2277,
+    "points": 2781,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-prescient-voidmastery.png",
     "xws": "prescientvoidmastery",
@@ -25059,7 +30600,7 @@
   },
   {
     "name": "reaching darkness",
-    "points": 2278,
+    "points": 2782,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-reaching-darkness.png",
     "xws": "reachingdarkness",
@@ -25070,7 +30611,7 @@
   },
   {
     "name": "ruinous barrage",
-    "points": 2279,
+    "points": 2783,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-ruinous-barrage.png",
     "xws": "ruinousbarrage",
@@ -25081,7 +30622,7 @@
   },
   {
     "name": "sever reality",
-    "points": 2280,
+    "points": 2784,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-sever-reality.png",
     "xws": "severreality",
@@ -25092,7 +30633,7 @@
   },
   {
     "name": "shrouded grasp",
-    "points": 2281,
+    "points": 2785,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-shrouded-grasp.png",
     "xws": "shroudedgrasp",
@@ -25103,7 +30644,7 @@
   },
   {
     "name": "stalking quarry",
-    "points": 2282,
+    "points": 2786,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-stalking-quarry.png",
     "xws": "stalkingquarry",
@@ -25114,7 +30655,7 @@
   },
   {
     "name": "tendrils of night",
-    "points": 2283,
+    "points": 2787,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-tendrils-of-night.png",
     "xws": "tendrilsofnight",
@@ -25125,7 +30666,7 @@
   },
   {
     "name": "touch of the void",
-    "points": 2284,
+    "points": 2788,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-touch-of-the-void.png",
     "xws": "touchofthevoid",
@@ -25136,7 +30677,7 @@
   },
   {
     "name": "untethered advance",
-    "points": 2285,
+    "points": 2789,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-untethered-advance.png",
     "xws": "untetheredadvance",
@@ -25147,7 +30688,7 @@
   },
   {
     "name": "void-enhanced armory",
-    "points": 2286,
+    "points": 2790,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-void-enhanced-armory.png",
     "xws": "voidenhancedarmory",
@@ -25158,7 +30699,7 @@
   },
   {
     "name": "void step",
-    "points": 2287,
+    "points": 2791,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-void-step.png",
     "xws": "voidstep",
@@ -25169,7 +30710,7 @@
   },
   {
     "name": "withering deluge",
-    "points": 2288,
+    "points": 2792,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-withering-deluge.png",
     "xws": "witheringdeluge",
@@ -25180,7 +30721,7 @@
   },
   {
     "name": "hp-back",
-    "points": 2289,
+    "points": 2793,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-hp-back.png",
     "xws": "hpback",
@@ -25191,7 +30732,7 @@
   },
   {
     "name": "aspiration",
-    "points": 2290,
+    "points": 2794,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-aspiration.png",
     "xws": "aspiration",
@@ -25202,7 +30743,7 @@
   },
   {
     "name": "beacon of hope",
-    "points": 2291,
+    "points": 2795,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-beacon-of-hope.png",
     "xws": "beaconofhope",
@@ -25213,7 +30754,7 @@
   },
   {
     "name": "bringer of miracles",
-    "points": 2292,
+    "points": 2796,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-bringer-of-miracles.png",
     "xws": "bringerofmiracles",
@@ -25224,7 +30765,7 @@
   },
   {
     "name": "chains of light",
-    "points": 2293,
+    "points": 2797,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-chains-of-light.png",
     "xws": "chainsoflight",
@@ -25235,7 +30776,7 @@
   },
   {
     "name": "devotion",
-    "points": 2294,
+    "points": 2798,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-devotion.png",
     "xws": "devotion",
@@ -25246,7 +30787,7 @@
   },
   {
     "name": "devout assistance",
-    "points": 2295,
+    "points": 2799,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-devout-assistance.png",
     "xws": "devoutassistance",
@@ -25257,7 +30798,7 @@
   },
   {
     "name": "divine allegiance",
-    "points": 2296,
+    "points": 2800,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-divine-allegiance.png",
     "xws": "devineallegiance",
@@ -25268,7 +30809,7 @@
   },
   {
     "name": "encouraged conviction",
-    "points": 2297,
+    "points": 2801,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-encouraged-conviction.png",
     "xws": "encouragedconviction",
@@ -25279,7 +30820,7 @@
   },
   {
     "name": "expansive permanence",
-    "points": 2298,
+    "points": 2802,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-expansive-permanence.png",
     "xws": "expansivepermanence",
@@ -25290,7 +30831,7 @@
   },
   {
     "name": "faith calling",
-    "points": 2299,
+    "points": 2803,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-faith-calling.png",
     "xws": "faithcalling",
@@ -25301,7 +30842,7 @@
   },
   {
     "name": "grace",
-    "points": 2300,
+    "points": 2804,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-grace.png",
     "xws": "grace",
@@ -25312,7 +30853,7 @@
   },
   {
     "name": "harsh rebuke",
-    "points": 2301,
+    "points": 2805,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-harsh-rebuke.png",
     "xws": "harshrebuke",
@@ -25323,7 +30864,7 @@
   },
   {
     "name": "impetuous inquisition",
-    "points": 2302,
+    "points": 2806,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-impetuous-inquisition.png",
     "xws": "impetuousinquisition",
@@ -25334,7 +30875,7 @@
   },
   {
     "name": "inner reflection",
-    "points": 2303,
+    "points": 2807,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-inner-reflection.png",
     "xws": "innerreflection",
@@ -25345,7 +30886,7 @@
   },
   {
     "name": "inspired remedy",
-    "points": 2304,
+    "points": 2808,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-inspired-remedy.png",
     "xws": "inspiredremedy",
@@ -25356,7 +30897,7 @@
   },
   {
     "name": "lamentation",
-    "points": 2305,
+    "points": 2809,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-lamentation.png",
     "xws": "lamentation",
@@ -25367,7 +30908,7 @@
   },
   {
     "name": "meditation",
-    "points": 2306,
+    "points": 2810,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-meditation.png",
     "xws": "meditation",
@@ -25378,7 +30919,7 @@
   },
   {
     "name": "oaks embrace",
-    "points": 2307,
+    "points": 2811,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-oaks-embrace.png",
     "xws": "oaksembrace",
@@ -25389,7 +30930,7 @@
   },
   {
     "name": "ordination",
-    "points": 2308,
+    "points": 2812,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-ordination.png",
     "xws": "ordination",
@@ -25400,7 +30941,7 @@
   },
   {
     "name": "penitence",
-    "points": 2309,
+    "points": 2813,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-penitence.png",
     "xws": "penitence",
@@ -25411,7 +30952,7 @@
   },
   {
     "name": "prosperous concord",
-    "points": 2310,
+    "points": 2814,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-prosperous-concord.png",
     "xws": "prosperousconcord",
@@ -25422,7 +30963,7 @@
   },
   {
     "name": "restoring faith",
-    "points": 2311,
+    "points": 2815,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-restoring-faith.png",
     "xws": "restoringfaith",
@@ -25433,7 +30974,7 @@
   },
   {
     "name": "revered protector",
-    "points": 2312,
+    "points": 2816,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-revered-protector.png",
     "xws": "reveredprotector",
@@ -25444,7 +30985,7 @@
   },
   {
     "name": "righteous atonement",
-    "points": 2313,
+    "points": 2817,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-righteous-atonement.png",
     "xws": "righteousatonement",
@@ -25455,7 +30996,7 @@
   },
   {
     "name": "rooted subjugation",
-    "points": 2314,
+    "points": 2818,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-rooted-subjugation.png",
     "xws": "rootedsubjugation",
@@ -25466,7 +31007,7 @@
   },
   {
     "name": "sacred death",
-    "points": 2315,
+    "points": 2819,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-sacred-death.png",
     "xws": "sacreddeath",
@@ -25477,7 +31018,7 @@
   },
   {
     "name": "salvation",
-    "points": 2316,
+    "points": 2820,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-salvation.png",
     "xws": "salvation",
@@ -25488,7 +31029,7 @@
   },
   {
     "name": "soulful salvation",
-    "points": 2317,
+    "points": 2821,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-soulful-salvation.png",
     "xws": "soulfulsalvation",
@@ -25499,7 +31040,7 @@
   },
   {
     "name": "soul strike",
-    "points": 2318,
+    "points": 2822,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-soul-strike.png",
     "xws": "soulstrike",
@@ -25510,7 +31051,7 @@
   },
   {
     "name": "spiritual gains",
-    "points": 2319,
+    "points": 2823,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-spiritual-gains.png",
     "xws": "spiritualgains",
@@ -25521,7 +31062,7 @@
   },
   {
     "name": "standing ground",
-    "points": 2320,
+    "points": 2824,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-standing-ground.png",
     "xws": "standingground",
@@ -25532,7 +31073,7 @@
   },
   {
     "name": "symphony of oppression",
-    "points": 2321,
+    "points": 2825,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-symphony-of-oppression.png",
     "xws": "symphonyofoppression",
@@ -25543,7 +31084,7 @@
   },
   {
     "name": "unruly repentance",
-    "points": 2322,
+    "points": 2826,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-unruly-repentance.png",
     "xws": "unrulyrepentance",
@@ -25554,7 +31095,7 @@
   },
   {
     "name": "unstoppable force",
-    "points": 2323,
+    "points": 2827,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-unstoppable-force.png",
     "xws": "unstoppableforce",
@@ -25565,7 +31106,7 @@
   },
   {
     "name": "vengeful veneration",
-    "points": 2324,
+    "points": 2828,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-vengeful-veneration.png",
     "xws": "vengefulveneration",
@@ -25576,7 +31117,7 @@
   },
   {
     "name": "vital bond",
-    "points": 2325,
+    "points": 2829,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-vital-bond.png",
     "xws": "vitalbond",
@@ -25587,7 +31128,7 @@
   },
   {
     "name": "vocal sermon",
-    "points": 2326,
+    "points": 2830,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-vocal-sermon.png",
     "xws": "vocalsermon",
@@ -25598,7 +31139,7 @@
   },
   {
     "name": "weakened will",
-    "points": 2327,
+    "points": 2831,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-weakened-will.png",
     "xws": "weakenedwill",
@@ -25609,7 +31150,7 @@
   },
   {
     "name": "lu-back",
-    "points": 2328,
+    "points": 2832,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-lu-back.png",
     "xws": "luback",
@@ -25620,7 +31161,7 @@
   },
   {
     "name": "blackened rage",
-    "points": 2329,
+    "points": 2833,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-blackened-rage.png",
     "xws": "blackenedrage",
@@ -25631,7 +31172,7 @@
   },
   {
     "name": "blazing pincers",
-    "points": 2330,
+    "points": 2834,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-blazing-pincers.png",
     "xws": "blazingpincers",
@@ -25642,7 +31183,7 @@
   },
   {
     "name": "burning sparks",
-    "points": 2331,
+    "points": 2835,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-burning-sparks.png",
     "xws": "burningsparks",
@@ -25653,7 +31194,7 @@
   },
   {
     "name": "chilling wave",
-    "points": 2332,
+    "points": 2836,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-chilling-wave.png",
     "xws": "chillingwave",
@@ -25664,7 +31205,7 @@
   },
   {
     "name": "colorful wavelengths",
-    "points": 2333,
+    "points": 2837,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-colorful-wavelengths.png",
     "xws": "colorfulwavelengths",
@@ -25675,7 +31216,7 @@
   },
   {
     "name": "darkened overcast",
-    "points": 2334,
+    "points": 2838,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-darkened-overcast.png",
     "xws": "darkenedovercast",
@@ -25686,7 +31227,7 @@
   },
   {
     "name": "dominating illumination",
-    "points": 2335,
+    "points": 2839,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-dominating-illumination.png",
     "xws": "dominatingillumination",
@@ -25697,7 +31238,7 @@
   },
   {
     "name": "empowering rays",
-    "points": 2336,
+    "points": 2840,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-empowering-rays.png",
     "xws": "empoweringrays",
@@ -25708,7 +31249,7 @@
   },
   {
     "name": "encompassing aura",
-    "points": 2337,
+    "points": 2841,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-encompassing-aura.png",
     "xws": "encompassingaura",
@@ -25719,7 +31260,7 @@
   },
   {
     "name": "flickering lights",
-    "points": 2338,
+    "points": 2842,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-flickering-lights.png",
     "xws": "flickeringlights",
@@ -25730,7 +31271,7 @@
   },
   {
     "name": "floodlight",
-    "points": 2339,
+    "points": 2843,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-floodlight.png",
     "xws": "floodlight",
@@ -25741,7 +31282,7 @@
   },
   {
     "name": "frosty glimmer",
-    "points": 2340,
+    "points": 2844,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-frosty-glimmer.png",
     "xws": "frostyglimmer",
@@ -25752,7 +31293,7 @@
   },
   {
     "name": "gamma energy",
-    "points": 2341,
+    "points": 2845,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-gamma-energy.png",
     "xws": "gammaenergy",
@@ -25763,7 +31304,7 @@
   },
   {
     "name": "heat waves",
-    "points": 2342,
+    "points": 2846,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-heat-waves.png",
     "xws": "heatwaves",
@@ -25774,7 +31315,7 @@
   },
   {
     "name": "imposing brilliance",
-    "points": 2343,
+    "points": 2847,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-imposing-brilliance.png",
     "xws": "imposingbrilliance",
@@ -25785,7 +31326,7 @@
   },
   {
     "name": "light the way",
-    "points": 2344,
+    "points": 2848,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-light-the-way.png",
     "xws": "lighttheway",
@@ -25796,7 +31337,7 @@
   },
   {
     "name": "gleaming squid",
-    "points": 2345,
+    "points": 2849,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-light-the-way.png",
     "xws": "lighttheway",
@@ -25807,7 +31348,7 @@
   },
   {
     "name": "luminescence",
-    "points": 2346,
+    "points": 2850,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-luminescence.png",
     "xws": "luminescence",
@@ -25818,7 +31359,7 @@
   },
   {
     "name": "moonbeam",
-    "points": 2347,
+    "points": 2851,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-moonbeam.png",
     "xws": "moonbeam",
@@ -25829,7 +31370,7 @@
   },
   {
     "name": "optical refraction",
-    "points": 2348,
+    "points": 2852,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-optical-refraction.png",
     "xws": "opticalrefraction",
@@ -25840,7 +31381,7 @@
   },
   {
     "name": "photonic defense",
-    "points": 2349,
+    "points": 2853,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-photonic-defense.png",
     "xws": "photonicdefense",
@@ -25851,7 +31392,7 @@
   },
   {
     "name": "radiant glare",
-    "points": 2350,
+    "points": 2854,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-radiant-glare.png",
     "xws": "radiantglare",
@@ -25862,7 +31403,7 @@
   },
   {
     "name": "shadow claws",
-    "points": 2351,
+    "points": 2855,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-shadow-claws.png",
     "xws": "shadowclaws",
@@ -25873,7 +31414,7 @@
   },
   {
     "name": "shimmering scuttle",
-    "points": 2352,
+    "points": 2856,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-shimmering-scuttle.png",
     "xws": "shimmeringscuttle",
@@ -25884,7 +31425,7 @@
   },
   {
     "name": "shining diversion",
-    "points": 2353,
+    "points": 2857,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-shining-diversion.png",
     "xws": "shiningdiversion",
@@ -25895,7 +31436,7 @@
   },
   {
     "name": "soft glow",
-    "points": 2354,
+    "points": 2858,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-soft-glow.png",
     "xws": "softglow",
@@ -25906,7 +31447,7 @@
   },
   {
     "name": "solid light",
-    "points": 2355,
+    "points": 2859,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-solid-light.png",
     "xws": "solidlight",
@@ -25917,7 +31458,7 @@
   },
   {
     "name": "sparkling glow",
-    "points": 2356,
+    "points": 2860,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-sparkling-glow.png",
     "xws": "sparklingglow",
@@ -25928,7 +31469,7 @@
   },
   {
     "name": "torrid radiation",
-    "points": 2357,
+    "points": 2861,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-torrid-radiation.png",
     "xws": "torridradiation",
@@ -25939,7 +31480,7 @@
   },
   {
     "name": "trickling sting",
-    "points": 2358,
+    "points": 2862,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-trickling-sting.png",
     "xws": "tricklingsting",
@@ -25950,7 +31491,7 @@
   },
   {
     "name": "violent flash",
-    "points": 2359,
+    "points": 2863,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-violent-flash.png",
     "xws": "violentflash",
@@ -25961,7 +31502,7 @@
   },
   {
     "name": "mf-back",
-    "points": 2360,
+    "points": 2864,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-mf-back.png",
     "xws": "mfback",
@@ -25972,7 +31513,7 @@
   },
   {
     "name": "airborne spores",
-    "points": 2361,
+    "points": 2865,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-airborne-spores.png",
     "xws": "airbornespores",
@@ -25983,7 +31524,7 @@
   },
   {
     "name": "anticoagulant",
-    "points": 2362,
+    "points": 2866,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-anticoagulant.png",
     "xws": "anticoagulant",
@@ -25994,7 +31535,7 @@
   },
   {
     "name": "blood thinner",
-    "points": 2363,
+    "points": 2867,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-blood-thinner.png",
     "xws": "bloodthinner",
@@ -26005,7 +31546,7 @@
   },
   {
     "name": "bogstep",
-    "points": 2364,
+    "points": 2868,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-bogstep.png",
     "xws": "bogstep",
@@ -26016,7 +31557,7 @@
   },
   {
     "name": "complex toxicology",
-    "points": 2365,
+    "points": 2869,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-complex-toxicology.png",
     "xws": "complextoxicology",
@@ -26027,7 +31568,7 @@
   },
   {
     "name": "compound toxin",
-    "points": 2366,
+    "points": 2870,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-compound-toxin.png",
     "xws": "compoundtoxin",
@@ -26038,7 +31579,7 @@
   },
   {
     "name": "copperneck berries",
-    "points": 2367,
+    "points": 2871,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-copperneck-berries.png",
     "xws": "copperneckberries",
@@ -26049,7 +31590,7 @@
   },
   {
     "name": "death sentence",
-    "points": 2368,
+    "points": 2872,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-death-sentence.png",
     "xws": "deathsentence",
@@ -26060,7 +31601,7 @@
   },
   {
     "name": "fireroot sap",
-    "points": 2369,
+    "points": 2873,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-fireroot-sap.png",
     "xws": "firerootsap",
@@ -26071,7 +31612,7 @@
   },
   {
     "name": "ground solvent",
-    "points": 2370,
+    "points": 2874,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-ground-solvent.png",
     "xws": "groundsolvent",
@@ -26082,7 +31623,7 @@
   },
   {
     "name": "hide and seek",
-    "points": 2371,
+    "points": 2875,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-hide-and-seek.png",
     "xws": "hideandseek",
@@ -26093,7 +31634,7 @@
   },
   {
     "name": "lashing vines",
-    "points": 2372,
+    "points": 2876,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-lashing-vines.png",
     "xws": "lashingvines",
@@ -26104,7 +31645,7 @@
   },
   {
     "name": "flailing ivies",
-    "points": 2373,
+    "points": 2877,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-lashing-vines.png",
     "xws": "lashingvines",
@@ -26115,7 +31656,7 @@
   },
   {
     "name": "lingering swamp moss",
-    "points": 2374,
+    "points": 2878,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-lingering-swamp-moss.png",
     "xws": "lingeringswampmoss",
@@ -26126,7 +31667,7 @@
   },
   {
     "name": "mudslide",
-    "points": 2375,
+    "points": 2879,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-mudslide.png",
     "xws": "mudslide",
@@ -26137,7 +31678,7 @@
   },
   {
     "name": "neurotoxin",
-    "points": 2376,
+    "points": 2880,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-neurotoxin.png",
     "xws": "neurotoxin",
@@ -26148,7 +31689,7 @@
   },
   {
     "name": "paralytic agent",
-    "points": 2377,
+    "points": 2881,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-paralytic-agent.png",
     "xws": "paralyticagent",
@@ -26159,7 +31700,7 @@
   },
   {
     "name": "personal poison",
-    "points": 2378,
+    "points": 2882,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-personal-poison.png",
     "xws": "personalpoison",
@@ -26170,7 +31711,7 @@
   },
   {
     "name": "potent mixture",
-    "points": 2379,
+    "points": 2883,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-potent-mixture.png",
     "xws": "potentmixture",
@@ -26181,7 +31722,7 @@
   },
   {
     "name": "radiant forest fungi",
-    "points": 2380,
+    "points": 2884,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-radiant-forest-fungi.png",
     "xws": "radiantforestfungi",
@@ -26192,7 +31733,7 @@
   },
   {
     "name": "serpent's kiss",
-    "points": 2381,
+    "points": 2885,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-serpents-kiss.png",
     "xws": "serpentskiss",
@@ -26203,7 +31744,7 @@
   },
   {
     "name": "sinkhole",
-    "points": 2382,
+    "points": 2886,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-sinkhole.png",
     "xws": "sinkhole",
@@ -26214,7 +31755,7 @@
   },
   {
     "name": "sludge bomb",
-    "points": 2383,
+    "points": 2887,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-sludge-bomb.png",
     "xws": "sludgebomb",
@@ -26225,7 +31766,7 @@
   },
   {
     "name": "still river algae",
-    "points": 2384,
+    "points": 2888,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-still-river-algae.png",
     "xws": "stillriveralgae",
@@ -26236,7 +31777,7 @@
   },
   {
     "name": "tainted waters",
-    "points": 2385,
+    "points": 2889,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-tainted-waters.png",
     "xws": "taintedwaters",
@@ -26247,7 +31788,7 @@
   },
   {
     "name": "throwing daggers",
-    "points": 2386,
+    "points": 2890,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-throwing-daggers.png",
     "xws": "throwingdaggers",
@@ -26258,7 +31799,7 @@
   },
   {
     "name": "twist the blade",
-    "points": 2387,
+    "points": 2891,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-twist-the-blade.png",
     "xws": "twisttheblade",
@@ -26269,7 +31810,7 @@
   },
   {
     "name": "volatile tonic",
-    "points": 2388,
+    "points": 2892,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-volatile-tonic.png",
     "xws": "volatiletonic",
@@ -26280,7 +31821,7 @@
   },
   {
     "name": "whitefire balm",
-    "points": 2389,
+    "points": 2893,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-whitefire-balm.png",
     "xws": "whitefirebalm",
@@ -26291,7 +31832,7 @@
   },
   {
     "name": "wild stings",
-    "points": 2390,
+    "points": 2894,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-wild-stings.png",
     "xws": "wildstings",
@@ -26302,7 +31843,7 @@
   },
   {
     "name": "crypt nettle",
-    "points": 2391,
+    "points": 2895,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-wild-stings.png",
     "xws": "wildstings",
@@ -26313,7 +31854,7 @@
   },
   {
     "name": "qa-back",
-    "points": 2392,
+    "points": 2896,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-qa-back.png",
     "xws": "qaback",
@@ -26324,7 +31865,7 @@
   },
   {
     "name": "annihilating contraption",
-    "points": 2393,
+    "points": 2897,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-annihilating-contraption.png",
     "xws": "annihilatingcontraption",
@@ -26335,7 +31876,7 @@
   },
   {
     "name": "clockwork ravager",
-    "points": 2394,
+    "points": 2898,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-annihilating-contraption.png",
     "xws": "annihilatingcontraption",
@@ -26346,7 +31887,7 @@
   },
   {
     "name": "double-barrel railcaster",
-    "points": 2395,
+    "points": 2899,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-double-barrel-railcaster.png",
     "xws": "doublebarrelrailcaster",
@@ -26357,7 +31898,7 @@
   },
   {
     "name": "elemental condenser",
-    "points": 2396,
+    "points": 2900,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-elemental-condenser.png",
     "xws": "elementalcondenser",
@@ -26368,7 +31909,7 @@
   },
   {
     "name": "energy transmission",
-    "points": 2397,
+    "points": 2901,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-energy-transmission.png",
     "xws": "energytransmission",
@@ -26379,7 +31920,7 @@
   },
   {
     "name": "fragmentation grenade",
-    "points": 2398,
+    "points": 2902,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-fragmentation-grenade.png",
     "xws": "fragmentationgrenade",
@@ -26390,7 +31931,7 @@
   },
   {
     "name": "galvanic coil",
-    "points": 2399,
+    "points": 2903,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-galvanic-coil.png",
     "xws": "galvaniccoil",
@@ -26401,7 +31942,7 @@
   },
   {
     "name": "gravity inverter module",
-    "points": 2400,
+    "points": 2904,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-gravity-inverter-module.png",
     "xws": "gravityinvertermodule",
@@ -26412,7 +31953,7 @@
   },
   {
     "name": "improvised exosuit",
-    "points": 2401,
+    "points": 2905,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-exosuit.png",
     "xws": "improvisedexosuit",
@@ -26423,7 +31964,7 @@
   },
   {
     "name": "hollow carapace",
-    "points": 2402,
+    "points": 2906,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-exosuit.png",
     "xws": "improvisedexosuit",
@@ -26434,7 +31975,7 @@
   },
   {
     "name": "improvised mortar",
-    "points": 2403,
+    "points": 2907,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-mortar.png",
     "xws": "improvisedmortar",
@@ -26445,7 +31986,7 @@
   },
   {
     "name": "clockwork bombard",
-    "points": 2404,
+    "points": 2908,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-mortar.png",
     "xws": "improvisedmortar",
@@ -26456,7 +31997,7 @@
   },
   {
     "name": "instant relocation matrix",
-    "points": 2405,
+    "points": 2909,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-instant-relocation-matrix.png",
     "xws": "instantrelocationmatrix",
@@ -26467,7 +32008,7 @@
   },
   {
     "name": "jury-rigged machine",
-    "points": 2406,
+    "points": 2910,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-jury-rigged-machine.png",
     "xws": "juryriggedmachine",
@@ -26478,7 +32019,7 @@
   },
   {
     "name": "clockwork soldier",
-    "points": 2407,
+    "points": 2911,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-jury-rigged-machine.png",
     "xws": "juryriggedmachine",
@@ -26489,7 +32030,7 @@
   },
   {
     "name": "launch skywards",
-    "points": 2408,
+    "points": 2912,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-launch-skywards.png",
     "xws": "launchskywards",
@@ -26500,7 +32041,7 @@
   },
   {
     "name": "clockwork drone",
-    "points": 2409,
+    "points": 2913,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-launch-skywards.png",
     "xws": "launchskywards",
@@ -26511,7 +32052,7 @@
   },
   {
     "name": "march of machines",
-    "points": 2410,
+    "points": 2914,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-march-of-machines.png",
     "xws": "marchofmachines",
@@ -26522,7 +32063,7 @@
   },
   {
     "name": "oscillating projector",
-    "points": 2411,
+    "points": 2915,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-oscillating-projector.png",
     "xws": "oscillatingprojector",
@@ -26533,7 +32074,7 @@
   },
   {
     "name": "particle ray beam",
-    "points": 2412,
+    "points": 2916,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-particle-ray-beam.png",
     "xws": "particleraybeam",
@@ -26544,7 +32085,7 @@
   },
   {
     "name": "perfected exosuit",
-    "points": 2413,
+    "points": 2917,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-perfected-exosuit.png",
     "xws": "perfectedexosuit",
@@ -26555,7 +32096,7 @@
   },
   {
     "name": "phase field emitter",
-    "points": 2414,
+    "points": 2918,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-phase-field-emitter.png",
     "xws": "phasefieldemitter",
@@ -26566,7 +32107,7 @@
   },
   {
     "name": "power modulation",
-    "points": 2415,
+    "points": 2919,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-power-modulation.png",
     "xws": "powermodulation",
@@ -26577,7 +32118,7 @@
   },
   {
     "name": "ransack clutter",
-    "points": 2416,
+    "points": 2920,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-ransack-clutter.png",
     "xws": "ransackclutter",
@@ -26588,7 +32129,7 @@
   },
   {
     "name": "recycle parts",
-    "points": 2417,
+    "points": 2921,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-recycle-parts.png",
     "xws": "recycleparts",
@@ -26599,7 +32140,7 @@
   },
   {
     "name": "reinforce armor",
-    "points": 2418,
+    "points": 2922,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-reinforce-armor.png",
     "xws": "reinforcearmor",
@@ -26610,7 +32151,7 @@
   },
   {
     "name": "remote control",
-    "points": 2419,
+    "points": 2923,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-remote-control.png",
     "xws": "remotecontrol",
@@ -26621,7 +32162,7 @@
   },
   {
     "name": "repurpose leftovers",
-    "points": 2420,
+    "points": 2924,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-repurpose-leftovers.png",
     "xws": "repurposeleftovers",
@@ -26632,7 +32173,7 @@
   },
   {
     "name": "retrofit weapons",
-    "points": 2421,
+    "points": 2925,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-retrofit-weapons.png",
     "xws": "retrofitweapons",
@@ -26643,7 +32184,7 @@
   },
   {
     "name": "salvage grappler",
-    "points": 2422,
+    "points": 2926,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-salvage-grappler.png",
     "xws": "salvagegrappler",
@@ -26654,7 +32195,7 @@
   },
   {
     "name": "seeker missiles",
-    "points": 2423,
+    "points": 2927,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-seeker-missiles.png",
     "xws": "seekermissiles",
@@ -26665,7 +32206,7 @@
   },
   {
     "name": "clockwork rocket",
-    "points": 2424,
+    "points": 2928,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-seeker-missiles.png",
     "xws": "seekermissiles",
@@ -26676,7 +32217,7 @@
   },
   {
     "name": "trajectory diverter",
-    "points": 2425,
+    "points": 2929,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-trajectory-diverter.png",
     "xws": "trajectorydiverter",
@@ -26687,7 +32228,7 @@
   },
   {
     "name": "trudging bulwark",
-    "points": 2426,
+    "points": 2930,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-trudging-bulwark.png",
     "xws": "trudgingbulwark",
@@ -26698,7 +32239,7 @@
   },
   {
     "name": "clockwork guardian",
-    "points": 2427,
+    "points": 2931,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-trudging-bulwark.png",
     "xws": "trudgingbulwark",
@@ -26709,7 +32250,7 @@
   },
   {
     "name": "rm-back",
-    "points": 2428,
+    "points": 2932,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-rm-back.png",
     "xws": "rmback",
@@ -26720,7 +32261,7 @@
   },
   {
     "name": "belly of the beast",
-    "points": 2429,
+    "points": 2933,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-belly-of-the-beast.png",
     "xws": "bellyofthebeast",
@@ -26731,7 +32272,7 @@
   },
   {
     "name": "berserk barrage",
-    "points": 2430,
+    "points": 2934,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-berserk-barrage.png",
     "xws": "berserkbarrage",
@@ -26742,7 +32283,7 @@
   },
   {
     "name": "burning bile",
-    "points": 2431,
+    "points": 2935,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-burning-bile.png",
     "xws": "burningbile",
@@ -26753,7 +32294,7 @@
   },
   {
     "name": "caustic claws",
-    "points": 2432,
+    "points": 2936,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-caustic-claws.png",
     "xws": "causticclaws",
@@ -26764,7 +32305,7 @@
   },
   {
     "name": "cornered animal",
-    "points": 2433,
+    "points": 2937,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-cornered-animal.png",
     "xws": "corneredanimal",
@@ -26775,7 +32316,7 @@
   },
   {
     "name": "corrosive spew",
-    "points": 2434,
+    "points": 2938,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-corrosive-spew.png",
     "xws": "corrosivespew",
@@ -26786,7 +32327,7 @@
   },
   {
     "name": "devour whole",
-    "points": 2435,
+    "points": 2939,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-devour-whole.png",
     "xws": "devourwhole",
@@ -26797,7 +32338,7 @@
   },
   {
     "name": "easy prey",
-    "points": 2436,
+    "points": 2940,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-easy-prey.png",
     "xws": "easyprey",
@@ -26808,7 +32349,7 @@
   },
   {
     "name": "fatal frenzy",
-    "points": 2437,
+    "points": 2941,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-fatal-frenzy.png",
     "xws": "fatalfrenzy",
@@ -26819,7 +32360,7 @@
   },
   {
     "name": "feast of flesh",
-    "points": 2438,
+    "points": 2942,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-feast-of-flesh.png",
     "xws": "feastofflesh",
@@ -26830,7 +32371,7 @@
   },
   {
     "name": "feral lunge",
-    "points": 2439,
+    "points": 2943,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-feral-lunge.png",
     "xws": "ferallunge",
@@ -26841,7 +32382,7 @@
   },
   {
     "name": "ferocious fling",
-    "points": 2440,
+    "points": 2944,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-ferocious-fling.png",
     "xws": "ferociousfling",
@@ -26852,7 +32393,7 @@
   },
   {
     "name": "fight or flight",
-    "points": 2441,
+    "points": 2945,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-fight-or-flight.png",
     "xws": "fightorflight",
@@ -26863,7 +32404,7 @@
   },
   {
     "name": "heartripper",
-    "points": 2442,
+    "points": 2946,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-heartripper.png",
     "xws": "heartripper",
@@ -26874,7 +32415,7 @@
   },
   {
     "name": "indomitable craving",
-    "points": 2443,
+    "points": 2947,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-indomitable-craving.png",
     "xws": "indomitablecraving",
@@ -26885,7 +32426,7 @@
   },
   {
     "name": "lie in wait",
-    "points": 2444,
+    "points": 2948,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-lie-in-wait.png",
     "xws": "lieinwait",
@@ -26896,7 +32437,7 @@
   },
   {
     "name": "nourishing meal",
-    "points": 2445,
+    "points": 2949,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-nourishing-meal.png",
     "xws": "nourishingmeal",
@@ -26907,7 +32448,7 @@
   },
   {
     "name": "pouncing predator",
-    "points": 2446,
+    "points": 2950,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-pouncing-predator.png",
     "xws": "pouncingpredator",
@@ -26918,7 +32459,7 @@
   },
   {
     "name": "ravenous roar",
-    "points": 2447,
+    "points": 2951,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-ravenous-roar.png",
     "xws": "ravenousroar",
@@ -26929,7 +32470,7 @@
   },
   {
     "name": "reckless attack",
-    "points": 2448,
+    "points": 2952,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-reckless-attack.png",
     "xws": "recklessattack",
@@ -26940,7 +32481,7 @@
   },
   {
     "name": "rend and mutilate",
-    "points": 2449,
+    "points": 2953,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-rend-and-mutilate.png",
     "xws": "rendandmutilate",
@@ -26951,7 +32492,7 @@
   },
   {
     "name": "rip and tear",
-    "points": 2450,
+    "points": 2954,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-rip-and-tear.png",
     "xws": "ripandtear",
@@ -26962,7 +32503,7 @@
   },
   {
     "name": "savage stalker",
-    "points": 2451,
+    "points": 2955,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-savage-stalker.png",
     "xws": "savagestalker",
@@ -26973,7 +32514,7 @@
   },
   {
     "name": "scrape and scrounge",
-    "points": 2452,
+    "points": 2956,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-scrape-and-scrounge.png",
     "xws": "scrapeandscrounge",
@@ -26984,7 +32525,7 @@
   },
   {
     "name": "seize",
-    "points": 2453,
+    "points": 2957,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-seize.png",
     "xws": "seize",
@@ -26995,7 +32536,7 @@
   },
   {
     "name": "slake thirst",
-    "points": 2454,
+    "points": 2958,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-slake-thirst.png",
     "xws": "slakethirst",
@@ -27006,7 +32547,7 @@
   },
   {
     "name": "strip the flesh",
-    "points": 2455,
+    "points": 2959,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-strip-the-flesh.png",
     "xws": "striptheflesh",
@@ -27017,7 +32558,7 @@
   },
   {
     "name": "survival instincts",
-    "points": 2456,
+    "points": 2960,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-survival-instincts.png",
     "xws": "survivalinstincts",
@@ -27028,7 +32569,7 @@
   },
   {
     "name": "terrifying howl",
-    "points": 2457,
+    "points": 2961,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-terrifying-howl.png",
     "xws": "terrifyinghowl",
@@ -27039,7 +32580,7 @@
   },
   {
     "name": "voracious hunter",
-    "points": 2458,
+    "points": 2962,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-voracious-hunter.png",
     "xws": "voracioushunter",
@@ -27050,7 +32591,7 @@
   },
   {
     "name": "sp-back",
-    "points": 2459,
+    "points": 2963,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-sp-back.png",
     "xws": "spback",
@@ -27061,7 +32602,7 @@
   },
   {
     "name": "burning pit",
-    "points": 2460,
+    "points": 2964,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-burning-pit.png",
     "xws": "burningpit",
@@ -27072,7 +32613,7 @@
   },
   {
     "name": "blazing fire",
-    "points": 2461,
+    "points": 2965,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-burning-pit.png",
     "xws": "burningpit",
@@ -27083,7 +32624,7 @@
   },
   {
     "name": "chilling slice",
-    "points": 2462,
+    "points": 2966,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-chilling-slice.png",
     "xws": "chillingslice",
@@ -27094,7 +32635,7 @@
   },
   {
     "name": "circle of lifeless",
-    "points": 2463,
+    "points": 2967,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-circle-of-lifeless.png",
     "xws": "circleoflifeless",
@@ -27105,7 +32646,7 @@
   },
   {
     "name": "confidence ritual",
-    "points": 2464,
+    "points": 2968,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-confidence-ritual.png",
     "xws": "confidenceritual",
@@ -27116,7 +32657,7 @@
   },
   {
     "name": "death is not defeat",
-    "points": 2465,
+    "points": 2969,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-death-is-not-defeat.png",
     "xws": "deathisnotdefeat",
@@ -27127,7 +32668,7 @@
   },
   {
     "name": "decaying daggers",
-    "points": 2466,
+    "points": 2970,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-decaying-daggers.png",
     "xws": "decayingdaggers",
@@ -27138,7 +32679,7 @@
   },
   {
     "name": "dimmed defense",
-    "points": 2467,
+    "points": 2971,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-dimmed-defense.png",
     "xws": "dimmeddefense",
@@ -27149,7 +32690,7 @@
   },
   {
     "name": "wall of shadows",
-    "points": 2468,
+    "points": 2972,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-dimmed-defense.png",
     "xws": "dimmeddefense",
@@ -27160,7 +32701,7 @@
   },
   {
     "name": "eternal endurance",
-    "points": 2469,
+    "points": 2973,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-eternal-endurance.png",
     "xws": "eternalendurance",
@@ -27171,7 +32712,7 @@
   },
   {
     "name": "wandering soul",
-    "points": 2470,
+    "points": 2974,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-eternal-endurance.png",
     "xws": "eternalendurance",
@@ -27182,7 +32723,7 @@
   },
   {
     "name": "disembodied goliath",
-    "points": 2471,
+    "points": 2975,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-eternal-endurance.png",
     "xws": "eternalendurance",
@@ -27193,7 +32734,7 @@
   },
   {
     "name": "ethereal canine",
-    "points": 2472,
+    "points": 2976,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-ethereal-canine.png",
     "xws": "etherealcanine",
@@ -27204,7 +32745,7 @@
   },
   {
     "name": "phantom hound",
-    "points": 2473,
+    "points": 2977,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-ethereal-canine.png",
     "xws": "etherealcanine",
@@ -27215,7 +32756,7 @@
   },
   {
     "name": "fear the reaper",
-    "points": 2474,
+    "points": 2978,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fear-the-reaper.png",
     "xws": "fearthereaper",
@@ -27226,7 +32767,7 @@
   },
   {
     "name": "deatheater",
-    "points": 2475,
+    "points": 2979,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fear-the-reaper.png",
     "xws": "fearthereaper",
@@ -27237,7 +32778,7 @@
   },
   {
     "name": "fierce loyalty",
-    "points": 2476,
+    "points": 2980,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fierce-loyalty.png",
     "xws": "fierceloyalty",
@@ -27248,7 +32789,7 @@
   },
   {
     "name": "mimicking sprite",
-    "points": 2477,
+    "points": 2981,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fierce-loyalty.png",
     "xws": "fierceloyalty",
@@ -27259,7 +32800,7 @@
   },
   {
     "name": "flurry of madness",
-    "points": 2478,
+    "points": 2982,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-flurry-of-madness.png",
     "xws": "flurryofmadness",
@@ -27270,7 +32811,7 @@
   },
   {
     "name": "bat cloud",
-    "points": 2479,
+    "points": 2983,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-flurry-of-madness.png",
     "xws": "flurryofmadness",
@@ -27281,7 +32822,7 @@
   },
   {
     "name": "forceful apparition",
-    "points": 2480,
+    "points": 2984,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-forceful-apparition.png",
     "xws": "forcefulapparition",
@@ -27292,7 +32833,7 @@
   },
   {
     "name": "leeching phantasm",
-    "points": 2481,
+    "points": 2985,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-forceful-apparition.png",
     "xws": "forcefulapparition",
@@ -27303,7 +32844,7 @@
   },
   {
     "name": "horde of bones",
-    "points": 2482,
+    "points": 2986,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horde-of-bones.png",
     "xws": "hordeofbones",
@@ -27314,7 +32855,7 @@
   },
   {
     "name": "skeletal archer",
-    "points": 2483,
+    "points": 2987,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horde-of-bones.png",
     "xws": "hordeofbones",
@@ -27325,7 +32866,7 @@
   },
   {
     "name": "horrific nightmare",
-    "points": 2484,
+    "points": 2988,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horrific-nightmare.png",
     "xws": "horrificnightmare",
@@ -27336,7 +32877,7 @@
   },
   {
     "name": "soul snatcher",
-    "points": 2485,
+    "points": 2989,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horrific-nightmare.png",
     "xws": "horrificnightmare",
@@ -27347,7 +32888,7 @@
   },
   {
     "name": "incorporeal transport",
-    "points": 2486,
+    "points": 2990,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-incorporeal-transport.png",
     "xws": "incorporealtransport",
@@ -27358,7 +32899,7 @@
   },
   {
     "name": "ghost carriage",
-    "points": 2487,
+    "points": 2991,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-incorporeal-transport.png",
     "xws": "incorporealtransport",
@@ -27369,7 +32910,7 @@
   },
   {
     "name": "midnight feast",
-    "points": 2488,
+    "points": 2992,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-midnight-feast.png",
     "xws": "midnightfeast",
@@ -27380,7 +32921,7 @@
   },
   {
     "name": "rise from ashes",
-    "points": 2489,
+    "points": 2993,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
     "xws": "risefromashes",
@@ -27391,7 +32932,7 @@
   },
   {
     "name": "glowing egg",
-    "points": 2490,
+    "points": 2994,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
     "xws": "risefromashes",
@@ -27402,7 +32943,7 @@
   },
   {
     "name": "spectral phoenix",
-    "points": 2491,
+    "points": 2995,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
     "xws": "risefromashes",
@@ -27413,7 +32954,7 @@
   },
   {
     "name": "shamanistic guard",
-    "points": 2492,
+    "points": 2996,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shamanistic-guard.png",
     "xws": "shamanisticguard",
@@ -27424,7 +32965,7 @@
   },
   {
     "name": "vengeful phantasm",
-    "points": 2493,
+    "points": 2997,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shamanistic-guard.png",
     "xws": "shamanisticguard",
@@ -27435,7 +32976,7 @@
   },
   {
     "name": "shrieking spirit",
-    "points": 2494,
+    "points": 2998,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shrieking-spirit.png",
     "xws": "shriekingspirit",
@@ -27446,7 +32987,7 @@
   },
   {
     "name": "wailing banshee",
-    "points": 2495,
+    "points": 2999,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shrieking-spirit.png",
     "xws": "shriekingspirit",
@@ -27457,7 +32998,7 @@
   },
   {
     "name": "smoky shroud",
-    "points": 2496,
+    "points": 3000,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-smoky-shroud.png",
     "xws": "smokyshroud",
@@ -27468,7 +33009,7 @@
   },
   {
     "name": "mantle of darkness",
-    "points": 2497,
+    "points": 3001,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-smoky-shroud.png",
     "xws": "smokyshroud",
@@ -27479,7 +33020,7 @@
   },
   {
     "name": "soul harvest",
-    "points": 2498,
+    "points": 3002,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-soul-harvest.png",
     "xws": "soulharvest",
@@ -27490,7 +33031,7 @@
   },
   {
     "name": "spirit barrage",
-    "points": 2499,
+    "points": 3003,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spirit-barrage.png",
     "xws": "spiritbarrage",
@@ -27501,7 +33042,7 @@
   },
   {
     "name": "spiritual energy",
-    "points": 2500,
+    "points": 3004,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spiritual-energy.png",
     "xws": "spiritualenergy",
@@ -27512,7 +33053,7 @@
   },
   {
     "name": "imbued monolith",
-    "points": 2501,
+    "points": 3005,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spiritual-energy.png",
     "xws": "spiritualenergy",
@@ -27523,7 +33064,7 @@
   },
   {
     "name": "spread disease",
-    "points": 2502,
+    "points": 3006,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spread-disease.png",
     "xws": "spreaddisease",
@@ -27534,7 +33075,7 @@
   },
   {
     "name": "leprous wraith",
-    "points": 2503,
+    "points": 3007,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spread-disease.png",
     "xws": "spreaddisease",
@@ -27545,7 +33086,7 @@
   },
   {
     "name": "toxic charm",
-    "points": 2504,
+    "points": 3008,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-toxic-charm.png",
     "xws": "toxiccharm",
@@ -27556,7 +33097,7 @@
   },
   {
     "name": "unholy sacrifice",
-    "points": 2505,
+    "points": 3009,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-unholy-sacrifice.png",
     "xws": "unholysacrifice",
@@ -27567,7 +33108,7 @@
   },
   {
     "name": "whistling winds",
-    "points": 2506,
+    "points": 3010,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-whistling-winds.png",
     "xws": "whistlingwinds",
@@ -27578,7 +33119,7 @@
   },
   {
     "name": "white glow",
-    "points": 2507,
+    "points": 3011,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-white-glow.png",
     "xws": "whiteglow",
@@ -27589,7 +33130,7 @@
   },
   {
     "name": "orb of light",
-    "points": 2508,
+    "points": 3012,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-white-glow.png",
     "xws": "whiteglow",
@@ -27600,7 +33141,7 @@
   },
   {
     "name": "shifting discs",
-    "points": 2509,
+    "points": 3013,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-white-glow.png",
     "xws": "whiteglow",
@@ -27611,7 +33152,7 @@
   },
   {
     "name": "st-back",
-    "points": 2510,
+    "points": 3014,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-st-back.png",
     "xws": "stback",
@@ -27622,7 +33163,7 @@
   },
   {
     "name": "absolute magnitude",
-    "points": 2511,
+    "points": 3015,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-absolute-magnitude.png",
     "xws": "absolutemagnitude",
@@ -27633,7 +33174,7 @@
   },
   {
     "name": "absorbing light",
-    "points": 2512,
+    "points": 3016,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-absorbing-light.png",
     "xws": "absorbinglight",
@@ -27644,7 +33185,7 @@
   },
   {
     "name": "aligned constellations",
-    "points": 2513,
+    "points": 3017,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-aligned-constellations.png",
     "xws": "alignedconstellations",
@@ -27655,7 +33196,7 @@
   },
   {
     "name": "blue moon",
-    "points": 2514,
+    "points": 3018,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-blue-moon.png",
     "xws": "bluemoon",
@@ -27666,7 +33207,7 @@
   },
   {
     "name": "celestial maneuver",
-    "points": 2515,
+    "points": 3019,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-celestial-maneuver.png",
     "xws": "celestialmaneuver",
@@ -27677,7 +33218,7 @@
   },
   {
     "name": "crashing flare",
-    "points": 2516,
+    "points": 3020,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-crashing-flare.png",
     "xws": "crashingflare",
@@ -27688,7 +33229,7 @@
   },
   {
     "name": "defying gravity",
-    "points": 2517,
+    "points": 3021,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-defying-gravity.png",
     "xws": "defyinggravity",
@@ -27699,7 +33240,7 @@
   },
   {
     "name": "diamond rings",
-    "points": 2518,
+    "points": 3022,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-diamond-rings.png",
     "xws": "diamondrings",
@@ -27710,7 +33251,7 @@
   },
   {
     "name": "earthshine",
-    "points": 2519,
+    "points": 3023,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-earthshine.png",
     "xws": "earthshine",
@@ -27721,7 +33262,7 @@
   },
   {
     "name": "eonic blast",
-    "points": 2520,
+    "points": 3024,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-eonic-blast.png",
     "xws": "eonicblast",
@@ -27732,7 +33273,7 @@
   },
   {
     "name": "equinox",
-    "points": 2521,
+    "points": 3025,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-equinox.png",
     "xws": "equinox",
@@ -27743,7 +33284,7 @@
   },
   {
     "name": "force field",
-    "points": 2522,
+    "points": 3026,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-force-field.png",
     "xws": "forcefield",
@@ -27754,7 +33295,7 @@
   },
   {
     "name": "gravitational flip",
-    "points": 2523,
+    "points": 3027,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-gravitational-flip.png",
     "xws": "gravitationalflip",
@@ -27765,7 +33306,7 @@
   },
   {
     "name": "interplanar voyager",
-    "points": 2524,
+    "points": 3028,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-interplanar-voyager.png",
     "xws": "interplanarvoyager",
@@ -27776,7 +33317,7 @@
   },
   {
     "name": "light pollution",
-    "points": 2525,
+    "points": 3029,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-light-pollution.png",
     "xws": "lightpollution",
@@ -27787,7 +33328,7 @@
   },
   {
     "name": "lost in the stars",
-    "points": 2526,
+    "points": 3030,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-lost-in-the-stars.png",
     "xws": "lostinthestars",
@@ -27798,7 +33339,7 @@
   },
   {
     "name": "lucky stars",
-    "points": 2527,
+    "points": 3031,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-lucky-stars.png",
     "xws": "luckystars",
@@ -27809,7 +33350,7 @@
   },
   {
     "name": "luminous blitz",
-    "points": 2528,
+    "points": 3032,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-luminous-blitz.png",
     "xws": "luminousblitz",
@@ -27820,7 +33361,7 @@
   },
   {
     "name": "pierce the firmament",
-    "points": 2529,
+    "points": 3033,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-pierce-the-firmament.png",
     "xws": "piercethefirmament",
@@ -27831,7 +33372,7 @@
   },
   {
     "name": "plasmatic power",
-    "points": 2530,
+    "points": 3034,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-plasmatic-power.png",
     "xws": "plasmaticpower",
@@ -27842,7 +33383,7 @@
   },
   {
     "name": "proportional exchange",
-    "points": 2531,
+    "points": 3035,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-proportional-exchange.png",
     "xws": "proportionalexchange",
@@ -27853,7 +33394,7 @@
   },
   {
     "name": "shifting chasma",
-    "points": 2532,
+    "points": 3036,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-shifting-chasma.png",
     "xws": "shiftingchasma",
@@ -27864,7 +33405,7 @@
   },
   {
     "name": "shooting stars",
-    "points": 2533,
+    "points": 3037,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-shooting-stars.png",
     "xws": "shootingstars",
@@ -27875,7 +33416,7 @@
   },
   {
     "name": "solar eclipse",
-    "points": 2534,
+    "points": 3038,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-solar-eclipse.png",
     "xws": "solareclipse",
@@ -27886,7 +33427,7 @@
   },
   {
     "name": "starstruck",
-    "points": 2535,
+    "points": 3039,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-starstruck.png",
     "xws": "starstruck",
@@ -27897,7 +33438,7 @@
   },
   {
     "name": "stone meteorite",
-    "points": 2536,
+    "points": 3040,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-stone-meteorite.png",
     "xws": "stonemeteorite",
@@ -27908,7 +33449,7 @@
   },
   {
     "name": "sungaze",
-    "points": 2537,
+    "points": 3041,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-sungaze.png",
     "xws": "sungaze",
@@ -27919,7 +33460,7 @@
   },
   {
     "name": "supernova",
-    "points": 2538,
+    "points": 3042,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-supernova.png",
     "xws": "supernova",
@@ -27930,7 +33471,7 @@
   },
   {
     "name": "wish upon a star",
-    "points": 2539,
+    "points": 3043,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-wish-upon-a-star.png",
     "xws": "wishuponastar",
@@ -27941,7 +33482,7 @@
   },
   {
     "name": "in-back",
-    "points": 2540,
+    "points": 3044,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-in-back.png",
     "xws": "inback",
@@ -27952,7 +33493,7 @@
   },
   {
     "name": "alone in the end",
-    "points": 2541,
+    "points": 3045,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-alone-in-the-end.png",
     "xws": "aloneintheend",
@@ -27963,7 +33504,7 @@
   },
   {
     "name": "ancestral blade",
-    "points": 2542,
+    "points": 3046,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-ancestral-blade.png",
     "xws": "ancestralblade",
@@ -27974,7 +33515,7 @@
   },
   {
     "name": "ancient banner",
-    "points": 2543,
+    "points": 3047,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-ancient-banner.png",
     "xws": "ancientbanner",
@@ -27985,7 +33526,7 @@
   },
   {
     "name": "aukotu's defiant resolve",
-    "points": 2544,
+    "points": 3048,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-aukotus-defiant-resolve.png",
     "xws": "aukotusdefiantresolve",
@@ -27996,7 +33537,7 @@
   },
   {
     "name": "awnu's retribution",
-    "points": 2545,
+    "points": 3049,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-awnus-retribution.png",
     "xws": "awnusretribution",
@@ -28007,7 +33548,7 @@
   },
   {
     "name": "blood of champions",
-    "points": 2546,
+    "points": 3050,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-blood-of-champions.png",
     "xws": "bloodofchampions",
@@ -28018,7 +33559,7 @@
   },
   {
     "name": "farseer's pilum",
-    "points": 2547,
+    "points": 3051,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-farseers-pilum.png",
     "xws": "farseerspilum",
@@ -28029,7 +33570,7 @@
   },
   {
     "name": "firebrand",
-    "points": 2548,
+    "points": 3052,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-firebrand.png",
     "xws": "firebrand",
@@ -28040,7 +33581,7 @@
   },
   {
     "name": "gift of the dying",
-    "points": 2549,
+    "points": 3053,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-gift-of-the-dying.png",
     "xws": "giftofthedying",
@@ -28051,7 +33592,7 @@
   },
   {
     "name": "gol's tonic",
-    "points": 2550,
+    "points": 3054,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-gols-tonic.png",
     "xws": "golstonic",
@@ -28062,7 +33603,7 @@
   },
   {
     "name": "haf's reverence",
-    "points": 2551,
+    "points": 3055,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-hafs-reverence.png",
     "xws": "hafsreverence",
@@ -28073,7 +33614,7 @@
   },
   {
     "name": "hands of three tribes",
-    "points": 2552,
+    "points": 3056,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-hands-of-three-tribes.png",
     "xws": "handsofthreetribes",
@@ -28084,7 +33625,7 @@
   },
   {
     "name": "kou's favor",
-    "points": 2553,
+    "points": 3057,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-kous-favor.png",
     "xws": "kousfavor",
@@ -28095,7 +33636,7 @@
   },
   {
     "name": "maku's deadly aim",
-    "points": 2554,
+    "points": 3058,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-makus-deadly-aim.png",
     "xws": "makusdeadlyaim",
@@ -28106,7 +33647,7 @@
   },
   {
     "name": "matriarch's dominance",
-    "points": 2555,
+    "points": 3059,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-matriarchs-dominance.png",
     "xws": "matriarchsdominance",
@@ -28117,7 +33658,7 @@
   },
   {
     "name": "memory of the hunt",
-    "points": 2556,
+    "points": 3060,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-memory-of-the-hunt.png",
     "xws": "memoryofthehunt",
@@ -28128,7 +33669,7 @@
   },
   {
     "name": "pakh's lunge",
-    "points": 2557,
+    "points": 3061,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-pakhs-lunge.png",
     "xws": "pakhslunge",
@@ -28139,7 +33680,7 @@
   },
   {
     "name": "remnants of the broken",
-    "points": 2558,
+    "points": 3062,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-remnants-of-the-broken.png",
     "xws": "remnantsofthebroken",
@@ -28150,7 +33691,7 @@
   },
   {
     "name": "savvas coreglass knife",
-    "points": 2559,
+    "points": 3063,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-savvas-coreglass-knife.png",
     "xws": "savvascoreglassknife",
@@ -28161,7 +33702,7 @@
   },
   {
     "name": "the arms of oxcepi",
-    "points": 2560,
+    "points": 3064,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-the-arms-of-oxcepi.png",
     "xws": "thearmsofoxcepi",
@@ -28172,7 +33713,7 @@
   },
   {
     "name": "the grave beckons",
-    "points": 2561,
+    "points": 3065,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-the-grave-beckons.png",
     "xws": "thegravebeckons",
@@ -28183,7 +33724,7 @@
   },
   {
     "name": "tomeg's shield-arm",
-    "points": 2562,
+    "points": 3066,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-tomegs-shield-arm.png",
     "xws": "tomegsshieldarm",
@@ -28194,7 +33735,7 @@
   },
   {
     "name": "vadi's last stand",
-    "points": 2563,
+    "points": 3067,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vadis-last-stand.png",
     "xws": "vadislaststand",
@@ -28205,7 +33746,7 @@
   },
   {
     "name": "vaska's cunning",
-    "points": 2564,
+    "points": 3068,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vaskas-cunning.png",
     "xws": "vaskascunning",
@@ -28216,7 +33757,7 @@
   },
   {
     "name": "vengeance of aksut",
-    "points": 2565,
+    "points": 3069,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vengeance-of-aksut.png",
     "xws": "vengeanceofaksut",
@@ -28227,7 +33768,7 @@
   },
   {
     "name": "vital tether",
-    "points": 2566,
+    "points": 3070,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vital-tether.png",
     "xws": "vitaltether",
@@ -28238,7 +33779,7 @@
   },
   {
     "name": "warborn's shout",
-    "points": 2567,
+    "points": 3071,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-warborns-shout.png",
     "xws": "warbornsshout",
@@ -28249,7 +33790,7 @@
   },
   {
     "name": "war drums",
-    "points": 2568,
+    "points": 3072,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-war-drums.png",
     "xws": "wardrums",
@@ -28260,7 +33801,7 @@
   },
   {
     "name": "wielded memory",
-    "points": 2569,
+    "points": 3073,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-wielded-memory.png",
     "xws": "wieldedmemory",
@@ -28271,7 +33812,7 @@
   },
   {
     "name": "will of the huntress",
-    "points": 2570,
+    "points": 3074,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-will-of-the-huntress.png",
     "xws": "willofthehuntress",
@@ -28282,7 +33823,7 @@
   },
   {
     "name": "rh-back",
-    "points": 2571,
+    "points": 3075,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-rh-back.png",
     "xws": "rhback",
@@ -28293,7 +33834,7 @@
   },
   {
     "name": "a balance struck",
-    "points": 2572,
+    "points": 3076,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-a-balance-struck.png",
     "xws": "abalancestruck",
@@ -28304,7 +33845,7 @@
   },
   {
     "name": "biting cold",
-    "points": 2573,
+    "points": 3077,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-biting-cold.png",
     "xws": "bitingcold",
@@ -28315,7 +33856,7 @@
   },
   {
     "name": "blazing streak",
-    "points": 2574,
+    "points": 3078,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-blazing-streak.png",
     "xws": "blazingstreak",
@@ -28326,7 +33867,7 @@
   },
   {
     "name": "bonechill",
-    "points": 2575,
+    "points": 3079,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-bonechill.png",
     "xws": "bonechill",
@@ -28337,7 +33878,7 @@
   },
   {
     "name": "bulwark of ether",
-    "points": 2576,
+    "points": 3080,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-bulwark-of-ether.png",
     "xws": "bulwarkofether",
@@ -28348,7 +33889,7 @@
   },
   {
     "name": "cold snap",
-    "points": 2577,
+    "points": 3081,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-cold-snap.png",
     "xws": "coldsnap",
@@ -28359,7 +33900,7 @@
   },
   {
     "name": "cryoseism",
-    "points": 2578,
+    "points": 3082,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-cryoseism.png",
     "xws": "cryoseism",
@@ -28370,7 +33911,7 @@
   },
   {
     "name": "frostbite",
-    "points": 2579,
+    "points": 3083,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-frostbite.png",
     "xws": "frostbite",
@@ -28381,7 +33922,7 @@
   },
   {
     "name": "frozen grasp",
-    "points": 2580,
+    "points": 3084,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-frozen-grasp.png",
     "xws": "frozengrasp",
@@ -28392,7 +33933,7 @@
   },
   {
     "name": "glacial cocoon",
-    "points": 2581,
+    "points": 3085,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-glacial-cocoon.png",
     "xws": "glacialcocoon",
@@ -28403,7 +33944,7 @@
   },
   {
     "name": "hearthbolt",
-    "points": 2582,
+    "points": 3086,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-hearthbolt.png",
     "xws": "hearthbolt",
@@ -28414,7 +33955,7 @@
   },
   {
     "name": "heat transfer",
-    "points": 2583,
+    "points": 3087,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-heat-transfer.png",
     "xws": "heattransfer",
@@ -28425,7 +33966,7 @@
   },
   {
     "name": "heatwave",
-    "points": 2584,
+    "points": 3088,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-heatwave.png",
     "xws": "heatwave",
@@ -28436,7 +33977,7 @@
   },
   {
     "name": "homeostasis",
-    "points": 2585,
+    "points": 3089,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-homeostasis.png",
     "xws": "homeostasis",
@@ -28447,7 +33988,7 @@
   },
   {
     "name": "kleptotherapy",
-    "points": 2586,
+    "points": 3090,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-kleptotherapy.png",
     "xws": "kleptotherapy",
@@ -28458,7 +33999,7 @@
   },
   {
     "name": "pressure spike",
-    "points": 2587,
+    "points": 3091,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-pressure-spike.png",
     "xws": "pressurespike",
@@ -28469,7 +34010,7 @@
   },
   {
     "name": "pressure wave",
-    "points": 2588,
+    "points": 3092,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-pressure-wave.png",
     "xws": "pressurewave",
@@ -28480,7 +34021,7 @@
   },
   {
     "name": "raging fire",
-    "points": 2589,
+    "points": 3093,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-raging-fire.png",
     "xws": "ragingfire",
@@ -28491,7 +34032,7 @@
   },
   {
     "name": "rapid flux",
-    "points": 2590,
+    "points": 3094,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-rapid-flux.png",
     "xws": "rapidflux",
@@ -28502,7 +34043,7 @@
   },
   {
     "name": "rimeshock",
-    "points": 2591,
+    "points": 3095,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-rimeshock.png",
     "xws": "rimeshock",
@@ -28513,7 +34054,7 @@
   },
   {
     "name": "scorched path",
-    "points": 2592,
+    "points": 3096,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-scorched-path.png",
     "xws": "scorchedpath",
@@ -28524,7 +34065,7 @@
   },
   {
     "name": "snap freeze",
-    "points": 2593,
+    "points": 3097,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-snap-freeze.png",
     "xws": "snapfreeze",
@@ -28535,7 +34076,7 @@
   },
   {
     "name": "spreading flames",
-    "points": 2594,
+    "points": 3098,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-spreading-flames.png",
     "xws": "spreadingflames",
@@ -28546,7 +34087,7 @@
   },
   {
     "name": "steamburst",
-    "points": 2595,
+    "points": 3099,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-steamburst.png",
     "xws": "steamburst",
@@ -28557,7 +34098,7 @@
   },
   {
     "name": "thermal weaving",
-    "points": 2596,
+    "points": 3100,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-thermal-weaving.png",
     "xws": "thermalweaving",
@@ -28568,7 +34109,7 @@
   },
   {
     "name": "thermotherapy",
-    "points": 2597,
+    "points": 3101,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-thermotherapy.png",
     "xws": "thermotherapy",
@@ -28579,7 +34120,7 @@
   },
   {
     "name": "torrid blast",
-    "points": 2598,
+    "points": 3102,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-torrid-blast.png",
     "xws": "torridblast",
@@ -28590,7 +34131,7 @@
   },
   {
     "name": "unyielding charge",
-    "points": 2599,
+    "points": 3103,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-unyielding-charge.png",
     "xws": "unyieldingcharge",
@@ -28601,7 +34142,7 @@
   },
   {
     "name": "wreathed in flame",
-    "points": 2600,
+    "points": 3104,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-wreathed-in-flame.png",
     "xws": "wreathedinflame",
@@ -28612,7 +34153,7 @@
   },
   {
     "name": "sr-back",
-    "points": 2601,
+    "points": 3105,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-sr-back.png",
     "xws": "srback",
@@ -28623,7 +34164,7 @@
   },
   {
     "name": "amassed formation",
-    "points": 2602,
+    "points": 3106,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-amassed-formation.png",
     "xws": "amassedformation",
@@ -28634,7 +34175,7 @@
   },
   {
     "name": "cinnabar seeding",
-    "points": 2603,
+    "points": 3107,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-cinnabar-seeding.png",
     "xws": "cinnabarseeding",
@@ -28645,7 +34186,7 @@
   },
   {
     "name": "corundum shell",
-    "points": 2604,
+    "points": 3108,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-corundum-shell.png",
     "xws": "corundumshell",
@@ -28656,7 +34197,7 @@
   },
   {
     "name": "crystal growth",
-    "points": 2605,
+    "points": 3109,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-crystal-growth.png",
     "xws": "crystalgrowth",
@@ -28667,7 +34208,7 @@
   },
   {
     "name": "diamond skin",
-    "points": 2606,
+    "points": 3110,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-diamond-skin.png",
     "xws": "diamondskin",
@@ -28678,7 +34219,7 @@
   },
   {
     "name": "geode barrage",
-    "points": 2607,
+    "points": 3111,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-geode-barrage.png",
     "xws": "geodebarrage",
@@ -28689,7 +34230,7 @@
   },
   {
     "name": "glistening facets",
-    "points": 2608,
+    "points": 3112,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-glistening-facets.png",
     "xws": "glisteningfacets",
@@ -28700,7 +34241,7 @@
   },
   {
     "name": "impaling spike",
-    "points": 2609,
+    "points": 3113,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-impaling-spike.png",
     "xws": "impalingspike",
@@ -28711,7 +34252,7 @@
   },
   {
     "name": "jubilant recovery",
-    "points": 2610,
+    "points": 3114,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-jubilant-recovery.png",
     "xws": "jubilantrecovery",
@@ -28722,7 +34263,7 @@
   },
   {
     "name": "lightbury quartz",
-    "points": 2611,
+    "points": 3115,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-lightbury-quartz.png",
     "xws": "lightbury quart",
@@ -28733,7 +34274,7 @@
   },
   {
     "name": "luminous glow",
-    "points": 2612,
+    "points": 3116,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-luminous-glow.png",
     "xws": "luminousglow",
@@ -28744,7 +34285,7 @@
   },
   {
     "name": "penetrating fragments",
-    "points": 2613,
+    "points": 3117,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-penetrating-fragments.png",
     "xws": "penetratingfragments",
@@ -28755,7 +34296,7 @@
   },
   {
     "name": "perforating bore",
-    "points": 2614,
+    "points": 3118,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-perforating-bore.png",
     "xws": "perforatingbore",
@@ -28766,7 +34307,7 @@
   },
   {
     "name": "prismatic ward",
-    "points": 2615,
+    "points": 3119,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-prismatic-ward.png",
     "xws": "prismaticward",
@@ -28777,7 +34318,7 @@
   },
   {
     "name": "radiating crust",
-    "points": 2616,
+    "points": 3120,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-radiating-crust.png",
     "xws": "radiatingcrust",
@@ -28788,7 +34329,7 @@
   },
   {
     "name": "rapid calcification",
-    "points": 2617,
+    "points": 3121,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-rapid-calcification.png",
     "xws": "rapidcalcification",
@@ -28799,7 +34340,7 @@
   },
   {
     "name": "reciprocal resonance",
-    "points": 2618,
+    "points": 3122,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-reciprocal-resonance.png",
     "xws": "reciprocalresonance",
@@ -28810,7 +34351,7 @@
   },
   {
     "name": "reflecting surface",
-    "points": 2619,
+    "points": 3123,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-reflecting-surface.png",
     "xws": "reflectingsurface",
@@ -28821,7 +34362,7 @@
   },
   {
     "name": "remineralize",
-    "points": 2620,
+    "points": 3124,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-remineralize.png",
     "xws": "remineralize",
@@ -28832,7 +34373,7 @@
   },
   {
     "name": "ruinous shard",
-    "points": 2621,
+    "points": 3125,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-ruinous-shard.png",
     "xws": "ruinousshard",
@@ -28843,7 +34384,7 @@
   },
   {
     "name": "searing stone",
-    "points": 2622,
+    "points": 3126,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-searing-stone.png",
     "xws": "searingstone",
@@ -28854,7 +34395,7 @@
   },
   {
     "name": "seismic shockwave",
-    "points": 2623,
+    "points": 3127,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-seismic-shockwave.png",
     "xws": "seismicshockwave",
@@ -28865,7 +34406,7 @@
   },
   {
     "name": "serrated razor",
-    "points": 2624,
+    "points": 3128,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-serrated-razor.png",
     "xws": "serratedrazor",
@@ -28876,7 +34417,7 @@
   },
   {
     "name": "spiked carapace",
-    "points": 2625,
+    "points": 3129,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-spiked-carapace.png",
     "xws": "spikedcarapace",
@@ -28887,7 +34428,7 @@
   },
   {
     "name": "splinter burst",
-    "points": 2626,
+    "points": 3130,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-splinter-burst.png",
     "xws": "splinterburst",
@@ -28898,7 +34439,7 @@
   },
   {
     "name": "triboluminescence",
-    "points": 2627,
+    "points": 3131,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-triboluminescence.png",
     "xws": "triboluminescence",
@@ -28909,7 +34450,7 @@
   },
   {
     "name": "turbulent absorption",
-    "points": 2628,
+    "points": 3132,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-turbulent-absorption.png",
     "xws": "turbulentabsorption",
@@ -28920,7 +34461,7 @@
   },
   {
     "name": "unyielding stalagmite",
-    "points": 2629,
+    "points": 3133,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-unyielding-stalagmite.png",
     "xws": "unyieldingstalagmite",
@@ -28931,7 +34472,7 @@
   },
   {
     "name": "violent shatter",
-    "points": 2630,
+    "points": 3134,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-violent-shatter.png",
     "xws": "violentshatter",
@@ -28942,7 +34483,7 @@
   },
   {
     "name": "vital outburst",
-    "points": 2631,
+    "points": 3135,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-vital-outburst.png",
     "xws": "vitaloutburst",
@@ -28953,7 +34494,7 @@
   },
   {
     "name": "tp-back",
-    "points": 2632,
+    "points": 3136,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-tp-back.png",
     "xws": "tpback",
@@ -28964,7 +34505,7 @@
   },
   {
     "name": "aerial dominance",
-    "points": 2633,
+    "points": 3137,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-aerial-dominance.png",
     "xws": "aerialdominance",
@@ -28975,7 +34516,7 @@
   },
   {
     "name": "air current",
-    "points": 2634,
+    "points": 3138,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-air-current.png",
     "xws": "aircurrent",
@@ -28986,7 +34527,7 @@
   },
   {
     "name": "arcblast",
-    "points": 2635,
+    "points": 3139,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-arcblast.png",
     "xws": "arcblast",
@@ -28997,7 +34538,7 @@
   },
   {
     "name": "arc reaction",
-    "points": 2636,
+    "points": 3140,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-arc-reaction.png",
     "xws": "arcreaction",
@@ -29008,7 +34549,7 @@
   },
   {
     "name": "breakneck blitz",
-    "points": 2637,
+    "points": 3141,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-breakneck-blitz.png",
     "xws": "breakneckblitz",
@@ -29019,7 +34560,7 @@
   },
   {
     "name": "channeled energy",
-    "points": 2638,
+    "points": 3142,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-channeled-energy.png",
     "xws": "channeledenergy",
@@ -29030,7 +34571,7 @@
   },
   {
     "name": "electric current",
-    "points": 2639,
+    "points": 3143,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-electric-current.png",
     "xws": "electriccurrent",
@@ -29041,7 +34582,7 @@
   },
   {
     "name": "electromagnetic pulse",
-    "points": 2640,
+    "points": 3144,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-electromagnetic-pulse.png",
     "xws": "electromagneticpulse",
@@ -29052,7 +34593,7 @@
   },
   {
     "name": "electrostatic bypass",
-    "points": 2641,
+    "points": 3145,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-electrostatic-bypass.png",
     "xws": "electrostaticbypass",
@@ -29063,7 +34604,7 @@
   },
   {
     "name": "energy siphon",
-    "points": 2642,
+    "points": 3146,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-energy-siphon.png",
     "xws": "energysiphon",
@@ -29074,7 +34615,7 @@
   },
   {
     "name": "flash of lightning",
-    "points": 2643,
+    "points": 3147,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-flash-of-lightning.png",
     "xws": "flashoflightning",
@@ -29085,7 +34626,7 @@
   },
   {
     "name": "hard target",
-    "points": 2644,
+    "points": 3148,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-hard-target.png",
     "xws": "hardtarget",
@@ -29096,7 +34637,7 @@
   },
   {
     "name": "hurricane",
-    "points": 2645,
+    "points": 3149,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-hurricane.png",
     "xws": "hurricane",
@@ -29107,7 +34648,7 @@
   },
   {
     "name": "jetstream gust",
-    "points": 2646,
+    "points": 3150,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-jetstream-gust.png",
     "xws": "jetstreamgust",
@@ -29118,7 +34659,7 @@
   },
   {
     "name": "lightbender",
-    "points": 2647,
+    "points": 3151,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-lightbender.png",
     "xws": "lightbender",
@@ -29129,7 +34670,7 @@
   },
   {
     "name": "nimble resilience",
-    "points": 2648,
+    "points": 3152,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-nimble-resilience.png",
     "xws": "nimbleresilience",
@@ -29140,7 +34681,7 @@
   },
   {
     "name": "protective gale",
-    "points": 2649,
+    "points": 3153,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-protective-gale.png",
     "xws": "protectivegale",
@@ -29151,7 +34692,7 @@
   },
   {
     "name": "radiant explosion",
-    "points": 2650,
+    "points": 3154,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-radiant-explosion.png",
     "xws": "radiantexplosion",
@@ -29162,7 +34703,7 @@
   },
   {
     "name": "rejuvenating charge",
-    "points": 2651,
+    "points": 3155,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-rejuvenating-charge.png",
     "xws": "rejuvenatingcharge",
@@ -29173,7 +34714,7 @@
   },
   {
     "name": "rushing wind",
-    "points": 2652,
+    "points": 3156,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-rushing-wind.png",
     "xws": "rushingwind",
@@ -29184,7 +34725,7 @@
   },
   {
     "name": "scorching arcbolt",
-    "points": 2653,
+    "points": 3157,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-scorching-arcbolt.png",
     "xws": "scorchingarcbolt",
@@ -29195,7 +34736,7 @@
   },
   {
     "name": "shock therapy",
-    "points": 2654,
+    "points": 3158,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-shock-therapy.png",
     "xws": "shocktherapy",
@@ -29206,7 +34747,7 @@
   },
   {
     "name": "spark conduit",
-    "points": 2655,
+    "points": 3159,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-spark-conduit.png",
     "xws": "sparkconduit",
@@ -29217,7 +34758,7 @@
   },
   {
     "name": "static shock",
-    "points": 2656,
+    "points": 3160,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-static-shock.png",
     "xws": "staticshock",
@@ -29228,7 +34769,7 @@
   },
   {
     "name": "storm lightning",
-    "points": 2657,
+    "points": 3161,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-storm-lightning.png",
     "xws": "stormlightning",
@@ -29239,7 +34780,7 @@
   },
   {
     "name": "stormy retribution",
-    "points": 2658,
+    "points": 3162,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-stormy-retribution.png",
     "xws": "stormyretribution",
@@ -29250,7 +34791,7 @@
   },
   {
     "name": "surging storm",
-    "points": 2659,
+    "points": 3163,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-surging-storm.png",
     "xws": "surgingstorm",
@@ -29261,7 +34802,7 @@
   },
   {
     "name": "swift strike",
-    "points": 2660,
+    "points": 3164,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-swift-strike.png",
     "xws": "swiftstrike",
@@ -29272,7 +34813,7 @@
   },
   {
     "name": "voltaic burst",
-    "points": 2661,
+    "points": 3165,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-voltaic-burst.png",
     "xws": "voltaicburst",
@@ -29283,7 +34824,7 @@
   },
   {
     "name": "tr-back",
-    "points": 2662,
+    "points": 3166,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-tr-back.png",
     "xws": "trback",
@@ -29294,7 +34835,7 @@
   },
   {
     "name": "barbed onslaught",
-    "points": 2663,
+    "points": 3167,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-barbed-onslaught.png",
     "xws": "barbedonslaught",
@@ -29305,7 +34846,7 @@
   },
   {
     "name": "bed of roses",
-    "points": 2664,
+    "points": 3168,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-bed-of-roses.png",
     "xws": "bedofroses",
@@ -29316,7 +34857,7 @@
   },
   {
     "name": "black rose",
-    "points": 2665,
+    "points": 3169,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-black-rose.png",
     "xws": "blackrose",
@@ -29327,7 +34868,7 @@
   },
   {
     "name": "branched slam",
-    "points": 2666,
+    "points": 3170,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-branched-slam.png",
     "xws": "branchedslam",
@@ -29338,7 +34879,7 @@
   },
   {
     "name": "bright skies",
-    "points": 2667,
+    "points": 3171,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-bright-skies.png",
     "xws": "brightskies",
@@ -29349,7 +34890,7 @@
   },
   {
     "name": "cover of green",
-    "points": 2668,
+    "points": 3172,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-cover-of-green.png",
     "xws": "coverofgreen",
@@ -29360,7 +34901,7 @@
   },
   {
     "name": "dawn's gift",
-    "points": 2669,
+    "points": 3173,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-dawns-gift.png",
     "xws": "dawnsgift",
@@ -29371,7 +34912,7 @@
   },
   {
     "name": "devoured by thorns",
-    "points": 2670,
+    "points": 3174,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-devoured-by-thorns.png",
     "xws": "devouredbythorns",
@@ -29382,7 +34923,7 @@
   },
   {
     "name": "encased in thorns",
-    "points": 2671,
+    "points": 3175,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-encased-in-thorns.png",
     "xws": "encasedinthorns",
@@ -29393,7 +34934,7 @@
   },
   {
     "name": "extended branch",
-    "points": 2672,
+    "points": 3176,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-extended-branch.png",
     "xws": "extendedbranch",
@@ -29404,7 +34945,7 @@
   },
   {
     "name": "fissive eruption",
-    "points": 2673,
+    "points": 3177,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-fissive-eruption.png",
     "xws": "fissiveeruption",
@@ -29415,7 +34956,7 @@
   },
   {
     "name": "floral burst",
-    "points": 2674,
+    "points": 3178,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-floral-burst.png",
     "xws": "floralburst",
@@ -29426,7 +34967,7 @@
   },
   {
     "name": "impaling command",
-    "points": 2675,
+    "points": 3179,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-impaling-command.png",
     "xws": "impalingcommand",
@@ -29437,7 +34978,7 @@
   },
   {
     "name": "jagged clutch",
-    "points": 2676,
+    "points": 3180,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-jagged-clutch.png",
     "xws": "jaggedclutch",
@@ -29448,7 +34989,7 @@
   },
   {
     "name": "lashing thorns",
-    "points": 2677,
+    "points": 3181,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-lashing-thorns.png",
     "xws": "lashingthorns",
@@ -29459,7 +35000,7 @@
   },
   {
     "name": "midsummer",
-    "points": 2678,
+    "points": 3182,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-midsummer.png",
     "xws": "midsummer",
@@ -29470,7 +35011,7 @@
   },
   {
     "name": "nature's fury",
-    "points": 2679,
+    "points": 3183,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-natures-fury.png",
     "xws": "naturesfury",
@@ -29481,7 +35022,7 @@
   },
   {
     "name": "outward spurs",
-    "points": 2680,
+    "points": 3184,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-outward-spurs.png",
     "xws": "outwardspurs",
@@ -29492,7 +35033,7 @@
   },
   {
     "name": "photosynthesis",
-    "points": 2681,
+    "points": 3185,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-photosynthesis.png",
     "xws": "photosynthesis",
@@ -29503,7 +35044,7 @@
   },
   {
     "name": "prickly situation",
-    "points": 2682,
+    "points": 3186,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-prickly-situation.png",
     "xws": "pricklysituation",
@@ -29514,7 +35055,7 @@
   },
   {
     "name": "rabid undergrowth",
-    "points": 2683,
+    "points": 3187,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-rabid-undergrowth.png",
     "xws": "rabidundergrowth",
@@ -29525,7 +35066,7 @@
   },
   {
     "name": "ravaged earth",
-    "points": 2684,
+    "points": 3188,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-ravaged-earth.png",
     "xws": "ravagedearth",
@@ -29536,7 +35077,7 @@
   },
   {
     "name": "shrewd overgrowth",
-    "points": 2685,
+    "points": 3189,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-shrewd-overgrowth.png",
     "xws": "shrewdovergrowth",
@@ -29547,7 +35088,7 @@
   },
   {
     "name": "solar flare",
-    "points": 2686,
+    "points": 3190,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-solar-flare.png",
     "xws": "solarflare",
@@ -29558,7 +35099,7 @@
   },
   {
     "name": "spiked embrace",
-    "points": 2687,
+    "points": 3191,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-spiked-embrace.png",
     "xws": "spikedembrace",
@@ -29569,7 +35110,7 @@
   },
   {
     "name": "superradiance",
-    "points": 2688,
+    "points": 3192,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-superradiance.png",
     "xws": "superradiance",
@@ -29580,7 +35121,7 @@
   },
   {
     "name": "thornstride",
-    "points": 2689,
+    "points": 3193,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-thornstride.png",
     "xws": "thornstride",
@@ -29591,7 +35132,7 @@
   },
   {
     "name": "twisted thistle",
-    "points": 2690,
+    "points": 3194,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-twisted-thistle.png",
     "xws": "twistedthistle",
@@ -29602,7 +35143,7 @@
   },
   {
     "name": "violent sprout",
-    "points": 2691,
+    "points": 3195,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-violent-sprout.png",
     "xws": "violentsprout",
@@ -29613,7 +35154,7 @@
   },
   {
     "name": "welcome to the jungle",
-    "points": 2692,
+    "points": 3196,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-welcome-to-the-jungle.png",
     "xws": "welcometothejungle",
@@ -29624,7 +35165,7 @@
   },
   {
     "name": "vq-back",
-    "points": 2693,
+    "points": 3197,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-vq-back.png",
     "xws": "vqback",
@@ -29635,7 +35176,7 @@
   },
   {
     "name": "beckoning of the beast",
-    "points": 2694,
+    "points": 3198,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-beckoning-of-the-beast.png",
     "xws": "beckoningofthebeast",
@@ -29646,7 +35187,7 @@
   },
   {
     "name": "blackout",
-    "points": 2695,
+    "points": 3199,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-blackout.png",
     "xws": "blackout",
@@ -29657,7 +35198,7 @@
   },
   {
     "name": "blasphemous charge",
-    "points": 2696,
+    "points": 3200,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-blasphemous-charge.png",
     "xws": "blasphemouscharge",
@@ -29668,7 +35209,7 @@
   },
   {
     "name": "blazing torment",
-    "points": 2697,
+    "points": 3201,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-blazing-torment.png",
     "xws": "blazingtorment",
@@ -29679,7 +35220,7 @@
   },
   {
     "name": "bringer of grief",
-    "points": 2698,
+    "points": 3202,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-bringer-of-grief.png",
     "xws": "bringerofgrief",
@@ -29690,7 +35231,7 @@
   },
   {
     "name": "brutal awakening",
-    "points": 2699,
+    "points": 3203,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-brutal-awakening.png",
     "xws": "brutalawakening",
@@ -29701,7 +35242,7 @@
   },
   {
     "name": "condemnation",
-    "points": 2700,
+    "points": 3204,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-condemnation.png",
     "xws": "condemnation",
@@ -29712,7 +35253,7 @@
   },
   {
     "name": "crazed leap",
-    "points": 2701,
+    "points": 3205,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-crazed-leap.png",
     "xws": "crazedleap",
@@ -29723,7 +35264,7 @@
   },
   {
     "name": "demon's aid",
-    "points": 2702,
+    "points": 3206,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-demons-aid.png",
     "xws": "demonsaid",
@@ -29734,7 +35275,7 @@
   },
   {
     "name": "embrace the chaos",
-    "points": 2703,
+    "points": 3207,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-embrace-the-chaos.png",
     "xws": "embracethechaos",
@@ -29745,7 +35286,7 @@
   },
   {
     "name": "extended horns",
-    "points": 2704,
+    "points": 3208,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-extended-horns.png",
     "xws": "extendedhorns",
@@ -29756,7 +35297,7 @@
   },
   {
     "name": "fatal retribution",
-    "points": 2705,
+    "points": 3209,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-fatal-retribution.png",
     "xws": "fatalretribution",
@@ -29767,7 +35308,7 @@
   },
   {
     "name": "fiendish power",
-    "points": 2706,
+    "points": 3210,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-fiendish-power.png",
     "xws": "fiendishpower",
@@ -29778,7 +35319,7 @@
   },
   {
     "name": "first to strike",
-    "points": 2707,
+    "points": 3211,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-first-to-strike.png",
     "xws": "firsttostrike",
@@ -29789,7 +35330,7 @@
   },
   {
     "name": "forged from fire",
-    "points": 2708,
+    "points": 3212,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-forged-from-fire.png",
     "xws": "forgedfromfire",
@@ -29800,7 +35341,7 @@
   },
   {
     "name": "gravedigger",
-    "points": 2709,
+    "points": 3213,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-gravedigger.png",
     "xws": "gravedigger",
@@ -29811,7 +35352,7 @@
   },
   {
     "name": "infused charge",
-    "points": 2710,
+    "points": 3214,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-infused-charge.png",
     "xws": "infusedcharge",
@@ -29822,7 +35363,7 @@
   },
   {
     "name": "life in death",
-    "points": 2711,
+    "points": 3215,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-life-in-death.png",
     "xws": "lifeindeath",
@@ -29833,7 +35374,7 @@
   },
   {
     "name": "living nightmare",
-    "points": 2712,
+    "points": 3216,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-living-nightmare.png",
     "xws": "livingnightmare",
@@ -29844,7 +35385,7 @@
   },
   {
     "name": "malicious defamation",
-    "points": 2713,
+    "points": 3217,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-malicious-defamation.png",
     "xws": "maliciousdefamation",
@@ -29855,7 +35396,7 @@
   },
   {
     "name": "out of the shadows",
-    "points": 2714,
+    "points": 3218,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-out-of-the-shadows.png",
     "xws": "outoftheshadows",
@@ -29866,7 +35407,7 @@
   },
   {
     "name": "raging pandemonium",
-    "points": 2715,
+    "points": 3219,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-raging-pandemonium.png",
     "xws": "ragingpandemonium",
@@ -29877,7 +35418,7 @@
   },
   {
     "name": "sadistic swipe",
-    "points": 2716,
+    "points": 3220,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-sadistic-swipe.png",
     "xws": "sadisticswipe",
@@ -29888,7 +35429,7 @@
   },
   {
     "name": "searing coals",
-    "points": 2717,
+    "points": 3221,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-searing-coals.png",
     "xws": "searingcoals",
@@ -29899,7 +35440,7 @@
   },
   {
     "name": "shared suffering",
-    "points": 2718,
+    "points": 3222,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-shared-suffering.png",
     "xws": "sharedsuffering",
@@ -29910,7 +35451,7 @@
   },
   {
     "name": "silent finisher",
-    "points": 2719,
+    "points": 3223,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-silent-finisher.png",
     "xws": "silentfinisher",
@@ -29921,7 +35462,7 @@
   },
   {
     "name": "sinister enslavement",
-    "points": 2720,
+    "points": 3224,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-sinister-enslavement.png",
     "xws": "sinisterenslavement",
@@ -29932,7 +35473,7 @@
   },
   {
     "name": "siphoning life",
-    "points": 2721,
+    "points": 3225,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-siphoning-life.png",
     "xws": "siphoninglife",
@@ -29943,7 +35484,7 @@
   },
   {
     "name": "slaughter the weak",
-    "points": 2722,
+    "points": 3226,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-slaughter-the-weak.png",
     "xws": "slaughtertheweak",
@@ -29954,7 +35495,7 @@
   },
   {
     "name": "torn apart",
-    "points": 2723,
+    "points": 3227,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-torn-apart.png",
     "xws": "tornapart",
@@ -29965,7 +35506,7 @@
   },
   {
     "name": "tumultuous uproar",
-    "points": 2724,
+    "points": 3228,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-tumultuous-uproar.png",
     "xws": "tumultuousuproar",
@@ -29976,7 +35517,7 @@
   },
   {
     "name": "unending misery",
-    "points": 2725,
+    "points": 3229,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-unending-misery.png",
     "xws": "unendingmisery",
@@ -29987,7 +35528,7 @@
   },
   {
     "name": "unnatural control",
-    "points": 2726,
+    "points": 3230,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-unnatural-control.png",
     "xws": "unnaturalcontrol",
@@ -29998,7 +35539,7 @@
   },
   {
     "name": "unstoppable surge",
-    "points": 2727,
+    "points": 3231,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-unstoppable-surge.png",
     "xws": "unstoppablesurge",
@@ -30009,7 +35550,7 @@
   },
   {
     "name": "utter catastrophe",
-    "points": 2728,
+    "points": 3232,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-utter-catastrophe.png",
     "xws": "uttercatastrophe",
@@ -30020,7 +35561,7 @@
   },
   {
     "name": "vengeance incarnate",
-    "points": 2729,
+    "points": 3233,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-vengeance-incarnate.png",
     "xws": "vengeanceincarnate",
@@ -30031,7 +35572,7 @@
   },
   {
     "name": "wall of flames",
-    "points": 2730,
+    "points": 3234,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-wall-of-flames.png",
     "xws": "wallofflames",
@@ -30042,7 +35583,7 @@
   },
   {
     "name": "wings of hell",
-    "points": 2731,
+    "points": 3235,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-wings-of-hell.png",
     "xws": "wingsofhell",
