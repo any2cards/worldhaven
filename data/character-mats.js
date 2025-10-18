@@ -484,392 +484,448 @@
     "points": 60,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-banner-spear.png",
-    "xws": "bannerspear"
+    "xws": "bannerspear",
+    "assetno": "###"
   },
   {
     "name": "banner spear",
     "points": 61,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-banner-spear-back.png",
-    "xws": "bannerspear"
+    "xws": "bannerspear",
+    "assetno": "###"
   },
   {
     "name": "blinkblade",
     "points": 62,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-blinkblade.png",
-    "xws": "blinkblade"
+    "xws": "blinkblade",
+    "assetno": "###"
   },
   {
     "name": "blinkblade",
     "points": 63,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-blinkblade-back.png",
-    "xws": "blinkblade"
+    "xws": "blinkblade",
+    "assetno": "###"
   },
   {
     "name": "boneshaper",
     "points": 64,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-boneshaper.png",
-    "xws": "boneshaper"
+    "xws": "boneshaper",
+    "assetno": "###"
   },
   {
     "name": "boneshaper",
     "points": 65,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-boneshaper-back.png",
-    "xws": "boneshaper"
+    "xws": "boneshaper",
+    "assetno": "###"
   },
   {
     "name": "crashing tide",
     "points": 66,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide.png",
-    "xws": "crashingtide"
+    "xws": "crashingtide",
+    "assetno": "###"
   },
   {
     "name": "crashing tide",
     "points": 67,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide-back.png",
-    "xws": "crashingtide"
+    "xws": "crashingtide",
+    "assetno": "###"
   },
   {
     "name": "coral",
     "points": 68,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide.png",
-    "xws": "crashingtide"
+    "xws": "coral",
+    "assetno": "###"
   },
   {
     "name": "coral",
     "points": 69,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide-back.png",
-    "xws": "crashingtide"
+    "xws": "coral",
+    "assetno": "###"
   },
   {
     "name": "deathwalker",
     "points": 70,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deathwalker.png",
-    "xws": "deathwalker"
+    "xws": "deathwalker",
+    "assetno": "###"
   },
   {
     "name": "deathwalker",
     "points": 71,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deathwalker-back.png",
-    "xws": "deathwalker"
+    "xws": "deathwalker",
+    "assetno": "###"
   },
   {
     "name": "deepwraith",
     "points": 72,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith.png",
-    "xws": "deepwraith"
+    "xws": "deepwraith",
+    "assetno": "###"
   },
   {
     "name": "deepwraith",
     "points": 73,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith-back.png",
-    "xws": "deepwraith"
+    "xws": "deepwraith",
+    "assetno": "###"
   },
   {
     "name": "kelp",
     "points": 74,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith.png",
-    "xws": "deepwraith"
+    "xws": "kelp",
+    "assetno": "###"
   },
   {
     "name": "kelp",
     "points": 75,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-deepwraith-back.png",
-    "xws": "deepwraith"
+    "xws": "kelp",
+    "assetno": "###"
   },
   {
     "name": "drifter",
     "points": 76,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-drifter.png",
-    "xws": "drifter"
+    "xws": "drifter",
+    "assetno": "###"
   },
   {
     "name": "drifter",
     "points": 77,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-drifter-back.png",
-    "xws": "drifter"
+    "xws": "drifter",
+    "assetno": "###"
   },
   {
     "name": "frozen fist",
     "points": 78,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist.png",
-    "xws": "frozenfist"
+    "xws": "frozenfist",
+    "assetno": "###"
   },
   {
     "name": "frozen fist",
     "points": 79,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist-back.png",
-    "xws": "frozenfist"
+    "xws": "frozenfist",
+    "assetno": "###"
   },
   {
     "name": "fist",
     "points": 80,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist.png",
-    "xws": "frozenfist"
+    "xws": "fist",
+    "assetno": "###"
   },
   {
     "name": "fist",
     "points": 81,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-frozen-fist-back.png",
-    "xws": "frozenfist"
+    "xws": "fist",
+    "assetno": "###"
   },
   {
     "name": "geminate",
     "points": 82,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-geminate.png",
-    "xws": "geminate"
+    "xws": "geminate",
+    "assetno": "###"
   },
   {
     "name": "geminate",
     "points": 83,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-geminate-back.png",
-    "xws": "geminate"
+    "xws": "geminate",
+    "assetno": "###"
   },
   {
     "name": "hive",
     "points": 84,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive.png",
-    "xws": "hive"
+    "xws": "hive",
+    "assetno": "###"
   },
   {
     "name": "hive",
     "points": 85,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive-back.png",
-    "xws": "hive"
+    "xws": "hive",
+    "assetno": "###"
   },
   {
     "name": "prism",
     "points": 86,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive.png",
-    "xws": "hive"
+    "xws": "prism",
+    "assetno": "###"
   },
   {
     "name": "prism",
     "points": 87,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-hive-back.png",
-    "xws": "hive"
+    "xws": "prism",
+    "assetno": "###"
   },
   {
     "name": "infuser",
     "points": 88,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser.png",
-    "xws": "infuser"
+    "xws": "infuser",
+    "assetno": "###"
   },
   {
     "name": "infuser",
     "points": 89,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser-back.png",
-    "xws": "infuser"
+    "xws": "infuser",
+    "assetno": "###"
   },
   {
     "name": "astral",
     "points": 90,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser.png",
-    "xws": "infuser"
+    "xws": "astral",
+    "assetno": "###"
   },
   {
     "name": "astral",
     "points": 91,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-infuser-back.png",
-    "xws": "infuser"
+    "xws": "astral",
+    "assetno": "###"
   },
   {
     "name": "metal mosaic",
     "points": 92,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic.png",
-    "xws": "metalmosaic"
+    "xws": "metalmosaic",
+    "assetno": "###"
   },
   {
     "name": "metal mosaic",
     "points": 93,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic-back.png",
-    "xws": "metalmosaic"
+    "xws": "metalmosaic",
+    "assetno": "###"
   },
   {
     "name": "drill",
     "points": 94,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic.png",
-    "xws": "metalmosaic"
+    "xws": "drill",
+    "assetno": "###"
   },
   {
     "name": "drill",
     "points": 95,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-metal-mosaic-back.png",
-    "xws": "metalmosaic"
+    "xws": "drill",
+    "assetno": "###"
   },
   {
     "name": "pain conduit",
     "points": 96,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit.png",
-    "xws": "painconduit"
+    "xws": "painconduit",
+    "assetno": "###"
   },
   {
     "name": "pain conduit",
     "points": 97,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit-back.png",
-    "xws": "painconduit"
+    "xws": "painconduit",
+    "assetno": "###"
   },
   {
     "name": "shackles",
     "points": 98,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit.png",
-    "xws": "painconduit"
+    "xws": "shackles",
+    "assetno": "###"
   },
   {
     "name": "shackles",
     "points": 99,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pain-conduit-back.png",
-    "xws": "painconduit"
+    "xws": "shackles",
+    "assetno": "###"
   },
   {
     "name": "pyroclast",
     "points": 100,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast.png",
-    "xws": "pyroclast"
+    "xws": "pyroclast",
+    "assetno": "###"
   },
   {
     "name": "pyroclast",
     "points": 101,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast-back.png",
-    "xws": "pyroclast"
+    "xws": "pyroclast",
+    "assetno": "###"
   },
   {
     "name": "meteor",
     "points": 102,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast.png",
-    "xws": "pyroclast"
+    "xws": "meteor",
+    "assetno": "###"
   },
   {
     "name": "meteor",
     "points": 103,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-pyroclast-back.png",
-    "xws": "pyroclast"
+    "xws": "meteor",
+    "assetno": "###"
   },
   {
     "name": "shattersong",
     "points": 104,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong.png",
-    "xws": "shattersong"
+    "xws": "shattersong",
+    "assetno": "###"
   },
   {
     "name": "shattersong",
     "points": 105,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong-back.png",
-    "xws": "shattersong"
+    "xws": "shattersong",
+    "assetno": "###"
   },
   {
     "name": "shards",
     "points": 106,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong.png",
-    "xws": "shattersong"
+    "xws": "shards",
+    "assetno": "###"
   },
   {
     "name": "shards",
     "points": 107,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-shattersong-back.png",
-    "xws": "shattersong"
+    "xws": "shards",
+    "assetno": "###"
   },
   {
     "name": "snowdancer",
     "points": 108,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer.png",
-    "xws": "snowdancer"
+    "xws": "snowdancer",
+    "assetno": "###"
   },
   {
     "name": "snowdancer",
     "points": 109,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer-back.png",
-    "xws": "snowdancer"
+    "xws": "snowdancer",
+    "assetno": "###"
   },
   {
     "name": "snowflake",
     "points": 110,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer.png",
-    "xws": "snowdancer"
+    "xws": "snowflake",
+    "assetno": "###"
   },
   {
     "name": "snowflake",
     "points": 111,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-snowdancer-back.png",
-    "xws": "snowdancer"
+    "xws": "snowflake",
+    "assetno": "###"
   },
   {
     "name": "trapper",
     "points": 112,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper.png",
-    "xws": "trapper"
+    "xws": "trapper",
+    "assetno": "###"
   },
   {
     "name": "trapper",
     "points": 113,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper-back.png",
-    "xws": "trapper"
+    "xws": "trapper",
+    "assetno": "###"
   },
   {
     "name": "trap",
     "points": 114,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper.png",
-    "xws": "trapper"
+    "xws": "trap",
+    "assetno": "###"
   },
   {
     "name": "trap",
     "points": 115,
     "expansion": "frosthaven",
     "image": "character-mats/frosthaven/fh-trapper-back.png",
-    "xws": "trapper"
+    "xws": "trap",
+    "assetno": "###"
   },
   {
     "name": "demolitionist",
