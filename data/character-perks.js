@@ -252,434 +252,496 @@
     "points": 31,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-banner-spear-perks.png",
-    "xws": "bannerspearperks"
-  },
-  {
-    "name": "beast tyrant crossover perks",
-    "points": 32,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-beast-tyrant-perks.png",
-    "xws": "beasttyrantcrossoverperks"
-  },
-  {
-    "name": "two minis crossover perks",
-    "points": 33,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-beast-tyrant-perks.png",
-    "xws": "beasttyrantcrossoverperks"
-  },
-  {
-    "name": "berserker crossover perks",
-    "points": 34,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-berserker-perks.png",
-    "xws": "berserkercrossoverperks"
-  },
-  {
-    "name": "lightning bolt crossover perks",
-    "points": 35,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-berserker-perks.png",
-    "xws": "berserkercrossoverperks"
-  },
-  {
-    "name": "bladeswarm crossover perks",
-    "points": 36,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-bladeswarm-perks.png",
-    "xws": "bladeswarmcrossoverperks"
+    "xws": "bannerspearperks",
+    "assetno": "###"
   },
   {
     "name": "blinkblade perks",
-    "points": 37,
+    "points": 32,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-blinkblade-perks.png",
-    "xws": "blinkbladeperks"
+    "xws": "blinkbladeperks",
+    "assetno": "###"
   },
   {
     "name": "boneshaper perks",
-    "points": 38,
+    "points": 33,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-boneshaper-perks.png",
-    "xws": "boneshaperperks"
-  },
-  {
-    "name": "brute crossover perks",
-    "points": 39,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-brute-perks.png",
-    "xws": "brutecrossoverperks"
-  },
-  {
-    "name": "cragheart crossover perks",
-    "points": 40,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-cragheart-perks.png",
-    "xws": "cragheartcrossoverperks"
+    "xws": "boneshaperperks",
+    "assetno": "###"
   },
   {
     "name": "crashing tide perks",
-    "points": 41,
+    "points": 34,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-crashing-tide-perks.png",
-    "xws": "crashingtideperks"
+    "xws": "crashingtideperks",
+    "assetno": "###"
   },
   {
     "name": "coral perks",
-    "points": 42,
+    "points": 35,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-crashing-tide-perks.png",
-    "xws": "crashingtideperks"
+    "xws": "coralperks",
+    "assetno": "###"
   },
   {
     "name": "deathwalker perks",
-    "points": 43,
+    "points": 36,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-deathwalker-perks.png",
-    "xws": "deathwalkerperks"
+    "xws": "deathwalkerperks",
+    "assetno": "###"
   },
   {
     "name": "deepwraith perks",
-    "points": 44,
+    "points": 37,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-deepwraith-perks.png",
-    "xws": "deepwraithperks"
+    "xws": "deepwraithperks",
+    "assetno": "###"
   },
   {
     "name": "kelp perks",
-    "points": 45,
+    "points": 38,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-deepwraith-perks.png",
-    "xws": "deepwraithperks"
-  },
-  {
-    "name": "demolitionist crossover perks",
-    "points": 46,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-demolitionist-perks.png",
-    "xws": "demolitionistcrossoverperks"
-  },
-  {
-    "name": "diviner crossover perks",
-    "points": 47,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-diviner-perks.png",
-    "xws": "divinercrossoverperks"
-  },
-  {
-    "name": "doomstalker crossover perks",
-    "points": 48,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-doomstalker-perks.png",
-    "xws": "doomstalkercrossoverperks"
-  },
-  {
-    "name": "angry face crossover perks",
-    "points": 49,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-doomstalker-perks.png",
-    "xws": "doomstalkercrossoverperks"
+    "xws": "kelpperks",
+    "assetno": "###"
   },
   {
     "name": "drifter perks",
-    "points": 50,
+    "points": 39,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-drifter-perks.png",
-    "xws": "drifterperks"
-  },
-  {
-    "name": "elementalist crossover perks",
-    "points": 51,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-elementalist-perks.png",
-    "xws": "elementalistcrossoverperks"
-  },
-  {
-    "name": "triangles crossover perks",
-    "points": 52,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-elementalist-perks.png",
-    "xws": "elementalistcrossoverperks"
+    "xws": "drifterperks",
+    "assetno": "###"
   },
   {
     "name": "frozen fist perks",
-    "points": 53,
+    "points": 40,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-frozen-fist-perks.png",
-    "xws": "frozenfistperks"
+    "xws": "frozenfistperks",
+    "assetno": "###"
   },
   {
     "name": "fist perks",
-    "points": 54,
+    "points": 41,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-frozen-fist-perks.png",
-    "xws": "frozenfistperks"
+    "xws": "fistperks",
+    "assetno": "###"
   },
   {
     "name": "geminate perks",
-    "points": 55,
+    "points": 42,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-geminate-perks.png",
-    "xws": "geminateperks"
-  },
-  {
-    "name": "hatchet crossover perks",
-    "points": 56,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-hatchet-perks.png",
-    "xws": "hatchetcrossoverperks"
+    "xws": "geminateperks",
+    "assetno": "###"
   },
   {
     "name": "hive perks",
-    "points": 57,
+    "points": 43,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-hive-perks.png",
-    "xws": "hiveperks"
+    "xws": "hiveperks",
+    "assetno": "###"
   },
   {
     "name": "prism perks",
-    "points": 58,
+    "points": 44,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-hive-perks.png",
-    "xws": "hiveperks"
+    "xws": "prismperks",
+    "assetno": "###"
   },
   {
     "name": "infuser perks",
-    "points": 59,
+    "points": 45,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-infuser-perks.png",
-    "xws": "infuserperks"
+    "xws": "infuserperks",
+    "assetno": "###"
   },
   {
     "name": "astral perks",
-    "points": 60,
+    "points": 46,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-infuser-perks.png",
-    "xws": "infuserperks"
+    "xws": "astralperks",
+    "assetno": "###"
   },
   {
     "name": "metal mosaic perks",
-    "points": 61,
+    "points": 47,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-metal-mosaic-perks.png",
-    "xws": "metalmosaicperks"
+    "xws": "metalmosaicperks",
+    "assetno": "###"
   },
   {
     "name": "drill perks",
-    "points": 62,
+    "points": 48,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-metal-mosaic-perks.png",
-    "xws": "metalmosaicperks"
-  },
-  {
-    "name": "mindthief crossover perks",
-    "points": 63,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-mindthief-perks.png",
-    "xws": "mindthiefcrossoverperks"
-  },
-  {
-    "name": "nightshroud crossover perks",
-    "points": 64,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-nightshroud-perks.png",
-    "xws": "nightshroudcrossoverperks"
-  },
-  {
-    "name": "eclipse crossover perks",
-    "points": 65,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-nightshroud-perks.png",
-    "xws": "nightshroudcrossoverperks"
+    "xws": "drillperks",
+    "assetno": "###"
   },
   {
     "name": "pain conduit perks",
-    "points": 66,
+    "points": 49,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-pain-conduit-perks.png",
-    "xws": "painconduitperks"
+    "xws": "painconduitperks",
+    "assetno": "###"
   },
   {
     "name": "shackles perks",
-    "points": 67,
+    "points": 50,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-pain-conduit-perks.png",
-    "xws": "painconduitperks"
-  },
-  {
-    "name": "plagueherald crossover perks",
-    "points": 68,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-plagueherald-perks.png",
-    "xws": "plagueheraldcrossoverperks"
-  },
-  {
-    "name": "cthulhu crossover perks",
-    "points": 69,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-plagueherald-perks.png",
-    "xws": "plagueheraldcrossoverperks"
+    "xws": "shacklesperks",
+    "assetno": "###"
   },
   {
     "name": "pyroclast perks",
-    "points": 70,
+    "points": 51,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-pyroclast-perks.png",
-    "xws": "pyroclastperks"
+    "xws": "pyroclastperks",
+    "assetno": "###"
   },
   {
     "name": "meteor perks",
-    "points": 71,
+    "points": 52,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-pyroclast-perks.png",
-    "xws": "pyroclastperks"
-  },
-  {
-    "name": "quartermaster crossover perks",
-    "points": 72,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-quartermaster-perks.png",
-    "xws": "quartermastercrossoverperks"
-  },
-  {
-    "name": "three spears crossover perks",
-    "points": 73,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-quartermaster-perks.png",
-    "xws": "quartermastercrossoverperks"
-  },
-  {
-    "name": "red guard crossover perks",
-    "points": 74,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-red-guard-perks.png",
-    "xws": "redguardcrossoverperks"
-  },
-  {
-    "name": "sawbones crossover perks",
-    "points": 75,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-sawbones-perks.png",
-    "xws": "sawbonescrossoverperks"
-  },
-  {
-    "name": "saw crossover perks",
-    "points": 76,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-sawbones-perks.png",
-    "xws": "sawbonescrossoverperks"
-  },
-  {
-    "name": "scoundrel crossover perks",
-    "points": 77,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-scoundrel-perks.png",
-    "xws": "scoundrelcrossoverperks"
+    "xws": "meteorperks",
+    "assetno": "###"
   },
   {
     "name": "shattersong perks",
-    "points": 78,
+    "points": 53,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-shattersong-perks.png",
-    "xws": "shattersongperks"
+    "xws": "shattersongperks",
+    "assetno": "###"
   },
   {
     "name": "shards perks",
-    "points": 79,
+    "points": 54,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-shattersong-perks.png",
-    "xws": "shattersongperks"
-  },
-  {
-    "name": "soothsinger crossover perks",
-    "points": 80,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-soothsinger-perks.png",
-    "xws": "soothsingercrossoverperks"
-  },
-  {
-    "name": "music note crossover perks",
-    "points": 81,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-soothsinger-perks.png",
-    "xws": "soothsingercrossoverperks"
+    "xws": "shardsperks",
+    "assetno": "###"
   },
   {
     "name": "snowdancer perks",
-    "points": 82,
+    "points": 55,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-snowdancer-perks.png",
-    "xws": "snowdancerperks"
+    "xws": "snowdancerperks",
+    "assetno": "###"
   },
   {
     "name": "snowflake perks",
-    "points": 83,
+    "points": 56,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-snowdancer-perks.png",
-    "xws": "snowdancerperks"
-  },
-  {
-    "name": "spellweaver crossover perks",
-    "points": 84,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-spellweaver-perks.png",
-    "xws": "spellweavercrossoverperks"
-  },
-  {
-    "name": "summoner crossover perks",
-    "points": 85,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-summoner-perks.png",
-    "xws": "summonercrossoverperks"
-  },
-  {
-    "name": "circles crossover perks",
-    "points": 86,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-summoner-perks.png",
-    "xws": "summonercrossoverperks"
-  },
-  {
-    "name": "sunkeeper crossover perks",
-    "points": 87,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-sunkeeper-perks.png",
-    "xws": "sunkeepercrossoverperks"
-  },
-  {
-    "name": "sun crossover perks",
-    "points": 88,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-sunkeeper-perks.png",
-    "xws": "sunkeepercrossoverperks"
-  },
-  {
-    "name": "tinkerer crossover perks",
-    "points": 89,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-tinkerer-perks.png",
-    "xws": "tinkerercrossoverperks"
-  },
-  {
-    "name": "voidwarden crossover perks",
-    "points": 90,
-    "expansion": "frosthaven",
-    "image": "character-perks/frosthaven/fh-voidwarden-perks.png",
-    "xws": "voidwardencrossoverperks"
+    "xws": "snowflakeperks",
+    "assetno": "###"
   },
   {
     "name": "trapper perks",
-    "points": 91,
+    "points": 57,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-trapper-perks.png",
-    "xws": "trapperperks"
+    "xws": "trapperperks",
+    "assetno": "###"
   },
   {
     "name": "trap perks",
-    "points": 92,
+    "points": 58,
     "expansion": "frosthaven",
     "image": "character-perks/frosthaven/fh-trapper-perks.png",
-    "xws": "trapperperks"
+    "xws": "trapperks",
+    "assetno": "###"
+  },
+  {
+    "name": "beast tyrant crossover perks",
+    "points": 59,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-beast-tyrant-perks.png",
+    "xws": "beasttyrantcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "two minis crossover perks",
+    "points": 60,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-beast-tyrant-perks.png",
+    "xws": "twominiscrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "berserker crossover perks",
+    "points": 61,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-berserker-perks.png",
+    "xws": "berserkercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "lightning bolt crossover perks",
+    "points": 62,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-berserker-perks.png",
+    "xws": "lightningboltcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "bladeswarm crossover perks",
+    "points": 63,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-bladeswarm-perks.png",
+    "xws": "bladeswarmcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "brute crossover perks",
+    "points": 64,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-brute-perks.png",
+    "xws": "brutecrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "cragheart crossover perks",
+    "points": 65,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-cragheart-perks.png",
+    "xws": "cragheartcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "demolitionist crossover perks",
+    "points": 66,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-demolitionist-perks.png",
+    "xws": "demolitionistcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "diviner crossover perks",
+    "points": 67,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-diviner-perks.png",
+    "xws": "divinercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "doomstalker crossover perks",
+    "points": 68,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-doomstalker-perks.png",
+    "xws": "doomstalkercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "angry face crossover perks",
+    "points": 69,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-doomstalker-perks.png",
+    "xws": "angryfacecrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "elementalist crossover perks",
+    "points": 70,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-elementalist-perks.png",
+    "xws": "elementalistcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "triangles crossover perks",
+    "points": 71,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-elementalist-perks.png",
+    "xws": "trianglescrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "hatchet crossover perks",
+    "points": 72,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-hatchet-perks.png",
+    "xws": "hatchetcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "mindthief crossover perks",
+    "points": 73,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-mindthief-perks.png",
+    "xws": "mindthiefcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "nightshroud crossover perks",
+    "points": 74,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-nightshroud-perks.png",
+    "xws": "nightshroudcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "eclipse crossover perks",
+    "points": 75,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-nightshroud-perks.png",
+    "xws": "eclipsecrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "plagueherald crossover perks",
+    "points": 76,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-plagueherald-perks.png",
+    "xws": "plagueheraldcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "cthulhu crossover perks",
+    "points": 77,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-plagueherald-perks.png",
+    "xws": "cthulhucrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "quartermaster crossover perks",
+    "points": 78,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-quartermaster-perks.png",
+    "xws": "quartermastercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "three spears crossover perks",
+    "points": 79,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-quartermaster-perks.png",
+    "xws": "threespearscrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "red guard crossover perks",
+    "points": 80,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-red-guard-perks.png",
+    "xws": "redguardcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "sawbones crossover perks",
+    "points": 81,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-sawbones-perks.png",
+    "xws": "sawbonescrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "saw crossover perks",
+    "points": 82,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-sawbones-perks.png",
+    "xws": "sawcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "scoundrel crossover perks",
+    "points": 83,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-scoundrel-perks.png",
+    "xws": "scoundrelcrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "soothsinger crossover perks",
+    "points": 84,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-soothsinger-perks.png",
+    "xws": "soothsingercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "music note crossover perks",
+    "points": 85,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-soothsinger-perks.png",
+    "xws": "musicnotecrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "spellweaver crossover perks",
+    "points": 86,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-spellweaver-perks.png",
+    "xws": "spellweavercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "summoner crossover perks",
+    "points": 87,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-summoner-perks.png",
+    "xws": "summonercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "circles crossover perks",
+    "points": 88,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-summoner-perks.png",
+    "xws": "circlescrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "sunkeeper crossover perks",
+    "points": 89,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-sunkeeper-perks.png",
+    "xws": "sunkeepercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "sun crossover perks",
+    "points": 90,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-sunkeeper-perks.png",
+    "xws": "suncrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "tinkerer crossover perks",
+    "points": 91,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-tinkerer-perks.png",
+    "xws": "tinkerercrossoverperks",
+    "assetno": "###"
+  },
+  {
+    "name": "voidwarden crossover perks",
+    "points": 92,
+    "expansion": "frosthaven",
+    "image": "character-perks/frosthaven/fh-voidwarden-perks.png",
+    "xws": "voidwardencrossoverperks",
+    "assetno": "###"
   },
   {
     "name": "demolitionist perks",
