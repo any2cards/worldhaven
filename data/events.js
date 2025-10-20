@@ -2917,18 +2917,18 @@
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-01-b.png",
     "xws": "fhbe01b",
-    "assetno": "###"
+    "assetno": "562"
+  },
+  {
+    "name": "562",
+    "points": 365,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-01-b.png",
+    "xws": "fhbe01b",
+    "assetno": "562"
   },
   {
     "name": "fh-be-02-f",
-    "points": 365,
-    "expansion": "frosthaven",
-    "image": "events/frosthaven/boat/fh-be-02-f.png",
-    "xws": "fhbe02f",
-    "assetno": "563"
-  },
-  {
-    "name": "563",
     "points": 366,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-02-f.png",
@@ -2936,16 +2936,32 @@
     "assetno": "563"
   },
   {
-    "name": "fh-be-02-b",
+    "name": "563",
     "points": 367,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-02-f.png",
+    "xws": "fhbe02f",
+    "assetno": "563"
+  },
+  {
+    "name": "fh-be-02-b",
+    "points": 368,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-02-b.png",
     "xws": "fhbe02b",
-    "assetno": "###"
+    "assetno": "563"
+  },
+  {
+    "name": "563",
+    "points": 369,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-02-b.png",
+    "xws": "fhbe02b",
+    "assetno": "563"
   },
   {
     "name": "fh-be-03-f",
-    "points": 368,
+    "points": 370,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-03-f.png",
     "xws": "fhbe03f",
@@ -2953,7 +2969,7 @@
   },
   {
     "name": "564",
-    "points": 369,
+    "points": 371,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-03-f.png",
     "xws": "fhbe03f",
@@ -2961,15 +2977,23 @@
   },
   {
     "name": "fh-be-03-b",
-    "points": 370,
+    "points": 372,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-03-b.png",
     "xws": "fhbe03b",
-    "assetno": "###"
+    "assetno": "564"
+  },
+  {
+    "name": "564",
+    "points": 373,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-03-b.png",
+    "xws": "fhbe03b",
+    "assetno": "564"
   },
   {
     "name": "fh-be-04-f",
-    "points": 371,
+    "points": 374,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-04-f.png",
     "xws": "fhbe04f",
@@ -2977,7 +3001,7 @@
   },
   {
     "name": "565",
-    "points": 372,
+    "points": 375,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-04-f.png",
     "xws": "fhbe04f",
@@ -2985,15 +3009,23 @@
   },
   {
     "name": "fh-be-04-b",
-    "points": 373,
+    "points": 376,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-04-b.png",
     "xws": "fhbe04b",
-    "assetno": "###"
+    "assetno": "565"
+  },
+  {
+    "name": "565",
+    "points": 377,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-04-b.png",
+    "xws": "fhbe04b",
+    "assetno": "565"
   },
   {
     "name": "fh-be-05-f",
-    "points": 374,
+    "points": 378,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-05-f.png",
     "xws": "fhbe05f",
@@ -3001,7 +3033,7 @@
   },
   {
     "name": "566",
-    "points": 375,
+    "points": 379,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-05-f.png",
     "xws": "fhbe05f",
@@ -3009,15 +3041,23 @@
   },
   {
     "name": "fh-be-05-b",
-    "points": 376,
+    "points": 380,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-05-b.png",
     "xws": "fhbe05b",
-    "assetno": "###"
+    "assetno": "566"
+  },
+  {
+    "name": "566",
+    "points": 381,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-05-b.png",
+    "xws": "fhbe05b",
+    "assetno": "566"
   },
   {
     "name": "fh-be-06-f",
-    "points": 377,
+    "points": 382,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-06-f.png",
     "xws": "fhbe06f",
@@ -3025,7 +3065,7 @@
   },
   {
     "name": "567",
-    "points": 378,
+    "points": 383,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-06-f.png",
     "xws": "fhbe06f",
@@ -3033,15 +3073,23 @@
   },
   {
     "name": "fh-be-06-b",
-    "points": 379,
+    "points": 384,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-06-b.png",
     "xws": "fhbe06b",
-    "assetno": "###"
+    "assetno": "567"
+  },
+  {
+    "name": "567",
+    "points": 385,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-06-b.png",
+    "xws": "fhbe06b",
+    "assetno": "567"
   },
   {
     "name": "fh-be-07-f",
-    "points": 380,
+    "points": 386,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-07-f.png",
     "xws": "fhbe07f",
@@ -3049,7 +3097,7 @@
   },
   {
     "name": "568",
-    "points": 381,
+    "points": 387,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-07-f.png",
     "xws": "fhbe07f",
@@ -3057,15 +3105,23 @@
   },
   {
     "name": "fh-be-07-b",
-    "points": 382,
+    "points": 388,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-07-b.png",
     "xws": "fhbe07b",
-    "assetno": "###"
+    "assetno": "568"
+  },
+  {
+    "name": "568",
+    "points": 389,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-07-b.png",
+    "xws": "fhbe07b",
+    "assetno": "568"
   },
   {
     "name": "fh-be-08-f",
-    "points": 383,
+    "points": 390,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-08-f.png",
     "xws": "fhbe08f",
@@ -3073,7 +3129,7 @@
   },
   {
     "name": "569",
-    "points": 384,
+    "points": 391,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-08-f.png",
     "xws": "fhbe08f",
@@ -3081,15 +3137,23 @@
   },
   {
     "name": "fh-be-08-b",
-    "points": 385,
+    "points": 392,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-08-b.png",
     "xws": "fhbe08b",
-    "assetno": "###"
+    "assetno": "569"
+  },
+  {
+    "name": "569",
+    "points": 393,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-08-b.png",
+    "xws": "fhbe08b",
+    "assetno": "569"
   },
   {
     "name": "fh-be-09-f",
-    "points": 386,
+    "points": 394,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-09-f.png",
     "xws": "fhbe09f",
@@ -3097,7 +3161,7 @@
   },
   {
     "name": "570",
-    "points": 387,
+    "points": 395,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-09-f.png",
     "xws": "fhbe09f",
@@ -3105,15 +3169,23 @@
   },
   {
     "name": "fh-be-09-b",
-    "points": 388,
+    "points": 396,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-09-b.png",
     "xws": "fhbe09b",
-    "assetno": "###"
+    "assetno": "570"
+  },
+  {
+    "name": "570",
+    "points": 397,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-09-b.png",
+    "xws": "fhbe09b",
+    "assetno": "570"
   },
   {
     "name": "fh-be-10-f",
-    "points": 389,
+    "points": 398,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-10-f.png",
     "xws": "fhbe10f",
@@ -3121,7 +3193,7 @@
   },
   {
     "name": "571",
-    "points": 390,
+    "points": 399,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-10-f.png",
     "xws": "fhbe10f",
@@ -3129,15 +3201,23 @@
   },
   {
     "name": "fh-be-10-b",
-    "points": 391,
+    "points": 400,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-10-b.png",
     "xws": "fhbe10b",
-    "assetno": "###"
+    "assetno": "571"
+  },
+  {
+    "name": "571",
+    "points": 401,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-10-b.png",
+    "xws": "fhbe10b",
+    "assetno": "571"
   },
   {
     "name": "fh-be-11-f",
-    "points": 392,
+    "points": 402,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-11-f.png",
     "xws": "fhbe11f",
@@ -3145,7 +3225,7 @@
   },
   {
     "name": "572",
-    "points": 393,
+    "points": 403,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-11-f.png",
     "xws": "fhbe11f",
@@ -3153,15 +3233,23 @@
   },
   {
     "name": "fh-be-11-b",
-    "points": 394,
+    "points": 404,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-11-b.png",
     "xws": "fhbe11b",
-    "assetno": "###"
+    "assetno": "572"
+  },
+  {
+    "name": "572",
+    "points": 405,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-11-b.png",
+    "xws": "fhbe11b",
+    "assetno": "572"
   },
   {
     "name": "fh-be-12-f",
-    "points": 395,
+    "points": 406,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-12-f.png",
     "xws": "fhbe12f",
@@ -3169,7 +3257,7 @@
   },
   {
     "name": "573",
-    "points": 396,
+    "points": 407,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-12-f.png",
     "xws": "fhbe12f",
@@ -3177,15 +3265,23 @@
   },
   {
     "name": "fh-be-12-b",
-    "points": 397,
+    "points": 408,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-12-b.png",
     "xws": "fhbe12b",
-    "assetno": "###"
+    "assetno": "573"
+  },
+  {
+    "name": "573",
+    "points": 409,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-12-b.png",
+    "xws": "fhbe12b",
+    "assetno": "573"
   },
   {
     "name": "fh-be-13-f",
-    "points": 398,
+    "points": 410,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-13-f.png",
     "xws": "fhbe13f",
@@ -3193,7 +3289,7 @@
   },
   {
     "name": "574",
-    "points": 399,
+    "points": 411,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-13-f.png",
     "xws": "fhbe13f",
@@ -3201,15 +3297,23 @@
   },
   {
     "name": "fh-be-13-b",
-    "points": 400,
+    "points": 412,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-13-b.png",
     "xws": "fhbe13b",
-    "assetno": "###"
+    "assetno": "574"
+  },
+  {
+    "name": "574",
+    "points": 413,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-13-b.png",
+    "xws": "fhbe13b",
+    "assetno": "574"
   },
   {
     "name": "fh-be-14-f",
-    "points": 401,
+    "points": 414,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-14-f.png",
     "xws": "fhbe14f",
@@ -3217,7 +3321,7 @@
   },
   {
     "name": "575",
-    "points": 402,
+    "points": 415,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-14-f.png",
     "xws": "fhbe14f",
@@ -3225,15 +3329,23 @@
   },
   {
     "name": "fh-be-14-b",
-    "points": 403,
+    "points": 416,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-14-b.png",
     "xws": "fhbe14b",
-    "assetno": "###"
+    "assetno": "575"
+  },
+  {
+    "name": "575",
+    "points": 417,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-14-b.png",
+    "xws": "fhbe14b",
+    "assetno": "575"
   },
   {
     "name": "fh-be-15-f",
-    "points": 404,
+    "points": 418,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-15-f.png",
     "xws": "fhbe15f",
@@ -3241,7 +3353,7 @@
   },
   {
     "name": "576",
-    "points": 405,
+    "points": 419,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-15-f.png",
     "xws": "fhbe15f",
@@ -3249,15 +3361,23 @@
   },
   {
     "name": "fh-be-15-b",
-    "points": 406,
+    "points": 420,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-15-b.png",
     "xws": "fhbe15b",
-    "assetno": "###"
+    "assetno": "576"
+  },
+  {
+    "name": "576",
+    "points": 421,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-15-b.png",
+    "xws": "fhbe15b",
+    "assetno": "576"
   },
   {
     "name": "fh-be-16-f",
-    "points": 407,
+    "points": 422,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-16-f.png",
     "xws": "fhbe16f",
@@ -3265,7 +3385,7 @@
   },
   {
     "name": "577",
-    "points": 408,
+    "points": 423,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-16-f.png",
     "xws": "fhbe16f",
@@ -3273,15 +3393,23 @@
   },
   {
     "name": "fh-be-16-b",
-    "points": 409,
+    "points": 424,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-16-b.png",
     "xws": "fhbe16b",
-    "assetno": "###"
+    "assetno": "577"
+  },
+  {
+    "name": "577",
+    "points": 425,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-16-b.png",
+    "xws": "fhbe16b",
+    "assetno": "577"
   },
   {
     "name": "fh-be-17-f",
-    "points": 410,
+    "points": 426,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-17-f.png",
     "xws": "fhbe17f",
@@ -3289,7 +3417,7 @@
   },
   {
     "name": "578",
-    "points": 411,
+    "points": 427,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-17-f.png",
     "xws": "fhbe17f",
@@ -3297,15 +3425,23 @@
   },
   {
     "name": "fh-be-17-b",
-    "points": 412,
+    "points": 428,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-17-b.png",
     "xws": "fhbe17b",
-    "assetno": "###"
+    "assetno": "578"
+  },
+  {
+    "name": "578",
+    "points": 429,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-17-b.png",
+    "xws": "fhbe17b",
+    "assetno": "578"
   },
   {
     "name": "fh-be-18-f",
-    "points": 413,
+    "points": 430,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-18-f.png",
     "xws": "fhbe18f",
@@ -3313,7 +3449,7 @@
   },
   {
     "name": "579",
-    "points": 414,
+    "points": 431,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-18-f.png",
     "xws": "fhbe18f",
@@ -3321,15 +3457,23 @@
   },
   {
     "name": "fh-be-18-b",
-    "points": 415,
+    "points": 432,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-18-b.png",
     "xws": "fhbe18b",
-    "assetno": "###"
+    "assetno": "579"
+  },
+  {
+    "name": "579",
+    "points": 433,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-18-b.png",
+    "xws": "fhbe18b",
+    "assetno": "579"
   },
   {
     "name": "fh-be-19-f",
-    "points": 416,
+    "points": 434,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-19-f.png",
     "xws": "fhbe19f",
@@ -3337,7 +3481,7 @@
   },
   {
     "name": "580",
-    "points": 417,
+    "points": 435,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-19-f.png",
     "xws": "fhbe19f",
@@ -3345,15 +3489,23 @@
   },
   {
     "name": "fh-be-19-b",
-    "points": 418,
+    "points": 436,
     "expansion": "frosthaven",
     "image": "events/frosthaven/boat/fh-be-19-b.png",
     "xws": "fhbe19b",
-    "assetno": "###"
+    "assetno": "580"
+  },
+  {
+    "name": "580",
+    "points": 437,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/boat/fh-be-19-b.png",
+    "xws": "fhbe19b",
+    "assetno": "580"
   },
   {
     "name": "fh-soe-01-f",
-    "points": 419,
+    "points": 438,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-01-f.png",
     "xws": "fhsoe01f",
@@ -3361,7 +3513,7 @@
   },
   {
     "name": "721",
-    "points": 420,
+    "points": 439,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-01-f.png",
     "xws": "fhsoe01f",
@@ -3369,15 +3521,23 @@
   },
   {
     "name": "fh-soe-01-b",
-    "points": 421,
+    "points": 440,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-01-b.png",
     "xws": "fhsoe01b",
-    "assetno": "###"
+    "assetno": "721"
+  },
+  {
+    "name": "721",
+    "points": 441,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-01-b.png",
+    "xws": "fhsoe01b",
+    "assetno": "721"
   },
   {
     "name": "fh-soe-02-f",
-    "points": 422,
+    "points": 442,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-02-f.png",
     "xws": "fhsoe02f",
@@ -3385,7 +3545,7 @@
   },
   {
     "name": "722",
-    "points": 423,
+    "points": 443,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-02-f.png",
     "xws": "fhsoe02f",
@@ -3393,15 +3553,23 @@
   },
   {
     "name": "fh-soe-02-b",
-    "points": 424,
+    "points": 444,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-02-b.png",
     "xws": "fhsoe02b",
-    "assetno": "###"
+    "assetno": "722"
+  },
+  {
+    "name": "722",
+    "points": 445,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-02-b.png",
+    "xws": "fhsoe02b",
+    "assetno": "722"
   },
   {
     "name": "fh-soe-03-f",
-    "points": 425,
+    "points": 446,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-03-f.png",
     "xws": "fhsoe03f",
@@ -3409,7 +3577,7 @@
   },
   {
     "name": "723",
-    "points": 426,
+    "points": 447,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-03-f.png",
     "xws": "fhsoe03f",
@@ -3417,15 +3585,23 @@
   },
   {
     "name": "fh-soe-03-b",
-    "points": 427,
+    "points": 448,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-03-b.png",
     "xws": "fhsoe03b",
-    "assetno": "###"
+    "assetno": "723"
+  },
+  {
+    "name": "723",
+    "points": 449,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-03-b.png",
+    "xws": "fhsoe03b",
+    "assetno": "723"
   },
   {
     "name": "fh-soe-04-f",
-    "points": 428,
+    "points": 450,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-04-f.png",
     "xws": "fhsoe04f",
@@ -3433,7 +3609,7 @@
   },
   {
     "name": "724",
-    "points": 429,
+    "points": 451,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-04-f.png",
     "xws": "fhsoe04f",
@@ -3441,15 +3617,23 @@
   },
   {
     "name": "fh-soe-04-b",
-    "points": 430,
+    "points": 452,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-04-b.png",
     "xws": "fhsoe04b",
-    "assetno": "###"
+    "assetno": "724"
+  },
+  {
+    "name": "724",
+    "points": 453,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-04-b.png",
+    "xws": "fhsoe04b",
+    "assetno": "724"
   },
   {
     "name": "fh-soe-05-f",
-    "points": 431,
+    "points": 454,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-05-f.png",
     "xws": "fhsoe05f",
@@ -3457,7 +3641,7 @@
   },
   {
     "name": "725",
-    "points": 432,
+    "points": 455,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-05-f.png",
     "xws": "fhsoe05f",
@@ -3465,15 +3649,23 @@
   },
   {
     "name": "fh-soe-05-b",
-    "points": 433,
+    "points": 456,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-05-b.png",
     "xws": "fhsoe05b",
-    "assetno": "###"
+    "assetno": "725"
+  },
+  {
+    "name": "725",
+    "points": 457,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-05-b.png",
+    "xws": "fhsoe05b",
+    "assetno": "725"
   },
   {
     "name": "fh-soe-06-f",
-    "points": 434,
+    "points": 458,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-06-f.png",
     "xws": "fhsoe06f",
@@ -3481,7 +3673,7 @@
   },
   {
     "name": "726",
-    "points": 435,
+    "points": 459,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-06-f.png",
     "xws": "fhsoe06f",
@@ -3489,15 +3681,23 @@
   },
   {
     "name": "fh-soe-06-b",
-    "points": 436,
+    "points": 460,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-06-b.png",
     "xws": "fhsoe06b",
-    "assetno": "###"
+    "assetno": "726"
+  },
+  {
+    "name": "726",
+    "points": 461,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-06-b.png",
+    "xws": "fhsoe06b",
+    "assetno": "726"
   },
   {
     "name": "fh-soe-07-f",
-    "points": 437,
+    "points": 462,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-07-f.png",
     "xws": "fhsoe07f",
@@ -3505,7 +3705,7 @@
   },
   {
     "name": "727",
-    "points": 438,
+    "points": 463,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-07-f.png",
     "xws": "fhsoe07f",
@@ -3513,15 +3713,23 @@
   },
   {
     "name": "fh-soe-07-b",
-    "points": 439,
+    "points": 464,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-07-b.png",
     "xws": "fhsoe07b",
-    "assetno": "###"
+    "assetno": "727"
+  },
+  {
+    "name": "727",
+    "points": 465,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-07-b.png",
+    "xws": "fhsoe07b",
+    "assetno": "727"
   },
   {
     "name": "fh-soe-08-f",
-    "points": 440,
+    "points": 466,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-08-f.png",
     "xws": "fhsoe08f",
@@ -3529,7 +3737,7 @@
   },
   {
     "name": "728",
-    "points": 441,
+    "points": 467,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-08-f.png",
     "xws": "fhsoe08f",
@@ -3537,15 +3745,23 @@
   },
   {
     "name": "fh-soe-08-b",
-    "points": 442,
+    "points": 468,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-08-b.png",
     "xws": "fhsoe08b",
-    "assetno": "###"
+    "assetno": "728"
+  },
+  {
+    "name": "728",
+    "points": 469,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-08-b.png",
+    "xws": "fhsoe08b",
+    "assetno": "728"
   },
   {
     "name": "fh-soe-09-f",
-    "points": 443,
+    "points": 470,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-09-f.png",
     "xws": "fhsoe09f",
@@ -3553,7 +3769,7 @@
   },
   {
     "name": "729",
-    "points": 444,
+    "points": 471,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-09-f.png",
     "xws": "fhsoe09f",
@@ -3561,15 +3777,23 @@
   },
   {
     "name": "fh-soe-09-b",
-    "points": 445,
+    "points": 472,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-09-b.png",
     "xws": "fhsoe09b",
-    "assetno": "###"
+    "assetno": "729"
+  },
+  {
+    "name": "729",
+    "points": 473,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-09-b.png",
+    "xws": "fhsoe09b",
+    "assetno": "729"
   },
   {
     "name": "fh-soe-10-f",
-    "points": 446,
+    "points": 474,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-10-f.png",
     "xws": "fhsoe10f",
@@ -3577,7 +3801,7 @@
   },
   {
     "name": "730",
-    "points": 447,
+    "points": 475,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-10-f.png",
     "xws": "fhsoe10f",
@@ -3585,15 +3809,23 @@
   },
   {
     "name": "fh-soe-10-b",
-    "points": 448,
+    "points": 476,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-10-b.png",
     "xws": "fhsoe10b",
-    "assetno": "###"
+    "assetno": "730"
+  },
+  {
+    "name": "730",
+    "points": 477,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-10-b.png",
+    "xws": "fhsoe10b",
+    "assetno": "730"
   },
   {
     "name": "fh-soe-11-f",
-    "points": 449,
+    "points": 478,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-11-f.png",
     "xws": "fhsoe11f",
@@ -3601,7 +3833,7 @@
   },
   {
     "name": "731",
-    "points": 450,
+    "points": 479,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-11-f.png",
     "xws": "fhsoe11f",
@@ -3609,15 +3841,23 @@
   },
   {
     "name": "fh-soe-11-b",
-    "points": 451,
+    "points": 480,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-11-b.png",
     "xws": "fhsoe11b",
-    "assetno": "###"
+    "assetno": "731"
+  },
+  {
+    "name": "731",
+    "points": 481,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-11-b.png",
+    "xws": "fhsoe11b",
+    "assetno": "731"
   },
   {
     "name": "fh-soe-12-f",
-    "points": 452,
+    "points": 482,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-12-f.png",
     "xws": "fhsoe12f",
@@ -3625,7 +3865,7 @@
   },
   {
     "name": "732",
-    "points": 453,
+    "points": 483,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-12-f.png",
     "xws": "fhsoe12f",
@@ -3633,15 +3873,23 @@
   },
   {
     "name": "fh-soe-12-b",
-    "points": 454,
+    "points": 484,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-12-b.png",
     "xws": "fhsoe12b",
-    "assetno": "###"
+    "assetno": "732"
+  },
+  {
+    "name": "732",
+    "points": 485,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-12-b.png",
+    "xws": "fhsoe12b",
+    "assetno": "732"
   },
   {
     "name": "fh-soe-13-f",
-    "points": 455,
+    "points": 486,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-13-f.png",
     "xws": "fhsoe13f",
@@ -3649,7 +3897,7 @@
   },
   {
     "name": "733",
-    "points": 456,
+    "points": 487,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-13-f.png",
     "xws": "fhsoe13f",
@@ -3657,15 +3905,23 @@
   },
   {
     "name": "fh-soe-13-b",
-    "points": 457,
+    "points": 488,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-13-b.png",
     "xws": "fhsoe13b",
-    "assetno": "###"
+    "assetno": "733"
+  },
+  {
+    "name": "733",
+    "points": 489,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-13-b.png",
+    "xws": "fhsoe13b",
+    "assetno": "733"
   },
   {
     "name": "fh-soe-14-f",
-    "points": 458,
+    "points": 490,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-14-f.png",
     "xws": "fhsoe14f",
@@ -3673,7 +3929,7 @@
   },
   {
     "name": "734",
-    "points": 459,
+    "points": 491,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-14-f.png",
     "xws": "fhsoe14f",
@@ -3681,15 +3937,23 @@
   },
   {
     "name": "fh-soe-14-b",
-    "points": 460,
+    "points": 492,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-14-b.png",
     "xws": "fhsoe14b",
-    "assetno": "###"
+    "assetno": "734"
+  },
+  {
+    "name": "734",
+    "points": 493,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-14-b.png",
+    "xws": "fhsoe14b",
+    "assetno": "734"
   },
   {
     "name": "fh-soe-15-f",
-    "points": 461,
+    "points": 494,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-15-f.png",
     "xws": "fhsoe15f",
@@ -3697,7 +3961,7 @@
   },
   {
     "name": "735",
-    "points": 462,
+    "points": 495,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-15-f.png",
     "xws": "fhsoe15f",
@@ -3705,15 +3969,23 @@
   },
   {
     "name": "fh-soe-15-b",
-    "points": 463,
+    "points": 496,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-15-b.png",
     "xws": "fhsoe15b",
-    "assetno": "###"
+    "assetno": "735"
+  },
+  {
+    "name": "735",
+    "points": 497,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-15-b.png",
+    "xws": "fhsoe15b",
+    "assetno": "735"
   },
   {
     "name": "fh-soe-16-f",
-    "points": 464,
+    "points": 498,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-16-f.png",
     "xws": "fhsoe16f",
@@ -3721,7 +3993,7 @@
   },
   {
     "name": "736",
-    "points": 465,
+    "points": 499,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-16-f.png",
     "xws": "fhsoe16f",
@@ -3729,15 +4001,23 @@
   },
   {
     "name": "fh-soe-16-b",
-    "points": 466,
+    "points": 500,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-16-b.png",
     "xws": "fhsoe16b",
-    "assetno": "###"
+    "assetno": "736"
+  },
+  {
+    "name": "736",
+    "points": 501,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-16-b.png",
+    "xws": "fhsoe16b",
+    "assetno": "736"
   },
   {
     "name": "fh-soe-17-f",
-    "points": 467,
+    "points": 502,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-17-f.png",
     "xws": "fhsoe17f",
@@ -3745,7 +4025,7 @@
   },
   {
     "name": "737",
-    "points": 468,
+    "points": 503,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-17-f.png",
     "xws": "fhsoe17f",
@@ -3753,15 +4033,23 @@
   },
   {
     "name": "fh-soe-17-b",
-    "points": 469,
+    "points": 504,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-17-b.png",
     "xws": "fhsoe17b",
-    "assetno": "###"
+    "assetno": "737"
+  },
+  {
+    "name": "737",
+    "points": 505,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-17-b.png",
+    "xws": "fhsoe17b",
+    "assetno": "737"
   },
   {
     "name": "fh-soe-18-f",
-    "points": 470,
+    "points": 506,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-18-f.png",
     "xws": "fhsoe18f",
@@ -3769,7 +4057,7 @@
   },
   {
     "name": "738",
-    "points": 471,
+    "points": 507,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-18-f.png",
     "xws": "fhsoe18f",
@@ -3777,15 +4065,23 @@
   },
   {
     "name": "fh-soe-18-b",
-    "points": 472,
+    "points": 508,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-18-b.png",
     "xws": "fhsoe18b",
-    "assetno": "###"
+    "assetno": "738"
+  },
+  {
+    "name": "738",
+    "points": 509,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-18-b.png",
+    "xws": "fhsoe18b",
+    "assetno": "738"
   },
   {
     "name": "fh-soe-19-f",
-    "points": 473,
+    "points": 510,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-19-f.png",
     "xws": "fhsoe19f",
@@ -3793,7 +4089,7 @@
   },
   {
     "name": "739",
-    "points": 474,
+    "points": 511,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-19-f.png",
     "xws": "fhsoe19f",
@@ -3801,15 +4097,23 @@
   },
   {
     "name": "fh-soe-19-b",
-    "points": 475,
+    "points": 512,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-19-b.png",
     "xws": "fhsoe19b",
-    "assetno": "###"
+    "assetno": "739"
+  },
+  {
+    "name": "739",
+    "points": 513,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-19-b.png",
+    "xws": "fhsoe19b",
+    "assetno": "739"
   },
   {
     "name": "fh-soe-20-f",
-    "points": 476,
+    "points": 514,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-20-f.png",
     "xws": "fhsoe20f",
@@ -3817,7 +4121,7 @@
   },
   {
     "name": "740",
-    "points": 477,
+    "points": 515,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-20-f.png",
     "xws": "fhsoe20f",
@@ -3825,15 +4129,23 @@
   },
   {
     "name": "fh-soe-20-b",
-    "points": 478,
+    "points": 516,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-20-b.png",
     "xws": "fhsoe20b",
-    "assetno": "###"
+    "assetno": "740"
+  },
+  {
+    "name": "740",
+    "points": 517,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-20-b.png",
+    "xws": "fhsoe20b",
+    "assetno": "740"
   },
   {
     "name": "fh-soe-21-f",
-    "points": 479,
+    "points": 518,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-21-f.png",
     "xws": "fhsoe21f",
@@ -3841,7 +4153,7 @@
   },
   {
     "name": "741",
-    "points": 480,
+    "points": 519,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-21-f.png",
     "xws": "fhsoe21f",
@@ -3849,15 +4161,23 @@
   },
   {
     "name": "fh-soe-21-b",
-    "points": 481,
+    "points": 520,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-21-b.png",
     "xws": "fhsoe21b",
-    "assetno": "###"
+    "assetno": "741"
+  },
+  {
+    "name": "741",
+    "points": 521,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-21-b.png",
+    "xws": "fhsoe21b",
+    "assetno": "741"
   },
   {
     "name": "fh-soe-22-f",
-    "points": 482,
+    "points": 522,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-22-f.png",
     "xws": "fhsoe22f",
@@ -3865,7 +4185,7 @@
   },
   {
     "name": "742",
-    "points": 483,
+    "points": 523,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-22-f.png",
     "xws": "fhsoe22f",
@@ -3873,15 +4193,23 @@
   },
   {
     "name": "fh-soe-22-b",
-    "points": 484,
+    "points": 524,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-22-b.png",
     "xws": "fhsoe22b",
-    "assetno": "###"
+    "assetno": "742"
+  },
+  {
+    "name": "742",
+    "points": 525,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-22-b.png",
+    "xws": "fhsoe22b",
+    "assetno": "742"
   },
   {
     "name": "fh-soe-23-f",
-    "points": 485,
+    "points": 526,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-23-f.png",
     "xws": "fhsoe23f",
@@ -3889,7 +4217,7 @@
   },
   {
     "name": "743",
-    "points": 486,
+    "points": 527,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-23-f.png",
     "xws": "fhsoe23f",
@@ -3897,15 +4225,23 @@
   },
   {
     "name": "fh-soe-23-b",
-    "points": 487,
+    "points": 528,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-23-b.png",
     "xws": "fhsoe23b",
-    "assetno": "###"
+    "assetno": "743"
+  },
+  {
+    "name": "743",
+    "points": 529,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-23-b.png",
+    "xws": "fhsoe23b",
+    "assetno": "743"
   },
   {
     "name": "fh-soe-24-f",
-    "points": 488,
+    "points": 530,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-24-f.png",
     "xws": "fhsoe24f",
@@ -3913,7 +4249,7 @@
   },
   {
     "name": "744",
-    "points": 489,
+    "points": 531,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-24-f.png",
     "xws": "fhsoe24f",
@@ -3921,15 +4257,23 @@
   },
   {
     "name": "fh-soe-24-b",
-    "points": 490,
+    "points": 532,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-24-b.png",
     "xws": "fhsoe24b",
-    "assetno": "###"
+    "assetno": "744"
+  },
+  {
+    "name": "744",
+    "points": 533,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-24-b.png",
+    "xws": "fhsoe24b",
+    "assetno": "744"
   },
   {
     "name": "fh-soe-25-f",
-    "points": 491,
+    "points": 534,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-25-f.png",
     "xws": "fhsoe25f",
@@ -3937,7 +4281,7 @@
   },
   {
     "name": "745",
-    "points": 492,
+    "points": 535,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-25-f.png",
     "xws": "fhsoe25f",
@@ -3945,15 +4289,23 @@
   },
   {
     "name": "fh-soe-25-b",
-    "points": 493,
+    "points": 536,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-25-b.png",
     "xws": "fhsoe25b",
-    "assetno": "###"
+    "assetno": "745"
+  },
+  {
+    "name": "745",
+    "points": 537,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-25-b.png",
+    "xws": "fhsoe25b",
+    "assetno": "745"
   },
   {
     "name": "fh-soe-26-f",
-    "points": 494,
+    "points": 538,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-26-f.png",
     "xws": "fhsoe26f",
@@ -3961,7 +4313,7 @@
   },
   {
     "name": "746",
-    "points": 495,
+    "points": 539,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-26-f.png",
     "xws": "fhsoe26f",
@@ -3969,15 +4321,23 @@
   },
   {
     "name": "fh-soe-26-b",
-    "points": 496,
+    "points": 540,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-26-b.png",
     "xws": "fhsoe26b",
-    "assetno": "###"
+    "assetno": "746"
+  },
+  {
+    "name": "746",
+    "points": 541,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-26-b.png",
+    "xws": "fhsoe26b",
+    "assetno": "746"
   },
   {
     "name": "fh-soe-27-f",
-    "points": 497,
+    "points": 542,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-27-f.png",
     "xws": "fhsoe27f",
@@ -3985,7 +4345,7 @@
   },
   {
     "name": "747",
-    "points": 498,
+    "points": 543,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-27-f.png",
     "xws": "fhsoe27f",
@@ -3993,15 +4353,23 @@
   },
   {
     "name": "fh-soe-27-b",
-    "points": 499,
+    "points": 544,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-27-b.png",
     "xws": "fhsoe27b",
-    "assetno": "###"
+    "assetno": "747"
+  },
+  {
+    "name": "747",
+    "points": 545,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-27-b.png",
+    "xws": "fhsoe27b",
+    "assetno": "747"
   },
   {
     "name": "fh-soe-28-f",
-    "points": 500,
+    "points": 546,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-28-f.png",
     "xws": "fhsoe28f",
@@ -4009,7 +4377,7 @@
   },
   {
     "name": "748",
-    "points": 501,
+    "points": 547,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-28-f.png",
     "xws": "fhsoe28f",
@@ -4017,15 +4385,23 @@
   },
   {
     "name": "fh-soe-28-b",
-    "points": 502,
+    "points": 548,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-28-b.png",
     "xws": "fhsoe28b",
-    "assetno": "###"
+    "assetno": "748"
+  },
+  {
+    "name": "748",
+    "points": 549,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-28-b.png",
+    "xws": "fhsoe28b",
+    "assetno": "748"
   },
   {
     "name": "fh-soe-29-f",
-    "points": 503,
+    "points": 550,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-29-f.png",
     "xws": "fhsoe29f",
@@ -4033,7 +4409,7 @@
   },
   {
     "name": "749",
-    "points": 504,
+    "points": 551,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-29-f.png",
     "xws": "fhsoe29f",
@@ -4041,15 +4417,23 @@
   },
   {
     "name": "fh-soe-29-b",
-    "points": 505,
+    "points": 552,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-29-b.png",
     "xws": "fhsoe29b",
-    "assetno": "###"
+    "assetno": "749"
+  },
+  {
+    "name": "749",
+    "points": 553,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-29-b.png",
+    "xws": "fhsoe29b",
+    "assetno": "749"
   },
   {
     "name": "fh-soe-30-f",
-    "points": 506,
+    "points": 554,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-30-f.png",
     "xws": "fhsoe30f",
@@ -4057,7 +4441,7 @@
   },
   {
     "name": "750",
-    "points": 507,
+    "points": 555,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-30-f.png",
     "xws": "fhsoe30f",
@@ -4065,15 +4449,23 @@
   },
   {
     "name": "fh-soe-30-b",
-    "points": 508,
+    "points": 556,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-30-b.png",
     "xws": "fhsoe30b",
-    "assetno": "###"
+    "assetno": "750"
+  },
+  {
+    "name": "750",
+    "points": 557,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-30-b.png",
+    "xws": "fhsoe30b",
+    "assetno": "750"
   },
   {
     "name": "fh-soe-31-f",
-    "points": 509,
+    "points": 558,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-31-f.png",
     "xws": "fhsoe31f",
@@ -4081,7 +4473,7 @@
   },
   {
     "name": "751",
-    "points": 510,
+    "points": 559,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-31-f.png",
     "xws": "fhsoe31f",
@@ -4089,15 +4481,23 @@
   },
   {
     "name": "fh-soe-31-b",
-    "points": 511,
+    "points": 560,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-31-b.png",
     "xws": "fhsoe31b",
-    "assetno": "###"
+    "assetno": "751"
+  },
+  {
+    "name": "751",
+    "points": 561,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-31-b.png",
+    "xws": "fhsoe31b",
+    "assetno": "751"
   },
   {
     "name": "fh-soe-32-f",
-    "points": 512,
+    "points": 562,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-32-f.png",
     "xws": "fhsoe32f",
@@ -4105,7 +4505,7 @@
   },
   {
     "name": "752",
-    "points": 513,
+    "points": 563,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-32-f.png",
     "xws": "fhsoe32f",
@@ -4113,15 +4513,23 @@
   },
   {
     "name": "fh-soe-32-b",
-    "points": 514,
+    "points": 564,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-32-b.png",
     "xws": "fhsoe32b",
-    "assetno": "###"
+    "assetno": "752"
+  },
+  {
+    "name": "752",
+    "points": 565,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-32-b.png",
+    "xws": "fhsoe32b",
+    "assetno": "752"
   },
   {
     "name": "fh-soe-33-f",
-    "points": 515,
+    "points": 566,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-33-f.png",
     "xws": "fhsoe33f",
@@ -4129,7 +4537,7 @@
   },
   {
     "name": "753",
-    "points": 516,
+    "points": 567,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-33-f.png",
     "xws": "fhsoe33f",
@@ -4137,15 +4545,23 @@
   },
   {
     "name": "fh-soe-33-b",
-    "points": 517,
+    "points": 568,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-33-b.png",
     "xws": "fhsoe33b",
-    "assetno": "###"
+    "assetno": "753"
+  },
+  {
+    "name": "753",
+    "points": 569,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-33-b.png",
+    "xws": "fhsoe33b",
+    "assetno": "753"
   },
   {
     "name": "fh-soe-34-f",
-    "points": 518,
+    "points": 570,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-34-f.png",
     "xws": "fhsoe34f",
@@ -4153,7 +4569,7 @@
   },
   {
     "name": "754",
-    "points": 519,
+    "points": 571,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-34-f.png",
     "xws": "fhsoe34f",
@@ -4161,15 +4577,23 @@
   },
   {
     "name": "fh-soe-34-b",
-    "points": 520,
+    "points": 572,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-34-b.png",
     "xws": "fhsoe34b",
-    "assetno": "###"
+    "assetno": "754"
+  },
+  {
+    "name": "754",
+    "points": 573,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-34-b.png",
+    "xws": "fhsoe34b",
+    "assetno": "754"
   },
   {
     "name": "fh-soe-35-f",
-    "points": 521,
+    "points": 574,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-35-f.png",
     "xws": "fhsoe35f",
@@ -4177,7 +4601,7 @@
   },
   {
     "name": "755",
-    "points": 522,
+    "points": 575,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-35-f.png",
     "xws": "fhsoe35f",
@@ -4185,15 +4609,23 @@
   },
   {
     "name": "fh-soe-35-b",
-    "points": 523,
+    "points": 576,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-35-b.png",
     "xws": "fhsoe35b",
-    "assetno": "###"
+    "assetno": "755"
+  },
+  {
+    "name": "755",
+    "points": 577,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-35-b.png",
+    "xws": "fhsoe35b",
+    "assetno": "755"
   },
   {
     "name": "fh-soe-36-f",
-    "points": 524,
+    "points": 578,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-36-f.png",
     "xws": "fhsoe36f",
@@ -4201,7 +4633,7 @@
   },
   {
     "name": "756",
-    "points": 525,
+    "points": 579,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-36-f.png",
     "xws": "fhsoe36f",
@@ -4209,15 +4641,23 @@
   },
   {
     "name": "fh-soe-36-b",
-    "points": 526,
+    "points": 580,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-36-b.png",
     "xws": "fhsoe36b",
-    "assetno": "###"
+    "assetno": "756"
+  },
+  {
+    "name": "756",
+    "points": 581,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-36-b.png",
+    "xws": "fhsoe36b",
+    "assetno": "756"
   },
   {
     "name": "fh-soe-37-f",
-    "points": 527,
+    "points": 582,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-37-f.png",
     "xws": "fhsoe37f",
@@ -4225,7 +4665,7 @@
   },
   {
     "name": "757",
-    "points": 528,
+    "points": 583,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-37-f.png",
     "xws": "fhsoe37f",
@@ -4233,15 +4673,23 @@
   },
   {
     "name": "fh-soe-37-b",
-    "points": 529,
+    "points": 584,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-37-b.png",
     "xws": "fhsoe37b",
-    "assetno": "###"
+    "assetno": "757"
+  },
+  {
+    "name": "757",
+    "points": 585,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-37-b.png",
+    "xws": "fhsoe37b",
+    "assetno": "757"
   },
   {
     "name": "fh-soe-38-f",
-    "points": 530,
+    "points": 586,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-38-f.png",
     "xws": "fhsoe38f",
@@ -4249,7 +4697,7 @@
   },
   {
     "name": "758",
-    "points": 531,
+    "points": 587,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-38-f.png",
     "xws": "fhsoe38f",
@@ -4257,15 +4705,23 @@
   },
   {
     "name": "fh-soe-38-b",
-    "points": 532,
+    "points": 588,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-38-b.png",
     "xws": "fhsoe38b",
-    "assetno": "###"
+    "assetno": "758"
+  },
+  {
+    "name": "758",
+    "points": 589,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-38-b.png",
+    "xws": "fhsoe38b",
+    "assetno": "758"
   },
   {
     "name": "fh-soe-39-f",
-    "points": 533,
+    "points": 590,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-39-f.png",
     "xws": "fhsoe39f",
@@ -4273,7 +4729,7 @@
   },
   {
     "name": "759",
-    "points": 534,
+    "points": 591,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-39-f.png",
     "xws": "fhsoe39f",
@@ -4281,15 +4737,23 @@
   },
   {
     "name": "fh-soe-39-b",
-    "points": 535,
+    "points": 592,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-39-b.png",
     "xws": "fhsoe39b",
-    "assetno": "###"
+    "assetno": "759"
+  },
+  {
+    "name": "759",
+    "points": 593,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-39-b.png",
+    "xws": "fhsoe39b",
+    "assetno": "759"
   },
   {
     "name": "fh-soe-40-f",
-    "points": 536,
+    "points": 594,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-40-f.png",
     "xws": "fhsoe40f",
@@ -4297,7 +4761,7 @@
   },
   {
     "name": "760",
-    "points": 537,
+    "points": 595,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-40-f.png",
     "xws": "fhsoe40f",
@@ -4305,15 +4769,23 @@
   },
   {
     "name": "fh-soe-40-b",
-    "points": 538,
+    "points": 596,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-40-b.png",
     "xws": "fhsoe40b",
-    "assetno": "###"
+    "assetno": "760"
+  },
+  {
+    "name": "760",
+    "points": 597,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-40-b.png",
+    "xws": "fhsoe40b",
+    "assetno": "760"
   },
   {
     "name": "fh-soe-41-f",
-    "points": 539,
+    "points": 598,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-41-f.png",
     "xws": "fhsoe41f",
@@ -4321,7 +4793,7 @@
   },
   {
     "name": "761",
-    "points": 540,
+    "points": 599,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-41-f.png",
     "xws": "fhsoe41f",
@@ -4329,15 +4801,23 @@
   },
   {
     "name": "fh-soe-41-b",
-    "points": 541,
+    "points": 600,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-41-b.png",
     "xws": "fhsoe41b",
-    "assetno": "###"
+    "assetno": "761"
+  },
+  {
+    "name": "761",
+    "points": 601,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-41-b.png",
+    "xws": "fhsoe41b",
+    "assetno": "761"
   },
   {
     "name": "fh-soe-42-f",
-    "points": 542,
+    "points": 602,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-42-f.png",
     "xws": "fhsoe42f",
@@ -4345,7 +4825,7 @@
   },
   {
     "name": "762",
-    "points": 543,
+    "points": 603,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-42-f.png",
     "xws": "fhsoe42f",
@@ -4353,15 +4833,23 @@
   },
   {
     "name": "fh-soe-42-b",
-    "points": 544,
+    "points": 604,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-42-b.png",
     "xws": "fhsoe42b",
-    "assetno": "###"
+    "assetno": "762"
+  },
+  {
+    "name": "762",
+    "points": 605,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-42-b.png",
+    "xws": "fhsoe42b",
+    "assetno": "762"
   },
   {
     "name": "fh-soe-43-f",
-    "points": 545,
+    "points": 606,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-43-f.png",
     "xws": "fhsoe43f",
@@ -4369,7 +4857,7 @@
   },
   {
     "name": "763",
-    "points": 546,
+    "points": 607,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-43-f.png",
     "xws": "fhsoe43f",
@@ -4377,15 +4865,23 @@
   },
   {
     "name": "fh-soe-43-b",
-    "points": 547,
+    "points": 608,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-43-b.png",
     "xws": "fhsoe43b",
-    "assetno": "###"
+    "assetno": "763"
+  },
+  {
+    "name": "763",
+    "points": 609,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-43-b.png",
+    "xws": "fhsoe43b",
+    "assetno": "763"
   },
   {
     "name": "fh-soe-44-f",
-    "points": 548,
+    "points": 610,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-44-f.png",
     "xws": "fhsoe44f",
@@ -4393,7 +4889,7 @@
   },
   {
     "name": "764",
-    "points": 549,
+    "points": 611,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-44-f.png",
     "xws": "fhsoe44f",
@@ -4401,15 +4897,23 @@
   },
   {
     "name": "fh-soe-44-b",
-    "points": 550,
+    "points": 612,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-44-b.png",
     "xws": "fhsoe44b",
-    "assetno": "###"
+    "assetno": "764"
+  },
+  {
+    "name": "764",
+    "points": 613,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-44-b.png",
+    "xws": "fhsoe44b",
+    "assetno": "764"
   },
   {
     "name": "fh-soe-45-f",
-    "points": 551,
+    "points": 614,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-45-f.png",
     "xws": "fhsoe45f",
@@ -4417,7 +4921,7 @@
   },
   {
     "name": "765",
-    "points": 552,
+    "points": 615,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-45-f.png",
     "xws": "fhsoe45f",
@@ -4425,15 +4929,23 @@
   },
   {
     "name": "fh-soe-45-b",
-    "points": 553,
+    "points": 616,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-45-b.png",
     "xws": "fhsoe45b",
-    "assetno": "###"
+    "assetno": "765"
+  },
+  {
+    "name": "765",
+    "points": 617,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-45-b.png",
+    "xws": "fhsoe45b",
+    "assetno": "765"
   },
   {
     "name": "fh-soe-46-f",
-    "points": 554,
+    "points": 618,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-46-f.png",
     "xws": "fhsoe46f",
@@ -4441,7 +4953,7 @@
   },
   {
     "name": "766",
-    "points": 555,
+    "points": 619,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-46-f.png",
     "xws": "fhsoe46f",
@@ -4449,15 +4961,23 @@
   },
   {
     "name": "fh-soe-46-b",
-    "points": 556,
+    "points": 620,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-46-b.png",
     "xws": "fhsoe46b",
-    "assetno": "###"
+    "assetno": "766"
+  },
+  {
+    "name": "766",
+    "points": 621,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-46-b.png",
+    "xws": "fhsoe46b",
+    "assetno": "766"
   },
   {
     "name": "fh-soe-47-f",
-    "points": 557,
+    "points": 622,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-47-f.png",
     "xws": "fhsoe47f",
@@ -4465,7 +4985,7 @@
   },
   {
     "name": "767",
-    "points": 558,
+    "points": 623,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-47-f.png",
     "xws": "fhsoe47f",
@@ -4473,15 +4993,23 @@
   },
   {
     "name": "fh-soe-47-b",
-    "points": 559,
+    "points": 624,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-47-b.png",
     "xws": "fhsoe47b",
-    "assetno": "###"
+    "assetno": "767"
+  },
+  {
+    "name": "767",
+    "points": 625,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-47-b.png",
+    "xws": "fhsoe47b",
+    "assetno": "767"
   },
   {
     "name": "fh-soe-48-f",
-    "points": 560,
+    "points": 626,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-48-f.png",
     "xws": "fhsoe48f",
@@ -4489,7 +5017,7 @@
   },
   {
     "name": "768",
-    "points": 561,
+    "points": 627,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-48-f.png",
     "xws": "fhsoe48f",
@@ -4497,15 +5025,23 @@
   },
   {
     "name": "fh-soe-48-b",
-    "points": 562,
+    "points": 628,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-48-b.png",
     "xws": "fhsoe48b",
-    "assetno": "###"
+    "assetno": "768"
+  },
+  {
+    "name": "768",
+    "points": 629,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-48-b.png",
+    "xws": "fhsoe48b",
+    "assetno": "768"
   },
   {
     "name": "fh-soe-49-f",
-    "points": 563,
+    "points": 630,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-49-f.png",
     "xws": "fhsoe49f",
@@ -4513,7 +5049,7 @@
   },
   {
     "name": "769",
-    "points": 564,
+    "points": 631,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-49-f.png",
     "xws": "fhsoe49f",
@@ -4521,15 +5057,23 @@
   },
   {
     "name": "fh-soe-49-b",
-    "points": 565,
+    "points": 632,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-49-b.png",
     "xws": "fhsoe49b",
-    "assetno": "###"
+    "assetno": "769"
+  },
+  {
+    "name": "769",
+    "points": 633,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-49-b.png",
+    "xws": "fhsoe49b",
+    "assetno": "769"
   },
   {
     "name": "fh-soe-50-f",
-    "points": 566,
+    "points": 634,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-50-f.png",
     "xws": "fhsoe50f",
@@ -4537,7 +5081,7 @@
   },
   {
     "name": "770",
-    "points": 567,
+    "points": 635,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-50-f.png",
     "xws": "fhsoe50f",
@@ -4545,15 +5089,23 @@
   },
   {
     "name": "fh-soe-50-b",
-    "points": 568,
+    "points": 636,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-50-b.png",
     "xws": "fhsoe50b",
-    "assetno": "###"
+    "assetno": "770"
+  },
+  {
+    "name": "770",
+    "points": 637,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-50-b.png",
+    "xws": "fhsoe50b",
+    "assetno": "770"
   },
   {
     "name": "fh-soe-51-f",
-    "points": 569,
+    "points": 638,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-51-f.png",
     "xws": "fhsoe51f",
@@ -4561,7 +5113,7 @@
   },
   {
     "name": "771",
-    "points": 570,
+    "points": 639,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-51-f.png",
     "xws": "fhsoe51f",
@@ -4569,15 +5121,23 @@
   },
   {
     "name": "fh-soe-51-b",
-    "points": 571,
+    "points": 640,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-51-b.png",
     "xws": "fhsoe51b",
-    "assetno": "###"
+    "assetno": "771"
+  },
+  {
+    "name": "771",
+    "points": 641,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-51-b.png",
+    "xws": "fhsoe51b",
+    "assetno": "771"
   },
   {
     "name": "fh-soe-52-f",
-    "points": 572,
+    "points": 642,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-52-f.png",
     "xws": "fhsoe52f",
@@ -4585,7 +5145,7 @@
   },
   {
     "name": "772",
-    "points": 573,
+    "points": 643,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-52-f.png",
     "xws": "fhsoe52f",
@@ -4593,15 +5153,23 @@
   },
   {
     "name": "fh-soe-52-b",
-    "points": 574,
+    "points": 644,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-52-b.png",
     "xws": "fhsoe52b",
-    "assetno": "###"
+    "assetno": "772"
+  },
+  {
+    "name": "772",
+    "points": 645,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-52-b.png",
+    "xws": "fhsoe52b",
+    "assetno": "772"
   },
   {
     "name": "fh-soe-53-f",
-    "points": 575,
+    "points": 646,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-53-f.png",
     "xws": "fhsoe53f",
@@ -4609,7 +5177,7 @@
   },
   {
     "name": "773",
-    "points": 576,
+    "points": 647,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-53-f.png",
     "xws": "fhsoe53f",
@@ -4617,15 +5185,23 @@
   },
   {
     "name": "fh-soe-53-b",
-    "points": 577,
+    "points": 648,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-53-b.png",
     "xws": "fhsoe53b",
-    "assetno": "###"
+    "assetno": "773"
+  },
+  {
+    "name": "773",
+    "points": 649,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-53-b.png",
+    "xws": "fhsoe53b",
+    "assetno": "773"
   },
   {
     "name": "fh-soe-54-f",
-    "points": 578,
+    "points": 650,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-54-f.png",
     "xws": "fhsoe54f",
@@ -4633,7 +5209,7 @@
   },
   {
     "name": "774",
-    "points": 579,
+    "points": 651,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-54-f.png",
     "xws": "fhsoe54f",
@@ -4641,15 +5217,23 @@
   },
   {
     "name": "fh-soe-54-b",
-    "points": 580,
+    "points": 652,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-54-b.png",
     "xws": "fhsoe54b",
-    "assetno": "###"
+    "assetno": "774"
+  },
+  {
+    "name": "774",
+    "points": 653,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-54-b.png",
+    "xws": "fhsoe54b",
+    "assetno": "774"
   },
   {
     "name": "fh-soe-55-f",
-    "points": 581,
+    "points": 654,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-55-f.png",
     "xws": "fhsoe55f",
@@ -4657,7 +5241,7 @@
   },
   {
     "name": "775",
-    "points": 582,
+    "points": 655,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-55-f.png",
     "xws": "fhsoe55f",
@@ -4665,15 +5249,23 @@
   },
   {
     "name": "fh-soe-55-b",
-    "points": 583,
+    "points": 656,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-55-b.png",
     "xws": "fhsoe55b",
-    "assetno": "###"
+    "assetno": "775"
+  },
+  {
+    "name": "775",
+    "points": 657,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-55-b.png",
+    "xws": "fhsoe55b",
+    "assetno": "775"
   },
   {
     "name": "fh-soe-56-f",
-    "points": 584,
+    "points": 658,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-56-f.png",
     "xws": "fhsoe56f",
@@ -4681,7 +5273,7 @@
   },
   {
     "name": "776",
-    "points": 585,
+    "points": 659,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-56-f.png",
     "xws": "fhsoe56f",
@@ -4689,15 +5281,23 @@
   },
   {
     "name": "fh-soe-56-b",
-    "points": 586,
+    "points": 660,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-56-b.png",
     "xws": "fhsoe56b",
-    "assetno": "###"
+    "assetno": "776"
+  },
+  {
+    "name": "776",
+    "points": 661,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-56-b.png",
+    "xws": "fhsoe56b",
+    "assetno": "776"
   },
   {
     "name": "fh-soe-57-f",
-    "points": 587,
+    "points": 662,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-57-f.png",
     "xws": "fhsoe57f",
@@ -4705,7 +5305,7 @@
   },
   {
     "name": "777",
-    "points": 588,
+    "points": 663,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-57-f.png",
     "xws": "fhsoe57f",
@@ -4713,15 +5313,23 @@
   },
   {
     "name": "fh-soe-57-b",
-    "points": 589,
+    "points": 664,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-57-b.png",
     "xws": "fhsoe57b",
-    "assetno": "###"
+    "assetno": "777"
+  },
+  {
+    "name": "777",
+    "points": 665,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-57-b.png",
+    "xws": "fhsoe57b",
+    "assetno": "777"
   },
   {
     "name": "fh-soe-58-f",
-    "points": 590,
+    "points": 666,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-58-f.png",
     "xws": "fhsoe58f",
@@ -4729,7 +5337,7 @@
   },
   {
     "name": "778",
-    "points": 591,
+    "points": 667,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-58-f.png",
     "xws": "fhsoe58f",
@@ -4737,15 +5345,23 @@
   },
   {
     "name": "fh-soe-58-b",
-    "points": 592,
+    "points": 668,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-58-b.png",
     "xws": "fhsoe58b",
-    "assetno": "###"
+    "assetno": "778"
+  },
+  {
+    "name": "778",
+    "points": 669,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-58-b.png",
+    "xws": "fhsoe58b",
+    "assetno": "778"
   },
   {
     "name": "fh-soe-59-f",
-    "points": 593,
+    "points": 670,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-59-f.png",
     "xws": "fhsoe59f",
@@ -4753,7 +5369,7 @@
   },
   {
     "name": "779",
-    "points": 594,
+    "points": 671,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-59-f.png",
     "xws": "fhsoe59f",
@@ -4761,15 +5377,23 @@
   },
   {
     "name": "fh-soe-59-b",
-    "points": 595,
+    "points": 672,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-59-b.png",
     "xws": "fhsoe59b",
-    "assetno": "###"
+    "assetno": "779"
+  },
+  {
+    "name": "779",
+    "points": 673,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-59-b.png",
+    "xws": "fhsoe59b",
+    "assetno": "779"
   },
   {
     "name": "fh-soe-60-f",
-    "points": 596,
+    "points": 674,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-60-f.png",
     "xws": "fhsoe60f",
@@ -4777,7 +5401,7 @@
   },
   {
     "name": "780",
-    "points": 597,
+    "points": 675,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-60-f.png",
     "xws": "fhsoe60f",
@@ -4785,15 +5409,23 @@
   },
   {
     "name": "fh-soe-60-b",
-    "points": 598,
+    "points": 676,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-60-b.png",
     "xws": "fhsoe60b",
-    "assetno": "###"
+    "assetno": "780"
+  },
+  {
+    "name": "780",
+    "points": 677,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-60-b.png",
+    "xws": "fhsoe60b",
+    "assetno": "780"
   },
   {
     "name": "fh-soe-61-f",
-    "points": 599,
+    "points": 678,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-61-f.png",
     "xws": "fhsoe61f",
@@ -4801,7 +5433,7 @@
   },
   {
     "name": "781",
-    "points": 600,
+    "points": 679,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-61-f.png",
     "xws": "fhsoe61f",
@@ -4809,15 +5441,23 @@
   },
   {
     "name": "fh-soe-61-b",
-    "points": 601,
+    "points": 680,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-61-b.png",
     "xws": "fhsoe61b",
-    "assetno": "###"
+    "assetno": "781"
+  },
+  {
+    "name": "781",
+    "points": 681,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-61-b.png",
+    "xws": "fhsoe61b",
+    "assetno": "781"
   },
   {
     "name": "fh-soe-62-f",
-    "points": 602,
+    "points": 682,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-62-f.png",
     "xws": "fhsoe62f",
@@ -4825,7 +5465,7 @@
   },
   {
     "name": "782",
-    "points": 603,
+    "points": 683,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-62-f.png",
     "xws": "fhsoe62f",
@@ -4833,15 +5473,23 @@
   },
   {
     "name": "fh-soe-62-b",
-    "points": 604,
+    "points": 684,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-62-b.png",
     "xws": "fhsoe62b",
-    "assetno": "###"
+    "assetno": "782"
+  },
+  {
+    "name": "782",
+    "points": 685,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-62-b.png",
+    "xws": "fhsoe62b",
+    "assetno": "782"
   },
   {
     "name": "fh-soe-63-f",
-    "points": 605,
+    "points": 686,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-63-f.png",
     "xws": "fhsoe63f",
@@ -4849,7 +5497,7 @@
   },
   {
     "name": "783",
-    "points": 606,
+    "points": 687,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-63-f.png",
     "xws": "fhsoe63f",
@@ -4857,15 +5505,23 @@
   },
   {
     "name": "fh-soe-63-b",
-    "points": 607,
+    "points": 688,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-63-b.png",
     "xws": "fhsoe63b",
-    "assetno": "###"
+    "assetno": "783"
+  },
+  {
+    "name": "783",
+    "points": 689,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-63-b.png",
+    "xws": "fhsoe63b",
+    "assetno": "783"
   },
   {
     "name": "fh-soe-64-f",
-    "points": 608,
+    "points": 690,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-64-f.png",
     "xws": "fhsoe64f",
@@ -4873,7 +5529,7 @@
   },
   {
     "name": "784",
-    "points": 609,
+    "points": 691,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-64-f.png",
     "xws": "fhsoe64f",
@@ -4881,15 +5537,23 @@
   },
   {
     "name": "fh-soe-64-b",
-    "points": 610,
+    "points": 692,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-64-b.png",
     "xws": "fhsoe64b",
-    "assetno": "###"
+    "assetno": "784"
+  },
+  {
+    "name": "784",
+    "points": 693,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-64-b.png",
+    "xws": "fhsoe64b",
+    "assetno": "784"
   },
   {
     "name": "fh-soe-65-f",
-    "points": 611,
+    "points": 694,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-65-f.png",
     "xws": "fhsoe65f",
@@ -4897,7 +5561,7 @@
   },
   {
     "name": "785",
-    "points": 612,
+    "points": 695,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-65-f.png",
     "xws": "fhsoe65f",
@@ -4905,15 +5569,23 @@
   },
   {
     "name": "fh-soe-65-b",
-    "points": 613,
+    "points": 696,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-soe-65-b.png",
     "xws": "fhsoe65b",
-    "assetno": "###"
+    "assetno": "785"
+  },
+  {
+    "name": "785",
+    "points": 697,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-soe-65-b.png",
+    "xws": "fhsoe65b",
+    "assetno": "785"
   },
   {
     "name": "fh-woe-01-f",
-    "points": 614,
+    "points": 698,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-01-f.png",
     "xws": "fhwoe01f",
@@ -4921,7 +5593,7 @@
   },
   {
     "name": "786",
-    "points": 615,
+    "points": 699,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-01-f.png",
     "xws": "fhwoe01f",
@@ -4929,15 +5601,23 @@
   },
   {
     "name": "fh-woe-01-b",
-    "points": 616,
+    "points": 700,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-01-b.png",
     "xws": "fhwoe01b",
-    "assetno": "###"
+    "assetno": "786"
+  },
+  {
+    "name": "786",
+    "points": 701,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-01-b.png",
+    "xws": "fhwoe01b",
+    "assetno": "786"
   },
   {
     "name": "fh-woe-02-f",
-    "points": 617,
+    "points": 702,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-02-f.png",
     "xws": "fhwoe02f",
@@ -4945,7 +5625,7 @@
   },
   {
     "name": "787",
-    "points": 618,
+    "points": 703,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-02-f.png",
     "xws": "fhwoe02f",
@@ -4953,15 +5633,23 @@
   },
   {
     "name": "fh-woe-02-b",
-    "points": 619,
+    "points": 704,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-02-b.png",
     "xws": "fhwoe02b",
-    "assetno": "###"
+    "assetno": "787"
+  },
+  {
+    "name": "787",
+    "points": 705,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-02-b.png",
+    "xws": "fhwoe02b",
+    "assetno": "787"
   },
   {
     "name": "fh-woe-03-f",
-    "points": 620,
+    "points": 706,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-03-f.png",
     "xws": "fhwoe03f",
@@ -4969,7 +5657,7 @@
   },
   {
     "name": "788",
-    "points": 621,
+    "points": 707,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-03-f.png",
     "xws": "fhwoe03f",
@@ -4977,15 +5665,23 @@
   },
   {
     "name": "fh-woe-03-b",
-    "points": 622,
+    "points": 708,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-03-b.png",
     "xws": "fhwoe03b",
-    "assetno": "###"
+    "assetno": "788"
+  },
+  {
+    "name": "788",
+    "points": 709,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-03-b.png",
+    "xws": "fhwoe03b",
+    "assetno": "788"
   },
   {
     "name": "fh-woe-04-f",
-    "points": 623,
+    "points": 710,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-04-f.png",
     "xws": "fhwoe04f",
@@ -4993,7 +5689,7 @@
   },
   {
     "name": "789",
-    "points": 624,
+    "points": 711,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-04-f.png",
     "xws": "fhwoe04f",
@@ -5001,15 +5697,23 @@
   },
   {
     "name": "fh-woe-04-b",
-    "points": 625,
+    "points": 712,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-04-b.png",
     "xws": "fhwoe04b",
-    "assetno": "###"
+    "assetno": "789"
+  },
+  {
+    "name": "789",
+    "points": 713,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-04-b.png",
+    "xws": "fhwoe04b",
+    "assetno": "789"
   },
   {
     "name": "fh-woe-05-f",
-    "points": 626,
+    "points": 714,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-05-f.png",
     "xws": "fhwoe05f",
@@ -5017,7 +5721,7 @@
   },
   {
     "name": "790",
-    "points": 627,
+    "points": 715,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-05-f.png",
     "xws": "fhwoe05f",
@@ -5025,15 +5729,23 @@
   },
   {
     "name": "fh-woe-05-b",
-    "points": 628,
+    "points": 716,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-05-b.png",
     "xws": "fhwoe05b",
-    "assetno": "###"
+    "assetno": "790"
+  },
+  {
+    "name": "790",
+    "points": 717,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-05-b.png",
+    "xws": "fhwoe05b",
+    "assetno": "790"
   },
   {
     "name": "fh-woe-06-f",
-    "points": 629,
+    "points": 718,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-06-f.png",
     "xws": "fhwoe06f",
@@ -5041,7 +5753,7 @@
   },
   {
     "name": "791",
-    "points": 630,
+    "points": 719,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-06-f.png",
     "xws": "fhwoe06f",
@@ -5049,15 +5761,23 @@
   },
   {
     "name": "fh-woe-06-b",
-    "points": 631,
+    "points": 720,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-06-b.png",
     "xws": "fhwoe06b",
-    "assetno": "###"
+    "assetno": "791"
+  },
+  {
+    "name": "791",
+    "points": 721,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-06-b.png",
+    "xws": "fhwoe06b",
+    "assetno": "791"
   },
   {
     "name": "fh-woe-07-f",
-    "points": 632,
+    "points": 722,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-07-f.png",
     "xws": "fhwoe07f",
@@ -5065,7 +5785,7 @@
   },
   {
     "name": "792",
-    "points": 633,
+    "points": 723,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-07-f.png",
     "xws": "fhwoe07f",
@@ -5073,15 +5793,23 @@
   },
   {
     "name": "fh-woe-07-b",
-    "points": 634,
+    "points": 724,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-07-b.png",
     "xws": "fhwoe07b",
-    "assetno": "###"
+    "assetno": "792"
+  },
+  {
+    "name": "792",
+    "points": 725,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-07-b.png",
+    "xws": "fhwoe07b",
+    "assetno": "792"
   },
   {
     "name": "fh-woe-08-f",
-    "points": 635,
+    "points": 726,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-08-f.png",
     "xws": "fhwoe08f",
@@ -5089,7 +5817,7 @@
   },
   {
     "name": "793",
-    "points": 636,
+    "points": 727,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-08-f.png",
     "xws": "fhwoe08f",
@@ -5097,15 +5825,23 @@
   },
   {
     "name": "fh-woe-08-b",
-    "points": 637,
+    "points": 728,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-08-b.png",
     "xws": "fhwoe08b",
-    "assetno": "###"
+    "assetno": "793"
+  },
+  {
+    "name": "793",
+    "points": 729,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-08-b.png",
+    "xws": "fhwoe08b",
+    "assetno": "793"
   },
   {
     "name": "fh-woe-09-f",
-    "points": 638,
+    "points": 730,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-09-f.png",
     "xws": "fhwoe09f",
@@ -5113,7 +5849,7 @@
   },
   {
     "name": "794",
-    "points": 639,
+    "points": 731,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-09-f.png",
     "xws": "fhwoe09f",
@@ -5121,15 +5857,23 @@
   },
   {
     "name": "fh-woe-09-b",
-    "points": 640,
+    "points": 732,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-09-b.png",
     "xws": "fhwoe09b",
-    "assetno": "###"
+    "assetno": "794"
+  },
+  {
+    "name": "794",
+    "points": 733,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-09-b.png",
+    "xws": "fhwoe09b",
+    "assetno": "794"
   },
   {
     "name": "fh-woe-10-f",
-    "points": 641,
+    "points": 734,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-10-f.png",
     "xws": "fhwoe10f",
@@ -5137,7 +5881,7 @@
   },
   {
     "name": "795",
-    "points": 642,
+    "points": 735,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-10-f.png",
     "xws": "fhwoe10f",
@@ -5145,15 +5889,23 @@
   },
   {
     "name": "fh-woe-10-b",
-    "points": 643,
+    "points": 736,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-10-b.png",
     "xws": "fhwoe10b",
-    "assetno": "###"
+    "assetno": "795"
+  },
+  {
+    "name": "795",
+    "points": 737,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-10-b.png",
+    "xws": "fhwoe10b",
+    "assetno": "795"
   },
   {
     "name": "fh-woe-11-f",
-    "points": 644,
+    "points": 738,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-11-f.png",
     "xws": "fhwoe11f",
@@ -5161,7 +5913,7 @@
   },
   {
     "name": "796",
-    "points": 645,
+    "points": 739,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-11-f.png",
     "xws": "fhwoe11f",
@@ -5169,15 +5921,23 @@
   },
   {
     "name": "fh-woe-11-b",
-    "points": 646,
+    "points": 740,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-11-b.png",
     "xws": "fhwoe11b",
-    "assetno": "###"
+    "assetno": "796"
+  },
+  {
+    "name": "796",
+    "points": 741,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-11-b.png",
+    "xws": "fhwoe11b",
+    "assetno": "796"
   },
   {
     "name": "fh-woe-12-f",
-    "points": 647,
+    "points": 742,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-12-f.png",
     "xws": "fhwoe12f",
@@ -5185,7 +5945,7 @@
   },
   {
     "name": "797",
-    "points": 648,
+    "points": 743,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-12-f.png",
     "xws": "fhwoe12f",
@@ -5193,15 +5953,23 @@
   },
   {
     "name": "fh-woe-12-b",
-    "points": 649,
+    "points": 744,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-12-b.png",
     "xws": "fhwoe12b",
-    "assetno": "###"
+    "assetno": "797"
+  },
+  {
+    "name": "797",
+    "points": 745,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-12-b.png",
+    "xws": "fhwoe12b",
+    "assetno": "797"
   },
   {
     "name": "fh-woe-13-f",
-    "points": 650,
+    "points": 746,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-13-f.png",
     "xws": "fhwoe13f",
@@ -5209,7 +5977,7 @@
   },
   {
     "name": "798",
-    "points": 651,
+    "points": 747,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-13-f.png",
     "xws": "fhwoe13f",
@@ -5217,15 +5985,23 @@
   },
   {
     "name": "fh-woe-13-b",
-    "points": 652,
+    "points": 748,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-13-b.png",
     "xws": "fhwoe13b",
-    "assetno": "###"
+    "assetno": "798"
+  },
+  {
+    "name": "798",
+    "points": 749,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-13-b.png",
+    "xws": "fhwoe13b",
+    "assetno": "798"
   },
   {
     "name": "fh-woe-14-f",
-    "points": 653,
+    "points": 750,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-14-f.png",
     "xws": "fhwoe14f",
@@ -5233,7 +6009,7 @@
   },
   {
     "name": "799",
-    "points": 654,
+    "points": 751,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-14-f.png",
     "xws": "fhwoe14f",
@@ -5241,15 +6017,23 @@
   },
   {
     "name": "fh-woe-14-b",
-    "points": 655,
+    "points": 752,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-14-b.png",
     "xws": "fhwoe14b",
-    "assetno": "###"
+    "assetno": "799"
+  },
+  {
+    "name": "799",
+    "points": 753,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-14-b.png",
+    "xws": "fhwoe14b",
+    "assetno": "799"
   },
   {
     "name": "fh-woe-15-f",
-    "points": 656,
+    "points": 754,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-15-f.png",
     "xws": "fhwoe15f",
@@ -5257,7 +6041,7 @@
   },
   {
     "name": "800",
-    "points": 657,
+    "points": 755,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-15-f.png",
     "xws": "fhwoe15f",
@@ -5265,15 +6049,23 @@
   },
   {
     "name": "fh-woe-15-b",
-    "points": 658,
+    "points": 756,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-15-b.png",
     "xws": "fhwoe15b",
-    "assetno": "###"
+    "assetno": "800"
+  },
+  {
+    "name": "800",
+    "points": 757,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-15-b.png",
+    "xws": "fhwoe15b",
+    "assetno": "800"
   },
   {
     "name": "fh-woe-16-f",
-    "points": 659,
+    "points": 758,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-16-f.png",
     "xws": "fhwoe16f",
@@ -5281,7 +6073,7 @@
   },
   {
     "name": "801",
-    "points": 660,
+    "points": 759,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-16-f.png",
     "xws": "fhwoe16f",
@@ -5289,15 +6081,23 @@
   },
   {
     "name": "fh-woe-16-b",
-    "points": 661,
+    "points": 760,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-16-b.png",
     "xws": "fhwoe16b",
-    "assetno": "###"
+    "assetno": "801"
+  },
+  {
+    "name": "801",
+    "points": 761,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-16-b.png",
+    "xws": "fhwoe16b",
+    "assetno": "801"
   },
   {
     "name": "fh-woe-17-f",
-    "points": 662,
+    "points": 762,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-17-f.png",
     "xws": "fhwoe17f",
@@ -5305,7 +6105,7 @@
   },
   {
     "name": "802",
-    "points": 663,
+    "points": 763,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-17-f.png",
     "xws": "fhwoe17f",
@@ -5313,15 +6113,23 @@
   },
   {
     "name": "fh-woe-17-b",
-    "points": 664,
+    "points": 764,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-17-b.png",
     "xws": "fhwoe17b",
-    "assetno": "###"
+    "assetno": "802"
+  },
+  {
+    "name": "802",
+    "points": 765,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-17-b.png",
+    "xws": "fhwoe17b",
+    "assetno": "802"
   },
   {
     "name": "fh-woe-18-f",
-    "points": 665,
+    "points": 766,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-18-f.png",
     "xws": "fhwoe18f",
@@ -5329,7 +6137,7 @@
   },
   {
     "name": "803",
-    "points": 666,
+    "points": 767,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-18-f.png",
     "xws": "fhwoe18f",
@@ -5337,15 +6145,23 @@
   },
   {
     "name": "fh-woe-18-b",
-    "points": 667,
+    "points": 768,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-18-b.png",
     "xws": "fhwoe18b",
-    "assetno": "###"
+    "assetno": "803"
+  },
+  {
+    "name": "803",
+    "points": 769,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-18-b.png",
+    "xws": "fhwoe18b",
+    "assetno": "803"
   },
   {
     "name": "fh-woe-19-f",
-    "points": 668,
+    "points": 770,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-19-f.png",
     "xws": "fhwoe19f",
@@ -5353,7 +6169,7 @@
   },
   {
     "name": "804",
-    "points": 669,
+    "points": 771,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-19-f.png",
     "xws": "fhwoe19f",
@@ -5361,15 +6177,23 @@
   },
   {
     "name": "fh-woe-19-b",
-    "points": 670,
+    "points": 772,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-19-b.png",
     "xws": "fhwoe19b",
-    "assetno": "###"
+    "assetno": "804"
+  },
+  {
+    "name": "804",
+    "points": 773,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-19-b.png",
+    "xws": "fhwoe19b",
+    "assetno": "804"
   },
   {
     "name": "fh-woe-20-f",
-    "points": 671,
+    "points": 774,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-20-f.png",
     "xws": "fhwoe20f",
@@ -5377,7 +6201,7 @@
   },
   {
     "name": "805",
-    "points": 672,
+    "points": 775,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-20-f.png",
     "xws": "fhwoe20f",
@@ -5385,15 +6209,23 @@
   },
   {
     "name": "fh-woe-20-b",
-    "points": 673,
+    "points": 776,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-20-b.png",
     "xws": "fhwoe20b",
-    "assetno": "###"
+    "assetno": "805"
+  },
+  {
+    "name": "805",
+    "points": 777,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-20-b.png",
+    "xws": "fhwoe20b",
+    "assetno": "805"
   },
   {
     "name": "fh-woe-21-f",
-    "points": 674,
+    "points": 778,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-21-f.png",
     "xws": "fhwoe21f",
@@ -5401,7 +6233,7 @@
   },
   {
     "name": "806",
-    "points": 675,
+    "points": 779,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-21-f.png",
     "xws": "fhwoe21f",
@@ -5409,15 +6241,23 @@
   },
   {
     "name": "fh-woe-21-b",
-    "points": 676,
+    "points": 780,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-21-b.png",
     "xws": "fhwoe21b",
-    "assetno": "###"
+    "assetno": "806"
+  },
+  {
+    "name": "806",
+    "points": 781,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-21-b.png",
+    "xws": "fhwoe21b",
+    "assetno": "806"
   },
   {
     "name": "fh-woe-22-f",
-    "points": 677,
+    "points": 782,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-22-f.png",
     "xws": "fhwoe22f",
@@ -5425,7 +6265,7 @@
   },
   {
     "name": "807",
-    "points": 678,
+    "points": 783,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-22-f.png",
     "xws": "fhwoe22f",
@@ -5433,15 +6273,23 @@
   },
   {
     "name": "fh-woe-22-b",
-    "points": 679,
+    "points": 784,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-22-b.png",
     "xws": "fhwoe22b",
-    "assetno": "###"
+    "assetno": "807"
+  },
+  {
+    "name": "807",
+    "points": 785,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-22-b.png",
+    "xws": "fhwoe22b",
+    "assetno": "807"
   },
   {
     "name": "fh-woe-23-f",
-    "points": 680,
+    "points": 786,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-23-f.png",
     "xws": "fhwoe23f",
@@ -5449,7 +6297,7 @@
   },
   {
     "name": "808",
-    "points": 681,
+    "points": 787,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-23-f.png",
     "xws": "fhwoe23f",
@@ -5457,15 +6305,23 @@
   },
   {
     "name": "fh-woe-23-b",
-    "points": 682,
+    "points": 788,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-23-b.png",
     "xws": "fhwoe23b",
-    "assetno": "###"
+    "assetno": "808"
+  },
+  {
+    "name": "808",
+    "points": 789,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-23-b.png",
+    "xws": "fhwoe23b",
+    "assetno": "808"
   },
   {
     "name": "fh-woe-24-f",
-    "points": 683,
+    "points": 790,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-24-f.png",
     "xws": "fhwoe24f",
@@ -5473,7 +6329,7 @@
   },
   {
     "name": "809",
-    "points": 684,
+    "points": 791,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-24-f.png",
     "xws": "fhwoe24f",
@@ -5481,15 +6337,23 @@
   },
   {
     "name": "fh-woe-24-b",
-    "points": 685,
+    "points": 792,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-24-b.png",
     "xws": "fhwoe24b",
-    "assetno": "###"
+    "assetno": "809"
+  },
+  {
+    "name": "809",
+    "points": 793,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-24-b.png",
+    "xws": "fhwoe24b",
+    "assetno": "809"
   },
   {
     "name": "fh-woe-25-f",
-    "points": 686,
+    "points": 794,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-25-f.png",
     "xws": "fhwoe25f",
@@ -5497,7 +6361,7 @@
   },
   {
     "name": "810",
-    "points": 687,
+    "points": 795,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-25-f.png",
     "xws": "fhwoe25f",
@@ -5505,15 +6369,23 @@
   },
   {
     "name": "fh-woe-25-b",
-    "points": 688,
+    "points": 796,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-25-b.png",
     "xws": "fhwoe25b",
-    "assetno": "###"
+    "assetno": "810"
+  },
+  {
+    "name": "810",
+    "points": 797,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-25-b.png",
+    "xws": "fhwoe25b",
+    "assetno": "810"
   },
   {
     "name": "fh-woe-26-f",
-    "points": 689,
+    "points": 798,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-26-f.png",
     "xws": "fhwoe26f",
@@ -5521,7 +6393,7 @@
   },
   {
     "name": "811",
-    "points": 690,
+    "points": 799,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-26-f.png",
     "xws": "fhwoe26f",
@@ -5529,15 +6401,23 @@
   },
   {
     "name": "fh-woe-26-b",
-    "points": 691,
+    "points": 800,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-26-b.png",
     "xws": "fhwoe26b",
-    "assetno": "###"
+    "assetno": "811"
+  },
+  {
+    "name": "811",
+    "points": 801,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-26-b.png",
+    "xws": "fhwoe26b",
+    "assetno": "811"
   },
   {
     "name": "fh-woe-27-f",
-    "points": 692,
+    "points": 802,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-27-f.png",
     "xws": "fhwoe27f",
@@ -5545,7 +6425,7 @@
   },
   {
     "name": "812",
-    "points": 693,
+    "points": 803,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-27-f.png",
     "xws": "fhwoe27f",
@@ -5553,15 +6433,23 @@
   },
   {
     "name": "fh-woe-27-b",
-    "points": 694,
+    "points": 804,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-27-b.png",
     "xws": "fhwoe27b",
-    "assetno": "###"
+    "assetno": "812"
+  },
+  {
+    "name": "812",
+    "points": 805,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-27-b.png",
+    "xws": "fhwoe27b",
+    "assetno": "812"
   },
   {
     "name": "fh-woe-28-f",
-    "points": 695,
+    "points": 806,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-28-f.png",
     "xws": "fhwoe28f",
@@ -5569,7 +6457,7 @@
   },
   {
     "name": "813",
-    "points": 696,
+    "points": 807,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-28-f.png",
     "xws": "fhwoe28f",
@@ -5577,15 +6465,23 @@
   },
   {
     "name": "fh-woe-28-b",
-    "points": 697,
+    "points": 808,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-28-b.png",
     "xws": "fhwoe28b",
-    "assetno": "###"
+    "assetno": "813"
+  },
+  {
+    "name": "813",
+    "points": 809,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-28-b.png",
+    "xws": "fhwoe28b",
+    "assetno": "813"
   },
   {
     "name": "fh-woe-29-f",
-    "points": 698,
+    "points": 810,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-29-f.png",
     "xws": "fhwoe29f",
@@ -5593,7 +6489,7 @@
   },
   {
     "name": "814",
-    "points": 699,
+    "points": 811,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-29-f.png",
     "xws": "fhwoe29f",
@@ -5601,15 +6497,23 @@
   },
   {
     "name": "fh-woe-29-b",
-    "points": 700,
+    "points": 812,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-29-b.png",
     "xws": "fhwoe29b",
-    "assetno": "###"
+    "assetno": "814"
+  },
+  {
+    "name": "814",
+    "points": 813,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-29-b.png",
+    "xws": "fhwoe29b",
+    "assetno": "814"
   },
   {
     "name": "fh-woe-30-f",
-    "points": 701,
+    "points": 814,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-30-f.png",
     "xws": "fhwoe30f",
@@ -5617,7 +6521,7 @@
   },
   {
     "name": "815",
-    "points": 702,
+    "points": 815,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-30-f.png",
     "xws": "fhwoe30f",
@@ -5625,15 +6529,23 @@
   },
   {
     "name": "fh-woe-30-b",
-    "points": 703,
+    "points": 816,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-30-b.png",
     "xws": "fhwoe30b",
-    "assetno": "###"
+    "assetno": "815"
+  },
+  {
+    "name": "815",
+    "points": 817,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-30-b.png",
+    "xws": "fhwoe30b",
+    "assetno": "815"
   },
   {
     "name": "fh-woe-31-f",
-    "points": 704,
+    "points": 818,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-31-f.png",
     "xws": "fhwoe31f",
@@ -5641,7 +6553,7 @@
   },
   {
     "name": "816",
-    "points": 705,
+    "points": 819,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-31-f.png",
     "xws": "fhwoe31f",
@@ -5649,15 +6561,23 @@
   },
   {
     "name": "fh-woe-31-b",
-    "points": 706,
+    "points": 820,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-31-b.png",
     "xws": "fhwoe31b",
-    "assetno": "###"
+    "assetno": "816"
+  },
+  {
+    "name": "816",
+    "points": 821,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-31-b.png",
+    "xws": "fhwoe31b",
+    "assetno": "816"
   },
   {
     "name": "fh-woe-32-f",
-    "points": 707,
+    "points": 822,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-32-f.png",
     "xws": "fhwoe32f",
@@ -5665,7 +6585,7 @@
   },
   {
     "name": "817",
-    "points": 708,
+    "points": 823,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-32-f.png",
     "xws": "fhwoe32f",
@@ -5673,15 +6593,23 @@
   },
   {
     "name": "fh-woe-32-b",
-    "points": 709,
+    "points": 824,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-32-b.png",
     "xws": "fhwoe32b",
-    "assetno": "###"
+    "assetno": "817"
+  },
+  {
+    "name": "817",
+    "points": 825,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-32-b.png",
+    "xws": "fhwoe32b",
+    "assetno": "817"
   },
   {
     "name": "fh-woe-33-f",
-    "points": 710,
+    "points": 826,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-33-f.png",
     "xws": "fhwoe33f",
@@ -5689,7 +6617,7 @@
   },
   {
     "name": "818",
-    "points": 711,
+    "points": 827,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-33-f.png",
     "xws": "fhwoe33f",
@@ -5697,15 +6625,23 @@
   },
   {
     "name": "fh-woe-33-b",
-    "points": 712,
+    "points": 828,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-33-b.png",
     "xws": "fhwoe33b",
-    "assetno": "###"
+    "assetno": "818"
+  },
+  {
+    "name": "818",
+    "points": 829,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-33-b.png",
+    "xws": "fhwoe33b",
+    "assetno": "818"
   },
   {
     "name": "fh-woe-34-f",
-    "points": 713,
+    "points": 830,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-34-f.png",
     "xws": "fhwoe34f",
@@ -5713,7 +6649,7 @@
   },
   {
     "name": "819",
-    "points": 714,
+    "points": 831,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-34-f.png",
     "xws": "fhwoe34f",
@@ -5721,15 +6657,23 @@
   },
   {
     "name": "fh-woe-34-b",
-    "points": 715,
+    "points": 832,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-34-b.png",
     "xws": "fhwoe34b",
-    "assetno": "###"
+    "assetno": "819"
+  },
+  {
+    "name": "819",
+    "points": 833,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-34-b.png",
+    "xws": "fhwoe34b",
+    "assetno": "819"
   },
   {
     "name": "fh-woe-35-f",
-    "points": 716,
+    "points": 834,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-35-f.png",
     "xws": "fhwoe35f",
@@ -5737,7 +6681,7 @@
   },
   {
     "name": "820",
-    "points": 717,
+    "points": 835,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-35-f.png",
     "xws": "fhwoe35f",
@@ -5745,15 +6689,23 @@
   },
   {
     "name": "fh-woe-35-b",
-    "points": 718,
+    "points": 836,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-35-b.png",
     "xws": "fhwoe35b",
-    "assetno": "###"
+    "assetno": "820"
+  },
+  {
+    "name": "820",
+    "points": 837,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-35-b.png",
+    "xws": "fhwoe35b",
+    "assetno": "820"
   },
   {
     "name": "fh-woe-36-f",
-    "points": 719,
+    "points": 838,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-36-f.png",
     "xws": "fhwoe36f",
@@ -5761,7 +6713,7 @@
   },
   {
     "name": "821",
-    "points": 720,
+    "points": 839,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-36-f.png",
     "xws": "fhwoe36f",
@@ -5769,15 +6721,23 @@
   },
   {
     "name": "fh-woe-36-b",
-    "points": 721,
+    "points": 840,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-36-b.png",
     "xws": "fhwoe36b",
-    "assetno": "###"
+    "assetno": "821"
+  },
+  {
+    "name": "821",
+    "points": 841,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-36-b.png",
+    "xws": "fhwoe36b",
+    "assetno": "821"
   },
   {
     "name": "fh-woe-37-f",
-    "points": 722,
+    "points": 842,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-37-f.png",
     "xws": "fhwoe37f",
@@ -5785,7 +6745,7 @@
   },
   {
     "name": "822",
-    "points": 723,
+    "points": 843,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-37-f.png",
     "xws": "fhwoe37f",
@@ -5793,15 +6753,23 @@
   },
   {
     "name": "fh-woe-37-b",
-    "points": 724,
+    "points": 844,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-37-b.png",
     "xws": "fhwoe37b",
-    "assetno": "###"
+    "assetno": "822"
+  },
+  {
+    "name": "822",
+    "points": 845,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-37-b.png",
+    "xws": "fhwoe37b",
+    "assetno": "822"
   },
   {
     "name": "fh-woe-38-f",
-    "points": 725,
+    "points": 846,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-38-f.png",
     "xws": "fhwoe38f",
@@ -5809,7 +6777,7 @@
   },
   {
     "name": "823",
-    "points": 726,
+    "points": 847,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-38-f.png",
     "xws": "fhwoe38f",
@@ -5817,15 +6785,23 @@
   },
   {
     "name": "fh-woe-38-b",
-    "points": 727,
+    "points": 848,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-38-b.png",
     "xws": "fhwoe38b",
-    "assetno": "###"
+    "assetno": "823"
+  },
+  {
+    "name": "823",
+    "points": 849,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-38-b.png",
+    "xws": "fhwoe38b",
+    "assetno": "823"
   },
   {
     "name": "fh-woe-39-f",
-    "points": 728,
+    "points": 850,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-39-f.png",
     "xws": "fhwoe39f",
@@ -5833,7 +6809,7 @@
   },
   {
     "name": "824",
-    "points": 729,
+    "points": 851,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-39-f.png",
     "xws": "fhwoe39f",
@@ -5841,15 +6817,23 @@
   },
   {
     "name": "fh-woe-39-b",
-    "points": 730,
+    "points": 852,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-39-b.png",
     "xws": "fhwoe39b",
-    "assetno": "###"
+    "assetno": "824"
+  },
+  {
+    "name": "824",
+    "points": 853,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-39-b.png",
+    "xws": "fhwoe39b",
+    "assetno": "824"
   },
   {
     "name": "fh-woe-40-f",
-    "points": 731,
+    "points": 854,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-40-f.png",
     "xws": "fhwoe40f",
@@ -5857,7 +6841,7 @@
   },
   {
     "name": "825",
-    "points": 732,
+    "points": 855,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-40-f.png",
     "xws": "fhwoe40f",
@@ -5865,15 +6849,23 @@
   },
   {
     "name": "fh-woe-40-b",
-    "points": 733,
+    "points": 856,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-40-b.png",
     "xws": "fhwoe40b",
-    "assetno": "###"
+    "assetno": "825"
+  },
+  {
+    "name": "825",
+    "points": 857,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-40-b.png",
+    "xws": "fhwoe40b",
+    "assetno": "825"
   },
   {
     "name": "fh-woe-41-f",
-    "points": 734,
+    "points": 858,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-41-f.png",
     "xws": "fhwoe41f",
@@ -5881,7 +6873,7 @@
   },
   {
     "name": "826",
-    "points": 735,
+    "points": 859,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-41-f.png",
     "xws": "fhwoe41f",
@@ -5889,15 +6881,23 @@
   },
   {
     "name": "fh-woe-41-b",
-    "points": 736,
+    "points": 860,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-41-b.png",
     "xws": "fhwoe41b",
-    "assetno": "###"
+    "assetno": "826"
+  },
+  {
+    "name": "826",
+    "points": 861,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-41-b.png",
+    "xws": "fhwoe41b",
+    "assetno": "826"
   },
   {
     "name": "fh-woe-42-f",
-    "points": 737,
+    "points": 862,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-42-f.png",
     "xws": "fhwoe42f",
@@ -5905,7 +6905,7 @@
   },
   {
     "name": "827",
-    "points": 738,
+    "points": 863,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-42-f.png",
     "xws": "fhwoe42f",
@@ -5913,15 +6913,23 @@
   },
   {
     "name": "fh-woe-42-b",
-    "points": 739,
+    "points": 864,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-42-b.png",
     "xws": "fhwoe42b",
-    "assetno": "###"
+    "assetno": "827"
+  },
+  {
+    "name": "827",
+    "points": 865,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-42-b.png",
+    "xws": "fhwoe42b",
+    "assetno": "827"
   },
   {
     "name": "fh-woe-43-f",
-    "points": 740,
+    "points": 866,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-43-f.png",
     "xws": "fhwoe43f",
@@ -5929,7 +6937,7 @@
   },
   {
     "name": "828",
-    "points": 741,
+    "points": 867,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-43-f.png",
     "xws": "fhwoe43f",
@@ -5937,15 +6945,23 @@
   },
   {
     "name": "fh-woe-43-b",
-    "points": 742,
+    "points": 868,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-43-b.png",
     "xws": "fhwoe43b",
-    "assetno": "###"
+    "assetno": "828"
+  },
+  {
+    "name": "828",
+    "points": 869,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-43-b.png",
+    "xws": "fhwoe43b",
+    "assetno": "828"
   },
   {
     "name": "fh-woe-44-f",
-    "points": 743,
+    "points": 870,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-44-f.png",
     "xws": "fhwoe44f",
@@ -5953,7 +6969,7 @@
   },
   {
     "name": "829",
-    "points": 744,
+    "points": 871,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-44-f.png",
     "xws": "fhwoe44f",
@@ -5961,15 +6977,23 @@
   },
   {
     "name": "fh-woe-44-b",
-    "points": 745,
+    "points": 872,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-44-b.png",
     "xws": "fhwoe44b",
-    "assetno": "###"
+    "assetno": "829"
+  },
+  {
+    "name": "829",
+    "points": 873,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-44-b.png",
+    "xws": "fhwoe44b",
+    "assetno": "829"
   },
   {
     "name": "fh-woe-45-f",
-    "points": 746,
+    "points": 874,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-45-f.png",
     "xws": "fhwoe45f",
@@ -5977,7 +7001,7 @@
   },
   {
     "name": "830",
-    "points": 747,
+    "points": 875,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-45-f.png",
     "xws": "fhwoe45f",
@@ -5985,15 +7009,23 @@
   },
   {
     "name": "fh-woe-45-b",
-    "points": 748,
+    "points": 876,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-45-b.png",
     "xws": "fhwoe45b",
-    "assetno": "###"
+    "assetno": "830"
+  },
+  {
+    "name": "830",
+    "points": 877,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-45-b.png",
+    "xws": "fhwoe45b",
+    "assetno": "830"
   },
   {
     "name": "fh-woe-46-f",
-    "points": 749,
+    "points": 878,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-46-f.png",
     "xws": "fhwoe46f",
@@ -6001,7 +7033,7 @@
   },
   {
     "name": "831",
-    "points": 750,
+    "points": 879,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-46-f.png",
     "xws": "fhwoe46f",
@@ -6009,15 +7041,23 @@
   },
   {
     "name": "fh-woe-46-b",
-    "points": 751,
+    "points": 880,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-46-b.png",
     "xws": "fhwoe46b",
-    "assetno": "###"
+    "assetno": "831"
+  },
+  {
+    "name": "831",
+    "points": 881,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-46-b.png",
+    "xws": "fhwoe46b",
+    "assetno": "831"
   },
   {
     "name": "fh-woe-47-f",
-    "points": 752,
+    "points": 882,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-47-f.png",
     "xws": "fhwoe47f",
@@ -6025,7 +7065,7 @@
   },
   {
     "name": "832",
-    "points": 753,
+    "points": 883,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-47-f.png",
     "xws": "fhwoe47f",
@@ -6033,15 +7073,23 @@
   },
   {
     "name": "fh-woe-47-b",
-    "points": 754,
+    "points": 884,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-47-b.png",
     "xws": "fhwoe47b",
-    "assetno": "###"
+    "assetno": "832"
+  },
+  {
+    "name": "832",
+    "points": 885,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-47-b.png",
+    "xws": "fhwoe47b",
+    "assetno": "832"
   },
   {
     "name": "fh-woe-48-f",
-    "points": 755,
+    "points": 886,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-48-f.png",
     "xws": "fhwoe48f",
@@ -6049,7 +7097,7 @@
   },
   {
     "name": "833",
-    "points": 756,
+    "points": 887,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-48-f.png",
     "xws": "fhwoe48f",
@@ -6057,15 +7105,23 @@
   },
   {
     "name": "fh-woe-48-b",
-    "points": 757,
+    "points": 888,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-48-b.png",
     "xws": "fhwoe48b",
-    "assetno": "###"
+    "assetno": "833"
+  },
+  {
+    "name": "833",
+    "points": 889,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-48-b.png",
+    "xws": "fhwoe48b",
+    "assetno": "833"
   },
   {
     "name": "fh-woe-49-f",
-    "points": 758,
+    "points": 890,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-49-f.png",
     "xws": "fhwoe49f",
@@ -6073,7 +7129,7 @@
   },
   {
     "name": "834",
-    "points": 759,
+    "points": 891,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-49-f.png",
     "xws": "fhwoe49f",
@@ -6081,15 +7137,23 @@
   },
   {
     "name": "fh-woe-49-b",
-    "points": 760,
+    "points": 892,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-49-b.png",
     "xws": "fhwoe49b",
-    "assetno": "###"
+    "assetno": "834"
+  },
+  {
+    "name": "834",
+    "points": 893,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-49-b.png",
+    "xws": "fhwoe49b",
+    "assetno": "834"
   },
   {
     "name": "fh-woe-50-f",
-    "points": 761,
+    "points": 894,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-50-f.png",
     "xws": "fhwoe50f",
@@ -6097,7 +7161,7 @@
   },
   {
     "name": "835",
-    "points": 762,
+    "points": 895,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-50-f.png",
     "xws": "fhwoe50f",
@@ -6105,15 +7169,23 @@
   },
   {
     "name": "fh-woe-50-b",
-    "points": 763,
+    "points": 896,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-50-b.png",
     "xws": "fhwoe50b",
-    "assetno": "###"
+    "assetno": "835"
+  },
+  {
+    "name": "835",
+    "points": 897,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-50-b.png",
+    "xws": "fhwoe50b",
+    "assetno": "835"
   },
   {
     "name": "fh-woe-51-f",
-    "points": 764,
+    "points": 898,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-51-f.png",
     "xws": "fhwoe51f",
@@ -6121,7 +7193,7 @@
   },
   {
     "name": "836",
-    "points": 765,
+    "points": 899,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-51-f.png",
     "xws": "fhwoe51f",
@@ -6129,15 +7201,23 @@
   },
   {
     "name": "fh-woe-51-b",
-    "points": 766,
+    "points": 900,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-51-b.png",
     "xws": "fhwoe51b",
-    "assetno": "###"
+    "assetno": "836"
+  },
+  {
+    "name": "836",
+    "points": 901,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-51-b.png",
+    "xws": "fhwoe51b",
+    "assetno": "836"
   },
   {
     "name": "fh-woe-52-f",
-    "points": 767,
+    "points": 902,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-52-f.png",
     "xws": "fhwoe52f",
@@ -6145,7 +7225,7 @@
   },
   {
     "name": "837",
-    "points": 768,
+    "points": 903,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-52-f.png",
     "xws": "fhwoe52f",
@@ -6153,15 +7233,23 @@
   },
   {
     "name": "fh-woe-52-b",
-    "points": 769,
+    "points": 904,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-52-b.png",
     "xws": "fhwoe52b",
-    "assetno": "###"
+    "assetno": "837"
+  },
+  {
+    "name": "837",
+    "points": 905,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-52-b.png",
+    "xws": "fhwoe52b",
+    "assetno": "837"
   },
   {
     "name": "fh-woe-53-f",
-    "points": 770,
+    "points": 906,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-53-f.png",
     "xws": "fhwoe53f",
@@ -6169,7 +7257,7 @@
   },
   {
     "name": "838",
-    "points": 771,
+    "points": 907,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-53-f.png",
     "xws": "fhwoe53f",
@@ -6177,15 +7265,23 @@
   },
   {
     "name": "fh-woe-53-b",
-    "points": 772,
+    "points": 908,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-53-b.png",
     "xws": "fhwoe53b",
-    "assetno": "###"
+    "assetno": "838"
+  },
+  {
+    "name": "838",
+    "points": 909,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-53-b.png",
+    "xws": "fhwoe53b",
+    "assetno": "838"
   },
   {
     "name": "fh-woe-54-f",
-    "points": 773,
+    "points": 910,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-54-f.png",
     "xws": "fhwoe54f",
@@ -6193,7 +7289,7 @@
   },
   {
     "name": "839",
-    "points": 774,
+    "points": 911,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-54-f.png",
     "xws": "fhwoe54f",
@@ -6201,15 +7297,23 @@
   },
   {
     "name": "fh-woe-54-b",
-    "points": 775,
+    "points": 912,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-54-b.png",
     "xws": "fhwoe54b",
-    "assetno": "###"
+    "assetno": "839"
+  },
+  {
+    "name": "839",
+    "points": 913,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-54-b.png",
+    "xws": "fhwoe54b",
+    "assetno": "839"
   },
   {
     "name": "fh-woe-55-f",
-    "points": 776,
+    "points": 914,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-55-f.png",
     "xws": "fhwoe55f",
@@ -6217,7 +7321,7 @@
   },
   {
     "name": "840",
-    "points": 777,
+    "points": 915,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-55-f.png",
     "xws": "fhwoe55f",
@@ -6225,15 +7329,23 @@
   },
   {
     "name": "fh-woe-55-b",
-    "points": 778,
+    "points": 916,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-55-b.png",
     "xws": "fhwoe55b",
-    "assetno": "###"
+    "assetno": "840"
+  },
+  {
+    "name": "840",
+    "points": 917,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-55-b.png",
+    "xws": "fhwoe55b",
+    "assetno": "840"
   },
   {
     "name": "fh-woe-56-f",
-    "points": 779,
+    "points": 918,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-56-f.png",
     "xws": "fhwoe56f",
@@ -6241,7 +7353,7 @@
   },
   {
     "name": "841",
-    "points": 780,
+    "points": 919,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-56-f.png",
     "xws": "fhwoe56f",
@@ -6249,15 +7361,23 @@
   },
   {
     "name": "fh-woe-56-b",
-    "points": 781,
+    "points": 920,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-56-b.png",
     "xws": "fhwoe56b",
-    "assetno": "###"
+    "assetno": "841"
+  },
+  {
+    "name": "841",
+    "points": 921,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-56-b.png",
+    "xws": "fhwoe56b",
+    "assetno": "841"
   },
   {
     "name": "fh-woe-57-f",
-    "points": 782,
+    "points": 922,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-57-f.png",
     "xws": "fhwoe57f",
@@ -6265,7 +7385,7 @@
   },
   {
     "name": "842",
-    "points": 783,
+    "points": 923,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-57-f.png",
     "xws": "fhwoe57f",
@@ -6273,15 +7393,23 @@
   },
   {
     "name": "fh-woe-57-b",
-    "points": 784,
+    "points": 924,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-57-b.png",
     "xws": "fhwoe57b",
-    "assetno": "###"
+    "assetno": "842"
+  },
+  {
+    "name": "842",
+    "points": 925,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-57-b.png",
+    "xws": "fhwoe57b",
+    "assetno": "842"
   },
   {
     "name": "fh-woe-58-f",
-    "points": 785,
+    "points": 926,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-58-f.png",
     "xws": "fhwoe58f",
@@ -6289,7 +7417,7 @@
   },
   {
     "name": "843",
-    "points": 786,
+    "points": 927,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-58-f.png",
     "xws": "fhwoe58f",
@@ -6297,15 +7425,23 @@
   },
   {
     "name": "fh-woe-58-b",
-    "points": 787,
+    "points": 928,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-58-b.png",
     "xws": "fhwoe58b",
-    "assetno": "###"
+    "assetno": "843"
+  },
+  {
+    "name": "843",
+    "points": 929,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-58-b.png",
+    "xws": "fhwoe58b",
+    "assetno": "843"
   },
   {
     "name": "fh-woe-59-f",
-    "points": 788,
+    "points": 930,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-59-f.png",
     "xws": "fhwoe59f",
@@ -6313,7 +7449,7 @@
   },
   {
     "name": "844",
-    "points": 789,
+    "points": 931,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-59-f.png",
     "xws": "fhwoe59f",
@@ -6321,15 +7457,23 @@
   },
   {
     "name": "fh-woe-59-b",
-    "points": 790,
+    "points": 932,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-59-b.png",
     "xws": "fhwoe59b",
-    "assetno": "###"
+    "assetno": "844"
+  },
+  {
+    "name": "844",
+    "points": 933,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-59-b.png",
+    "xws": "fhwoe59b",
+    "assetno": "844"
   },
   {
     "name": "fh-woe-60-f",
-    "points": 791,
+    "points": 934,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-60-f.png",
     "xws": "fhwoe60f",
@@ -6337,7 +7481,7 @@
   },
   {
     "name": "845",
-    "points": 792,
+    "points": 935,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-60-f.png",
     "xws": "fhwoe60f",
@@ -6345,15 +7489,23 @@
   },
   {
     "name": "fh-woe-60-b",
-    "points": 793,
+    "points": 936,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-60-b.png",
     "xws": "fhwoe60b",
-    "assetno": "###"
+    "assetno": "845"
+  },
+  {
+    "name": "845",
+    "points": 937,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-60-b.png",
+    "xws": "fhwoe60b",
+    "assetno": "845"
   },
   {
     "name": "fh-woe-61-f",
-    "points": 794,
+    "points": 938,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-61-f.png",
     "xws": "fhwoe61f",
@@ -6361,7 +7513,7 @@
   },
   {
     "name": "846",
-    "points": 795,
+    "points": 939,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-61-f.png",
     "xws": "fhwoe61f",
@@ -6369,15 +7521,23 @@
   },
   {
     "name": "fh-woe-61-b",
-    "points": 796,
+    "points": 940,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-61-b.png",
     "xws": "fhwoe61b",
-    "assetno": "###"
+    "assetno": "846"
+  },
+  {
+    "name": "846",
+    "points": 941,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-61-b.png",
+    "xws": "fhwoe61b",
+    "assetno": "846"
   },
   {
     "name": "fh-woe-62-f",
-    "points": 797,
+    "points": 942,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-62-f.png",
     "xws": "fhwoe62f",
@@ -6385,7 +7545,7 @@
   },
   {
     "name": "847",
-    "points": 798,
+    "points": 943,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-62-f.png",
     "xws": "fhwoe62f",
@@ -6393,15 +7553,23 @@
   },
   {
     "name": "fh-woe-62-b",
-    "points": 799,
+    "points": 944,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-62-b.png",
     "xws": "fhwoe62b",
-    "assetno": "###"
+    "assetno": "847"
+  },
+  {
+    "name": "847",
+    "points": 945,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-62-b.png",
+    "xws": "fhwoe62b",
+    "assetno": "847"
   },
   {
     "name": "fh-woe-63-f",
-    "points": 800,
+    "points": 946,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-63-f.png",
     "xws": "fhwoe63f",
@@ -6409,7 +7577,7 @@
   },
   {
     "name": "848",
-    "points": 801,
+    "points": 947,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-63-f.png",
     "xws": "fhwoe63f",
@@ -6417,15 +7585,23 @@
   },
   {
     "name": "fh-woe-63-b",
-    "points": 802,
+    "points": 948,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-63-b.png",
     "xws": "fhwoe63b",
-    "assetno": "###"
+    "assetno": "848"
+  },
+  {
+    "name": "848",
+    "points": 949,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-63-b.png",
+    "xws": "fhwoe63b",
+    "assetno": "848"
   },
   {
     "name": "fh-woe-64-f",
-    "points": 803,
+    "points": 950,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-64-f.png",
     "xws": "fhwoe64f",
@@ -6433,7 +7609,7 @@
   },
   {
     "name": "849",
-    "points": 804,
+    "points": 951,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-64-f.png",
     "xws": "fhwoe64f",
@@ -6441,15 +7617,23 @@
   },
   {
     "name": "fh-woe-64-b",
-    "points": 805,
+    "points": 952,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-64-b.png",
     "xws": "fhwoe64b",
-    "assetno": "###"
+    "assetno": "849"
+  },
+  {
+    "name": "849",
+    "points": 953,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-64-b.png",
+    "xws": "fhwoe64b",
+    "assetno": "849"
   },
   {
     "name": "fh-woe-65-f",
-    "points": 806,
+    "points": 954,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-65-f.png",
     "xws": "fhwoe65f",
@@ -6457,7 +7641,7 @@
   },
   {
     "name": "850",
-    "points": 807,
+    "points": 955,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-65-f.png",
     "xws": "fhwoe65f",
@@ -6465,15 +7649,23 @@
   },
   {
     "name": "fh-woe-65-b",
-    "points": 808,
+    "points": 956,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-65-b.png",
     "xws": "fhwoe65b",
-    "assetno": "###"
+    "assetno": "850"
+  },
+  {
+    "name": "850",
+    "points": 957,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-65-b.png",
+    "xws": "fhwoe65b",
+    "assetno": "850"
   },
   {
     "name": "fh-woe-66-f",
-    "points": 809,
+    "points": 958,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-66-f.png",
     "xws": "fhwoe66f",
@@ -6481,7 +7673,7 @@
   },
   {
     "name": "851",
-    "points": 810,
+    "points": 959,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-66-f.png",
     "xws": "fhwoe66f",
@@ -6489,15 +7681,23 @@
   },
   {
     "name": "fh-woe-66-b",
-    "points": 811,
+    "points": 960,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-66-b.png",
     "xws": "fhwoe66b",
-    "assetno": "###"
+    "assetno": "851"
+  },
+  {
+    "name": "851",
+    "points": 961,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-66-b.png",
+    "xws": "fhwoe66b",
+    "assetno": "851"
   },
   {
     "name": "fh-woe-67-f",
-    "points": 812,
+    "points": 962,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-67-f.png",
     "xws": "fhwoe67f",
@@ -6505,7 +7705,7 @@
   },
   {
     "name": "852",
-    "points": 813,
+    "points": 963,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-67-f.png",
     "xws": "fhwoe67f",
@@ -6513,15 +7713,23 @@
   },
   {
     "name": "fh-woe-67-b",
-    "points": 814,
+    "points": 964,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-67-b.png",
     "xws": "fhwoe67b",
-    "assetno": "###"
+    "assetno": "852"
+  },
+  {
+    "name": "852",
+    "points": 965,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-67-b.png",
+    "xws": "fhwoe67b",
+    "assetno": "852"
   },
   {
     "name": "fh-woe-68-f",
-    "points": 815,
+    "points": 966,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-68-f.png",
     "xws": "fhwoe68f",
@@ -6529,7 +7737,7 @@
   },
   {
     "name": "853",
-    "points": 816,
+    "points": 967,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-68-f.png",
     "xws": "fhwoe68f",
@@ -6537,15 +7745,23 @@
   },
   {
     "name": "fh-woe-68-b",
-    "points": 817,
+    "points": 968,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-68-b.png",
     "xws": "fhwoe68b",
-    "assetno": "###"
+    "assetno": "853"
+  },
+  {
+    "name": "853",
+    "points": 969,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-68-b.png",
+    "xws": "fhwoe68b",
+    "assetno": "853"
   },
   {
     "name": "fh-woe-69-f",
-    "points": 818,
+    "points": 970,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-69-f.png",
     "xws": "fhwoe69f",
@@ -6553,7 +7769,7 @@
   },
   {
     "name": "854",
-    "points": 819,
+    "points": 971,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-69-f.png",
     "xws": "fhwoe69f",
@@ -6561,15 +7777,23 @@
   },
   {
     "name": "fh-woe-69-b",
-    "points": 820,
+    "points": 972,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-69-b.png",
     "xws": "fhwoe69b",
-    "assetno": "###"
+    "assetno": "854"
+  },
+  {
+    "name": "854",
+    "points": 973,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-69-b.png",
+    "xws": "fhwoe69b",
+    "assetno": "854"
   },
   {
     "name": "fh-woe-70-f",
-    "points": 821,
+    "points": 974,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-70-f.png",
     "xws": "fhwoe70f",
@@ -6577,7 +7801,7 @@
   },
   {
     "name": "855",
-    "points": 822,
+    "points": 975,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-70-f.png",
     "xws": "fhwoe70f",
@@ -6585,15 +7809,23 @@
   },
   {
     "name": "fh-woe-70-b",
-    "points": 823,
+    "points": 976,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-70-b.png",
     "xws": "fhwoe70b",
-    "assetno": "###"
+    "assetno": "855"
+  },
+  {
+    "name": "855",
+    "points": 977,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-70-b.png",
+    "xws": "fhwoe70b",
+    "assetno": "855"
   },
   {
     "name": "fh-woe-71-f",
-    "points": 824,
+    "points": 978,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-71-f.png",
     "xws": "fhwoe71f",
@@ -6601,7 +7833,7 @@
   },
   {
     "name": "856",
-    "points": 825,
+    "points": 979,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-71-f.png",
     "xws": "fhwoe71f",
@@ -6609,15 +7841,23 @@
   },
   {
     "name": "fh-woe-71-b",
-    "points": 826,
+    "points": 980,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-71-b.png",
     "xws": "fhwoe71b",
-    "assetno": "###"
+    "assetno": "856"
+  },
+  {
+    "name": "856",
+    "points": 981,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-71-b.png",
+    "xws": "fhwoe71b",
+    "assetno": "856"
   },
   {
     "name": "fh-woe-72-f",
-    "points": 827,
+    "points": 982,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-72-f.png",
     "xws": "fhwoe72f",
@@ -6625,7 +7865,7 @@
   },
   {
     "name": "857",
-    "points": 828,
+    "points": 983,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-72-f.png",
     "xws": "fhwoe72f",
@@ -6633,15 +7873,23 @@
   },
   {
     "name": "fh-woe-72-b",
-    "points": 829,
+    "points": 984,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-72-b.png",
     "xws": "fhwoe72b",
-    "assetno": "###"
+    "assetno": "857"
+  },
+  {
+    "name": "857",
+    "points": 985,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-72-b.png",
+    "xws": "fhwoe72b",
+    "assetno": "857"
   },
   {
     "name": "fh-woe-73-f",
-    "points": 830,
+    "points": 986,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-73-f.png",
     "xws": "fhwoe73f",
@@ -6649,7 +7897,7 @@
   },
   {
     "name": "858",
-    "points": 831,
+    "points": 987,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-73-f.png",
     "xws": "fhwoe73f",
@@ -6657,15 +7905,23 @@
   },
   {
     "name": "fh-woe-73-b",
-    "points": 832,
+    "points": 988,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-73-b.png",
     "xws": "fhwoe73b",
-    "assetno": "###"
+    "assetno": "858"
+  },
+  {
+    "name": "858",
+    "points": 989,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-73-b.png",
+    "xws": "fhwoe73b",
+    "assetno": "858"
   },
   {
     "name": "fh-woe-74-f",
-    "points": 833,
+    "points": 990,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-74-f.png",
     "xws": "fhwoe74f",
@@ -6673,7 +7929,7 @@
   },
   {
     "name": "859",
-    "points": 834,
+    "points": 991,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-74-f.png",
     "xws": "fhwoe74f",
@@ -6681,15 +7937,23 @@
   },
   {
     "name": "fh-woe-74-b",
-    "points": 835,
+    "points": 992,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-74-b.png",
     "xws": "fhwoe74b",
-    "assetno": "###"
+    "assetno": "859"
+  },
+  {
+    "name": "859",
+    "points": 993,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-74-b.png",
+    "xws": "fhwoe74b",
+    "assetno": "859"
   },
   {
     "name": "fh-woe-75-f",
-    "points": 836,
+    "points": 994,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-75-f.png",
     "xws": "fhwoe75f",
@@ -6697,7 +7961,7 @@
   },
   {
     "name": "860",
-    "points": 837,
+    "points": 995,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-75-f.png",
     "xws": "fhwoe75f",
@@ -6705,15 +7969,23 @@
   },
   {
     "name": "fh-woe-75-b",
-    "points": 838,
+    "points": 996,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-75-b.png",
     "xws": "fhwoe75b",
-    "assetno": "###"
+    "assetno": "860"
+  },
+  {
+    "name": "860",
+    "points": 997,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-75-b.png",
+    "xws": "fhwoe75b",
+    "assetno": "860"
   },
   {
     "name": "fh-woe-76-f",
-    "points": 839,
+    "points": 998,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-76-f.png",
     "xws": "fhwoe76f",
@@ -6721,7 +7993,7 @@
   },
   {
     "name": "861",
-    "points": 840,
+    "points": 999,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-76-f.png",
     "xws": "fhwoe76f",
@@ -6729,15 +8001,23 @@
   },
   {
     "name": "fh-woe-76-b",
-    "points": 841,
+    "points": 1000,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-76-b.png",
     "xws": "fhwoe76b",
-    "assetno": "###"
+    "assetno": "861"
+  },
+  {
+    "name": "861",
+    "points": 1001,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-76-b.png",
+    "xws": "fhwoe76b",
+    "assetno": "861"
   },
   {
     "name": "fh-woe-77-f",
-    "points": 842,
+    "points": 1002,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-77-f.png",
     "xws": "fhwoe77f",
@@ -6745,7 +8025,7 @@
   },
   {
     "name": "862",
-    "points": 843,
+    "points": 1003,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-77-f.png",
     "xws": "fhwoe77f",
@@ -6753,15 +8033,23 @@
   },
   {
     "name": "fh-woe-77-b",
-    "points": 844,
+    "points": 1004,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-77-b.png",
     "xws": "fhwoe77b",
-    "assetno": "###"
+    "assetno": "862"
+  },
+  {
+    "name": "862",
+    "points": 1005,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-77-b.png",
+    "xws": "fhwoe77b",
+    "assetno": "862"
   },
   {
     "name": "fh-woe-78-f",
-    "points": 845,
+    "points": 1006,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-78-f.png",
     "xws": "fhwoe78f",
@@ -6769,7 +8057,7 @@
   },
   {
     "name": "863",
-    "points": 846,
+    "points": 1007,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-78-f.png",
     "xws": "fhwoe78f",
@@ -6777,15 +8065,23 @@
   },
   {
     "name": "fh-woe-78-b",
-    "points": 847,
+    "points": 1008,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-78-b.png",
     "xws": "fhwoe78b",
-    "assetno": "###"
+    "assetno": "863"
+  },
+  {
+    "name": "863",
+    "points": 1009,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-78-b.png",
+    "xws": "fhwoe78b",
+    "assetno": "863"
   },
   {
     "name": "fh-woe-79-f",
-    "points": 848,
+    "points": 1010,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-79-f.png",
     "xws": "fhwoe79f",
@@ -6793,7 +8089,7 @@
   },
   {
     "name": "864",
-    "points": 849,
+    "points": 1011,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-79-f.png",
     "xws": "fhwoe79f",
@@ -6801,15 +8097,23 @@
   },
   {
     "name": "fh-woe-79-b",
-    "points": 850,
+    "points": 1012,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-79-b.png",
     "xws": "fhwoe79b",
-    "assetno": "###"
+    "assetno": "864"
+  },
+  {
+    "name": "864",
+    "points": 1013,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-79-b.png",
+    "xws": "fhwoe79b",
+    "assetno": "864"
   },
   {
     "name": "fh-woe-80-f",
-    "points": 851,
+    "points": 1014,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-80-f.png",
     "xws": "fhwoe80f",
@@ -6817,7 +8121,7 @@
   },
   {
     "name": "865",
-    "points": 852,
+    "points": 1015,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-80-f.png",
     "xws": "fhwoe80f",
@@ -6825,15 +8129,23 @@
   },
   {
     "name": "fh-woe-80-b",
-    "points": 853,
+    "points": 1016,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-80-b.png",
     "xws": "fhwoe80b",
-    "assetno": "###"
+    "assetno": "865"
+  },
+  {
+    "name": "865",
+    "points": 1017,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-80-b.png",
+    "xws": "fhwoe80b",
+    "assetno": "865"
   },
   {
     "name": "fh-woe-81-f",
-    "points": 854,
+    "points": 1018,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-81-f.png",
     "xws": "fhwoe81f",
@@ -6841,7 +8153,7 @@
   },
   {
     "name": "866",
-    "points": 855,
+    "points": 1019,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-81-f.png",
     "xws": "fhwoe81f",
@@ -6849,15 +8161,23 @@
   },
   {
     "name": "fh-woe-81-b",
-    "points": 856,
+    "points": 1020,
     "expansion": "frosthaven",
     "image": "events/frosthaven/outpost/fh-woe-81-b.png",
     "xws": "fhwoe81b",
-    "assetno": "###"
+    "assetno": "866"
+  },
+  {
+    "name": "866",
+    "points": 1021,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/outpost/fh-woe-81-b.png",
+    "xws": "fhwoe81b",
+    "assetno": "866"
   },
   {
     "name": "fh-sre-01-f",
-    "points": 857,
+    "points": 1022,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-01-f.png",
     "xws": "fhsre01f",
@@ -6865,7 +8185,7 @@
   },
   {
     "name": "620",
-    "points": 858,
+    "points": 1023,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-01-f.png",
     "xws": "fhsre01f",
@@ -6873,15 +8193,23 @@
   },
   {
     "name": "fh-sre-01-b",
-    "points": 859,
+    "points": 1024,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-01-b.png",
     "xws": "fhsre01b",
-    "assetno": "###"
+    "assetno": "620"
+  },
+  {
+    "name": "620",
+    "points": 1025,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-01-b.png",
+    "xws": "fhsre01b",
+    "assetno": "620"
   },
   {
     "name": "fh-sre-02-f",
-    "points": 860,
+    "points": 1026,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-02-f.png",
     "xws": "fhsre02f",
@@ -6889,7 +8217,7 @@
   },
   {
     "name": "621",
-    "points": 861,
+    "points": 1027,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-02-f.png",
     "xws": "fhsre02f",
@@ -6897,15 +8225,23 @@
   },
   {
     "name": "fh-sre-02-b",
-    "points": 862,
+    "points": 1028,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-02-b.png",
     "xws": "fhsre02b",
-    "assetno": "###"
+    "assetno": "621"
+  },
+  {
+    "name": "621",
+    "points": 1029,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-02-b.png",
+    "xws": "fhsre02b",
+    "assetno": "621"
   },
   {
     "name": "fh-sre-03-f",
-    "points": 863,
+    "points": 1030,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-03-f.png",
     "xws": "fhsre03f",
@@ -6913,7 +8249,7 @@
   },
   {
     "name": "622",
-    "points": 864,
+    "points": 1031,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-03-f.png",
     "xws": "fhsre03f",
@@ -6921,15 +8257,23 @@
   },
   {
     "name": "fh-sre-03-b",
-    "points": 865,
+    "points": 1032,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-03-b.png",
     "xws": "fhsre03b",
-    "assetno": "###"
+    "assetno": "622"
+  },
+  {
+    "name": "622",
+    "points": 1033,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-03-b.png",
+    "xws": "fhsre03b",
+    "assetno": "622"
   },
   {
     "name": "fh-sre-04-f",
-    "points": 866,
+    "points": 1034,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-04-f.png",
     "xws": "fhsre04f",
@@ -6937,7 +8281,7 @@
   },
   {
     "name": "623",
-    "points": 867,
+    "points": 1035,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-04-f.png",
     "xws": "fhsre04f",
@@ -6945,15 +8289,23 @@
   },
   {
     "name": "fh-sre-04-b",
-    "points": 868,
+    "points": 1036,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-04-b.png",
     "xws": "fhsre04b",
-    "assetno": "###"
+    "assetno": "623"
+  },
+  {
+    "name": "623",
+    "points": 1037,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-04-b.png",
+    "xws": "fhsre04b",
+    "assetno": "623"
   },
   {
     "name": "fh-sre-05-f",
-    "points": 869,
+    "points": 1038,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-05-f.png",
     "xws": "fhsre05f",
@@ -6961,7 +8313,7 @@
   },
   {
     "name": "624",
-    "points": 870,
+    "points": 1039,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-05-f.png",
     "xws": "fhsre05f",
@@ -6969,15 +8321,23 @@
   },
   {
     "name": "fh-sre-05-b",
-    "points": 871,
+    "points": 1040,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-05-b.png",
     "xws": "fhsre05b",
-    "assetno": "###"
+    "assetno": "624"
+  },
+  {
+    "name": "624",
+    "points": 1041,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-05-b.png",
+    "xws": "fhsre05b",
+    "assetno": "624"
   },
   {
     "name": "fh-sre-06-f",
-    "points": 872,
+    "points": 1042,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-06-f.png",
     "xws": "fhsre06f",
@@ -6985,7 +8345,7 @@
   },
   {
     "name": "625",
-    "points": 873,
+    "points": 1043,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-06-f.png",
     "xws": "fhsre06f",
@@ -6993,15 +8353,23 @@
   },
   {
     "name": "fh-sre-06-b",
-    "points": 874,
+    "points": 1044,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-06-b.png",
     "xws": "fhsre06b",
-    "assetno": "###"
+    "assetno": "625"
+  },
+  {
+    "name": "625",
+    "points": 1045,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-06-b.png",
+    "xws": "fhsre06b",
+    "assetno": "625"
   },
   {
     "name": "fh-sre-07-f",
-    "points": 875,
+    "points": 1046,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-07-f.png",
     "xws": "fhsre07f",
@@ -7009,7 +8377,7 @@
   },
   {
     "name": "626",
-    "points": 876,
+    "points": 1047,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-07-f.png",
     "xws": "fhsre07f",
@@ -7017,15 +8385,23 @@
   },
   {
     "name": "fh-sre-07-b",
-    "points": 877,
+    "points": 1048,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-07-b.png",
     "xws": "fhsre07b",
-    "assetno": "###"
+    "assetno": "626"
+  },
+  {
+    "name": "626",
+    "points": 1049,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-07-b.png",
+    "xws": "fhsre07b",
+    "assetno": "626"
   },
   {
     "name": "fh-sre-08-f",
-    "points": 878,
+    "points": 1050,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-08-f.png",
     "xws": "fhsre08f",
@@ -7033,7 +8409,7 @@
   },
   {
     "name": "627",
-    "points": 879,
+    "points": 1051,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-08-f.png",
     "xws": "fhsre08f",
@@ -7041,15 +8417,23 @@
   },
   {
     "name": "fh-sre-08-b",
-    "points": 880,
+    "points": 1052,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-08-b.png",
     "xws": "fhsre08b",
-    "assetno": "###"
+    "assetno": "627"
+  },
+  {
+    "name": "627",
+    "points": 1053,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-08-b.png",
+    "xws": "fhsre08b",
+    "assetno": "627"
   },
   {
     "name": "fh-sre-09-f",
-    "points": 881,
+    "points": 1054,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-09-f.png",
     "xws": "fhsre09f",
@@ -7057,7 +8441,7 @@
   },
   {
     "name": "628",
-    "points": 882,
+    "points": 1055,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-09-f.png",
     "xws": "fhsre09f",
@@ -7065,15 +8449,23 @@
   },
   {
     "name": "fh-sre-09-b",
-    "points": 883,
+    "points": 1056,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-09-b.png",
     "xws": "fhsre09b",
-    "assetno": "###"
+    "assetno": "628"
+  },
+  {
+    "name": "628",
+    "points": 1057,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-09-b.png",
+    "xws": "fhsre09b",
+    "assetno": "628"
   },
   {
     "name": "fh-sre-10-f",
-    "points": 884,
+    "points": 1058,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-10-f.png",
     "xws": "fhsre10f",
@@ -7081,7 +8473,7 @@
   },
   {
     "name": "629",
-    "points": 885,
+    "points": 1059,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-10-f.png",
     "xws": "fhsre10f",
@@ -7089,15 +8481,23 @@
   },
   {
     "name": "fh-sre-10-b",
-    "points": 886,
+    "points": 1060,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-10-b.png",
     "xws": "fhsre10b",
-    "assetno": "###"
+    "assetno": "629"
+  },
+  {
+    "name": "629",
+    "points": 1061,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-10-b.png",
+    "xws": "fhsre10b",
+    "assetno": "629"
   },
   {
     "name": "fh-sre-11-f",
-    "points": 887,
+    "points": 1062,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-11-f.png",
     "xws": "fhsre11f",
@@ -7105,7 +8505,7 @@
   },
   {
     "name": "630",
-    "points": 888,
+    "points": 1063,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-11-f.png",
     "xws": "fhsre11f",
@@ -7113,15 +8513,23 @@
   },
   {
     "name": "fh-sre-11-b",
-    "points": 889,
+    "points": 1064,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-11-b.png",
     "xws": "fhsre11b",
-    "assetno": "###"
+    "assetno": "630"
+  },
+  {
+    "name": "630",
+    "points": 1065,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-11-b.png",
+    "xws": "fhsre11b",
+    "assetno": "630"
   },
   {
     "name": "fh-sre-12-f",
-    "points": 890,
+    "points": 1066,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-12-f.png",
     "xws": "fhsre12f",
@@ -7129,7 +8537,7 @@
   },
   {
     "name": "631",
-    "points": 891,
+    "points": 1067,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-12-f.png",
     "xws": "fhsre12f",
@@ -7137,15 +8545,23 @@
   },
   {
     "name": "fh-sre-12-b",
-    "points": 892,
+    "points": 1068,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-12-b.png",
     "xws": "fhsre12b",
-    "assetno": "###"
+    "assetno": "631"
+  },
+  {
+    "name": "631",
+    "points": 1069,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-12-b.png",
+    "xws": "fhsre12b",
+    "assetno": "631"
   },
   {
     "name": "fh-sre-13-f",
-    "points": 893,
+    "points": 1070,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-13-f.png",
     "xws": "fhsre13f",
@@ -7153,7 +8569,7 @@
   },
   {
     "name": "632",
-    "points": 894,
+    "points": 1071,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-13-f.png",
     "xws": "fhsre13f",
@@ -7161,15 +8577,23 @@
   },
   {
     "name": "fh-sre-13-b",
-    "points": 895,
+    "points": 1072,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-13-b.png",
     "xws": "fhsre13b",
-    "assetno": "###"
+    "assetno": "632"
+  },
+  {
+    "name": "632",
+    "points": 1073,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-13-b.png",
+    "xws": "fhsre13b",
+    "assetno": "632"
   },
   {
     "name": "fh-sre-14-f",
-    "points": 896,
+    "points": 1074,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-14-f.png",
     "xws": "fhsre14f",
@@ -7177,7 +8601,7 @@
   },
   {
     "name": "633",
-    "points": 897,
+    "points": 1075,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-14-f.png",
     "xws": "fhsre14f",
@@ -7185,15 +8609,23 @@
   },
   {
     "name": "fh-sre-14-b",
-    "points": 898,
+    "points": 1076,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-14-b.png",
     "xws": "fhsre14b",
-    "assetno": "###"
+    "assetno": "633"
+  },
+  {
+    "name": "633",
+    "points": 1077,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-14-b.png",
+    "xws": "fhsre14b",
+    "assetno": "633"
   },
   {
     "name": "fh-sre-15-f",
-    "points": 899,
+    "points": 1078,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-15-f.png",
     "xws": "fhsre15f",
@@ -7201,7 +8633,7 @@
   },
   {
     "name": "634",
-    "points": 900,
+    "points": 1079,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-15-f.png",
     "xws": "fhsre15f",
@@ -7209,15 +8641,23 @@
   },
   {
     "name": "fh-sre-15-b",
-    "points": 901,
+    "points": 1080,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-15-b.png",
     "xws": "fhsre15b",
-    "assetno": "###"
+    "assetno": "634"
+  },
+  {
+    "name": "634",
+    "points": 1081,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-15-b.png",
+    "xws": "fhsre15b",
+    "assetno": "634"
   },
   {
     "name": "fh-sre-16-f",
-    "points": 902,
+    "points": 1082,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-16-f.png",
     "xws": "fhsre16f",
@@ -7225,7 +8665,7 @@
   },
   {
     "name": "635",
-    "points": 903,
+    "points": 1083,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-16-f.png",
     "xws": "fhsre16f",
@@ -7233,15 +8673,23 @@
   },
   {
     "name": "fh-sre-16-b",
-    "points": 904,
+    "points": 1084,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-16-b.png",
     "xws": "fhsre16b",
-    "assetno": "###"
+    "assetno": "635"
+  },
+  {
+    "name": "635",
+    "points": 1085,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-16-b.png",
+    "xws": "fhsre16b",
+    "assetno": "635"
   },
   {
     "name": "fh-sre-17-f",
-    "points": 905,
+    "points": 1086,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-17-f.png",
     "xws": "fhsre17f",
@@ -7249,7 +8697,7 @@
   },
   {
     "name": "636",
-    "points": 906,
+    "points": 1087,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-17-f.png",
     "xws": "fhsre17f",
@@ -7257,15 +8705,23 @@
   },
   {
     "name": "fh-sre-17-b",
-    "points": 907,
+    "points": 1088,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-17-b.png",
     "xws": "fhsre17b",
-    "assetno": "###"
+    "assetno": "636"
+  },
+  {
+    "name": "636",
+    "points": 1089,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-17-b.png",
+    "xws": "fhsre17b",
+    "assetno": "636"
   },
   {
     "name": "fh-sre-18-f",
-    "points": 908,
+    "points": 1090,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-18-f.png",
     "xws": "fhsre18f",
@@ -7273,7 +8729,7 @@
   },
   {
     "name": "637",
-    "points": 909,
+    "points": 1091,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-18-f.png",
     "xws": "fhsre18f",
@@ -7281,15 +8737,23 @@
   },
   {
     "name": "fh-sre-18-b",
-    "points": 910,
+    "points": 1092,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-18-b.png",
     "xws": "fhsre18b",
-    "assetno": "###"
+    "assetno": "637"
+  },
+  {
+    "name": "637",
+    "points": 1093,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-18-b.png",
+    "xws": "fhsre18b",
+    "assetno": "637"
   },
   {
     "name": "fh-sre-19-f",
-    "points": 911,
+    "points": 1094,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-19-f.png",
     "xws": "fhsre19f",
@@ -7297,7 +8761,7 @@
   },
   {
     "name": "638",
-    "points": 912,
+    "points": 1095,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-19-f.png",
     "xws": "fhsre19f",
@@ -7305,15 +8769,23 @@
   },
   {
     "name": "fh-sre-19-b",
-    "points": 913,
+    "points": 1096,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-19-b.png",
     "xws": "fhsre19b",
-    "assetno": "###"
+    "assetno": "638"
+  },
+  {
+    "name": "638",
+    "points": 1097,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-19-b.png",
+    "xws": "fhsre19b",
+    "assetno": "638"
   },
   {
     "name": "fh-sre-20-f",
-    "points": 914,
+    "points": 1098,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-20-f.png",
     "xws": "fhsre20f",
@@ -7321,7 +8793,7 @@
   },
   {
     "name": "639",
-    "points": 915,
+    "points": 1099,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-20-f.png",
     "xws": "fhsre20f",
@@ -7329,15 +8801,23 @@
   },
   {
     "name": "fh-sre-20-b",
-    "points": 916,
+    "points": 1100,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-20-b.png",
     "xws": "fhsre20b",
-    "assetno": "###"
+    "assetno": "639"
+  },
+  {
+    "name": "639",
+    "points": 1101,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-20-b.png",
+    "xws": "fhsre20b",
+    "assetno": "639"
   },
   {
     "name": "fh-sre-21-f",
-    "points": 917,
+    "points": 1102,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-21-f.png",
     "xws": "fhsre21f",
@@ -7345,7 +8825,7 @@
   },
   {
     "name": "640",
-    "points": 918,
+    "points": 1103,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-21-f.png",
     "xws": "fhsre21f",
@@ -7353,15 +8833,23 @@
   },
   {
     "name": "fh-sre-21-b",
-    "points": 919,
+    "points": 1104,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-21-b.png",
     "xws": "fhsre21b",
-    "assetno": "###"
+    "assetno": "640"
+  },
+  {
+    "name": "640",
+    "points": 1105,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-21-b.png",
+    "xws": "fhsre21b",
+    "assetno": "640"
   },
   {
     "name": "fh-sre-22-f",
-    "points": 920,
+    "points": 1106,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-22-f.png",
     "xws": "fhsre22f",
@@ -7369,7 +8857,7 @@
   },
   {
     "name": "641",
-    "points": 921,
+    "points": 1107,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-22-f.png",
     "xws": "fhsre22f",
@@ -7377,15 +8865,23 @@
   },
   {
     "name": "fh-sre-22-b",
-    "points": 922,
+    "points": 1108,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-22-b.png",
     "xws": "fhsre22b",
-    "assetno": "###"
+    "assetno": "641"
+  },
+  {
+    "name": "641",
+    "points": 1109,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-22-b.png",
+    "xws": "fhsre22b",
+    "assetno": "641"
   },
   {
     "name": "fh-sre-23-f",
-    "points": 923,
+    "points": 1110,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-23-f.png",
     "xws": "fhsre23f",
@@ -7393,7 +8889,7 @@
   },
   {
     "name": "642",
-    "points": 924,
+    "points": 1111,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-23-f.png",
     "xws": "fhsre23f",
@@ -7401,15 +8897,23 @@
   },
   {
     "name": "fh-sre-23-b",
-    "points": 925,
+    "points": 1112,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-23-b.png",
     "xws": "fhsre23b",
-    "assetno": "###"
+    "assetno": "642"
+  },
+  {
+    "name": "642",
+    "points": 1113,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-23-b.png",
+    "xws": "fhsre23b",
+    "assetno": "642"
   },
   {
     "name": "fh-sre-24-f",
-    "points": 926,
+    "points": 1114,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-24-f.png",
     "xws": "fhsre24f",
@@ -7417,7 +8921,7 @@
   },
   {
     "name": "643",
-    "points": 927,
+    "points": 1115,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-24-f.png",
     "xws": "fhsre24f",
@@ -7425,15 +8929,23 @@
   },
   {
     "name": "fh-sre-24-b",
-    "points": 928,
+    "points": 1116,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-24-b.png",
     "xws": "fhsre24b",
-    "assetno": "###"
+    "assetno": "643"
+  },
+  {
+    "name": "643",
+    "points": 1117,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-24-b.png",
+    "xws": "fhsre24b",
+    "assetno": "643"
   },
   {
     "name": "fh-sre-25-f",
-    "points": 929,
+    "points": 1118,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-25-f.png",
     "xws": "fhsre25f",
@@ -7441,7 +8953,7 @@
   },
   {
     "name": "644",
-    "points": 930,
+    "points": 1119,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-25-f.png",
     "xws": "fhsre25f",
@@ -7449,15 +8961,23 @@
   },
   {
     "name": "fh-sre-25-b",
-    "points": 931,
+    "points": 1120,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-25-b.png",
     "xws": "fhsre25b",
-    "assetno": "###"
+    "assetno": "644"
+  },
+  {
+    "name": "644",
+    "points": 1121,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-25-b.png",
+    "xws": "fhsre25b",
+    "assetno": "644"
   },
   {
     "name": "fh-sre-26-f",
-    "points": 932,
+    "points": 1122,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-26-f.png",
     "xws": "fhsre26f",
@@ -7465,7 +8985,7 @@
   },
   {
     "name": "645",
-    "points": 933,
+    "points": 1123,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-26-f.png",
     "xws": "fhsre26f",
@@ -7473,15 +8993,23 @@
   },
   {
     "name": "fh-sre-26-b",
-    "points": 934,
+    "points": 1124,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-26-b.png",
     "xws": "fhsre26b",
-    "assetno": "###"
+    "assetno": "645"
+  },
+  {
+    "name": "645",
+    "points": 1125,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-26-b.png",
+    "xws": "fhsre26b",
+    "assetno": "645"
   },
   {
     "name": "fh-sre-27-f",
-    "points": 935,
+    "points": 1126,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-27-f.png",
     "xws": "fhsre27f",
@@ -7489,7 +9017,7 @@
   },
   {
     "name": "646",
-    "points": 936,
+    "points": 1127,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-27-f.png",
     "xws": "fhsre27f",
@@ -7497,15 +9025,23 @@
   },
   {
     "name": "fh-sre-27-b",
-    "points": 937,
+    "points": 1128,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-27-b.png",
     "xws": "fhsre27b",
-    "assetno": "###"
+    "assetno": "646"
+  },
+  {
+    "name": "646",
+    "points": 1129,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-27-b.png",
+    "xws": "fhsre27b",
+    "assetno": "646"
   },
   {
     "name": "fh-sre-28-f",
-    "points": 938,
+    "points": 1130,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-28-f.png",
     "xws": "fhsre28f",
@@ -7513,7 +9049,7 @@
   },
   {
     "name": "647",
-    "points": 939,
+    "points": 1131,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-28-f.png",
     "xws": "fhsre28f",
@@ -7521,15 +9057,23 @@
   },
   {
     "name": "fh-sre-28-b",
-    "points": 940,
+    "points": 1132,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-28-b.png",
     "xws": "fhsre28b",
-    "assetno": "###"
+    "assetno": "647"
+  },
+  {
+    "name": "647",
+    "points": 1133,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-28-b.png",
+    "xws": "fhsre28b",
+    "assetno": "647"
   },
   {
     "name": "fh-sre-29-f",
-    "points": 941,
+    "points": 1134,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-29-f.png",
     "xws": "fhsre29f",
@@ -7537,7 +9081,7 @@
   },
   {
     "name": "648",
-    "points": 942,
+    "points": 1135,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-29-f.png",
     "xws": "fhsre29f",
@@ -7545,15 +9089,23 @@
   },
   {
     "name": "fh-sre-29-b",
-    "points": 943,
+    "points": 1136,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-29-b.png",
     "xws": "fhsre29b",
-    "assetno": "###"
+    "assetno": "648"
+  },
+  {
+    "name": "648",
+    "points": 1137,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-29-b.png",
+    "xws": "fhsre29b",
+    "assetno": "648"
   },
   {
     "name": "fh-sre-30-f",
-    "points": 944,
+    "points": 1138,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-30-f.png",
     "xws": "fhsre30f",
@@ -7561,7 +9113,7 @@
   },
   {
     "name": "649",
-    "points": 945,
+    "points": 1139,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-30-f.png",
     "xws": "fhsre30f",
@@ -7569,15 +9121,23 @@
   },
   {
     "name": "fh-sre-30-b",
-    "points": 946,
+    "points": 1140,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-30-b.png",
     "xws": "fhsre30b",
-    "assetno": "###"
+    "assetno": "649"
+  },
+  {
+    "name": "649",
+    "points": 1141,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-30-b.png",
+    "xws": "fhsre30b",
+    "assetno": "649"
   },
   {
     "name": "fh-sre-31-f",
-    "points": 947,
+    "points": 1142,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-31-f.png",
     "xws": "fhsre31f",
@@ -7585,7 +9145,7 @@
   },
   {
     "name": "650",
-    "points": 948,
+    "points": 1143,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-31-f.png",
     "xws": "fhsre31f",
@@ -7593,15 +9153,23 @@
   },
   {
     "name": "fh-sre-31-b",
-    "points": 949,
+    "points": 1144,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-31-b.png",
     "xws": "fhsre31b",
-    "assetno": "###"
+    "assetno": "650"
+  },
+  {
+    "name": "650",
+    "points": 1145,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-31-b.png",
+    "xws": "fhsre31b",
+    "assetno": "650"
   },
   {
     "name": "fh-sre-32-f",
-    "points": 950,
+    "points": 1146,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-32-f.png",
     "xws": "fhsre32f",
@@ -7609,7 +9177,7 @@
   },
   {
     "name": "651",
-    "points": 951,
+    "points": 1147,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-32-f.png",
     "xws": "fhsre32f",
@@ -7617,15 +9185,23 @@
   },
   {
     "name": "fh-sre-32-b",
-    "points": 952,
+    "points": 1148,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-32-b.png",
     "xws": "fhsre32b",
-    "assetno": "###"
+    "assetno": "651"
+  },
+  {
+    "name": "651",
+    "points": 1149,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-32-b.png",
+    "xws": "fhsre32b",
+    "assetno": "651"
   },
   {
     "name": "fh-sre-33-f",
-    "points": 953,
+    "points": 1150,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-33-f.png",
     "xws": "fhsre33f",
@@ -7633,7 +9209,7 @@
   },
   {
     "name": "652",
-    "points": 954,
+    "points": 1151,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-33-f.png",
     "xws": "fhsre33f",
@@ -7641,15 +9217,23 @@
   },
   {
     "name": "fh-sre-33-b",
-    "points": 955,
+    "points": 1152,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-33-b.png",
     "xws": "fhsre33b",
-    "assetno": "###"
+    "assetno": "652"
+  },
+  {
+    "name": "652",
+    "points": 1153,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-33-b.png",
+    "xws": "fhsre33b",
+    "assetno": "652"
   },
   {
     "name": "fh-sre-34-f",
-    "points": 956,
+    "points": 1154,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-34-f.png",
     "xws": "fhsre34f",
@@ -7657,7 +9241,7 @@
   },
   {
     "name": "653",
-    "points": 957,
+    "points": 1155,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-34-f.png",
     "xws": "fhsre34f",
@@ -7665,15 +9249,23 @@
   },
   {
     "name": "fh-sre-34-b",
-    "points": 958,
+    "points": 1156,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-34-b.png",
     "xws": "fhsre34b",
-    "assetno": "###"
+    "assetno": "653"
+  },
+  {
+    "name": "653",
+    "points": 1157,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-34-b.png",
+    "xws": "fhsre34b",
+    "assetno": "653"
   },
   {
     "name": "fh-sre-35-f",
-    "points": 959,
+    "points": 1158,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-35-f.png",
     "xws": "fhsre35f",
@@ -7681,7 +9273,7 @@
   },
   {
     "name": "654",
-    "points": 960,
+    "points": 1159,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-35-f.png",
     "xws": "fhsre35f",
@@ -7689,15 +9281,23 @@
   },
   {
     "name": "fh-sre-35-b",
-    "points": 961,
+    "points": 1160,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-35-b.png",
     "xws": "fhsre35b",
-    "assetno": "###"
+    "assetno": "654"
+  },
+  {
+    "name": "654",
+    "points": 1161,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-35-b.png",
+    "xws": "fhsre35b",
+    "assetno": "654"
   },
   {
     "name": "fh-sre-36-f",
-    "points": 962,
+    "points": 1162,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-36-f.png",
     "xws": "fhsre36f",
@@ -7705,7 +9305,7 @@
   },
   {
     "name": "655",
-    "points": 963,
+    "points": 1163,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-36-f.png",
     "xws": "fhsre36f",
@@ -7713,15 +9313,23 @@
   },
   {
     "name": "fh-sre-36-b",
-    "points": 964,
+    "points": 1164,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-36-b.png",
     "xws": "fhsre36b",
-    "assetno": "###"
+    "assetno": "655"
+  },
+  {
+    "name": "655",
+    "points": 1165,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-36-b.png",
+    "xws": "fhsre36b",
+    "assetno": "655"
   },
   {
     "name": "fh-sre-37-f",
-    "points": 965,
+    "points": 1166,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-37-f.png",
     "xws": "fhsre37f",
@@ -7729,7 +9337,7 @@
   },
   {
     "name": "656",
-    "points": 966,
+    "points": 1167,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-37-f.png",
     "xws": "fhsre37f",
@@ -7737,15 +9345,23 @@
   },
   {
     "name": "fh-sre-37-b",
-    "points": 967,
+    "points": 1168,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-37-b.png",
     "xws": "fhsre37b",
-    "assetno": "###"
+    "assetno": "656"
+  },
+  {
+    "name": "656",
+    "points": 1169,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-37-b.png",
+    "xws": "fhsre37b",
+    "assetno": "656"
   },
   {
     "name": "fh-sre-38-f",
-    "points": 968,
+    "points": 1170,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-38-f.png",
     "xws": "fhsre38f",
@@ -7753,7 +9369,7 @@
   },
   {
     "name": "657",
-    "points": 969,
+    "points": 1171,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-38-f.png",
     "xws": "fhsre38f",
@@ -7761,15 +9377,23 @@
   },
   {
     "name": "fh-sre-38-b",
-    "points": 970,
+    "points": 1172,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-38-b.png",
     "xws": "fhsre38b",
-    "assetno": "###"
+    "assetno": "657"
+  },
+  {
+    "name": "657",
+    "points": 1173,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-38-b.png",
+    "xws": "fhsre38b",
+    "assetno": "657"
   },
   {
     "name": "fh-sre-39-f",
-    "points": 971,
+    "points": 1174,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-39-f.png",
     "xws": "fhsre39f",
@@ -7777,7 +9401,7 @@
   },
   {
     "name": "658",
-    "points": 972,
+    "points": 1175,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-39-f.png",
     "xws": "fhsre39f",
@@ -7785,15 +9409,23 @@
   },
   {
     "name": "fh-sre-39-b",
-    "points": 973,
+    "points": 1176,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-39-b.png",
     "xws": "fhsre39b",
-    "assetno": "###"
+    "assetno": "658"
+  },
+  {
+    "name": "658",
+    "points": 1177,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-39-b.png",
+    "xws": "fhsre39b",
+    "assetno": "658"
   },
   {
     "name": "fh-sre-40-f",
-    "points": 974,
+    "points": 1178,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-40-f.png",
     "xws": "fhsre40f",
@@ -7801,7 +9433,7 @@
   },
   {
     "name": "659",
-    "points": 975,
+    "points": 1179,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-40-f.png",
     "xws": "fhsre40f",
@@ -7809,15 +9441,23 @@
   },
   {
     "name": "fh-sre-40-b",
-    "points": 976,
+    "points": 1180,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-40-b.png",
     "xws": "fhsre40b",
-    "assetno": "###"
+    "assetno": "659"
+  },
+  {
+    "name": "659",
+    "points": 1181,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-40-b.png",
+    "xws": "fhsre40b",
+    "assetno": "659"
   },
   {
     "name": "fh-sre-41-f",
-    "points": 977,
+    "points": 1182,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-41-f.png",
     "xws": "fhsre41f",
@@ -7825,7 +9465,7 @@
   },
   {
     "name": "660",
-    "points": 978,
+    "points": 1183,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-41-f.png",
     "xws": "fhsre41f",
@@ -7833,15 +9473,23 @@
   },
   {
     "name": "fh-sre-41-b",
-    "points": 979,
+    "points": 1184,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-41-b.png",
     "xws": "fhsre41b",
-    "assetno": "###"
+    "assetno": "660"
+  },
+  {
+    "name": "660",
+    "points": 1185,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-41-b.png",
+    "xws": "fhsre41b",
+    "assetno": "660"
   },
   {
     "name": "fh-sre-42-f",
-    "points": 980,
+    "points": 1186,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-42-f.png",
     "xws": "fhsre42f",
@@ -7849,7 +9497,7 @@
   },
   {
     "name": "661",
-    "points": 981,
+    "points": 1187,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-42-f.png",
     "xws": "fhsre42f",
@@ -7857,15 +9505,23 @@
   },
   {
     "name": "fh-sre-42-b",
-    "points": 982,
+    "points": 1188,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-42-b.png",
     "xws": "fhsre42b",
-    "assetno": "###"
+    "assetno": "661"
+  },
+  {
+    "name": "661",
+    "points": 1189,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-42-b.png",
+    "xws": "fhsre42b",
+    "assetno": "661"
   },
   {
     "name": "fh-sre-43-f",
-    "points": 983,
+    "points": 1190,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-43-f.png",
     "xws": "fhsre43f",
@@ -7873,7 +9529,7 @@
   },
   {
     "name": "662",
-    "points": 984,
+    "points": 1191,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-43-f.png",
     "xws": "fhsre43f",
@@ -7881,15 +9537,23 @@
   },
   {
     "name": "fh-sre-43-b",
-    "points": 985,
+    "points": 1192,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-43-b.png",
     "xws": "fhsre43b",
-    "assetno": "###"
+    "assetno": "662"
+  },
+  {
+    "name": "662",
+    "points": 1193,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-43-b.png",
+    "xws": "fhsre43b",
+    "assetno": "662"
   },
   {
     "name": "fh-sre-44-f",
-    "points": 986,
+    "points": 1194,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-44-f.png",
     "xws": "fhsre44f",
@@ -7897,7 +9561,7 @@
   },
   {
     "name": "663",
-    "points": 987,
+    "points": 1195,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-44-f.png",
     "xws": "fhsre44f",
@@ -7905,15 +9569,23 @@
   },
   {
     "name": "fh-sre-44-b",
-    "points": 988,
+    "points": 1196,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-44-b.png",
     "xws": "fhsre44b",
-    "assetno": "###"
+    "assetno": "663"
+  },
+  {
+    "name": "663",
+    "points": 1197,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-44-b.png",
+    "xws": "fhsre44b",
+    "assetno": "663"
   },
   {
     "name": "fh-sre-45-f",
-    "points": 989,
+    "points": 1198,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-45-f.png",
     "xws": "fhsre45f",
@@ -7921,7 +9593,7 @@
   },
   {
     "name": "664",
-    "points": 990,
+    "points": 1199,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-45-f.png",
     "xws": "fhsre45f",
@@ -7929,15 +9601,23 @@
   },
   {
     "name": "fh-sre-45-b",
-    "points": 991,
+    "points": 1200,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-45-b.png",
     "xws": "fhsre45b",
-    "assetno": "###"
+    "assetno": "664"
+  },
+  {
+    "name": "664",
+    "points": 1201,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-45-b.png",
+    "xws": "fhsre45b",
+    "assetno": "664"
   },
   {
     "name": "fh-sre-46-f",
-    "points": 992,
+    "points": 1202,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-46-f.png",
     "xws": "fhsre46f",
@@ -7945,7 +9625,7 @@
   },
   {
     "name": "665",
-    "points": 993,
+    "points": 1203,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-46-f.png",
     "xws": "fhsre46f",
@@ -7953,15 +9633,23 @@
   },
   {
     "name": "fh-sre-46-b",
-    "points": 994,
+    "points": 1204,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-46-b.png",
     "xws": "fhsre46b",
-    "assetno": "###"
+    "assetno": "665"
+  },
+  {
+    "name": "665",
+    "points": 1205,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-46-b.png",
+    "xws": "fhsre46b",
+    "assetno": "665"
   },
   {
     "name": "fh-sre-47-f",
-    "points": 995,
+    "points": 1206,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-47-f.png",
     "xws": "fhsre47f",
@@ -7969,7 +9657,7 @@
   },
   {
     "name": "666",
-    "points": 996,
+    "points": 1207,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-47-f.png",
     "xws": "fhsre47f",
@@ -7977,15 +9665,23 @@
   },
   {
     "name": "fh-sre-47-b",
-    "points": 997,
+    "points": 1208,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-47-b.png",
     "xws": "fhsre47b",
-    "assetno": "###"
+    "assetno": "666"
+  },
+  {
+    "name": "666",
+    "points": 1209,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-47-b.png",
+    "xws": "fhsre47b",
+    "assetno": "666"
   },
   {
     "name": "fh-sre-48-f",
-    "points": 998,
+    "points": 1210,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-48-f.png",
     "xws": "fhsre48f",
@@ -7993,7 +9689,7 @@
   },
   {
     "name": "667",
-    "points": 999,
+    "points": 1211,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-48-f.png",
     "xws": "fhsre48f",
@@ -8001,15 +9697,23 @@
   },
   {
     "name": "fh-sre-48-b",
-    "points": 1000,
+    "points": 1212,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-48-b.png",
     "xws": "fhsre48b",
-    "assetno": "###"
+    "assetno": "667"
+  },
+  {
+    "name": "667",
+    "points": 1213,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-48-b.png",
+    "xws": "fhsre48b",
+    "assetno": "667"
   },
   {
     "name": "fh-sre-49-f",
-    "points": 1001,
+    "points": 1214,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-49-f.png",
     "xws": "fhsre49f",
@@ -8017,7 +9721,7 @@
   },
   {
     "name": "668",
-    "points": 1002,
+    "points": 1215,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-49-f.png",
     "xws": "fhsre49f",
@@ -8025,15 +9729,23 @@
   },
   {
     "name": "fh-sre-49-b",
-    "points": 1003,
+    "points": 1216,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-49-b.png",
     "xws": "fhsre49b",
-    "assetno": "###"
+    "assetno": "668"
+  },
+  {
+    "name": "668",
+    "points": 1217,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-49-b.png",
+    "xws": "fhsre49b",
+    "assetno": "668"
   },
   {
     "name": "fh-sre-50-f",
-    "points": 1004,
+    "points": 1218,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-50-f.png",
     "xws": "fhsre50f",
@@ -8041,7 +9753,7 @@
   },
   {
     "name": "669",
-    "points": 1005,
+    "points": 1219,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-50-f.png",
     "xws": "fhsre50f",
@@ -8049,15 +9761,23 @@
   },
   {
     "name": "fh-sre-50-b",
-    "points": 1006,
+    "points": 1220,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-50-b.png",
     "xws": "fhsre50b",
-    "assetno": "###"
+    "assetno": "669"
+  },
+  {
+    "name": "669",
+    "points": 1221,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-50-b.png",
+    "xws": "fhsre50b",
+    "assetno": "669"
   },
   {
     "name": "fh-sre-51-f",
-    "points": 1007,
+    "points": 1222,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-51-f.png",
     "xws": "fhsre51f",
@@ -8065,7 +9785,7 @@
   },
   {
     "name": "670",
-    "points": 1008,
+    "points": 1223,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-51-f.png",
     "xws": "fhsre51f",
@@ -8073,15 +9793,23 @@
   },
   {
     "name": "fh-sre-51-b",
-    "points": 1009,
+    "points": 1224,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-51-b.png",
     "xws": "fhsre51b",
-    "assetno": "###"
+    "assetno": "670"
+  },
+  {
+    "name": "670",
+    "points": 1225,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-51-b.png",
+    "xws": "fhsre51b",
+    "assetno": "670"
   },
   {
     "name": "fh-sre-52-f",
-    "points": 1010,
+    "points": 1226,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-52-f.png",
     "xws": "fhsre52f",
@@ -8089,7 +9817,7 @@
   },
   {
     "name": "671",
-    "points": 1011,
+    "points": 1227,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-52-f.png",
     "xws": "fhsre52f",
@@ -8097,15 +9825,23 @@
   },
   {
     "name": "fh-sre-52-b",
-    "points": 1012,
+    "points": 1228,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-sre-52-b.png",
     "xws": "fhsre52b",
-    "assetno": "###"
+    "assetno": "671"
+  },
+  {
+    "name": "671",
+    "points": 1229,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-sre-52-b.png",
+    "xws": "fhsre52b",
+    "assetno": "671"
   },
   {
     "name": "fh-wre-01-f",
-    "points": 1013,
+    "points": 1230,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-01-f.png",
     "xws": "fhwre01f",
@@ -8113,7 +9849,7 @@
   },
   {
     "name": "672",
-    "points": 1014,
+    "points": 1231,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-01-f.png",
     "xws": "fhwre01f",
@@ -8121,15 +9857,23 @@
   },
   {
     "name": "fh-wre-01-b",
-    "points": 1015,
+    "points": 1232,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-01-b.png",
     "xws": "fhwre01b",
-    "assetno": "###"
+    "assetno": "672"
+  },
+  {
+    "name": "672",
+    "points": 1233,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-01-b.png",
+    "xws": "fhwre01b",
+    "assetno": "672"
   },
   {
     "name": "fh-wre-02-f",
-    "points": 1016,
+    "points": 1234,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-02-f.png",
     "xws": "fhwre02f",
@@ -8137,7 +9881,7 @@
   },
   {
     "name": "673",
-    "points": 1017,
+    "points": 1235,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-02-f.png",
     "xws": "fhwre02f",
@@ -8145,15 +9889,23 @@
   },
   {
     "name": "fh-wre-02-b",
-    "points": 1018,
+    "points": 1236,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-02-b.png",
     "xws": "fhwre02b",
-    "assetno": "###"
+    "assetno": "673"
+  },
+  {
+    "name": "673",
+    "points": 1237,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-02-b.png",
+    "xws": "fhwre02b",
+    "assetno": "673"
   },
   {
     "name": "fh-wre-03-f",
-    "points": 1019,
+    "points": 1238,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-03-f.png",
     "xws": "fhwre03f",
@@ -8161,7 +9913,7 @@
   },
   {
     "name": "674",
-    "points": 1020,
+    "points": 1239,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-03-f.png",
     "xws": "fhwre03f",
@@ -8169,15 +9921,23 @@
   },
   {
     "name": "fh-wre-03-b",
-    "points": 1021,
+    "points": 1240,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-03-b.png",
     "xws": "fhwre03b",
-    "assetno": "###"
+    "assetno": "674"
+  },
+  {
+    "name": "674",
+    "points": 1241,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-03-b.png",
+    "xws": "fhwre03b",
+    "assetno": "674"
   },
   {
     "name": "fh-wre-04-f",
-    "points": 1022,
+    "points": 1242,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-04-f.png",
     "xws": "fhwre04f",
@@ -8185,7 +9945,7 @@
   },
   {
     "name": "675",
-    "points": 1023,
+    "points": 1243,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-04-f.png",
     "xws": "fhwre04f",
@@ -8193,15 +9953,23 @@
   },
   {
     "name": "fh-wre-04-b",
-    "points": 1024,
+    "points": 1244,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-04-b.png",
     "xws": "fhwre04b",
-    "assetno": "###"
+    "assetno": "675"
+  },
+  {
+    "name": "675",
+    "points": 1245,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-04-b.png",
+    "xws": "fhwre04b",
+    "assetno": "675"
   },
   {
     "name": "fh-wre-05-f",
-    "points": 1025,
+    "points": 1246,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-05-f.png",
     "xws": "fhwre05f",
@@ -8209,7 +9977,7 @@
   },
   {
     "name": "676",
-    "points": 1026,
+    "points": 1247,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-05-f.png",
     "xws": "fhwre05f",
@@ -8217,15 +9985,23 @@
   },
   {
     "name": "fh-wre-05-b",
-    "points": 1027,
+    "points": 1248,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-05-b.png",
     "xws": "fhwre05b",
-    "assetno": "###"
+    "assetno": "676"
+  },
+  {
+    "name": "676",
+    "points": 1249,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-05-b.png",
+    "xws": "fhwre05b",
+    "assetno": "676"
   },
   {
     "name": "fh-wre-06-f",
-    "points": 1028,
+    "points": 1250,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-06-f.png",
     "xws": "fhwre06f",
@@ -8233,7 +10009,7 @@
   },
   {
     "name": "677",
-    "points": 1029,
+    "points": 1251,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-06-f.png",
     "xws": "fhwre06f",
@@ -8241,15 +10017,23 @@
   },
   {
     "name": "fh-wre-06-b",
-    "points": 1030,
+    "points": 1252,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-06-b.png",
     "xws": "fhwre06b",
-    "assetno": "###"
+    "assetno": "677"
+  },
+  {
+    "name": "677",
+    "points": 1253,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-06-b.png",
+    "xws": "fhwre06b",
+    "assetno": "677"
   },
   {
     "name": "fh-wre-07-f",
-    "points": 1031,
+    "points": 1254,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-07-f.png",
     "xws": "fhwre07f",
@@ -8257,7 +10041,7 @@
   },
   {
     "name": "678",
-    "points": 1032,
+    "points": 1255,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-07-f.png",
     "xws": "fhwre07f",
@@ -8265,15 +10049,23 @@
   },
   {
     "name": "fh-wre-07-b",
-    "points": 1033,
+    "points": 1256,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-07-b.png",
     "xws": "fhwre07b",
-    "assetno": "###"
+    "assetno": "678"
+  },
+  {
+    "name": "678",
+    "points": 1257,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-07-b.png",
+    "xws": "fhwre07b",
+    "assetno": "678"
   },
   {
     "name": "fh-wre-08-f",
-    "points": 1034,
+    "points": 1258,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-08-f.png",
     "xws": "fhwre08f",
@@ -8281,7 +10073,7 @@
   },
   {
     "name": "679",
-    "points": 1035,
+    "points": 1259,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-08-f.png",
     "xws": "fhwre08f",
@@ -8289,15 +10081,23 @@
   },
   {
     "name": "fh-wre-08-b",
-    "points": 1036,
+    "points": 1260,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-08-b.png",
     "xws": "fhwre08b",
-    "assetno": "###"
+    "assetno": "679"
+  },
+  {
+    "name": "679",
+    "points": 1261,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-08-b.png",
+    "xws": "fhwre08b",
+    "assetno": "679"
   },
   {
     "name": "fh-wre-09-f",
-    "points": 1037,
+    "points": 1262,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-09-f.png",
     "xws": "fhwre09f",
@@ -8305,7 +10105,7 @@
   },
   {
     "name": "680",
-    "points": 1038,
+    "points": 1263,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-09-f.png",
     "xws": "fhwre09f",
@@ -8313,15 +10113,23 @@
   },
   {
     "name": "fh-wre-09-b",
-    "points": 1039,
+    "points": 1264,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-09-b.png",
     "xws": "fhwre09b",
-    "assetno": "###"
+    "assetno": "680"
+  },
+  {
+    "name": "680",
+    "points": 1265,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-09-b.png",
+    "xws": "fhwre09b",
+    "assetno": "680"
   },
   {
     "name": "fh-wre-10-f",
-    "points": 1040,
+    "points": 1266,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-10-f.png",
     "xws": "fhwre10f",
@@ -8329,7 +10137,7 @@
   },
   {
     "name": "681",
-    "points": 1041,
+    "points": 1267,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-10-f.png",
     "xws": "fhwre10f",
@@ -8337,15 +10145,23 @@
   },
   {
     "name": "fh-wre-10-b",
-    "points": 1042,
+    "points": 1268,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-10-b.png",
     "xws": "fhwre10b",
-    "assetno": "###"
+    "assetno": "681"
+  },
+  {
+    "name": "681",
+    "points": 1269,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-10-b.png",
+    "xws": "fhwre10b",
+    "assetno": "681"
   },
   {
     "name": "fh-wre-11-f",
-    "points": 1043,
+    "points": 1270,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-11-f.png",
     "xws": "fhwre11f",
@@ -8353,7 +10169,7 @@
   },
   {
     "name": "682",
-    "points": 1044,
+    "points": 1271,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-11-f.png",
     "xws": "fhwre11f",
@@ -8361,15 +10177,23 @@
   },
   {
     "name": "fh-wre-11-b",
-    "points": 1045,
+    "points": 1272,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-11-b.png",
     "xws": "fhwre11b",
-    "assetno": "###"
+    "assetno": "682"
+  },
+  {
+    "name": "682",
+    "points": 1273,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-11-b.png",
+    "xws": "fhwre11b",
+    "assetno": "682"
   },
   {
     "name": "fh-wre-12-f",
-    "points": 1046,
+    "points": 1274,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-12-f.png",
     "xws": "fhwre12f",
@@ -8377,7 +10201,7 @@
   },
   {
     "name": "683",
-    "points": 1047,
+    "points": 1275,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-12-f.png",
     "xws": "fhwre12f",
@@ -8385,15 +10209,23 @@
   },
   {
     "name": "fh-wre-12-b",
-    "points": 1048,
+    "points": 1276,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-12-b.png",
     "xws": "fhwre12b",
-    "assetno": "###"
+    "assetno": "683"
+  },
+  {
+    "name": "683",
+    "points": 1277,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-12-b.png",
+    "xws": "fhwre12b",
+    "assetno": "683"
   },
   {
     "name": "fh-wre-13-f",
-    "points": 1049,
+    "points": 1278,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-13-f.png",
     "xws": "fhwre13f",
@@ -8401,7 +10233,7 @@
   },
   {
     "name": "684",
-    "points": 1050,
+    "points": 1279,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-13-f.png",
     "xws": "fhwre13f",
@@ -8409,15 +10241,23 @@
   },
   {
     "name": "fh-wre-13-b",
-    "points": 1051,
+    "points": 1280,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-13-b.png",
     "xws": "fhwre13b",
-    "assetno": "###"
+    "assetno": "684"
+  },
+  {
+    "name": "684",
+    "points": 1281,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-13-b.png",
+    "xws": "fhwre13b",
+    "assetno": "684"
   },
   {
     "name": "fh-wre-14-f",
-    "points": 1052,
+    "points": 1282,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-14-f.png",
     "xws": "fhwre14f",
@@ -8425,7 +10265,7 @@
   },
   {
     "name": "685",
-    "points": 1053,
+    "points": 1283,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-14-f.png",
     "xws": "fhwre14f",
@@ -8433,15 +10273,23 @@
   },
   {
     "name": "fh-wre-14-b",
-    "points": 1054,
+    "points": 1284,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-14-b.png",
     "xws": "fhwre14b",
-    "assetno": "###"
+    "assetno": "685"
+  },
+  {
+    "name": "685",
+    "points": 1285,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-14-b.png",
+    "xws": "fhwre14b",
+    "assetno": "685"
   },
   {
     "name": "fh-wre-15-f",
-    "points": 1055,
+    "points": 1286,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-15-f.png",
     "xws": "fhwre15f",
@@ -8449,7 +10297,7 @@
   },
   {
     "name": "686",
-    "points": 1056,
+    "points": 1287,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-15-f.png",
     "xws": "fhwre15f",
@@ -8457,15 +10305,23 @@
   },
   {
     "name": "fh-wre-15-b",
-    "points": 1057,
+    "points": 1288,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-15-b.png",
     "xws": "fhwre15b",
-    "assetno": "###"
+    "assetno": "686"
+  },
+  {
+    "name": "686",
+    "points": 1289,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-15-b.png",
+    "xws": "fhwre15b",
+    "assetno": "686"
   },
   {
     "name": "fh-wre-16-f",
-    "points": 1058,
+    "points": 1290,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-16-f.png",
     "xws": "fhwre16f",
@@ -8473,7 +10329,7 @@
   },
   {
     "name": "687",
-    "points": 1059,
+    "points": 1291,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-16-f.png",
     "xws": "fhwre16f",
@@ -8481,15 +10337,23 @@
   },
   {
     "name": "fh-wre-16-b",
-    "points": 1060,
+    "points": 1292,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-16-b.png",
     "xws": "fhwre16b",
-    "assetno": "###"
+    "assetno": "687"
+  },
+  {
+    "name": "687",
+    "points": 1293,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-16-b.png",
+    "xws": "fhwre16b",
+    "assetno": "687"
   },
   {
     "name": "fh-wre-17-f",
-    "points": 1061,
+    "points": 1294,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-17-f.png",
     "xws": "fhwre17f",
@@ -8497,7 +10361,7 @@
   },
   {
     "name": "688",
-    "points": 1062,
+    "points": 1295,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-17-f.png",
     "xws": "fhwre17f",
@@ -8505,15 +10369,23 @@
   },
   {
     "name": "fh-wre-17-b",
-    "points": 1063,
+    "points": 1296,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-17-b.png",
     "xws": "fhwre17b",
-    "assetno": "###"
+    "assetno": "688"
+  },
+  {
+    "name": "688",
+    "points": 1297,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-17-b.png",
+    "xws": "fhwre17b",
+    "assetno": "688"
   },
   {
     "name": "fh-wre-18-f",
-    "points": 1064,
+    "points": 1298,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-18-f.png",
     "xws": "fhwre18f",
@@ -8521,7 +10393,7 @@
   },
   {
     "name": "689",
-    "points": 1065,
+    "points": 1299,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-18-f.png",
     "xws": "fhwre18f",
@@ -8529,15 +10401,23 @@
   },
   {
     "name": "fh-wre-18-b",
-    "points": 1066,
+    "points": 1300,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-18-b.png",
     "xws": "fhwre18b",
-    "assetno": "###"
+    "assetno": "689"
+  },
+  {
+    "name": "689",
+    "points": 1301,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-18-b.png",
+    "xws": "fhwre18b",
+    "assetno": "689"
   },
   {
     "name": "fh-wre-19-f",
-    "points": 1067,
+    "points": 1302,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-19-f.png",
     "xws": "fhwre19f",
@@ -8545,7 +10425,7 @@
   },
   {
     "name": "690",
-    "points": 1068,
+    "points": 1303,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-19-f.png",
     "xws": "fhwre19f",
@@ -8553,15 +10433,23 @@
   },
   {
     "name": "fh-wre-19-b",
-    "points": 1069,
+    "points": 1304,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-19-b.png",
     "xws": "fhwre19b",
-    "assetno": "###"
+    "assetno": "690"
+  },
+  {
+    "name": "690",
+    "points": 1305,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-19-b.png",
+    "xws": "fhwre19b",
+    "assetno": "690"
   },
   {
     "name": "fh-wre-20-f",
-    "points": 1070,
+    "points": 1306,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-20-f.png",
     "xws": "fhwre20f",
@@ -8569,7 +10457,7 @@
   },
   {
     "name": "691",
-    "points": 1071,
+    "points": 1307,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-20-f.png",
     "xws": "fhwre20f",
@@ -8577,15 +10465,23 @@
   },
   {
     "name": "fh-wre-20-b",
-    "points": 1072,
+    "points": 1308,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-20-b.png",
     "xws": "fhwre20b",
-    "assetno": "###"
+    "assetno": "691"
+  },
+  {
+    "name": "691",
+    "points": 1309,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-20-b.png",
+    "xws": "fhwre20b",
+    "assetno": "691"
   },
   {
     "name": "fh-wre-21-f",
-    "points": 1073,
+    "points": 1310,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-21-f.png",
     "xws": "fhwre21f",
@@ -8593,7 +10489,7 @@
   },
   {
     "name": "692",
-    "points": 1074,
+    "points": 1311,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-21-f.png",
     "xws": "fhwre21f",
@@ -8601,15 +10497,23 @@
   },
   {
     "name": "fh-wre-21-b",
-    "points": 1075,
+    "points": 1312,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-21-b.png",
     "xws": "fhwre21b",
-    "assetno": "###"
+    "assetno": "692"
+  },
+  {
+    "name": "692",
+    "points": 1313,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-21-b.png",
+    "xws": "fhwre21b",
+    "assetno": "692"
   },
   {
     "name": "fh-wre-22-f",
-    "points": 1076,
+    "points": 1314,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-22-f.png",
     "xws": "fhwre22f",
@@ -8617,7 +10521,7 @@
   },
   {
     "name": "693",
-    "points": 1077,
+    "points": 1315,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-22-f.png",
     "xws": "fhwre22f",
@@ -8625,15 +10529,23 @@
   },
   {
     "name": "fh-wre-22-b",
-    "points": 1078,
+    "points": 1316,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-22-b.png",
     "xws": "fhwre22b",
-    "assetno": "###"
+    "assetno": "693"
+  },
+  {
+    "name": "693",
+    "points": 1317,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-22-b.png",
+    "xws": "fhwre22b",
+    "assetno": "693"
   },
   {
     "name": "fh-wre-23-f",
-    "points": 1079,
+    "points": 1318,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-23-f.png",
     "xws": "fhwre23f",
@@ -8641,7 +10553,7 @@
   },
   {
     "name": "694",
-    "points": 1080,
+    "points": 1319,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-23-f.png",
     "xws": "fhwre23f",
@@ -8649,15 +10561,23 @@
   },
   {
     "name": "fh-wre-23-b",
-    "points": 1081,
+    "points": 1320,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-23-b.png",
     "xws": "fhwre23b",
-    "assetno": "###"
+    "assetno": "694"
+  },
+  {
+    "name": "694",
+    "points": 1321,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-23-b.png",
+    "xws": "fhwre23b",
+    "assetno": "694"
   },
   {
     "name": "fh-wre-24-f",
-    "points": 1082,
+    "points": 1322,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-24-f.png",
     "xws": "fhwre24f",
@@ -8665,7 +10585,7 @@
   },
   {
     "name": "695",
-    "points": 1083,
+    "points": 1323,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-24-f.png",
     "xws": "fhwre24f",
@@ -8673,15 +10593,23 @@
   },
   {
     "name": "fh-wre-24-b",
-    "points": 1084,
+    "points": 1324,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-24-b.png",
     "xws": "fhwre24b",
-    "assetno": "###"
+    "assetno": "695"
+  },
+  {
+    "name": "695",
+    "points": 1325,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-24-b.png",
+    "xws": "fhwre24b",
+    "assetno": "695"
   },
   {
     "name": "fh-wre-25-f",
-    "points": 1085,
+    "points": 1326,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-25-f.png",
     "xws": "fhwre25f",
@@ -8689,7 +10617,7 @@
   },
   {
     "name": "696",
-    "points": 1086,
+    "points": 1327,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-25-f.png",
     "xws": "fhwre25f",
@@ -8697,15 +10625,23 @@
   },
   {
     "name": "fh-wre-25-b",
-    "points": 1087,
+    "points": 1328,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-25-b.png",
     "xws": "fhwre25b",
-    "assetno": "###"
+    "assetno": "696"
+  },
+  {
+    "name": "696",
+    "points": 1329,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-25-b.png",
+    "xws": "fhwre25b",
+    "assetno": "696"
   },
   {
     "name": "fh-wre-26-f",
-    "points": 1088,
+    "points": 1330,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-26-f.png",
     "xws": "fhwre26f",
@@ -8713,7 +10649,7 @@
   },
   {
     "name": "697",
-    "points": 1089,
+    "points": 1331,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-26-f.png",
     "xws": "fhwre26f",
@@ -8721,15 +10657,23 @@
   },
   {
     "name": "fh-wre-26-b",
-    "points": 1090,
+    "points": 1332,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-26-b.png",
     "xws": "fhwre26b",
-    "assetno": "###"
+    "assetno": "697"
+  },
+  {
+    "name": "697",
+    "points": 1333,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-26-b.png",
+    "xws": "fhwre26b",
+    "assetno": "697"
   },
   {
     "name": "fh-wre-27-f",
-    "points": 1091,
+    "points": 1334,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-27-f.png",
     "xws": "fhwre27f",
@@ -8737,7 +10681,7 @@
   },
   {
     "name": "698",
-    "points": 1092,
+    "points": 1335,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-27-f.png",
     "xws": "fhwre27f",
@@ -8745,15 +10689,23 @@
   },
   {
     "name": "fh-wre-27-b",
-    "points": 1093,
+    "points": 1336,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-27-b.png",
     "xws": "fhwre27b",
-    "assetno": "###"
+    "assetno": "698"
+  },
+  {
+    "name": "698",
+    "points": 1337,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-27-b.png",
+    "xws": "fhwre27b",
+    "assetno": "698"
   },
   {
     "name": "fh-wre-28-f",
-    "points": 1094,
+    "points": 1338,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-28-f.png",
     "xws": "fhwre28f",
@@ -8761,7 +10713,7 @@
   },
   {
     "name": "699",
-    "points": 1095,
+    "points": 1339,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-28-f.png",
     "xws": "fhwre28f",
@@ -8769,15 +10721,23 @@
   },
   {
     "name": "fh-wre-28-b",
-    "points": 1096,
+    "points": 1340,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-28-b.png",
     "xws": "fhwre28b",
-    "assetno": "###"
+    "assetno": "699"
+  },
+  {
+    "name": "699",
+    "points": 1341,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-28-b.png",
+    "xws": "fhwre28b",
+    "assetno": "699"
   },
   {
     "name": "fh-wre-29-f",
-    "points": 1097,
+    "points": 1342,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-29-f.png",
     "xws": "fhwre29f",
@@ -8785,7 +10745,7 @@
   },
   {
     "name": "700",
-    "points": 1098,
+    "points": 1343,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-29-f.png",
     "xws": "fhwre29f",
@@ -8793,15 +10753,23 @@
   },
   {
     "name": "fh-wre-29-b",
-    "points": 1099,
+    "points": 1344,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-29-b.png",
     "xws": "fhwre29b",
-    "assetno": "###"
+    "assetno": "700"
+  },
+  {
+    "name": "700",
+    "points": 1345,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-29-b.png",
+    "xws": "fhwre29b",
+    "assetno": "700"
   },
   {
     "name": "fh-wre-30-f",
-    "points": 1100,
+    "points": 1346,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-30-f.png",
     "xws": "fhwre30f",
@@ -8809,7 +10777,7 @@
   },
   {
     "name": "701",
-    "points": 1101,
+    "points": 1347,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-30-f.png",
     "xws": "fhwre30f",
@@ -8817,15 +10785,23 @@
   },
   {
     "name": "fh-wre-30-b",
-    "points": 1102,
+    "points": 1348,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-30-b.png",
     "xws": "fhwre30b",
-    "assetno": "###"
+    "assetno": "701"
+  },
+  {
+    "name": "701",
+    "points": 1349,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-30-b.png",
+    "xws": "fhwre30b",
+    "assetno": "701"
   },
   {
     "name": "fh-wre-31-f",
-    "points": 1103,
+    "points": 1350,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-31-f.png",
     "xws": "fhwre31f",
@@ -8833,7 +10809,7 @@
   },
   {
     "name": "702",
-    "points": 1104,
+    "points": 1351,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-31-f.png",
     "xws": "fhwre31f",
@@ -8841,15 +10817,23 @@
   },
   {
     "name": "fh-wre-31-b",
-    "points": 1105,
+    "points": 1352,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-31-b.png",
     "xws": "fhwre31b",
-    "assetno": "###"
+    "assetno": "702"
+  },
+  {
+    "name": "702",
+    "points": 1353,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-31-b.png",
+    "xws": "fhwre31b",
+    "assetno": "702"
   },
   {
     "name": "fh-wre-32-f",
-    "points": 1106,
+    "points": 1354,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-32-f.png",
     "xws": "fhwre32f",
@@ -8857,7 +10841,7 @@
   },
   {
     "name": "703",
-    "points": 1107,
+    "points": 1355,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-32-f.png",
     "xws": "fhwre32f",
@@ -8865,15 +10849,23 @@
   },
   {
     "name": "fh-wre-32-b",
-    "points": 1108,
+    "points": 1356,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-32-b.png",
     "xws": "fhwre32b",
-    "assetno": "###"
+    "assetno": "703"
+  },
+  {
+    "name": "703",
+    "points": 1357,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-32-b.png",
+    "xws": "fhwre32b",
+    "assetno": "703"
   },
   {
     "name": "fh-wre-33-f",
-    "points": 1109,
+    "points": 1358,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-33-f.png",
     "xws": "fhwre33f",
@@ -8881,7 +10873,7 @@
   },
   {
     "name": "704",
-    "points": 1110,
+    "points": 1359,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-33-f.png",
     "xws": "fhwre33f",
@@ -8889,15 +10881,23 @@
   },
   {
     "name": "fh-wre-33-b",
-    "points": 1111,
+    "points": 1360,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-33-b.png",
     "xws": "fhwre33b",
-    "assetno": "###"
+    "assetno": "704"
+  },
+  {
+    "name": "704",
+    "points": 1361,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-33-b.png",
+    "xws": "fhwre33b",
+    "assetno": "704"
   },
   {
     "name": "fh-wre-34-f",
-    "points": 1112,
+    "points": 1362,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-34-f.png",
     "xws": "fhwre34f",
@@ -8905,7 +10905,7 @@
   },
   {
     "name": "705",
-    "points": 1113,
+    "points": 1363,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-34-f.png",
     "xws": "fhwre34f",
@@ -8913,15 +10913,23 @@
   },
   {
     "name": "fh-wre-34-b",
-    "points": 1114,
+    "points": 1364,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-34-b.png",
     "xws": "fhwre34b",
-    "assetno": "###"
+    "assetno": "705"
+  },
+  {
+    "name": "705",
+    "points": 1365,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-34-b.png",
+    "xws": "fhwre34b",
+    "assetno": "705"
   },
   {
     "name": "fh-wre-35-f",
-    "points": 1115,
+    "points": 1366,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-35-f.png",
     "xws": "fhwre35f",
@@ -8929,7 +10937,7 @@
   },
   {
     "name": "706",
-    "points": 1116,
+    "points": 1367,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-35-f.png",
     "xws": "fhwre35f",
@@ -8937,15 +10945,23 @@
   },
   {
     "name": "fh-wre-35-b",
-    "points": 1117,
+    "points": 1368,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-35-b.png",
     "xws": "fhwre35b",
-    "assetno": "###"
+    "assetno": "706"
+  },
+  {
+    "name": "706",
+    "points": 1369,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-35-b.png",
+    "xws": "fhwre35b",
+    "assetno": "706"
   },
   {
     "name": "fh-wre-36-f",
-    "points": 1118,
+    "points": 1370,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-36-f.png",
     "xws": "fhwre36f",
@@ -8953,7 +10969,7 @@
   },
   {
     "name": "707",
-    "points": 1119,
+    "points": 1371,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-36-f.png",
     "xws": "fhwre36f",
@@ -8961,15 +10977,23 @@
   },
   {
     "name": "fh-wre-36-b",
-    "points": 1120,
+    "points": 1372,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-36-b.png",
     "xws": "fhwre36b",
-    "assetno": "###"
+    "assetno": "707"
+  },
+  {
+    "name": "707",
+    "points": 1373,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-36-b.png",
+    "xws": "fhwre36b",
+    "assetno": "707"
   },
   {
     "name": "fh-wre-37-f",
-    "points": 1121,
+    "points": 1374,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-37-f.png",
     "xws": "fhwre37f",
@@ -8977,7 +11001,7 @@
   },
   {
     "name": "708",
-    "points": 1122,
+    "points": 1375,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-37-f.png",
     "xws": "fhwre37f",
@@ -8985,15 +11009,23 @@
   },
   {
     "name": "fh-wre-37-b",
-    "points": 1123,
+    "points": 1376,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-37-b.png",
     "xws": "fhwre37b",
-    "assetno": "###"
+    "assetno": "708"
+  },
+  {
+    "name": "708",
+    "points": 1377,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-37-b.png",
+    "xws": "fhwre37b",
+    "assetno": "708"
   },
   {
     "name": "fh-wre-38-f",
-    "points": 1124,
+    "points": 1378,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-38-f.png",
     "xws": "fhwre38f",
@@ -9001,7 +11033,7 @@
   },
   {
     "name": "709",
-    "points": 1125,
+    "points": 1379,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-38-f.png",
     "xws": "fhwre38f",
@@ -9009,15 +11041,23 @@
   },
   {
     "name": "fh-wre-38-b",
-    "points": 1126,
+    "points": 1380,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-38-b.png",
     "xws": "fhwre38b",
-    "assetno": "###"
+    "assetno": "709"
+  },
+  {
+    "name": "709",
+    "points": 1381,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-38-b.png",
+    "xws": "fhwre38b",
+    "assetno": "709"
   },
   {
     "name": "fh-wre-39-f",
-    "points": 1127,
+    "points": 1382,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-39-f.png",
     "xws": "fhwre39f",
@@ -9025,7 +11065,7 @@
   },
   {
     "name": "710",
-    "points": 1128,
+    "points": 1383,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-39-f.png",
     "xws": "fhwre39f",
@@ -9033,15 +11073,23 @@
   },
   {
     "name": "fh-wre-39-b",
-    "points": 1129,
+    "points": 1384,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-39-b.png",
     "xws": "fhwre39b",
-    "assetno": "###"
+    "assetno": "710"
+  },
+  {
+    "name": "710",
+    "points": 1385,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-39-b.png",
+    "xws": "fhwre39b",
+    "assetno": "710"
   },
   {
     "name": "fh-wre-40-f",
-    "points": 1130,
+    "points": 1386,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-40-f.png",
     "xws": "fhwre40f",
@@ -9049,7 +11097,7 @@
   },
   {
     "name": "711",
-    "points": 1131,
+    "points": 1387,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-40-f.png",
     "xws": "fhwre40f",
@@ -9057,15 +11105,23 @@
   },
   {
     "name": "fh-wre-40-b",
-    "points": 1132,
+    "points": 1388,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-40-b.png",
     "xws": "fhwre40b",
-    "assetno": "###"
+    "assetno": "711"
+  },
+  {
+    "name": "711",
+    "points": 1389,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-40-b.png",
+    "xws": "fhwre40b",
+    "assetno": "711"
   },
   {
     "name": "fh-wre-41-f",
-    "points": 1133,
+    "points": 1390,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-41-f.png",
     "xws": "fhwre41f",
@@ -9073,7 +11129,7 @@
   },
   {
     "name": "712",
-    "points": 1134,
+    "points": 1391,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-41-f.png",
     "xws": "fhwre41f",
@@ -9081,15 +11137,23 @@
   },
   {
     "name": "fh-wre-41-b",
-    "points": 1135,
+    "points": 1392,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-41-b.png",
     "xws": "fhwre41b",
-    "assetno": "###"
+    "assetno": "712"
+  },
+  {
+    "name": "712",
+    "points": 1393,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-41-b.png",
+    "xws": "fhwre41b",
+    "assetno": "712"
   },
   {
     "name": "fh-wre-42-f",
-    "points": 1136,
+    "points": 1394,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-42-f.png",
     "xws": "fhwre42f",
@@ -9097,7 +11161,7 @@
   },
   {
     "name": "713",
-    "points": 1137,
+    "points": 1395,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-42-f.png",
     "xws": "fhwre42f",
@@ -9105,15 +11169,23 @@
   },
   {
     "name": "fh-wre-42-b",
-    "points": 1138,
+    "points": 1396,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-42-b.png",
     "xws": "fhwre42b",
-    "assetno": "###"
+    "assetno": "713"
+  },
+  {
+    "name": "713",
+    "points": 1397,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-42-b.png",
+    "xws": "fhwre42b",
+    "assetno": "713"
   },
   {
     "name": "fh-wre-43-f",
-    "points": 1139,
+    "points": 1398,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-43-f.png",
     "xws": "fhwre43f",
@@ -9121,7 +11193,7 @@
   },
   {
     "name": "714",
-    "points": 1140,
+    "points": 1399,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-43-f.png",
     "xws": "fhwre43f",
@@ -9129,15 +11201,23 @@
   },
   {
     "name": "fh-wre-43-b",
-    "points": 1141,
+    "points": 1400,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-43-b.png",
     "xws": "fhwre43b",
-    "assetno": "###"
+    "assetno": "714"
+  },
+  {
+    "name": "714",
+    "points": 1401,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-43-b.png",
+    "xws": "fhwre43b",
+    "assetno": "714"
   },
   {
     "name": "fh-wre-44-f",
-    "points": 1142,
+    "points": 1402,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-44-f.png",
     "xws": "fhwre44f",
@@ -9145,7 +11225,7 @@
   },
   {
     "name": "715",
-    "points": 1143,
+    "points": 1403,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-44-f.png",
     "xws": "fhwre44f",
@@ -9153,15 +11233,23 @@
   },
   {
     "name": "fh-wre-44-b",
-    "points": 1144,
+    "points": 1404,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-44-b.png",
     "xws": "fhwre44b",
-    "assetno": "###"
+    "assetno": "715"
+  },
+  {
+    "name": "715",
+    "points": 1405,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-44-b.png",
+    "xws": "fhwre44b",
+    "assetno": "715"
   },
   {
     "name": "fh-wre-45-f",
-    "points": 1145,
+    "points": 1406,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-45-f.png",
     "xws": "fhwre45f",
@@ -9169,7 +11257,7 @@
   },
   {
     "name": "716",
-    "points": 1146,
+    "points": 1407,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-45-f.png",
     "xws": "fhwre45f",
@@ -9177,15 +11265,23 @@
   },
   {
     "name": "fh-wre-45-b",
-    "points": 1147,
+    "points": 1408,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-45-b.png",
     "xws": "fhwre45b",
-    "assetno": "###"
+    "assetno": "716"
+  },
+  {
+    "name": "716",
+    "points": 1409,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-45-b.png",
+    "xws": "fhwre45b",
+    "assetno": "716"
   },
   {
     "name": "fh-wre-46-f",
-    "points": 1148,
+    "points": 1410,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-46-f.png",
     "xws": "fhwre46f",
@@ -9193,7 +11289,7 @@
   },
   {
     "name": "717",
-    "points": 1149,
+    "points": 1411,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-46-f.png",
     "xws": "fhwre46f",
@@ -9201,15 +11297,23 @@
   },
   {
     "name": "fh-wre-46-b",
-    "points": 1150,
+    "points": 1412,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-46-b.png",
     "xws": "fhwre46b",
-    "assetno": "###"
+    "assetno": "717"
+  },
+  {
+    "name": "717",
+    "points": 1413,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-46-b.png",
+    "xws": "fhwre46b",
+    "assetno": "717"
   },
   {
     "name": "fh-wre-47-f",
-    "points": 1151,
+    "points": 1414,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-47-f.png",
     "xws": "fhwre47f",
@@ -9217,7 +11321,7 @@
   },
   {
     "name": "718",
-    "points": 1152,
+    "points": 1415,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-47-f.png",
     "xws": "fhwre47f",
@@ -9225,15 +11329,23 @@
   },
   {
     "name": "fh-wre-47-b",
-    "points": 1153,
+    "points": 1416,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-47-b.png",
     "xws": "fhwre47b",
-    "assetno": "###"
+    "assetno": "718"
+  },
+  {
+    "name": "718",
+    "points": 1417,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-47-b.png",
+    "xws": "fhwre47b",
+    "assetno": "718"
   },
   {
     "name": "fh-wre-48-f",
-    "points": 1154,
+    "points": 1418,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-48-f.png",
     "xws": "fhwre48f",
@@ -9241,7 +11353,7 @@
   },
   {
     "name": "719",
-    "points": 1155,
+    "points": 1419,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-48-f.png",
     "xws": "fhwre48f",
@@ -9249,15 +11361,23 @@
   },
   {
     "name": "fh-wre-48-b",
-    "points": 1156,
+    "points": 1420,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-48-b.png",
     "xws": "fhwre48b",
-    "assetno": "###"
+    "assetno": "719"
+  },
+  {
+    "name": "719",
+    "points": 1421,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-48-b.png",
+    "xws": "fhwre48b",
+    "assetno": "719"
   },
   {
     "name": "fh-wre-49-f",
-    "points": 1157,
+    "points": 1422,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-49-f.png",
     "xws": "fhwre49f",
@@ -9265,7 +11385,7 @@
   },
   {
     "name": "720",
-    "points": 1158,
+    "points": 1423,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-49-f.png",
     "xws": "fhwre49f",
@@ -9273,15 +11393,23 @@
   },
   {
     "name": "fh-wre-49-b",
-    "points": 1159,
+    "points": 1424,
     "expansion": "frosthaven",
     "image": "events/frosthaven/road/fh-wre-49-b.png",
     "xws": "fhwre49b",
-    "assetno": "###"
+    "assetno": "720"
+  },
+  {
+    "name": "720",
+    "points": 1425,
+    "expansion": "frosthaven",
+    "image": "events/frosthaven/road/fh-wre-49-b.png",
+    "xws": "fhwre49b",
+    "assetno": "720"
   },
   {
     "name": "jl-ce-01-b",
-    "points": 1160,
+    "points": 1426,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-01-b.png",
     "xws": "jlce01b",
@@ -9289,7 +11417,7 @@
   },
   {
     "name": "jl-ce-01-f",
-    "points": 1161,
+    "points": 1427,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-01-f.png",
     "xws": "jlce01f",
@@ -9297,7 +11425,7 @@
   },
   {
     "name": "jl-ce-02-b",
-    "points": 1162,
+    "points": 1428,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-02-b.png",
     "xws": "jlce02b",
@@ -9305,7 +11433,7 @@
   },
   {
     "name": "jl-ce-02-f",
-    "points": 1163,
+    "points": 1429,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-02-f.png",
     "xws": "jlce02f",
@@ -9313,7 +11441,7 @@
   },
   {
     "name": "jl-ce-03-b",
-    "points": 1164,
+    "points": 1430,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-03-b.png",
     "xws": "jlce03b",
@@ -9321,7 +11449,7 @@
   },
   {
     "name": "jl-ce-03-f",
-    "points": 1165,
+    "points": 1431,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-03-f.png",
     "xws": "jlce03f",
@@ -9329,7 +11457,7 @@
   },
   {
     "name": "jl-ce-04-b",
-    "points": 1166,
+    "points": 1432,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-04-b.png",
     "xws": "jlce04b",
@@ -9337,7 +11465,7 @@
   },
   {
     "name": "jl-ce-04-f",
-    "points": 1167,
+    "points": 1433,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-04-f.png",
     "xws": "jlce04f",
@@ -9345,7 +11473,7 @@
   },
   {
     "name": "jl-ce-05-b",
-    "points": 1168,
+    "points": 1434,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-05-b.png",
     "xws": "jlce05b",
@@ -9353,7 +11481,7 @@
   },
   {
     "name": "jl-ce-05-f",
-    "points": 1169,
+    "points": 1435,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-05-f.png",
     "xws": "jlce05f",
@@ -9361,7 +11489,7 @@
   },
   {
     "name": "jl-ce-06-b",
-    "points": 1170,
+    "points": 1436,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-06-b.png",
     "xws": "jlce06b",
@@ -9369,7 +11497,7 @@
   },
   {
     "name": "jl-ce-06-f",
-    "points": 1171,
+    "points": 1437,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-06-f.png",
     "xws": "jlce06f",
@@ -9377,7 +11505,7 @@
   },
   {
     "name": "jl-ce-07-b",
-    "points": 1172,
+    "points": 1438,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-07-b.png",
     "xws": "jlce07b",
@@ -9385,7 +11513,7 @@
   },
   {
     "name": "jl-ce-07-f",
-    "points": 1173,
+    "points": 1439,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-07-f.png",
     "xws": "jlce07f",
@@ -9393,7 +11521,7 @@
   },
   {
     "name": "jl-ce-08-b",
-    "points": 1174,
+    "points": 1440,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-08-b.png",
     "xws": "jlce08b",
@@ -9401,7 +11529,7 @@
   },
   {
     "name": "jl-ce-08-f",
-    "points": 1175,
+    "points": 1441,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-08-f.png",
     "xws": "jlce08f",
@@ -9409,7 +11537,7 @@
   },
   {
     "name": "jl-ce-09-b",
-    "points": 1176,
+    "points": 1442,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-09-b.png",
     "xws": "jlce09b",
@@ -9417,7 +11545,7 @@
   },
   {
     "name": "jl-ce-09-f",
-    "points": 1177,
+    "points": 1443,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-09-f.png",
     "xws": "jlce09f",
@@ -9425,7 +11553,7 @@
   },
   {
     "name": "jl-ce-10-b",
-    "points": 1178,
+    "points": 1444,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-10-b.png",
     "xws": "jlce10b",
@@ -9433,7 +11561,7 @@
   },
   {
     "name": "jl-ce-10-f",
-    "points": 1179,
+    "points": 1445,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-10-f.png",
     "xws": "jlce10f",
@@ -9441,7 +11569,7 @@
   },
   {
     "name": "jl-ce-11-b",
-    "points": 1180,
+    "points": 1446,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-11-b.png",
     "xws": "jlce11b",
@@ -9449,7 +11577,7 @@
   },
   {
     "name": "jl-ce-11-f",
-    "points": 1181,
+    "points": 1447,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-11-f.png",
     "xws": "jlce11f",
@@ -9457,7 +11585,7 @@
   },
   {
     "name": "jl-ce-12-b",
-    "points": 1182,
+    "points": 1448,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-12-b.png",
     "xws": "jlce12b",
@@ -9465,7 +11593,7 @@
   },
   {
     "name": "jl-ce-12-f",
-    "points": 1183,
+    "points": 1449,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-12-f.png",
     "xws": "jlce12f",
@@ -9473,7 +11601,7 @@
   },
   {
     "name": "jl-ce-13-b",
-    "points": 1184,
+    "points": 1450,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-13-b.png",
     "xws": "jlce13b",
@@ -9481,7 +11609,7 @@
   },
   {
     "name": "jl-ce-13-f",
-    "points": 1185,
+    "points": 1451,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-13-f.png",
     "xws": "jlce13f",
@@ -9489,7 +11617,7 @@
   },
   {
     "name": "jl-ce-14-b",
-    "points": 1186,
+    "points": 1452,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-14-b.png",
     "xws": "jlce14b",
@@ -9497,7 +11625,7 @@
   },
   {
     "name": "jl-ce-14-f",
-    "points": 1187,
+    "points": 1453,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-14-f.png",
     "xws": "jlce14f",
@@ -9505,7 +11633,7 @@
   },
   {
     "name": "jl-ce-15-b",
-    "points": 1188,
+    "points": 1454,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-15-b.png",
     "xws": "jlce15b",
@@ -9513,7 +11641,7 @@
   },
   {
     "name": "jl-ce-15-f",
-    "points": 1189,
+    "points": 1455,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-15-f.png",
     "xws": "jlce15f",
@@ -9521,7 +11649,7 @@
   },
   {
     "name": "jl-ce-16-b",
-    "points": 1190,
+    "points": 1456,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-16-b.png",
     "xws": "jlce16b",
@@ -9529,7 +11657,7 @@
   },
   {
     "name": "jl-ce-16-f",
-    "points": 1191,
+    "points": 1457,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-16-f.png",
     "xws": "jlce16f",
@@ -9537,7 +11665,7 @@
   },
   {
     "name": "jl-ce-17-b",
-    "points": 1192,
+    "points": 1458,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-17-b.png",
     "xws": "jlce17b",
@@ -9545,7 +11673,7 @@
   },
   {
     "name": "jl-ce-17-f",
-    "points": 1193,
+    "points": 1459,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-17-f.png",
     "xws": "jlce17f",
@@ -9553,7 +11681,7 @@
   },
   {
     "name": "jl-ce-18-b",
-    "points": 1194,
+    "points": 1460,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-18-b.png",
     "xws": "jlce18b",
@@ -9561,7 +11689,7 @@
   },
   {
     "name": "jl-ce-18-f",
-    "points": 1195,
+    "points": 1461,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-18-f.png",
     "xws": "jlce18f",
@@ -9569,7 +11697,7 @@
   },
   {
     "name": "jl-ce-19-b",
-    "points": 1196,
+    "points": 1462,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-19-b.png",
     "xws": "jlce19b",
@@ -9577,7 +11705,7 @@
   },
   {
     "name": "jl-ce-19-f",
-    "points": 1197,
+    "points": 1463,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-19-f.png",
     "xws": "jlce19f",
@@ -9585,7 +11713,7 @@
   },
   {
     "name": "jl-ce-20-b",
-    "points": 1198,
+    "points": 1464,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-20-b.png",
     "xws": "jlce20b",
@@ -9593,7 +11721,7 @@
   },
   {
     "name": "jl-ce-20-f",
-    "points": 1199,
+    "points": 1465,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-20-f.png",
     "xws": "jlce20f",
@@ -9601,7 +11729,7 @@
   },
   {
     "name": "jl-ce-21-b",
-    "points": 1200,
+    "points": 1466,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-21-b.png",
     "xws": "jlce21b",
@@ -9609,7 +11737,7 @@
   },
   {
     "name": "jl-ce-21-f",
-    "points": 1201,
+    "points": 1467,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-21-f.png",
     "xws": "jlce21f",
@@ -9617,7 +11745,7 @@
   },
   {
     "name": "jl-ce-22-b",
-    "points": 1202,
+    "points": 1468,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-22-b.png",
     "xws": "jlce22b",
@@ -9625,7 +11753,7 @@
   },
   {
     "name": "jl-ce-22-f",
-    "points": 1203,
+    "points": 1469,
     "expansion": "jaws of the lion",
     "image": "events/jaws-of-the-lion/city/jl-ce-22-f.png",
     "xws": "jlce22f",
@@ -9633,2317 +11761,2317 @@
   },
   {
     "name": "cs-ce-01-b",
-    "points": 1204,
+    "points": 1470,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-01-b.png",
     "xws": "csce01b"
   },
   {
     "name": "cs-ce-01-f",
-    "points": 1205,
+    "points": 1471,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-01-f.png",
     "xws": "csce01f"
   },
   {
     "name": "cs-ce-02-b",
-    "points": 1206,
+    "points": 1472,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-02-b.png",
     "xws": "csce02b"
   },
   {
     "name": "cs-ce-02-f",
-    "points": 1207,
+    "points": 1473,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-02-f.png",
     "xws": "csce02f"
   },
   {
     "name": "cs-ce-03-b",
-    "points": 1208,
+    "points": 1474,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-03-b.png",
     "xws": "csce03b"
   },
   {
     "name": "cs-ce-03-f",
-    "points": 1209,
+    "points": 1475,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-03-f.png",
     "xws": "csce03f"
   },
   {
     "name": "cs-ce-04-b",
-    "points": 1210,
+    "points": 1476,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-04-b.png",
     "xws": "csce04b"
   },
   {
     "name": "cs-ce-04-f",
-    "points": 1211,
+    "points": 1477,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-04-f.png",
     "xws": "csce04f"
   },
   {
     "name": "cs-ce-05-b",
-    "points": 1212,
+    "points": 1478,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-05-b.png",
     "xws": "csce05b"
   },
   {
     "name": "cs-ce-05-f",
-    "points": 1213,
+    "points": 1479,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-05-f.png",
     "xws": "csce05f"
   },
   {
     "name": "cs-ce-06-b",
-    "points": 1214,
+    "points": 1480,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-06-b.png",
     "xws": "csce06b"
   },
   {
     "name": "cs-ce-06-f",
-    "points": 1215,
+    "points": 1481,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-06-f.png",
     "xws": "csce06f"
   },
   {
     "name": "cs-ce-07-b",
-    "points": 1216,
+    "points": 1482,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-07-b.png",
     "xws": "csce07b"
   },
   {
     "name": "battle turkey",
-    "points": 1217,
+    "points": 1483,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-07-b.png",
     "xws": "csce07b"
   },
   {
     "name": "cs-ce-07-f",
-    "points": 1218,
+    "points": 1484,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-07-f.png",
     "xws": "csce07f"
   },
   {
     "name": "cs-ce-08-b",
-    "points": 1219,
+    "points": 1485,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-08-b.png",
     "xws": "csce08b"
   },
   {
     "name": "cs-ce-08-f",
-    "points": 1220,
+    "points": 1486,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-08-f.png",
     "xws": "csce08f"
   },
   {
     "name": "cs-ce-09-b",
-    "points": 1221,
+    "points": 1487,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-09-b.png",
     "xws": "csce09b"
   },
   {
     "name": "cs-ce-09-f",
-    "points": 1222,
+    "points": 1488,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-09-f.png",
     "xws": "csce09f"
   },
   {
     "name": "cs-ce-10-b",
-    "points": 1223,
+    "points": 1489,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-10-b.png",
     "xws": "csce10b"
   },
   {
     "name": "cs-ce-10-f",
-    "points": 1224,
+    "points": 1490,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-10-f.png",
     "xws": "csce10f"
   },
   {
     "name": "cs-ce-11-b",
-    "points": 1225,
+    "points": 1491,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-11-b.png",
     "xws": "csce11b"
   },
   {
     "name": "cs-ce-11-f",
-    "points": 1226,
+    "points": 1492,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-11-f.png",
     "xws": "csce11f"
   },
   {
     "name": "cs-ce-12-b",
-    "points": 1227,
+    "points": 1493,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-12-b.png",
     "xws": "csce12b"
   },
   {
     "name": "cs-ce-12-f",
-    "points": 1228,
+    "points": 1494,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-12-f.png",
     "xws": "csce12f"
   },
   {
     "name": "cs-ce-13-b",
-    "points": 1229,
+    "points": 1495,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-13-b.png",
     "xws": "csce13b"
   },
   {
     "name": "cs-ce-13-f",
-    "points": 1230,
+    "points": 1496,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-13-f.png",
     "xws": "csce13f"
   },
   {
     "name": "cs-ce-14-b",
-    "points": 1231,
+    "points": 1497,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-14-b.png",
     "xws": "csce14b"
   },
   {
     "name": "cs-ce-14-f",
-    "points": 1232,
+    "points": 1498,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-14-f.png",
     "xws": "csce14f"
   },
   {
     "name": "cs-ce-15-b",
-    "points": 1233,
+    "points": 1499,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-15-b.png",
     "xws": "csce15b"
   },
   {
     "name": "cs-ce-15-f",
-    "points": 1234,
+    "points": 1500,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-15-f.png",
     "xws": "csce15f"
   },
   {
     "name": "cs-ce-16-b",
-    "points": 1235,
+    "points": 1501,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-16-b.png",
     "xws": "csce16b"
   },
   {
     "name": "cs-ce-16-f",
-    "points": 1236,
+    "points": 1502,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-16-f.png",
     "xws": "csce16f"
   },
   {
     "name": "cs-ce-17-b",
-    "points": 1237,
+    "points": 1503,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-17-b.png",
     "xws": "csce17b"
   },
   {
     "name": "cs-ce-17-f",
-    "points": 1238,
+    "points": 1504,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-17-f.png",
     "xws": "csce17f"
   },
   {
     "name": "cs-ce-18-b",
-    "points": 1239,
+    "points": 1505,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-18-b.png",
     "xws": "csce18b"
   },
   {
     "name": "cs-ce-18-f",
-    "points": 1240,
+    "points": 1506,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-18-f.png",
     "xws": "csce18f"
   },
   {
     "name": "cs-ce-19-b",
-    "points": 1241,
+    "points": 1507,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-19-b.png",
     "xws": "csce19b"
   },
   {
     "name": "cs-ce-19-f",
-    "points": 1242,
+    "points": 1508,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-19-f.png",
     "xws": "csce19f"
   },
   {
     "name": "cs-ce-20-b",
-    "points": 1243,
+    "points": 1509,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-20-b.png",
     "xws": "csce20b"
   },
   {
     "name": "cs-ce-20-f",
-    "points": 1244,
+    "points": 1510,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-20-f.png",
     "xws": "csce20f"
   },
   {
     "name": "cs-ce-21-b",
-    "points": 1245,
+    "points": 1511,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-21-b.png",
     "xws": "csce21b"
   },
   {
     "name": "cs-ce-21-f",
-    "points": 1246,
+    "points": 1512,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-21-f.png",
     "xws": "csce21f"
   },
   {
     "name": "cs-ce-22-b",
-    "points": 1247,
+    "points": 1513,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-22-b.png",
     "xws": "csce22b"
   },
   {
     "name": "cs-ce-22-f",
-    "points": 1248,
+    "points": 1514,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-22-f.png",
     "xws": "csce22f"
   },
   {
     "name": "cs-ce-23-b",
-    "points": 1249,
+    "points": 1515,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-23-b.png",
     "xws": "csce23b"
   },
   {
     "name": "cs-ce-23-f",
-    "points": 1250,
+    "points": 1516,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-23-f.png",
     "xws": "csce23f"
   },
   {
     "name": "cs-ce-24-b",
-    "points": 1251,
+    "points": 1517,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-24-b.png",
     "xws": "csce24b"
   },
   {
     "name": "cs-ce-24-f",
-    "points": 1252,
+    "points": 1518,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-24-f.png",
     "xws": "csce24f"
   },
   {
     "name": "cs-ce-25-b",
-    "points": 1253,
+    "points": 1519,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-25-b.png",
     "xws": "csce25b"
   },
   {
     "name": "cs-ce-25-f",
-    "points": 1254,
+    "points": 1520,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-25-f.png",
     "xws": "csce25f"
   },
   {
     "name": "cs-ce-26-b",
-    "points": 1255,
+    "points": 1521,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-26-b.png",
     "xws": "csce26b"
   },
   {
     "name": "cs-ce-26-f",
-    "points": 1256,
+    "points": 1522,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-26-f.png",
     "xws": "csce26f"
   },
   {
     "name": "cs-ce-27-b",
-    "points": 1257,
+    "points": 1523,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-27-b.png",
     "xws": "csce27b"
   },
   {
     "name": "cs-ce-27-f",
-    "points": 1258,
+    "points": 1524,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-27-f.png",
     "xws": "csce27f"
   },
   {
     "name": "cs-ce-28-b",
-    "points": 1259,
+    "points": 1525,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-28-b.png",
     "xws": "csce28b"
   },
   {
     "name": "cs-ce-28-f",
-    "points": 1260,
+    "points": 1526,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-28-f.png",
     "xws": "csce28f"
   },
   {
     "name": "cs-ce-29-b",
-    "points": 1261,
+    "points": 1527,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-29-b.png",
     "xws": "csce29b"
   },
   {
     "name": "cs-ce-29-f",
-    "points": 1262,
+    "points": 1528,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-29-f.png",
     "xws": "csce29f"
   },
   {
     "name": "cs-ce-30-b",
-    "points": 1263,
+    "points": 1529,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-30-b.png",
     "xws": "csce30b"
   },
   {
     "name": "cs-ce-30-f",
-    "points": 1264,
+    "points": 1530,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-30-f.png",
     "xws": "csce30f"
   },
   {
     "name": "cs-ce-31-b",
-    "points": 1265,
+    "points": 1531,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-31-b.png",
     "xws": "csce31b"
   },
   {
     "name": "cs-ce-31-f",
-    "points": 1266,
+    "points": 1532,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-31-f.png",
     "xws": "csce31f"
   },
   {
     "name": "cs-ce-32-b",
-    "points": 1267,
+    "points": 1533,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-32-b.png",
     "xws": "csce32b"
   },
   {
     "name": "cs-ce-32-f",
-    "points": 1268,
+    "points": 1534,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-32-f.png",
     "xws": "csce32f"
   },
   {
     "name": "cs-ce-33-b",
-    "points": 1269,
+    "points": 1535,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-33-b.png",
     "xws": "csce33b"
   },
   {
     "name": "cs-ce-33-f",
-    "points": 1270,
+    "points": 1536,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-33-f.png",
     "xws": "csce33f"
   },
   {
     "name": "cs-ce-34-b",
-    "points": 1271,
+    "points": 1537,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-34-b.png",
     "xws": "csce34b"
   },
   {
     "name": "cs-ce-34-f",
-    "points": 1272,
+    "points": 1538,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-34-f.png",
     "xws": "csce34f"
   },
   {
     "name": "cs-ce-35-b",
-    "points": 1273,
+    "points": 1539,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-35-b.png",
     "xws": "csce35b"
   },
   {
     "name": "cs-ce-35-f",
-    "points": 1274,
+    "points": 1540,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-35-f.png",
     "xws": "csce35f"
   },
   {
     "name": "cs-ce-36-b",
-    "points": 1275,
+    "points": 1541,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-36-b.png",
     "xws": "csce36b"
   },
   {
     "name": "cs-ce-36-f",
-    "points": 1276,
+    "points": 1542,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-36-f.png",
     "xws": "csce36f"
   },
   {
     "name": "cs-ce-37-b",
-    "points": 1277,
+    "points": 1543,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-37-b.png",
     "xws": "csce37b"
   },
   {
     "name": "cs-ce-37-f",
-    "points": 1278,
+    "points": 1544,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-37-f.png",
     "xws": "csce37f"
   },
   {
     "name": "cs-ce-38-b",
-    "points": 1279,
+    "points": 1545,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-38-b.png",
     "xws": "csce38b"
   },
   {
     "name": "cs-ce-38-f",
-    "points": 1280,
+    "points": 1546,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-38-f.png",
     "xws": "csce38f"
   },
   {
     "name": "cs-ce-39-b",
-    "points": 1281,
+    "points": 1547,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-39-b.png",
     "xws": "csce39b"
   },
   {
     "name": "cs-ce-39-f",
-    "points": 1282,
+    "points": 1548,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-39-f.png",
     "xws": "csce39f"
   },
   {
     "name": "cs-ce-40-b",
-    "points": 1283,
+    "points": 1549,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-40-b.png",
     "xws": "csce40b"
   },
   {
     "name": "cs-ce-40-f",
-    "points": 1284,
+    "points": 1550,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-40-f.png",
     "xws": "csce40f"
   },
   {
     "name": "cs-ce-41-b",
-    "points": 1285,
+    "points": 1551,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-41-b.png",
     "xws": "csce41b"
   },
   {
     "name": "cs-ce-41-f",
-    "points": 1286,
+    "points": 1552,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-41-f.png",
     "xws": "csce41f"
   },
   {
     "name": "cs-ce-42-b",
-    "points": 1287,
+    "points": 1553,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-42-b.png",
     "xws": "csce42b"
   },
   {
     "name": "cs-ce-42-f",
-    "points": 1288,
+    "points": 1554,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-42-f.png",
     "xws": "csce42f"
   },
   {
     "name": "cs-ce-43-b",
-    "points": 1289,
+    "points": 1555,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-43-b.png",
     "xws": "csce43b"
   },
   {
     "name": "cs-ce-43-f",
-    "points": 1290,
+    "points": 1556,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-43-f.png",
     "xws": "csce43f"
   },
   {
     "name": "cs-ce-44-b",
-    "points": 1291,
+    "points": 1557,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-44-b.png",
     "xws": "csce44b"
   },
   {
     "name": "cs-ce-44-f",
-    "points": 1292,
+    "points": 1558,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-44-f.png",
     "xws": "csce44f"
   },
   {
     "name": "cs-ce-45-b",
-    "points": 1293,
+    "points": 1559,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-45-b.png",
     "xws": "csce45b"
   },
   {
     "name": "cs-ce-45-f",
-    "points": 1294,
+    "points": 1560,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-45-f.png",
     "xws": "csce45f"
   },
   {
     "name": "cs-ce-46-b",
-    "points": 1295,
+    "points": 1561,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-46-b.png",
     "xws": "csce46b"
   },
   {
     "name": "cs-ce-46-f",
-    "points": 1296,
+    "points": 1562,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-46-f.png",
     "xws": "csce46f"
   },
   {
     "name": "cs-ce-47-b",
-    "points": 1297,
+    "points": 1563,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-47-b.png",
     "xws": "csce47b"
   },
   {
     "name": "cs-ce-47-f",
-    "points": 1298,
+    "points": 1564,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-47-f.png",
     "xws": "csce47f"
   },
   {
     "name": "cs-ce-48-b",
-    "points": 1299,
+    "points": 1565,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-48-b.png",
     "xws": "csce48b"
   },
   {
     "name": "cs-ce-48-f",
-    "points": 1300,
+    "points": 1566,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-48-f.png",
     "xws": "csce48f"
   },
   {
     "name": "cs-ce-49-b",
-    "points": 1301,
+    "points": 1567,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-49-b.png",
     "xws": "csce49b"
   },
   {
     "name": "cs-ce-49-f",
-    "points": 1302,
+    "points": 1568,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-49-f.png",
     "xws": "csce49f"
   },
   {
     "name": "cs-ce-50-b",
-    "points": 1303,
+    "points": 1569,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-50-b.png",
     "xws": "csce50b"
   },
   {
     "name": "cs-ce-50-f",
-    "points": 1304,
+    "points": 1570,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-50-f.png",
     "xws": "csce50f"
   },
   {
     "name": "cs-ce-51-b",
-    "points": 1305,
+    "points": 1571,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-51-b.png",
     "xws": "csce51b"
   },
   {
     "name": "cs-ce-51-f",
-    "points": 1306,
+    "points": 1572,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-51-f.png",
     "xws": "csce51f"
   },
   {
     "name": "cs-ce-52-b",
-    "points": 1307,
+    "points": 1573,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-52-b.png",
     "xws": "csce52b"
   },
   {
     "name": "cs-ce-52-f",
-    "points": 1308,
+    "points": 1574,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-52-f.png",
     "xws": "csce52f"
   },
   {
     "name": "cs-ce-53-b",
-    "points": 1309,
+    "points": 1575,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-53-b.png",
     "xws": "csce53b"
   },
   {
     "name": "cs-ce-53-f",
-    "points": 1310,
+    "points": 1576,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-53-f.png",
     "xws": "csce53f"
   },
   {
     "name": "cs-ce-54-b",
-    "points": 1311,
+    "points": 1577,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-54-b.png",
     "xws": "csce54b"
   },
   {
     "name": "cs-ce-54-f",
-    "points": 1312,
+    "points": 1578,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-54-f.png",
     "xws": "csce54f"
   },
   {
     "name": "cs-ce-55-b",
-    "points": 1313,
+    "points": 1579,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-55-b.png",
     "xws": "csce55b"
   },
   {
     "name": "cs-ce-55-f",
-    "points": 1314,
+    "points": 1580,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-55-f.png",
     "xws": "csce55f"
   },
   {
     "name": "cs-ce-56-b",
-    "points": 1315,
+    "points": 1581,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-56-b.png",
     "xws": "csce56b"
   },
   {
     "name": "cs-ce-56-f",
-    "points": 1316,
+    "points": 1582,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-56-f.png",
     "xws": "csce56f"
   },
   {
     "name": "cs-ce-57-b",
-    "points": 1317,
+    "points": 1583,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-57-b.png",
     "xws": "csce57b"
   },
   {
     "name": "cs-ce-57-f",
-    "points": 1318,
+    "points": 1584,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-57-f.png",
     "xws": "csce57f"
   },
   {
     "name": "cs-ce-58-b",
-    "points": 1319,
+    "points": 1585,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-58-b.png",
     "xws": "csce58b"
   },
   {
     "name": "cs-ce-58-f",
-    "points": 1320,
+    "points": 1586,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-58-f.png",
     "xws": "csce58f"
   },
   {
     "name": "cs-ce-59-b",
-    "points": 1321,
+    "points": 1587,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-59-b.png",
     "xws": "csce59b"
   },
   {
     "name": "cs-ce-59-f",
-    "points": 1322,
+    "points": 1588,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-59-f.png",
     "xws": "csce59f"
   },
   {
     "name": "cs-ce-60-b",
-    "points": 1323,
+    "points": 1589,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-60-b.png",
     "xws": "csce60b"
   },
   {
     "name": "cs-ce-60-f",
-    "points": 1324,
+    "points": 1590,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-60-f.png",
     "xws": "csce60f"
   },
   {
     "name": "cs-ce-aa-01-b",
-    "points": 1325,
+    "points": 1591,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-aa-01-b.png",
     "xws": "csceaa01b"
   },
   {
     "name": "cs-ce-aa-01-f",
-    "points": 1326,
+    "points": 1592,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-aa-01-f.png",
     "xws": "csceaa01f"
   },
   {
     "name": "cs-ce-aa-02-b",
-    "points": 1327,
+    "points": 1593,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-aa-02-b.png",
     "xws": "csceaa02b"
   },
   {
     "name": "cs-ce-aa-02-f",
-    "points": 1328,
+    "points": 1594,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-aa-02-f.png",
     "xws": "csceaa02f"
   },
   {
     "name": "cs-ce-qa-01-b",
-    "points": 1329,
+    "points": 1595,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-qa-01-b.png",
     "xws": "csceqa01b"
   },
   {
     "name": "cs-ce-qa-01-f",
-    "points": 1330,
+    "points": 1596,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-qa-01-f.png",
     "xws": "csceqa01f"
   },
   {
     "name": "cs-ce-qa-02-b",
-    "points": 1331,
+    "points": 1597,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-qa-02-b.png",
     "xws": "csceqa02b"
   },
   {
     "name": "cs-ce-qa-02-f",
-    "points": 1332,
+    "points": 1598,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-qa-02-f.png",
     "xws": "csceqa02f"
   },
   {
     "name": "cs-ce-qa-03-b",
-    "points": 1333,
+    "points": 1599,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-qa-03-b.png",
     "xws": "csceqa03b"
   },
   {
     "name": "cs-ce-qa-03-f",
-    "points": 1334,
+    "points": 1600,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-qa-03-f.png",
     "xws": "csceqa03f"
   },
   {
     "name": "cs-ce-rm-01-b",
-    "points": 1335,
+    "points": 1601,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-rm-01-b.png",
     "xws": "cscerm01b"
   },
   {
     "name": "cs-ce-rm-01-f",
-    "points": 1336,
+    "points": 1602,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-rm-01-f.png",
     "xws": "cscerm01f"
   },
   {
     "name": "cs-ce-rm-02-b",
-    "points": 1337,
+    "points": 1603,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-rm-02-b.png",
     "xws": "cscerm02b"
   },
   {
     "name": "cs-ce-rm-02-f",
-    "points": 1338,
+    "points": 1604,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/city/cs-ce-rm-02-f.png",
     "xws": "cscerm02f"
   },
   {
     "name": "cs-re-01-b",
-    "points": 1339,
+    "points": 1605,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-01-b.png",
     "xws": "csre01b"
   },
   {
     "name": "cs-re-01-f",
-    "points": 1340,
+    "points": 1606,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-01-f.png",
     "xws": "csre01f"
   },
   {
     "name": "cs-re-02-b",
-    "points": 1341,
+    "points": 1607,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-02-b.png",
     "xws": "csre02b"
   },
   {
     "name": "cs-re-02-f",
-    "points": 1342,
+    "points": 1608,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-02-f.png",
     "xws": "csre02f"
   },
   {
     "name": "cs-re-03-b",
-    "points": 1343,
+    "points": 1609,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-03-b.png",
     "xws": "csre03b"
   },
   {
     "name": "cs-re-03-f",
-    "points": 1344,
+    "points": 1610,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-03-f.png",
     "xws": "csre03f"
   },
   {
     "name": "cs-re-04-b",
-    "points": 1345,
+    "points": 1611,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-04-b.png",
     "xws": "csre04b"
   },
   {
     "name": "cs-re-04-f",
-    "points": 1346,
+    "points": 1612,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-04-f.png",
     "xws": "csre04f"
   },
   {
     "name": "cs-re-05-b",
-    "points": 1347,
+    "points": 1613,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-05-b.png",
     "xws": "csre05b"
   },
   {
     "name": "cs-re-05-f",
-    "points": 1348,
+    "points": 1614,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-05-f.png",
     "xws": "csre05f"
   },
   {
     "name": "cs-re-06-b",
-    "points": 1349,
+    "points": 1615,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-06-b.png",
     "xws": "csre06b"
   },
   {
     "name": "snapping turtle",
-    "points": 1350,
+    "points": 1616,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-06-b.png",
     "xws": "csre06b"
   },
   {
     "name": "cs-re-06-f",
-    "points": 1351,
+    "points": 1617,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-06-f.png",
     "xws": "csre06f"
   },
   {
     "name": "cs-re-07-b",
-    "points": 1352,
+    "points": 1618,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-07-b.png",
     "xws": "csre07b"
   },
   {
     "name": "cs-re-07-f",
-    "points": 1353,
+    "points": 1619,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-07-f.png",
     "xws": "csre07f"
   },
   {
     "name": "cs-re-08-b",
-    "points": 1354,
+    "points": 1620,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-08-b.png",
     "xws": "csre08b"
   },
   {
     "name": "cs-re-08-f",
-    "points": 1355,
+    "points": 1621,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-08-f.png",
     "xws": "csre08f"
   },
   {
     "name": "cs-re-09-b",
-    "points": 1356,
+    "points": 1622,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-09-b.png",
     "xws": "csre09b"
   },
   {
     "name": "cs-re-09-f",
-    "points": 1357,
+    "points": 1623,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-09-f.png",
     "xws": "csre09f"
   },
   {
     "name": "cs-re-10-b",
-    "points": 1358,
+    "points": 1624,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-10-b.png",
     "xws": "csre10b"
   },
   {
     "name": "cs-re-10-f",
-    "points": 1359,
+    "points": 1625,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-10-f.png",
     "xws": "csre10f"
   },
   {
     "name": "cs-re-11-b",
-    "points": 1360,
+    "points": 1626,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-11-b.png",
     "xws": "csre11b"
   },
   {
     "name": "cs-re-11-f",
-    "points": 1361,
+    "points": 1627,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-11-f.png",
     "xws": "csre11f"
   },
   {
     "name": "cs-re-12-b",
-    "points": 1362,
+    "points": 1628,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-12-b.png",
     "xws": "csre12b"
   },
   {
     "name": "cs-re-12-f",
-    "points": 1363,
+    "points": 1629,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-12-f.png",
     "xws": "csre12f"
   },
   {
     "name": "cs-re-13-b",
-    "points": 1364,
+    "points": 1630,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-13-b.png",
     "xws": "csre13b"
   },
   {
     "name": "cs-re-13-f",
-    "points": 1365,
+    "points": 1631,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-13-f.png",
     "xws": "csre13f"
   },
   {
     "name": "cs-re-14-b",
-    "points": 1366,
+    "points": 1632,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-14-b.png",
     "xws": "csre14b"
   },
   {
     "name": "cs-re-14-f",
-    "points": 1367,
+    "points": 1633,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-14-f.png",
     "xws": "csre14f"
   },
   {
     "name": "cs-re-15-b",
-    "points": 1368,
+    "points": 1634,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-15-b.png",
     "xws": "csre15b"
   },
   {
     "name": "cs-re-15-f",
-    "points": 1369,
+    "points": 1635,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-15-f.png",
     "xws": "csre15f"
   },
   {
     "name": "cs-re-16-b",
-    "points": 1370,
+    "points": 1636,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-16-b.png",
     "xws": "csre16b"
   },
   {
     "name": "cs-re-16-f",
-    "points": 1371,
+    "points": 1637,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-16-f.png",
     "xws": "csre16f"
   },
   {
     "name": "cs-re-17-b",
-    "points": 1372,
+    "points": 1638,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-17-b.png",
     "xws": "csre17b"
   },
   {
     "name": "cs-re-17-f",
-    "points": 1373,
+    "points": 1639,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-17-f.png",
     "xws": "csre17f"
   },
   {
     "name": "cs-re-18-b",
-    "points": 1374,
+    "points": 1640,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-18-b.png",
     "xws": "csre18b"
   },
   {
     "name": "cs-re-18-f",
-    "points": 1375,
+    "points": 1641,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-18-f.png",
     "xws": "csre18f"
   },
   {
     "name": "cs-re-19-b",
-    "points": 1376,
+    "points": 1642,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-19-b.png",
     "xws": "csre19b"
   },
   {
     "name": "cs-re-19-f",
-    "points": 1377,
+    "points": 1643,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-19-f.png",
     "xws": "csre19f"
   },
   {
     "name": "cs-re-20-b",
-    "points": 1378,
+    "points": 1644,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-20-b.png",
     "xws": "csre20b"
   },
   {
     "name": "cs-re-20-f",
-    "points": 1379,
+    "points": 1645,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-20-f.png",
     "xws": "csre20f"
   },
   {
     "name": "cs-re-21-b",
-    "points": 1380,
+    "points": 1646,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-21-b.png",
     "xws": "csre21b"
   },
   {
     "name": "cs-re-21-f",
-    "points": 1381,
+    "points": 1647,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-21-f.png",
     "xws": "csre21f"
   },
   {
     "name": "cs-re-22-b",
-    "points": 1382,
+    "points": 1648,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-22-b.png",
     "xws": "csre22b"
   },
   {
     "name": "cs-re-22-f",
-    "points": 1383,
+    "points": 1649,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-22-f.png",
     "xws": "csre22f"
   },
   {
     "name": "cs-re-23-b",
-    "points": 1384,
+    "points": 1650,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-23-b.png",
     "xws": "csre23b"
   },
   {
     "name": "cs-re-23-f",
-    "points": 1385,
+    "points": 1651,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-23-f.png",
     "xws": "csre23f"
   },
   {
     "name": "cs-re-24-b",
-    "points": 1386,
+    "points": 1652,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-24-b.png",
     "xws": "csre24b"
   },
   {
     "name": "cs-re-24-f",
-    "points": 1387,
+    "points": 1653,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-24-f.png",
     "xws": "csre24f"
   },
   {
     "name": "cs-re-25-b",
-    "points": 1388,
+    "points": 1654,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-25-b.png",
     "xws": "csre25b"
   },
   {
     "name": "cs-re-25-f",
-    "points": 1389,
+    "points": 1655,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-25-f.png",
     "xws": "csre25f"
   },
   {
     "name": "cs-re-26-b",
-    "points": 1390,
+    "points": 1656,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-26-b.png",
     "xws": "csre26b"
   },
   {
     "name": "slithering viper",
-    "points": 1391,
+    "points": 1657,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-26-b.png",
     "xws": "csre26b"
   },
   {
     "name": "cs-re-26-f",
-    "points": 1392,
+    "points": 1658,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-26-f.png",
     "xws": "csre26f"
   },
   {
     "name": "cs-re-27-b",
-    "points": 1393,
+    "points": 1659,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-27-b.png",
     "xws": "csre27b"
   },
   {
     "name": "cs-re-27-f",
-    "points": 1394,
+    "points": 1660,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-27-f.png",
     "xws": "csre27f"
   },
   {
     "name": "cs-re-28-b",
-    "points": 1395,
+    "points": 1661,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-28-b.png",
     "xws": "csre28b"
   },
   {
     "name": "cs-re-28-f",
-    "points": 1396,
+    "points": 1662,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-28-f.png",
     "xws": "csre28f"
   },
   {
     "name": "cs-re-29-b",
-    "points": 1397,
+    "points": 1663,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-29-b.png",
     "xws": "csre29b"
   },
   {
     "name": "cs-re-29-f",
-    "points": 1398,
+    "points": 1664,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-29-f.png",
     "xws": "csre29f"
   },
   {
     "name": "cs-re-30-b",
-    "points": 1399,
+    "points": 1665,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-30-b.png",
     "xws": "csre30b"
   },
   {
     "name": "cs-re-30-f",
-    "points": 1400,
+    "points": 1666,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-30-f.png",
     "xws": "csre30f"
   },
   {
     "name": "cs-re-31-b",
-    "points": 1401,
+    "points": 1667,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-31-b.png",
     "xws": "csre31b"
   },
   {
     "name": "cs-re-31-f",
-    "points": 1402,
+    "points": 1668,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-31-f.png",
     "xws": "csre31f"
   },
   {
     "name": "cs-re-32-b",
-    "points": 1403,
+    "points": 1669,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-32-b.png",
     "xws": "csre32b"
   },
   {
     "name": "cs-re-32-f",
-    "points": 1404,
+    "points": 1670,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-32-f.png",
     "xws": "csre32f"
   },
   {
     "name": "cs-re-33-b",
-    "points": 1405,
+    "points": 1671,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-33-b.png",
     "xws": "csre33b"
   },
   {
     "name": "cs-re-33-f",
-    "points": 1406,
+    "points": 1672,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-33-f.png",
     "xws": "csre33f"
   },
   {
     "name": "cs-re-34-b",
-    "points": 1407,
+    "points": 1673,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-34-b.png",
     "xws": "csre34b"
   },
   {
     "name": "cs-re-34-f",
-    "points": 1408,
+    "points": 1674,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-34-f.png",
     "xws": "csre34f"
   },
   {
     "name": "cs-re-35-b",
-    "points": 1409,
+    "points": 1675,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-35-b.png",
     "xws": "csre35b"
   },
   {
     "name": "cs-re-35-f",
-    "points": 1410,
+    "points": 1676,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-35-f.png",
     "xws": "csre35f"
   },
   {
     "name": "cs-re-36-b",
-    "points": 1411,
+    "points": 1677,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-36-b.png",
     "xws": "csre36b"
   },
   {
     "name": "cs-re-36-f",
-    "points": 1412,
+    "points": 1678,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-36-f.png",
     "xws": "csre36f"
   },
   {
     "name": "cs-re-37-b",
-    "points": 1413,
+    "points": 1679,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-37-b.png",
     "xws": "csre37b"
   },
   {
     "name": "cs-re-37-f",
-    "points": 1414,
+    "points": 1680,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-37-f.png",
     "xws": "csre37f"
   },
   {
     "name": "cs-re-38-b",
-    "points": 1415,
+    "points": 1681,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-38-b.png",
     "xws": "csre38b"
   },
   {
     "name": "cs-re-38-f",
-    "points": 1416,
+    "points": 1682,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-38-f.png",
     "xws": "csre38f"
   },
   {
     "name": "cs-re-39-b",
-    "points": 1417,
+    "points": 1683,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-39-b.png",
     "xws": "csre39b"
   },
   {
     "name": "cs-re-39-f",
-    "points": 1418,
+    "points": 1684,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-39-f.png",
     "xws": "csre39f"
   },
   {
     "name": "cs-re-40-b",
-    "points": 1419,
+    "points": 1685,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-40-b.png",
     "xws": "csre40b"
   },
   {
     "name": "cs-re-40-f",
-    "points": 1420,
+    "points": 1686,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-40-f.png",
     "xws": "csre40f"
   },
   {
     "name": "cs-re-41-b",
-    "points": 1421,
+    "points": 1687,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-41-b.png",
     "xws": "csre41b"
   },
   {
     "name": "cs-re-41-f",
-    "points": 1422,
+    "points": 1688,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-41-f.png",
     "xws": "csre41f"
   },
   {
     "name": "cs-re-42-b",
-    "points": 1423,
+    "points": 1689,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-42-b.png",
     "xws": "csre42b"
   },
   {
     "name": "cs-re-42-f",
-    "points": 1424,
+    "points": 1690,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-42-f.png",
     "xws": "csre42f"
   },
   {
     "name": "cs-re-43-b",
-    "points": 1425,
+    "points": 1691,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-43-b.png",
     "xws": "csre43b"
   },
   {
     "name": "cs-re-43-f",
-    "points": 1426,
+    "points": 1692,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-43-f.png",
     "xws": "csre43f"
   },
   {
     "name": "cs-re-44-b",
-    "points": 1427,
+    "points": 1693,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-44-b.png",
     "xws": "csre44b"
   },
   {
     "name": "cs-re-44-f",
-    "points": 1428,
+    "points": 1694,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-44-f.png",
     "xws": "csre44f"
   },
   {
     "name": "cs-re-45-b",
-    "points": 1429,
+    "points": 1695,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-45-b.png",
     "xws": "csre45b"
   },
   {
     "name": "cs-re-45-f",
-    "points": 1430,
+    "points": 1696,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-45-f.png",
     "xws": "csre45f"
   },
   {
     "name": "cs-re-46-b",
-    "points": 1431,
+    "points": 1697,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-46-b.png",
     "xws": "csre46b"
   },
   {
     "name": "cs-re-46-f",
-    "points": 1432,
+    "points": 1698,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-46-f.png",
     "xws": "csre46f"
   },
   {
     "name": "cs-re-47-b",
-    "points": 1433,
+    "points": 1699,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-47-b.png",
     "xws": "csre47b"
   },
   {
     "name": "cs-re-47-f",
-    "points": 1434,
+    "points": 1700,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-47-f.png",
     "xws": "csre47f"
   },
   {
     "name": "cs-re-48-b",
-    "points": 1435,
+    "points": 1701,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-48-b.png",
     "xws": "csre48b"
   },
   {
     "name": "cs-re-48-f",
-    "points": 1436,
+    "points": 1702,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-48-f.png",
     "xws": "csre48f"
   },
   {
     "name": "cs-re-49-b",
-    "points": 1437,
+    "points": 1703,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-49-b.png",
     "xws": "csre49b"
   },
   {
     "name": "cs-re-49-f",
-    "points": 1438,
+    "points": 1704,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-49-f.png",
     "xws": "csre49f"
   },
   {
     "name": "cs-re-50-b",
-    "points": 1439,
+    "points": 1705,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-50-b.png",
     "xws": "csre50b"
   },
   {
     "name": "cs-re-50-f",
-    "points": 1440,
+    "points": 1706,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-50-f.png",
     "xws": "csre50f"
   },
   {
     "name": "cs-re-51-b",
-    "points": 1441,
+    "points": 1707,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-51-b.png",
     "xws": "csre51b"
   },
   {
     "name": "cs-re-51-f",
-    "points": 1442,
+    "points": 1708,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-51-f.png",
     "xws": "csre51f"
   },
   {
     "name": "cs-re-52-b",
-    "points": 1443,
+    "points": 1709,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-52-b.png",
     "xws": "csre52b"
   },
   {
     "name": "cs-re-52-f",
-    "points": 1444,
+    "points": 1710,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-52-f.png",
     "xws": "csre52f"
   },
   {
     "name": "cs-re-53-b",
-    "points": 1445,
+    "points": 1711,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-53-b.png",
     "xws": "csre53b"
   },
   {
     "name": "cs-re-53-f",
-    "points": 1446,
+    "points": 1712,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-53-f.png",
     "xws": "csre53f"
   },
   {
     "name": "cs-re-54-b",
-    "points": 1447,
+    "points": 1713,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-54-b.png",
     "xws": "csre54b"
   },
   {
     "name": "cs-re-54-f",
-    "points": 1448,
+    "points": 1714,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-54-f.png",
     "xws": "csre54f"
   },
   {
     "name": "cs-re-55-b",
-    "points": 1449,
+    "points": 1715,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-55-b.png",
     "xws": "csre55b"
   },
   {
     "name": "cs-re-55-f",
-    "points": 1450,
+    "points": 1716,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-55-f.png",
     "xws": "csre55f"
   },
   {
     "name": "cs-re-56-b",
-    "points": 1451,
+    "points": 1717,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-56-b.png",
     "xws": "csre56b"
   },
   {
     "name": "cs-re-56-f",
-    "points": 1452,
+    "points": 1718,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-56-f.png",
     "xws": "csre56f"
   },
   {
     "name": "cs-re-57-b",
-    "points": 1453,
+    "points": 1719,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-57-b.png",
     "xws": "csre57b"
   },
   {
     "name": "cs-re-57-f",
-    "points": 1454,
+    "points": 1720,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-57-f.png",
     "xws": "csre57f"
   },
   {
     "name": "cs-re-58-b",
-    "points": 1455,
+    "points": 1721,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-58-b.png",
     "xws": "csre58b"
   },
   {
     "name": "cs-re-58-f",
-    "points": 1456,
+    "points": 1722,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-58-f.png",
     "xws": "csre58f"
   },
   {
     "name": "cs-re-59-b",
-    "points": 1457,
+    "points": 1723,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-59-b.png",
     "xws": "csre59b"
   },
   {
     "name": "cs-re-59-f",
-    "points": 1458,
+    "points": 1724,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-59-f.png",
     "xws": "csre59f"
   },
   {
     "name": "cs-re-60-b",
-    "points": 1459,
+    "points": 1725,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-60-b.png",
     "xws": "csre60b"
   },
   {
     "name": "cs-re-60-f",
-    "points": 1460,
+    "points": 1726,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-60-f.png",
     "xws": "csre60f"
   },
   {
     "name": "cs-re-aa-01-b",
-    "points": 1461,
+    "points": 1727,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-aa-01-b.png",
     "xws": "cereaa01b"
   },
   {
     "name": "cs-re-aa-01-f",
-    "points": 1462,
+    "points": 1728,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-aa-01-f.png",
     "xws": "cereaa01f"
   },
   {
     "name": "cs-re-aa-02-b",
-    "points": 1463,
+    "points": 1729,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-aa-02-b.png",
     "xws": "cereaa02b"
   },
   {
     "name": "cs-re-aa-02-f",
-    "points": 1464,
+    "points": 1730,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-aa-02-f.png",
     "xws": "cereaa02f"
   },
   {
     "name": "cs-re-qa-01-b",
-    "points": 1465,
+    "points": 1731,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-qa-01-b.png",
     "xws": "cereqa01b"
   },
   {
     "name": "cs-re-qa-01-f",
-    "points": 1466,
+    "points": 1732,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-qa-01-f.png",
     "xws": "cereqa01f"
   },
   {
     "name": "cs-re-qa-02-b",
-    "points": 1467,
+    "points": 1733,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-qa-02-b.png",
     "xws": "cereqa02b"
   },
   {
     "name": "cs-re-qa-02-f",
-    "points": 1468,
+    "points": 1734,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-qa-02-f.png",
     "xws": "cereqa02f"
   },
   {
     "name": "cs-re-rm-01-b",
-    "points": 1469,
+    "points": 1735,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-rm-01-b.png",
     "xws": "cererm01b"
   },
   {
     "name": "cs-re-rm-01-f",
-    "points": 1470,
+    "points": 1736,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-rm-01-f.png",
     "xws": "cererm01f"
   },
   {
     "name": "cs-re-rm-02-b",
-    "points": 1471,
+    "points": 1737,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-rm-02-b.png",
     "xws": "cererm02b"
   },
   {
     "name": "cs-re-rm-02-f",
-    "points": 1472,
+    "points": 1738,
     "expansion": "crimson scales",
     "image": "events/crimson-scales/road/cs-re-rm-02-f.png",
     "xws": "cererm02f"
   },
   {
     "name": "toa-ce-61-b",
-    "points": 1473,
+    "points": 1739,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-61-b.png",
     "xws": "toace61b"
   },
   {
     "name": "toa-ce-61-f",
-    "points": 1474,
+    "points": 1740,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-61-f.png",
     "xws": "toace61f"
   },
   {
     "name": "toa-ce-62-b",
-    "points": 1475,
+    "points": 1741,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-62-b.png",
     "xws": "toace62b"
   },
   {
     "name": "toa-ce-62-f",
-    "points": 1476,
+    "points": 1742,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-62-f.png",
     "xws": "toace62f"
   },
   {
     "name": "toa-ce-63-b",
-    "points": 1477,
+    "points": 1743,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-63-b.png",
     "xws": "toace63b"
   },
   {
     "name": "toa-ce-63-f",
-    "points": 1478,
+    "points": 1744,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-63-f.png",
     "xws": "toace63f"
   },
   {
     "name": "toa-ce-64-b",
-    "points": 1479,
+    "points": 1745,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-64-b.png",
     "xws": "toace64b"
   },
   {
     "name": "toa-ce-64-f",
-    "points": 1480,
+    "points": 1746,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-64-f.png",
     "xws": "toace64f"
   },
   {
     "name": "toa-ce-65-b",
-    "points": 1481,
+    "points": 1747,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-65-b.png",
     "xws": "toace65b"
   },
   {
     "name": "toa-ce-65-f",
-    "points": 1482,
+    "points": 1748,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-65-f.png",
     "xws": "toace65f"
   },
   {
     "name": "toa-ce-66-b",
-    "points": 1483,
+    "points": 1749,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-66-b.png",
     "xws": "toace66b"
   },
   {
     "name": "toa-ce-66-f",
-    "points": 1484,
+    "points": 1750,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-66-f.png",
     "xws": "toace66f"
   },
   {
     "name": "toa-ce-67-b",
-    "points": 1485,
+    "points": 1751,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-67-b.png",
     "xws": "toace67b"
   },
   {
     "name": "toa-ce-67-f",
-    "points": 1486,
+    "points": 1752,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-67-f.png",
     "xws": "toace67f"
   },
   {
     "name": "toa-ce-68-b",
-    "points": 1487,
+    "points": 1753,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-68-b.png",
     "xws": "toace68b"
   },
   {
     "name": "toa-ce-68-f",
-    "points": 1488,
+    "points": 1754,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-68-f.png",
     "xws": "toace68f"
   },
   {
     "name": "toa-ce-69-b",
-    "points": 1489,
+    "points": 1755,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-69-b.png",
     "xws": "toace69b"
   },
   {
     "name": "toa-ce-69-f",
-    "points": 1490,
+    "points": 1756,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-69-f.png",
     "xws": "toace69f"
   },
   {
     "name": "toa-ce-70-b",
-    "points": 1491,
+    "points": 1757,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-70-b.png",
     "xws": "toace70b"
   },
   {
     "name": "toa-ce-70-f",
-    "points": 1492,
+    "points": 1758,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-70-f.png",
     "xws": "toace70f"
   },
   {
     "name": "toa-ce-71-b",
-    "points": 1493,
+    "points": 1759,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-71-b.png",
     "xws": "toace71b"
   },
   {
     "name": "toa-ce-71-f",
-    "points": 1494,
+    "points": 1760,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-71-f.png",
     "xws": "toace71f"
   },
   {
     "name": "toa-ce-72-b",
-    "points": 1495,
+    "points": 1761,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-72-b.png",
     "xws": "toace72b"
   },
   {
     "name": "toa-ce-72-f",
-    "points": 1496,
+    "points": 1762,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-72-f.png",
     "xws": "toace72f"
   },
   {
     "name": "toa-ce-73-b",
-    "points": 1497,
+    "points": 1763,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
     "xws": "toace73b"
   },
   {
     "name": "smoke spirit",
-    "points": 1498,
+    "points": 1764,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
     "xws": "toace73b"
   },
   {
     "name": "water spirit",
-    "points": 1499,
+    "points": 1765,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
     "xws": "toace73b"
   },
   {
     "name": "toa-ce-73-f",
-    "points": 1500,
+    "points": 1766,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-73-f.png",
     "xws": "toace73f"
   },
   {
     "name": "toa-ce-74-b",
-    "points": 1501,
+    "points": 1767,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-74-b.png",
     "xws": "toace74b"
   },
   {
     "name": "toa-ce-74-f",
-    "points": 1502,
+    "points": 1768,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-74-f.png",
     "xws": "toace74f"
   },
   {
     "name": "toa-ce-75-b",
-    "points": 1503,
+    "points": 1769,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-75-b.png",
     "xws": "toace75b"
   },
   {
     "name": "toa-ce-75-f",
-    "points": 1504,
+    "points": 1770,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-75-f.png",
     "xws": "toace75f"
   },
   {
     "name": "toa-re-61-b",
-    "points": 1505,
+    "points": 1771,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-61-b.png",
     "xws": "toare61b"
   },
   {
     "name": "toa-re-61-f",
-    "points": 1506,
+    "points": 1772,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-61-f.png",
     "xws": "toare61f"
   },
   {
     "name": "toa-re-62-b",
-    "points": 1507,
+    "points": 1773,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-62-b.png",
     "xws": "toare62b"
   },
   {
     "name": "toa-re-62-f",
-    "points": 1508,
+    "points": 1774,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-62-f.png",
     "xws": "toare62f"
   },
   {
     "name": "toa-re-63-b",
-    "points": 1509,
+    "points": 1775,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-63-b.png",
     "xws": "toare63b"
   },
   {
     "name": "toa-re-63-f",
-    "points": 1510,
+    "points": 1776,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-63-f.png",
     "xws": "toare63f"
   },
   {
     "name": "toa-re-64-b",
-    "points": 1511,
+    "points": 1777,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-64-b.png",
     "xws": "toare64b"
   },
   {
     "name": "toa-re-64-f",
-    "points": 1512,
+    "points": 1778,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-64-f.png",
     "xws": "toare64f"
   },
   {
     "name": "toa-re-65-b",
-    "points": 1513,
+    "points": 1779,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-65-b.png",
     "xws": "toare65b"
   },
   {
     "name": "toa-re-65-f",
-    "points": 1514,
+    "points": 1780,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-65-f.png",
     "xws": "toare65f"
   },
   {
     "name": "toa-re-66-b",
-    "points": 1515,
+    "points": 1781,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-66-b.png",
     "xws": "toare66b"
   },
   {
     "name": "toa-re-66-f",
-    "points": 1516,
+    "points": 1782,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-66-f.png",
     "xws": "toare66f"
   },
   {
     "name": "toa-re-67-b",
-    "points": 1517,
+    "points": 1783,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-67-b.png",
     "xws": "toare67b"
   },
   {
     "name": "toa-re-67-f",
-    "points": 1518,
+    "points": 1784,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-67-f.png",
     "xws": "toare67f"
   },
   {
     "name": "toa-re-68-b",
-    "points": 1519,
+    "points": 1785,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-68-b.png",
     "xws": "toare68b"
   },
   {
     "name": "toa-re-68-f",
-    "points": 1520,
+    "points": 1786,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-68-f.png",
     "xws": "toare68f"
   },
   {
     "name": "toa-re-69-b",
-    "points": 1521,
+    "points": 1787,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-69-b.png",
     "xws": "toare69b"
   },
   {
     "name": "toa-re-69-f",
-    "points": 1522,
+    "points": 1788,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-69-f.png",
     "xws": "toare69f"
   },
   {
     "name": "toa-re-70-b",
-    "points": 1523,
+    "points": 1789,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-70-b.png",
     "xws": "toare70b"
   },
   {
     "name": "toa-re-70-f",
-    "points": 1524,
+    "points": 1790,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-70-f.png",
     "xws": "toare70f"
   },
   {
     "name": "toa-re-71-b",
-    "points": 1525,
+    "points": 1791,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-71-b.png",
     "xws": "toare71b"
   },
   {
     "name": "toa-re-71-f",
-    "points": 1526,
+    "points": 1792,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-71-f.png",
     "xws": "toare71f"
   },
   {
     "name": "toa-re-72-b",
-    "points": 1527,
+    "points": 1793,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-72-b.png",
     "xws": "toare72b"
   },
   {
     "name": "toa-re-72-f",
-    "points": 1528,
+    "points": 1794,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-72-f.png",
     "xws": "toare72f"
   },
   {
     "name": "toa-re-73-b",
-    "points": 1529,
+    "points": 1795,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-73-b.png",
     "xws": "toare73b"
   },
   {
     "name": "toa-re-73-f",
-    "points": 1530,
+    "points": 1796,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-73-f.png",
     "xws": "toare73f"
   },
   {
     "name": "toa-re-74-b",
-    "points": 1531,
+    "points": 1797,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-74-b.png",
     "xws": "toare74b"
   },
   {
     "name": "toa-re-74-f",
-    "points": 1532,
+    "points": 1798,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-74-f.png",
     "xws": "toare74f"
   },
   {
     "name": "toa-re-75-b",
-    "points": 1533,
+    "points": 1799,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-75-b.png",
     "xws": "toare75b"
   },
   {
     "name": "toa-re-75-f",
-    "points": 1534,
+    "points": 1800,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-75-f.png",
     "xws": "toare75f"

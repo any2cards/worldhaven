@@ -1581,10 +1581,10 @@
     "expansion": "gloomhaven",
     "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-6.png",
     "xws": "ghmahi6",
-    "assetno": "739"
+    "assetno": "729"
   },
   {
-    "name": "739",
+    "name": "729",
     "points": 198,
     "expansion": "gloomhaven",
     "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-6.png",
