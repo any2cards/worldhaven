@@ -1589,7 +1589,7 @@
     "expansion": "gloomhaven",
     "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-6.png",
     "xws": "ghmahi6",
-    "assetno": "739"
+    "assetno": "729"
   },
   {
     "name": "gh-ma-hi-7",
