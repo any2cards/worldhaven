@@ -9788,9622 +9788,13252 @@
     "points": 1223,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "0882"
   },
   {
     "name": "item 01",
     "points": 1224,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "0882"
   },
   {
     "name": "item 001",
     "points": 1225,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "0882"
   },
   {
     "name": "item #1",
     "points": 1226,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "0882"
   },
   {
     "name": "item #01",
     "points": 1227,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "0882"
   },
   {
     "name": "item #001",
     "points": 1228,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "0882"
   },
   {
     "name": "spyglass",
     "points": 1229,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "0882"
+  },
+  {
+    "name": "0882",
+    "points": 1230,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-001-spyglass.png",
+    "xws": "spyglass",
+    "assetno": "0882"
   },
   {
     "name": "spyglass",
-    "points": 1230,
+    "points": 1231,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-001-spyglass-back.png",
-    "xws": "spyglass"
+    "xws": "spyglass",
+    "assetno": "####"
   },
   {
     "name": "item 2",
-    "points": 1231,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
-    "xws": "crudehelmet"
-  },
-  {
-    "name": "item 02",
     "points": 1232,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
-    "xws": "crudehelmet"
+    "xws": "crudehelmet",
+    "assetno": "0884"
   },
   {
-    "name": "item 002",
+    "name": "item 02",
     "points": 1233,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
-    "xws": "crudehelmet"
+    "xws": "crudehelmet",
+    "assetno": "0884"
   },
   {
-    "name": "item #2",
+    "name": "item 002",
     "points": 1234,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
-    "xws": "crudehelmet"
+    "xws": "crudehelmet",
+    "assetno": "0884"
   },
   {
-    "name": "item #02",
+    "name": "item #2",
     "points": 1235,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
-    "xws": "crudehelmet"
+    "xws": "crudehelmet",
+    "assetno": "0884"
   },
   {
-    "name": "item #002",
+    "name": "item #02",
     "points": 1236,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
-    "xws": "crudehelmet"
+    "xws": "crudehelmet",
+    "assetno": "0884"
   },
   {
-    "name": "crude helmet",
+    "name": "item #002",
     "points": 1237,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
-    "xws": "crudehelmet"
+    "xws": "crudehelmet",
+    "assetno": "0884"
   },
   {
     "name": "crude helmet",
     "points": 1238,
     "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
+    "xws": "crudehelmet",
+    "assetno": "0884"
+  },
+  {
+    "name": "0884",
+    "points": 1239,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-002-crude-helmet.png",
+    "xws": "crudehelmet",
+    "assetno": "0884"
+  },
+  {
+    "name": "crude helmet",
+    "points": 1240,
+    "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-002-crude-helmet-back.png",
-    "xws": "crudehelmet"
+    "xws": "crudehelmet",
+    "assetno": "####"
   },
   {
     "name": "item 3",
-    "points": 1239,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
-    "xws": "travelingcloak"
-  },
-  {
-    "name": "item 03",
-    "points": 1240,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
-    "xws": "travelingcloak"
-  },
-  {
-    "name": "item 003",
     "points": 1241,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
-    "xws": "travelingcloak"
+    "xws": "travelingcloak",
+    "assetno": "0886"
   },
   {
-    "name": "item #3",
+    "name": "item 03",
     "points": 1242,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
-    "xws": "travelingcloak"
+    "xws": "travelingcloak",
+    "assetno": "0886"
   },
   {
-    "name": "item #03",
+    "name": "item 003",
     "points": 1243,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
-    "xws": "travelingcloak"
+    "xws": "travelingcloak",
+    "assetno": "0886"
   },
   {
-    "name": "item #003",
+    "name": "item #3",
     "points": 1244,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
-    "xws": "travelingcloak"
+    "xws": "travelingcloak",
+    "assetno": "0886"
   },
   {
-    "name": "traveling cloak",
+    "name": "item #03",
     "points": 1245,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
-    "xws": "travelingcloak"
+    "xws": "travelingcloak",
+    "assetno": "0886"
+  },
+  {
+    "name": "item #003",
+    "points": 1246,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
+    "xws": "travelingcloak",
+    "assetno": "0886"
   },
   {
     "name": "traveling cloak",
-    "points": 1246,
+    "points": 1247,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
+    "xws": "travelingcloak",
+    "assetno": "0886"
+  },
+  {
+    "name": "0886",
+    "points": 1248,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-003-traveling-cloak.png",
+    "xws": "travelingcloak",
+    "assetno": "0886"
+  },
+  {
+    "name": "traveling cloak",
+    "points": 1249,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-003-traveling-cloak-back.png",
-    "xws": "travelingcloak"
+    "xws": "travelingcloak",
+    "assetno": "####"
   },
   {
     "name": "item 4",
-    "points": 1247,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
-    "xws": "crudehidearmor"
-  },
-  {
-    "name": "item 04",
-    "points": 1248,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
-    "xws": "crudehidearmor"
-  },
-  {
-    "name": "item 004",
-    "points": 1249,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
-    "xws": "crudehidearmor"
-  },
-  {
-    "name": "item #4",
     "points": 1250,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
-    "xws": "crudehidearmor"
+    "xws": "crudehidearmor",
+    "assetno": "0888"
   },
   {
-    "name": "item #04",
+    "name": "item 04",
     "points": 1251,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
-    "xws": "crudehidearmor"
+    "xws": "crudehidearmor",
+    "assetno": "0888"
   },
   {
-    "name": "item #004",
+    "name": "item 004",
     "points": 1252,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
-    "xws": "crudehidearmor"
+    "xws": "crudehidearmor",
+    "assetno": "0888"
   },
   {
-    "name": "crude hide armor",
+    "name": "item #4",
     "points": 1253,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
-    "xws": "crudehidearmor"
+    "xws": "crudehidearmor",
+    "assetno": "0888"
+  },
+  {
+    "name": "item #04",
+    "points": 1254,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
+    "xws": "crudehidearmor",
+    "assetno": "0888"
+  },
+  {
+    "name": "item #004",
+    "points": 1255,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
+    "xws": "crudehidearmor",
+    "assetno": "0888"
   },
   {
     "name": "crude hide armor",
-    "points": 1254,
+    "points": 1256,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
+    "xws": "crudehidearmor",
+    "assetno": "0888"
+  },
+  {
+    "name": "0888",
+    "points": 1257,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-004-crude-hide-armor.png",
+    "xws": "crudehidearmor",
+    "assetno": "0888"
+  },
+  {
+    "name": "crude hide armor",
+    "points": 1258,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-004-crude-hide-armor-back.png",
-    "xws": "crudehidearmor"
+    "xws": "crudehidearmor",
+    "assetno": "####"
   },
   {
     "name": "item 5",
-    "points": 1255,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
-    "xws": "crudeboots"
-  },
-  {
-    "name": "item 05",
-    "points": 1256,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
-    "xws": "crudeboots"
-  },
-  {
-    "name": "item 005",
-    "points": 1257,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
-    "xws": "crudeboots"
-  },
-  {
-    "name": "item #5",
-    "points": 1258,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
-    "xws": "crudeboots"
-  },
-  {
-    "name": "item #05",
     "points": 1259,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
-    "xws": "crudeboots"
+    "xws": "crudeboots",
+    "assetno": "0890"
   },
   {
-    "name": "item #005",
+    "name": "item 05",
     "points": 1260,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
-    "xws": "crudeboots"
+    "xws": "crudeboots",
+    "assetno": "0890"
   },
   {
-    "name": "crude boots",
+    "name": "item 005",
     "points": 1261,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
-    "xws": "crudeboots"
+    "xws": "crudeboots",
+    "assetno": "0890"
+  },
+  {
+    "name": "item #5",
+    "points": 1262,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
+    "xws": "crudeboots",
+    "assetno": "0890"
+  },
+  {
+    "name": "item #05",
+    "points": 1263,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
+    "xws": "crudeboots",
+    "assetno": "0890"
+  },
+  {
+    "name": "item #005",
+    "points": 1264,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
+    "xws": "crudeboots",
+    "assetno": "0890"
   },
   {
     "name": "crude boots",
-    "points": 1262,
+    "points": 1265,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
+    "xws": "crudeboots",
+    "assetno": "0890"
+  },
+  {
+    "name": "0890",
+    "points": 1266,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-005-crude-boots.png",
+    "xws": "crudeboots",
+    "assetno": "0890"
+  },
+  {
+    "name": "crude boots",
+    "points": 1267,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-005-crude-boots-back.png",
-    "xws": "crudeboots"
+    "xws": "crudeboots",
+    "assetno": "####"
   },
   {
     "name": "item 6",
-    "points": 1263,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
-    "xws": "flexibleslippers"
-  },
-  {
-    "name": "item 06",
-    "points": 1264,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
-    "xws": "flexibleslippers"
-  },
-  {
-    "name": "item 006",
-    "points": 1265,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
-    "xws": "flexibleslippers"
-  },
-  {
-    "name": "item #6",
-    "points": 1266,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
-    "xws": "flexibleslippers"
-  },
-  {
-    "name": "item #06",
-    "points": 1267,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
-    "xws": "flexibleslippers"
-  },
-  {
-    "name": "item #006",
     "points": 1268,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
-    "xws": "flexibleslippers"
+    "xws": "flexibleslippers",
+    "assetno": "0892"
   },
   {
-    "name": "flexible slippers",
+    "name": "item 06",
     "points": 1269,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
-    "xws": "flexibleslippers"
+    "xws": "flexibleslippers",
+    "assetno": "0892"
+  },
+  {
+    "name": "item 006",
+    "points": 1270,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
+    "xws": "flexibleslippers",
+    "assetno": "0892"
+  },
+  {
+    "name": "item #6",
+    "points": 1271,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
+    "xws": "flexibleslippers",
+    "assetno": "0892"
+  },
+  {
+    "name": "item #06",
+    "points": 1272,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
+    "xws": "flexibleslippers",
+    "assetno": "0892"
+  },
+  {
+    "name": "item #006",
+    "points": 1273,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
+    "xws": "flexibleslippers",
+    "assetno": "0892"
   },
   {
     "name": "flexible slippers",
-    "points": 1270,
+    "points": 1274,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
+    "xws": "flexibleslippers",
+    "assetno": "0892"
+  },
+  {
+    "name": "0892",
+    "points": 1275,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-006-flexible-slippers.png",
+    "xws": "flexibleslippers",
+    "assetno": "0892"
+  },
+  {
+    "name": "flexible slippers",
+    "points": 1276,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-006-flexible-slippers-back.png",
-    "xws": "flexibleslippers"
+    "xws": "flexibleslippers",
+    "assetno": "####"
   },
   {
     "name": "item 7",
-    "points": 1271,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
-    "xws": "crudebow"
-  },
-  {
-    "name": "item 07",
-    "points": 1272,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
-    "xws": "crudebow"
-  },
-  {
-    "name": "item 007",
-    "points": 1273,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
-    "xws": "crudebow"
-  },
-  {
-    "name": "item #7",
-    "points": 1274,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
-    "xws": "crudebow"
-  },
-  {
-    "name": "item #07",
-    "points": 1275,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
-    "xws": "crudebow"
-  },
-  {
-    "name": "item #007",
-    "points": 1276,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
-    "xws": "crudebow"
-  },
-  {
-    "name": "crude bow",
     "points": 1277,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
-    "xws": "crudebow"
+    "xws": "crudebow",
+    "assetno": "0894"
+  },
+  {
+    "name": "item 07",
+    "points": 1278,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
+    "xws": "crudebow",
+    "assetno": "0894"
+  },
+  {
+    "name": "item 007",
+    "points": 1279,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
+    "xws": "crudebow",
+    "assetno": "0894"
+  },
+  {
+    "name": "item #7",
+    "points": 1280,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
+    "xws": "crudebow",
+    "assetno": "0894"
+  },
+  {
+    "name": "item #07",
+    "points": 1281,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
+    "xws": "crudebow",
+    "assetno": "0894"
+  },
+  {
+    "name": "item #007",
+    "points": 1282,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
+    "xws": "crudebow",
+    "assetno": "0894"
   },
   {
     "name": "crude bow",
-    "points": 1278,
+    "points": 1283,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
+    "xws": "crudebow",
+    "assetno": "0894"
+  },
+  {
+    "name": "0894",
+    "points": 1284,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-007-crude-bow.png",
+    "xws": "crudebow",
+    "assetno": "0894"
+  },
+  {
+    "name": "crude bow",
+    "points": 1285,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-007-crude-bow-back.png",
-    "xws": "crudebow"
+    "xws": "crudebow",
+    "assetno": "####"
   },
   {
     "name": "item 8",
-    "points": 1279,
+    "points": 1286,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "0896"
   },
   {
     "name": "item 08",
-    "points": 1280,
+    "points": 1287,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "0896"
   },
   {
     "name": "item 008",
-    "points": 1281,
+    "points": 1288,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "0896"
   },
   {
     "name": "item #8",
-    "points": 1282,
+    "points": 1289,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "0896"
   },
   {
     "name": "item #08",
-    "points": 1283,
+    "points": 1290,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "0896"
   },
   {
     "name": "item #008",
-    "points": 1284,
+    "points": 1291,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "0896"
   },
   {
     "name": "crude spear",
-    "points": 1285,
+    "points": 1292,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "0896"
+  },
+  {
+    "name": "0896",
+    "points": 1293,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-008-crude-spear.png",
+    "xws": "crudespear",
+    "assetno": "0896"
   },
   {
     "name": "crude spear",
-    "points": 1286,
+    "points": 1294,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-008-crude-spear-back.png",
-    "xws": "crudespear"
+    "xws": "crudespear",
+    "assetno": "####"
   },
   {
     "name": "item 9",
-    "points": 1287,
+    "points": 1295,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "0898"
   },
   {
     "name": "item 09",
-    "points": 1288,
+    "points": 1296,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "0898"
   },
   {
     "name": "item 009",
-    "points": 1289,
+    "points": 1297,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "0898"
   },
   {
     "name": "item #9",
-    "points": 1290,
+    "points": 1298,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "0898"
   },
   {
     "name": "item #09",
-    "points": 1291,
+    "points": 1299,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "0898"
   },
   {
     "name": "item #009",
-    "points": 1292,
+    "points": 1300,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "0898"
   },
   {
     "name": "protective scepter",
-    "points": 1293,
+    "points": 1301,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "0898"
+  },
+  {
+    "name": "0898",
+    "points": 1302,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-009-protective-scepter.png",
+    "xws": "protectivescepter",
+    "assetno": "0898"
   },
   {
     "name": "protective scepter",
-    "points": 1294,
+    "points": 1303,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-009-protective-scepter-back.png",
-    "xws": "protectivescepter"
+    "xws": "protectivescepter",
+    "assetno": "####"
   },
   {
     "name": "item 10",
-    "points": 1295,
+    "points": 1304,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-010-crude-shield.png",
-    "xws": "crudeshield"
+    "xws": "crudeshield",
+    "assetno": "0900"
   },
   {
     "name": "item 010",
-    "points": 1296,
+    "points": 1305,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-010-crude-shield.png",
-    "xws": "crudeshield"
+    "xws": "crudeshield",
+    "assetno": "0900"
   },
   {
     "name": "item #10",
-    "points": 1297,
+    "points": 1306,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-010-crude-shield.png",
-    "xws": "crudeshield"
+    "xws": "crudeshield",
+    "assetno": "0900"
   },
   {
     "name": "item #010",
-    "points": 1298,
+    "points": 1307,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-010-crude-shield.png",
-    "xws": "crudeshield"
+    "xws": "crudeshield",
+    "assetno": "0900"
   },
   {
     "name": "crude shield",
-    "points": 1299,
+    "points": 1308,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-010-crude-shield.png",
-    "xws": "crudeshield"
+    "xws": "crudeshield",
+    "assetno": "0900"
+  },
+  {
+    "name": "0900",
+    "points": 1309,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/001-010/fh-010-crude-shield.png",
+    "xws": "crudeshield",
+    "assetno": "0900"
   },
   {
     "name": "crude shield",
-    "points": 1300,
+    "points": 1310,
     "expansion": "frosthaven",
     "image": "items/frosthaven/001-010/fh-010-crude-shield-back.png",
-    "xws": "crudeshield"
+    "xws": "crudeshield",
+    "assetno": "####"
   },
   {
     "name": "item 11",
-    "points": 1301,
+    "points": 1311,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-011-simple-charm.png",
-    "xws": "simplecharm"
+    "xws": "simplecharm",
+    "assetno": "0902"
   },
   {
     "name": "item 011",
-    "points": 1302,
+    "points": 1312,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-011-simple-charm.png",
-    "xws": "simplecharm"
+    "xws": "simplecharm",
+    "assetno": "0902"
   },
   {
     "name": "item #11",
-    "points": 1303,
+    "points": 1313,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-011-simple-charm.png",
-    "xws": "simplecharm"
+    "xws": "simplecharm",
+    "assetno": "0902"
   },
   {
     "name": "item #011",
-    "points": 1304,
+    "points": 1314,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-011-simple-charm.png",
-    "xws": "simplecharm"
+    "xws": "simplecharm",
+    "assetno": "0902"
   },
   {
     "name": "simple charm",
-    "points": 1305,
+    "points": 1315,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-011-simple-charm.png",
-    "xws": "simplecharm"
+    "xws": "simplecharm",
+    "assetno": "0902"
+  },
+  {
+    "name": "0902",
+    "points": 1316,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/011-015/fh-011-simple-charm.png",
+    "xws": "simplecharm",
+    "assetno": "0902"
   },
   {
     "name": "simple charm",
-    "points": 1306,
+    "points": 1317,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-011-simple-charm-back.png",
-    "xws": "simplecharm"
+    "xws": "simplecharm",
+    "assetno": "####"
   },
   {
     "name": "item 12",
-    "points": 1307,
+    "points": 1318,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-012-crude-chain-armor.png",
-    "xws": "crudechainarmor"
+    "xws": "crudechainarmor",
+    "assetno": "0904"
   },
   {
     "name": "item 012",
-    "points": 1308,
+    "points": 1319,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-012-crude-chain-armor.png",
-    "xws": "crudechainarmor"
+    "xws": "crudechainarmor",
+    "assetno": "0904"
   },
   {
     "name": "item #12",
-    "points": 1309,
+    "points": 1320,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-012-crude-chain-armor.png",
-    "xws": "crudechainarmor"
+    "xws": "crudechainarmor",
+    "assetno": "0904"
   },
   {
     "name": "item #012",
-    "points": 1310,
+    "points": 1321,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-012-crude-chain-armor.png",
-    "xws": "crudechainarmor"
+    "xws": "crudechainarmor",
+    "assetno": "0904"
   },
   {
     "name": "crude chain armor",
-    "points": 1311,
+    "points": 1322,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-012-crude-chain-armor.png",
-    "xws": "crudechainarmor"
+    "xws": "crudechainarmor",
+    "assetno": "0904"
+  },
+  {
+    "name": "0904",
+    "points": 1323,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/011-015/fh-012-crude-chain-armor.png",
+    "xws": "crudechainarmor",
+    "assetno": "0904"
   },
   {
     "name": "crude chain armor",
-    "points": 1312,
+    "points": 1324,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-012-crude-chain-armor-back.png",
-    "xws": "crudechainarmor"
+    "xws": "crudechainarmor",
+    "assetno": "####"
   },
   {
     "name": "item 13",
-    "points": 1313,
+    "points": 1325,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-013-dancing-slippers.png",
-    "xws": "dancingslippers"
+    "xws": "dancingslippers",
+    "assetno": "0906"
   },
   {
     "name": "item 013",
-    "points": 1314,
+    "points": 1326,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-013-dancing-slippers.png",
-    "xws": "dancingslippers"
+    "xws": "dancingslippers",
+    "assetno": "0906"
   },
   {
     "name": "item #13",
-    "points": 1315,
+    "points": 1327,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-013-dancing-slippers.png",
-    "xws": "dancingslippers"
+    "xws": "dancingslippers",
+    "assetno": "0906"
   },
   {
     "name": "item #013",
-    "points": 1316,
+    "points": 1328,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-013-dancing-slippers.png",
-    "xws": "dancingslippers"
+    "xws": "dancingslippers",
+    "assetno": "0906"
   },
   {
     "name": "dancing slippers",
-    "points": 1317,
+    "points": 1329,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-013-dancing-slippers.png",
-    "xws": "dancingslippers"
+    "xws": "dancingslippers",
+    "assetno": "0906"
+  },
+  {
+    "name": "0906",
+    "points": 1330,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/011-015/fh-013-dancing-slippers.png",
+    "xws": "dancingslippers",
+    "assetno": "0906"
   },
   {
     "name": "dancing slippers",
-    "points": 1318,
+    "points": 1331,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-013-dancing-slippers-back.png",
-    "xws": "dancingslippers"
+    "xws": "dancingslippers",
+    "assetno": "####"
   },
   {
     "name": "item 14",
-    "points": 1319,
+    "points": 1332,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-014-heavy-sword.png",
-    "xws": "heavysword"
+    "xws": "heavysword",
+    "assetno": "0908"
   },
   {
     "name": "item 014",
-    "points": 1320,
+    "points": 1333,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-014-heavy-sword.png",
-    "xws": "heavysword"
+    "xws": "heavysword",
+    "assetno": "0908"
   },
   {
     "name": "item #14",
-    "points": 1321,
+    "points": 1334,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-014-heavy-sword.png",
-    "xws": "heavysword"
+    "xws": "heavysword",
+    "assetno": "0908"
   },
   {
     "name": "item #014",
-    "points": 1322,
+    "points": 1335,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-014-heavy-sword.png",
-    "xws": "heavysword"
+    "xws": "heavysword",
+    "assetno": "0908"
   },
   {
     "name": "heavy sword",
-    "points": 1323,
+    "points": 1336,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-014-heavy-sword.png",
-    "xws": "heavysword"
+    "xws": "heavysword",
+    "assetno": "0908"
+  },
+  {
+    "name": "0908",
+    "points": 1337,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/011-015/fh-014-heavy-sword.png",
+    "xws": "heavysword",
+    "assetno": "0908"
   },
   {
     "name": "heavy sword",
-    "points": 1324,
+    "points": 1338,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-014-heavy-sword-back.png",
-    "xws": "heavysword"
+    "xws": "heavysword",
+    "assetno": "####"
   },
   {
     "name": "item 15",
-    "points": 1325,
+    "points": 1339,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-015-reinforced-shield.png",
-    "xws": "reinforcedshield"
+    "xws": "reinforcedshield",
+    "assetno": "0910"
   },
   {
     "name": "item 015",
-    "points": 1326,
+    "points": 1340,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-015-reinforced-shield.png",
-    "xws": "reinforcedshield"
+    "xws": "reinforcedshield",
+    "assetno": "0910"
   },
   {
     "name": "item #15",
-    "points": 1327,
+    "points": 1341,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-015-reinforced-shield.png",
-    "xws": "reinforcedshield"
+    "xws": "reinforcedshield",
+    "assetno": "0910"
   },
   {
     "name": "item #015",
-    "points": 1328,
+    "points": 1342,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-015-reinforced-shield.png",
-    "xws": "reinforcedshield"
+    "xws": "reinforcedshield",
+    "assetno": "0910"
   },
   {
     "name": "reinforced shield",
-    "points": 1329,
+    "points": 1343,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-015-reinforced-shield.png",
-    "xws": "reinforcedshield"
+    "xws": "reinforcedshield",
+    "assetno": "0910"
+  },
+  {
+    "name": "0910",
+    "points": 1344,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/011-015/fh-015-reinforced-shield.png",
+    "xws": "reinforcedshield",
+    "assetno": "0910"
   },
   {
     "name": "reinforced shield",
-    "points": 1330,
+    "points": 1345,
     "expansion": "frosthaven",
     "image": "items/frosthaven/011-015/fh-015-reinforced-shield-back.png",
-    "xws": "reinforcedshield"
+    "xws": "reinforcedshield",
+    "assetno": "####"
   },
   {
     "name": "item 16",
-    "points": 1331,
+    "points": 1346,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-016-inspiring-helmet.png",
-    "xws": "inspiringhelmet"
+    "xws": "inspiringhelmet",
+    "assetno": "0912"
   },
   {
     "name": "item 016",
-    "points": 1332,
+    "points": 1347,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-016-inspiring-helmet.png",
-    "xws": "inspiringhelmet"
+    "xws": "inspiringhelmet",
+    "assetno": "0912"
   },
   {
     "name": "item #16",
-    "points": 1333,
+    "points": 1348,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-016-inspiring-helmet.png",
-    "xws": "inspiringhelmet"
+    "xws": "inspiringhelmet",
+    "assetno": "0912"
   },
   {
     "name": "item #016",
-    "points": 1334,
+    "points": 1349,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-016-inspiring-helmet.png",
-    "xws": "inspiringhelmet"
+    "xws": "inspiringhelmet",
+    "assetno": "0912"
   },
   {
     "name": "inspiring helmet",
-    "points": 1335,
+    "points": 1350,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-016-inspiring-helmet.png",
-    "xws": "inspiringhelmet"
+    "xws": "inspiringhelmet",
+    "assetno": "0912"
+  },
+  {
+    "name": "0912",
+    "points": 1351,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/016-020/fh-016-inspiring-helmet.png",
+    "xws": "inspiringhelmet",
+    "assetno": "0912"
   },
   {
     "name": "inspiring helmet",
-    "points": 1336,
+    "points": 1352,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-016-inspiring-helmet-back.png",
-    "xws": "inspiringhelmet"
+    "xws": "inspiringhelmet",
+    "assetno": "####"
   },
   {
     "name": "item 17",
-    "points": 1337,
+    "points": 1353,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-017-cured-leather-armor.png",
-    "xws": "curedleatherarmor"
+    "xws": "curedleatherarmor",
+    "assetno": "0914"
   },
   {
     "name": "item 017",
-    "points": 1338,
+    "points": 1354,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-017-cured-leather-armor.png",
-    "xws": "curedleatherarmor"
+    "xws": "curedleatherarmor",
+    "assetno": "0914"
   },
   {
     "name": "item #17",
-    "points": 1339,
+    "points": 1355,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-017-cured-leather-armor.png",
-    "xws": "curedleatherarmor"
+    "xws": "curedleatherarmor",
+    "assetno": "0914"
   },
   {
     "name": "item #017",
-    "points": 1340,
+    "points": 1356,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-017-cured-leather-armor.png",
-    "xws": "curedleatherarmor"
+    "xws": "curedleatherarmor",
+    "assetno": "0914"
   },
   {
     "name": "cured leather armor",
-    "points": 1341,
+    "points": 1357,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-017-cured-leather-armor.png",
-    "xws": "curedleatherarmor"
+    "xws": "curedleatherarmor",
+    "assetno": "0914"
+  },
+  {
+    "name": "0914",
+    "points": 1358,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/016-020/fh-017-cured-leather-armor.png",
+    "xws": "curedleatherarmor",
+    "assetno": "0914"
   },
   {
     "name": "cured leather armor",
-    "points": 1342,
+    "points": 1359,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-017-cured-leather-armor-back.png",
-    "xws": "curedleatherarmor"
+    "xws": "curedleatherarmor",
+    "assetno": "####"
   },
   {
     "name": "item 18",
-    "points": 1343,
+    "points": 1360,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-018-rough-boots.png",
-    "xws": "roughboots"
+    "xws": "roughboots",
+    "assetno": "0916"
   },
   {
     "name": "item 018",
-    "points": 1344,
+    "points": 1361,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-018-rough-boots.png",
-    "xws": "roughboots"
+    "xws": "roughboots",
+    "assetno": "0916"
   },
   {
     "name": "item #18",
-    "points": 1345,
+    "points": 1362,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-018-rough-boots.png",
-    "xws": "roughboots"
+    "xws": "roughboots",
+    "assetno": "0916"
   },
   {
     "name": "item #018",
-    "points": 1346,
+    "points": 1363,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-018-rough-boots.png",
-    "xws": "roughboots"
+    "xws": "roughboots",
+    "assetno": "0916"
   },
   {
     "name": "rough boots",
-    "points": 1347,
+    "points": 1364,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-018-rough-boots.png",
-    "xws": "roughboots"
+    "xws": "roughboots",
+    "assetno": "0916"
+  },
+  {
+    "name": "0916",
+    "points": 1365,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/016-020/fh-018-rough-boots.png",
+    "xws": "roughboots",
+    "assetno": "0916"
   },
   {
     "name": "rough boots",
-    "points": 1348,
+    "points": 1366,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-018-rough-boots-back.png",
-    "xws": "roughboots"
+    "xws": "roughboots",
+    "assetno": "####"
   },
   {
     "name": "item 19",
-    "points": 1349,
+    "points": 1367,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-019-ringing-hammer.png",
-    "xws": "ringinghammer"
+    "xws": "ringinghammer",
+    "assetno": "0918"
   },
   {
     "name": "item 019",
-    "points": 1350,
+    "points": 1368,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-019-ringing-hammer.png",
-    "xws": "ringinghammer"
+    "xws": "ringinghammer",
+    "assetno": "0918"
   },
   {
     "name": "item #19",
-    "points": 1351,
+    "points": 1369,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-019-ringing-hammer.png",
-    "xws": "ringinghammer"
+    "xws": "ringinghammer",
+    "assetno": "0918"
   },
   {
     "name": "item #019",
-    "points": 1352,
+    "points": 1370,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-019-ringing-hammer.png",
-    "xws": "ringinghammer"
+    "xws": "ringinghammer",
+    "assetno": "0918"
   },
   {
     "name": "ringing hammer",
-    "points": 1353,
+    "points": 1371,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-019-ringing-hammer.png",
-    "xws": "ringinghammer"
+    "xws": "ringinghammer",
+    "assetno": "0918"
+  },
+  {
+    "name": "0918",
+    "points": 1372,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/016-020/fh-019-ringing-hammer.png",
+    "xws": "ringinghammer",
+    "assetno": "0918"
   },
   {
     "name": "ringing hammer",
-    "points": 1354,
+    "points": 1373,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-019-ringing-hammer-back.png",
-    "xws": "ringinghammer"
+    "xws": "ringinghammer",
+    "assetno": "####"
   },
   {
     "name": "item 20",
-    "points": 1355,
+    "points": 1374,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-020-well-strung-bow.png",
-    "xws": "wellstrungbow"
+    "xws": "wellstrungbow",
+    "assetno": "0920"
   },
   {
     "name": "item 020",
-    "points": 1356,
+    "points": 1375,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-020-well-strung-bow.png",
-    "xws": "wellstrungbow"
+    "xws": "wellstrungbow",
+    "assetno": "0920"
   },
   {
     "name": "item #20",
-    "points": 1357,
+    "points": 1376,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-020-well-strung-bow.png",
-    "xws": "wellstrungbow"
+    "xws": "wellstrungbow",
+    "assetno": "0920"
   },
   {
     "name": "item #020",
-    "points": 1358,
+    "points": 1377,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-020-well-strung-bow.png",
-    "xws": "wellstrungbow"
+    "xws": "wellstrungbow",
+    "assetno": "0920"
   },
   {
     "name": "well-strung bow",
-    "points": 1359,
+    "points": 1378,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-020-well-strung-bow.png",
-    "xws": "wellstrungbow"
+    "xws": "wellstrungbow",
+    "assetno": "0920"
+  },
+  {
+    "name": "0920",
+    "points": 1379,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/016-020/fh-020-well-strung-bow.png",
+    "xws": "wellstrungbow",
+    "assetno": "0920"
   },
   {
     "name": "well-strung bow",
-    "points": 1360,
+    "points": 1380,
     "expansion": "frosthaven",
     "image": "items/frosthaven/016-020/fh-020-well-strung-bow-back.png",
-    "xws": "wellstrungbow"
+    "xws": "wellstrungbow",
+    "assetno": "####"
   },
   {
     "name": "item 21",
-    "points": 1361,
+    "points": 1381,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-021-chain-hood.png",
-    "xws": "chainhood"
+    "xws": "chainhood",
+    "assetno": "0922"
   },
   {
     "name": "item 021",
-    "points": 1362,
+    "points": 1382,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-021-chain-hood.png",
-    "xws": "chainhood"
+    "xws": "chainhood",
+    "assetno": "0922"
   },
   {
     "name": "item #21",
-    "points": 1363,
+    "points": 1383,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-021-chain-hood.png",
-    "xws": "chainhood"
+    "xws": "chainhood",
+    "assetno": "0922"
   },
   {
     "name": "item #021",
-    "points": 1364,
+    "points": 1384,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-021-chain-hood.png",
-    "xws": "chainhood"
+    "xws": "chainhood",
+    "assetno": "0922"
   },
   {
     "name": "chain hood",
-    "points": 1365,
+    "points": 1385,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-021-chain-hood.png",
-    "xws": "chainhood"
+    "xws": "chainhood",
+    "assetno": "0922"
+  },
+  {
+    "name": "0922",
+    "points": 1386,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/021-025/fh-021-chain-hood.png",
+    "xws": "chainhood",
+    "assetno": "0922"
   },
   {
     "name": "chain hood",
-    "points": 1366,
+    "points": 1387,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-021-chain-hood-back.png",
-    "xws": "chainhood"
+    "xws": "chainhood",
+    "assetno": "####"
   },
   {
     "name": "item 22",
-    "points": 1367,
+    "points": 1388,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-022-heavy-chain-armor.png",
-    "xws": "heavychainarmor"
+    "xws": "heavychainarmor",
+    "assetno": "0924"
   },
   {
     "name": "item 022",
-    "points": 1368,
+    "points": 1389,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-022-heavy-chain-armor.png",
-    "xws": "heavychainarmor"
+    "xws": "heavychainarmor",
+    "assetno": "0924"
   },
   {
     "name": "item #22",
-    "points": 1369,
+    "points": 1390,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-022-heavy-chain-armor.png",
-    "xws": "heavychainarmor"
+    "xws": "heavychainarmor",
+    "assetno": "0924"
   },
   {
     "name": "item #022",
-    "points": 1370,
+    "points": 1391,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-022-heavy-chain-armor.png",
-    "xws": "heavychainarmor"
+    "xws": "heavychainarmor",
+    "assetno": "0924"
   },
   {
     "name": "heavy chain armor",
-    "points": 1371,
+    "points": 1392,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-022-heavy-chain-armor.png",
-    "xws": "heavychainarmor"
+    "xws": "heavychainarmor",
+    "assetno": "0924"
+  },
+  {
+    "name": "0924",
+    "points": 1393,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/021-025/fh-022-heavy-chain-armor.png",
+    "xws": "heavychainarmor",
+    "assetno": "0924"
   },
   {
     "name": "heavy chain armor",
-    "points": 1372,
+    "points": 1394,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-022-heavy-chain-armor-back.png",
-    "xws": "heavychainarmor"
+    "xws": "heavychainarmor",
+    "assetno": "####"
   },
   {
     "name": "item 23",
-    "points": 1373,
+    "points": 1395,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-023-sturdy-greaves.png",
-    "xws": "sturdygreaves"
+    "xws": "sturdygreaves",
+    "assetno": "0926"
   },
   {
     "name": "item 023",
-    "points": 1374,
+    "points": 1396,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-023-sturdy-greaves.png",
-    "xws": "sturdygreaves"
+    "xws": "sturdygreaves",
+    "assetno": "0926"
   },
   {
     "name": "item #23",
-    "points": 1375,
+    "points": 1397,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-023-sturdy-greaves.png",
-    "xws": "sturdygreaves"
+    "xws": "sturdygreaves",
+    "assetno": "0926"
   },
   {
     "name": "item #023",
-    "points": 1376,
+    "points": 1398,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-023-sturdy-greaves.png",
-    "xws": "sturdygreaves"
+    "xws": "sturdygreaves",
+    "assetno": "0926"
   },
   {
     "name": "sturdy greaves",
-    "points": 1377,
+    "points": 1399,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-023-sturdy-greaves.png",
-    "xws": "sturdygreaves"
+    "xws": "sturdygreaves",
+    "assetno": "0926"
+  },
+  {
+    "name": "0926",
+    "points": 1400,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/021-025/fh-023-sturdy-greaves.png",
+    "xws": "sturdygreaves",
+    "assetno": "0926"
   },
   {
     "name": "sturdy greaves",
-    "points": 1378,
+    "points": 1401,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-023-sturdy-greaves-back.png",
-    "xws": "sturdygreaves"
+    "xws": "sturdygreaves",
+    "assetno": "####"
   },
   {
     "name": "item 24",
-    "points": 1379,
+    "points": 1402,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-024-corrupted-blade.png",
-    "xws": "corruptedblade"
+    "xws": "corruptedblade",
+    "assetno": "0928"
   },
   {
     "name": "item 024",
-    "points": 1380,
+    "points": 1403,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-024-corrupted-blade.png",
-    "xws": "corruptedblade"
+    "xws": "corruptedblade",
+    "assetno": "0928"
   },
   {
     "name": "item #24",
-    "points": 1381,
+    "points": 1404,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-024-corrupted-blade.png",
-    "xws": "corruptedblade"
+    "xws": "corruptedblade",
+    "assetno": "0928"
   },
   {
     "name": "item #024",
-    "points": 1382,
+    "points": 1405,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-024-corrupted-blade.png",
-    "xws": "corruptedblade"
+    "xws": "corruptedblade",
+    "assetno": "0928"
   },
   {
     "name": "corrupted blade",
-    "points": 1383,
+    "points": 1406,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-024-corrupted-blade.png",
-    "xws": "corruptedblade"
+    "xws": "corruptedblade",
+    "assetno": "0928"
+  },
+  {
+    "name": "0928",
+    "points": 1407,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/021-025/fh-024-corrupted-blade.png",
+    "xws": "corruptedblade",
+    "assetno": "0928"
   },
   {
     "name": "corrupted blade",
-    "points": 1384,
+    "points": 1408,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-024-corrupted-blade-back.png",
-    "xws": "corruptedblade"
+    "xws": "corruptedblade",
+    "assetno": "####"
   },
   {
     "name": "item 25",
-    "points": 1385,
+    "points": 1409,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-025-soothing-scepter.png",
-    "xws": "soothingscepter"
+    "xws": "soothingscepter",
+    "assetno": "0930"
   },
   {
     "name": "item 025",
-    "points": 1386,
+    "points": 1410,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-025-soothing-scepter.png",
-    "xws": "soothingscepter"
+    "xws": "soothingscepter",
+    "assetno": "0930"
   },
   {
     "name": "item #25",
-    "points": 1387,
+    "points": 1411,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-025-soothing-scepter.png",
-    "xws": "soothingscepter"
+    "xws": "soothingscepter",
+    "assetno": "0930"
   },
   {
     "name": "item #025",
-    "points": 1388,
+    "points": 1412,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-025-soothing-scepter.png",
-    "xws": "soothingscepter"
+    "xws": "soothingscepter",
+    "assetno": "0930"
   },
   {
     "name": "soothing scepter",
-    "points": 1389,
+    "points": 1413,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-025-soothing-scepter.png",
-    "xws": "soothingscepter"
+    "xws": "soothingscepter",
+    "assetno": "0930"
+  },
+  {
+    "name": "0930",
+    "points": 1414,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/021-025/fh-025-soothing-scepter.png",
+    "xws": "soothingscepter",
+    "assetno": "0930"
   },
   {
     "name": "soothing scepter",
-    "points": 1390,
+    "points": 1415,
     "expansion": "frosthaven",
     "image": "items/frosthaven/021-025/fh-025-soothing-scepter-back.png",
-    "xws": "soothingscepter"
+    "xws": "soothingscepter",
+    "assetno": "####"
   },
   {
     "name": "item 26",
-    "points": 1391,
+    "points": 1416,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-026-truesight-lenses.png",
-    "xws": "truesightlenses"
+    "xws": "truesightlenses",
+    "assetno": "0932"
   },
   {
     "name": "item 026",
-    "points": 1392,
+    "points": 1417,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-026-truesight-lenses.png",
-    "xws": "truesightlenses"
+    "xws": "truesightlenses",
+    "assetno": "0932"
   },
   {
     "name": "item #26",
-    "points": 1393,
+    "points": 1418,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-026-truesight-lenses.png",
-    "xws": "truesightlenses"
+    "xws": "truesightlenses",
+    "assetno": "0932"
   },
   {
     "name": "item #026",
-    "points": 1394,
+    "points": 1419,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-026-truesight-lenses.png",
-    "xws": "truesightlenses"
+    "xws": "truesightlenses",
+    "assetno": "0932"
   },
   {
     "name": "truesight lenses",
-    "points": 1395,
+    "points": 1420,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-026-truesight-lenses.png",
-    "xws": "truesightlenses"
+    "xws": "truesightlenses",
+    "assetno": "0932"
+  },
+  {
+    "name": "0932",
+    "points": 1421,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/026-030/fh-026-truesight-lenses.png",
+    "xws": "truesightlenses",
+    "assetno": "0932"
   },
   {
     "name": "truesight lenses",
-    "points": 1396,
+    "points": 1422,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-026-truesight-lenses-back.png",
-    "xws": "truesightlenses"
+    "xws": "truesightlenses",
+    "assetno": "####"
   },
   {
     "name": "item 27",
-    "points": 1397,
+    "points": 1423,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-027-cloak-of-warding.png",
-    "xws": "cloakofwarding"
+    "xws": "cloakofwarding",
+    "assetno": "0934"
   },
   {
     "name": "item 027",
-    "points": 1398,
+    "points": 1424,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-027-cloak-of-warding.png",
-    "xws": "cloakofwarding"
+    "xws": "cloakofwarding",
+    "assetno": "0934"
   },
   {
     "name": "item #27",
-    "points": 1399,
+    "points": 1425,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-027-cloak-of-warding.png",
-    "xws": "cloakofwarding"
+    "xws": "cloakofwarding",
+    "assetno": "0934"
   },
   {
     "name": "item #027",
-    "points": 1400,
+    "points": 1426,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-027-cloak-of-warding.png",
-    "xws": "cloakofwarding"
+    "xws": "cloakofwarding",
+    "assetno": "0934"
   },
   {
     "name": "cloak of warding",
-    "points": 1401,
+    "points": 1427,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-027-cloak-of-warding.png",
-    "xws": "cloakofwarding"
+    "xws": "cloakofwarding",
+    "assetno": "0934"
+  },
+  {
+    "name": "0934",
+    "points": 1428,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/026-030/fh-027-cloak-of-warding.png",
+    "xws": "cloakofwarding",
+    "assetno": "0934"
   },
   {
     "name": "cloak of warding",
-    "points": 1402,
+    "points": 1429,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-027-cloak-of-warding-back.png",
-    "xws": "cloakofwarding"
+    "xws": "cloakofwarding",
+    "assetno": "####"
   },
   {
     "name": "item 28",
-    "points": 1403,
+    "points": 1430,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-028-sturdy-boots.png",
-    "xws": "sturdyboots"
+    "xws": "sturdyboots",
+    "assetno": "0936"
   },
   {
     "name": "item 028",
-    "points": 1404,
+    "points": 1431,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-028-sturdy-boots.png",
-    "xws": "sturdyboots"
+    "xws": "sturdyboots",
+    "assetno": "0936"
   },
   {
     "name": "item #28",
-    "points": 1405,
+    "points": 1432,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-028-sturdy-boots.png",
-    "xws": "sturdyboots"
+    "xws": "sturdyboots",
+    "assetno": "0936"
   },
   {
     "name": "item #028",
-    "points": 1406,
+    "points": 1433,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-028-sturdy-boots.png",
-    "xws": "sturdyboots"
+    "xws": "sturdyboots",
+    "assetno": "0936"
   },
   {
     "name": "sturdy boots",
-    "points": 1407,
+    "points": 1434,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-028-sturdy-boots.png",
-    "xws": "sturdyboots"
+    "xws": "sturdyboots",
+    "assetno": "0936"
+  },
+  {
+    "name": "0936",
+    "points": 1435,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/026-030/fh-028-sturdy-boots.png",
+    "xws": "sturdyboots",
+    "assetno": "0936"
   },
   {
     "name": "sturdy boots",
-    "points": 1408,
+    "points": 1436,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-028-sturdy-boots-back.png",
-    "xws": "sturdyboots"
+    "xws": "sturdyboots",
+    "assetno": "####"
   },
   {
     "name": "item 29",
-    "points": 1409,
+    "points": 1437,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-029-cleaving-axe.png",
-    "xws": "cleavingaxe"
+    "xws": "cleavingaxe",
+    "assetno": "0938"
   },
   {
     "name": "item 029",
-    "points": 1410,
+    "points": 1438,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-029-cleaving-axe.png",
-    "xws": "cleavingaxe"
+    "xws": "cleavingaxe",
+    "assetno": "0938"
   },
   {
     "name": "item #29",
-    "points": 1411,
+    "points": 1439,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-029-cleaving-axe.png",
-    "xws": "cleavingaxe"
+    "xws": "cleavingaxe",
+    "assetno": "0938"
   },
   {
     "name": "item #029",
-    "points": 1412,
+    "points": 1440,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-029-cleaving-axe.png",
-    "xws": "cleavingaxe"
+    "xws": "cleavingaxe",
+    "assetno": "0938"
   },
   {
     "name": "cleaving axe",
-    "points": 1413,
+    "points": 1441,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-029-cleaving-axe.png",
-    "xws": "cleavingaxe"
+    "xws": "cleavingaxe",
+    "assetno": "0938"
+  },
+  {
+    "name": "0938",
+    "points": 1442,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/026-030/fh-029-cleaving-axe.png",
+    "xws": "cleavingaxe",
+    "assetno": "0938"
   },
   {
     "name": "cleaving axe",
-    "points": 1414,
+    "points": 1443,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-029-cleaving-axe-back.png",
-    "xws": "cleavingaxe"
+    "xws": "cleavingaxe",
+    "assetno": "####"
   },
   {
     "name": "item 30",
-    "points": 1415,
+    "points": 1444,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-030-parrying-gauntlet.png",
-    "xws": "parryinggauntlet"
+    "xws": "parryinggauntlet",
+    "assetno": "0940"
   },
   {
     "name": "item 030",
-    "points": 1416,
+    "points": 1445,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-030-parrying-gauntlet.png",
-    "xws": "parryinggauntlet"
+    "xws": "parryinggauntlet",
+    "assetno": "0940"
   },
   {
     "name": "item #30",
-    "points": 1417,
+    "points": 1446,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-030-parrying-gauntlet.png",
-    "xws": "parryinggauntlet"
+    "xws": "parryinggauntlet",
+    "assetno": "0940"
   },
   {
     "name": "item #030",
-    "points": 1418,
+    "points": 1447,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-030-parrying-gauntlet.png",
-    "xws": "parryinggauntlet"
+    "xws": "parryinggauntlet",
+    "assetno": "0940"
   },
   {
     "name": "parrying gauntlet",
-    "points": 1419,
+    "points": 1448,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-030-parrying-gauntlet.png",
-    "xws": "parryinggauntlet"
+    "xws": "parryinggauntlet",
+    "assetno": "0940"
+  },
+  {
+    "name": "0940",
+    "points": 1449,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/026-030/fh-030-parrying-gauntlet.png",
+    "xws": "parryinggauntlet",
+    "assetno": "0940"
   },
   {
     "name": "parrying gauntlet",
-    "points": 1420,
+    "points": 1450,
     "expansion": "frosthaven",
     "image": "items/frosthaven/026-030/fh-030-parrying-gauntlet-back.png",
-    "xws": "parryinggauntlet"
+    "xws": "parryinggauntlet",
+    "assetno": "####"
   },
   {
     "name": "item 31",
-    "points": 1421,
+    "points": 1451,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-031-deathproof-charm.png",
-    "xws": "deathproofcharm"
+    "xws": "deathproofcharm",
+    "assetno": "0942"
   },
   {
     "name": "item 031",
-    "points": 1422,
+    "points": 1452,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-031-deathproof-charm.png",
-    "xws": "deathproofcharm"
+    "xws": "deathproofcharm",
+    "assetno": "0942"
   },
   {
     "name": "item #31",
-    "points": 1423,
+    "points": 1453,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-031-deathproof-charm.png",
-    "xws": "deathproofcharm"
+    "xws": "deathproofcharm",
+    "assetno": "0942"
   },
   {
     "name": "item #031",
-    "points": 1424,
+    "points": 1454,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-031-deathproof-charm.png",
-    "xws": "deathproofcharm"
+    "xws": "deathproofcharm",
+    "assetno": "0942"
   },
   {
     "name": "deathproof charm",
-    "points": 1425,
+    "points": 1455,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-031-deathproof-charm.png",
-    "xws": "deathproofcharm"
+    "xws": "deathproofcharm",
+    "assetno": "0942"
+  },
+  {
+    "name": "0942",
+    "points": 1456,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/031-035/fh-031-deathproof-charm.png",
+    "xws": "deathproofcharm",
+    "assetno": "0942"
   },
   {
     "name": "deathproof charm",
-    "points": 1426,
+    "points": 1457,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-031-deathproof-charm-back.png",
-    "xws": "deathproofcharm"
+    "xws": "deathproofcharm",
+    "assetno": "####"
   },
   {
     "name": "item 32",
-    "points": 1427,
+    "points": 1458,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-032-shell-armor.png",
-    "xws": "shellarmor"
+    "xws": "shellarmor",
+    "assetno": "0944"
   },
   {
     "name": "item 032",
-    "points": 1428,
+    "points": 1459,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-032-shell-armor.png",
-    "xws": "shellarmor"
+    "xws": "shellarmor",
+    "assetno": "0944"
   },
   {
     "name": "item #32",
-    "points": 1429,
+    "points": 1460,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-032-shell-armor.png",
-    "xws": "shellarmor"
+    "xws": "shellarmor",
+    "assetno": "0944"
   },
   {
     "name": "item #032",
-    "points": 1430,
+    "points": 1461,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-032-shell-armor.png",
-    "xws": "shellarmor"
+    "xws": "shellarmor",
+    "assetno": "0944"
   },
   {
     "name": "shell armor",
-    "points": 1431,
+    "points": 1462,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-032-shell-armor.png",
-    "xws": "shellarmor"
+    "xws": "shellarmor",
+    "assetno": "0944"
+  },
+  {
+    "name": "0944",
+    "points": 1463,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/031-035/fh-032-shell-armor.png",
+    "xws": "shellarmor",
+    "assetno": "0944"
   },
   {
     "name": "shell armor",
-    "points": 1432,
+    "points": 1464,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-032-shell-armor-back.png",
-    "xws": "shellarmor"
+    "xws": "shellarmor",
+    "assetno": "####"
   },
   {
     "name": "item 33",
-    "points": 1433,
+    "points": 1465,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-033-volatile-boots.png",
-    "xws": "volatileboots"
+    "xws": "volatileboots",
+    "assetno": "0946"
   },
   {
     "name": "item 033",
-    "points": 1434,
+    "points": 1466,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-033-volatile-boots.png",
-    "xws": "volatileboots"
+    "xws": "volatileboots",
+    "assetno": "0946"
   },
   {
     "name": "item #33",
-    "points": 1435,
+    "points": 1467,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-033-volatile-boots.png",
-    "xws": "volatileboots"
+    "xws": "volatileboots",
+    "assetno": "0946"
   },
   {
     "name": "item #033",
-    "points": 1436,
+    "points": 1468,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-033-volatile-boots.png",
-    "xws": "volatileboots"
+    "xws": "volatileboots",
+    "assetno": "0946"
   },
   {
     "name": "volatile boots",
-    "points": 1437,
+    "points": 1469,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-033-volatile-boots.png",
-    "xws": "volatileboots"
+    "xws": "volatileboots",
+    "assetno": "0946"
+  },
+  {
+    "name": "0946",
+    "points": 1470,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/031-035/fh-033-volatile-boots.png",
+    "xws": "volatileboots",
+    "assetno": "0946"
   },
   {
     "name": "volatile boots",
-    "points": 1438,
+    "points": 1471,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-033-volatile-boots-back.png",
-    "xws": "volatileboots"
+    "xws": "volatileboots",
+    "assetno": "####"
   },
   {
     "name": "item 34",
-    "points": 1439,
+    "points": 1472,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-034-shrapnel-bomb.png",
-    "xws": "shrapnelbomb"
+    "xws": "shrapnelbomb",
+    "assetno": "0948"
   },
   {
     "name": "item 034",
-    "points": 1440,
+    "points": 1473,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-034-shrapnel-bomb.png",
-    "xws": "shrapnelbomb"
+    "xws": "shrapnelbomb",
+    "assetno": "0948"
   },
   {
     "name": "item #34",
-    "points": 1441,
+    "points": 1474,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-034-shrapnel-bomb.png",
-    "xws": "shrapnelbomb"
+    "xws": "shrapnelbomb",
+    "assetno": "0948"
   },
   {
     "name": "item #034",
-    "points": 1442,
+    "points": 1475,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-034-shrapnel-bomb.png",
-    "xws": "shrapnelbomb"
+    "xws": "shrapnelbomb",
+    "assetno": "0948"
   },
   {
     "name": "shrapnel bomb",
-    "points": 1443,
+    "points": 1476,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-034-shrapnel-bomb.png",
-    "xws": "shrapnelbomb"
+    "xws": "shrapnelbomb",
+    "assetno": "0948"
+  },
+  {
+    "name": "0948",
+    "points": 1477,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/031-035/fh-034-shrapnel-bomb.png",
+    "xws": "shrapnelbomb",
+    "assetno": "0948"
   },
   {
     "name": "shrapnel bomb",
-    "points": 1444,
+    "points": 1478,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-034-shrapnel-bomb-back.png",
-    "xws": "shrapnelbomb"
+    "xws": "shrapnelbomb",
+    "assetno": "####"
   },
   {
     "name": "item 35",
-    "points": 1445,
+    "points": 1479,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-035-kite-shield.png",
-    "xws": "kiteshield"
+    "xws": "kiteshield",
+    "assetno": "0950"
   },
   {
     "name": "item 035",
-    "points": 1446,
+    "points": 1480,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-035-kite-shield.png",
-    "xws": "kiteshield"
+    "xws": "kiteshield",
+    "assetno": "0950"
   },
   {
     "name": "item #35",
-    "points": 1447,
+    "points": 1481,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-035-kite-shield.png",
-    "xws": "kiteshield"
+    "xws": "kiteshield",
+    "assetno": "0950"
   },
   {
     "name": "item #035",
-    "points": 1448,
+    "points": 1482,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-035-kite-shield.png",
-    "xws": "kiteshield"
+    "xws": "kiteshield",
+    "assetno": "0950"
   },
   {
     "name": "kite shield",
-    "points": 1449,
+    "points": 1483,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-035-kite-shield.png",
-    "xws": "kiteshield"
+    "xws": "kiteshield",
+    "assetno": "0950"
+  },
+  {
+    "name": "0950",
+    "points": 1484,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/031-035/fh-035-kite-shield.png",
+    "xws": "kiteshield",
+    "assetno": "0950"
   },
   {
     "name": "kite shield",
-    "points": 1450,
+    "points": 1485,
     "expansion": "frosthaven",
     "image": "items/frosthaven/031-035/fh-035-kite-shield-back.png",
-    "xws": "kiteshield"
+    "xws": "kiteshield",
+    "assetno": "####"
   },
   {
     "name": "item 36",
-    "points": 1451,
+    "points": 1486,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-036-plumed-helmet.png",
-    "xws": "plumedhelmet"
+    "xws": "plumedhelmet",
+    "assetno": "0952"
   },
   {
     "name": "item 036",
-    "points": 1452,
+    "points": 1487,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-036-plumed-helmet.png",
-    "xws": "plumedhelmet"
+    "xws": "plumedhelmet",
+    "assetno": "0952"
   },
   {
     "name": "item #36",
-    "points": 1453,
+    "points": 1488,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-036-plumed-helmet.png",
-    "xws": "plumedhelmet"
+    "xws": "plumedhelmet",
+    "assetno": "0952"
   },
   {
     "name": "item #036",
-    "points": 1454,
+    "points": 1489,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-036-plumed-helmet.png",
-    "xws": "plumedhelmet"
+    "xws": "plumedhelmet",
+    "assetno": "0952"
   },
   {
     "name": "plumed helmet",
-    "points": 1455,
+    "points": 1490,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-036-plumed-helmet.png",
-    "xws": "plumedhelmet"
+    "xws": "plumedhelmet",
+    "assetno": "0952"
+  },
+  {
+    "name": "0952",
+    "points": 1491,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/036-040/fh-036-plumed-helmet.png",
+    "xws": "plumedhelmet",
+    "assetno": "0952"
   },
   {
     "name": "plumed helmet",
-    "points": 1456,
+    "points": 1492,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-036-plumed-helmet-back.png",
-    "xws": "plumedhelmet"
+    "xws": "plumedhelmet",
+    "assetno": "####"
   },
   {
     "name": "item 37",
-    "points": 1457,
+    "points": 1493,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-037-ghost-cloak.png",
-    "xws": "ghostcloak"
+    "xws": "ghostcloak",
+    "assetno": "0954"
   },
   {
     "name": "item 037",
-    "points": 1458,
+    "points": 1494,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-037-ghost-cloak.png",
-    "xws": "ghostcloak"
+    "xws": "ghostcloak",
+    "assetno": "0954"
   },
   {
     "name": "item #37",
-    "points": 1459,
+    "points": 1495,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-037-ghost-cloak.png",
-    "xws": "ghostcloak"
+    "xws": "ghostcloak",
+    "assetno": "0954"
   },
   {
     "name": "item #037",
-    "points": 1460,
+    "points": 1496,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-037-ghost-cloak.png",
-    "xws": "ghostcloak"
+    "xws": "ghostcloak",
+    "assetno": "0954"
   },
   {
     "name": "ghost cloak",
-    "points": 1461,
+    "points": 1497,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-037-ghost-cloak.png",
-    "xws": "ghostcloak"
+    "xws": "ghostcloak",
+    "assetno": "0954"
+  },
+  {
+    "name": "0954",
+    "points": 1498,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/036-040/fh-037-ghost-cloak.png",
+    "xws": "ghostcloak",
+    "assetno": "0954"
   },
   {
     "name": "ghost cloak",
-    "points": 1462,
+    "points": 1499,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-037-ghost-cloak-back.png",
-    "xws": "ghostcloak"
+    "xws": "ghostcloak",
+    "assetno": "####"
   },
   {
     "name": "item 38",
-    "points": 1463,
+    "points": 1500,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-038-duelists-shoes.png",
-    "xws": "duelistsshoes"
+    "xws": "duelistsshoes",
+    "assetno": "0956"
   },
   {
     "name": "item 038",
-    "points": 1464,
+    "points": 1501,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-038-duelists-shoes.png",
-    "xws": "duelistsshoes"
+    "xws": "duelistsshoes",
+    "assetno": "0956"
   },
   {
     "name": "item #38",
-    "points": 1465,
+    "points": 1502,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-038-duelists-shoes.png",
-    "xws": "duelistsshoes"
+    "xws": "duelistsshoes",
+    "assetno": "0956"
   },
   {
     "name": "item #038",
-    "points": 1466,
+    "points": 1503,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-038-duelists-shoes.png",
-    "xws": "duelistsshoes"
+    "xws": "duelistsshoes",
+    "assetno": "0956"
   },
   {
     "name": "duelist's shoes",
-    "points": 1467,
+    "points": 1504,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-038-duelists-shoes.png",
-    "xws": "duelistsshoes"
+    "xws": "duelistsshoes",
+    "assetno": "0956"
+  },
+  {
+    "name": "0956",
+    "points": 1505,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/036-040/fh-038-duelists-shoes.png",
+    "xws": "duelistsshoes",
+    "assetno": "0956"
   },
   {
     "name": "duelist's shoes",
-    "points": 1468,
+    "points": 1506,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-038-duelists-shoes-back.png",
-    "xws": "duelistsshoes"
+    "xws": "duelistsshoes",
+    "assetno": "####"
   },
   {
     "name": "item 39",
-    "points": 1469,
+    "points": 1507,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-039-abyss-axe.png",
-    "xws": "abyssaxe"
+    "xws": "abyssaxe",
+    "assetno": "0958"
   },
   {
     "name": "item 039",
-    "points": 1470,
+    "points": 1508,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-039-abyss-axe.png",
-    "xws": "abyssaxe"
+    "xws": "abyssaxe",
+    "assetno": "0958"
   },
   {
     "name": "item #39",
-    "points": 1471,
+    "points": 1509,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-039-abyss-axe.png",
-    "xws": "abyssaxe"
+    "xws": "abyssaxe",
+    "assetno": "0958"
   },
   {
     "name": "item #039",
-    "points": 1472,
+    "points": 1510,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-039-abyss-axe.png",
-    "xws": "abyssaxe"
+    "xws": "abyssaxe",
+    "assetno": "0958"
   },
   {
     "name": "abyss axe",
-    "points": 1473,
+    "points": 1511,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-039-abyss-axe.png",
-    "xws": "abyssaxe"
+    "xws": "abyssaxe",
+    "assetno": "0958"
+  },
+  {
+    "name": "0958",
+    "points": 1512,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/036-040/fh-039-abyss-axe.png",
+    "xws": "abyssaxe",
+    "assetno": "0958"
   },
   {
     "name": "abyss axe",
-    "points": 1474,
+    "points": 1513,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-039-abyss-axe-back.png",
-    "xws": "abyssaxe"
+    "xws": "abyssaxe",
+    "assetno": "####"
   },
   {
     "name": "item 40",
-    "points": 1475,
+    "points": 1514,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-040-heartstrike-bow.png",
-    "xws": "heartstrikebow"
+    "xws": "heartstrikebow",
+    "assetno": "0960"
   },
   {
     "name": "item 040",
-    "points": 1476,
+    "points": 1515,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-040-heartstrike-bow.png",
-    "xws": "heartstrikebow"
+    "xws": "heartstrikebow",
+    "assetno": "0960"
   },
   {
     "name": "item #40",
-    "points": 1477,
+    "points": 1516,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-040-heartstrike-bow.png",
-    "xws": "heartstrikebow"
+    "xws": "heartstrikebow",
+    "assetno": "0960"
   },
   {
     "name": "item #040",
-    "points": 1478,
+    "points": 1517,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-040-heartstrike-bow.png",
-    "xws": "heartstrikebow"
+    "xws": "heartstrikebow",
+    "assetno": "0960"
   },
   {
     "name": "heartstrike bow",
-    "points": 1479,
+    "points": 1518,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-040-heartstrike-bow.png",
-    "xws": "heartstrikebow"
+    "xws": "heartstrikebow",
+    "assetno": "0960"
+  },
+  {
+    "name": "0960",
+    "points": 1519,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/036-040/fh-040-heartstrike-bow.png",
+    "xws": "heartstrikebow",
+    "assetno": "0960"
   },
   {
     "name": "heartstrike bow",
-    "points": 1480,
+    "points": 1520,
     "expansion": "frosthaven",
     "image": "items/frosthaven/036-040/fh-040-heartstrike-bow-back.png",
-    "xws": "heartstrikebow"
+    "xws": "heartstrikebow",
+    "assetno": "####"
   },
   {
     "name": "item 41",
-    "points": 1481,
+    "points": 1521,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-041-intricate-charm.png",
-    "xws": "intricatecharm"
+    "xws": "intricatecharm",
+    "assetno": "0962"
   },
   {
     "name": "item 041",
-    "points": 1482,
+    "points": 1522,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-041-intricate-charm.png",
-    "xws": "intricatecharm"
+    "xws": "intricatecharm",
+    "assetno": "0962"
   },
   {
     "name": "item #41",
-    "points": 1483,
+    "points": 1523,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-041-intricate-charm.png",
-    "xws": "intricatecharm"
+    "xws": "intricatecharm",
+    "assetno": "0962"
   },
   {
     "name": "item #041",
-    "points": 1484,
+    "points": 1524,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-041-intricate-charm.png",
-    "xws": "intricatecharm"
+    "xws": "intricatecharm",
+    "assetno": "0962"
   },
   {
     "name": "intricate charm",
-    "points": 1485,
+    "points": 1525,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-041-intricate-charm.png",
-    "xws": "intricatecharm"
+    "xws": "intricatecharm",
+    "assetno": "0962"
+  },
+  {
+    "name": "0962",
+    "points": 1526,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/041-045/fh-041-intricate-charm.png",
+    "xws": "intricatecharm",
+    "assetno": "0962"
   },
   {
     "name": "intricate charm",
-    "points": 1486,
+    "points": 1527,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-041-intricate-charm-back.png",
-    "xws": "intricatecharm"
+    "xws": "intricatecharm",
+    "assetno": "####"
   },
   {
     "name": "item 42",
-    "points": 1487,
+    "points": 1528,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-042-ornate-armor.png",
-    "xws": "ornatearmor"
+    "xws": "ornatearmor",
+    "assetno": "0964"
   },
   {
     "name": "item 042",
-    "points": 1488,
+    "points": 1529,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-042-ornate-armor.png",
-    "xws": "ornatearmor"
+    "xws": "ornatearmor",
+    "assetno": "0964"
   },
   {
     "name": "item #42",
-    "points": 1489,
+    "points": 1530,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-042-ornate-armor.png",
-    "xws": "ornatearmor"
+    "xws": "ornatearmor",
+    "assetno": "0964"
   },
   {
     "name": "item #042",
-    "points": 1490,
+    "points": 1531,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-042-ornate-armor.png",
-    "xws": "ornatearmor"
+    "xws": "ornatearmor",
+    "assetno": "0964"
   },
   {
     "name": "ornate armor",
-    "points": 1491,
+    "points": 1532,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-042-ornate-armor.png",
-    "xws": "ornatearmor"
+    "xws": "ornatearmor",
+    "assetno": "0964"
+  },
+  {
+    "name": "0964",
+    "points": 1533,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/041-045/fh-042-ornate-armor.png",
+    "xws": "ornatearmor",
+    "assetno": "0964"
   },
   {
     "name": "ornate armor",
-    "points": 1492,
+    "points": 1534,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-042-ornate-armor-back.png",
-    "xws": "ornatearmor"
+    "xws": "ornatearmor",
+    "assetno": "####"
   },
   {
     "name": "item 43",
-    "points": 1493,
+    "points": 1535,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-043-kicking-boots.png",
-    "xws": "kickingboots"
+    "xws": "kickingboots",
+    "assetno": "0966"
   },
   {
     "name": "item 043",
-    "points": 1494,
+    "points": 1536,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-043-kicking-boots.png",
-    "xws": "kickingboots"
+    "xws": "kickingboots",
+    "assetno": "0966"
   },
   {
     "name": "item #43",
-    "points": 1495,
+    "points": 1537,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-043-kicking-boots.png",
-    "xws": "kickingboots"
+    "xws": "kickingboots",
+    "assetno": "0966"
   },
   {
     "name": "item #043",
-    "points": 1496,
+    "points": 1538,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-043-kicking-boots.png",
-    "xws": "kickingboots"
+    "xws": "kickingboots",
+    "assetno": "0966"
   },
   {
     "name": "kicking boots",
-    "points": 1497,
+    "points": 1539,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-043-kicking-boots.png",
-    "xws": "kickingboots"
+    "xws": "kickingboots",
+    "assetno": "0966"
+  },
+  {
+    "name": "0966",
+    "points": 1540,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/041-045/fh-043-kicking-boots.png",
+    "xws": "kickingboots",
+    "assetno": "0966"
   },
   {
     "name": "kicking boots",
-    "points": 1498,
+    "points": 1541,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-043-kicking-boots-back.png",
-    "xws": "kickingboots"
+    "xws": "kickingboots",
+    "assetno": "####"
   },
   {
     "name": "item 44",
-    "points": 1499,
+    "points": 1542,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-044-sword-of-absolution.png",
-    "xws": "swordofabsolution"
+    "xws": "swordofabsolution",
+    "assetno": "0968"
   },
   {
     "name": "item 044",
-    "points": 1500,
+    "points": 1543,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-044-sword-of-absolution.png",
-    "xws": "swordofabsolution"
+    "xws": "swordofabsolution",
+    "assetno": "0968"
   },
   {
     "name": "item #44",
-    "points": 1501,
+    "points": 1544,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-044-sword-of-absolution.png",
-    "xws": "swordofabsolution"
+    "xws": "swordofabsolution",
+    "assetno": "0968"
   },
   {
     "name": "item #044",
-    "points": 1502,
+    "points": 1545,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-044-sword-of-absolution.png",
-    "xws": "swordofabsolution"
+    "xws": "swordofabsolution",
+    "assetno": "0968"
   },
   {
     "name": "sword of absolution",
-    "points": 1503,
+    "points": 1546,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-044-sword-of-absolution.png",
-    "xws": "swordofabsolution"
+    "xws": "swordofabsolution",
+    "assetno": "0968"
+  },
+  {
+    "name": "0968",
+    "points": 1547,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/041-045/fh-044-sword-of-absolution.png",
+    "xws": "swordofabsolution",
+    "assetno": "0968"
   },
   {
     "name": "sword of absolution",
-    "points": 1504,
+    "points": 1548,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-044-sword-of-absolution-back.png",
-    "xws": "swordofabsolution"
+    "xws": "swordofabsolution",
+    "assetno": "####"
   },
   {
     "name": "item 45",
-    "points": 1505,
+    "points": 1549,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-045-master-scepter.png",
-    "xws": "masterscepter"
+    "xws": "masterscepter",
+    "assetno": "0970"
   },
   {
     "name": "item 045",
-    "points": 1506,
+    "points": 1550,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-045-master-scepter.png",
-    "xws": "masterscepter"
+    "xws": "masterscepter",
+    "assetno": "0970"
   },
   {
     "name": "item #45",
-    "points": 1507,
+    "points": 1551,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-045-master-scepter.png",
-    "xws": "masterscepter"
+    "xws": "masterscepter",
+    "assetno": "0970"
   },
   {
     "name": "item #045",
-    "points": 1508,
+    "points": 1552,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-045-master-scepter.png",
-    "xws": "masterscepter"
+    "xws": "masterscepter",
+    "assetno": "0970"
   },
   {
     "name": "master scepter",
-    "points": 1509,
+    "points": 1553,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-045-master-scepter.png",
-    "xws": "masterscepter"
+    "xws": "masterscepter",
+    "assetno": "0970"
+  },
+  {
+    "name": "0970",
+    "points": 1554,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/041-045/fh-045-master-scepter.png",
+    "xws": "masterscepter",
+    "assetno": "0970"
   },
   {
     "name": "master scepter",
-    "points": 1510,
+    "points": 1555,
     "expansion": "frosthaven",
     "image": "items/frosthaven/041-045/fh-045-master-scepter-back.png",
-    "xws": "masterscepter"
+    "xws": "masterscepter",
+    "assetno": "####"
   },
   {
     "name": "item 46",
-    "points": 1511,
+    "points": 1556,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
-    "xws": "doublelensgoggles"
+    "xws": "doublelensgoggles",
+    "assetno": "0972"
   },
   {
     "name": "item 046",
-    "points": 1512,
+    "points": 1557,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
-    "xws": "doublelensgoggles"
+    "xws": "doublelensgoggles",
+    "assetno": "0972"
   },
   {
     "name": "item #46",
-    "points": 1513,
+    "points": 1558,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
-    "xws": "doublelensgoggles"
+    "xws": "doublelensgoggles",
+    "assetno": "0972"
   },
   {
     "name": "item #046",
-    "points": 1514,
+    "points": 1559,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
-    "xws": "doublelensgoggles"
+    "xws": "doublelensgoggles",
+    "assetno": "0972"
   },
   {
     "name": "double-lens goggles",
-    "points": 1515,
+    "points": 1560,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
-    "xws": "doublelensgoggles"
+    "xws": "doublelensgoggles",
+    "assetno": "0972"
+  },
+  {
+    "name": "0972",
+    "points": 1561,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
+    "xws": "doublelensgoggles",
+    "assetno": "0972"
   },
   {
     "name": "double-lens goggles",
-    "points": 1516,
+    "points": 1562,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-046-double-lens-goggles-back.png",
-    "xws": "doublelensgoggles"
+    "xws": "doublelensgoggles",
+    "assetno": "####"
   },
   {
     "name": "item 47",
-    "points": 1517,
+    "points": 1563,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-047-robes-of-doom.png",
-    "xws": "robesofdoom"
+    "xws": "robesofdoom",
+    "assetno": "0974"
   },
   {
     "name": "item 047",
-    "points": 1518,
+    "points": 1564,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-047-robes-of-doom.png",
-    "xws": "robesofdoom"
+    "xws": "robesofdoom",
+    "assetno": "0974"
   },
   {
     "name": "item #47",
-    "points": 1519,
+    "points": 1565,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-047-robes-of-doom.png",
-    "xws": "robesofdoom"
+    "xws": "robesofdoom",
+    "assetno": "0974"
   },
   {
     "name": "item #047",
-    "points": 1520,
+    "points": 1566,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-047-robes-of-doom.png",
-    "xws": "robesofdoom"
+    "xws": "robesofdoom",
+    "assetno": "0974"
   },
   {
     "name": "robes of doom",
-    "points": 1521,
+    "points": 1567,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-047-robes-of-doom.png",
-    "xws": "robesofdoom"
+    "xws": "robesofdoom",
+    "assetno": "0974"
+  },
+  {
+    "name": "0974",
+    "points": 1568,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/046-050/fh-047-robes-of-doom.png",
+    "xws": "robesofdoom",
+    "assetno": "0974"
   },
   {
     "name": "robes of doom",
-    "points": 1522,
+    "points": 1569,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-047-robes-of-doom-back.png",
-    "xws": "robesofdoom"
+    "xws": "robesofdoom",
+    "assetno": "####"
   },
   {
     "name": "item 48",
-    "points": 1523,
+    "points": 1570,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-048-living-shoes.png",
-    "xws": "livingshoes"
+    "xws": "livingshoes",
+    "assetno": "0976"
   },
   {
     "name": "item 048",
-    "points": 1524,
+    "points": 1571,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-048-living-shoes.png",
-    "xws": "livingshoes"
+    "xws": "livingshoes",
+    "assetno": "0976"
   },
   {
     "name": "item #48",
-    "points": 1525,
+    "points": 1572,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-048-living-shoes.png",
-    "xws": "livingshoes"
+    "xws": "livingshoes",
+    "assetno": "0976"
   },
   {
     "name": "item #048",
-    "points": 1526,
+    "points": 1573,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-048-living-shoes.png",
-    "xws": "livingshoes"
+    "xws": "livingshoes",
+    "assetno": "0976"
   },
   {
     "name": "living shoes",
-    "points": 1527,
+    "points": 1574,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-048-living-shoes.png",
-    "xws": "livingshoes"
+    "xws": "livingshoes",
+    "assetno": "0976"
+  },
+  {
+    "name": "0976",
+    "points": 1575,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/046-050/fh-048-living-shoes.png",
+    "xws": "livingshoes",
+    "assetno": "0976"
   },
   {
     "name": "living shoes",
-    "points": 1528,
+    "points": 1576,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-048-living-shoes-back.png",
-    "xws": "livingshoes"
+    "xws": "livingshoes",
+    "assetno": "####"
   },
   {
     "name": "item 49",
-    "points": 1529,
+    "points": 1577,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
-    "xws": "crueldagger"
+    "xws": "crueldagger",
+    "assetno": "0978"
   },
   {
     "name": "item 049",
-    "points": 1530,
+    "points": 1578,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
-    "xws": "crueldagger"
+    "xws": "crueldagger",
+    "assetno": "0978"
   },
   {
     "name": "item #49",
-    "points": 1531,
+    "points": 1579,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
-    "xws": "crueldagger"
+    "xws": "crueldagger",
+    "assetno": "0978"
   },
   {
     "name": "item #049",
-    "points": 1532,
+    "points": 1580,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
-    "xws": "crueldagger"
+    "xws": "crueldagger",
+    "assetno": "0978"
   },
   {
     "name": "cruel dagger",
-    "points": 1533,
+    "points": 1581,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
-    "xws": "crueldagger"
+    "xws": "crueldagger",
+    "assetno": "0978"
+  },
+  {
+    "name": "0978",
+    "points": 1582,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
+    "xws": "crueldagger",
+    "assetno": "0978"
   },
   {
     "name": "cruel dagger",
-    "points": 1534,
+    "points": 1583,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger-back.png",
-    "xws": "crueldagger"
+    "xws": "crueldagger",
+    "assetno": "####"
   },
   {
     "name": "item 50",
-    "points": 1535,
+    "points": 1584,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
-    "xws": "shieldofreciprocity"
+    "xws": "shieldofreciprocity",
+    "assetno": "0980"
   },
   {
     "name": "item 050",
-    "points": 1536,
+    "points": 1585,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
-    "xws": "shieldofreciprocity"
+    "xws": "shieldofreciprocity",
+    "assetno": "0980"
   },
   {
     "name": "item #50",
-    "points": 1537,
+    "points": 1586,
     "expansion": "frosthaven",
     "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
-    "xws": "shieldofreciprocity"
+    "xws": "shieldofreciprocity",
+    "assetno": "0980"
   },
   {
     "name": "item #050",
-    "points": 1538,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
-    "xws": "shieldofreciprocity"
-  },
-  {
-    "name": "shield of reciprocity",
-    "points": 1539,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
-    "xws": "shieldofreciprocity"
-  },
-  {
-    "name": "shield of reciprocity",
-    "points": 1540,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity-back.png",
-    "xws": "shieldofreciprocity"
-  },
-  {
-    "name": "item 51",
-    "points": 1541,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item 051",
-    "points": 1542,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item #51",
-    "points": 1543,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item #051",
-    "points": 1544,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "spiked collar",
-    "points": 1545,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "spiked collar",
-    "points": 1546,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051a-spiked-collar-back.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item 51",
-    "points": 1547,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item 051",
-    "points": 1548,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item #51",
-    "points": 1549,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item #051",
-    "points": 1550,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "spiked collar",
-    "points": 1551,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "spiked collar",
-    "points": 1552,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-051b-spiked-collar-back.png",
-    "xws": "spikedcollar"
-  },
-  {
-    "name": "item 52",
-    "points": 1553,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item 052",
-    "points": 1554,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item #52",
-    "points": 1555,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item #052",
-    "points": 1556,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "laser lens",
-    "points": 1557,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "laser lens",
-    "points": 1558,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052a-laser-lens-back.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item 52",
-    "points": 1559,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item 052",
-    "points": 1560,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item #52",
-    "points": 1561,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item #052",
-    "points": 1562,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "laser lens",
-    "points": 1563,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "laser lens",
-    "points": 1564,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-052b-laser-lens-back.png",
-    "xws": "laserlens"
-  },
-  {
-    "name": "item 53",
-    "points": 1565,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item 053",
-    "points": 1566,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item #53",
-    "points": 1567,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item #053",
-    "points": 1568,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "hobnail boots",
-    "points": 1569,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "hobnail boots",
-    "points": 1570,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots-back.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item 53",
-    "points": 1571,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item 053",
-    "points": 1572,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item #53",
-    "points": 1573,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item #053",
-    "points": 1574,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "hobnail boots",
-    "points": 1575,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "hobnail boots",
-    "points": 1576,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots-back.png",
-    "xws": "hobnailboots"
-  },
-  {
-    "name": "item 54",
-    "points": 1577,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item 054",
-    "points": 1578,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item #54",
-    "points": 1579,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item #054",
-    "points": 1580,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "restful slippers",
-    "points": 1581,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "restful slippers",
-    "points": 1582,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054a-restful-slippers-back.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item 54",
-    "points": 1583,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item 054",
-    "points": 1584,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item #54",
-    "points": 1585,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item #054",
-    "points": 1586,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "restful slippers",
     "points": 1587,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
-    "xws": "restfulslippers"
+    "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
+    "xws": "shieldofreciprocity",
+    "assetno": "0980"
+  },
+  {
+    "name": "shield of reciprocity",
+    "points": 1588,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
+    "xws": "shieldofreciprocity",
+    "assetno": "0980"
+  },
+  {
+    "name": "0980",
+    "points": 1589,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity.png",
+    "xws": "shieldofreciprocity",
+    "assetno": "0980"
+  },
+  {
+    "name": "shield of reciprocity",
+    "points": 1590,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/046-050/fh-050-shield-of-reciprocity-back.png",
+    "xws": "shieldofreciprocity",
+    "assetno": "####"
+  },
+  {
+    "name": "item 51",
+    "points": 1591,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "1286"
+  },
+  {
+    "name": "item 051",
+    "points": 1592,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "1286"
+  },
+  {
+    "name": "item #51",
+    "points": 1593,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "1286"
+  },
+  {
+    "name": "item #051",
+    "points": 1594,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "1286"
+  },
+  {
+    "name": "spiked collar",
+    "points": 1595,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "1286"
+  },
+  {
+    "name": "1286",
+    "points": 1596,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "1286"
+  },
+  {
+    "name": "spiked collar",
+    "points": 1597,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051a-spiked-collar-back.png",
+    "xws": "spikedcollar",
+    "assetno": "####"
+  },
+  {
+    "name": "item 51",
+    "points": 1598,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "0982"
+  },
+  {
+    "name": "item 051",
+    "points": 1599,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "0982"
+  },
+  {
+    "name": "item #51",
+    "points": 1600,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "0982"
+  },
+  {
+    "name": "item #051",
+    "points": 1601,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "0982"
+  },
+  {
+    "name": "spiked collar",
+    "points": 1602,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "0982"
+  },
+  {
+    "name": "0982",
+    "points": 1603,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
+    "xws": "spikedcollar",
+    "assetno": "0982"
+  },
+  {
+    "name": "spiked collar",
+    "points": 1604,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-051b-spiked-collar-back.png",
+    "xws": "spikedcollar",
+    "assetno": "####"
+  },
+  {
+    "name": "item 52",
+    "points": 1605,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "1287"
+  },
+  {
+    "name": "item 052",
+    "points": 1606,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "1287"
+  },
+  {
+    "name": "item #52",
+    "points": 1607,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "1287"
+  },
+  {
+    "name": "item #052",
+    "points": 1608,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "1287"
+  },
+  {
+    "name": "laser lens",
+    "points": 1609,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "1287"
+  },
+  {
+    "name": "1287",
+    "points": 1610,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "1287"
+  },
+  {
+    "name": "laser lens",
+    "points": 1611,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052a-laser-lens-back.png",
+    "xws": "laserlens",
+    "assetno": "####"
+  },
+  {
+    "name": "item 52",
+    "points": 1612,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "0983"
+  },
+  {
+    "name": "item 052",
+    "points": 1613,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "0983"
+  },
+  {
+    "name": "item #52",
+    "points": 1614,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "0983"
+  },
+  {
+    "name": "item #052",
+    "points": 1615,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "0983"
+  },
+  {
+    "name": "laser lens",
+    "points": 1616,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "0983"
+  },
+  {
+    "name": "0983",
+    "points": 1617,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
+    "xws": "laserlens",
+    "assetno": "0983"
+  },
+  {
+    "name": "laser lens",
+    "points": 1618,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-052b-laser-lens-back.png",
+    "xws": "laserlens",
+    "assetno": "####"
+  },
+  {
+    "name": "item 53",
+    "points": 1619,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "1288"
+  },
+  {
+    "name": "item 053",
+    "points": 1620,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "1288"
+  },
+  {
+    "name": "item #53",
+    "points": 1621,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "1288"
+  },
+  {
+    "name": "item #053",
+    "points": 1622,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "1288"
+  },
+  {
+    "name": "hobnail boots",
+    "points": 1623,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "1288"
+  },
+  {
+    "name": "1288",
+    "points": 1624,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "1288"
+  },
+  {
+    "name": "hobnail boots",
+    "points": 1625,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053a-hobnail-boots-back.png",
+    "xws": "hobnailboots",
+    "assetno": "####"
+  },
+  {
+    "name": "item 53",
+    "points": 1626,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "0984"
+  },
+  {
+    "name": "item 053",
+    "points": 1627,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "0984"
+  },
+  {
+    "name": "item #53",
+    "points": 1628,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "0984"
+  },
+  {
+    "name": "item #053",
+    "points": 1629,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "0984"
+  },
+  {
+    "name": "hobnail boots",
+    "points": 1630,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "0984"
+  },
+  {
+    "name": "0984",
+    "points": 1631,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
+    "xws": "hobnailboots",
+    "assetno": "0984"
+  },
+  {
+    "name": "hobnail boots",
+    "points": 1632,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-053b-hobnail-boots-back.png",
+    "xws": "hobnailboots",
+    "assetno": "####"
+  },
+  {
+    "name": "item 54",
+    "points": 1633,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "1289"
+  },
+  {
+    "name": "item 054",
+    "points": 1634,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "1289"
+  },
+  {
+    "name": "item #54",
+    "points": 1635,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "1289"
+  },
+  {
+    "name": "item #054",
+    "points": 1636,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "1289"
   },
   {
     "name": "restful slippers",
-    "points": 1588,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-054b-restful-slippers-back.png",
-    "xws": "restfulslippers"
-  },
-  {
-    "name": "item 55",
-    "points": 1589,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item 055",
-    "points": 1590,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item #55",
-    "points": 1591,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item #055",
-    "points": 1592,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "biting gauntlet",
-    "points": 1593,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "biting gauntlet",
-    "points": 1594,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet-back.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item 55",
-    "points": 1595,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item 055",
-    "points": 1596,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item #55",
-    "points": 1597,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item #055",
-    "points": 1598,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "biting gauntlet",
-    "points": 1599,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "biting gauntlet",
-    "points": 1600,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet-back.png",
-    "xws": "bitinggauntlet"
-  },
-  {
-    "name": "item 56",
-    "points": 1601,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item 056",
-    "points": 1602,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item #56",
-    "points": 1603,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item #056",
-    "points": 1604,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "scavenger's magnet",
-    "points": 1605,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "scavenger's magnet",
-    "points": 1606,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet-back.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item 56",
-    "points": 1607,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item 056",
-    "points": 1608,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item #56",
-    "points": 1609,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item #056",
-    "points": 1610,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "scavenger's magnet",
-    "points": 1611,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "scavenger's magnet",
-    "points": 1612,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet-back.png",
-    "xws": "scavengersmagnet"
-  },
-  {
-    "name": "item 57",
-    "points": 1613,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item 057",
-    "points": 1614,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item #57",
-    "points": 1615,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item #057",
-    "points": 1616,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "shovel",
-    "points": 1617,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "shovel",
-    "points": 1618,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057a-shovel-back.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item 57",
-    "points": 1619,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item 057",
-    "points": 1620,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item #57",
-    "points": 1621,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item #057",
-    "points": 1622,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "shovel",
-    "points": 1623,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "shovel",
-    "points": 1624,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-057b-shovel-back.png",
-    "xws": "shovel"
-  },
-  {
-    "name": "item 58",
-    "points": 1625,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item 058",
-    "points": 1626,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item #58",
-    "points": 1627,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item #058",
-    "points": 1628,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "slippery sword",
-    "points": 1629,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "slippery sword",
-    "points": 1630,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058a-slippery-sword-back.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item 58",
-    "points": 1631,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item 058",
-    "points": 1632,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item #58",
-    "points": 1633,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item #058",
-    "points": 1634,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "slippery sword",
-    "points": 1635,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "slippery sword",
-    "points": 1636,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-058b-slippery-sword-back.png",
-    "xws": "slipperysword"
-  },
-  {
-    "name": "item 59",
     "points": 1637,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "1289"
   },
   {
-    "name": "item 059",
+    "name": "1289",
     "points": 1638,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "1289"
   },
   {
-    "name": "item #59",
+    "name": "restful slippers",
     "points": 1639,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-054a-restful-slippers-back.png",
+    "xws": "restfulslippers",
+    "assetno": "####"
   },
   {
-    "name": "item #059",
+    "name": "item 54",
     "points": 1640,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "0985"
   },
   {
-    "name": "charm of expertise",
+    "name": "item 054",
     "points": 1641,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "0985"
   },
   {
-    "name": "charm of expertise",
+    "name": "item #54",
     "points": 1642,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise-back.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "0985"
+  },
+  {
+    "name": "item #054",
+    "points": 1643,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "0985"
+  },
+  {
+    "name": "restful slippers",
+    "points": 1644,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "0985"
+  },
+  {
+    "name": "0985",
+    "points": 1645,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
+    "xws": "restfulslippers",
+    "assetno": "0985"
+  },
+  {
+    "name": "restful slippers",
+    "points": 1646,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-054b-restful-slippers-back.png",
+    "xws": "restfulslippers",
+    "assetno": "####"
+  },
+  {
+    "name": "item 55",
+    "points": 1647,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "1290"
+  },
+  {
+    "name": "item 055",
+    "points": 1648,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "1290"
+  },
+  {
+    "name": "item #55",
+    "points": 1649,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "1290"
+  },
+  {
+    "name": "item #055",
+    "points": 1650,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "1290"
+  },
+  {
+    "name": "biting gauntlet",
+    "points": 1651,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "1290"
+  },
+  {
+    "name": "1290",
+    "points": 1652,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "1290"
+  },
+  {
+    "name": "biting gauntlet",
+    "points": 1653,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet-back.png",
+    "xws": "bitinggauntlet",
+    "assetno": "####"
+  },
+  {
+    "name": "item 55",
+    "points": 1654,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "0986"
+  },
+  {
+    "name": "item 055",
+    "points": 1655,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "0986"
+  },
+  {
+    "name": "item #55",
+    "points": 1656,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "0986"
+  },
+  {
+    "name": "item #055",
+    "points": 1657,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "0986"
+  },
+  {
+    "name": "biting gauntlet",
+    "points": 1658,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "0986"
+  },
+  {
+    "name": "0986",
+    "points": 1659,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
+    "xws": "bitinggauntlet",
+    "assetno": "0986"
+  },
+  {
+    "name": "biting gauntlet",
+    "points": 1660,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet-back.png",
+    "xws": "bitinggauntlet",
+    "assetno": "####"
+  },
+  {
+    "name": "item 56",
+    "points": 1661,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "1291"
+  },
+  {
+    "name": "item 056",
+    "points": 1662,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "1291"
+  },
+  {
+    "name": "item #56",
+    "points": 1663,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "1291"
+  },
+  {
+    "name": "item #056",
+    "points": 1664,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "1291"
+  },
+  {
+    "name": "scavenger's magnet",
+    "points": 1665,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "1291"
+  },
+  {
+    "name": "1291",
+    "points": 1666,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "1291"
+  },
+  {
+    "name": "scavenger's magnet",
+    "points": 1667,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet-back.png",
+    "xws": "scavengersmagnet",
+    "assetno": "####"
+  },
+  {
+    "name": "item 56",
+    "points": 1668,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "0987"
+  },
+  {
+    "name": "item 056",
+    "points": 1669,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "0987"
+  },
+  {
+    "name": "item #56",
+    "points": 1670,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "0987"
+  },
+  {
+    "name": "item #056",
+    "points": 1671,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "0987"
+  },
+  {
+    "name": "scavenger's magnet",
+    "points": 1672,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "0987"
+  },
+  {
+    "name": "0987",
+    "points": 1673,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
+    "xws": "scavengersmagnet",
+    "assetno": "0987"
+  },
+  {
+    "name": "scavenger's magnet",
+    "points": 1674,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet-back.png",
+    "xws": "scavengersmagnet",
+    "assetno": "####"
+  },
+  {
+    "name": "item 57",
+    "points": 1675,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
+    "xws": "shovel",
+    "assetno": "1292"
+  },
+  {
+    "name": "item 057",
+    "points": 1676,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
+    "xws": "shovel",
+    "assetno": "1292"
+  },
+  {
+    "name": "item #57",
+    "points": 1677,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
+    "xws": "shovel",
+    "assetno": "1292"
+  },
+  {
+    "name": "item #057",
+    "points": 1678,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
+    "xws": "shovel",
+    "assetno": "1292"
+  },
+  {
+    "name": "shovel",
+    "points": 1679,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
+    "xws": "shovel",
+    "assetno": "1292"
+  },
+  {
+    "name": "1292",
+    "points": 1680,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057a-shovel.png",
+    "xws": "shovel",
+    "assetno": "1292"
+  },
+  {
+    "name": "shovel",
+    "points": 1681,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057a-shovel-back.png",
+    "xws": "shovel",
+    "assetno": "####"
+  },
+  {
+    "name": "item 57",
+    "points": 1682,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
+    "xws": "shovel",
+    "assetno": "0988"
+  },
+  {
+    "name": "item 057",
+    "points": 1683,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
+    "xws": "shovel",
+    "assetno": "0988"
+  },
+  {
+    "name": "item #57",
+    "points": 1684,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
+    "xws": "shovel",
+    "assetno": "0988"
+  },
+  {
+    "name": "item #057",
+    "points": 1685,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
+    "xws": "shovel",
+    "assetno": "0988"
+  },
+  {
+    "name": "shovel",
+    "points": 1686,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
+    "xws": "shovel",
+    "assetno": "0988"
+  },
+  {
+    "name": "0988",
+    "points": 1687,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057b-shovel.png",
+    "xws": "shovel",
+    "assetno": "0988"
+  },
+  {
+    "name": "shovel",
+    "points": 1688,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-057b-shovel-back.png",
+    "xws": "shovel",
+    "assetno": "####"
+  },
+  {
+    "name": "item 58",
+    "points": 1689,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "1293"
+  },
+  {
+    "name": "item 058",
+    "points": 1690,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "1293"
+  },
+  {
+    "name": "item #58",
+    "points": 1691,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "1293"
+  },
+  {
+    "name": "item #058",
+    "points": 1692,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "1293"
+  },
+  {
+    "name": "slippery sword",
+    "points": 1693,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "1293"
+  },
+  {
+    "name": "1293",
+    "points": 1694,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "1293"
+  },
+  {
+    "name": "slippery sword",
+    "points": 1695,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058a-slippery-sword-back.png",
+    "xws": "slipperysword",
+    "assetno": "####"
+  },
+  {
+    "name": "item 58",
+    "points": 1696,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "0989"
+  },
+  {
+    "name": "item 058",
+    "points": 1697,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "0989"
+  },
+  {
+    "name": "item #58",
+    "points": 1698,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "0989"
+  },
+  {
+    "name": "item #058",
+    "points": 1699,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "0989"
+  },
+  {
+    "name": "slippery sword",
+    "points": 1700,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "0989"
+  },
+  {
+    "name": "0989",
+    "points": 1701,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
+    "xws": "slipperysword",
+    "assetno": "0989"
+  },
+  {
+    "name": "slippery sword",
+    "points": 1702,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-058b-slippery-sword-back.png",
+    "xws": "slipperysword",
+    "assetno": "####"
   },
   {
     "name": "item 59",
-    "points": 1643,
+    "points": 1703,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "1294"
   },
   {
     "name": "item 059",
-    "points": 1644,
+    "points": 1704,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "1294"
   },
   {
     "name": "item #59",
-    "points": 1645,
+    "points": 1705,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
-    "xws": "charmofexpertise"
+    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "1294"
   },
   {
     "name": "item #059",
-    "points": 1646,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
-    "xws": "charmofexpertise"
-  },
-  {
-    "name": "charm of expertise",
-    "points": 1647,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
-    "xws": "charmofexpertise"
-  },
-  {
-    "name": "charm of expertise",
-    "points": 1648,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise-back.png",
-    "xws": "charmofexpertise"
-  },
-  {
-    "name": "item 60",
-    "points": 1649,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item 060",
-    "points": 1650,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item #60",
-    "points": 1651,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item #060",
-    "points": 1652,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "cloak of many pockets",
-    "points": 1653,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "cloak of many pockets",
-    "points": 1654,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets-back.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item 60",
-    "points": 1655,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item 060",
-    "points": 1656,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item #60",
-    "points": 1657,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item #060",
-    "points": 1658,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "cloak of many pockets",
-    "points": 1659,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "cloak of many pockets",
-    "points": 1660,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets-back.png",
-    "xws": "cloakofmanypockets"
-  },
-  {
-    "name": "item 61",
-    "points": 1661,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item 061",
-    "points": 1662,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item #61",
-    "points": 1663,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item #061",
-    "points": 1664,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "spiked shell",
-    "points": 1665,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "spiked shell",
-    "points": 1666,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061a-spiked-shell-back.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item 61",
-    "points": 1667,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item 061",
-    "points": 1668,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item #61",
-    "points": 1669,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item #061",
-    "points": 1670,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "spiked shell",
-    "points": 1671,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "spiked shell",
-    "points": 1672,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-061b-spiked-shell-back.png",
-    "xws": "spikedshell"
-  },
-  {
-    "name": "item 62",
-    "points": 1673,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item 062",
-    "points": 1674,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item #62",
-    "points": 1675,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item #062",
-    "points": 1676,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "everlasting boots",
-    "points": 1677,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "everlasting boots",
-    "points": 1678,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots-back.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item 62",
-    "points": 1679,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item 062",
-    "points": 1680,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item #62",
-    "points": 1681,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item #062",
-    "points": 1682,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "everlasting boots",
-    "points": 1683,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "everlasting boots",
-    "points": 1684,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots-back.png",
-    "xws": "everlastingboots"
-  },
-  {
-    "name": "item 63",
-    "points": 1685,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item 063",
-    "points": 1686,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item #63",
-    "points": 1687,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item #063",
-    "points": 1688,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "shadow stompers",
-    "points": 1689,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "shadow stompers",
-    "points": 1690,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers-back.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item 63",
-    "points": 1691,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item 063",
-    "points": 1692,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item #63",
-    "points": 1693,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item #063",
-    "points": 1694,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "shadow stompers",
-    "points": 1695,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "shadow stompers",
-    "points": 1696,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers-back.png",
-    "xws": "shadowstompers"
-  },
-  {
-    "name": "item 64",
-    "points": 1697,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "item 064",
-    "points": 1698,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "item #64",
-    "points": 1699,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "item #064",
-    "points": 1700,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "detonator",
-    "points": 1701,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "detonator",
-    "points": 1702,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064a-detonator-back.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "item 64",
-    "points": 1703,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "item 064",
-    "points": 1704,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "item #64",
-    "points": 1705,
-    "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
-    "xws": "detonator"
-  },
-  {
-    "name": "item #064",
     "points": 1706,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
-    "xws": "detonator"
+    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "1294"
   },
   {
-    "name": "detonator",
+    "name": "charm of expertise",
     "points": 1707,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
-    "xws": "detonator"
+    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "1294"
+  },
+  {
+    "name": "1294",
+    "points": 1708,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "1294"
+  },
+  {
+    "name": "charm of expertise",
+    "points": 1709,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise-back.png",
+    "xws": "charmofexpertise",
+    "assetno": "####"
+  },
+  {
+    "name": "item 59",
+    "points": 1710,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "0990"
+  },
+  {
+    "name": "item 059",
+    "points": 1711,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "0990"
+  },
+  {
+    "name": "item #59",
+    "points": 1712,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "0990"
+  },
+  {
+    "name": "item #059",
+    "points": 1713,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "0990"
+  },
+  {
+    "name": "charm of expertise",
+    "points": 1714,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "0990"
+  },
+  {
+    "name": "0990",
+    "points": 1715,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
+    "xws": "charmofexpertise",
+    "assetno": "0990"
+  },
+  {
+    "name": "charm of expertise",
+    "points": 1716,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise-back.png",
+    "xws": "charmofexpertise",
+    "assetno": "####"
+  },
+  {
+    "name": "item 60",
+    "points": 1717,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "1295"
+  },
+  {
+    "name": "item 060",
+    "points": 1718,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "1295"
+  },
+  {
+    "name": "item #60",
+    "points": 1719,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "1295"
+  },
+  {
+    "name": "item #060",
+    "points": 1720,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "1295"
+  },
+  {
+    "name": "cloak of many pockets",
+    "points": 1721,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "1295"
+  },
+  {
+    "name": "1295",
+    "points": 1722,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "1295"
+  },
+  {
+    "name": "cloak of many pockets",
+    "points": 1723,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets-back.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "####"
+  },
+  {
+    "name": "item 60",
+    "points": 1724,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "0991"
+  },
+  {
+    "name": "item 060",
+    "points": 1725,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "0991"
+  },
+  {
+    "name": "item #60",
+    "points": 1726,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "0991"
+  },
+  {
+    "name": "item #060",
+    "points": 1727,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "0991"
+  },
+  {
+    "name": "cloak of many pockets",
+    "points": 1728,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "0991"
+  },
+  {
+    "name": "0991",
+    "points": 1729,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "0991"
+  },
+  {
+    "name": "cloak of many pockets",
+    "points": 1730,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets-back.png",
+    "xws": "cloakofmanypockets",
+    "assetno": "####"
+  },
+  {
+    "name": "item 61",
+    "points": 1731,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "1296"
+  },
+  {
+    "name": "item 061",
+    "points": 1732,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "1296"
+  },
+  {
+    "name": "item #61",
+    "points": 1733,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "1296"
+  },
+  {
+    "name": "item #061",
+    "points": 1734,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "1296"
+  },
+  {
+    "name": "spiked shell",
+    "points": 1735,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "1296"
+  },
+  {
+    "name": "1296",
+    "points": 1736,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "1296"
+  },
+  {
+    "name": "spiked shell",
+    "points": 1737,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061a-spiked-shell-back.png",
+    "xws": "spikedshell",
+    "assetno": "####"
+  },
+  {
+    "name": "item 61",
+    "points": 1738,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "0992"
+  },
+  {
+    "name": "item 061",
+    "points": 1739,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "0992"
+  },
+  {
+    "name": "item #61",
+    "points": 1740,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "0992"
+  },
+  {
+    "name": "item #061",
+    "points": 1741,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "0992"
+  },
+  {
+    "name": "spiked shell",
+    "points": 1742,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "0992"
+  },
+  {
+    "name": "0992",
+    "points": 1743,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
+    "xws": "spikedshell",
+    "assetno": "0992"
+  },
+  {
+    "name": "spiked shell",
+    "points": 1744,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-061b-spiked-shell-back.png",
+    "xws": "spikedshell",
+    "assetno": "####"
+  },
+  {
+    "name": "item 62",
+    "points": 1745,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "1297"
+  },
+  {
+    "name": "item 062",
+    "points": 1746,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "1297"
+  },
+  {
+    "name": "item #62",
+    "points": 1747,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "1297"
+  },
+  {
+    "name": "item #062",
+    "points": 1748,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "1297"
+  },
+  {
+    "name": "everlasting boots",
+    "points": 1749,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "1297"
+  },
+  {
+    "name": "1297",
+    "points": 1750,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "1297"
+  },
+  {
+    "name": "everlasting boots",
+    "points": 1751,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062a-everlasting-boots-back.png",
+    "xws": "everlastingboots",
+    "assetno": "####"
+  },
+  {
+    "name": "item 62",
+    "points": 1752,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "0993"
+  },
+  {
+    "name": "item 062",
+    "points": 1753,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "0993"
+  },
+  {
+    "name": "item #62",
+    "points": 1754,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "0993"
+  },
+  {
+    "name": "item #062",
+    "points": 1755,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "0993"
+  },
+  {
+    "name": "everlasting boots",
+    "points": 1756,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "0993"
+  },
+  {
+    "name": "0993",
+    "points": 1757,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
+    "xws": "everlastingboots",
+    "assetno": "0993"
+  },
+  {
+    "name": "everlasting boots",
+    "points": 1758,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-062b-everlasting-boots-back.png",
+    "xws": "everlastingboots",
+    "assetno": "####"
+  },
+  {
+    "name": "item 63",
+    "points": 1759,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "1298"
+  },
+  {
+    "name": "item 063",
+    "points": 1760,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "1298"
+  },
+  {
+    "name": "item #63",
+    "points": 1761,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "1298"
+  },
+  {
+    "name": "item #063",
+    "points": 1762,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "1298"
+  },
+  {
+    "name": "shadow stompers",
+    "points": 1763,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "1298"
+  },
+  {
+    "name": "1298",
+    "points": 1764,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "1298"
+  },
+  {
+    "name": "shadow stompers",
+    "points": 1765,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063a-shadow-stompers-back.png",
+    "xws": "shadowstompers",
+    "assetno": "####"
+  },
+  {
+    "name": "item 63",
+    "points": 1766,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "0994"
+  },
+  {
+    "name": "item 063",
+    "points": 1767,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "0994"
+  },
+  {
+    "name": "item #63",
+    "points": 1768,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "0994"
+  },
+  {
+    "name": "item #063",
+    "points": 1769,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "0994"
+  },
+  {
+    "name": "shadow stompers",
+    "points": 1770,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "0994"
+  },
+  {
+    "name": "0994",
+    "points": 1771,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
+    "xws": "shadowstompers",
+    "assetno": "0994"
+  },
+  {
+    "name": "shadow stompers",
+    "points": 1772,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-063b-shadow-stompers-back.png",
+    "xws": "shadowstompers",
+    "assetno": "####"
+  },
+  {
+    "name": "item 64",
+    "points": 1773,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
+    "xws": "detonator",
+    "assetno": "1299"
+  },
+  {
+    "name": "item 064",
+    "points": 1774,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
+    "xws": "detonator",
+    "assetno": "1299"
+  },
+  {
+    "name": "item #64",
+    "points": 1775,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
+    "xws": "detonator",
+    "assetno": "1299"
+  },
+  {
+    "name": "item #064",
+    "points": 1776,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
+    "xws": "detonator",
+    "assetno": "1299"
   },
   {
     "name": "detonator",
-    "points": 1708,
+    "points": 1777,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
+    "xws": "detonator",
+    "assetno": "1299"
+  },
+  {
+    "name": "1299",
+    "points": 1778,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064a-detonator.png",
+    "xws": "detonator",
+    "assetno": "1299"
+  },
+  {
+    "name": "detonator",
+    "points": 1779,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064a-detonator-back.png",
+    "xws": "detonator",
+    "assetno": "####"
+  },
+  {
+    "name": "item 64",
+    "points": 1780,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
+    "xws": "detonator",
+    "assetno": "0995"
+  },
+  {
+    "name": "item 064",
+    "points": 1781,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
+    "xws": "detonator",
+    "assetno": "0995"
+  },
+  {
+    "name": "item #64",
+    "points": 1782,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
+    "xws": "detonator",
+    "assetno": "0995"
+  },
+  {
+    "name": "item #064",
+    "points": 1783,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
+    "xws": "detonator",
+    "assetno": "0995"
+  },
+  {
+    "name": "detonator",
+    "points": 1784,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
+    "xws": "detonator",
+    "assetno": "0995"
+  },
+  {
+    "name": "0995",
+    "points": 1785,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-064b-detonator.png",
+    "xws": "detonator",
+    "assetno": "0995"
+  },
+  {
+    "name": "detonator",
+    "points": 1786,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-064b-detonator-back.png",
-    "xws": "detonator"
+    "xws": "detonator",
+    "assetno": "####"
   },
   {
     "name": "item 65",
-    "points": 1709,
+    "points": 1787,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "1300"
   },
   {
     "name": "item 065",
-    "points": 1710,
+    "points": 1788,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "1300"
   },
   {
     "name": "item #65",
-    "points": 1711,
+    "points": 1789,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "1300"
   },
   {
     "name": "item #065",
-    "points": 1712,
+    "points": 1790,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "1300"
   },
   {
     "name": "rust powder",
-    "points": 1713,
+    "points": 1791,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "1300"
+  },
+  {
+    "name": "1300",
+    "points": 1792,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-065a-rust-powder.png",
+    "xws": "rustpowder",
+    "assetno": "1300"
   },
   {
     "name": "rust powder",
-    "points": 1714,
+    "points": 1793,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder-back.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "####"
   },
   {
     "name": "item 65",
-    "points": 1715,
+    "points": 1794,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "0996"
   },
   {
     "name": "item 065",
-    "points": 1716,
+    "points": 1795,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "0996"
   },
   {
     "name": "item #65",
-    "points": 1717,
+    "points": 1796,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "0996"
   },
   {
     "name": "item #065",
-    "points": 1718,
+    "points": 1797,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "0996"
   },
   {
     "name": "rust powder",
-    "points": 1719,
+    "points": 1798,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "0996"
+  },
+  {
+    "name": "0996",
+    "points": 1799,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/051-065/fh-065b-rust-powder.png",
+    "xws": "rustpowder",
+    "assetno": "0996"
   },
   {
     "name": "rust powder",
-    "points": 1720,
+    "points": 1800,
     "expansion": "frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder-back.png",
-    "xws": "rustpowder"
+    "xws": "rustpowder",
+    "assetno": "####"
   },
   {
     "name": "item 66",
-    "points": 1721,
+    "points": 1801,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-066-amulet-of-eternal-life.png",
-    "xws": "amuletofeternallife"
+    "xws": "amuletofeternallife",
+    "assetno": "0997"
   },
   {
     "name": "item 066",
-    "points": 1722,
+    "points": 1802,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-066-amulet-of-eternal-life.png",
-    "xws": "amuletofeternallife"
+    "xws": "amuletofeternallife",
+    "assetno": "0997"
   },
   {
     "name": "item #66",
-    "points": 1723,
+    "points": 1803,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-066-amulet-of-eternal-life.png",
-    "xws": "amuletofeternallife"
+    "xws": "amuletofeternallife",
+    "assetno": "0997"
   },
   {
     "name": "item #066",
-    "points": 1724,
+    "points": 1804,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-066-amulet-of-eternal-life.png",
-    "xws": "amuletofeternallife"
+    "xws": "amuletofeternallife",
+    "assetno": "0997"
   },
   {
     "name": "amulet of eternal life",
-    "points": 1725,
+    "points": 1805,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-066-amulet-of-eternal-life.png",
-    "xws": "amuletofeternallife"
+    "xws": "amuletofeternallife",
+    "assetno": "0997"
+  },
+  {
+    "name": "0997",
+    "points": 1806,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-066-amulet-of-eternal-life.png",
+    "xws": "amuletofeternallife",
+    "assetno": "0997"
   },
   {
     "name": "amulet of eternal life",
-    "points": 1726,
+    "points": 1807,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-066-amulet-of-eternal-life-back.png",
-    "xws": "amuletofeternallife"
+    "xws": "amuletofeternallife",
+    "assetno": "####"
   },
   {
     "name": "item 67",
-    "points": 1727,
+    "points": 1808,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-067-converging-lenses.png",
-    "xws": "converginglenses"
+    "xws": "converginglenses",
+    "assetno": "0999"
   },
   {
     "name": "item 067",
-    "points": 1728,
+    "points": 1809,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-067-converging-lenses.png",
-    "xws": "converginglenses"
+    "xws": "converginglenses",
+    "assetno": "0999"
   },
   {
     "name": "item #67",
-    "points": 1729,
+    "points": 1810,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-067-converging-lenses.png",
-    "xws": "converginglenses"
+    "xws": "converginglenses",
+    "assetno": "0999"
   },
   {
     "name": "item #067",
-    "points": 1730,
+    "points": 1811,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-067-converging-lenses.png",
-    "xws": "converginglenses"
+    "xws": "converginglenses",
+    "assetno": "0999"
   },
   {
     "name": "converging lenses",
-    "points": 1731,
+    "points": 1812,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-067-converging-lenses.png",
-    "xws": "converginglenses"
+    "xws": "converginglenses",
+    "assetno": "0999"
+  },
+  {
+    "name": "0999",
+    "points": 1813,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-067-converging-lenses.png",
+    "xws": "converginglenses",
+    "assetno": "0999"
   },
   {
     "name": "converging lenses",
-    "points": 1732,
+    "points": 1814,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-067-converging-lenses-back.png",
-    "xws": "converginglenses"
+    "xws": "converginglenses",
+    "assetno": "####"
   },
   {
     "name": "item 68",
-    "points": 1733,
+    "points": 1815,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-068-scaled-armor.png",
-    "xws": "scaledarmor"
+    "xws": "scaledarmor",
+    "assetno": "1001"
   },
   {
     "name": "item 068",
-    "points": 1734,
+    "points": 1816,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-068-scaled-armor.png",
-    "xws": "scaledarmor"
+    "xws": "scaledarmor",
+    "assetno": "1001"
   },
   {
     "name": "item #68",
-    "points": 1735,
+    "points": 1817,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-068-scaled-armor.png",
-    "xws": "scaledarmor"
+    "xws": "scaledarmor",
+    "assetno": "1001"
   },
   {
     "name": "item #068",
-    "points": 1736,
+    "points": 1818,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-068-scaled-armor.png",
-    "xws": "scaledarmor"
+    "xws": "scaledarmor",
+    "assetno": "1001"
   },
   {
     "name": "scaled armor",
-    "points": 1737,
+    "points": 1819,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-068-scaled-armor.png",
-    "xws": "scaledarmor"
+    "xws": "scaledarmor",
+    "assetno": "1001"
+  },
+  {
+    "name": "1001",
+    "points": 1820,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-068-scaled-armor.png",
+    "xws": "scaledarmor",
+    "assetno": "1001"
   },
   {
     "name": "scaled armor",
-    "points": 1738,
+    "points": 1821,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-068-scaled-armor-back.png",
-    "xws": "scaledarmor"
+    "xws": "scaledarmor",
+    "assetno": "####"
   },
   {
     "name": "item 69",
-    "points": 1739,
+    "points": 1822,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-069-feathered-cloak.png",
-    "xws": "featheredcloak"
+    "xws": "featheredcloak",
+    "assetno": "1003"
   },
   {
     "name": "item 069",
-    "points": 1740,
+    "points": 1823,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-069-feathered-cloak.png",
-    "xws": "featheredcloak"
+    "xws": "featheredcloak",
+    "assetno": "1003"
   },
   {
     "name": "item #69",
-    "points": 1741,
+    "points": 1824,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-069-feathered-cloak.png",
-    "xws": "featheredcloak"
+    "xws": "featheredcloak",
+    "assetno": "1003"
   },
   {
     "name": "item #069",
-    "points": 1742,
+    "points": 1825,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-069-feathered-cloak.png",
-    "xws": "featheredcloak"
+    "xws": "featheredcloak",
+    "assetno": "1003"
   },
   {
     "name": "feathered cloak",
-    "points": 1743,
+    "points": 1826,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-069-feathered-cloak.png",
-    "xws": "featheredcloak"
+    "xws": "featheredcloak",
+    "assetno": "1003"
+  },
+  {
+    "name": "1003",
+    "points": 1827,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-069-feathered-cloak.png",
+    "xws": "featheredcloak",
+    "assetno": "1003"
   },
   {
     "name": "feathered cloak",
-    "points": 1744,
+    "points": 1828,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-069-feathered-cloak-back.png",
-    "xws": "featheredcloak"
+    "xws": "featheredcloak",
+    "assetno": "####"
   },
   {
     "name": "item 70",
-    "points": 1745,
+    "points": 1829,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-070-aesther-robe.png",
-    "xws": "aestherrobe"
+    "xws": "aestherrobe",
+    "assetno": "1005"
   },
   {
     "name": "item 070",
-    "points": 1746,
+    "points": 1830,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-070-aesther-robe.png",
-    "xws": "aestherrobe"
+    "xws": "aestherrobe",
+    "assetno": "1005"
   },
   {
     "name": "item #70",
-    "points": 1747,
+    "points": 1831,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-070-aesther-robe.png",
-    "xws": "aestherrobe"
+    "xws": "aestherrobe",
+    "assetno": "1005"
   },
   {
     "name": "item #070",
-    "points": 1748,
+    "points": 1832,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-070-aesther-robe.png",
-    "xws": "aestherrobe"
+    "xws": "aestherrobe",
+    "assetno": "1005"
   },
   {
     "name": "aesther robe",
-    "points": 1749,
+    "points": 1833,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-070-aesther-robe.png",
-    "xws": "aestherrobe"
+    "xws": "aestherrobe",
+    "assetno": "1005"
+  },
+  {
+    "name": "1005",
+    "points": 1834,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-070-aesther-robe.png",
+    "xws": "aestherrobe",
+    "assetno": "1005"
   },
   {
     "name": "aesther robe",
-    "points": 1750,
+    "points": 1835,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-070-aesther-robe-back.png",
-    "xws": "aestherrobe"
+    "xws": "aestherrobe",
+    "assetno": "####"
   },
   {
     "name": "item 71",
-    "points": 1751,
+    "points": 1836,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-071-bone-boots.png",
-    "xws": "boneboots"
+    "xws": "boneboots",
+    "assetno": "1007"
   },
   {
     "name": "item 071",
-    "points": 1752,
+    "points": 1837,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-071-bone-boots.png",
-    "xws": "boneboots"
+    "xws": "boneboots",
+    "assetno": "1007"
   },
   {
     "name": "item #71",
-    "points": 1753,
+    "points": 1838,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-071-bone-boots.png",
-    "xws": "boneboots"
+    "xws": "boneboots",
+    "assetno": "1007"
   },
   {
     "name": "item #071",
-    "points": 1754,
+    "points": 1839,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-071-bone-boots.png",
-    "xws": "boneboots"
+    "xws": "boneboots",
+    "assetno": "1007"
   },
   {
     "name": "bone boots",
-    "points": 1755,
+    "points": 1840,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-071-bone-boots.png",
-    "xws": "boneboots"
+    "xws": "boneboots",
+    "assetno": "1007"
+  },
+  {
+    "name": "1007",
+    "points": 1841,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-071-bone-boots.png",
+    "xws": "boneboots",
+    "assetno": "1007"
   },
   {
     "name": "bone boots",
-    "points": 1756,
+    "points": 1842,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-071-bone-boots-back.png",
-    "xws": "boneboots"
+    "xws": "boneboots",
+    "assetno": "####"
   },
   {
     "name": "item 72",
-    "points": 1757,
+    "points": 1843,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-072-oak-staff.png",
-    "xws": "oakstaff"
+    "xws": "oakstaff",
+    "assetno": "1009"
   },
   {
     "name": "item 072",
-    "points": 1758,
+    "points": 1844,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-072-oak-staff.png",
-    "xws": "oakstaff"
+    "xws": "oakstaff",
+    "assetno": "1009"
   },
   {
     "name": "item #72",
-    "points": 1759,
+    "points": 1845,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-072-oak-staff.png",
-    "xws": "oakstaff"
+    "xws": "oakstaff",
+    "assetno": "1009"
   },
   {
     "name": "item #072",
-    "points": 1760,
+    "points": 1846,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-072-oak-staff.png",
-    "xws": "oakstaff"
+    "xws": "oakstaff",
+    "assetno": "1009"
   },
   {
     "name": "oak staff",
-    "points": 1761,
+    "points": 1847,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-072-oak-staff.png",
-    "xws": "oakstaff"
+    "xws": "oakstaff",
+    "assetno": "1009"
+  },
+  {
+    "name": "1009",
+    "points": 1848,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-072-oak-staff.png",
+    "xws": "oakstaff",
+    "assetno": "1009"
   },
   {
     "name": "oak staff",
-    "points": 1762,
+    "points": 1849,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-072-oak-staff-back.png",
-    "xws": "oakstaff"
+    "xws": "oakstaff",
+    "assetno": "####"
   },
   {
     "name": "item 73",
-    "points": 1763,
+    "points": 1850,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-073-energizing-baton.png",
-    "xws": "energizingbaton"
+    "xws": "energizingbaton",
+    "assetno": "1011"
   },
   {
     "name": "item 073",
-    "points": 1764,
+    "points": 1851,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-073-energizing-baton.png",
-    "xws": "energizingbaton"
+    "xws": "energizingbaton",
+    "assetno": "1011"
   },
   {
     "name": "item #73",
-    "points": 1765,
+    "points": 1852,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-073-energizing-baton.png",
-    "xws": "energizingbaton"
+    "xws": "energizingbaton",
+    "assetno": "1011"
   },
   {
     "name": "item #073",
-    "points": 1766,
+    "points": 1853,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-073-energizing-baton.png",
-    "xws": "energizingbaton"
+    "xws": "energizingbaton",
+    "assetno": "1011"
   },
   {
     "name": "energizing baton",
-    "points": 1767,
+    "points": 1854,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-073-energizing-baton.png",
-    "xws": "energizingbaton"
+    "xws": "energizingbaton",
+    "assetno": "1011"
+  },
+  {
+    "name": "1011",
+    "points": 1855,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-073-energizing-baton.png",
+    "xws": "energizingbaton",
+    "assetno": "1011"
   },
   {
     "name": "energizing baton",
-    "points": 1768,
+    "points": 1856,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-073-energizing-baton-back.png",
-    "xws": "energizingbaton"
+    "xws": "energizingbaton",
+    "assetno": "####"
   },
   {
     "name": "item 74",
-    "points": 1769,
+    "points": 1857,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-074-shock-grenades.png",
-    "xws": "shockgrenades"
+    "xws": "shockgrenades",
+    "assetno": "1013"
   },
   {
     "name": "item 074",
-    "points": 1770,
+    "points": 1858,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-074-shock-grenades.png",
-    "xws": "shockgrenades"
+    "xws": "shockgrenades",
+    "assetno": "1013"
   },
   {
     "name": "item #74",
-    "points": 1771,
+    "points": 1859,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-074-shock-grenades.png",
-    "xws": "shockgrenades"
+    "xws": "shockgrenades",
+    "assetno": "1013"
   },
   {
     "name": "item #074",
-    "points": 1772,
+    "points": 1860,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-074-shock-grenades.png",
-    "xws": "shockgrenades"
+    "xws": "shockgrenades",
+    "assetno": "1013"
   },
   {
     "name": "shock grenades",
-    "points": 1773,
+    "points": 1861,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-074-shock-grenades.png",
-    "xws": "shockgrenades"
+    "xws": "shockgrenades",
+    "assetno": "1013"
+  },
+  {
+    "name": "1013",
+    "points": 1862,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-074-shock-grenades.png",
+    "xws": "shockgrenades",
+    "assetno": "1013"
   },
   {
     "name": "shock grenades",
-    "points": 1774,
+    "points": 1863,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-074-shock-grenades-back.png",
-    "xws": "shockgrenades"
+    "xws": "shockgrenades",
+    "assetno": "####"
   },
   {
     "name": "item 75",
-    "points": 1775,
+    "points": 1864,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-075-rose-gauntlet.png",
-    "xws": "rosegauntlet"
+    "xws": "rosegauntlet",
+    "assetno": "1015"
   },
   {
     "name": "item 075",
-    "points": 1776,
+    "points": 1865,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-075-rose-gauntlet.png",
-    "xws": "rosegauntlet"
+    "xws": "rosegauntlet",
+    "assetno": "1015"
   },
   {
     "name": "item #75",
-    "points": 1777,
+    "points": 1866,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-075-rose-gauntlet.png",
-    "xws": "rosegauntlet"
+    "xws": "rosegauntlet",
+    "assetno": "1015"
   },
   {
     "name": "item #075",
-    "points": 1778,
+    "points": 1867,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-075-rose-gauntlet.png",
-    "xws": "rosegauntlet"
+    "xws": "rosegauntlet",
+    "assetno": "1015"
   },
   {
     "name": "rose gauntlet",
-    "points": 1779,
+    "points": 1868,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-075-rose-gauntlet.png",
-    "xws": "rosegauntlet"
+    "xws": "rosegauntlet",
+    "assetno": "1015"
+  },
+  {
+    "name": "1015",
+    "points": 1869,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-075-rose-gauntlet.png",
+    "xws": "rosegauntlet",
+    "assetno": "1015"
   },
   {
     "name": "rose gauntlet",
-    "points": 1780,
+    "points": 1870,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-075-rose-gauntlet-back.png",
-    "xws": "rosegauntlet"
+    "xws": "rosegauntlet",
+    "assetno": "####"
   },
   {
     "name": "item 76",
-    "points": 1781,
+    "points": 1871,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-076-horn-of-command.png",
-    "xws": "hornofcommand"
+    "xws": "hornofcommand",
+    "assetno": "1017"
   },
   {
     "name": "item 076",
-    "points": 1782,
+    "points": 1872,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-076-horn-of-command.png",
-    "xws": "hornofcommand"
+    "xws": "hornofcommand",
+    "assetno": "1017"
   },
   {
     "name": "item #76",
-    "points": 1783,
+    "points": 1873,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-076-horn-of-command.png",
-    "xws": "hornofcommand"
+    "xws": "hornofcommand",
+    "assetno": "1017"
   },
   {
     "name": "item #076",
-    "points": 1784,
+    "points": 1874,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-076-horn-of-command.png",
-    "xws": "hornofcommand"
+    "xws": "hornofcommand",
+    "assetno": "1017"
   },
   {
     "name": "horn of command",
-    "points": 1785,
+    "points": 1875,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-076-horn-of-command.png",
-    "xws": "hornofcommand"
+    "xws": "hornofcommand",
+    "assetno": "1017"
+  },
+  {
+    "name": "1017",
+    "points": 1876,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-076-horn-of-command.png",
+    "xws": "hornofcommand",
+    "assetno": "1017"
   },
   {
     "name": "horn of command",
-    "points": 1786,
+    "points": 1877,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-076-horn-of-command-back.png",
-    "xws": "hornofcommand"
+    "xws": "hornofcommand",
+    "assetno": "####"
   },
   {
     "name": "item 77",
-    "points": 1787,
+    "points": 1878,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-077-chaos-cannon.png",
-    "xws": "chaoscannon"
+    "xws": "chaoscannon",
+    "assetno": "1019"
   },
   {
     "name": "item 077",
-    "points": 1788,
+    "points": 1879,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-077-chaos-cannon.png",
-    "xws": "chaoscannon"
+    "xws": "chaoscannon",
+    "assetno": "1019"
   },
   {
     "name": "item #77",
-    "points": 1789,
+    "points": 1880,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-077-chaos-cannon.png",
-    "xws": "chaoscannon"
+    "xws": "chaoscannon",
+    "assetno": "1019"
   },
   {
     "name": "item #077",
-    "points": 1790,
+    "points": 1881,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-077-chaos-cannon.png",
-    "xws": "chaoscannon"
+    "xws": "chaoscannon",
+    "assetno": "1019"
   },
   {
     "name": "chaos cannon",
-    "points": 1791,
+    "points": 1882,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-077-chaos-cannon.png",
-    "xws": "chaoscannon"
+    "xws": "chaoscannon",
+    "assetno": "1019"
+  },
+  {
+    "name": "1019",
+    "points": 1883,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-077-chaos-cannon.png",
+    "xws": "chaoscannon",
+    "assetno": "1019"
   },
   {
     "name": "chaos cannon",
-    "points": 1792,
+    "points": 1884,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-077-chaos-cannon-back.png",
-    "xws": "chaoscannon"
+    "xws": "chaoscannon",
+    "assetno": "####"
   },
   {
     "name": "item 78",
-    "points": 1793,
+    "points": 1885,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-078-balanced-scales.png",
-    "xws": "balancedscales"
+    "xws": "balancedscales",
+    "assetno": "1021"
   },
   {
     "name": "item 078",
-    "points": 1794,
+    "points": 1886,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-078-balanced-scales.png",
-    "xws": "balancedscales"
+    "xws": "balancedscales",
+    "assetno": "1021"
   },
   {
     "name": "item #78",
-    "points": 1795,
+    "points": 1887,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-078-balanced-scales.png",
-    "xws": "balancedscales"
+    "xws": "balancedscales",
+    "assetno": "1021"
   },
   {
     "name": "item #078",
-    "points": 1796,
+    "points": 1888,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-078-balanced-scales.png",
-    "xws": "balancedscales"
+    "xws": "balancedscales",
+    "assetno": "1021"
   },
   {
     "name": "balanced scales",
-    "points": 1797,
+    "points": 1889,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-078-balanced-scales.png",
-    "xws": "balancedscales"
+    "xws": "balancedscales",
+    "assetno": "1021"
+  },
+  {
+    "name": "1021",
+    "points": 1890,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-078-balanced-scales.png",
+    "xws": "balancedscales",
+    "assetno": "1021"
   },
   {
     "name": "balanced scales",
-    "points": 1798,
+    "points": 1891,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-078-balanced-scales-back.png",
-    "xws": "balancedscales"
+    "xws": "balancedscales",
+    "assetno": "####"
   },
   {
     "name": "item 79",
-    "points": 1799,
+    "points": 1892,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-079-roasted-fowl.png",
-    "xws": "roastedfowl"
+    "xws": "roastedfowl",
+    "assetno": "1023"
   },
   {
     "name": "item 079",
-    "points": 1800,
+    "points": 1893,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-079-roasted-fowl.png",
-    "xws": "roastedfowl"
+    "xws": "roastedfowl",
+    "assetno": "1023"
   },
   {
     "name": "item #79",
-    "points": 1801,
+    "points": 1894,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-079-roasted-fowl.png",
-    "xws": "roastedfowl"
+    "xws": "roastedfowl",
+    "assetno": "1023"
   },
   {
     "name": "item #079",
-    "points": 1802,
+    "points": 1895,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-079-roasted-fowl.png",
-    "xws": "roastedfowl"
+    "xws": "roastedfowl",
+    "assetno": "1023"
   },
   {
     "name": "roasted fowl",
-    "points": 1803,
+    "points": 1896,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-079-roasted-fowl.png",
-    "xws": "roastedfowl"
+    "xws": "roastedfowl",
+    "assetno": "1023"
+  },
+  {
+    "name": "1023",
+    "points": 1897,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-079-roasted-fowl.png",
+    "xws": "roastedfowl",
+    "assetno": "1023"
   },
   {
     "name": "roasted fowl",
-    "points": 1804,
+    "points": 1898,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-079-roasted-fowl-back.png",
-    "xws": "roastedfowl"
+    "xws": "roastedfowl",
+    "assetno": "####"
   },
   {
     "name": "item 80",
-    "points": 1805,
+    "points": 1899,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-080-living-stone.png",
-    "xws": "livingstone"
+    "xws": "livingstone",
+    "assetno": "1025"
   },
   {
     "name": "item 080",
-    "points": 1806,
+    "points": 1900,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-080-living-stone.png",
-    "xws": "livingstone"
+    "xws": "livingstone",
+    "assetno": "1025"
   },
   {
     "name": "item #80",
-    "points": 1807,
+    "points": 1901,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-080-living-stone.png",
-    "xws": "livingstone"
+    "xws": "livingstone",
+    "assetno": "1025"
   },
   {
     "name": "item #080",
-    "points": 1808,
+    "points": 1902,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-080-living-stone.png",
-    "xws": "livingstone"
+    "xws": "livingstone",
+    "assetno": "1025"
   },
   {
     "name": "living stone",
-    "points": 1809,
+    "points": 1903,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-080-living-stone.png",
-    "xws": "livingstone"
+    "xws": "livingstone",
+    "assetno": "1025"
+  },
+  {
+    "name": "1025",
+    "points": 1904,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-080-living-stone.png",
+    "xws": "livingstone",
+    "assetno": "1025"
   },
   {
     "name": "living stone",
-    "points": 1810,
+    "points": 1905,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-080-living-stone-back.png",
-    "xws": "livingstone"
+    "xws": "livingstone",
+    "assetno": "####"
   },
   {
     "name": "item 81",
-    "points": 1811,
+    "points": 1906,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
-    "xws": "painsimulacrum"
+    "xws": "painsimulacrum",
+    "assetno": "1027"
   },
   {
     "name": "item 081",
-    "points": 1812,
+    "points": 1907,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
-    "xws": "painsimulacrum"
+    "xws": "painsimulacrum",
+    "assetno": "1027"
   },
   {
     "name": "item #81",
-    "points": 1813,
+    "points": 1908,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
-    "xws": "painsimulacrum"
+    "xws": "painsimulacrum",
+    "assetno": "1027"
   },
   {
     "name": "item #081",
-    "points": 1814,
+    "points": 1909,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
-    "xws": "painsimulacrum"
+    "xws": "painsimulacrum",
+    "assetno": "1027"
   },
   {
     "name": "pain simulacrum",
-    "points": 1815,
+    "points": 1910,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
-    "xws": "painsimulacrum"
+    "xws": "painsimulacrum",
+    "assetno": "1027"
+  },
+  {
+    "name": "1027",
+    "points": 1911,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
+    "xws": "painsimulacrum",
+    "assetno": "1027"
   },
   {
     "name": "pain simulacrum",
-    "points": 1816,
+    "points": 1912,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-081-pain-simulacrum-back.png",
-    "xws": "painsimulacrum"
+    "xws": "painsimulacrum",
+    "assetno": "####"
   },
   {
     "name": "item 82",
-    "points": 1817,
+    "points": 1913,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-082-mechanical-cube.png",
-    "xws": "mechanicalcube"
+    "xws": "mechanicalcube",
+    "assetno": "1029"
   },
   {
     "name": "item 082",
-    "points": 1818,
+    "points": 1914,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-082-mechanical-cube.png",
-    "xws": "mechanicalcube"
+    "xws": "mechanicalcube",
+    "assetno": "1029"
   },
   {
     "name": "item #82",
-    "points": 1819,
+    "points": 1915,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-082-mechanical-cube.png",
-    "xws": "mechanicalcube"
+    "xws": "mechanicalcube",
+    "assetno": "1029"
   },
   {
     "name": "item #082",
-    "points": 1820,
+    "points": 1916,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-082-mechanical-cube.png",
-    "xws": "mechanicalcube"
+    "xws": "mechanicalcube",
+    "assetno": "1029"
   },
   {
     "name": "mechanical cube",
-    "points": 1821,
+    "points": 1917,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-082-mechanical-cube.png",
-    "xws": "mechanicalcube"
+    "xws": "mechanicalcube",
+    "assetno": "1029"
+  },
+  {
+    "name": "1029",
+    "points": 1918,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/066-082/fh-082-mechanical-cube.png",
+    "xws": "mechanicalcube",
+    "assetno": "1029"
   },
   {
     "name": "mechanical cube",
-    "points": 1822,
+    "points": 1919,
     "expansion": "frosthaven",
     "image": "items/frosthaven/066-082/fh-082-mechanical-cube-back.png",
-    "xws": "mechanicalcube"
+    "xws": "mechanicalcube",
+    "assetno": "####"
   },
   {
     "name": "item 83",
-    "points": 1823,
+    "points": 1920,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-083-healing-potion.png",
-    "xws": "healingpotion"
+    "xws": "healingpotion",
+    "assetno": "1031"
   },
   {
     "name": "item 083",
-    "points": 1824,
+    "points": 1921,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-083-healing-potion.png",
-    "xws": "healingpotion"
+    "xws": "healingpotion",
+    "assetno": "1031"
   },
   {
     "name": "item #83",
-    "points": 1825,
+    "points": 1922,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-083-healing-potion.png",
-    "xws": "healingpotion"
+    "xws": "healingpotion",
+    "assetno": "1031"
   },
   {
     "name": "item #083",
-    "points": 1826,
+    "points": 1923,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-083-healing-potion.png",
-    "xws": "healingpotion"
+    "xws": "healingpotion",
+    "assetno": "1031"
   },
   {
     "name": "healing potion",
-    "points": 1827,
+    "points": 1924,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-083-healing-potion.png",
-    "xws": "healingpotion"
+    "xws": "healingpotion",
+    "assetno": "1031"
+  },
+  {
+    "name": "1031",
+    "points": 1925,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-083-healing-potion.png",
+    "xws": "healingpotion",
+    "assetno": "1031"
   },
   {
     "name": "healing potion",
-    "points": 1828,
+    "points": 1926,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-083-healing-potion-back.png",
-    "xws": "healingpotion"
+    "xws": "healingpotion",
+    "assetno": "####"
   },
   {
     "name": "item 84",
-    "points": 1829,
+    "points": 1927,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-084-stamina-potion.png",
-    "xws": "staminapotion"
+    "xws": "staminapotion",
+    "assetno": "1033"
   },
   {
     "name": "item 084",
-    "points": 1830,
+    "points": 1928,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-084-stamina-potion.png",
-    "xws": "staminapotion"
+    "xws": "staminapotion",
+    "assetno": "1033"
   },
   {
     "name": "item #84",
-    "points": 1831,
+    "points": 1929,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-084-stamina-potion.png",
-    "xws": "staminapotion"
+    "xws": "staminapotion",
+    "assetno": "1033"
   },
   {
     "name": "item #084",
-    "points": 1832,
+    "points": 1930,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-084-stamina-potion.png",
-    "xws": "staminapotion"
+    "xws": "staminapotion",
+    "assetno": "1033"
   },
   {
     "name": "stamina potion",
-    "points": 1833,
+    "points": 1931,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-084-stamina-potion.png",
-    "xws": "staminapotion"
+    "xws": "staminapotion",
+    "assetno": "1033"
+  },
+  {
+    "name": "1033",
+    "points": 1932,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-084-stamina-potion.png",
+    "xws": "staminapotion",
+    "assetno": "1033"
   },
   {
     "name": "stamina potion",
-    "points": 1834,
+    "points": 1933,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-084-stamina-potion-back.png",
-    "xws": "staminapotion"
+    "xws": "staminapotion",
+    "assetno": "####"
   },
   {
     "name": "item 85",
-    "points": 1835,
+    "points": 1934,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-085-power-potion.png",
-    "xws": "powerpotion"
+    "xws": "powerpotion",
+    "assetno": "1035"
   },
   {
     "name": "item 085",
-    "points": 1836,
+    "points": 1935,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-085-power-potion.png",
-    "xws": "powerpotion"
+    "xws": "powerpotion",
+    "assetno": "1035"
   },
   {
     "name": "item #85",
-    "points": 1837,
+    "points": 1936,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-085-power-potion.png",
-    "xws": "powerpotion"
+    "xws": "powerpotion",
+    "assetno": "1035"
   },
   {
     "name": "item #085",
-    "points": 1838,
+    "points": 1937,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-085-power-potion.png",
-    "xws": "powerpotion"
+    "xws": "powerpotion",
+    "assetno": "1035"
   },
   {
     "name": "power potion",
-    "points": 1839,
+    "points": 1938,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-085-power-potion.png",
-    "xws": "powerpotion"
+    "xws": "powerpotion",
+    "assetno": "1035"
+  },
+  {
+    "name": "1035",
+    "points": 1939,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-085-power-potion.png",
+    "xws": "powerpotion",
+    "assetno": "1035"
   },
   {
     "name": "power potion",
-    "points": 1840,
+    "points": 1940,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-085-power-potion-back.png",
-    "xws": "powerpotion"
+    "xws": "powerpotion",
+    "assetno": "####"
   },
   {
     "name": "item 86",
-    "points": 1841,
+    "points": 1941,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-086-element-potion.png",
-    "xws": "elementpotion"
+    "xws": "elementpotion",
+    "assetno": "1037"
   },
   {
     "name": "item 086",
-    "points": 1842,
+    "points": 1942,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-086-element-potion.png",
-    "xws": "elementpotion"
+    "xws": "elementpotion",
+    "assetno": "1037"
   },
   {
     "name": "item #86",
-    "points": 1843,
+    "points": 1943,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-086-element-potion.png",
-    "xws": "elementpotion"
+    "xws": "elementpotion",
+    "assetno": "1037"
   },
   {
     "name": "item #086",
-    "points": 1844,
+    "points": 1944,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-086-element-potion.png",
-    "xws": "elementpotion"
+    "xws": "elementpotion",
+    "assetno": "1037"
   },
   {
     "name": "element potion",
-    "points": 1845,
+    "points": 1945,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-086-element-potion.png",
-    "xws": "elementpotion"
+    "xws": "elementpotion",
+    "assetno": "1037"
+  },
+  {
+    "name": "1037",
+    "points": 1946,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-086-element-potion.png",
+    "xws": "elementpotion",
+    "assetno": "1037"
   },
   {
     "name": "element potion",
-    "points": 1846,
+    "points": 1947,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-086-element-potion-back.png",
-    "xws": "elementpotion"
+    "xws": "elementpotion",
+    "assetno": "####"
   },
   {
     "name": "item 87",
-    "points": 1847,
+    "points": 1948,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-087-cure-potion.png",
-    "xws": "curepotion"
+    "xws": "curepotion",
+    "assetno": "1039"
   },
   {
     "name": "item 087",
-    "points": 1848,
+    "points": 1949,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-087-cure-potion.png",
-    "xws": "curepotion"
+    "xws": "curepotion",
+    "assetno": "1039"
   },
   {
     "name": "item #87",
-    "points": 1849,
+    "points": 1950,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-087-cure-potion.png",
-    "xws": "curepotion"
+    "xws": "curepotion",
+    "assetno": "1039"
   },
   {
     "name": "item #087",
-    "points": 1850,
+    "points": 1951,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-087-cure-potion.png",
-    "xws": "curepotion"
+    "xws": "curepotion",
+    "assetno": "1039"
   },
   {
     "name": "cure potion",
-    "points": 1851,
+    "points": 1952,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-087-cure-potion.png",
-    "xws": "curepotion"
+    "xws": "curepotion",
+    "assetno": "1039"
+  },
+  {
+    "name": "1039",
+    "points": 1953,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-087-cure-potion.png",
+    "xws": "curepotion",
+    "assetno": "1039"
   },
   {
     "name": "cure potion",
-    "points": 1852,
+    "points": 1954,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-087-cure-potion-back.png",
-    "xws": "curepotion"
+    "xws": "curepotion",
+    "assetno": "####"
   },
   {
     "name": "item 88",
-    "points": 1853,
+    "points": 1955,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-088-fireshield-potion.png",
-    "xws": "fireshieldpotion"
+    "xws": "fireshieldpotion",
+    "assetno": "1041"
   },
   {
     "name": "item 088",
-    "points": 1854,
+    "points": 1956,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-088-fireshield-potion.png",
-    "xws": "fireshieldpotion"
+    "xws": "fireshieldpotion",
+    "assetno": "1041"
   },
   {
     "name": "item #88",
-    "points": 1855,
+    "points": 1957,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-088-fireshield-potion.png",
-    "xws": "fireshieldpotion"
+    "xws": "fireshieldpotion",
+    "assetno": "1041"
   },
   {
     "name": "item #088",
-    "points": 1856,
+    "points": 1958,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-088-fireshield-potion.png",
-    "xws": "fireshieldpotion"
+    "xws": "fireshieldpotion",
+    "assetno": "1041"
   },
   {
     "name": "fireshield potion",
-    "points": 1857,
+    "points": 1959,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-088-fireshield-potion.png",
-    "xws": "fireshieldpotion"
+    "xws": "fireshieldpotion",
+    "assetno": "1041"
+  },
+  {
+    "name": "1041",
+    "points": 1960,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-088-fireshield-potion.png",
+    "xws": "fireshieldpotion",
+    "assetno": "1041"
   },
   {
     "name": "fireshield potion",
-    "points": 1858,
+    "points": 1961,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-088-fireshield-potion-back.png",
-    "xws": "fireshieldpotion"
+    "xws": "fireshieldpotion",
+    "assetno": "####"
   },
   {
     "name": "item 89",
-    "points": 1859,
+    "points": 1962,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-089-stoneskin-potion.png",
-    "xws": "stoneskinpotion"
+    "xws": "stoneskinpotion",
+    "assetno": "1043"
   },
   {
     "name": "item 089",
-    "points": 1860,
+    "points": 1963,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-089-stoneskin-potion.png",
-    "xws": "stoneskinpotion"
+    "xws": "stoneskinpotion",
+    "assetno": "1043"
   },
   {
     "name": "item #89",
-    "points": 1861,
+    "points": 1964,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-089-stoneskin-potion.png",
-    "xws": "stoneskinpotion"
+    "xws": "stoneskinpotion",
+    "assetno": "1043"
   },
   {
     "name": "item #089",
-    "points": 1862,
+    "points": 1965,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-089-stoneskin-potion.png",
-    "xws": "stoneskinpotion"
+    "xws": "stoneskinpotion",
+    "assetno": "1043"
   },
   {
     "name": "stoneskin potion",
-    "points": 1863,
+    "points": 1966,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-089-stoneskin-potion.png",
-    "xws": "stoneskinpotion"
+    "xws": "stoneskinpotion",
+    "assetno": "1043"
+  },
+  {
+    "name": "1043",
+    "points": 1967,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-089-stoneskin-potion.png",
+    "xws": "stoneskinpotion",
+    "assetno": "1043"
   },
   {
     "name": "stoneskin potion",
-    "points": 1864,
+    "points": 1968,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-089-stoneskin-potion-back.png",
-    "xws": "stoneskinpotion"
+    "xws": "stoneskinpotion",
+    "assetno": "####"
   },
   {
     "name": "item 90",
-    "points": 1865,
+    "points": 1969,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-090-muscle-potion.png",
-    "xws": "musclepotion"
+    "xws": "musclepotion",
+    "assetno": "1045"
   },
   {
     "name": "item 090",
-    "points": 1866,
+    "points": 1970,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-090-muscle-potion.png",
-    "xws": "musclepotion"
+    "xws": "musclepotion",
+    "assetno": "1045"
   },
   {
     "name": "item #90",
-    "points": 1867,
+    "points": 1971,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-090-muscle-potion.png",
-    "xws": "musclepotion"
+    "xws": "musclepotion",
+    "assetno": "1045"
   },
   {
     "name": "item #090",
-    "points": 1868,
+    "points": 1972,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-090-muscle-potion.png",
-    "xws": "musclepotion"
+    "xws": "musclepotion",
+    "assetno": "1045"
   },
   {
     "name": "muscle potion",
-    "points": 1869,
+    "points": 1973,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-090-muscle-potion.png",
-    "xws": "musclepotion"
+    "xws": "musclepotion",
+    "assetno": "1045"
+  },
+  {
+    "name": "1045",
+    "points": 1974,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-090-muscle-potion.png",
+    "xws": "musclepotion",
+    "assetno": "1045"
   },
   {
     "name": "muscle potion",
-    "points": 1870,
+    "points": 1975,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-090-muscle-potion-back.png",
-    "xws": "musclepotion"
+    "xws": "musclepotion",
+    "assetno": "####"
   },
   {
     "name": "item 91",
-    "points": 1871,
+    "points": 1976,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-091-holy-water.png",
-    "xws": "holywater"
+    "xws": "holywater",
+    "assetno": "1047"
   },
   {
     "name": "item 091",
-    "points": 1872,
+    "points": 1977,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-091-holy-water.png",
-    "xws": "holywater"
+    "xws": "holywater",
+    "assetno": "1047"
   },
   {
     "name": "item #91",
-    "points": 1873,
+    "points": 1978,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-091-holy-water.png",
-    "xws": "holywater"
+    "xws": "holywater",
+    "assetno": "1047"
   },
   {
     "name": "item #091",
-    "points": 1874,
+    "points": 1979,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-091-holy-water.png",
-    "xws": "holywater"
+    "xws": "holywater",
+    "assetno": "1047"
   },
   {
     "name": "holy water",
-    "points": 1875,
+    "points": 1980,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-091-holy-water.png",
-    "xws": "holywater"
+    "xws": "holywater",
+    "assetno": "1047"
+  },
+  {
+    "name": "1047",
+    "points": 1981,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-091-holy-water.png",
+    "xws": "holywater",
+    "assetno": "1047"
   },
   {
     "name": "holy water",
-    "points": 1876,
+    "points": 1982,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-091-holy-water-back.png",
-    "xws": "holywater"
+    "xws": "holywater",
+    "assetno": "####"
   },
   {
     "name": "item 92",
-    "points": 1877,
+    "points": 1983,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-092-renewing-potion.png",
-    "xws": "renewingpotion"
+    "xws": "renewingpotion",
+    "assetno": "1049"
   },
   {
     "name": "item 092",
-    "points": 1878,
+    "points": 1984,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-092-renewing-potion.png",
-    "xws": "renewingpotion"
+    "xws": "renewingpotion",
+    "assetno": "1049"
   },
   {
     "name": "item #92",
-    "points": 1879,
+    "points": 1985,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-092-renewing-potion.png",
-    "xws": "renewingpotion"
+    "xws": "renewingpotion",
+    "assetno": "1049"
   },
   {
     "name": "item #092",
-    "points": 1880,
+    "points": 1986,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-092-renewing-potion.png",
-    "xws": "renewingpotion"
+    "xws": "renewingpotion",
+    "assetno": "1049"
   },
   {
     "name": "renewing potion",
-    "points": 1881,
+    "points": 1987,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-092-renewing-potion.png",
-    "xws": "renewingpotion"
+    "xws": "renewingpotion",
+    "assetno": "1049"
+  },
+  {
+    "name": "1049",
+    "points": 1988,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-092-renewing-potion.png",
+    "xws": "renewingpotion",
+    "assetno": "1049"
   },
   {
     "name": "renewing potion",
-    "points": 1882,
+    "points": 1989,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-092-renewing-potion-back.png",
-    "xws": "renewingpotion"
+    "xws": "renewingpotion",
+    "assetno": "####"
   },
   {
     "name": "item 93",
-    "points": 1883,
+    "points": 1990,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-093-glancing-potion.png",
-    "xws": "glancingpotion"
+    "xws": "glancingpotion",
+    "assetno": "1051"
   },
   {
     "name": "item 093",
-    "points": 1884,
+    "points": 1991,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-093-glancing-potion.png",
-    "xws": "glancingpotion"
+    "xws": "glancingpotion",
+    "assetno": "1051"
   },
   {
     "name": "item #93",
-    "points": 1885,
+    "points": 1992,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-093-glancing-potion.png",
-    "xws": "glancingpotion"
+    "xws": "glancingpotion",
+    "assetno": "1051"
   },
   {
     "name": "item #093",
-    "points": 1886,
+    "points": 1993,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-093-glancing-potion.png",
-    "xws": "glancingpotion"
+    "xws": "glancingpotion",
+    "assetno": "1051"
   },
   {
     "name": "glancing potion",
-    "points": 1887,
+    "points": 1994,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-093-glancing-potion.png",
-    "xws": "glancingpotion"
+    "xws": "glancingpotion",
+    "assetno": "1051"
+  },
+  {
+    "name": "1051",
+    "points": 1995,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-093-glancing-potion.png",
+    "xws": "glancingpotion",
+    "assetno": "1051"
   },
   {
     "name": "glancing potion",
-    "points": 1888,
+    "points": 1996,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-093-glancing-potion-back.png",
-    "xws": "glancingpotion"
+    "xws": "glancingpotion",
+    "assetno": "####"
   },
   {
     "name": "item 94",
-    "points": 1889,
+    "points": 1997,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-094-frenzy-potion.png",
-    "xws": "frenzypotion"
+    "xws": "frenzypotion",
+    "assetno": "1053"
   },
   {
     "name": "item 094",
-    "points": 1890,
+    "points": 1998,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-094-frenzy-potion.png",
-    "xws": "frenzypotion"
+    "xws": "frenzypotion",
+    "assetno": "1053"
   },
   {
     "name": "item #94",
-    "points": 1891,
+    "points": 1999,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-094-frenzy-potion.png",
-    "xws": "frenzypotion"
+    "xws": "frenzypotion",
+    "assetno": "1053"
   },
   {
     "name": "item #094",
-    "points": 1892,
+    "points": 2000,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-094-frenzy-potion.png",
-    "xws": "frenzypotion"
+    "xws": "frenzypotion",
+    "assetno": "1053"
   },
   {
     "name": "frenzy potion",
-    "points": 1893,
+    "points": 2001,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-094-frenzy-potion.png",
-    "xws": "frenzypotion"
+    "xws": "frenzypotion",
+    "assetno": "1053"
+  },
+  {
+    "name": "1053",
+    "points": 2002,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-094-frenzy-potion.png",
+    "xws": "frenzypotion",
+    "assetno": "1053"
   },
   {
     "name": "frenzy potion",
-    "points": 1894,
+    "points": 2003,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-094-frenzy-potion-back.png",
-    "xws": "frenzypotion"
+    "xws": "frenzypotion",
+    "assetno": "####"
   },
   {
     "name": "item 95",
-    "points": 1895,
+    "points": 2004,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-095-poison-vial.png",
-    "xws": "poisonvial"
+    "xws": "poisonvial",
+    "assetno": "1055"
   },
   {
     "name": "item 095",
-    "points": 1896,
+    "points": 2005,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-095-poison-vial.png",
-    "xws": "poisonvial"
+    "xws": "poisonvial",
+    "assetno": "1055"
   },
   {
     "name": "item #95",
-    "points": 1897,
+    "points": 2006,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-095-poison-vial.png",
-    "xws": "poisonvial"
+    "xws": "poisonvial",
+    "assetno": "1055"
   },
   {
     "name": "item #095",
-    "points": 1898,
+    "points": 2007,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-095-poison-vial.png",
-    "xws": "poisonvial"
+    "xws": "poisonvial",
+    "assetno": "1055"
   },
   {
     "name": "poison vial",
-    "points": 1899,
+    "points": 2008,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-095-poison-vial.png",
-    "xws": "poisonvial"
+    "xws": "poisonvial",
+    "assetno": "1055"
+  },
+  {
+    "name": "1055",
+    "points": 2009,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-095-poison-vial.png",
+    "xws": "poisonvial",
+    "assetno": "1055"
   },
   {
     "name": "poison vial",
-    "points": 1900,
+    "points": 2010,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-095-poison-vial-back.png",
-    "xws": "poisonvial"
+    "xws": "poisonvial",
+    "assetno": "####"
   },
   {
     "name": "item 96",
-    "points": 1901,
+    "points": 2011,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-096-flame-vial.png",
-    "xws": "flamevial"
+    "xws": "flamevial",
+    "assetno": "1057"
   },
   {
     "name": "item 096",
-    "points": 1902,
+    "points": 2012,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-096-flame-vial.png",
-    "xws": "flamevial"
+    "xws": "flamevial",
+    "assetno": "1057"
   },
   {
     "name": "item #96",
-    "points": 1903,
+    "points": 2013,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-096-flame-vial.png",
-    "xws": "flamevial"
+    "xws": "flamevial",
+    "assetno": "1057"
   },
   {
     "name": "item #096",
-    "points": 1904,
+    "points": 2014,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-096-flame-vial.png",
-    "xws": "flamevial"
+    "xws": "flamevial",
+    "assetno": "1057"
   },
   {
     "name": "flame vial",
-    "points": 1905,
+    "points": 2015,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-096-flame-vial.png",
-    "xws": "flamevial"
+    "xws": "flamevial",
+    "assetno": "1057"
+  },
+  {
+    "name": "1057",
+    "points": 2016,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-096-flame-vial.png",
+    "xws": "flamevial",
+    "assetno": "1057"
   },
   {
     "name": "flame vial",
-    "points": 1906,
+    "points": 2017,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-096-flame-vial-back.png",
-    "xws": "flamevial"
+    "xws": "flamevial",
+    "assetno": "####"
   },
   {
     "name": "item 97",
-    "points": 1907,
+    "points": 2018,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-097-explosive-vial.png",
-    "xws": "explosivevial"
+    "xws": "explosivevial",
+    "assetno": "1059"
   },
   {
     "name": "item 097",
-    "points": 1908,
+    "points": 2019,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-097-explosive-vial.png",
-    "xws": "explosivevial"
+    "xws": "explosivevial",
+    "assetno": "1059"
   },
   {
     "name": "item #97",
-    "points": 1909,
+    "points": 2020,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-097-explosive-vial.png",
-    "xws": "explosivevial"
+    "xws": "explosivevial",
+    "assetno": "1059"
   },
   {
     "name": "item #097",
-    "points": 1910,
+    "points": 2021,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-097-explosive-vial.png",
-    "xws": "explosivevial"
+    "xws": "explosivevial",
+    "assetno": "1059"
   },
   {
     "name": "explosive vial",
-    "points": 1911,
+    "points": 2022,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-097-explosive-vial.png",
-    "xws": "explosivevial"
+    "xws": "explosivevial",
+    "assetno": "1059"
+  },
+  {
+    "name": "1059",
+    "points": 2023,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-097-explosive-vial.png",
+    "xws": "explosivevial",
+    "assetno": "1059"
   },
   {
     "name": "explosive vial",
-    "points": 1912,
+    "points": 2024,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-097-explosive-vial-back.png",
-    "xws": "explosivevial"
+    "xws": "explosivevial",
+    "assetno": "####"
   },
   {
     "name": "item 98",
-    "points": 1913,
+    "points": 2025,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-098-unhealthy-mixture.png",
-    "xws": "unhealthymixture"
+    "xws": "unhealthymixture",
+    "assetno": "1061"
   },
   {
     "name": "item 098",
-    "points": 1914,
+    "points": 2026,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-098-unhealthy-mixture.png",
-    "xws": "unhealthymixture"
+    "xws": "unhealthymixture",
+    "assetno": "1061"
   },
   {
     "name": "item #98",
-    "points": 1915,
+    "points": 2027,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-098-unhealthy-mixture.png",
-    "xws": "unhealthymixture"
+    "xws": "unhealthymixture",
+    "assetno": "1061"
   },
   {
     "name": "item #098",
-    "points": 1916,
+    "points": 2028,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-098-unhealthy-mixture.png",
-    "xws": "unhealthymixture"
+    "xws": "unhealthymixture",
+    "assetno": "1061"
   },
   {
     "name": "unhealthy mixture",
-    "points": 1917,
+    "points": 2029,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-098-unhealthy-mixture.png",
-    "xws": "unhealthymixture"
+    "xws": "unhealthymixture",
+    "assetno": "1061"
+  },
+  {
+    "name": "1061",
+    "points": 2030,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-098-unhealthy-mixture.png",
+    "xws": "unhealthymixture",
+    "assetno": "1061"
   },
   {
     "name": "unhealthy mixture",
-    "points": 1918,
+    "points": 2031,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-098-unhealthy-mixture-back.png",
-    "xws": "unhealthymixture"
+    "xws": "unhealthymixture",
+    "assetno": "####"
   },
   {
     "name": "item 99",
-    "points": 1919,
+    "points": 2032,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-099-major-healing-potion.png",
-    "xws": "majorhealingpotion"
+    "xws": "majorhealingpotion",
+    "assetno": "1063"
   },
   {
     "name": "item 099",
-    "points": 1920,
+    "points": 2033,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-099-major-healing-potion.png",
-    "xws": "majorhealingpotion"
+    "xws": "majorhealingpotion",
+    "assetno": "1063"
   },
   {
     "name": "item #99",
-    "points": 1921,
+    "points": 2034,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-099-major-healing-potion.png",
-    "xws": "majorhealingpotion"
+    "xws": "majorhealingpotion",
+    "assetno": "1063"
   },
   {
     "name": "item #099",
-    "points": 1922,
+    "points": 2035,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-099-major-healing-potion.png",
-    "xws": "majorhealingpotion"
+    "xws": "majorhealingpotion",
+    "assetno": "1063"
   },
   {
     "name": "major healing potion",
-    "points": 1923,
+    "points": 2036,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-099-major-healing-potion.png",
-    "xws": "majorhealingpotion"
+    "xws": "majorhealingpotion",
+    "assetno": "1063"
+  },
+  {
+    "name": "1063",
+    "points": 2037,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-099-major-healing-potion.png",
+    "xws": "majorhealingpotion",
+    "assetno": "1063"
   },
   {
     "name": "major healing potion",
-    "points": 1924,
+    "points": 2038,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-099-major-healing-potion-back.png",
-    "xws": "majorhealingpotion"
+    "xws": "majorhealingpotion",
+    "assetno": "####"
   },
   {
     "name": "item 100",
-    "points": 1925,
+    "points": 2039,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-100-major-stamina-potion.png",
-    "xws": "majorstaminapotion"
+    "xws": "majorstaminapotion",
+    "assetno": "1065"
   },
   {
     "name": "item #100",
-    "points": 1926,
+    "points": 2040,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-100-major-stamina-potion.png",
-    "xws": "majorstaminapotion"
+    "xws": "majorstaminapotion",
+    "assetno": "1065"
   },
   {
     "name": "major stamina potion",
-    "points": 1927,
+    "points": 2041,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-100-major-stamina-potion.png",
-    "xws": "majorstaminapotion"
+    "xws": "majorstaminapotion",
+    "assetno": "1065"
+  },
+  {
+    "name": "1065",
+    "points": 2042,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-100-major-stamina-potion.png",
+    "xws": "majorstaminapotion",
+    "assetno": "1065"
   },
   {
     "name": "major stamina potion",
-    "points": 1928,
+    "points": 2043,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-100-major-stamina-potion-back.png",
-    "xws": "majorstaminapotion"
+    "xws": "majorstaminapotion",
+    "assetno": "####"
   },
   {
     "name": "item 101",
-    "points": 1929,
+    "points": 2044,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-101-major-power-potion.png",
-    "xws": "majorpowerpotion"
+    "xws": "majorpowerpotion",
+    "assetno": "1067"
   },
   {
     "name": "item #101",
-    "points": 1930,
+    "points": 2045,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-101-major-power-potion.png",
-    "xws": "majorpowerpotion"
+    "xws": "majorpowerpotion",
+    "assetno": "1067"
   },
   {
     "name": "major power potion",
-    "points": 1931,
+    "points": 2046,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-101-major-power-potion.png",
-    "xws": "majorpowerpotion"
+    "xws": "majorpowerpotion",
+    "assetno": "1067"
+  },
+  {
+    "name": "1067",
+    "points": 2047,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-101-major-power-potion.png",
+    "xws": "majorpowerpotion",
+    "assetno": "1067"
   },
   {
     "name": "major power potion",
-    "points": 1932,
+    "points": 2048,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-101-major-power-potion-back.png",
-    "xws": "majorpowerpotion"
+    "xws": "majorpowerpotion",
+    "assetno": "####"
   },
   {
     "name": "item 102",
-    "points": 1933,
+    "points": 2049,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-102-major-element-potion.png",
-    "xws": "majorelementpotion"
+    "xws": "majorelementpotion",
+    "assetno": "1069"
   },
   {
     "name": "item #102",
-    "points": 1934,
+    "points": 2050,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-102-major-element-potion.png",
-    "xws": "majorelementpotion"
+    "xws": "majorelementpotion",
+    "assetno": "1069"
   },
   {
     "name": "major element potion",
-    "points": 1935,
+    "points": 2051,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-102-major-element-potion.png",
-    "xws": "majorelementpotion"
+    "xws": "majorelementpotion",
+    "assetno": "1069"
+  },
+  {
+    "name": "1069",
+    "points": 2052,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-102-major-element-potion.png",
+    "xws": "majorelementpotion",
+    "assetno": "1069"
   },
   {
     "name": "major element potion",
-    "points": 1936,
+    "points": 2053,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-102-major-element-potion-back.png",
-    "xws": "majorelementpotion"
+    "xws": "majorelementpotion",
+    "assetno": "####"
   },
   {
     "name": "item 103",
-    "points": 1937,
+    "points": 2054,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-103-major-cure-potion.png",
-    "xws": "majorcurepotion"
+    "xws": "majorcurepotion",
+    "assetno": "1071"
   },
   {
     "name": "item #103",
-    "points": 1938,
+    "points": 2055,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-103-major-cure-potion.png",
-    "xws": "majorcurepotion"
+    "xws": "majorcurepotion",
+    "assetno": "1071"
   },
   {
     "name": "major cure potion",
-    "points": 1939,
+    "points": 2056,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-103-major-cure-potion.png",
-    "xws": "majorcurepotion"
+    "xws": "majorcurepotion",
+    "assetno": "1071"
+  },
+  {
+    "name": "1071",
+    "points": 2057,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-103-major-cure-potion.png",
+    "xws": "majorcurepotion",
+    "assetno": "1071"
   },
   {
     "name": "major cure potion",
-    "points": 1940,
+    "points": 2058,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-103-major-cure-potion-back.png",
-    "xws": "majorcurepotion"
+    "xws": "majorcurepotion",
+    "assetno": "####"
   },
   {
     "name": "item 104",
-    "points": 1941,
+    "points": 2059,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-104-swiftness-potion.png",
-    "xws": "swiftnesspotion"
+    "xws": "swiftnesspotion",
+    "assetno": "1073"
   },
   {
     "name": "item #104",
-    "points": 1942,
+    "points": 2060,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-104-swiftness-potion.png",
-    "xws": "swiftnesspotion"
+    "xws": "swiftnesspotion",
+    "assetno": "1073"
   },
   {
     "name": "swiftness potion",
-    "points": 1943,
+    "points": 2061,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-104-swiftness-potion.png",
-    "xws": "swiftnesspotion"
+    "xws": "swiftnesspotion",
+    "assetno": "1073"
+  },
+  {
+    "name": "1073",
+    "points": 2062,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-104-swiftness-potion.png",
+    "xws": "swiftnesspotion",
+    "assetno": "1073"
   },
   {
     "name": "swiftness potion",
-    "points": 1944,
+    "points": 2063,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-104-swiftness-potion-back.png",
-    "xws": "swiftnesspotion"
+    "xws": "swiftnesspotion",
+    "assetno": "####"
   },
   {
     "name": "item 105",
-    "points": 1945,
+    "points": 2064,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion.png",
-    "xws": "majorfireshieldpotion"
+    "xws": "majorfireshieldpotion",
+    "assetno": "1075"
   },
   {
     "name": "item #105",
-    "points": 1946,
+    "points": 2065,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion.png",
-    "xws": "majorfireshieldpotion"
+    "xws": "majorfireshieldpotion",
+    "assetno": "1075"
   },
   {
     "name": "major fireshield potion",
-    "points": 1947,
+    "points": 2066,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion.png",
-    "xws": "majorfireshieldpotion"
+    "xws": "majorfireshieldpotion",
+    "assetno": "1075"
+  },
+  {
+    "name": "1075",
+    "points": 2067,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion.png",
+    "xws": "majorfireshieldpotion",
+    "assetno": "1075"
   },
   {
     "name": "major fireshield potion",
-    "points": 1948,
+    "points": 2068,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion-back.png",
-    "xws": "majorfireshieldpotion"
+    "xws": "majorfireshieldpotion",
+    "assetno": "####"
   },
   {
     "name": "item 106",
-    "points": 1949,
+    "points": 2069,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-106-stonewall-potion.png",
-    "xws": "stonewallpotion"
+    "xws": "stonewallpotion",
+    "assetno": "1077"
   },
   {
     "name": "item #106",
-    "points": 1950,
+    "points": 2070,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-106-stonewall-potion.png",
-    "xws": "stonewallpotion"
+    "xws": "stonewallpotion",
+    "assetno": "1077"
   },
   {
     "name": "stonewall potion",
-    "points": 1951,
+    "points": 2071,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-106-stonewall-potion.png",
-    "xws": "stonewallpotion"
+    "xws": "stonewallpotion",
+    "assetno": "1077"
+  },
+  {
+    "name": "1077",
+    "points": 2072,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-106-stonewall-potion.png",
+    "xws": "stonewallpotion",
+    "assetno": "1077"
   },
   {
     "name": "stonewall potion",
-    "points": 1952,
+    "points": 2073,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-106-stonewall-potion-back.png",
-    "xws": "stonewallpotion"
+    "xws": "stonewallpotion",
+    "assetno": "####"
   },
   {
     "name": "item 107",
-    "points": 1953,
+    "points": 2074,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-107-vigor-potion.png",
-    "xws": "vigorpotion"
+    "xws": "vigorpotion",
+    "assetno": "1079"
   },
   {
     "name": "item #107",
-    "points": 1954,
+    "points": 2075,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-107-vigor-potion.png",
-    "xws": "vigorpotion"
+    "xws": "vigorpotion",
+    "assetno": "1079"
   },
   {
     "name": "vigor potion",
-    "points": 1955,
+    "points": 2076,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-107-vigor-potion.png",
-    "xws": "vigorpotion"
+    "xws": "vigorpotion",
+    "assetno": "1079"
+  },
+  {
+    "name": "1079",
+    "points": 2077,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-107-vigor-potion.png",
+    "xws": "vigorpotion",
+    "assetno": "1079"
   },
   {
     "name": "vigor potion",
-    "points": 1956,
+    "points": 2078,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-107-vigor-potion-back.png",
-    "xws": "vigorpotion"
+    "xws": "vigorpotion",
+    "assetno": "####"
   },
   {
     "name": "item 108",
-    "points": 1957,
+    "points": 2079,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-108-holy-rain.png",
-    "xws": "holyrain"
+    "xws": "holyrain",
+    "assetno": "1081"
   },
   {
     "name": "item #108",
-    "points": 1958,
+    "points": 2080,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-108-holy-rain.png",
-    "xws": "holyrain"
+    "xws": "holyrain",
+    "assetno": "1081"
   },
   {
     "name": "holy rain",
-    "points": 1959,
+    "points": 2081,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-108-holy-rain.png",
-    "xws": "holyrain"
+    "xws": "holyrain",
+    "assetno": "1081"
+  },
+  {
+    "name": "1081",
+    "points": 2082,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-108-holy-rain.png",
+    "xws": "holyrain",
+    "assetno": "1081"
   },
   {
     "name": "holy rain",
-    "points": 1960,
+    "points": 2083,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-108-holy-rain-back.png",
-    "xws": "holyrain"
+    "xws": "holyrain",
+    "assetno": "####"
   },
   {
     "name": "item 109",
-    "points": 1961,
+    "points": 2084,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-109-major-renewing-potion.png",
-    "xws": "majorrenewingpotion"
+    "xws": "majorrenewingpotion",
+    "assetno": "1083"
   },
   {
     "name": "item #109",
-    "points": 1962,
+    "points": 2085,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-109-major-renewing-potion.png",
-    "xws": "majorrenewingpotion"
+    "xws": "majorrenewingpotion",
+    "assetno": "1083"
   },
   {
     "name": "major renewing potion",
-    "points": 1963,
+    "points": 2086,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-109-major-renewing-potion.png",
-    "xws": "majorrenewingpotion"
+    "xws": "majorrenewingpotion",
+    "assetno": "1083"
+  },
+  {
+    "name": "1083",
+    "points": 2087,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-109-major-renewing-potion.png",
+    "xws": "majorrenewingpotion",
+    "assetno": "1083"
   },
   {
     "name": "major renewing potion",
-    "points": 1964,
+    "points": 2088,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-109-major-renewing-potion-back.png",
-    "xws": "majorrenewingpotion"
+    "xws": "majorrenewingpotion",
+    "assetno": "####"
   },
   {
     "name": "item 110",
-    "points": 1965,
+    "points": 2089,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-110-precision-potion.png",
-    "xws": "precisionpotion"
+    "xws": "precisionpotion",
+    "assetno": "1085"
   },
   {
     "name": "item #110",
-    "points": 1966,
+    "points": 2090,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-110-precision-potion.png",
-    "xws": "precisionpotion"
+    "xws": "precisionpotion",
+    "assetno": "1085"
   },
   {
     "name": "precision potion",
-    "points": 1967,
+    "points": 2091,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-110-precision-potion.png",
-    "xws": "precisionpotion"
+    "xws": "precisionpotion",
+    "assetno": "1085"
+  },
+  {
+    "name": "1085",
+    "points": 2092,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-110-precision-potion.png",
+    "xws": "precisionpotion",
+    "assetno": "1085"
   },
   {
     "name": "precision potion",
-    "points": 1968,
+    "points": 2093,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-110-precision-potion-back.png",
-    "xws": "precisionpotion"
+    "xws": "precisionpotion",
+    "assetno": "####"
   },
   {
     "name": "item 111",
-    "points": 1969,
+    "points": 2094,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-111-major-frenzy-potion.png",
-    "xws": "majorfrenzypotion"
+    "xws": "majorfrenzypotion",
+    "assetno": "1087"
   },
   {
     "name": "item #111",
-    "points": 1970,
+    "points": 2095,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-111-major-frenzy-potion.png",
-    "xws": "majorfrenzypotion"
+    "xws": "majorfrenzypotion",
+    "assetno": "1087"
   },
   {
     "name": "major frenzy potion",
-    "points": 1971,
+    "points": 2096,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-111-major-frenzy-potion.png",
-    "xws": "majorfrenzypotion"
+    "xws": "majorfrenzypotion",
+    "assetno": "1087"
+  },
+  {
+    "name": "1087",
+    "points": 2097,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-111-major-frenzy-potion.png",
+    "xws": "majorfrenzypotion",
+    "assetno": "1087"
   },
   {
     "name": "major frenzy potion",
-    "points": 1972,
+    "points": 2098,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-111-major-frenzy-potion-back.png",
-    "xws": "majorfrenzypotion"
+    "xws": "majorfrenzypotion",
+    "assetno": "####"
   },
   {
     "name": "item 112",
-    "points": 1973,
+    "points": 2099,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-112-hammer-potion.png",
-    "xws": "hammerpotion"
+    "xws": "hammerpotion",
+    "assetno": "1089"
   },
   {
     "name": "item #112",
-    "points": 1974,
+    "points": 2100,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-112-hammer-potion.png",
-    "xws": "hammerpotion"
+    "xws": "hammerpotion",
+    "assetno": "1089"
   },
   {
     "name": "hammer potion",
-    "points": 1975,
+    "points": 2101,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-112-hammer-potion.png",
-    "xws": "hammerpotion"
+    "xws": "hammerpotion",
+    "assetno": "1089"
+  },
+  {
+    "name": "1089",
+    "points": 2102,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-112-hammer-potion.png",
+    "xws": "hammerpotion",
+    "assetno": "1089"
   },
   {
     "name": "hammer potion",
-    "points": 1976,
+    "points": 2103,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-112-hammer-potion-back.png",
-    "xws": "hammerpotion"
+    "xws": "hammerpotion",
+    "assetno": "####"
   },
   {
     "name": "item 113",
-    "points": 1977,
+    "points": 2104,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-113-expertise-potion.png",
-    "xws": "expertisepotion"
+    "xws": "expertisepotion",
+    "assetno": "1091"
   },
   {
     "name": "item #113",
-    "points": 1978,
+    "points": 2105,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-113-expertise-potion.png",
-    "xws": "expertisepotion"
+    "xws": "expertisepotion",
+    "assetno": "1091"
   },
   {
     "name": "expertise potion",
-    "points": 1979,
+    "points": 2106,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-113-expertise-potion.png",
-    "xws": "expertisepotion"
+    "xws": "expertisepotion",
+    "assetno": "1091"
+  },
+  {
+    "name": "1091",
+    "points": 2107,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-113-expertise-potion.png",
+    "xws": "expertisepotion",
+    "assetno": "1091"
   },
   {
     "name": "expertise potion",
-    "points": 1980,
+    "points": 2108,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-113-expertise-potion-back.png",
-    "xws": "expertisepotion"
+    "xws": "expertisepotion",
+    "assetno": "####"
   },
   {
     "name": "item 114",
-    "points": 1981,
+    "points": 2109,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-114-foresight-potion.png",
-    "xws": "foresightpotion"
+    "xws": "foresightpotion",
+    "assetno": "1093"
   },
   {
     "name": "item #114",
-    "points": 1982,
+    "points": 2110,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-114-foresight-potion.png",
-    "xws": "foresightpotion"
+    "xws": "foresightpotion",
+    "assetno": "1093"
   },
   {
     "name": "foresight potion",
-    "points": 1983,
+    "points": 2111,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-114-foresight-potion.png",
-    "xws": "foresightpotion"
+    "xws": "foresightpotion",
+    "assetno": "1093"
+  },
+  {
+    "name": "1093",
+    "points": 2112,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-114-foresight-potion.png",
+    "xws": "foresightpotion",
+    "assetno": "1093"
   },
   {
     "name": "foresight potion",
-    "points": 1984,
+    "points": 2113,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-114-foresight-potion-back.png",
-    "xws": "foresightpotion"
+    "xws": "foresightpotion",
+    "assetno": "####"
   },
   {
     "name": "item 115",
-    "points": 1985,
+    "points": 2114,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-115-infusion-potion.png",
-    "xws": "infusionpotion"
+    "xws": "infusionpotion",
+    "assetno": "1095"
   },
   {
     "name": "item #115",
-    "points": 1986,
+    "points": 2115,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-115-infusion-potion.png",
-    "xws": "infusionpotion"
+    "xws": "infusionpotion",
+    "assetno": "1095"
   },
   {
     "name": "infusion potion",
-    "points": 1987,
+    "points": 2116,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-115-infusion-potion.png",
-    "xws": "infusionpotion"
+    "xws": "infusionpotion",
+    "assetno": "1095"
+  },
+  {
+    "name": "1095",
+    "points": 2117,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-115-infusion-potion.png",
+    "xws": "infusionpotion",
+    "assetno": "1095"
   },
   {
     "name": "infusion potion",
-    "points": 1988,
+    "points": 2118,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-115-infusion-potion-back.png",
-    "xws": "infusionpotion"
+    "xws": "infusionpotion",
+    "assetno": "####"
   },
   {
     "name": "item 116",
-    "points": 1989,
+    "points": 2119,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-116-plague-flask.png",
-    "xws": "plagueflask"
+    "xws": "plagueflask",
+    "assetno": "1097"
   },
   {
     "name": "item #116",
-    "points": 1990,
+    "points": 2120,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-116-plague-flask.png",
-    "xws": "plagueflask"
+    "xws": "plagueflask",
+    "assetno": "1097"
   },
   {
     "name": "plague flask",
-    "points": 1991,
+    "points": 2121,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-116-plague-flask.png",
-    "xws": "plagueflask"
+    "xws": "plagueflask",
+    "assetno": "1097"
+  },
+  {
+    "name": "1097",
+    "points": 2122,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-116-plague-flask.png",
+    "xws": "plagueflask",
+    "assetno": "1097"
   },
   {
     "name": "plague flask",
-    "points": 1992,
+    "points": 2123,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-116-plague-flask-back.png",
-    "xws": "plagueflask"
+    "xws": "plagueflask",
+    "assetno": "####"
   },
   {
     "name": "item 117",
-    "points": 1993,
+    "points": 2124,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-117-inferno-flask.png",
-    "xws": "infernoflask"
+    "xws": "infernoflask",
+    "assetno": "1099"
   },
   {
     "name": "item #117",
-    "points": 1994,
+    "points": 2125,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-117-inferno-flask.png",
-    "xws": "infernoflask"
+    "xws": "infernoflask",
+    "assetno": "1099"
   },
   {
     "name": "inferno flask",
-    "points": 1995,
+    "points": 2126,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-117-inferno-flask.png",
-    "xws": "infernoflask"
+    "xws": "infernoflask",
+    "assetno": "1099"
+  },
+  {
+    "name": "1099",
+    "points": 2127,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-117-inferno-flask.png",
+    "xws": "infernoflask",
+    "assetno": "1099"
   },
   {
     "name": "inferno flask",
-    "points": 1996,
+    "points": 2128,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-117-inferno-flask-back.png",
-    "xws": "infernoflask"
+    "xws": "infernoflask",
+    "assetno": "####"
   },
   {
     "name": "item 118",
-    "points": 1997,
+    "points": 2129,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-118-fulminant-flask.png",
-    "xws": "fulminantflask"
+    "xws": "fulminantflask",
+    "assetno": "1101"
   },
   {
     "name": "item #118",
-    "points": 1998,
+    "points": 2130,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-118-fulminant-flask.png",
-    "xws": "fulminantflask"
+    "xws": "fulminantflask",
+    "assetno": "1101"
   },
   {
     "name": "fulminant flask",
-    "points": 1999,
+    "points": 2131,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-118-fulminant-flask.png",
-    "xws": "fulminantflask"
+    "xws": "fulminantflask",
+    "assetno": "1101"
+  },
+  {
+    "name": "1101",
+    "points": 2132,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-118-fulminant-flask.png",
+    "xws": "fulminantflask",
+    "assetno": "1101"
   },
   {
     "name": "fulminant flask",
-    "points": 2000,
+    "points": 2133,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-118-fulminant-flask-back.png",
-    "xws": "fulminantflask"
+    "xws": "fulminantflask",
+    "assetno": "####"
   },
   {
     "name": "item 119",
-    "points": 2001,
+    "points": 2134,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-119-deadly-mixture.png",
-    "xws": "deadlymixture"
+    "xws": "deadlymixture",
+    "assetno": "1103"
   },
   {
     "name": "item #119",
-    "points": 2002,
+    "points": 2135,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-119-deadly-mixture.png",
-    "xws": "deadlymixture"
+    "xws": "deadlymixture",
+    "assetno": "1103"
   },
   {
     "name": "deadly mixture",
-    "points": 2003,
+    "points": 2136,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-119-deadly-mixture.png",
-    "xws": "deadlymixture"
+    "xws": "deadlymixture",
+    "assetno": "1103"
+  },
+  {
+    "name": "1103",
+    "points": 2137,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/083-119/fh-119-deadly-mixture.png",
+    "xws": "deadlymixture",
+    "assetno": "1103"
   },
   {
     "name": "deadly mixture",
-    "points": 2004,
+    "points": 2138,
     "expansion": "frosthaven",
     "image": "items/frosthaven/083-119/fh-119-deadly-mixture-back.png",
-    "xws": "deadlymixture"
+    "xws": "deadlymixture",
+    "assetno": "####"
   },
   {
     "name": "item 120",
-    "points": 2005,
+    "points": 2139,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-120-amulet-of-life.png",
-    "xws": "amuletoflife"
+    "xws": "amuletoflife",
+    "assetno": "1105"
   },
   {
     "name": "item #120",
-    "points": 2006,
+    "points": 2140,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-120-amulet-of-life.png",
-    "xws": "amuletoflife"
+    "xws": "amuletoflife",
+    "assetno": "1105"
   },
   {
     "name": "amulet of life",
-    "points": 2007,
+    "points": 2141,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-120-amulet-of-life.png",
-    "xws": "amuletoflife"
+    "xws": "amuletoflife",
+    "assetno": "1105"
+  },
+  {
+    "name": "1105",
+    "points": 2142,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-120-amulet-of-life.png",
+    "xws": "amuletoflife",
+    "assetno": "1105"
   },
   {
     "name": "amulet of life",
-    "points": 2008,
+    "points": 2143,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-120-amulet-of-life-back.png",
-    "xws": "amuletoflife"
+    "xws": "amuletoflife",
+    "assetno": "####"
   },
   {
     "name": "item 121",
-    "points": 2009,
+    "points": 2144,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-121-circlet-of-elements.png",
-    "xws": "circletofelements"
+    "xws": "circletofelements",
+    "assetno": "1107"
   },
   {
     "name": "item #121",
-    "points": 2010,
+    "points": 2145,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-121-circlet-of-elements.png",
-    "xws": "circletofelements"
+    "xws": "circletofelements",
+    "assetno": "1107"
   },
   {
     "name": "circlet of elements",
-    "points": 2011,
+    "points": 2146,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-121-circlet-of-elements.png",
-    "xws": "circletofelements"
+    "xws": "circletofelements",
+    "assetno": "1107"
+  },
+  {
+    "name": "1107",
+    "points": 2147,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-121-circlet-of-elements.png",
+    "xws": "circletofelements",
+    "assetno": "1107"
   },
   {
     "name": "circlet of elements",
-    "points": 2012,
+    "points": 2148,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-121-circlet-of-elements-back.png",
-    "xws": "circletofelements"
+    "xws": "circletofelements",
+    "assetno": "####"
   },
   {
     "name": "item 122",
-    "points": 2013,
+    "points": 2149,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-122-wardens-robes.png",
-    "xws": "wardensrobes"
+    "xws": "wardensrobes",
+    "assetno": "1109"
   },
   {
     "name": "item #122",
-    "points": 2014,
+    "points": 2150,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-122-wardens-robes.png",
-    "xws": "wardensrobes"
+    "xws": "wardensrobes",
+    "assetno": "1109"
   },
   {
     "name": "warden's robes",
-    "points": 2015,
+    "points": 2151,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-122-wardens-robes.png",
-    "xws": "wardensrobes"
+    "xws": "wardensrobes",
+    "assetno": "1109"
+  },
+  {
+    "name": "1109",
+    "points": 2152,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-122-wardens-robes.png",
+    "xws": "wardensrobes",
+    "assetno": "1109"
   },
   {
     "name": "warden's robes",
-    "points": 2016,
+    "points": 2153,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-122-wardens-robes-back.png",
-    "xws": "wardensrobes"
+    "xws": "wardensrobes",
+    "assetno": "####"
   },
   {
     "name": "item 123",
-    "points": 2017,
+    "points": 2154,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-123-leather-armor.png",
-    "xws": "leatherarmor"
+    "xws": "leatherarmor",
+    "assetno": "1111"
   },
   {
     "name": "item #123",
-    "points": 2018,
+    "points": 2155,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-123-leather-armor.png",
-    "xws": "leatherarmor"
+    "xws": "leatherarmor",
+    "assetno": "1111"
   },
   {
     "name": "leather armor",
-    "points": 2019,
+    "points": 2156,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-123-leather-armor.png",
-    "xws": "leatherarmor"
+    "xws": "leatherarmor",
+    "assetno": "1111"
+  },
+  {
+    "name": "1111",
+    "points": 2157,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-123-leather-armor.png",
+    "xws": "leatherarmor",
+    "assetno": "1111"
   },
   {
     "name": "leather armor",
-    "points": 2020,
+    "points": 2158,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-123-leather-armor-back.png",
-    "xws": "leatherarmor"
+    "xws": "leatherarmor",
+    "assetno": "####"
   },
   {
     "name": "item 124",
-    "points": 2021,
+    "points": 2159,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-124-winged-shoes.png",
-    "xws": "wingedshoes"
+    "xws": "wingedshoes",
+    "assetno": "1113"
   },
   {
     "name": "item #124",
-    "points": 2022,
+    "points": 2160,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-124-winged-shoes.png",
-    "xws": "wingedshoes"
+    "xws": "wingedshoes",
+    "assetno": "1113"
   },
   {
     "name": "winged shoes",
-    "points": 2023,
+    "points": 2161,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-124-winged-shoes.png",
-    "xws": "wingedshoes"
+    "xws": "wingedshoes",
+    "assetno": "1113"
+  },
+  {
+    "name": "1113",
+    "points": 2162,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-124-winged-shoes.png",
+    "xws": "wingedshoes",
+    "assetno": "1113"
   },
   {
     "name": "winged shoes",
-    "points": 2024,
+    "points": 2163,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-124-winged-shoes-back.png",
-    "xws": "wingedshoes"
+    "xws": "wingedshoes",
+    "assetno": "####"
   },
   {
     "name": "item 125",
-    "points": 2025,
+    "points": 2164,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-125-boots-of-speed.png",
-    "xws": "bootsofspeed"
+    "xws": "bootsofspeed",
+    "assetno": "1115"
   },
   {
     "name": "item #125",
-    "points": 2026,
+    "points": 2165,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-125-boots-of-speed.png",
-    "xws": "bootsofspeed"
+    "xws": "bootsofspeed",
+    "assetno": "1115"
   },
   {
     "name": "boots of speed",
-    "points": 2027,
+    "points": 2166,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-125-boots-of-speed.png",
-    "xws": "bootsofspeed"
+    "xws": "bootsofspeed",
+    "assetno": "1115"
+  },
+  {
+    "name": "1115",
+    "points": 2167,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-125-boots-of-speed.png",
+    "xws": "bootsofspeed",
+    "assetno": "1115"
   },
   {
     "name": "boots of speed",
-    "points": 2028,
+    "points": 2168,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-125-boots-of-speed-back.png",
-    "xws": "bootsofspeed"
+    "xws": "bootsofspeed",
+    "assetno": "####"
   },
   {
     "name": "item 126",
-    "points": 2029,
+    "points": 2169,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-126-weighted-net.png",
-    "xws": "weightednet"
+    "xws": "weightednet",
+    "assetno": "1117"
   },
   {
     "name": "item #126",
-    "points": 2030,
+    "points": 2170,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-126-weighted-net.png",
-    "xws": "weightednet"
+    "xws": "weightednet",
+    "assetno": "1117"
   },
   {
     "name": "weighted net",
-    "points": 2031,
+    "points": 2171,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-126-weighted-net.png",
-    "xws": "weightednet"
+    "xws": "weightednet",
+    "assetno": "1117"
+  },
+  {
+    "name": "1117",
+    "points": 2172,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-126-weighted-net.png",
+    "xws": "weightednet",
+    "assetno": "1117"
   },
   {
     "name": "weighted net",
-    "points": 2032,
+    "points": 2173,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-126-weighted-net-back.png",
-    "xws": "weightednet"
+    "xws": "weightednet",
+    "assetno": "####"
   },
   {
     "name": "item 127",
-    "points": 2033,
+    "points": 2174,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-127-poison-dagger.png",
-    "xws": "poisondagger"
+    "xws": "poisondagger",
+    "assetno": "1119"
   },
   {
     "name": "item #127",
-    "points": 2034,
+    "points": 2175,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-127-poison-dagger.png",
-    "xws": "poisondagger"
+    "xws": "poisondagger",
+    "assetno": "1119"
   },
   {
     "name": "poison dagger",
-    "points": 2035,
+    "points": 2176,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-127-poison-dagger.png",
-    "xws": "poisondagger"
+    "xws": "poisondagger",
+    "assetno": "1119"
+  },
+  {
+    "name": "1119",
+    "points": 2177,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-127-poison-dagger.png",
+    "xws": "poisondagger",
+    "assetno": "1119"
   },
   {
     "name": "poison dagger",
-    "points": 2036,
+    "points": 2178,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-127-poison-dagger-back.png",
-    "xws": "poisondagger"
+    "xws": "poisondagger",
+    "assetno": "####"
   },
   {
     "name": "item 128",
-    "points": 2037,
+    "points": 2179,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-128-heater-shield.png",
-    "xws": "heatershield"
+    "xws": "heatershield",
+    "assetno": "1121"
   },
   {
     "name": "item #128",
-    "points": 2038,
+    "points": 2180,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-128-heater-shield.png",
-    "xws": "heatershield"
+    "xws": "heatershield",
+    "assetno": "1121"
   },
   {
     "name": "heater shield",
-    "points": 2039,
+    "points": 2181,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-128-heater-shield.png",
-    "xws": "heatershield"
+    "xws": "heatershield",
+    "assetno": "1121"
+  },
+  {
+    "name": "1121",
+    "points": 2182,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/120-128/fh-128-heater-shield.png",
+    "xws": "heatershield",
+    "assetno": "1121"
   },
   {
     "name": "heater shield",
-    "points": 2040,
+    "points": 2183,
     "expansion": "frosthaven",
     "image": "items/frosthaven/120-128/fh-128-heater-shield-back.png",
-    "xws": "heatershield"
+    "xws": "heatershield",
+    "assetno": "####"
   },
   {
     "name": "item 129",
-    "points": 2041,
+    "points": 2184,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-129-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/frosthaven/129-137/fh-129-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "1123"
   },
   {
     "name": "item #129",
-    "points": 2042,
+    "points": 2185,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-129-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/frosthaven/129-137/fh-129-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "1123"
   },
   {
     "name": "eagle-eye goggles",
-    "points": 2043,
+    "points": 2186,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-129-eagle-eye-goggles.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/frosthaven/129-137/fh-129-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "1123"
+  },
+  {
+    "name": "1123",
+    "points": 2187,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-129-eagle-eye-goggles.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "1123"
   },
   {
     "name": "eagle-eye goggles",
-    "points": 2044,
+    "points": 2188,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-129-eagle-eye-goggles-back.png",
-    "xws": "eagleeyegoggles"
+    "image": "items/frosthaven/129-137/fh-129-eagle-eye-goggles-back.png",
+    "xws": "eagleeyegoggles",
+    "assetno": "####"
   },
   {
     "name": "item 130",
-    "points": 2045,
+    "points": 2189,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-130-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/frosthaven/129-137/fh-130-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "1125"
   },
   {
     "name": "item #130",
-    "points": 2046,
+    "points": 2190,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-130-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/frosthaven/129-137/fh-130-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "1125"
   },
   {
     "name": "iron helmet",
-    "points": 2047,
+    "points": 2191,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-130-iron-helmet.png",
-    "xws": "ironhelmet"
+    "image": "items/frosthaven/129-137/fh-130-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "1125"
+  },
+  {
+    "name": "1125",
+    "points": 2192,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-130-iron-helmet.png",
+    "xws": "ironhelmet",
+    "assetno": "1125"
   },
   {
     "name": "iron helmet",
-    "points": 2048,
+    "points": 2193,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-130-iron-helmet-back.png",
-    "xws": "ironhelmet"
+    "image": "items/frosthaven/129-137/fh-130-iron-helmet-back.png",
+    "xws": "ironhelmet",
+    "assetno": "####"
   },
   {
     "name": "item 131",
-    "points": 2049,
+    "points": 2194,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-131-chainmail.png",
-    "xws": "chainmail"
+    "image": "items/frosthaven/129-137/fh-131-chainmail.png",
+    "xws": "chainmail",
+    "assetno": "1127"
   },
   {
     "name": "item #131",
-    "points": 2050,
+    "points": 2195,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-131-chainmail.png",
-    "xws": "chainmail"
+    "image": "items/frosthaven/129-137/fh-131-chainmail.png",
+    "xws": "chainmail",
+    "assetno": "1127"
   },
   {
     "name": "chainmail",
-    "points": 2051,
+    "points": 2196,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-131-chainmail.png",
-    "xws": "chainmail"
+    "image": "items/frosthaven/129-137/fh-131-chainmail.png",
+    "xws": "chainmail",
+    "assetno": "1127"
+  },
+  {
+    "name": "1127",
+    "points": 2197,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-131-chainmail.png",
+    "xws": "chainmail",
+    "assetno": "1127"
   },
   {
     "name": "chainmail",
-    "points": 2052,
+    "points": 2198,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-131-chainmail-back.png",
-    "xws": "chainmail"
+    "image": "items/frosthaven/129-137/fh-131-chainmail-back.png",
+    "xws": "chainmail",
+    "assetno": "####"
   },
   {
     "name": "item 132",
-    "points": 2053,
+    "points": 2199,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-132-cloak-of-pockets.png",
-    "xws": "cloakofpockets"
+    "image": "items/frosthaven/129-137/fh-132-cloak-of-pockets.png",
+    "xws": "cloakofpockets",
+    "assetno": "1129"
   },
   {
     "name": "item #132",
-    "points": 2054,
+    "points": 2200,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-132-cloak-of-pockets.png",
-    "xws": "cloakofpockets"
+    "image": "items/frosthaven/129-137/fh-132-cloak-of-pockets.png",
+    "xws": "cloakofpockets",
+    "assetno": "1129"
   },
   {
     "name": "cloak of pockets",
-    "points": 2055,
+    "points": 2201,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-132-cloak-of-pockets.png",
-    "xws": "cloakofpockets"
+    "image": "items/frosthaven/129-137/fh-132-cloak-of-pockets.png",
+    "xws": "cloakofpockets",
+    "assetno": "1129"
+  },
+  {
+    "name": "1129",
+    "points": 2202,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-132-cloak-of-pockets.png",
+    "xws": "cloakofpockets",
+    "assetno": "1129"
   },
   {
     "name": "cloak of pockets",
-    "points": 2056,
+    "points": 2203,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-132-cloak-of-pockets-back.png",
-    "xws": "cloakofpockets"
+    "image": "items/frosthaven/129-137/fh-132-cloak-of-pockets-back.png",
+    "xws": "cloakofpockets",
+    "assetno": "####"
   },
   {
     "name": "item 133",
-    "points": 2057,
+    "points": 2204,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-133-nimble-legguards.png",
-    "xws": "nimblelegguards"
+    "image": "items/frosthaven/129-137/fh-133-nimble-legguards.png",
+    "xws": "nimblelegguards",
+    "assetno": "1131"
   },
   {
     "name": "item #133",
-    "points": 2058,
+    "points": 2205,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-133-nimble-legguards.png",
-    "xws": "nimblelegguards"
+    "image": "items/frosthaven/129-137/fh-133-nimble-legguards.png",
+    "xws": "nimblelegguards",
+    "assetno": "1131"
   },
   {
     "name": "nimble legguards",
-    "points": 2059,
+    "points": 2206,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-133-nimble-legguards.png",
-    "xws": "nimblelegguards"
+    "image": "items/frosthaven/129-137/fh-133-nimble-legguards.png",
+    "xws": "nimblelegguards",
+    "assetno": "1131"
+  },
+  {
+    "name": "1131",
+    "points": 2207,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-133-nimble-legguards.png",
+    "xws": "nimblelegguards",
+    "assetno": "1131"
   },
   {
     "name": "nimble legguards",
-    "points": 2060,
+    "points": 2208,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-133-nimble-legguards-back.png",
-    "xws": "nimblelegguards"
+    "image": "items/frosthaven/129-137/fh-133-nimble-legguards-back.png",
+    "xws": "nimblelegguards",
+    "assetno": "####"
   },
   {
     "name": "item 134",
-    "points": 2061,
+    "points": 2209,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-134-comfortable-shoes.png",
-    "xws": "comfortableshoes"
+    "image": "items/frosthaven/129-137/fh-134-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "1133"
   },
   {
     "name": "item #134",
-    "points": 2062,
+    "points": 2210,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-134-comfortable-shoes.png",
-    "xws": "comfortableshoes"
+    "image": "items/frosthaven/129-137/fh-134-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "1133"
   },
   {
     "name": "comfortable shoes",
-    "points": 2063,
+    "points": 2211,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-134-comfortable-shoes.png",
-    "xws": "comfortableshoes"
+    "image": "items/frosthaven/129-137/fh-134-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "1133"
+  },
+  {
+    "name": "1133",
+    "points": 2212,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-134-comfortable-shoes.png",
+    "xws": "comfortableshoes",
+    "assetno": "1133"
   },
   {
     "name": "comfortable shoes",
-    "points": 2064,
+    "points": 2213,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-134-comfortable-shoes-back.png",
-    "xws": "comfortableshoes"
+    "image": "items/frosthaven/129-137/fh-134-comfortable-shoes-back.png",
+    "xws": "comfortableshoes",
+    "assetno": "####"
   },
   {
     "name": "item 135",
-    "points": 2065,
+    "points": 2214,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-135-armorbane-bow.png",
-    "xws": "armorbanebow"
+    "image": "items/frosthaven/129-137/fh-135-armorbane-bow.png",
+    "xws": "armorbanebow",
+    "assetno": "1135"
   },
   {
     "name": "item #135",
-    "points": 2066,
+    "points": 2215,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-135-armorbane-bow.png",
-    "xws": "armorbanebow"
+    "image": "items/frosthaven/129-137/fh-135-armorbane-bow.png",
+    "xws": "armorbanebow",
+    "assetno": "1135"
   },
   {
     "name": "armorbane bow",
-    "points": 2067,
+    "points": 2216,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-135-armorbane-bow.png",
-    "xws": "armorbanebow"
+    "image": "items/frosthaven/129-137/fh-135-armorbane-bow.png",
+    "xws": "armorbanebow",
+    "assetno": "1135"
+  },
+  {
+    "name": "1135",
+    "points": 2217,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-135-armorbane-bow.png",
+    "xws": "armorbanebow",
+    "assetno": "1135"
   },
   {
     "name": "armorbane bow",
-    "points": 2068,
+    "points": 2218,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-135-armorbane-bow-back.png",
-    "xws": "armorbanebow"
+    "image": "items/frosthaven/129-137/fh-135-armorbane-bow-back.png",
+    "xws": "armorbanebow",
+    "assetno": "####"
   },
   {
     "name": "item 136",
-    "points": 2069,
+    "points": 2219,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-136-battle-axe.png",
-    "xws": "battleaxe"
+    "image": "items/frosthaven/129-137/fh-136-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "1137"
   },
   {
     "name": "item #136",
-    "points": 2070,
+    "points": 2220,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-136-battle-axe.png",
-    "xws": "battleaxe"
+    "image": "items/frosthaven/129-137/fh-136-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "1137"
   },
   {
     "name": "battle axe",
-    "points": 2071,
+    "points": 2221,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-136-battle-axe.png",
-    "xws": "battleaxe"
+    "image": "items/frosthaven/129-137/fh-136-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "1137"
+  },
+  {
+    "name": "1137",
+    "points": 2222,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-136-battle-axe.png",
+    "xws": "battleaxe",
+    "assetno": "1137"
   },
   {
     "name": "battle axe",
-    "points": 2072,
+    "points": 2223,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-136-battle-axe-back.png",
-    "xws": "battleaxe"
+    "image": "items/frosthaven/129-137/fh-136-battle-axe-back.png",
+    "xws": "battleaxe",
+    "assetno": "####"
   },
   {
     "name": "item 137",
-    "points": 2073,
+    "points": 2224,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-137-tower-shield.png",
-    "xws": "towershield"
+    "image": "items/frosthaven/129-137/fh-137-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "1139"
   },
   {
     "name": "item #137",
-    "points": 2074,
+    "points": 2225,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-137-tower-shield.png",
-    "xws": "towershield"
+    "image": "items/frosthaven/129-137/fh-137-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "1139"
   },
   {
     "name": "tower shield",
-    "points": 2075,
+    "points": 2226,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-137-tower-shield.png",
-    "xws": "towershield"
+    "image": "items/frosthaven/129-137/fh-137-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "1139"
+  },
+  {
+    "name": "1139",
+    "points": 2227,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/129-137/fh-137-tower-shield.png",
+    "xws": "towershield",
+    "assetno": "1139"
   },
   {
     "name": "tower shield",
-    "points": 2076,
+    "points": 2228,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-137-tower-shield-back.png",
-    "xws": "towershield"
+    "image": "items/frosthaven/129-137/fh-137-tower-shield-back.png",
+    "xws": "towershield",
+    "assetno": "####"
   },
   {
     "name": "item 138",
-    "points": 2077,
+    "points": 2229,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-138-heavy-basinet.png",
-    "xws": "heavybasinet"
+    "image": "items/frosthaven/138-146/fh-138-heavy-basinet.png",
+    "xws": "heavybasinet",
+    "assetno": "1141"
   },
   {
     "name": "item #138",
-    "points": 2078,
+    "points": 2230,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-138-heavy-basinet.png",
-    "xws": "heavybasinet"
+    "image": "items/frosthaven/138-146/fh-138-heavy-basinet.png",
+    "xws": "heavybasinet",
+    "assetno": "1141"
   },
   {
     "name": "heavy basinet",
-    "points": 2079,
+    "points": 2231,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-138-heavy-basinet.png",
-    "xws": "heavybasinet"
+    "image": "items/frosthaven/138-146/fh-138-heavy-basinet.png",
+    "xws": "heavybasinet",
+    "assetno": "1141"
+  },
+  {
+    "name": "1141",
+    "points": 2232,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-138-heavy-basinet.png",
+    "xws": "heavybasinet",
+    "assetno": "1141"
   },
   {
     "name": "heavy basinet",
-    "points": 2080,
+    "points": 2233,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-138-heavy-basinet-back.png",
-    "xws": "heavybasinet"
+    "image": "items/frosthaven/138-146/fh-138-heavy-basinet-back.png",
+    "xws": "heavybasinet",
+    "assetno": "####"
   },
   {
     "name": "item 139",
-    "points": 2081,
+    "points": 2234,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-139-horned-helm.png",
-    "xws": "hornedhelm"
+    "image": "items/frosthaven/138-146/fh-139-horned-helm.png",
+    "xws": "hornedhelm",
+    "assetno": "1143"
   },
   {
     "name": "item #139",
-    "points": 2082,
+    "points": 2235,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-139-horned-helm.png",
-    "xws": "hornedhelm"
+    "image": "items/frosthaven/138-146/fh-139-horned-helm.png",
+    "xws": "hornedhelm",
+    "assetno": "1143"
   },
   {
     "name": "horned helm",
-    "points": 2083,
+    "points": 2236,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-139-horned-helm.png",
-    "xws": "hornedhelm"
+    "image": "items/frosthaven/138-146/fh-139-horned-helm.png",
+    "xws": "hornedhelm",
+    "assetno": "1143"
+  },
+  {
+    "name": "1143",
+    "points": 2237,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-139-horned-helm.png",
+    "xws": "hornedhelm",
+    "assetno": "1143"
   },
   {
     "name": "horned helm",
-    "points": 2084,
+    "points": 2238,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-139-horned-helm-back.png",
-    "xws": "hornedhelm"
+    "image": "items/frosthaven/138-146/fh-139-horned-helm-back.png",
+    "xws": "hornedhelm",
+    "assetno": "####"
   },
   {
     "name": "item 140",
-    "points": 2085,
+    "points": 2239,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-140-mantle-of-summoning.png",
-    "xws": "mantleofsummoning"
+    "image": "items/frosthaven/138-146/fh-140-mantle-of-summoning.png",
+    "xws": "mantleofsummoning",
+    "assetno": "1145"
   },
   {
     "name": "item #140",
-    "points": 2086,
+    "points": 2240,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-140-mantle-of-summoning.png",
-    "xws": "mantleofsummoning"
+    "image": "items/frosthaven/138-146/fh-140-mantle-of-summoning.png",
+    "xws": "mantleofsummoning",
+    "assetno": "1145"
   },
   {
     "name": "mantle of summoning",
-    "points": 2087,
+    "points": 2241,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-140-mantle-of-summoning.png",
-    "xws": "mantleofsummoning"
+    "image": "items/frosthaven/138-146/fh-140-mantle-of-summoning.png",
+    "xws": "mantleofsummoning",
+    "assetno": "1145"
+  },
+  {
+    "name": "1145",
+    "points": 2242,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-140-mantle-of-summoning.png",
+    "xws": "mantleofsummoning",
+    "assetno": "1145"
   },
   {
     "name": "mantle of summoning",
-    "points": 2088,
+    "points": 2243,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-140-mantle-of-summoning-back.png",
-    "xws": "mantleofsummoning"
+    "image": "items/frosthaven/138-146/fh-140-mantle-of-summoning-back.png",
+    "xws": "mantleofsummoning",
+    "assetno": "####"
   },
   {
     "name": "item 141",
-    "points": 2089,
+    "points": 2244,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-141-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/frosthaven/138-146/fh-141-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "1147"
   },
   {
     "name": "item #141",
-    "points": 2090,
+    "points": 2245,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-141-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/frosthaven/138-146/fh-141-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "1147"
   },
   {
     "name": "studded leather",
-    "points": 2091,
+    "points": 2246,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-141-studded-leather.png",
-    "xws": "studdedleather"
+    "image": "items/frosthaven/138-146/fh-141-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "1147"
+  },
+  {
+    "name": "1147",
+    "points": 2247,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-141-studded-leather.png",
+    "xws": "studdedleather",
+    "assetno": "1147"
   },
   {
     "name": "studded leather",
-    "points": 2092,
+    "points": 2248,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-141-studded-leather-back.png",
-    "xws": "studdedleather"
+    "image": "items/frosthaven/138-146/fh-141-studded-leather-back.png",
+    "xws": "studdedleather",
+    "assetno": "####"
   },
   {
     "name": "item 142",
-    "points": 2093,
+    "points": 2249,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-142-boots-of-quickness.png",
-    "xws": "bootsofquickness"
+    "image": "items/frosthaven/138-146/fh-142-boots-of-quickness.png",
+    "xws": "bootsofquickness",
+    "assetno": "1149"
   },
   {
     "name": "item #142",
-    "points": 2094,
+    "points": 2250,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-142-boots-of-quickness.png",
-    "xws": "bootsofquickness"
+    "image": "items/frosthaven/138-146/fh-142-boots-of-quickness.png",
+    "xws": "bootsofquickness",
+    "assetno": "1149"
   },
   {
     "name": "boots of quickness",
-    "points": 2095,
+    "points": 2251,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-142-boots-of-quickness.png",
-    "xws": "bootsofquickness"
+    "image": "items/frosthaven/138-146/fh-142-boots-of-quickness.png",
+    "xws": "bootsofquickness",
+    "assetno": "1149"
+  },
+  {
+    "name": "1149",
+    "points": 2252,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-142-boots-of-quickness.png",
+    "xws": "bootsofquickness",
+    "assetno": "1149"
   },
   {
     "name": "boots of quickness",
-    "points": 2096,
+    "points": 2253,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-142-boots-of-quickness-back.png",
-    "xws": "bootsofquickness"
+    "image": "items/frosthaven/138-146/fh-142-boots-of-quickness-back.png",
+    "xws": "bootsofquickness",
+    "assetno": "####"
   },
   {
     "name": "item 143",
-    "points": 2097,
+    "points": 2254,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-143-endurance-footwraps.png",
-    "xws": "endurancefootwraps"
+    "image": "items/frosthaven/138-146/fh-143-endurance-footwraps.png",
+    "xws": "endurancefootwraps",
+    "assetno": "1151"
   },
   {
     "name": "item #143",
-    "points": 2098,
+    "points": 2255,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-143-endurance-footwraps.png",
-    "xws": "endurancefootwraps"
+    "image": "items/frosthaven/138-146/fh-143-endurance-footwraps.png",
+    "xws": "endurancefootwraps",
+    "assetno": "1151"
   },
   {
     "name": "endurance footwraps",
-    "points": 2099,
+    "points": 2256,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-143-endurance-footwraps.png",
-    "xws": "endurancefootwraps"
+    "image": "items/frosthaven/138-146/fh-143-endurance-footwraps.png",
+    "xws": "endurancefootwraps",
+    "assetno": "1151"
+  },
+  {
+    "name": "1151",
+    "points": 2257,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-143-endurance-footwraps.png",
+    "xws": "endurancefootwraps",
+    "assetno": "1151"
   },
   {
     "name": "endurance footwraps",
-    "points": 2100,
+    "points": 2258,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-143-endurance-footwraps-back.png",
-    "xws": "endurancefootwraps"
+    "image": "items/frosthaven/138-146/fh-143-endurance-footwraps-back.png",
+    "xws": "endurancefootwraps",
+    "assetno": "####"
   },
   {
     "name": "item 144",
-    "points": 2101,
+    "points": 2259,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-144-staff-of-eminence.png",
-    "xws": "staffofeminence"
+    "image": "items/frosthaven/138-146/fh-144-staff-of-eminence.png",
+    "xws": "staffofeminence",
+    "assetno": "1153"
   },
   {
     "name": "item #144",
-    "points": 2102,
+    "points": 2260,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-144-staff-of-eminence.png",
-    "xws": "staffofeminence"
+    "image": "items/frosthaven/138-146/fh-144-staff-of-eminence.png",
+    "xws": "staffofeminence",
+    "assetno": "1153"
   },
   {
     "name": "staff of eminence",
-    "points": 2103,
+    "points": 2261,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-144-staff-of-eminence.png",
-    "xws": "staffofeminence"
+    "image": "items/frosthaven/138-146/fh-144-staff-of-eminence.png",
+    "xws": "staffofeminence",
+    "assetno": "1153"
+  },
+  {
+    "name": "1153",
+    "points": 2262,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-144-staff-of-eminence.png",
+    "xws": "staffofeminence",
+    "assetno": "1153"
   },
   {
     "name": "staff of eminence",
-    "points": 2104,
+    "points": 2263,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-144-staff-of-eminence-back.png",
-    "xws": "staffofeminence"
+    "image": "items/frosthaven/138-146/fh-144-staff-of-eminence-back.png",
+    "xws": "staffofeminence",
+    "assetno": "####"
   },
   {
     "name": "item 145",
-    "points": 2105,
+    "points": 2264,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-145-versatile-dagger.png",
-    "xws": "versatiledagger"
+    "image": "items/frosthaven/138-146/fh-145-versatile-dagger.png",
+    "xws": "versatiledagger",
+    "assetno": "1155"
   },
   {
     "name": "item #145",
-    "points": 2106,
+    "points": 2265,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-145-versatile-dagger.png",
-    "xws": "versatiledagger"
+    "image": "items/frosthaven/138-146/fh-145-versatile-dagger.png",
+    "xws": "versatiledagger",
+    "assetno": "1155"
   },
   {
     "name": "versatile dagger",
-    "points": 2107,
+    "points": 2266,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-145-versatile-dagger.png",
-    "xws": "versatiledagger"
+    "image": "items/frosthaven/138-146/fh-145-versatile-dagger.png",
+    "xws": "versatiledagger",
+    "assetno": "1155"
+  },
+  {
+    "name": "1155",
+    "points": 2267,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-145-versatile-dagger.png",
+    "xws": "versatiledagger",
+    "assetno": "1155"
   },
   {
     "name": "versatile dagger",
-    "points": 2108,
+    "points": 2268,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-145-versatile-dagger-back.png",
-    "xws": "versatiledagger"
+    "image": "items/frosthaven/138-146/fh-145-versatile-dagger-back.png",
+    "xws": "versatiledagger",
+    "assetno": "####"
   },
   {
     "name": "item 146",
-    "points": 2109,
+    "points": 2269,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-146-hooked-chain.png",
-    "xws": "hookedchain"
+    "image": "items/frosthaven/138-146/fh-146-hooked-chain.png",
+    "xws": "hookedchain",
+    "assetno": "1157"
   },
   {
     "name": "item #146",
-    "points": 2110,
+    "points": 2270,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-146-hooked-chain.png",
-    "xws": "hookedchain"
+    "image": "items/frosthaven/138-146/fh-146-hooked-chain.png",
+    "xws": "hookedchain",
+    "assetno": "1157"
   },
   {
     "name": "hooked chain",
-    "points": 2111,
+    "points": 2271,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-146-hooked-chain.png",
-    "xws": "hookedchain"
+    "image": "items/frosthaven/138-146/fh-146-hooked-chain.png",
+    "xws": "hookedchain",
+    "assetno": "1157"
+  },
+  {
+    "name": "1157",
+    "points": 2272,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/138-146/fh-146-hooked-chain.png",
+    "xws": "hookedchain",
+    "assetno": "1157"
   },
   {
     "name": "hooked chain",
-    "points": 2112,
+    "points": 2273,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-146-hooked-chain-back.png",
-    "xws": "hookedchain"
+    "image": "items/frosthaven/138-146/fh-146-hooked-chain-back.png",
+    "xws": "hookedchain",
+    "assetno": "####"
   },
   {
     "name": "item 147",
-    "points": 2113,
+    "points": 2274,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-147-mask-of-terror.png",
-    "xws": "maskofterror"
+    "image": "items/frosthaven/147-155/fh-147-mask-of-terror.png",
+    "xws": "maskofterror",
+    "assetno": "1159"
   },
   {
     "name": "item #147",
-    "points": 2114,
+    "points": 2275,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-147-mask-of-terror.png",
-    "xws": "maskofterror"
+    "image": "items/frosthaven/147-155/fh-147-mask-of-terror.png",
+    "xws": "maskofterror",
+    "assetno": "1159"
   },
   {
     "name": "mask of terror",
-    "points": 2115,
+    "points": 2276,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-147-mask-of-terror.png",
-    "xws": "maskofterror"
+    "image": "items/frosthaven/147-155/fh-147-mask-of-terror.png",
+    "xws": "maskofterror",
+    "assetno": "1159"
+  },
+  {
+    "name": "1159",
+    "points": 2277,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-147-mask-of-terror.png",
+    "xws": "maskofterror",
+    "assetno": "1159"
   },
   {
     "name": "mask of terror",
-    "points": 2116,
+    "points": 2278,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-147-mask-of-terror-back.png",
-    "xws": "maskofterror"
+    "image": "items/frosthaven/147-155/fh-147-mask-of-terror-back.png",
+    "xws": "maskofterror",
+    "assetno": "####"
   },
   {
     "name": "item 148",
-    "points": 2117,
+    "points": 2279,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-148-circlet-of-sanctity.png",
-    "xws": "circletofsanctity"
+    "image": "items/frosthaven/147-155/fh-148-circlet-of-sanctity.png",
+    "xws": "circletofsanctity",
+    "assetno": "1161"
   },
   {
     "name": "item #148",
-    "points": 2118,
+    "points": 2280,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-148-circlet-of-sanctity.png",
-    "xws": "circletofsanctity"
+    "image": "items/frosthaven/147-155/fh-148-circlet-of-sanctity.png",
+    "xws": "circletofsanctity",
+    "assetno": "1161"
   },
   {
     "name": "circlet of sanctity",
-    "points": 2119,
+    "points": 2281,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-148-circlet-of-sanctity.png",
-    "xws": "circletofsanctity"
+    "image": "items/frosthaven/147-155/fh-148-circlet-of-sanctity.png",
+    "xws": "circletofsanctity",
+    "assetno": "1161"
+  },
+  {
+    "name": "1161",
+    "points": 2282,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-148-circlet-of-sanctity.png",
+    "xws": "circletofsanctity",
+    "assetno": "1161"
   },
   {
     "name": "circlet of sanctity",
-    "points": 2120,
+    "points": 2283,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-148-circlet-of-sanctity-back.png",
-    "xws": "circletofsanctity"
+    "image": "items/frosthaven/147-155/fh-148-circlet-of-sanctity-back.png",
+    "xws": "circletofsanctity",
+    "assetno": "####"
   },
   {
     "name": "item 149",
-    "points": 2121,
+    "points": 2284,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-149-platemail.png",
-    "xws": "platemail"
+    "image": "items/frosthaven/147-155/fh-149-platemail.png",
+    "xws": "platemail",
+    "assetno": "1163"
   },
   {
     "name": "item #149",
-    "points": 2122,
+    "points": 2285,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-149-platemail.png",
-    "xws": "platemail"
+    "image": "items/frosthaven/147-155/fh-149-platemail.png",
+    "xws": "platemail",
+    "assetno": "1163"
   },
   {
     "name": "platemail",
-    "points": 2123,
+    "points": 2286,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-149-platemail.png",
-    "xws": "platemail"
+    "image": "items/frosthaven/147-155/fh-149-platemail.png",
+    "xws": "platemail",
+    "assetno": "1163"
+  },
+  {
+    "name": "1163",
+    "points": 2287,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-149-platemail.png",
+    "xws": "platemail",
+    "assetno": "1163"
   },
   {
     "name": "platemail",
-    "points": 2124,
+    "points": 2288,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-149-platemail-back.png",
-    "xws": "platemail"
+    "image": "items/frosthaven/147-155/fh-149-platemail-back.png",
+    "xws": "platemail",
+    "assetno": "####"
   },
   {
     "name": "item 150",
-    "points": 2125,
+    "points": 2289,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-150-robes-of-the-oak.png",
-    "xws": "robesoftheoak"
+    "image": "items/frosthaven/147-155/fh-150-robes-of-the-oak.png",
+    "xws": "robesoftheoak",
+    "assetno": "1165"
   },
   {
     "name": "item #150",
-    "points": 2126,
+    "points": 2290,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-150-robes-of-the-oak.png",
-    "xws": "robesoftheoak"
+    "image": "items/frosthaven/147-155/fh-150-robes-of-the-oak.png",
+    "xws": "robesoftheoak",
+    "assetno": "1165"
   },
   {
     "name": "robes of the oak",
-    "points": 2127,
+    "points": 2291,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-150-robes-of-the-oak.png",
-    "xws": "robesoftheoak"
+    "image": "items/frosthaven/147-155/fh-150-robes-of-the-oak.png",
+    "xws": "robesoftheoak",
+    "assetno": "1165"
+  },
+  {
+    "name": "1165",
+    "points": 2292,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-150-robes-of-the-oak.png",
+    "xws": "robesoftheoak",
+    "assetno": "1165"
   },
   {
     "name": "robes of the oak",
-    "points": 2128,
+    "points": 2293,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-150-robes-of-the-oak-back.png",
-    "xws": "robesoftheoak"
+    "image": "items/frosthaven/147-155/fh-150-robes-of-the-oak-back.png",
+    "xws": "robesoftheoak",
+    "assetno": "####"
   },
   {
     "name": "item 151",
-    "points": 2129,
+    "points": 2294,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-151-serene-sandals.png",
-    "xws": "serenesandals"
+    "image": "items/frosthaven/147-155/fh-151-serene-sandals.png",
+    "xws": "serenesandals",
+    "assetno": "1167"
   },
   {
     "name": "item #151",
-    "points": 2130,
+    "points": 2295,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-151-serene-sandals.png",
-    "xws": "serenesandals"
+    "image": "items/frosthaven/147-155/fh-151-serene-sandals.png",
+    "xws": "serenesandals",
+    "assetno": "1167"
   },
   {
     "name": "serene sandals",
-    "points": 2131,
+    "points": 2296,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-151-serene-sandals.png",
-    "xws": "serenesandals"
+    "image": "items/frosthaven/147-155/fh-151-serene-sandals.png",
+    "xws": "serenesandals",
+    "assetno": "1167"
+  },
+  {
+    "name": "1167",
+    "points": 2297,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-151-serene-sandals.png",
+    "xws": "serenesandals",
+    "assetno": "1167"
   },
   {
     "name": "serene sandals",
-    "points": 2132,
+    "points": 2298,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-151-serene-sandals-back.png",
-    "xws": "serenesandals"
+    "image": "items/frosthaven/147-155/fh-151-serene-sandals-back.png",
+    "xws": "serenesandals",
+    "assetno": "####"
   },
   {
     "name": "item 152",
-    "points": 2133,
+    "points": 2299,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-152-steel-sabatons.png",
-    "xws": "steelsabatons"
+    "image": "items/frosthaven/147-155/fh-152-steel-sabatons.png",
+    "xws": "steelsabatons",
+    "assetno": "1169"
   },
   {
     "name": "item #152",
-    "points": 2134,
+    "points": 2300,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-152-steel-sabatons.png",
-    "xws": "steelsabatons"
+    "image": "items/frosthaven/147-155/fh-152-steel-sabatons.png",
+    "xws": "steelsabatons",
+    "assetno": "1169"
   },
   {
     "name": "steel sabatons",
-    "points": 2135,
+    "points": 2301,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-152-steel-sabatons.png",
-    "xws": "steelsabatons"
+    "image": "items/frosthaven/147-155/fh-152-steel-sabatons.png",
+    "xws": "steelsabatons",
+    "assetno": "1169"
+  },
+  {
+    "name": "1169",
+    "points": 2302,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-152-steel-sabatons.png",
+    "xws": "steelsabatons",
+    "assetno": "1169"
   },
   {
     "name": "steel sabatons",
-    "points": 2136,
+    "points": 2303,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-152-steel-sabatons-back.png",
-    "xws": "steelsabatons"
+    "image": "items/frosthaven/147-155/fh-152-steel-sabatons-back.png",
+    "xws": "steelsabatons",
+    "assetno": "####"
   },
   {
     "name": "item 153",
-    "points": 2137,
+    "points": 2304,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-153-long-spear.png",
-    "xws": "longspear"
+    "image": "items/frosthaven/147-155/fh-153-long-spear.png",
+    "xws": "longspear",
+    "assetno": "1171"
   },
   {
     "name": "item #153",
-    "points": 2138,
+    "points": 2305,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-153-long-spear.png",
-    "xws": "longspear"
+    "image": "items/frosthaven/147-155/fh-153-long-spear.png",
+    "xws": "longspear",
+    "assetno": "1171"
   },
   {
     "name": "long spear",
-    "points": 2139,
+    "points": 2306,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-153-long-spear.png",
-    "xws": "longspear"
+    "image": "items/frosthaven/147-155/fh-153-long-spear.png",
+    "xws": "longspear",
+    "assetno": "1171"
+  },
+  {
+    "name": "1171",
+    "points": 2307,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-153-long-spear.png",
+    "xws": "longspear",
+    "assetno": "1171"
   },
   {
     "name": "long spear",
-    "points": 2140,
+    "points": 2308,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-153-long-spear-back.png",
-    "xws": "longspear"
+    "image": "items/frosthaven/147-155/fh-153-long-spear-back.png",
+    "xws": "longspear",
+    "assetno": "####"
   },
   {
     "name": "item 154",
-    "points": 2141,
+    "points": 2309,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-154-volatile-bomb.png",
-    "xws": "volatilebomb"
+    "image": "items/frosthaven/147-155/fh-154-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "1173"
   },
   {
     "name": "item #154",
-    "points": 2142,
+    "points": 2310,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-154-volatile-bomb.png",
-    "xws": "volatilebomb"
+    "image": "items/frosthaven/147-155/fh-154-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "1173"
   },
   {
     "name": "volatile bomb",
-    "points": 2143,
+    "points": 2311,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-154-volatile-bomb.png",
-    "xws": "volatilebomb"
+    "image": "items/frosthaven/147-155/fh-154-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "1173"
+  },
+  {
+    "name": "1173",
+    "points": 2312,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-154-volatile-bomb.png",
+    "xws": "volatilebomb",
+    "assetno": "1173"
   },
   {
     "name": "volatile bomb",
-    "points": 2144,
+    "points": 2313,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-154-volatile-bomb-back.png",
-    "xws": "volatilebomb"
+    "image": "items/frosthaven/147-155/fh-154-volatile-bomb-back.png",
+    "xws": "volatilebomb",
+    "assetno": "####"
   },
   {
     "name": "item 155",
-    "points": 2145,
+    "points": 2314,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-155-wall-shield.png",
-    "xws": "wallshield"
+    "image": "items/frosthaven/147-155/fh-155-wall-shield.png",
+    "xws": "wallshield",
+    "assetno": "1175"
   },
   {
     "name": "item #155",
-    "points": 2146,
+    "points": 2315,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-155-wall-shield.png",
-    "xws": "wallshield"
+    "image": "items/frosthaven/147-155/fh-155-wall-shield.png",
+    "xws": "wallshield",
+    "assetno": "1175"
   },
   {
     "name": "wall shield",
-    "points": 2147,
+    "points": 2316,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-155-wall-shield.png",
-    "xws": "wallshield"
+    "image": "items/frosthaven/147-155/fh-155-wall-shield.png",
+    "xws": "wallshield",
+    "assetno": "1175"
+  },
+  {
+    "name": "1175",
+    "points": 2317,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/147-155/fh-155-wall-shield.png",
+    "xws": "wallshield",
+    "assetno": "1175"
   },
   {
     "name": "wall shield",
-    "points": 2148,
+    "points": 2318,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-155-wall-shield-back.png",
-    "xws": "wallshield"
+    "image": "items/frosthaven/147-155/fh-155-wall-shield-back.png",
+    "xws": "wallshield",
+    "assetno": "####"
   },
   {
     "name": "item 156",
-    "points": 2149,
+    "points": 2319,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-156-moon-earring.png",
-    "xws": "moonearring"
+    "image": "items/frosthaven/156-159/fh-156-moon-earring.png",
+    "xws": "moonearring",
+    "assetno": "1177"
   },
   {
     "name": "item #156",
-    "points": 2150,
+    "points": 2320,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-156-moon-earring.png",
-    "xws": "moonearring"
+    "image": "items/frosthaven/156-159/fh-156-moon-earring.png",
+    "xws": "moonearring",
+    "assetno": "1177"
   },
   {
     "name": "moon earring",
-    "points": 2151,
+    "points": 2321,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-156-moon-earring.png",
-    "xws": "moonearring"
+    "image": "items/frosthaven/156-159/fh-156-moon-earring.png",
+    "xws": "moonearring",
+    "assetno": "1177"
+  },
+  {
+    "name": "1177",
+    "points": 2322,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/156-159/fh-156-moon-earring.png",
+    "xws": "moonearring",
+    "assetno": "1177"
   },
   {
     "name": "moon earring",
-    "points": 2152,
+    "points": 2323,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-156-moon-earring-back.png",
-    "xws": "moonearring"
+    "image": "items/frosthaven/156-159/fh-156-moon-earring-back.png",
+    "xws": "moonearring",
+    "assetno": "####"
   },
   {
     "name": "item 157",
-    "points": 2153,
+    "points": 2324,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-157-steel-ring.png",
-    "xws": "steelring"
+    "image": "items/frosthaven/156-159/fh-157-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "1179"
   },
   {
     "name": "item #157",
-    "points": 2154,
+    "points": 2325,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-157-steel-ring.png",
-    "xws": "steelring"
+    "image": "items/frosthaven/156-159/fh-157-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "1179"
   },
   {
     "name": "steel ring",
-    "points": 2155,
+    "points": 2326,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-157-steel-ring.png",
-    "xws": "steelring"
+    "image": "items/frosthaven/156-159/fh-157-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "1179"
+  },
+  {
+    "name": "1179",
+    "points": 2327,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/156-159/fh-157-steel-ring.png",
+    "xws": "steelring",
+    "assetno": "1179"
   },
   {
     "name": "steel ring",
-    "points": 2156,
+    "points": 2328,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-157-steel-ring-back.png",
-    "xws": "steelring"
+    "image": "items/frosthaven/156-159/fh-157-steel-ring-back.png",
+    "xws": "steelring",
+    "assetno": "####"
   },
   {
     "name": "item 158",
-    "points": 2157,
+    "points": 2329,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-158-deep-earth-brooch.png",
-    "xws": "deepearthbrooch"
+    "image": "items/frosthaven/156-159/fh-158-deep-earth-brooch.png",
+    "xws": "deepearthbrooch",
+    "assetno": "1181"
   },
   {
     "name": "item #158",
-    "points": 2158,
+    "points": 2330,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-158-deep-earth-brooch.png",
-    "xws": "deepearthbrooch"
+    "image": "items/frosthaven/156-159/fh-158-deep-earth-brooch.png",
+    "xws": "deepearthbrooch",
+    "assetno": "1181"
   },
   {
     "name": "deep earth brooch",
-    "points": 2159,
+    "points": 2331,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-158-deep-earth-brooch.png",
-    "xws": "deepearthbrooch"
+    "image": "items/frosthaven/156-159/fh-158-deep-earth-brooch.png",
+    "xws": "deepearthbrooch",
+    "assetno": "1181"
+  },
+  {
+    "name": "1181",
+    "points": 2332,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/156-159/fh-158-deep-earth-brooch.png",
+    "xws": "deepearthbrooch",
+    "assetno": "1181"
   },
   {
     "name": "deep earth brooch",
-    "points": 2160,
+    "points": 2333,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-158-deep-earth-brooch-back.png",
-    "xws": "deepearthbrooch"
+    "image": "items/frosthaven/156-159/fh-158-deep-earth-brooch-back.png",
+    "xws": "deepearthbrooch",
+    "assetno": "####"
   },
   {
     "name": "item 159",
-    "points": 2161,
+    "points": 2334,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-159-glorious-bracelet.png",
-    "xws": "gloriousbracelet"
+    "image": "items/frosthaven/156-159/fh-159-glorious-bracelet.png",
+    "xws": "gloriousbracelet",
+    "assetno": "1183"
   },
   {
     "name": "item #159",
-    "points": 2162,
+    "points": 2335,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-159-glorious-bracelet.png",
-    "xws": "gloriousbracelet"
+    "image": "items/frosthaven/156-159/fh-159-glorious-bracelet.png",
+    "xws": "gloriousbracelet",
+    "assetno": "1183"
   },
   {
     "name": "glorious bracelet",
-    "points": 2163,
+    "points": 2336,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-159-glorious-bracelet.png",
-    "xws": "gloriousbracelet"
+    "image": "items/frosthaven/156-159/fh-159-glorious-bracelet.png",
+    "xws": "gloriousbracelet",
+    "assetno": "1183"
+  },
+  {
+    "name": "1183",
+    "points": 2337,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/156-159/fh-159-glorious-bracelet.png",
+    "xws": "gloriousbracelet",
+    "assetno": "1183"
   },
   {
     "name": "glorious bracelet",
-    "points": 2164,
+    "points": 2338,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-159-glorious-bracelet-back.png",
-    "xws": "gloriousbracelet"
+    "image": "items/frosthaven/156-159/fh-159-glorious-bracelet-back.png",
+    "xws": "gloriousbracelet",
+    "assetno": "####"
   },
   {
     "name": "item 160",
-    "points": 2165,
+    "points": 2339,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-160-sun-earring.png",
-    "xws": "sunearring"
+    "image": "items/frosthaven/160-163/fh-160-sun-earring.png",
+    "xws": "sunearring",
+    "assetno": "1185"
   },
   {
     "name": "item #160",
-    "points": 2166,
+    "points": 2340,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-160-sun-earring.png",
-    "xws": "sunearring"
+    "image": "items/frosthaven/160-163/fh-160-sun-earring.png",
+    "xws": "sunearring",
+    "assetno": "1185"
   },
   {
     "name": "sun earring",
-    "points": 2167,
+    "points": 2341,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-160-sun-earring.png",
-    "xws": "sunearring"
+    "image": "items/frosthaven/160-163/fh-160-sun-earring.png",
+    "xws": "sunearring",
+    "assetno": "1185"
+  },
+  {
+    "name": "1185",
+    "points": 2342,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/160-163/fh-160-sun-earring.png",
+    "xws": "sunearring",
+    "assetno": "1185"
   },
   {
     "name": "sun earring",
-    "points": 2168,
+    "points": 2343,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-160-sun-earring-back.png",
-    "xws": "sunearring"
+    "image": "items/frosthaven/160-163/fh-160-sun-earring-back.png",
+    "xws": "sunearring",
+    "assetno": "####"
   },
   {
     "name": "item 161",
-    "points": 2169,
+    "points": 2344,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-161-strategists-ring.png",
-    "xws": "strategistsring"
+    "image": "items/frosthaven/160-163/fh-161-strategists-ring.png",
+    "xws": "strategistsring",
+    "assetno": "1187"
   },
   {
     "name": "item #161",
-    "points": 2170,
+    "points": 2345,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-161-strategists-ring.png",
-    "xws": "strategistsring"
+    "image": "items/frosthaven/160-163/fh-161-strategists-ring.png",
+    "xws": "strategistsring",
+    "assetno": "1187"
   },
   {
     "name": "strategist's ring",
-    "points": 2171,
+    "points": 2346,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-161-strategists-ring.png",
-    "xws": "strategistsring"
+    "image": "items/frosthaven/160-163/fh-161-strategists-ring.png",
+    "xws": "strategistsring",
+    "assetno": "1187"
+  },
+  {
+    "name": "1187",
+    "points": 2347,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/160-163/fh-161-strategists-ring.png",
+    "xws": "strategistsring",
+    "assetno": "1187"
   },
   {
     "name": "strategist's ring",
-    "points": 2172,
+    "points": 2348,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-161-strategists-ring-back.png",
-    "xws": "strategistsring"
+    "image": "items/frosthaven/160-163/fh-161-strategists-ring-back.png",
+    "xws": "strategistsring",
+    "assetno": "####"
   },
   {
     "name": "item 162",
-    "points": 2173,
+    "points": 2349,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-162-howling-ice-brooch.png",
-    "xws": "howlingicebrooch"
+    "image": "items/frosthaven/160-163/fh-162-howling-ice-brooch.png",
+    "xws": "howlingicebrooch",
+    "assetno": "1189"
   },
   {
     "name": "item #162",
-    "points": 2174,
+    "points": 2350,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-162-howling-ice-brooch.png",
-    "xws": "howlingicebrooch"
+    "image": "items/frosthaven/160-163/fh-162-howling-ice-brooch.png",
+    "xws": "howlingicebrooch",
+    "assetno": "1189"
   },
   {
     "name": "howling ice brooch",
-    "points": 2175,
+    "points": 2351,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-162-howling-ice-brooch.png",
-    "xws": "howlingicebrooch"
+    "image": "items/frosthaven/160-163/fh-162-howling-ice-brooch.png",
+    "xws": "howlingicebrooch",
+    "assetno": "1189"
+  },
+  {
+    "name": "1189",
+    "points": 2352,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/160-163/fh-162-howling-ice-brooch.png",
+    "xws": "howlingicebrooch",
+    "assetno": "1189"
   },
   {
     "name": "howling ice brooch",
-    "points": 2176,
+    "points": 2353,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-162-howling-ice-brooch-back.png",
-    "xws": "howlingicebrooch"
+    "image": "items/frosthaven/160-163/fh-162-howling-ice-brooch-back.png",
+    "xws": "howlingicebrooch",
+    "assetno": "####"
   },
   {
     "name": "item 163",
-    "points": 2177,
+    "points": 2354,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-163-stunning-bracelet.png",
-    "xws": "stunningbracelet"
+    "image": "items/frosthaven/160-163/fh-163-stunning-bracelet.png",
+    "xws": "stunningbracelet",
+    "assetno": "1191"
   },
   {
     "name": "item #163",
-    "points": 2178,
+    "points": 2355,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-163-stunning-bracelet.png",
-    "xws": "stunningbracelet"
+    "image": "items/frosthaven/160-163/fh-163-stunning-bracelet.png",
+    "xws": "stunningbracelet",
+    "assetno": "1191"
   },
   {
     "name": "stunning bracelet",
-    "points": 2179,
+    "points": 2356,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-163-stunning-bracelet.png",
-    "xws": "stunningbracelet"
+    "image": "items/frosthaven/160-163/fh-163-stunning-bracelet.png",
+    "xws": "stunningbracelet",
+    "assetno": "1191"
+  },
+  {
+    "name": "1191",
+    "points": 2357,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/160-163/fh-163-stunning-bracelet.png",
+    "xws": "stunningbracelet",
+    "assetno": "1191"
   },
   {
     "name": "stunning bracelet",
-    "points": 2180,
+    "points": 2358,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-163-stunning-bracelet-back.png",
-    "xws": "stunningbracelet"
+    "image": "items/frosthaven/160-163/fh-163-stunning-bracelet-back.png",
+    "xws": "stunningbracelet",
+    "assetno": "####"
   },
   {
     "name": "item 164",
-    "points": 2181,
+    "points": 2359,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-164-star-earring.png",
-    "xws": "starearring"
+    "image": "items/frosthaven/164-167/fh-164-star-earring.png",
+    "xws": "starearring",
+    "assetno": "1193"
   },
   {
     "name": "item #164",
-    "points": 2182,
+    "points": 2360,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-164-star-earring.png",
-    "xws": "starearring"
+    "image": "items/frosthaven/164-167/fh-164-star-earring.png",
+    "xws": "starearring",
+    "assetno": "1193"
   },
   {
     "name": "star earring",
-    "points": 2183,
+    "points": 2361,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-164-star-earring.png",
-    "xws": "starearring"
+    "image": "items/frosthaven/164-167/fh-164-star-earring.png",
+    "xws": "starearring",
+    "assetno": "1193"
+  },
+  {
+    "name": "1193",
+    "points": 2362,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/164-167/fh-164-star-earring.png",
+    "xws": "starearring",
+    "assetno": "1193"
   },
   {
     "name": "star earring",
-    "points": 2184,
+    "points": 2363,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-164-star-earring-back.png",
-    "xws": "starearring"
+    "image": "items/frosthaven/164-167/fh-164-star-earring-back.png",
+    "xws": "starearring",
+    "assetno": "####"
   },
   {
     "name": "item 165",
-    "points": 2185,
+    "points": 2364,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-165-ring-of-haste.png",
-    "xws": "ringofhaste"
+    "image": "items/frosthaven/164-167/fh-165-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "1195"
   },
   {
     "name": "item #165",
-    "points": 2186,
+    "points": 2365,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-165-ring-of-haste.png",
-    "xws": "ringofhaste"
+    "image": "items/frosthaven/164-167/fh-165-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "1195"
   },
   {
     "name": "ring of haste",
-    "points": 2187,
+    "points": 2366,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-165-ring-of-haste.png",
-    "xws": "ringofhaste"
+    "image": "items/frosthaven/164-167/fh-165-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "1195"
+  },
+  {
+    "name": "1195",
+    "points": 2367,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/164-167/fh-165-ring-of-haste.png",
+    "xws": "ringofhaste",
+    "assetno": "1195"
   },
   {
     "name": "ring of haste",
-    "points": 2188,
+    "points": 2368,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-165-ring-of-haste-back.png",
-    "xws": "ringofhaste"
+    "image": "items/frosthaven/164-167/fh-165-ring-of-haste-back.png",
+    "xws": "ringofhaste",
+    "assetno": "####"
   },
   {
     "name": "item 166",
-    "points": 2189,
+    "points": 2369,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-166-blazing-sun-brooch.png",
-    "xws": "blazingsunbrooch"
+    "image": "items/frosthaven/164-167/fh-166-blazing-sun-brooch.png",
+    "xws": "blazingsunbrooch",
+    "assetno": "1197"
   },
   {
     "name": "item #166",
-    "points": 2190,
+    "points": 2370,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-166-blazing-sun-brooch.png",
-    "xws": "blazingsunbrooch"
+    "image": "items/frosthaven/164-167/fh-166-blazing-sun-brooch.png",
+    "xws": "blazingsunbrooch",
+    "assetno": "1197"
   },
   {
     "name": "blazing sun brooch",
-    "points": 2191,
+    "points": 2371,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-166-blazing-sun-brooch.png",
-    "xws": "blazingsunbrooch"
+    "image": "items/frosthaven/164-167/fh-166-blazing-sun-brooch.png",
+    "xws": "blazingsunbrooch",
+    "assetno": "1197"
+  },
+  {
+    "name": "1197",
+    "points": 2372,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/164-167/fh-166-blazing-sun-brooch.png",
+    "xws": "blazingsunbrooch",
+    "assetno": "1197"
   },
   {
     "name": "blazing sun brooch",
-    "points": 2192,
+    "points": 2373,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-166-blazing-sun-brooch-back.png",
-    "xws": "blazingsunbrooch"
+    "image": "items/frosthaven/164-167/fh-166-blazing-sun-brooch-back.png",
+    "xws": "blazingsunbrooch",
+    "assetno": "####"
   },
   {
     "name": "item 167",
-    "points": 2193,
+    "points": 2374,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-167-attractive-bracelet.png",
-    "xws": "attractivebracelet"
+    "image": "items/frosthaven/164-167/fh-167-attractive-bracelet.png",
+    "xws": "attractivebracelet",
+    "assetno": "1199"
   },
   {
     "name": "item #167",
-    "points": 2194,
+    "points": 2375,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-167-attractive-bracelet.png",
-    "xws": "attractivebracelet"
+    "image": "items/frosthaven/164-167/fh-167-attractive-bracelet.png",
+    "xws": "attractivebracelet",
+    "assetno": "1199"
   },
   {
     "name": "attractive bracelet",
-    "points": 2195,
+    "points": 2376,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-167-attractive-bracelet.png",
-    "xws": "attractivebracelet"
+    "image": "items/frosthaven/164-167/fh-167-attractive-bracelet.png",
+    "xws": "attractivebracelet",
+    "assetno": "1199"
+  },
+  {
+    "name": "1199",
+    "points": 2377,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/164-167/fh-167-attractive-bracelet.png",
+    "xws": "attractivebracelet",
+    "assetno": "1199"
   },
   {
     "name": "attractive bracelet",
-    "points": 2196,
+    "points": 2378,
     "expansion": "frosthaven",
-    "image": "items/frosthaven/129-167/fh-167-attractive-bracelet-back.png",
-    "xws": "attractivebracelet"
+    "image": "items/frosthaven/164-167/fh-167-attractive-bracelet-back.png",
+    "xws": "attractivebracelet",
+    "assetno": "####"
   },
   {
     "name": "item 168",
-    "points": 2197,
+    "points": 2379,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-168-circlet-of-eyes.png",
-    "xws": "circletofeyes"
+    "xws": "circletofeyes",
+    "assetno": "1261"
   },
   {
     "name": "item #168",
-    "points": 2198,
+    "points": 2380,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-168-circlet-of-eyes.png",
-    "xws": "circletofeyes"
+    "xws": "circletofeyes",
+    "assetno": "1261"
   },
   {
     "name": "circlet of eyes",
-    "points": 2199,
+    "points": 2381,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-168-circlet-of-eyes.png",
-    "xws": "circletofeyes"
+    "xws": "circletofeyes",
+    "assetno": "1261"
+  },
+  {
+    "name": "1261",
+    "points": 2382,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-168-circlet-of-eyes.png",
+    "xws": "circletofeyes",
+    "assetno": "1261"
   },
   {
     "name": "circlet of eyes",
-    "points": 2200,
+    "points": 2383,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-168-circlet-of-eyes-back.png",
-    "xws": "circletofeyes"
+    "xws": "circletofeyes",
+    "assetno": "####"
   },
   {
     "name": "item 169",
-    "points": 2201,
+    "points": 2384,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-169-fateful-charm.png",
-    "xws": "fatefulcharm"
+    "xws": "fatefulcharm",
+    "assetno": "1262"
   },
   {
     "name": "item #169",
-    "points": 2202,
+    "points": 2385,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-169-fateful-charm.png",
-    "xws": "fatefulcharm"
+    "xws": "fatefulcharm",
+    "assetno": "1262"
   },
   {
     "name": "fateful charm",
-    "points": 2203,
+    "points": 2386,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-169-fateful-charm.png",
-    "xws": "fatefulcharm"
+    "xws": "fatefulcharm",
+    "assetno": "1262"
+  },
+  {
+    "name": "1262",
+    "points": 2387,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-169-fateful-charm.png",
+    "xws": "fatefulcharm",
+    "assetno": "1262"
   },
   {
     "name": "fateful charm",
-    "points": 2204,
+    "points": 2388,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-169-fateful-charm-back.png",
-    "xws": "fatefulcharm"
+    "xws": "fatefulcharm",
+    "assetno": "####"
   },
   {
     "name": "item 170",
-    "points": 2205,
+    "points": 2389,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-170-eye-of-truth.png",
-    "xws": "eyeoftruth"
+    "xws": "eyeoftruth",
+    "assetno": "1263"
   },
   {
     "name": "item #170",
-    "points": 2206,
+    "points": 2390,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-170-eye-of-truth.png",
-    "xws": "eyeoftruth"
+    "xws": "eyeoftruth",
+    "assetno": "1263"
   },
   {
     "name": "eye of truth",
-    "points": 2207,
+    "points": 2391,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-170-eye-of-truth.png",
-    "xws": "eyeoftruth"
+    "xws": "eyeoftruth",
+    "assetno": "1263"
+  },
+  {
+    "name": "1263",
+    "points": 2392,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-170-eye-of-truth.png",
+    "xws": "eyeoftruth",
+    "assetno": "1263"
   },
   {
     "name": "eye of truth",
-    "points": 2208,
+    "points": 2393,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-170-eye-of-truth-back.png",
-    "xws": "eyeoftruth"
+    "xws": "eyeoftruth",
+    "assetno": "####"
   },
   {
     "name": "item 171",
-    "points": 2209,
+    "points": 2394,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-171-rejuvenating-charm.png",
-    "xws": "rejuvenatingcharm"
+    "xws": "rejuvenatingcharm",
+    "assetno": "1264"
   },
   {
     "name": "item #171",
-    "points": 2210,
+    "points": 2395,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-171-rejuvenating-charm.png",
-    "xws": "rejuvenatingcharm"
+    "xws": "rejuvenatingcharm",
+    "assetno": "1264"
   },
   {
     "name": "rejuvenating charm",
-    "points": 2211,
+    "points": 2396,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-171-rejuvenating-charm.png",
-    "xws": "rejuvenatingcharm"
+    "xws": "rejuvenatingcharm",
+    "assetno": "1264"
+  },
+  {
+    "name": "1264",
+    "points": 2397,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-171-rejuvenating-charm.png",
+    "xws": "rejuvenatingcharm",
+    "assetno": "1264"
   },
   {
     "name": "rejuvenating charm",
-    "points": 2212,
+    "points": 2398,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-171-rejuvenating-charm-back.png",
-    "xws": "rejuvenatingcharm"
+    "xws": "rejuvenatingcharm",
+    "assetno": "####"
   },
   {
     "name": "item 172",
-    "points": 2213,
+    "points": 2399,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-172-cap-of-premonition.png",
-    "xws": "capofpremonition"
+    "xws": "capofpremonition",
+    "assetno": "1265"
   },
   {
     "name": "item #172",
-    "points": 2214,
+    "points": 2400,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-172-cap-of-premonition.png",
-    "xws": "capofpremonition"
+    "xws": "capofpremonition",
+    "assetno": "1265"
   },
   {
     "name": "cap of premonition",
-    "points": 2215,
+    "points": 2401,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-172-cap-of-premonition.png",
-    "xws": "capofpremonition"
+    "xws": "capofpremonition",
+    "assetno": "1265"
+  },
+  {
+    "name": "1265",
+    "points": 2402,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-172-cap-of-premonition.png",
+    "xws": "capofpremonition",
+    "assetno": "1265"
   },
   {
     "name": "cap of premonition",
-    "points": 2216,
+    "points": 2403,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-172-cap-of-premonition-back.png",
-    "xws": "capofpremonition"
+    "xws": "capofpremonition",
+    "assetno": "####"
   },
   {
     "name": "item 173",
-    "points": 2217,
+    "points": 2404,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-173-multi-colored-cloak.png",
-    "xws": "multicoloredcloak"
+    "xws": "multicoloredcloak",
+    "assetno": "1266"
   },
   {
     "name": "item #173",
-    "points": 2218,
+    "points": 2405,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-173-multi-colored-cloak.png",
-    "xws": "multicoloredcloak"
+    "xws": "multicoloredcloak",
+    "assetno": "1266"
   },
   {
     "name": "multi-colored cloak",
-    "points": 2219,
+    "points": 2406,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-173-multi-colored-cloak.png",
-    "xws": "multicoloredcloak"
+    "xws": "multicoloredcloak",
+    "assetno": "1266"
+  },
+  {
+    "name": "1266",
+    "points": 2407,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-173-multi-colored-cloak.png",
+    "xws": "multicoloredcloak",
+    "assetno": "1266"
   },
   {
     "name": "multi-colored cloak",
-    "points": 2220,
+    "points": 2408,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-173-multi-colored-cloak-back.png",
-    "xws": "multicoloredcloak"
+    "xws": "multicoloredcloak",
+    "assetno": "####"
   },
   {
     "name": "item 174",
-    "points": 2221,
+    "points": 2409,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-174-magnetic-cape.png",
-    "xws": "magneticcape"
+    "xws": "magneticcape",
+    "assetno": "1267"
   },
   {
     "name": "item #174",
-    "points": 2222,
+    "points": 2410,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-174-magnetic-cape.png",
-    "xws": "magneticcape"
+    "xws": "magneticcape",
+    "assetno": "1267"
   },
   {
     "name": "magnetic cape",
-    "points": 2223,
+    "points": 2411,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-174-magnetic-cape.png",
-    "xws": "magneticcape"
+    "xws": "magneticcape",
+    "assetno": "1267"
+  },
+  {
+    "name": "1267",
+    "points": 2412,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-174-magnetic-cape.png",
+    "xws": "magneticcape",
+    "assetno": "1267"
   },
   {
     "name": "magnetic cape",
-    "points": 2224,
+    "points": 2413,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-174-magnetic-cape-back.png",
-    "xws": "magneticcape"
+    "xws": "magneticcape",
+    "assetno": "####"
   },
   {
     "name": "item 175",
-    "points": 2225,
+    "points": 2414,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-175-mirrored-armor.png",
-    "xws": "mirroredarmor"
+    "xws": "mirroredarmor",
+    "assetno": "1268"
   },
   {
     "name": "item #175",
-    "points": 2226,
+    "points": 2415,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-175-mirrored-armor.png",
-    "xws": "mirroredarmor"
+    "xws": "mirroredarmor",
+    "assetno": "1268"
   },
   {
     "name": "mirrored armor",
-    "points": 2227,
+    "points": 2416,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-175-mirrored-armor.png",
-    "xws": "mirroredarmor"
+    "xws": "mirroredarmor",
+    "assetno": "1268"
+  },
+  {
+    "name": "1268",
+    "points": 2417,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-175-mirrored-armor.png",
+    "xws": "mirroredarmor",
+    "assetno": "1268"
   },
   {
     "name": "mirrored armor",
-    "points": 2228,
+    "points": 2418,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-175-mirrored-armor-back.png",
-    "xws": "mirroredarmor"
+    "xws": "mirroredarmor",
+    "assetno": "####"
   },
   {
     "name": "item 176",
-    "points": 2229,
+    "points": 2419,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-176-blinking-cape.png",
-    "xws": "blinkingcape"
+    "xws": "blinkingcape",
+    "assetno": "1269"
   },
   {
     "name": "item #176",
-    "points": 2230,
+    "points": 2420,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-176-blinking-cape.png",
-    "xws": "blinkingcape"
+    "xws": "blinkingcape",
+    "assetno": "1269"
   },
   {
     "name": "blinking cape",
-    "points": 2231,
+    "points": 2421,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-176-blinking-cape.png",
-    "xws": "blinkingcape"
+    "xws": "blinkingcape",
+    "assetno": "1269"
+  },
+  {
+    "name": "1269",
+    "points": 2422,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-176-blinking-cape.png",
+    "xws": "blinkingcape",
+    "assetno": "1269"
   },
   {
     "name": "blinking cape",
-    "points": 2232,
+    "points": 2423,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-176-blinking-cape-back.png",
-    "xws": "blinkingcape"
+    "xws": "blinkingcape",
+    "assetno": "####"
   },
   {
     "name": "item 177",
-    "points": 2233,
+    "points": 2424,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-177-boots-of-transference.png",
-    "xws": "bootsoftransference"
+    "xws": "bootsoftransference",
+    "assetno": "1270"
   },
   {
     "name": "item #177",
-    "points": 2234,
+    "points": 2425,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-177-boots-of-transference.png",
-    "xws": "bootsoftransference"
+    "xws": "bootsoftransference",
+    "assetno": "1270"
   },
   {
     "name": "boots of transference",
-    "points": 2235,
+    "points": 2426,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-177-boots-of-transference.png",
-    "xws": "bootsoftransference"
+    "xws": "bootsoftransference",
+    "assetno": "1270"
+  },
+  {
+    "name": "1270",
+    "points": 2427,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-177-boots-of-transference.png",
+    "xws": "bootsoftransference",
+    "assetno": "1270"
   },
   {
     "name": "boots of transference",
-    "points": 2236,
+    "points": 2428,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-177-boots-of-transference-back.png",
-    "xws": "bootsoftransference"
+    "xws": "bootsoftransference",
+    "assetno": "####"
   },
   {
     "name": "item 178",
-    "points": 2237,
+    "points": 2429,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-178-tranquil-shoes.png",
-    "xws": "tranquilshoes"
+    "xws": "tranquilshoes",
+    "assetno": "1271"
   },
   {
     "name": "item #178",
-    "points": 2238,
+    "points": 2430,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-178-tranquil-shoes.png",
-    "xws": "tranquilshoes"
+    "xws": "tranquilshoes",
+    "assetno": "1271"
   },
   {
     "name": "tranquil shoes",
-    "points": 2239,
+    "points": 2431,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-178-tranquil-shoes.png",
-    "xws": "tranquilshoes"
+    "xws": "tranquilshoes",
+    "assetno": "1271"
+  },
+  {
+    "name": "1271",
+    "points": 2432,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-178-tranquil-shoes.png",
+    "xws": "tranquilshoes",
+    "assetno": "1271"
   },
   {
     "name": "tranquil shoes",
-    "points": 2240,
+    "points": 2433,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-178-tranquil-shoes-back.png",
-    "xws": "tranquilshoes"
+    "xws": "tranquilshoes",
+    "assetno": "####"
   },
   {
     "name": "item 179",
-    "points": 2241,
+    "points": 2434,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-179-burst-boots.png",
-    "xws": "burstboots"
+    "xws": "burstboots",
+    "assetno": "1272"
   },
   {
     "name": "item #179",
-    "points": 2242,
+    "points": 2435,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-179-burst-boots.png",
-    "xws": "burstboots"
+    "xws": "burstboots",
+    "assetno": "1272"
   },
   {
     "name": "burst boots",
-    "points": 2243,
+    "points": 2436,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-179-burst-boots.png",
-    "xws": "burstboots"
+    "xws": "burstboots",
+    "assetno": "1272"
+  },
+  {
+    "name": "1272",
+    "points": 2437,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-179-burst-boots.png",
+    "xws": "burstboots",
+    "assetno": "1272"
   },
   {
     "name": "burst boots",
-    "points": 2244,
+    "points": 2438,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-179-burst-boots-back.png",
-    "xws": "burstboots"
+    "xws": "burstboots",
+    "assetno": "####"
   },
   {
     "name": "item 180",
-    "points": 2245,
+    "points": 2439,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-180-boots-of-greed.png",
-    "xws": "bootsofgreed"
+    "xws": "bootsofgreed",
+    "assetno": "1273"
   },
   {
     "name": "item #180",
-    "points": 2246,
+    "points": 2440,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-180-boots-of-greed.png",
-    "xws": "bootsofgreed"
+    "xws": "bootsofgreed",
+    "assetno": "1273"
   },
   {
     "name": "boots of greed",
-    "points": 2247,
+    "points": 2441,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-180-boots-of-greed.png",
-    "xws": "bootsofgreed"
+    "xws": "bootsofgreed",
+    "assetno": "1273"
+  },
+  {
+    "name": "1273",
+    "points": 2442,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-180-boots-of-greed.png",
+    "xws": "bootsofgreed",
+    "assetno": "1273"
   },
   {
     "name": "boots of greed",
-    "points": 2248,
+    "points": 2443,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-180-boots-of-greed-back.png",
-    "xws": "bootsofgreed"
+    "xws": "bootsofgreed",
+    "assetno": "####"
   },
   {
     "name": "item 181",
-    "points": 2249,
+    "points": 2444,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-181-translocation-rod.png",
-    "xws": "translocationrod"
+    "xws": "translocationrod",
+    "assetno": "1274"
   },
   {
     "name": "item #181",
-    "points": 2250,
+    "points": 2445,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-181-translocation-rod.png",
-    "xws": "translocationrod"
+    "xws": "translocationrod",
+    "assetno": "1274"
   },
   {
     "name": "translocation rod",
-    "points": 2251,
+    "points": 2446,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-181-translocation-rod.png",
-    "xws": "translocationrod"
+    "xws": "translocationrod",
+    "assetno": "1274"
+  },
+  {
+    "name": "1274",
+    "points": 2447,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-181-translocation-rod.png",
+    "xws": "translocationrod",
+    "assetno": "1274"
   },
   {
     "name": "translocation rod",
-    "points": 2252,
+    "points": 2448,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-181-translocation-rod-back.png",
-    "xws": "translocationrod"
+    "xws": "translocationrod",
+    "assetno": "####"
   },
   {
     "name": "item 182",
-    "points": 2253,
+    "points": 2449,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-182-wing-clippers.png",
-    "xws": "wingclippers"
+    "xws": "wingclippers",
+    "assetno": "1275"
   },
   {
     "name": "item #182",
-    "points": 2254,
+    "points": 2450,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-182-wing-clippers.png",
-    "xws": "wingclippers"
+    "xws": "wingclippers",
+    "assetno": "1275"
   },
   {
     "name": "wing clippers",
-    "points": 2255,
+    "points": 2451,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-182-wing-clippers.png",
-    "xws": "wingclippers"
+    "xws": "wingclippers",
+    "assetno": "1275"
+  },
+  {
+    "name": "1275",
+    "points": 2452,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-182-wing-clippers.png",
+    "xws": "wingclippers",
+    "assetno": "1275"
   },
   {
     "name": "wing clippers",
-    "points": 2256,
+    "points": 2453,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-182-wing-clippers-back.png",
-    "xws": "wingclippers"
+    "xws": "wingclippers",
+    "assetno": "####"
   },
   {
     "name": "item 183",
-    "points": 2257,
+    "points": 2454,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-183-decanter-of-mists.png",
-    "xws": "decanterofmists"
+    "xws": "decanterofmists",
+    "assetno": "1276"
   },
   {
     "name": "item #183",
-    "points": 2258,
+    "points": 2455,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-183-decanter-of-mists.png",
-    "xws": "decanterofmists"
+    "xws": "decanterofmists",
+    "assetno": "1276"
   },
   {
     "name": "decanter of mists",
-    "points": 2259,
+    "points": 2456,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-183-decanter-of-mists.png",
-    "xws": "decanterofmists"
+    "xws": "decanterofmists",
+    "assetno": "1276"
+  },
+  {
+    "name": "1276",
+    "points": 2457,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-183-decanter-of-mists.png",
+    "xws": "decanterofmists",
+    "assetno": "1276"
   },
   {
     "name": "decanter of mists",
-    "points": 2260,
+    "points": 2458,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-183-decanter-of-mists-back.png",
-    "xws": "decanterofmists"
+    "xws": "decanterofmists",
+    "assetno": "####"
   },
   {
     "name": "item 184",
-    "points": 2261,
+    "points": 2459,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-184-flashing-axe.png",
-    "xws": "flashingaxe"
+    "xws": "flashingaxe",
+    "assetno": "1277"
   },
   {
     "name": "item #184",
-    "points": 2262,
+    "points": 2460,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-184-flashing-axe.png",
-    "xws": "flashingaxe"
+    "xws": "flashingaxe",
+    "assetno": "1277"
   },
   {
     "name": "flashing axe",
-    "points": 2263,
+    "points": 2461,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-184-flashing-axe.png",
-    "xws": "flashingaxe"
+    "xws": "flashingaxe",
+    "assetno": "1277"
+  },
+  {
+    "name": "1277",
+    "points": 2462,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-184-flashing-axe.png",
+    "xws": "flashingaxe",
+    "assetno": "1277"
   },
   {
     "name": "flashing axe",
-    "points": 2264,
+    "points": 2463,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-184-flashing-axe-back.png",
-    "xws": "flashingaxe"
+    "xws": "flashingaxe",
+    "assetno": "####"
   },
   {
     "name": "item 185",
-    "points": 2265,
+    "points": 2464,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-185-mirrored-knife.png",
-    "xws": "mirroredknife"
+    "xws": "mirroredknife",
+    "assetno": "1278"
   },
   {
     "name": "item #185",
-    "points": 2266,
+    "points": 2465,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-185-mirrored-knife.png",
-    "xws": "mirroredknife"
+    "xws": "mirroredknife",
+    "assetno": "1278"
   },
   {
     "name": "mirrored knife",
-    "points": 2267,
+    "points": 2466,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-185-mirrored-knife.png",
-    "xws": "mirroredknife"
+    "xws": "mirroredknife",
+    "assetno": "1278"
+  },
+  {
+    "name": "1278",
+    "points": 2467,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-185-mirrored-knife.png",
+    "xws": "mirroredknife",
+    "assetno": "1278"
   },
   {
     "name": "mirrored knife",
-    "points": 2268,
+    "points": 2468,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-185-mirrored-knife-back.png",
-    "xws": "mirroredknife"
+    "xws": "mirroredknife",
+    "assetno": "####"
   },
   {
     "name": "item 186",
-    "points": 2269,
+    "points": 2469,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-186-wild-growth-seeds.png",
-    "xws": "wildgrowthseeds"
+    "xws": "wildgrowthseeds",
+    "assetno": "1279"
   },
   {
     "name": "item #186",
-    "points": 2270,
+    "points": 2470,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-186-wild-growth-seeds.png",
-    "xws": "wildgrowthseeds"
+    "xws": "wildgrowthseeds",
+    "assetno": "1279"
   },
   {
     "name": "wild growth seeds",
-    "points": 2271,
+    "points": 2471,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-186-wild-growth-seeds.png",
-    "xws": "wildgrowthseeds"
+    "xws": "wildgrowthseeds",
+    "assetno": "1279"
+  },
+  {
+    "name": "1279",
+    "points": 2472,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-186-wild-growth-seeds.png",
+    "xws": "wildgrowthseeds",
+    "assetno": "1279"
   },
   {
     "name": "wild growth seeds",
-    "points": 2272,
+    "points": 2473,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-186-wild-growth-seeds-back.png",
-    "xws": "wildgrowthseeds"
+    "xws": "wildgrowthseeds",
+    "assetno": "####"
   },
   {
     "name": "item 187",
-    "points": 2273,
+    "points": 2474,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-187-dangerous-gear.png",
-    "xws": "dangerousgear"
+    "xws": "dangerousgear",
+    "assetno": "1280"
   },
   {
     "name": "item #187",
-    "points": 2274,
+    "points": 2475,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-187-dangerous-gear.png",
-    "xws": "dangerousgear"
+    "xws": "dangerousgear",
+    "assetno": "1280"
   },
   {
     "name": "dangerous gear",
-    "points": 2275,
+    "points": 2476,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-187-dangerous-gear.png",
-    "xws": "dangerousgear"
+    "xws": "dangerousgear",
+    "assetno": "1280"
+  },
+  {
+    "name": "1280",
+    "points": 2477,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-187-dangerous-gear.png",
+    "xws": "dangerousgear",
+    "assetno": "1280"
   },
   {
     "name": "dangerous gear",
-    "points": 2276,
+    "points": 2478,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-187-dangerous-gear-back.png",
-    "xws": "dangerousgear"
+    "xws": "dangerousgear",
+    "assetno": "####"
   },
   {
     "name": "item 188",
-    "points": 2277,
+    "points": 2479,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-188-freezing-crystal.png",
-    "xws": "freezingcrystal"
+    "xws": "freezingcrystal",
+    "assetno": "1281"
   },
   {
     "name": "item #188",
-    "points": 2278,
+    "points": 2480,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-188-freezing-crystal.png",
-    "xws": "freezingcrystal"
+    "xws": "freezingcrystal",
+    "assetno": "1281"
   },
   {
     "name": "freezing crystal",
-    "points": 2279,
+    "points": 2481,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-188-freezing-crystal.png",
-    "xws": "freezingcrystal"
+    "xws": "freezingcrystal",
+    "assetno": "1281"
+  },
+  {
+    "name": "1281",
+    "points": 2482,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-188-freezing-crystal.png",
+    "xws": "freezingcrystal",
+    "assetno": "1281"
   },
   {
     "name": "freezing crystal",
-    "points": 2280,
+    "points": 2483,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-188-freezing-crystal-back.png",
-    "xws": "freezingcrystal"
+    "xws": "freezingcrystal",
+    "assetno": "####"
   },
   {
     "name": "item 189",
-    "points": 2281,
+    "points": 2484,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-189-ring-of-the-night.png",
-    "xws": "ringofthenight"
+    "xws": "ringofthenight",
+    "assetno": "1282"
   },
   {
     "name": "item #189",
-    "points": 2282,
+    "points": 2485,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-189-ring-of-the-night.png",
-    "xws": "ringofthenight"
+    "xws": "ringofthenight",
+    "assetno": "1282"
   },
   {
     "name": "ring of the night",
-    "points": 2283,
+    "points": 2486,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-189-ring-of-the-night.png",
-    "xws": "ringofthenight"
+    "xws": "ringofthenight",
+    "assetno": "1282"
+  },
+  {
+    "name": "1282",
+    "points": 2487,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-189-ring-of-the-night.png",
+    "xws": "ringofthenight",
+    "assetno": "1282"
   },
   {
     "name": "ring of the night",
-    "points": 2284,
+    "points": 2488,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-189-ring-of-the-night-back.png",
-    "xws": "ringofthenight"
+    "xws": "ringofthenight",
+    "assetno": "####"
   },
   {
     "name": "item 190",
-    "points": 2285,
+    "points": 2489,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-190-white-card.png",
-    "xws": "whitecard"
+    "xws": "whitecard",
+    "assetno": "1283"
   },
   {
     "name": "item #190",
-    "points": 2286,
+    "points": 2490,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-190-white-card.png",
-    "xws": "whitecard"
+    "xws": "whitecard",
+    "assetno": "1283"
   },
   {
     "name": "white card",
-    "points": 2287,
+    "points": 2491,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-190-white-card.png",
-    "xws": "whitecard"
+    "xws": "whitecard",
+    "assetno": "1283"
+  },
+  {
+    "name": "1283",
+    "points": 2492,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-190-white-card.png",
+    "xws": "whitecard",
+    "assetno": "1283"
   },
   {
     "name": "white card",
-    "points": 2288,
+    "points": 2493,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-190-white-card-back.png",
-    "xws": "whitecard"
+    "xws": "whitecard",
+    "assetno": "####"
   },
   {
     "name": "item 191",
-    "points": 2289,
+    "points": 2494,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-191-corrupted-scroll.png",
-    "xws": "corruptedscroll"
+    "xws": "corruptedscroll",
+    "assetno": "1284"
   },
   {
     "name": "item #191",
-    "points": 2290,
+    "points": 2495,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-191-corrupted-scroll.png",
-    "xws": "corruptedscroll"
+    "xws": "corruptedscroll",
+    "assetno": "1284"
   },
   {
     "name": "corrupted scroll",
-    "points": 2291,
+    "points": 2496,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-191-corrupted-scroll.png",
-    "xws": "corruptedscroll"
+    "xws": "corruptedscroll",
+    "assetno": "1284"
+  },
+  {
+    "name": "1284",
+    "points": 2497,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-191-corrupted-scroll.png",
+    "xws": "corruptedscroll",
+    "assetno": "1284"
   },
   {
     "name": "corrupted scroll",
-    "points": 2292,
+    "points": 2498,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-191-corrupted-scroll-back.png",
-    "xws": "corruptedscroll"
+    "xws": "corruptedscroll",
+    "assetno": "####"
   },
   {
     "name": "item 192",
-    "points": 2293,
+    "points": 2499,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-192-enticing-bell.png",
-    "xws": "enticingbell"
+    "xws": "enticingbell",
+    "assetno": "1285"
   },
   {
     "name": "item #192",
-    "points": 2294,
+    "points": 2500,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-192-enticing-bell.png",
-    "xws": "enticingbell"
+    "xws": "enticingbell",
+    "assetno": "1285"
   },
   {
     "name": "enticing bell",
-    "points": 2295,
+    "points": 2501,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-192-enticing-bell.png",
-    "xws": "enticingbell"
+    "xws": "enticingbell",
+    "assetno": "1285"
+  },
+  {
+    "name": "1285",
+    "points": 2502,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/168-192/fh-192-enticing-bell.png",
+    "xws": "enticingbell",
+    "assetno": "1285"
   },
   {
     "name": "enticing bell",
-    "points": 2296,
+    "points": 2503,
     "expansion": "frosthaven",
     "image": "items/frosthaven/168-192/fh-192-enticing-bell-back.png",
-    "xws": "enticingbell"
+    "xws": "enticingbell",
+    "assetno": "####"
   },
   {
     "name": "item 193",
-    "points": 2297,
+    "points": 2504,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-193-mind-thieving-helmet.png",
-    "xws": "mindthievinghelmet"
+    "xws": "mindthievinghelmet",
+    "assetno": "1201"
   },
   {
     "name": "item #193",
-    "points": 2298,
+    "points": 2505,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-193-mind-thieving-helmet.png",
-    "xws": "mindthievinghelmet"
+    "xws": "mindthievinghelmet",
+    "assetno": "1201"
   },
   {
     "name": "mind-thieving helmet",
-    "points": 2299,
+    "points": 2506,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-193-mind-thieving-helmet.png",
-    "xws": "mindthievinghelmet"
+    "xws": "mindthievinghelmet",
+    "assetno": "1201"
+  },
+  {
+    "name": "1201",
+    "points": 2507,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-193-mind-thieving-helmet.png",
+    "xws": "mindthievinghelmet",
+    "assetno": "1201"
   },
   {
     "name": "mind-thieving helmet",
-    "points": 2300,
+    "points": 2508,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-193-mind-thieving-helmet-back.png",
-    "xws": "mindthievinghelmet"
+    "xws": "mindthievinghelmet",
+    "assetno": "####"
   },
   {
     "name": "item 194",
-    "points": 2301,
+    "points": 2509,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-194-temporal-amulet.png",
-    "xws": "temporalamulet"
+    "xws": "temporalamulet",
+    "assetno": "1202"
   },
   {
     "name": "item #194",
-    "points": 2302,
+    "points": 2510,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-194-temporal-amulet.png",
-    "xws": "temporalamulet"
+    "xws": "temporalamulet",
+    "assetno": "1202"
   },
   {
     "name": "temporal amulet",
-    "points": 2303,
+    "points": 2511,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-194-temporal-amulet.png",
-    "xws": "temporalamulet"
+    "xws": "temporalamulet",
+    "assetno": "1202"
+  },
+  {
+    "name": "1202",
+    "points": 2512,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-194-temporal-amulet.png",
+    "xws": "temporalamulet",
+    "assetno": "1202"
   },
   {
     "name": "temporal amulet",
-    "points": 2304,
+    "points": 2513,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-194-temporal-amulet-back.png",
-    "xws": "temporalamulet"
+    "xws": "temporalamulet",
+    "assetno": "####"
   },
   {
     "name": "item 195",
-    "points": 2305,
+    "points": 2514,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-195-tri-corner-hat.png",
-    "xws": "tricornerhat"
+    "xws": "tricornerhat",
+    "assetno": "1203"
   },
   {
     "name": "item #195",
-    "points": 2306,
+    "points": 2515,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-195-tri-corner-hat.png",
-    "xws": "tricornerhat"
+    "xws": "tricornerhat",
+    "assetno": "1203"
   },
   {
     "name": "tri-corner hat",
-    "points": 2307,
+    "points": 2516,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-195-tri-corner-hat.png",
-    "xws": "tricornerhat"
+    "xws": "tricornerhat",
+    "assetno": "1203"
+  },
+  {
+    "name": "1203",
+    "points": 2517,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-195-tri-corner-hat.png",
+    "xws": "tricornerhat",
+    "assetno": "1203"
   },
   {
     "name": "tri-corner hat",
-    "points": 2308,
+    "points": 2518,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-195-tri-corner-hat-back.png",
-    "xws": "tricornerhat"
+    "xws": "tricornerhat",
+    "assetno": "####"
   },
   {
     "name": "item 196",
-    "points": 2309,
+    "points": 2519,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-196-choker-of-sacrifice.png",
-    "xws": "chokerofsacrifice"
+    "xws": "chokerofsacrifice",
+    "assetno": "1205"
   },
   {
     "name": "item #196",
-    "points": 2310,
+    "points": 2520,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-196-choker-of-sacrifice.png",
-    "xws": "chokerofsacrifice"
+    "xws": "chokerofsacrifice",
+    "assetno": "1205"
   },
   {
     "name": "choker of sacrifice",
-    "points": 2311,
+    "points": 2521,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-196-choker-of-sacrifice.png",
-    "xws": "chokerofsacrifice"
+    "xws": "chokerofsacrifice",
+    "assetno": "1205"
+  },
+  {
+    "name": "1205",
+    "points": 2522,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-196-choker-of-sacrifice.png",
+    "xws": "chokerofsacrifice",
+    "assetno": "1205"
   },
   {
     "name": "choker of sacrifice",
-    "points": 2312,
+    "points": 2523,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-196-choker-of-sacrifice-back.png",
-    "xws": "chokerofsacrifice"
+    "xws": "chokerofsacrifice",
+    "assetno": "####"
   },
   {
     "name": "item 197",
-    "points": 2313,
+    "points": 2524,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-197-aesther-diadem.png",
-    "xws": "aestherdiadem"
+    "xws": "aestherdiadem",
+    "assetno": "1206"
   },
   {
     "name": "item #197",
-    "points": 2314,
+    "points": 2525,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-197-aesther-diadem.png",
-    "xws": "aestherdiadem"
+    "xws": "aestherdiadem",
+    "assetno": "1206"
   },
   {
     "name": "aesther diadem",
-    "points": 2315,
+    "points": 2526,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-197-aesther-diadem.png",
-    "xws": "aestherdiadem"
+    "xws": "aestherdiadem",
+    "assetno": "1206"
+  },
+  {
+    "name": "1206",
+    "points": 2527,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-197-aesther-diadem.png",
+    "xws": "aestherdiadem",
+    "assetno": "1206"
   },
   {
     "name": "aesther diadem",
-    "points": 2316,
+    "points": 2528,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-197-aesther-diadem-back.png",
-    "xws": "aestherdiadem"
+    "xws": "aestherdiadem",
+    "assetno": "####"
   },
   {
     "name": "item 198",
-    "points": 2317,
+    "points": 2529,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-198-hunters-necklace.png",
-    "xws": "huntersnecklace"
+    "xws": "huntersnecklace",
+    "assetno": "1207"
   },
   {
     "name": "item #198",
-    "points": 2318,
+    "points": 2530,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-198-hunters-necklace.png",
-    "xws": "huntersnecklace"
+    "xws": "huntersnecklace",
+    "assetno": "1207"
   },
   {
     "name": "hunter's necklace",
-    "points": 2319,
+    "points": 2531,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-198-hunters-necklace.png",
-    "xws": "huntersnecklace"
+    "xws": "huntersnecklace",
+    "assetno": "1207"
+  },
+  {
+    "name": "1207",
+    "points": 2532,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-198-hunters-necklace.png",
+    "xws": "huntersnecklace",
+    "assetno": "1207"
   },
   {
     "name": "hunter's necklace",
-    "points": 2320,
+    "points": 2533,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-198-hunters-necklace-back.png",
-    "xws": "huntersnecklace"
+    "xws": "huntersnecklace",
+    "assetno": "####"
   },
   {
     "name": "item 199",
-    "points": 2321,
+    "points": 2534,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-199-opulent-shoes.png",
-    "xws": "opulentshoes"
+    "xws": "opulentshoes",
+    "assetno": "1208"
   },
   {
     "name": "item #199",
-    "points": 2322,
+    "points": 2535,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-199-opulent-shoes.png",
-    "xws": "opulentshoes"
+    "xws": "opulentshoes",
+    "assetno": "1208"
   },
   {
     "name": "opulent shoes",
-    "points": 2323,
+    "points": 2536,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-199-opulent-shoes.png",
-    "xws": "opulentshoes"
+    "xws": "opulentshoes",
+    "assetno": "1208"
+  },
+  {
+    "name": "1208",
+    "points": 2537,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-199-opulent-shoes.png",
+    "xws": "opulentshoes",
+    "assetno": "1208"
   },
   {
     "name": "opulent shoes",
-    "points": 2324,
+    "points": 2538,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-199-opulent-shoes-back.png",
-    "xws": "opulentshoes"
+    "xws": "opulentshoes",
+    "assetno": "####"
   },
   {
     "name": "item 200",
-    "points": 2325,
+    "points": 2539,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-200-eventide-scepter.png",
-    "xws": "eventidescepter"
+    "xws": "eventidescepter",
+    "assetno": "1210"
   },
   {
     "name": "item #200",
-    "points": 2326,
+    "points": 2540,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-200-eventide-scepter.png",
-    "xws": "eventidescepter"
+    "xws": "eventidescepter",
+    "assetno": "1210"
   },
   {
     "name": "eventide scepter",
-    "points": 2327,
+    "points": 2541,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-200-eventide-scepter.png",
-    "xws": "eventidescepter"
+    "xws": "eventidescepter",
+    "assetno": "1210"
+  },
+  {
+    "name": "1210",
+    "points": 2542,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-200-eventide-scepter.png",
+    "xws": "eventidescepter",
+    "assetno": "1210"
   },
   {
     "name": "eventide scepter",
-    "points": 2328,
+    "points": 2543,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-200-eventide-scepter-back.png",
-    "xws": "eventidescepter"
+    "xws": "eventidescepter",
+    "assetno": "####"
   },
   {
     "name": "item 201",
-    "points": 2329,
+    "points": 2544,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-201-wave-blade.png",
-    "xws": "waveblade"
+    "xws": "waveblade",
+    "assetno": "1211"
   },
   {
     "name": "item #201",
-    "points": 2330,
+    "points": 2545,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-201-wave-blade.png",
-    "xws": "waveblade"
+    "xws": "waveblade",
+    "assetno": "1211"
   },
   {
     "name": "wave blade",
-    "points": 2331,
+    "points": 2546,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-201-wave-blade.png",
-    "xws": "waveblade"
+    "xws": "waveblade",
+    "assetno": "1211"
+  },
+  {
+    "name": "1211",
+    "points": 2547,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-201-wave-blade.png",
+    "xws": "waveblade",
+    "assetno": "1211"
   },
   {
     "name": "wave blade",
-    "points": 2332,
+    "points": 2548,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-201-wave-blade-back.png",
-    "xws": "waveblade"
+    "xws": "waveblade",
+    "assetno": "####"
   },
   {
     "name": "item 202",
-    "points": 2333,
+    "points": 2549,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-202-giant-piranha-pig-spine.png",
-    "xws": "giantpiranhapigspine"
+    "xws": "giantpiranhapigspine",
+    "assetno": "1212"
   },
   {
     "name": "item #202",
-    "points": 2334,
+    "points": 2550,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-202-giant-piranha-pig-spine.png",
-    "xws": "giantpiranhapigspine"
+    "xws": "giantpiranhapigspine",
+    "assetno": "1212"
   },
   {
     "name": "giant piranha pig spine",
-    "points": 2335,
+    "points": 2551,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-202-giant-piranha-pig-spine.png",
-    "xws": "giantpiranhapigspine"
+    "xws": "giantpiranhapigspine",
+    "assetno": "1212"
+  },
+  {
+    "name": "1212",
+    "points": 2552,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-202-giant-piranha-pig-spine.png",
+    "xws": "giantpiranhapigspine",
+    "assetno": "1212"
   },
   {
     "name": "giant piranha pig spine",
-    "points": 2336,
+    "points": 2553,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-202-giant-piranha-pig-spine-back.png",
-    "xws": "giantpiranhapigspine"
+    "xws": "giantpiranhapigspine",
+    "assetno": "####"
   },
   {
     "name": "item 203",
-    "points": 2337,
+    "points": 2554,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-203-scepter-of-control.png",
-    "xws": "scepterofcontrol"
+    "xws": "scepterofcontrol",
+    "assetno": "1213"
   },
   {
     "name": "item #203",
-    "points": 2338,
+    "points": 2555,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-203-scepter-of-control.png",
-    "xws": "scepterofcontrol"
+    "xws": "scepterofcontrol",
+    "assetno": "1213"
   },
   {
     "name": "scepter of control",
-    "points": 2339,
+    "points": 2556,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-203-scepter-of-control.png",
-    "xws": "scepterofcontrol"
+    "xws": "scepterofcontrol",
+    "assetno": "1213"
+  },
+  {
+    "name": "1213",
+    "points": 2557,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-203-scepter-of-control.png",
+    "xws": "scepterofcontrol",
+    "assetno": "1213"
   },
   {
     "name": "scepter of control",
-    "points": 2340,
+    "points": 2558,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-203-scepter-of-control-back.png",
-    "xws": "scepterofcontrol"
+    "xws": "scepterofcontrol",
+    "assetno": "####"
   },
   {
     "name": "item 204",
-    "points": 2341,
+    "points": 2559,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-204-severed-claw.png",
-    "xws": "severedclaw"
+    "xws": "severedclaw",
+    "assetno": "1214"
   },
   {
     "name": "item #204",
-    "points": 2342,
+    "points": 2560,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-204-severed-claw.png",
-    "xws": "severedclaw"
+    "xws": "severedclaw",
+    "assetno": "1214"
   },
   {
     "name": "severed claw",
-    "points": 2343,
+    "points": 2561,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-204-severed-claw.png",
-    "xws": "severedclaw"
+    "xws": "severedclaw",
+    "assetno": "1214"
+  },
+  {
+    "name": "1214",
+    "points": 2562,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-204-severed-claw.png",
+    "xws": "severedclaw",
+    "assetno": "1214"
   },
   {
     "name": "severed claw",
-    "points": 2344,
+    "points": 2563,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-204-severed-claw-back.png",
-    "xws": "severedclaw"
+    "xws": "severedclaw",
+    "assetno": "####"
   },
   {
     "name": "item 205",
-    "points": 2345,
+    "points": 2564,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-205-harpoon.png",
-    "xws": "harpoon"
+    "xws": "harpoon",
+    "assetno": "1215"
   },
   {
     "name": "item #205",
-    "points": 2346,
+    "points": 2565,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-205-harpoon.png",
-    "xws": "harpoon"
+    "xws": "harpoon",
+    "assetno": "1215"
   },
   {
     "name": "harpoon",
-    "points": 2347,
+    "points": 2566,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-205-harpoon.png",
-    "xws": "harpoon"
+    "xws": "harpoon",
+    "assetno": "1215"
+  },
+  {
+    "name": "1215",
+    "points": 2567,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-205-harpoon.png",
+    "xws": "harpoon",
+    "assetno": "1215"
   },
   {
     "name": "harpoon",
-    "points": 2348,
+    "points": 2568,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-205-harpoon-back.png",
-    "xws": "harpoon"
+    "xws": "harpoon",
+    "assetno": "####"
   },
   {
     "name": "item 206",
-    "points": 2349,
+    "points": 2569,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-206-giant-sword.png",
-    "xws": "giantsword"
+    "xws": "giantsword",
+    "assetno": "1216"
   },
   {
     "name": "item #206",
-    "points": 2350,
+    "points": 2570,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-206-giant-sword.png",
-    "xws": "giantsword"
+    "xws": "giantsword",
+    "assetno": "1216"
   },
   {
     "name": "giant sword",
-    "points": 2351,
+    "points": 2571,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-206-giant-sword.png",
-    "xws": "giantsword"
+    "xws": "giantsword",
+    "assetno": "1216"
+  },
+  {
+    "name": "1216",
+    "points": 2572,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-206-giant-sword.png",
+    "xws": "giantsword",
+    "assetno": "1216"
   },
   {
     "name": "giant sword",
-    "points": 2352,
+    "points": 2573,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-206-giant-sword-back.png",
-    "xws": "giantsword"
+    "xws": "giantsword",
+    "assetno": "####"
   },
   {
     "name": "item 207",
-    "points": 2353,
+    "points": 2574,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-207-fishhook.png",
-    "xws": "fishhook"
+    "xws": "fishhook",
+    "assetno": "1217"
   },
   {
     "name": "item #207",
-    "points": 2354,
+    "points": 2575,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-207-fishhook.png",
-    "xws": "fishhook"
+    "xws": "fishhook",
+    "assetno": "1217"
   },
   {
     "name": "fishhook",
-    "points": 2355,
+    "points": 2576,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-207-fishhook.png",
-    "xws": "fishhook"
+    "xws": "fishhook",
+    "assetno": "1217"
+  },
+  {
+    "name": "1217",
+    "points": 2577,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-207-fishhook.png",
+    "xws": "fishhook",
+    "assetno": "1217"
   },
   {
     "name": "fishhook",
-    "points": 2356,
+    "points": 2578,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-207-fishhook-back.png",
-    "xws": "fishhook"
+    "xws": "fishhook",
+    "assetno": "####"
   },
   {
     "name": "item 208",
-    "points": 2357,
+    "points": 2579,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-208-titan-nail.png",
-    "xws": "titannail"
+    "xws": "titannail",
+    "assetno": "1218"
   },
   {
     "name": "item #208",
-    "points": 2358,
+    "points": 2580,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-208-titan-nail.png",
-    "xws": "titannail"
+    "xws": "titannail",
+    "assetno": "1218"
   },
   {
     "name": "titan nail",
-    "points": 2359,
+    "points": 2581,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-208-titan-nail.png",
-    "xws": "titannail"
+    "xws": "titannail",
+    "assetno": "1218"
+  },
+  {
+    "name": "1218",
+    "points": 2582,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-208-titan-nail.png",
+    "xws": "titannail",
+    "assetno": "1218"
   },
   {
     "name": "titan nail",
-    "points": 2360,
+    "points": 2583,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-208-titan-nail-back.png",
-    "xws": "titannail"
+    "xws": "titannail",
+    "assetno": "####"
   },
   {
     "name": "item 209",
-    "points": 2361,
+    "points": 2584,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-209-sword-of-mastery.png",
-    "xws": "swordofmastery"
+    "xws": "swordofmastery",
+    "assetno": "1219"
   },
   {
     "name": "item #209",
-    "points": 2362,
+    "points": 2585,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-209-sword-of-mastery.png",
-    "xws": "swordofmastery"
+    "xws": "swordofmastery",
+    "assetno": "1219"
   },
   {
     "name": "sword of mastery",
-    "points": 2363,
+    "points": 2586,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-209-sword-of-mastery.png",
-    "xws": "swordofmastery"
+    "xws": "swordofmastery",
+    "assetno": "1219"
+  },
+  {
+    "name": "1219",
+    "points": 2587,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-209-sword-of-mastery.png",
+    "xws": "swordofmastery",
+    "assetno": "1219"
   },
   {
     "name": "sword of mastery",
-    "points": 2364,
+    "points": 2588,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-209-sword-of-mastery-back.png",
-    "xws": "swordofmastery"
+    "xws": "swordofmastery",
+    "assetno": "####"
   },
   {
     "name": "item 210",
-    "points": 2365,
+    "points": 2589,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-210-tanjo.png",
-    "xws": "tanjo"
+    "xws": "tanjo",
+    "assetno": "1220"
   },
   {
     "name": "item #210",
-    "points": 2366,
+    "points": 2590,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-210-tanjo.png",
-    "xws": "tanjo"
+    "xws": "tanjo",
+    "assetno": "1220"
   },
   {
     "name": "tanjo",
-    "points": 2367,
+    "points": 2591,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-210-tanjo.png",
-    "xws": "tanjo"
+    "xws": "tanjo",
+    "assetno": "1220"
+  },
+  {
+    "name": "1220",
+    "points": 2592,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-210-tanjo.png",
+    "xws": "tanjo",
+    "assetno": "1220"
   },
   {
     "name": "tanjo",
-    "points": 2368,
+    "points": 2593,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-210-tanjo-back.png",
-    "xws": "tanjo"
+    "xws": "tanjo",
+    "assetno": "####"
   },
   {
     "name": "item 211",
-    "points": 2369,
+    "points": 2594,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-211-boom-barrel.png",
-    "xws": "boombarrel"
+    "xws": "boombarrel",
+    "assetno": "1221"
   },
   {
     "name": "item #211",
-    "points": 2370,
+    "points": 2595,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-211-boom-barrel.png",
-    "xws": "boombarrel"
+    "xws": "boombarrel",
+    "assetno": "1221"
   },
   {
     "name": "boom barrel",
-    "points": 2371,
+    "points": 2596,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-211-boom-barrel.png",
-    "xws": "boombarrel"
+    "xws": "boombarrel",
+    "assetno": "1221"
+  },
+  {
+    "name": "1221",
+    "points": 2597,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-211-boom-barrel.png",
+    "xws": "boombarrel",
+    "assetno": "1221"
   },
   {
     "name": "boom barrel",
-    "points": 2372,
+    "points": 2598,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-211-boom-barrel-back.png",
-    "xws": "boombarrel"
+    "xws": "boombarrel",
+    "assetno": "####"
   },
   {
     "name": "item 212",
-    "points": 2373,
+    "points": 2599,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-212-elemental-stone.png",
-    "xws": "elementalstone"
+    "xws": "elementalstone",
+    "assetno": "1222"
   },
   {
     "name": "item #212",
-    "points": 2374,
+    "points": 2600,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-212-elemental-stone.png",
-    "xws": "elementalstone"
+    "xws": "elementalstone",
+    "assetno": "1222"
   },
   {
     "name": "elemental stone",
-    "points": 2375,
+    "points": 2601,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-212-elemental-stone.png",
-    "xws": "elementalstone"
+    "xws": "elementalstone",
+    "assetno": "1222"
+  },
+  {
+    "name": "1222",
+    "points": 2602,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-212-elemental-stone.png",
+    "xws": "elementalstone",
+    "assetno": "1222"
   },
   {
     "name": "elemental stone",
-    "points": 2376,
+    "points": 2603,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-212-elemental-stone-back.png",
-    "xws": "elementalstone"
+    "xws": "elementalstone",
+    "assetno": "####"
   },
   {
     "name": "item 213",
-    "points": 2377,
+    "points": 2604,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-213-key-of-seasons.png",
-    "xws": "keyofseasons"
+    "xws": "keyofseasons",
+    "assetno": "1223"
   },
   {
     "name": "item #213",
-    "points": 2378,
+    "points": 2605,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-213-key-of-seasons.png",
-    "xws": "keyofseasons"
+    "xws": "keyofseasons",
+    "assetno": "1223"
   },
   {
     "name": "key of seasons",
-    "points": 2379,
+    "points": 2606,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-213-key-of-seasons.png",
-    "xws": "keyofseasons"
+    "xws": "keyofseasons",
+    "assetno": "1223"
+  },
+  {
+    "name": "1223",
+    "points": 2607,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-213-key-of-seasons.png",
+    "xws": "keyofseasons",
+    "assetno": "1223"
   },
   {
     "name": "key of seasons",
-    "points": 2380,
+    "points": 2608,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-213-key-of-seasons-back.png",
-    "xws": "keyofseasons"
+    "xws": "keyofseasons",
+    "assetno": "####"
   },
   {
     "name": "item 214",
-    "points": 2381,
+    "points": 2609,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-214-cup-of-ventillion.png",
-    "xws": "cupofventillion"
+    "xws": "cupofventillion",
+    "assetno": "1224"
   },
   {
     "name": "item #214",
-    "points": 2382,
+    "points": 2610,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-214-cup-of-ventillion.png",
-    "xws": "cupofventillion"
+    "xws": "cupofventillion",
+    "assetno": "1224"
   },
   {
     "name": "cup of ventillion",
-    "points": 2383,
+    "points": 2611,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-214-cup-of-ventillion.png",
-    "xws": "cupofventillion"
+    "xws": "cupofventillion",
+    "assetno": "1224"
+  },
+  {
+    "name": "1224",
+    "points": 2612,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-214-cup-of-ventillion.png",
+    "xws": "cupofventillion",
+    "assetno": "1224"
   },
   {
     "name": "cup of ventillion",
-    "points": 2384,
+    "points": 2613,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-214-cup-of-ventillion-back.png",
-    "xws": "cupofventillion"
+    "xws": "cupofventillion",
+    "assetno": "####"
   },
   {
     "name": "item 215",
-    "points": 2385,
+    "points": 2614,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-215-befuddling-mug.png",
-    "xws": "befuddlingmug"
+    "xws": "befuddlingmug",
+    "assetno": "1225"
   },
   {
     "name": "item #215",
-    "points": 2386,
+    "points": 2615,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-215-befuddling-mug.png",
-    "xws": "befuddlingmug"
+    "xws": "befuddlingmug",
+    "assetno": "1225"
   },
   {
     "name": "befuddling mug",
-    "points": 2387,
+    "points": 2616,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-215-befuddling-mug.png",
-    "xws": "befuddlingmug"
+    "xws": "befuddlingmug",
+    "assetno": "1225"
+  },
+  {
+    "name": "1225",
+    "points": 2617,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-215-befuddling-mug.png",
+    "xws": "befuddlingmug",
+    "assetno": "1225"
   },
   {
     "name": "befuddling mug",
-    "points": 2388,
+    "points": 2618,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-215-befuddling-mug-back.png",
-    "xws": "befuddlingmug"
+    "xws": "befuddlingmug",
+    "assetno": "####"
   },
   {
     "name": "item 216",
-    "points": 2389,
+    "points": 2619,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-216-tome-of-elements.png",
-    "xws": "tomeofelements"
+    "xws": "tomeofelements",
+    "assetno": "1226"
   },
   {
     "name": "item #216",
-    "points": 2390,
+    "points": 2620,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-216-tome-of-elements.png",
-    "xws": "tomeofelements"
+    "xws": "tomeofelements",
+    "assetno": "1226"
   },
   {
     "name": "tome of elements",
-    "points": 2391,
+    "points": 2621,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-216-tome-of-elements.png",
-    "xws": "tomeofelements"
+    "xws": "tomeofelements",
+    "assetno": "1226"
+  },
+  {
+    "name": "1226",
+    "points": 2622,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-216-tome-of-elements.png",
+    "xws": "tomeofelements",
+    "assetno": "1226"
   },
   {
     "name": "tome of elements",
-    "points": 2392,
+    "points": 2623,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-216-tome-of-elements-back.png",
-    "xws": "tomeofelements"
+    "xws": "tomeofelements",
+    "assetno": "####"
   },
   {
     "name": "item 217",
-    "points": 2393,
+    "points": 2624,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-217-tome-of-time.png",
-    "xws": "tomeoftime"
+    "xws": "tomeoftime",
+    "assetno": "1227"
   },
   {
     "name": "item #217",
-    "points": 2394,
+    "points": 2625,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-217-tome-of-time.png",
-    "xws": "tomeoftime"
+    "xws": "tomeoftime",
+    "assetno": "1227"
   },
   {
     "name": "tome of time",
-    "points": 2395,
+    "points": 2626,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-217-tome-of-time.png",
-    "xws": "tomeoftime"
+    "xws": "tomeoftime",
+    "assetno": "1227"
+  },
+  {
+    "name": "1227",
+    "points": 2627,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-217-tome-of-time.png",
+    "xws": "tomeoftime",
+    "assetno": "1227"
   },
   {
     "name": "tome of time",
-    "points": 2396,
+    "points": 2628,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-217-tome-of-time-back.png",
-    "xws": "tomeoftime"
+    "xws": "tomeoftime",
+    "assetno": "####"
   },
   {
     "name": "item 218",
-    "points": 2397,
+    "points": 2629,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-218-tome-of-life.png",
-    "xws": "tomeoflife"
+    "xws": "tomeoflife",
+    "assetno": "1228"
   },
   {
     "name": "item #218",
-    "points": 2398,
+    "points": 2630,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-218-tome-of-life.png",
-    "xws": "tomeoflife"
+    "xws": "tomeoflife",
+    "assetno": "1228"
   },
   {
     "name": "tome of life",
-    "points": 2399,
+    "points": 2631,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-218-tome-of-life.png",
-    "xws": "tomeoflife"
+    "xws": "tomeoflife",
+    "assetno": "1228"
+  },
+  {
+    "name": "1228",
+    "points": 2632,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-218-tome-of-life.png",
+    "xws": "tomeoflife",
+    "assetno": "1228"
   },
   {
     "name": "tome of life",
-    "points": 2400,
+    "points": 2633,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-218-tome-of-life-back.png",
-    "xws": "tomeoflife"
+    "xws": "tomeoflife",
+    "assetno": "####"
   },
   {
     "name": "item 219",
-    "points": 2401,
+    "points": 2634,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-219-tome-of-conflict.png",
-    "xws": "tomeofconflict"
+    "xws": "tomeofconflict",
+    "assetno": "1229"
   },
   {
     "name": "item #219",
-    "points": 2402,
+    "points": 2635,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-219-tome-of-conflict.png",
-    "xws": "tomeofconflict"
+    "xws": "tomeofconflict",
+    "assetno": "1229"
   },
   {
     "name": "tome of conflict",
-    "points": 2403,
+    "points": 2636,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-219-tome-of-conflict.png",
-    "xws": "tomeofconflict"
+    "xws": "tomeofconflict",
+    "assetno": "1229"
+  },
+  {
+    "name": "1229",
+    "points": 2637,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-219-tome-of-conflict.png",
+    "xws": "tomeofconflict",
+    "assetno": "1229"
   },
   {
     "name": "tome of conflict",
-    "points": 2404,
+    "points": 2638,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-219-tome-of-conflict-back.png",
-    "xws": "tomeofconflict"
+    "xws": "tomeofconflict",
+    "assetno": "####"
   },
   {
     "name": "item 220",
-    "points": 2405,
+    "points": 2639,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-220-belaras-quill.png",
-    "xws": "belarasquill"
+    "xws": "belarasquill",
+    "assetno": "1230"
   },
   {
     "name": "item #220",
-    "points": 2406,
+    "points": 2640,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-220-belaras-quill.png",
-    "xws": "belarasquill"
+    "xws": "belarasquill",
+    "assetno": "1230"
   },
   {
     "name": "belara's quill",
-    "points": 2407,
+    "points": 2641,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-220-belaras-quill.png",
-    "xws": "belarasquill"
+    "xws": "belarasquill",
+    "assetno": "1230"
+  },
+  {
+    "name": "1230",
+    "points": 2642,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-220-belaras-quill.png",
+    "xws": "belarasquill",
+    "assetno": "1230"
   },
   {
     "name": "belara's quill",
-    "points": 2408,
+    "points": 2643,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-220-belaras-quill-back.png",
-    "xws": "belarasquill"
+    "xws": "belarasquill",
+    "assetno": "####"
   },
   {
     "name": "item 221",
-    "points": 2409,
+    "points": 2644,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-221-ice-shiv.png",
-    "xws": "iceshiv"
+    "xws": "iceshiv",
+    "assetno": "1231"
   },
   {
     "name": "item #221",
-    "points": 2410,
+    "points": 2645,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-221-ice-shiv.png",
-    "xws": "iceshiv"
+    "xws": "iceshiv",
+    "assetno": "1231"
   },
   {
     "name": "ice shiv",
-    "points": 2411,
+    "points": 2646,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-221-ice-shiv.png",
-    "xws": "iceshiv"
+    "xws": "iceshiv",
+    "assetno": "1231"
+  },
+  {
+    "name": "1231",
+    "points": 2647,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-221-ice-shiv.png",
+    "xws": "iceshiv",
+    "assetno": "1231"
   },
   {
     "name": "ice shiv",
-    "points": 2412,
+    "points": 2648,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-221-ice-shiv-back.png",
-    "xws": "iceshiv"
+    "xws": "iceshiv",
+    "assetno": "####"
   },
   {
     "name": "item 222",
-    "points": 2413,
+    "points": 2649,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-222-black-box.png",
-    "xws": "blackbox"
+    "xws": "blackbox",
+    "assetno": "1232"
   },
   {
     "name": "item #222",
-    "points": 2414,
+    "points": 2650,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-222-black-box.png",
-    "xws": "blackbox"
+    "xws": "blackbox",
+    "assetno": "1232"
   },
   {
     "name": "black box",
-    "points": 2415,
+    "points": 2651,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-222-black-box.png",
-    "xws": "blackbox"
+    "xws": "blackbox",
+    "assetno": "1232"
+  },
+  {
+    "name": "1232",
+    "points": 2652,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-222-black-box.png",
+    "xws": "blackbox",
+    "assetno": "1232"
   },
   {
     "name": "black box",
-    "points": 2416,
+    "points": 2653,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-222-black-box-back.png",
-    "xws": "blackbox"
+    "xws": "blackbox",
+    "assetno": "####"
   },
   {
     "name": "item 223",
-    "points": 2417,
+    "points": 2654,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-223-lightning-rod.png",
-    "xws": "lightningrod"
+    "xws": "lightningrod",
+    "assetno": "1233"
   },
   {
     "name": "item #223",
-    "points": 2418,
+    "points": 2655,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-223-lightning-rod.png",
-    "xws": "lightningrod"
+    "xws": "lightningrod",
+    "assetno": "1233"
   },
   {
     "name": "lightning rod",
-    "points": 2419,
+    "points": 2656,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-223-lightning-rod.png",
-    "xws": "lightningrod"
+    "xws": "lightningrod",
+    "assetno": "1233"
+  },
+  {
+    "name": "1233",
+    "points": 2657,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-223-lightning-rod.png",
+    "xws": "lightningrod",
+    "assetno": "1233"
   },
   {
     "name": "lightning rod",
-    "points": 2420,
+    "points": 2658,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-223-lightning-rod-back.png",
-    "xws": "lightningrod"
+    "xws": "lightningrod",
+    "assetno": "####"
   },
   {
     "name": "item 224",
-    "points": 2421,
+    "points": 2659,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-224-armor-of-empathy.png",
-    "xws": "armorofempathy"
+    "xws": "armorofempathy",
+    "assetno": "1234"
   },
   {
     "name": "item #224",
-    "points": 2422,
+    "points": 2660,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-224-armor-of-empathy.png",
-    "xws": "armorofempathy"
+    "xws": "armorofempathy",
+    "assetno": "1234"
   },
   {
     "name": "armor of empathy",
-    "points": 2423,
+    "points": 2661,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-224-armor-of-empathy.png",
-    "xws": "armorofempathy"
+    "xws": "armorofempathy",
+    "assetno": "1234"
+  },
+  {
+    "name": "1234",
+    "points": 2662,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-224-armor-of-empathy.png",
+    "xws": "armorofempathy",
+    "assetno": "1234"
   },
   {
     "name": "armor of empathy",
-    "points": 2424,
+    "points": 2663,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-224-armor-of-empathy-back.png",
-    "xws": "armorofempathy"
+    "xws": "armorofempathy",
+    "assetno": "####"
   },
   {
     "name": "item 225",
-    "points": 2425,
+    "points": 2664,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-225-algox-carving.png",
-    "xws": "algoxcarving"
+    "xws": "algoxcarving",
+    "assetno": "1235"
   },
   {
     "name": "item #225",
-    "points": 2426,
+    "points": 2665,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-225-algox-carving.png",
-    "xws": "algoxcarving"
+    "xws": "algoxcarving",
+    "assetno": "1235"
   },
   {
     "name": "algox carving",
-    "points": 2427,
+    "points": 2666,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-225-algox-carving.png",
-    "xws": "algoxcarving"
+    "xws": "algoxcarving",
+    "assetno": "1235"
+  },
+  {
+    "name": "1235",
+    "points": 2667,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-225-algox-carving.png",
+    "xws": "algoxcarving",
+    "assetno": "1235"
   },
   {
     "name": "algox carving",
-    "points": 2428,
+    "points": 2668,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-225-algox-carving-back.png",
-    "xws": "algoxcarving"
+    "xws": "algoxcarving",
+    "assetno": "####"
   },
   {
     "name": "item 226",
-    "points": 2429,
+    "points": 2669,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-226-unfettered-arm.png",
-    "xws": "unfetteredarm"
+    "xws": "unfetteredarm",
+    "assetno": "1236"
   },
   {
     "name": "item #226",
-    "points": 2430,
+    "points": 2670,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-226-unfettered-arm.png",
-    "xws": "unfetteredarm"
+    "xws": "unfetteredarm",
+    "assetno": "1236"
   },
   {
     "name": "unfettered arm",
-    "points": 2431,
+    "points": 2671,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-226-unfettered-arm.png",
-    "xws": "unfetteredarm"
+    "xws": "unfetteredarm",
+    "assetno": "1236"
+  },
+  {
+    "name": "1236",
+    "points": 2672,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-226-unfettered-arm.png",
+    "xws": "unfetteredarm",
+    "assetno": "1236"
   },
   {
     "name": "unfettered arm",
-    "points": 2432,
+    "points": 2673,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-226-unfettered-arm-back.png",
-    "xws": "unfetteredarm"
+    "xws": "unfetteredarm",
+    "assetno": "####"
   },
   {
     "name": "item 227",
-    "points": 2433,
+    "points": 2674,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-227-data-drive.png",
-    "xws": "datadrive"
+    "xws": "datadrive",
+    "assetno": "1237"
   },
   {
     "name": "item #227",
-    "points": 2434,
+    "points": 2675,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-227-data-drive.png",
-    "xws": "datadrive"
+    "xws": "datadrive",
+    "assetno": "1237"
   },
   {
     "name": "data drive",
-    "points": 2435,
+    "points": 2676,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-227-data-drive.png",
-    "xws": "datadrive"
+    "xws": "datadrive",
+    "assetno": "1237"
+  },
+  {
+    "name": "1237",
+    "points": 2677,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-227-data-drive.png",
+    "xws": "datadrive",
+    "assetno": "1237"
   },
   {
     "name": "data drive",
-    "points": 2436,
+    "points": 2678,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-227-data-drive-back.png",
-    "xws": "datadrive"
+    "xws": "datadrive",
+    "assetno": "####"
   },
   {
     "name": "item 228",
-    "points": 2437,
+    "points": 2679,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-228-extendable-pole.png",
-    "xws": "extendablepole"
+    "xws": "extendablepole",
+    "assetno": "1238"
   },
   {
     "name": "item #228",
-    "points": 2438,
+    "points": 2680,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-228-extendable-pole.png",
-    "xws": "extendablepole"
+    "xws": "extendablepole",
+    "assetno": "1238"
   },
   {
     "name": "extendable pole",
-    "points": 2439,
+    "points": 2681,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-228-extendable-pole.png",
-    "xws": "extendablepole"
+    "xws": "extendablepole",
+    "assetno": "1238"
+  },
+  {
+    "name": "1238",
+    "points": 2682,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-228-extendable-pole.png",
+    "xws": "extendablepole",
+    "assetno": "1238"
   },
   {
     "name": "extendable pole",
-    "points": 2440,
+    "points": 2683,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-228-extendable-pole-back.png",
-    "xws": "extendablepole"
+    "xws": "extendablepole",
+    "assetno": "####"
   },
   {
     "name": "item 229",
-    "points": 2441,
+    "points": 2684,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-229-exquisite-map.png",
-    "xws": "exquisitemap"
+    "xws": "exquisitemap",
+    "assetno": "1239"
   },
   {
     "name": "item #229",
-    "points": 2442,
+    "points": 2685,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-229-exquisite-map.png",
-    "xws": "exquisitemap"
+    "xws": "exquisitemap",
+    "assetno": "1239"
   },
   {
     "name": "exquisite map",
-    "points": 2443,
+    "points": 2686,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-229-exquisite-map.png",
-    "xws": "exquisitemap"
+    "xws": "exquisitemap",
+    "assetno": "1239"
+  },
+  {
+    "name": "1239",
+    "points": 2687,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-229-exquisite-map.png",
+    "xws": "exquisitemap",
+    "assetno": "1239"
   },
   {
     "name": "exquisite map",
-    "points": 2444,
+    "points": 2688,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-229-exquisite-map-back.png",
-    "xws": "exquisitemap"
+    "xws": "exquisitemap",
+    "assetno": "####"
   },
   {
     "name": "item 230",
-    "points": 2445,
+    "points": 2689,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-230-examination-glass.png",
-    "xws": "examinationglass"
+    "xws": "examinationglass",
+    "assetno": "1240"
   },
   {
     "name": "item #230",
-    "points": 2446,
+    "points": 2690,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-230-examination-glass.png",
-    "xws": "examinationglass"
+    "xws": "examinationglass",
+    "assetno": "1240"
   },
   {
     "name": "examination glass",
-    "points": 2447,
+    "points": 2691,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-230-examination-glass.png",
-    "xws": "examinationglass"
+    "xws": "examinationglass",
+    "assetno": "1240"
+  },
+  {
+    "name": "1240",
+    "points": 2692,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-230-examination-glass.png",
+    "xws": "examinationglass",
+    "assetno": "1240"
   },
   {
     "name": "examination glass",
-    "points": 2448,
+    "points": 2693,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-230-examination-glass-back.png",
-    "xws": "examinationglass"
+    "xws": "examinationglass",
+    "assetno": "####"
   },
   {
     "name": "item 231",
-    "points": 2449,
+    "points": 2694,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-231-skinning-knife.png",
-    "xws": "skinningknife"
+    "xws": "skinningknife",
+    "assetno": "1241"
   },
   {
     "name": "item #231",
-    "points": 2450,
+    "points": 2695,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-231-skinning-knife.png",
-    "xws": "skinningknife"
+    "xws": "skinningknife",
+    "assetno": "1241"
   },
   {
     "name": "skinning knife",
-    "points": 2451,
+    "points": 2696,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-231-skinning-knife.png",
-    "xws": "skinningknife"
+    "xws": "skinningknife",
+    "assetno": "1241"
+  },
+  {
+    "name": "1241",
+    "points": 2697,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-231-skinning-knife.png",
+    "xws": "skinningknife",
+    "assetno": "1241"
   },
   {
     "name": "skinning knife",
-    "points": 2452,
+    "points": 2698,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-231-skinning-knife-back.png",
-    "xws": "skinningknife"
+    "xws": "skinningknife",
+    "assetno": "####"
   },
   {
     "name": "item 232",
-    "points": 2453,
+    "points": 2699,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-232-orchid-wand.png",
-    "xws": "orchidwand"
+    "xws": "orchidwand",
+    "assetno": "1242"
   },
   {
     "name": "item #232",
-    "points": 2454,
+    "points": 2700,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-232-orchid-wand.png",
-    "xws": "orchidwand"
+    "xws": "orchidwand",
+    "assetno": "1242"
   },
   {
     "name": "orchid wand",
-    "points": 2455,
+    "points": 2701,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-232-orchid-wand.png",
-    "xws": "orchidwand"
+    "xws": "orchidwand",
+    "assetno": "1242"
+  },
+  {
+    "name": "1242",
+    "points": 2702,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-232-orchid-wand.png",
+    "xws": "orchidwand",
+    "assetno": "1242"
   },
   {
     "name": "orchid wand",
-    "points": 2456,
+    "points": 2703,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-232-orchid-wand-back.png",
-    "xws": "orchidwand"
+    "xws": "orchidwand",
+    "assetno": "####"
   },
   {
     "name": "item 233",
-    "points": 2457,
+    "points": 2704,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-233-dead-raven.png",
-    "xws": "deadraven"
+    "xws": "deadraven",
+    "assetno": "1243"
   },
   {
     "name": "item #233",
-    "points": 2458,
+    "points": 2705,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-233-dead-raven.png",
-    "xws": "deadraven"
+    "xws": "deadraven",
+    "assetno": "1243"
   },
   {
     "name": "dead raven",
-    "points": 2459,
+    "points": 2706,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-233-dead-raven.png",
-    "xws": "deadraven"
+    "xws": "deadraven",
+    "assetno": "1243"
+  },
+  {
+    "name": "1243",
+    "points": 2707,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-233-dead-raven.png",
+    "xws": "deadraven",
+    "assetno": "1243"
   },
   {
     "name": "dead raven",
-    "points": 2460,
+    "points": 2708,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-233-dead-raven-back.png",
-    "xws": "deadraven"
+    "xws": "deadraven",
+    "assetno": "####"
   },
   {
     "name": "item 234",
-    "points": 2461,
+    "points": 2709,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-234-ooze-vial.png",
-    "xws": "oozevial"
+    "xws": "oozevial",
+    "assetno": "1244"
   },
   {
     "name": "item #234",
-    "points": 2462,
+    "points": 2710,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-234-ooze-vial.png",
-    "xws": "oozevial"
+    "xws": "oozevial",
+    "assetno": "1244"
   },
   {
     "name": "ooze vial",
-    "points": 2463,
+    "points": 2711,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-234-ooze-vial.png",
-    "xws": "oozevial"
+    "xws": "oozevial",
+    "assetno": "1244"
+  },
+  {
+    "name": "1244",
+    "points": 2712,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-234-ooze-vial.png",
+    "xws": "oozevial",
+    "assetno": "1244"
   },
   {
     "name": "ooze vial",
-    "points": 2464,
+    "points": 2713,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-234-ooze-vial-back.png",
-    "xws": "oozevial"
+    "xws": "oozevial",
+    "assetno": "####"
   },
   {
     "name": "item 235",
-    "points": 2465,
+    "points": 2714,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-235-small-rat.png",
-    "xws": "smallrat"
+    "xws": "smallrat",
+    "assetno": "1245"
   },
   {
     "name": "item #235",
-    "points": 2466,
+    "points": 2715,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-235-small-rat.png",
-    "xws": "smallrat"
+    "xws": "smallrat",
+    "assetno": "1245"
   },
   {
     "name": "small rat",
-    "points": 2467,
+    "points": 2716,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-235-small-rat.png",
-    "xws": "smallrat"
+    "xws": "smallrat",
+    "assetno": "1245"
+  },
+  {
+    "name": "1245",
+    "points": 2717,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-235-small-rat.png",
+    "xws": "smallrat",
+    "assetno": "1245"
   },
   {
     "name": "small rat",
-    "points": 2468,
+    "points": 2718,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-235-small-rat-back.png",
-    "xws": "smallrat"
+    "xws": "smallrat",
+    "assetno": "####"
   },
   {
     "name": "item 236",
-    "points": 2469,
+    "points": 2719,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-236-cracked-mirror.png",
-    "xws": "crackedmirror"
+    "xws": "crackedmirror",
+    "assetno": "1246"
   },
   {
     "name": "item #236",
-    "points": 2470,
+    "points": 2720,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-236-cracked-mirror.png",
-    "xws": "crackedmirror"
+    "xws": "crackedmirror",
+    "assetno": "1246"
   },
   {
     "name": "cracked mirror",
-    "points": 2471,
+    "points": 2721,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-236-cracked-mirror.png",
-    "xws": "crackedmirror"
+    "xws": "crackedmirror",
+    "assetno": "1246"
+  },
+  {
+    "name": "1246",
+    "points": 2722,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-236-cracked-mirror.png",
+    "xws": "crackedmirror",
+    "assetno": "1246"
   },
   {
     "name": "cracked mirror",
-    "points": 2472,
+    "points": 2723,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-236-cracked-mirror-back.png",
-    "xws": "crackedmirror"
+    "xws": "crackedmirror",
+    "assetno": "####"
   },
   {
     "name": "item 237",
-    "points": 2473,
+    "points": 2724,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-237-mesmerizing-seashell.png",
-    "xws": "mesmerizingseashell"
+    "xws": "mesmerizingseashell",
+    "assetno": "1247"
   },
   {
     "name": "item #237",
-    "points": 2474,
+    "points": 2725,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-237-mesmerizing-seashell.png",
-    "xws": "mesmerizingseashell"
+    "xws": "mesmerizingseashell",
+    "assetno": "1247"
   },
   {
     "name": "mesmerizing seashell",
-    "points": 2475,
+    "points": 2726,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-237-mesmerizing-seashell.png",
-    "xws": "mesmerizingseashell"
+    "xws": "mesmerizingseashell",
+    "assetno": "1247"
+  },
+  {
+    "name": "1247",
+    "points": 2727,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-237-mesmerizing-seashell.png",
+    "xws": "mesmerizingseashell",
+    "assetno": "1247"
   },
   {
     "name": "mesmerizing seashell",
-    "points": 2476,
+    "points": 2728,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-237-mesmerizing-seashell-back.png",
-    "xws": "mesmerizingseashell"
+    "xws": "mesmerizingseashell",
+    "assetno": "####"
   },
   {
     "name": "item 238",
-    "points": 2477,
+    "points": 2729,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-238-cracked-idol.png",
-    "xws": "crackedidol"
+    "xws": "crackedidol",
+    "assetno": "1248"
   },
   {
     "name": "item #238",
-    "points": 2478,
+    "points": 2730,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-238-cracked-idol.png",
-    "xws": "crackedidol"
+    "xws": "crackedidol",
+    "assetno": "1248"
   },
   {
     "name": "cracked idol",
-    "points": 2479,
+    "points": 2731,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-238-cracked-idol.png",
-    "xws": "crackedidol"
+    "xws": "crackedidol",
+    "assetno": "1248"
+  },
+  {
+    "name": "1248",
+    "points": 2732,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-238-cracked-idol.png",
+    "xws": "crackedidol",
+    "assetno": "1248"
   },
   {
     "name": "cracked idol",
-    "points": 2480,
+    "points": 2733,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-238-cracked-idol-back.png",
-    "xws": "crackedidol"
+    "xws": "crackedidol",
+    "assetno": "####"
   },
   {
     "name": "item 239",
-    "points": 2481,
+    "points": 2734,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-239-eye-of-the-storm.png",
-    "xws": "eyeofthestorm"
+    "xws": "eyeofthestorm",
+    "assetno": "1249"
   },
   {
     "name": "item #239",
-    "points": 2482,
+    "points": 2735,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-239-eye-of-the-storm.png",
-    "xws": "eyeofthestorm"
+    "xws": "eyeofthestorm",
+    "assetno": "1249"
   },
   {
     "name": "eye of the storm",
-    "points": 2483,
+    "points": 2736,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-239-eye-of-the-storm.png",
-    "xws": "eyeofthestorm"
+    "xws": "eyeofthestorm",
+    "assetno": "1249"
+  },
+  {
+    "name": "1249",
+    "points": 2737,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-239-eye-of-the-storm.png",
+    "xws": "eyeofthestorm",
+    "assetno": "1249"
   },
   {
     "name": "eye of the storm",
-    "points": 2484,
+    "points": 2738,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-239-eye-of-the-storm-back.png",
-    "xws": "eyeofthestorm"
+    "xws": "eyeofthestorm",
+    "assetno": "####"
   },
   {
     "name": "item 240",
-    "points": 2485,
+    "points": 2739,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-240-demons-gem.png",
-    "xws": "demonsgem"
+    "xws": "demonsgem",
+    "assetno": "1250"
   },
   {
     "name": "item #240",
-    "points": 2486,
+    "points": 2740,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-240-demons-gem.png",
-    "xws": "demonsgem"
+    "xws": "demonsgem",
+    "assetno": "1250"
   },
   {
     "name": "demon's gem",
-    "points": 2487,
+    "points": 2741,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-240-demons-gem.png",
-    "xws": "demonsgem"
+    "xws": "demonsgem",
+    "assetno": "1250"
+  },
+  {
+    "name": "1250",
+    "points": 2742,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-240-demons-gem.png",
+    "xws": "demonsgem",
+    "assetno": "1250"
   },
   {
     "name": "demon's gem",
-    "points": 2488,
+    "points": 2743,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-240-demons-gem-back.png",
-    "xws": "demonsgem"
+    "xws": "demonsgem",
+    "assetno": "####"
   },
   {
     "name": "item 241",
-    "points": 2489,
+    "points": 2744,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-241-shimmering-powder.png",
-    "xws": "shimmeringpowder"
+    "xws": "shimmeringpowder",
+    "assetno": "1251"
   },
   {
     "name": "item #241",
-    "points": 2490,
+    "points": 2745,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-241-shimmering-powder.png",
-    "xws": "shimmeringpowder"
+    "xws": "shimmeringpowder",
+    "assetno": "1251"
   },
   {
     "name": "shimmering powder",
-    "points": 2491,
+    "points": 2746,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-241-shimmering-powder.png",
-    "xws": "shimmeringpowder"
+    "xws": "shimmeringpowder",
+    "assetno": "1251"
+  },
+  {
+    "name": "1251",
+    "points": 2747,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-241-shimmering-powder.png",
+    "xws": "shimmeringpowder",
+    "assetno": "1251"
   },
   {
     "name": "shimmering powder",
-    "points": 2492,
+    "points": 2748,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-241-shimmering-powder-back.png",
-    "xws": "shimmeringpowder"
+    "xws": "shimmeringpowder",
+    "assetno": "####"
   },
   {
     "name": "item 242",
-    "points": 2493,
+    "points": 2749,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-242-lucky-dice.png",
-    "xws": "luckydice"
+    "xws": "luckydice",
+    "assetno": "1252"
   },
   {
     "name": "item #242",
-    "points": 2494,
+    "points": 2750,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-242-lucky-dice.png",
-    "xws": "luckydice"
+    "xws": "luckydice",
+    "assetno": "1252"
   },
   {
     "name": "lucky dice",
-    "points": 2495,
+    "points": 2751,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-242-lucky-dice.png",
-    "xws": "luckydice"
+    "xws": "luckydice",
+    "assetno": "1252"
+  },
+  {
+    "name": "1252",
+    "points": 2752,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-242-lucky-dice.png",
+    "xws": "luckydice",
+    "assetno": "1252"
   },
   {
     "name": "lucky dice",
-    "points": 2496,
+    "points": 2753,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-242-lucky-dice-back.png",
-    "xws": "luckydice"
+    "xws": "luckydice",
+    "assetno": "####"
   },
   {
     "name": "item 243",
-    "points": 2497,
+    "points": 2754,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-243-cursed-rock.png",
-    "xws": "cursedrock"
+    "xws": "cursedrock",
+    "assetno": "1253"
   },
   {
     "name": "item #243",
-    "points": 2498,
+    "points": 2755,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-243-cursed-rock.png",
-    "xws": "cursedrock"
+    "xws": "cursedrock",
+    "assetno": "1253"
   },
   {
     "name": "cursed rock",
-    "points": 2499,
+    "points": 2756,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-243-cursed-rock.png",
-    "xws": "cursedrock"
+    "xws": "cursedrock",
+    "assetno": "1253"
+  },
+  {
+    "name": "1253",
+    "points": 2757,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-243-cursed-rock.png",
+    "xws": "cursedrock",
+    "assetno": "1253"
   },
   {
     "name": "cursed rock",
-    "points": 2500,
+    "points": 2758,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-243-cursed-rock-back.png",
-    "xws": "cursedrock"
+    "xws": "cursedrock",
+    "assetno": "####"
   },
   {
     "name": "item 244",
-    "points": 2501,
+    "points": 2759,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-244-ember-energy-source.png",
-    "xws": "emberenergysource"
+    "xws": "emberenergysource",
+    "assetno": "1254"
   },
   {
     "name": "item #244",
-    "points": 2502,
+    "points": 2760,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-244-ember-energy-source.png",
-    "xws": "emberenergysource"
+    "xws": "emberenergysource",
+    "assetno": "1254"
   },
   {
     "name": "ember energy source",
-    "points": 2503,
+    "points": 2761,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-244-ember-energy-source.png",
-    "xws": "emberenergysource"
+    "xws": "emberenergysource",
+    "assetno": "1254"
+  },
+  {
+    "name": "1254",
+    "points": 2762,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-244-ember-energy-source.png",
+    "xws": "emberenergysource",
+    "assetno": "1254"
   },
   {
     "name": "ember energy source",
-    "points": 2504,
+    "points": 2763,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-244-ember-energy-source-back.png",
-    "xws": "emberenergysource"
+    "xws": "emberenergysource",
+    "assetno": "####"
   },
   {
     "name": "item 245",
-    "points": 2505,
+    "points": 2764,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245a-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1255"
   },
   {
     "name": "item #245",
-    "points": 2506,
+    "points": 2765,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245a-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1255"
   },
   {
     "name": "ancient coin",
-    "points": 2507,
+    "points": 2766,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245a-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1255"
+  },
+  {
+    "name": "1255",
+    "points": 2767,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-245a-ancient-coin.png",
+    "xws": "ancientcoin",
+    "assetno": "1255"
   },
   {
     "name": "ancient coin",
-    "points": 2508,
+    "points": 2768,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245a-ancient-coin-back.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "####"
   },
   {
     "name": "item 245",
-    "points": 2509,
+    "points": 2769,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245b-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1256"
   },
   {
     "name": "item #245",
-    "points": 2510,
+    "points": 2770,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245b-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1256"
   },
   {
     "name": "ancient coin",
-    "points": 2511,
+    "points": 2771,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245b-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1256"
+  },
+  {
+    "name": "1256",
+    "points": 2772,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-245b-ancient-coin.png",
+    "xws": "ancientcoin",
+    "assetno": "1256"
   },
   {
     "name": "ancient coin",
-    "points": 2512,
+    "points": 2773,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245b-ancient-coin-back.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "####"
   },
   {
     "name": "item 245",
-    "points": 2513,
+    "points": 2774,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245c-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1257"
   },
   {
     "name": "item #245",
-    "points": 2514,
+    "points": 2775,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245c-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1257"
   },
   {
     "name": "ancient coin",
-    "points": 2515,
+    "points": 2776,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245c-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1257"
+  },
+  {
+    "name": "1257",
+    "points": 2777,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-245c-ancient-coin.png",
+    "xws": "ancientcoin",
+    "assetno": "1257"
   },
   {
     "name": "ancient coin",
-    "points": 2516,
+    "points": 2778,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245c-ancient-coin-back.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "####"
   },
   {
     "name": "item 245",
-    "points": 2517,
+    "points": 2779,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245d-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1258"
   },
   {
     "name": "item #245",
-    "points": 2518,
+    "points": 2780,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245d-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1258"
   },
   {
     "name": "ancient coin",
-    "points": 2519,
+    "points": 2781,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245d-ancient-coin.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "1258"
+  },
+  {
+    "name": "1258",
+    "points": 2782,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-245d-ancient-coin.png",
+    "xws": "ancientcoin",
+    "assetno": "1258"
   },
   {
     "name": "ancient coin",
-    "points": 2520,
+    "points": 2783,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-245d-ancient-coin-back.png",
-    "xws": "ancientcoin"
+    "xws": "ancientcoin",
+    "assetno": "####"
   },
   {
     "name": "item 246",
-    "points": 2521,
+    "points": 2784,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-246-key-card.png",
-    "xws": "keycard"
+    "xws": "keycard",
+    "assetno": "1259"
   },
   {
     "name": "item #246",
-    "points": 2522,
+    "points": 2785,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-246-key-card.png",
-    "xws": "keycard"
+    "xws": "keycard",
+    "assetno": "1259"
   },
   {
     "name": "key card",
-    "points": 2523,
+    "points": 2786,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-246-key-card.png",
-    "xws": "keycard"
+    "xws": "keycard",
+    "assetno": "1259"
+  },
+  {
+    "name": "1259",
+    "points": 2787,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-246-key-card.png",
+    "xws": "keycard",
+    "assetno": "1259"
   },
   {
     "name": "key card",
-    "points": 2524,
+    "points": 2788,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-246-key-card-back.png",
-    "xws": "keycard"
+    "xws": "keycard",
+    "assetno": "####"
   },
   {
     "name": "item 247",
-    "points": 2525,
+    "points": 2789,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-247-trainers-net.png",
-    "xws": "trainersnet"
+    "xws": "trainersnet",
+    "assetno": "1260"
   },
   {
     "name": "item #247",
-    "points": 2526,
+    "points": 2790,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-247-trainers-net.png",
-    "xws": "trainersnet"
+    "xws": "trainersnet",
+    "assetno": "1260"
   },
   {
     "name": "trainer's net",
-    "points": 2527,
+    "points": 2791,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-247-trainers-net.png",
-    "xws": "trainersnet"
+    "xws": "trainersnet",
+    "assetno": "1260"
+  },
+  {
+    "name": "1260",
+    "points": 2792,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/193-247/fh-247-trainers-net.png",
+    "xws": "trainersnet",
+    "assetno": "1260"
   },
   {
     "name": "trainer's net",
-    "points": 2528,
+    "points": 2793,
     "expansion": "frosthaven",
     "image": "items/frosthaven/193-247/fh-247-trainers-net-back.png",
-    "xws": "trainersnet"
+    "xws": "trainersnet",
+    "assetno": "####"
   },
   {
     "name": "item 248",
-    "points": 2529,
+    "points": 2794,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-248-wanderers-club.png",
-    "xws": "wanderersclub"
+    "xws": "wanderersclub",
+    "assetno": "1542"
   },
   {
     "name": "item #248",
-    "points": 2530,
+    "points": 2795,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-248-wanderers-club.png",
-    "xws": "wanderersclub"
+    "xws": "wanderersclub",
+    "assetno": "1542"
   },
   {
     "name": "wanderer's club",
-    "points": 2531,
+    "points": 2796,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-248-wanderers-club.png",
-    "xws": "wanderersclub"
+    "xws": "wanderersclub",
+    "assetno": "1542"
+  },
+  {
+    "name": "1542",
+    "points": 2797,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-248-wanderers-club.png",
+    "xws": "wanderersclub",
+    "assetno": "1542"
   },
   {
     "name": "wanderer's club",
-    "points": 2532,
+    "points": 2798,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-248-wanderers-club-back.png",
-    "xws": "wanderersclub"
+    "xws": "wanderersclub",
+    "assetno": "####"
   },
   {
     "name": "item 249",
-    "points": 2533,
+    "points": 2799,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-249-recalibration-trigger.png",
-    "xws": "recalibrationtrigger"
+    "xws": "recalibrationtrigger",
+    "assetno": "1543"
   },
   {
     "name": "item #249",
-    "points": 2534,
+    "points": 2800,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-249-recalibration-trigger.png",
-    "xws": "recalibrationtrigger"
+    "xws": "recalibrationtrigger",
+    "assetno": "1543"
   },
   {
     "name": "recalibration trigger",
-    "points": 2535,
+    "points": 2801,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-249-recalibration-trigger.png",
-    "xws": "recalibrationtrigger"
+    "xws": "recalibrationtrigger",
+    "assetno": "1543"
+  },
+  {
+    "name": "1543",
+    "points": 2802,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-249-recalibration-trigger.png",
+    "xws": "recalibrationtrigger",
+    "assetno": "1543"
   },
   {
     "name": "recalibration trigger",
-    "points": 2536,
+    "points": 2803,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-249-recalibration-trigger-back.png",
-    "xws": "recalibrationtrigger"
+    "xws": "recalibrationtrigger",
+    "assetno": "####"
   },
   {
     "name": "item 250",
-    "points": 2537,
+    "points": 2804,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-250-spear-of-justice.png",
-    "xws": "spearofjustice"
+    "xws": "spearofjustice",
+    "assetno": "1544"
   },
   {
     "name": "item #250",
-    "points": 2538,
+    "points": 2805,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-250-spear-of-justice.png",
-    "xws": "spearofjustice"
+    "xws": "spearofjustice",
+    "assetno": "1544"
   },
   {
     "name": "spear of justice",
-    "points": 2539,
+    "points": 2806,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-250-spear-of-justice.png",
-    "xws": "spearofjustice"
+    "xws": "spearofjustice",
+    "assetno": "1544"
+  },
+  {
+    "name": "1544",
+    "points": 2807,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-250-spear-of-justice.png",
+    "xws": "spearofjustice",
+    "assetno": "1544"
   },
   {
     "name": "spear of justice",
-    "points": 2540,
+    "points": 2808,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-250-spear-of-justice-back.png",
-    "xws": "spearofjustice"
+    "xws": "spearofjustice",
+    "assetno": "####"
   },
   {
     "name": "item 251",
-    "points": 2541,
+    "points": 2809,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-251-soul-urn.png",
-    "xws": "soulurn"
+    "xws": "soulurn",
+    "assetno": "1545"
   },
   {
     "name": "item #251",
-    "points": 2542,
+    "points": 2810,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-251-soul-urn.png",
-    "xws": "soulurn"
+    "xws": "soulurn",
+    "assetno": "1545"
   },
   {
     "name": "soul urn",
-    "points": 2543,
+    "points": 2811,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-251-soul-urn.png",
-    "xws": "soulurn"
+    "xws": "soulurn",
+    "assetno": "1545"
+  },
+  {
+    "name": "1545",
+    "points": 2812,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-251-soul-urn.png",
+    "xws": "soulurn",
+    "assetno": "1545"
   },
   {
     "name": "soul urn",
-    "points": 2544,
+    "points": 2813,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-251-soul-urn-back.png",
-    "xws": "soulurn"
+    "xws": "soulurn",
+    "assetno": "####"
   },
   {
     "name": "item 252",
-    "points": 2545,
+    "points": 2814,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-252-black-earth-codex.png",
-    "xws": "blackearthcodex"
+    "xws": "blackearthcodex",
+    "assetno": "1546"
   },
   {
     "name": "item #252",
-    "points": 2546,
+    "points": 2815,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-252-black-earth-codex.png",
-    "xws": "blackearthcodex"
+    "xws": "blackearthcodex",
+    "assetno": "1546"
   },
   {
     "name": "black earth codex",
-    "points": 2547,
+    "points": 2816,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-252-black-earth-codex.png",
-    "xws": "blackearthcodex"
+    "xws": "blackearthcodex",
+    "assetno": "1546"
+  },
+  {
+    "name": "1546",
+    "points": 2817,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-252-black-earth-codex.png",
+    "xws": "blackearthcodex",
+    "assetno": "1546"
   },
   {
     "name": "black earth codex",
-    "points": 2548,
+    "points": 2818,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-252-black-earth-codex-back.png",
-    "xws": "blackearthcodex"
+    "xws": "blackearthcodex",
+    "assetno": "####"
   },
   {
     "name": "item 253",
-    "points": 2549,
+    "points": 2819,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-253-mask-of-duality.png",
-    "xws": "maskofduality"
+    "xws": "maskofduality",
+    "assetno": "1547"
   },
   {
     "name": "item #253",
-    "points": 2550,
+    "points": 2820,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-253-mask-of-duality.png",
-    "xws": "maskofduality"
+    "xws": "maskofduality",
+    "assetno": "1547"
   },
   {
     "name": "mask of duality",
-    "points": 2551,
+    "points": 2821,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-253-mask-of-duality.png",
-    "xws": "maskofduality"
+    "xws": "maskofduality",
+    "assetno": "1547"
+  },
+  {
+    "name": "1547",
+    "points": 2822,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-253-mask-of-duality.png",
+    "xws": "maskofduality",
+    "assetno": "1547"
   },
   {
     "name": "mask of duality",
-    "points": 2552,
+    "points": 2823,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-253-mask-of-duality-back.png",
-    "xws": "maskofduality"
+    "xws": "maskofduality",
+    "assetno": "####"
   },
   {
     "name": "item 254",
-    "points": 2553,
+    "points": 2824,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-254-ancestral-blade.png",
-    "xws": "ancestralblade"
+    "xws": "ancestralblade",
+    "assetno": "1548"
   },
   {
     "name": "item #254",
-    "points": 2554,
+    "points": 2825,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-254-ancestral-blade.png",
-    "xws": "ancestralblade"
+    "xws": "ancestralblade",
+    "assetno": "1548"
   },
   {
     "name": "ancestral blade",
-    "points": 2555,
+    "points": 2826,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-254-ancestral-blade.png",
-    "xws": "ancestralblade"
+    "xws": "ancestralblade",
+    "assetno": "1548"
+  },
+  {
+    "name": "1548",
+    "points": 2827,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-254-ancestral-blade.png",
+    "xws": "ancestralblade",
+    "assetno": "1548"
   },
   {
     "name": "ancestral blade",
-    "points": 2556,
+    "points": 2828,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-254-ancestral-blade-back.png",
-    "xws": "ancestralblade"
+    "xws": "ancestralblade",
+    "assetno": "####"
   },
   {
     "name": "item 255",
-    "points": 2557,
+    "points": 2829,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-255-mountains-heart.png",
-    "xws": "mountainsheart"
+    "xws": "mountainsheart",
+    "assetno": "1549"
   },
   {
     "name": "item #255",
-    "points": 2558,
+    "points": 2830,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-255-mountains-heart.png",
-    "xws": "mountainsheart"
+    "xws": "mountainsheart",
+    "assetno": "1549"
   },
   {
     "name": "mountain's heart",
-    "points": 2559,
+    "points": 2831,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-255-mountains-heart.png",
-    "xws": "mountainsheart"
+    "xws": "mountainsheart",
+    "assetno": "1549"
+  },
+  {
+    "name": "1549",
+    "points": 2832,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-255-mountains-heart.png",
+    "xws": "mountainsheart",
+    "assetno": "1549"
   },
   {
     "name": "mountain's heart",
-    "points": 2560,
+    "points": 2833,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-255-mountains-heart-back.png",
-    "xws": "mountainsheart"
+    "xws": "mountainsheart",
+    "assetno": "####"
   },
   {
     "name": "item 256",
-    "points": 2561,
+    "points": 2834,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-256-sonorous-shard.png",
-    "xws": "sonorousshard"
+    "xws": "sonorousshard",
+    "assetno": "1550"
   },
   {
     "name": "item #256",
-    "points": 2562,
+    "points": 2835,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-256-sonorous-shard.png",
-    "xws": "sonorousshard"
+    "xws": "sonorousshard",
+    "assetno": "1550"
   },
   {
     "name": "sonorous shard",
-    "points": 2563,
+    "points": 2836,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-256-sonorous-shard.png",
-    "xws": "sonorousshard"
+    "xws": "sonorousshard",
+    "assetno": "1550"
+  },
+  {
+    "name": "1550",
+    "points": 2837,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-256-sonorous-shard.png",
+    "xws": "sonorousshard",
+    "assetno": "1550"
   },
   {
     "name": "sonorous shard",
-    "points": 2564,
+    "points": 2838,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-256-sonorous-shard-back.png",
-    "xws": "sonorousshard"
+    "xws": "sonorousshard",
+    "assetno": "####"
   },
   {
     "name": "item 257",
-    "points": 2565,
+    "points": 2839,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-257-sly-camouflage.png",
-    "xws": "slycamouflage"
+    "xws": "slycamouflage",
+    "assetno": "1551"
   },
   {
     "name": "item #257",
-    "points": 2566,
+    "points": 2840,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-257-sly-camouflage.png",
-    "xws": "slycamouflage"
+    "xws": "slycamouflage",
+    "assetno": "1551"
   },
   {
     "name": "sly camouflage",
-    "points": 2567,
+    "points": 2841,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-257-sly-camouflage.png",
-    "xws": "slycamouflage"
+    "xws": "slycamouflage",
+    "assetno": "1551"
+  },
+  {
+    "name": "1551",
+    "points": 2842,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-257-sly-camouflage.png",
+    "xws": "slycamouflage",
+    "assetno": "1551"
   },
   {
     "name": "sly camouflage",
-    "points": 2568,
+    "points": 2843,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-257-sly-camouflage-back.png",
-    "xws": "slycamouflage"
+    "xws": "slycamouflage",
+    "assetno": "####"
   },
   {
     "name": "item 258",
-    "points": 2569,
+    "points": 2844,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-258-skull-of-agony.png",
-    "xws": "skullofagony"
+    "xws": "skullofagony",
+    "assetno": "1552"
   },
   {
     "name": "item #258",
-    "points": 2570,
+    "points": 2845,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-258-skull-of-agony.png",
-    "xws": "skullofagony"
+    "xws": "skullofagony",
+    "assetno": "1552"
   },
   {
     "name": "skull of agony",
-    "points": 2571,
+    "points": 2846,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-258-skull-of-agony.png",
-    "xws": "skullofagony"
+    "xws": "skullofagony",
+    "assetno": "1552"
+  },
+  {
+    "name": "1552",
+    "points": 2847,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-258-skull-of-agony.png",
+    "xws": "skullofagony",
+    "assetno": "1552"
   },
   {
     "name": "skull of agony",
-    "points": 2572,
+    "points": 2848,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-258-skull-of-agony-back.png",
-    "xws": "skullofagony"
+    "xws": "skullofagony",
+    "assetno": "####"
   },
   {
     "name": "item 259",
-    "points": 2573,
+    "points": 2849,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-259-storm-carving.png",
-    "xws": "stormcarving"
+    "xws": "stormcarving",
+    "assetno": "1553"
   },
   {
     "name": "item #259",
-    "points": 2574,
+    "points": 2850,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-259-storm-carving.png",
-    "xws": "stormcarving"
+    "xws": "stormcarving",
+    "assetno": "1553"
   },
   {
     "name": "storm carving",
-    "points": 2575,
+    "points": 2851,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-259-storm-carving.png",
-    "xws": "stormcarving"
+    "xws": "stormcarving",
+    "assetno": "1553"
+  },
+  {
+    "name": "1553",
+    "points": 2852,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-259-storm-carving.png",
+    "xws": "stormcarving",
+    "assetno": "1553"
   },
   {
     "name": "storm carving",
-    "points": 2576,
+    "points": 2853,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-259-storm-carving-back.png",
-    "xws": "stormcarving"
+    "xws": "stormcarving",
+    "assetno": "####"
   },
   {
     "name": "item 260",
-    "points": 2577,
+    "points": 2854,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-260-freezing-orb.png",
-    "xws": "freezingorb"
+    "xws": "freezingorb",
+    "assetno": "1554"
   },
   {
     "name": "item #260",
-    "points": 2578,
+    "points": 2855,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-260-freezing-orb.png",
-    "xws": "freezingorb"
+    "xws": "freezingorb",
+    "assetno": "1554"
   },
   {
     "name": "freezing orb",
-    "points": 2579,
+    "points": 2856,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-260-freezing-orb.png",
-    "xws": "freezingorb"
+    "xws": "freezingorb",
+    "assetno": "1554"
+  },
+  {
+    "name": "1554",
+    "points": 2857,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-260-freezing-orb.png",
+    "xws": "freezingorb",
+    "assetno": "1554"
   },
   {
     "name": "freezing orb",
-    "points": 2580,
+    "points": 2858,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-260-freezing-orb-back.png",
-    "xws": "freezingorb"
+    "xws": "freezingorb",
+    "assetno": "####"
   },
   {
     "name": "item 261",
-    "points": 2581,
+    "points": 2859,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-261-energized-module.png",
-    "xws": "energizedmodule"
+    "xws": "energizedmodule",
+    "assetno": "1555"
   },
   {
     "name": "item #261",
-    "points": 2582,
+    "points": 2860,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-261-energized-module.png",
-    "xws": "energizedmodule"
+    "xws": "energizedmodule",
+    "assetno": "1555"
   },
   {
     "name": "energized module",
-    "points": 2583,
+    "points": 2861,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-261-energized-module.png",
-    "xws": "energizedmodule"
+    "xws": "energizedmodule",
+    "assetno": "1555"
+  },
+  {
+    "name": "1555",
+    "points": 2862,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-261-energized-module.png",
+    "xws": "energizedmodule",
+    "assetno": "1555"
   },
   {
     "name": "energized module",
-    "points": 2584,
+    "points": 2863,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-261-energized-module-back.png",
-    "xws": "energizedmodule"
+    "xws": "energizedmodule",
+    "assetno": "####"
   },
   {
     "name": "item 262",
-    "points": 2585,
+    "points": 2864,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-262-exhaust-boots.png",
-    "xws": "exhaustboots"
+    "xws": "exhaustboots",
+    "assetno": "1556"
   },
   {
     "name": "item #262",
-    "points": 2586,
+    "points": 2865,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-262-exhaust-boots.png",
-    "xws": "exhaustboots"
+    "xws": "exhaustboots",
+    "assetno": "1556"
   },
   {
     "name": "exhaust boots",
-    "points": 2587,
+    "points": 2866,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-262-exhaust-boots.png",
-    "xws": "exhaustboots"
+    "xws": "exhaustboots",
+    "assetno": "1556"
+  },
+  {
+    "name": "1556",
+    "points": 2867,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-262-exhaust-boots.png",
+    "xws": "exhaustboots",
+    "assetno": "1556"
   },
   {
     "name": "exhaust boots",
-    "points": 2588,
+    "points": 2868,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-262-exhaust-boots-back.png",
-    "xws": "exhaustboots"
+    "xws": "exhaustboots",
+    "assetno": "####"
   },
   {
     "name": "item 263",
-    "points": 2589,
+    "points": 2869,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-263-warlords-skull.png",
-    "xws": "warlordsskull"
+    "xws": "warlordsskull",
+    "assetno": "1557"
   },
   {
     "name": "item #263",
-    "points": 2590,
+    "points": 2870,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-263-warlords-skull.png",
-    "xws": "warlordsskull"
+    "xws": "warlordsskull",
+    "assetno": "1557"
   },
   {
     "name": "warlord's skull",
-    "points": 2591,
+    "points": 2871,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-263-warlords-skull.png",
-    "xws": "warlordsskull"
+    "xws": "warlordsskull",
+    "assetno": "1557"
+  },
+  {
+    "name": "1557",
+    "points": 2872,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-263-warlords-skull.png",
+    "xws": "warlordsskull",
+    "assetno": "1557"
   },
   {
     "name": "warlord's skull",
-    "points": 2592,
+    "points": 2873,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-263-warlords-skull-back.png",
-    "xws": "warlordsskull"
+    "xws": "warlordsskull",
+    "assetno": "####"
   },
   {
     "name": "item 264",
-    "points": 2593,
+    "points": 2874,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-264-spiraled-medallion.png",
-    "xws": "spiraledmedallion"
+    "xws": "spiraledmedallion",
+    "assetno": "1558"
   },
   {
     "name": "item #264",
-    "points": 2594,
+    "points": 2875,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-264-spiraled-medallion.png",
-    "xws": "spiraledmedallion"
+    "xws": "spiraledmedallion",
+    "assetno": "1558"
   },
   {
     "name": "spiraled medallion",
-    "points": 2595,
+    "points": 2876,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-264-spiraled-medallion.png",
-    "xws": "spiraledmedallion"
+    "xws": "spiraledmedallion",
+    "assetno": "1558"
+  },
+  {
+    "name": "1558",
+    "points": 2877,
+    "expansion": "frosthaven",
+    "image": "items/frosthaven/248-264/fh-264-spiraled-medallion.png",
+    "xws": "spiraledmedallion",
+    "assetno": "1558"
   },
   {
     "name": "spiraled medallion",
-    "points": 2596,
+    "points": 2878,
     "expansion": "frosthaven",
     "image": "items/frosthaven/248-264/fh-264-spiraled-medallion-back.png",
-    "xws": "spiraledmedallion"
+    "xws": "spiraledmedallion",
+    "assetno": "####"
   },
   {
     "name": "item 1",
-    "points": 2597,
+    "points": 2879,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19411,7 +23041,7 @@
   },
   {
     "name": "item 01",
-    "points": 2598,
+    "points": 2880,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19419,7 +23049,7 @@
   },
   {
     "name": "item 001",
-    "points": 2599,
+    "points": 2881,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19427,7 +23057,7 @@
   },
   {
     "name": "item #1",
-    "points": 2600,
+    "points": 2882,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19435,7 +23065,7 @@
   },
   {
     "name": "item #01",
-    "points": 2601,
+    "points": 2883,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19443,7 +23073,7 @@
   },
   {
     "name": "item #001",
-    "points": 2602,
+    "points": 2884,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19451,7 +23081,7 @@
   },
   {
     "name": "eagle-eye goggles",
-    "points": 2603,
+    "points": 2885,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19459,7 +23089,7 @@
   },
   {
     "name": "476",
-    "points": 2604,
+    "points": 2886,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles.png",
     "xws": "eagleeyegoggles",
@@ -19467,7 +23097,7 @@
   },
   {
     "name": "eagle-eye goggles",
-    "points": 2605,
+    "points": 2887,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-001-eagle-eye-goggles-back.png",
     "xws": "eagleeyegoggles",
@@ -19475,7 +23105,7 @@
   },
   {
     "name": "item 2",
-    "points": 2606,
+    "points": 2888,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19483,7 +23113,7 @@
   },
   {
     "name": "item 02",
-    "points": 2607,
+    "points": 2889,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19491,7 +23121,7 @@
   },
   {
     "name": "item 002",
-    "points": 2608,
+    "points": 2890,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19499,7 +23129,7 @@
   },
   {
     "name": "item #2",
-    "points": 2609,
+    "points": 2891,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19507,7 +23137,7 @@
   },
   {
     "name": "item #02",
-    "points": 2610,
+    "points": 2892,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19515,7 +23145,7 @@
   },
   {
     "name": "item #002",
-    "points": 2611,
+    "points": 2893,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19523,7 +23153,7 @@
   },
   {
     "name": "iron helmet",
-    "points": 2612,
+    "points": 2894,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19531,7 +23161,7 @@
   },
   {
     "name": "478",
-    "points": 2613,
+    "points": 2895,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet.png",
     "xws": "ironhelmet",
@@ -19539,7 +23169,7 @@
   },
   {
     "name": "iron helmet",
-    "points": 2614,
+    "points": 2896,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-002-iron-helmet-back.png",
     "xws": "ironhelmet",
@@ -19547,7 +23177,7 @@
   },
   {
     "name": "item 3",
-    "points": 2615,
+    "points": 2897,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19555,7 +23185,7 @@
   },
   {
     "name": "item 03",
-    "points": 2616,
+    "points": 2898,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19563,7 +23193,7 @@
   },
   {
     "name": "item 003",
-    "points": 2617,
+    "points": 2899,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19571,7 +23201,7 @@
   },
   {
     "name": "item #3",
-    "points": 2618,
+    "points": 2900,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19579,7 +23209,7 @@
   },
   {
     "name": "item #03",
-    "points": 2619,
+    "points": 2901,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19587,7 +23217,7 @@
   },
   {
     "name": "item #003",
-    "points": 2620,
+    "points": 2902,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19595,7 +23225,7 @@
   },
   {
     "name": "chain armor",
-    "points": 2621,
+    "points": 2903,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19603,7 +23233,7 @@
   },
   {
     "name": "480",
-    "points": 2622,
+    "points": 2904,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor.png",
     "xws": "chainarmor",
@@ -19611,7 +23241,7 @@
   },
   {
     "name": "chain armor",
-    "points": 2623,
+    "points": 2905,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-003-chain-armor-back.png",
     "xws": "chainarmor",
@@ -19619,7 +23249,7 @@
   },
   {
     "name": "item 4",
-    "points": 2624,
+    "points": 2906,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19627,7 +23257,7 @@
   },
   {
     "name": "item 04",
-    "points": 2625,
+    "points": 2907,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19635,7 +23265,7 @@
   },
   {
     "name": "item 004",
-    "points": 2626,
+    "points": 2908,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19643,7 +23273,7 @@
   },
   {
     "name": "item #4",
-    "points": 2627,
+    "points": 2909,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19651,7 +23281,7 @@
   },
   {
     "name": "item #04",
-    "points": 2628,
+    "points": 2910,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19659,7 +23289,7 @@
   },
   {
     "name": "item #004",
-    "points": 2629,
+    "points": 2911,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19667,7 +23297,7 @@
   },
   {
     "name": "studded leather",
-    "points": 2630,
+    "points": 2912,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19675,7 +23305,7 @@
   },
   {
     "name": "482",
-    "points": 2631,
+    "points": 2913,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather.png",
     "xws": "studdedleather",
@@ -19683,7 +23313,7 @@
   },
   {
     "name": "studded leather",
-    "points": 2632,
+    "points": 2914,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-004-studded-leather-back.png",
     "xws": "studdedleather",
@@ -19691,7 +23321,7 @@
   },
   {
     "name": "item 5",
-    "points": 2633,
+    "points": 2915,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19699,7 +23329,7 @@
   },
   {
     "name": "item 05",
-    "points": 2634,
+    "points": 2916,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19707,7 +23337,7 @@
   },
   {
     "name": "item 005",
-    "points": 2635,
+    "points": 2917,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19715,7 +23345,7 @@
   },
   {
     "name": "item #5",
-    "points": 2636,
+    "points": 2918,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19723,7 +23353,7 @@
   },
   {
     "name": "item #05",
-    "points": 2637,
+    "points": 2919,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19731,7 +23361,7 @@
   },
   {
     "name": "item #005",
-    "points": 2638,
+    "points": 2920,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19739,7 +23369,7 @@
   },
   {
     "name": "weathered boots",
-    "points": 2639,
+    "points": 2921,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19747,7 +23377,7 @@
   },
   {
     "name": "484",
-    "points": 2640,
+    "points": 2922,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots.png",
     "xws": "weatheredboots",
@@ -19755,7 +23385,7 @@
   },
   {
     "name": "weathered boots",
-    "points": 2641,
+    "points": 2923,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-005-weathered-boots-back.png",
     "xws": "weatheredboots",
@@ -19763,7 +23393,7 @@
   },
   {
     "name": "item 6",
-    "points": 2642,
+    "points": 2924,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19771,7 +23401,7 @@
   },
   {
     "name": "item 06",
-    "points": 2643,
+    "points": 2925,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19779,7 +23409,7 @@
   },
   {
     "name": "item 006",
-    "points": 2644,
+    "points": 2926,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19787,7 +23417,7 @@
   },
   {
     "name": "item #6",
-    "points": 2645,
+    "points": 2927,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19795,7 +23425,7 @@
   },
   {
     "name": "item #06",
-    "points": 2646,
+    "points": 2928,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19803,7 +23433,7 @@
   },
   {
     "name": "item #006",
-    "points": 2647,
+    "points": 2929,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19811,7 +23441,7 @@
   },
   {
     "name": "winged shoes",
-    "points": 2648,
+    "points": 2930,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19819,7 +23449,7 @@
   },
   {
     "name": "486",
-    "points": 2649,
+    "points": 2931,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes.png",
     "xws": "wingedshoes",
@@ -19827,7 +23457,7 @@
   },
   {
     "name": "winged shoes",
-    "points": 2650,
+    "points": 2932,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-006-winged-shoes-back.png",
     "xws": "wingedshoes",
@@ -19835,7 +23465,7 @@
   },
   {
     "name": "item 7",
-    "points": 2651,
+    "points": 2933,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19843,7 +23473,7 @@
   },
   {
     "name": "item 07",
-    "points": 2652,
+    "points": 2934,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19851,7 +23481,7 @@
   },
   {
     "name": "item 007",
-    "points": 2653,
+    "points": 2935,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19859,7 +23489,7 @@
   },
   {
     "name": "item #7",
-    "points": 2654,
+    "points": 2936,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19867,7 +23497,7 @@
   },
   {
     "name": "item #07",
-    "points": 2655,
+    "points": 2937,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19875,7 +23505,7 @@
   },
   {
     "name": "item #007",
-    "points": 2656,
+    "points": 2938,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19883,7 +23513,7 @@
   },
   {
     "name": "heater shield",
-    "points": 2657,
+    "points": 2939,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19891,7 +23521,7 @@
   },
   {
     "name": "488",
-    "points": 2658,
+    "points": 2940,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield.png",
     "xws": "heatershield",
@@ -19899,7 +23529,7 @@
   },
   {
     "name": "heater shield",
-    "points": 2659,
+    "points": 2941,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-007-heater-shield-back.png",
     "xws": "heatershield",
@@ -19907,7 +23537,7 @@
   },
   {
     "name": "item 8",
-    "points": 2660,
+    "points": 2942,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19915,7 +23545,7 @@
   },
   {
     "name": "item 08",
-    "points": 2661,
+    "points": 2943,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19923,7 +23553,7 @@
   },
   {
     "name": "item 008",
-    "points": 2662,
+    "points": 2944,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19931,7 +23561,7 @@
   },
   {
     "name": "item #8",
-    "points": 2663,
+    "points": 2945,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19939,7 +23569,7 @@
   },
   {
     "name": "item #08",
-    "points": 2664,
+    "points": 2946,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19947,7 +23577,7 @@
   },
   {
     "name": "item #008",
-    "points": 2665,
+    "points": 2947,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19955,7 +23585,7 @@
   },
   {
     "name": "throwing hammer",
-    "points": 2666,
+    "points": 2948,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19963,7 +23593,7 @@
   },
   {
     "name": "490",
-    "points": 2667,
+    "points": 2949,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer.png",
     "xws": "throwinghammer",
@@ -19971,7 +23601,7 @@
   },
   {
     "name": "throwing hammer",
-    "points": 2668,
+    "points": 2950,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-008-throwing-hammer-back.png",
     "xws": "throwinghammer",
@@ -19979,7 +23609,7 @@
   },
   {
     "name": "item 9",
-    "points": 2669,
+    "points": 2951,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -19987,7 +23617,7 @@
   },
   {
     "name": "item 09",
-    "points": 2670,
+    "points": 2952,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -19995,7 +23625,7 @@
   },
   {
     "name": "item 009",
-    "points": 2671,
+    "points": 2953,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -20003,7 +23633,7 @@
   },
   {
     "name": "item #9",
-    "points": 2672,
+    "points": 2954,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -20011,7 +23641,7 @@
   },
   {
     "name": "item #09",
-    "points": 2673,
+    "points": 2955,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -20019,7 +23649,7 @@
   },
   {
     "name": "item #009",
-    "points": 2674,
+    "points": 2956,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -20027,7 +23657,7 @@
   },
   {
     "name": "poison dagger",
-    "points": 2675,
+    "points": 2957,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -20035,7 +23665,7 @@
   },
   {
     "name": "492",
-    "points": 2676,
+    "points": 2958,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger.png",
     "xws": "poisondagger",
@@ -20043,7 +23673,7 @@
   },
   {
     "name": "poison dagger",
-    "points": 2677,
+    "points": 2959,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-009-poison-dagger-back.png",
     "xws": "poisondagger",
@@ -20051,7 +23681,7 @@
   },
   {
     "name": "item 10",
-    "points": 2678,
+    "points": 2960,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
     "xws": "ironspear",
@@ -20059,7 +23689,7 @@
   },
   {
     "name": "item 010",
-    "points": 2679,
+    "points": 2961,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
     "xws": "ironspear",
@@ -20067,7 +23697,7 @@
   },
   {
     "name": "item #10",
-    "points": 2680,
+    "points": 2962,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
     "xws": "ironspear",
@@ -20075,7 +23705,7 @@
   },
   {
     "name": "item #010",
-    "points": 2681,
+    "points": 2963,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
     "xws": "ironspear",
@@ -20083,7 +23713,7 @@
   },
   {
     "name": "iron spear",
-    "points": 2682,
+    "points": 2964,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
     "xws": "ironspear",
@@ -20091,7 +23721,7 @@
   },
   {
     "name": "494",
-    "points": 2683,
+    "points": 2965,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear.png",
     "xws": "ironspear",
@@ -20099,7 +23729,7 @@
   },
   {
     "name": "iron spear",
-    "points": 2684,
+    "points": 2966,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-010-iron-spear-back.png",
     "xws": "ironspear",
@@ -20107,7 +23737,7 @@
   },
   {
     "name": "item 11",
-    "points": 2685,
+    "points": 2967,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
     "xws": "healingpotion",
@@ -20115,7 +23745,7 @@
   },
   {
     "name": "item 011",
-    "points": 2686,
+    "points": 2968,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
     "xws": "healingpotion",
@@ -20123,7 +23753,7 @@
   },
   {
     "name": "item #11",
-    "points": 2687,
+    "points": 2969,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
     "xws": "healingpotion",
@@ -20131,7 +23761,7 @@
   },
   {
     "name": "item #011",
-    "points": 2688,
+    "points": 2970,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
     "xws": "healingpotion",
@@ -20139,7 +23769,7 @@
   },
   {
     "name": "healing potion",
-    "points": 2689,
+    "points": 2971,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
     "xws": "healingpotion",
@@ -20147,7 +23777,7 @@
   },
   {
     "name": "496",
-    "points": 2690,
+    "points": 2972,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion.png",
     "xws": "healingpotion",
@@ -20155,7 +23785,7 @@
   },
   {
     "name": "healing potion",
-    "points": 2691,
+    "points": 2973,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-011-healing-potion-back.png",
     "xws": "healingpotion",
@@ -20163,7 +23793,7 @@
   },
   {
     "name": "item 12",
-    "points": 2692,
+    "points": 2974,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
     "xws": "staminapotion",
@@ -20171,7 +23801,7 @@
   },
   {
     "name": "item 012",
-    "points": 2693,
+    "points": 2975,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
     "xws": "staminapotion",
@@ -20179,7 +23809,7 @@
   },
   {
     "name": "item #12",
-    "points": 2694,
+    "points": 2976,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
     "xws": "staminapotion",
@@ -20187,7 +23817,7 @@
   },
   {
     "name": "item #012",
-    "points": 2695,
+    "points": 2977,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
     "xws": "staminapotion",
@@ -20195,7 +23825,7 @@
   },
   {
     "name": "stamina potion",
-    "points": 2696,
+    "points": 2978,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
     "xws": "staminapotion",
@@ -20203,7 +23833,7 @@
   },
   {
     "name": "498",
-    "points": 2697,
+    "points": 2979,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion.png",
     "xws": "staminapotion",
@@ -20211,7 +23841,7 @@
   },
   {
     "name": "stamina potion",
-    "points": 2698,
+    "points": 2980,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-012-stamina-potion-back.png",
     "xws": "staminapotion",
@@ -20219,7 +23849,7 @@
   },
   {
     "name": "item 13",
-    "points": 2699,
+    "points": 2981,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
     "xws": "powerpotion",
@@ -20227,7 +23857,7 @@
   },
   {
     "name": "item 013",
-    "points": 2700,
+    "points": 2982,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
     "xws": "powerpotion",
@@ -20235,7 +23865,7 @@
   },
   {
     "name": "item #13",
-    "points": 2701,
+    "points": 2983,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
     "xws": "powerpotion",
@@ -20243,7 +23873,7 @@
   },
   {
     "name": "item #013",
-    "points": 2702,
+    "points": 2984,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
     "xws": "powerpotion",
@@ -20251,7 +23881,7 @@
   },
   {
     "name": "power potion",
-    "points": 2703,
+    "points": 2985,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
     "xws": "powerpotion",
@@ -20259,7 +23889,7 @@
   },
   {
     "name": "500",
-    "points": 2704,
+    "points": 2986,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion.png",
     "xws": "powerpotion",
@@ -20267,7 +23897,7 @@
   },
   {
     "name": "power potion",
-    "points": 2705,
+    "points": 2987,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/001-013/jl-013-power-potion-back.png",
     "xws": "powerpotion",
@@ -20275,7 +23905,7 @@
   },
   {
     "name": "item 14",
-    "points": 2706,
+    "points": 2988,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
     "xws": "manapotion",
@@ -20283,7 +23913,7 @@
   },
   {
     "name": "item 014",
-    "points": 2707,
+    "points": 2989,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
     "xws": "manapotion",
@@ -20291,7 +23921,7 @@
   },
   {
     "name": "item #14",
-    "points": 2708,
+    "points": 2990,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
     "xws": "manapotion",
@@ -20299,7 +23929,7 @@
   },
   {
     "name": "item #014",
-    "points": 2709,
+    "points": 2991,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
     "xws": "manapotion",
@@ -20307,7 +23937,7 @@
   },
   {
     "name": "mana potion",
-    "points": 2710,
+    "points": 2992,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
     "xws": "manapotion",
@@ -20315,7 +23945,7 @@
   },
   {
     "name": "502",
-    "points": 2711,
+    "points": 2993,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/014/jl-014-mana-potion.png",
     "xws": "manapotion",
@@ -20323,7 +23953,7 @@
   },
   {
     "name": "mana potion",
-    "points": 2712,
+    "points": 2994,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/014/jl-014-mana-potion-back.png",
     "xws": "manapotion",
@@ -20331,7 +23961,7 @@
   },
   {
     "name": "item 15",
-    "points": 2713,
+    "points": 2995,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
     "xws": "amuletoflife",
@@ -20339,7 +23969,7 @@
   },
   {
     "name": "item 015",
-    "points": 2714,
+    "points": 2996,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
     "xws": "amuletoflife",
@@ -20347,7 +23977,7 @@
   },
   {
     "name": "item #15",
-    "points": 2715,
+    "points": 2997,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
     "xws": "amuletoflife",
@@ -20355,7 +23985,7 @@
   },
   {
     "name": "item #015",
-    "points": 2716,
+    "points": 2998,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
     "xws": "amuletoflife",
@@ -20363,7 +23993,7 @@
   },
   {
     "name": "amulet of life",
-    "points": 2717,
+    "points": 2999,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
     "xws": "amuletoflife",
@@ -20371,7 +24001,7 @@
   },
   {
     "name": "504",
-    "points": 2718,
+    "points": 3000,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life.png",
     "xws": "amuletoflife",
@@ -20379,7 +24009,7 @@
   },
   {
     "name": "amulet of life",
-    "points": 2719,
+    "points": 3001,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-015-amulet-of-life-back.png",
     "xws": "amuletoflife",
@@ -20387,7 +24017,7 @@
   },
   {
     "name": "item 16",
-    "points": 2720,
+    "points": 3002,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
     "xws": "robesofevocation",
@@ -20395,7 +24025,7 @@
   },
   {
     "name": "item 016",
-    "points": 2721,
+    "points": 3003,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
     "xws": "robesofevocation",
@@ -20403,7 +24033,7 @@
   },
   {
     "name": "item #16",
-    "points": 2722,
+    "points": 3004,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
     "xws": "robesofevocation",
@@ -20411,7 +24041,7 @@
   },
   {
     "name": "item #016",
-    "points": 2723,
+    "points": 3005,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
     "xws": "robesofevocation",
@@ -20419,7 +24049,7 @@
   },
   {
     "name": "robes of evocation",
-    "points": 2724,
+    "points": 3006,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
     "xws": "robesofevocation",
@@ -20427,7 +24057,7 @@
   },
   {
     "name": "505",
-    "points": 2725,
+    "points": 3007,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation.png",
     "xws": "robesofevocation",
@@ -20435,7 +24065,7 @@
   },
   {
     "name": "robes of evocation",
-    "points": 2726,
+    "points": 3008,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-016-robes-of-evocation-back.png",
     "xws": "robesofevocation",
@@ -20443,7 +24073,7 @@
   },
   {
     "name": "item 17",
-    "points": 2727,
+    "points": 3009,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
     "xws": "comfortableshoes",
@@ -20451,7 +24081,7 @@
   },
   {
     "name": "item 017",
-    "points": 2728,
+    "points": 3010,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
     "xws": "comfortableshoes",
@@ -20459,7 +24089,7 @@
   },
   {
     "name": "item #17",
-    "points": 2729,
+    "points": 3011,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
     "xws": "comfortableshoes",
@@ -20467,7 +24097,7 @@
   },
   {
     "name": "item #017",
-    "points": 2730,
+    "points": 3012,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
     "xws": "comfortableshoes",
@@ -20475,7 +24105,7 @@
   },
   {
     "name": "comfortable shoes",
-    "points": 2731,
+    "points": 3013,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
     "xws": "comfortableshoes",
@@ -20483,7 +24113,7 @@
   },
   {
     "name": "506",
-    "points": 2732,
+    "points": 3014,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes.png",
     "xws": "comfortableshoes",
@@ -20491,7 +24121,7 @@
   },
   {
     "name": "comfortable shoes",
-    "points": 2733,
+    "points": 3015,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-017-comfortable-shoes-back.png",
     "xws": "comfortableshoes",
@@ -20499,7 +24129,7 @@
   },
   {
     "name": "item 18",
-    "points": 2734,
+    "points": 3016,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
     "xws": "battleaxe",
@@ -20507,7 +24137,7 @@
   },
   {
     "name": "item 018",
-    "points": 2735,
+    "points": 3017,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
     "xws": "battleaxe",
@@ -20515,7 +24145,7 @@
   },
   {
     "name": "item #18",
-    "points": 2736,
+    "points": 3018,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
     "xws": "battleaxe",
@@ -20523,7 +24153,7 @@
   },
   {
     "name": "item #018",
-    "points": 2737,
+    "points": 3019,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
     "xws": "battleaxe",
@@ -20531,7 +24161,7 @@
   },
   {
     "name": "battle-axe",
-    "points": 2738,
+    "points": 3020,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
     "xws": "battleaxe",
@@ -20539,7 +24169,7 @@
   },
   {
     "name": "507",
-    "points": 2739,
+    "points": 3021,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe.png",
     "xws": "battleaxe",
@@ -20547,7 +24177,7 @@
   },
   {
     "name": "battle-axe",
-    "points": 2740,
+    "points": 3022,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-018-battle-axe-back.png",
     "xws": "battleaxe",
@@ -20555,7 +24185,7 @@
   },
   {
     "name": "item 19",
-    "points": 2741,
+    "points": 3023,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
     "xws": "blackcandle",
@@ -20563,7 +24193,7 @@
   },
   {
     "name": "item 019",
-    "points": 2742,
+    "points": 3024,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
     "xws": "blackcandle",
@@ -20571,7 +24201,7 @@
   },
   {
     "name": "item #19",
-    "points": 2743,
+    "points": 3025,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
     "xws": "blackcandle",
@@ -20579,7 +24209,7 @@
   },
   {
     "name": "item #019",
-    "points": 2744,
+    "points": 3026,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
     "xws": "blackcandle",
@@ -20587,7 +24217,7 @@
   },
   {
     "name": "black candle",
-    "points": 2745,
+    "points": 3027,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
     "xws": "blackcandle",
@@ -20595,7 +24225,7 @@
   },
   {
     "name": "508",
-    "points": 2746,
+    "points": 3028,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle.png",
     "xws": "blackcandle",
@@ -20603,7 +24233,7 @@
   },
   {
     "name": "black candle",
-    "points": 2747,
+    "points": 3029,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-019-black-candle-back.png",
     "xws": "blackcandle",
@@ -20611,7 +24241,7 @@
   },
   {
     "name": "item 20",
-    "points": 2748,
+    "points": 3030,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
     "xws": "stunpowder",
@@ -20619,7 +24249,7 @@
   },
   {
     "name": "item 020",
-    "points": 2749,
+    "points": 3031,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
     "xws": "stunpowder",
@@ -20627,7 +24257,7 @@
   },
   {
     "name": "item #20",
-    "points": 2750,
+    "points": 3032,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
     "xws": "stunpowder",
@@ -20635,7 +24265,7 @@
   },
   {
     "name": "item #020",
-    "points": 2751,
+    "points": 3033,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
     "xws": "stunpowder",
@@ -20643,7 +24273,7 @@
   },
   {
     "name": "stun powder",
-    "points": 2752,
+    "points": 3034,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
     "xws": "stunpowder",
@@ -20651,7 +24281,7 @@
   },
   {
     "name": "509",
-    "points": 2753,
+    "points": 3035,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder.png",
     "xws": "stunpowder",
@@ -20659,7 +24289,7 @@
   },
   {
     "name": "stun powder",
-    "points": 2754,
+    "points": 3036,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/015-020/jl-020-stun-powder-back.png",
     "xws": "stunpowder",
@@ -20667,7 +24297,7 @@
   },
   {
     "name": "item 21",
-    "points": 2755,
+    "points": 3037,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
     "xws": "hawkhelm",
@@ -20675,7 +24305,7 @@
   },
   {
     "name": "item 021",
-    "points": 2756,
+    "points": 3038,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
     "xws": "hawkhelm",
@@ -20683,7 +24313,7 @@
   },
   {
     "name": "item #21",
-    "points": 2757,
+    "points": 3039,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
     "xws": "hawkhelm",
@@ -20691,7 +24321,7 @@
   },
   {
     "name": "item #021",
-    "points": 2758,
+    "points": 3040,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
     "xws": "hawkhelm",
@@ -20699,7 +24329,7 @@
   },
   {
     "name": "hawk helm",
-    "points": 2759,
+    "points": 3041,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
     "xws": "hawkhelm",
@@ -20707,7 +24337,7 @@
   },
   {
     "name": "511",
-    "points": 2760,
+    "points": 3042,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm.png",
     "xws": "hawkhelm",
@@ -20715,7 +24345,7 @@
   },
   {
     "name": "hawk helm",
-    "points": 2761,
+    "points": 3043,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-021-hawk-helm-back.png",
     "xws": "hawkhelm",
@@ -20723,7 +24353,7 @@
   },
   {
     "name": "item 22",
-    "points": 2762,
+    "points": 3044,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
     "xws": "bladedarmor",
@@ -20731,7 +24361,7 @@
   },
   {
     "name": "item 022",
-    "points": 2763,
+    "points": 3045,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
     "xws": "bladedarmor",
@@ -20739,7 +24369,7 @@
   },
   {
     "name": "item #22",
-    "points": 2764,
+    "points": 3046,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
     "xws": "bladedarmor",
@@ -20747,7 +24377,7 @@
   },
   {
     "name": "item #022",
-    "points": 2765,
+    "points": 3047,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
     "xws": "bladedarmor",
@@ -20755,7 +24385,7 @@
   },
   {
     "name": "bladed armor",
-    "points": 2766,
+    "points": 3048,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
     "xws": "bladedarmor",
@@ -20763,7 +24393,7 @@
   },
   {
     "name": "512",
-    "points": 2767,
+    "points": 3049,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor.png",
     "xws": "bladedarmor",
@@ -20771,7 +24401,7 @@
   },
   {
     "name": "bladed armor",
-    "points": 2768,
+    "points": 3050,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-022-bladed-armor-back.png",
     "xws": "bladedarmor",
@@ -20779,7 +24409,7 @@
   },
   {
     "name": "item 23",
-    "points": 2769,
+    "points": 3051,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
     "xws": "bootsofstriding",
@@ -20787,7 +24417,7 @@
   },
   {
     "name": "item 023",
-    "points": 2770,
+    "points": 3052,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
     "xws": "bootsofstriding",
@@ -20795,7 +24425,7 @@
   },
   {
     "name": "item #23",
-    "points": 2771,
+    "points": 3053,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
     "xws": "bootsofstriding",
@@ -20803,7 +24433,7 @@
   },
   {
     "name": "item #023",
-    "points": 2772,
+    "points": 3054,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
     "xws": "bootsofstriding",
@@ -20811,7 +24441,7 @@
   },
   {
     "name": "boots of striding",
-    "points": 2773,
+    "points": 3055,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
     "xws": "bootsofstriding",
@@ -20819,7 +24449,7 @@
   },
   {
     "name": "513",
-    "points": 2774,
+    "points": 3056,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding.png",
     "xws": "bootsofstriding",
@@ -20827,7 +24457,7 @@
   },
   {
     "name": "boots of striding",
-    "points": 2775,
+    "points": 3057,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-023-boots-of-striding-back.png",
     "xws": "bootsofstriding",
@@ -20835,7 +24465,7 @@
   },
   {
     "name": "item 24",
-    "points": 2776,
+    "points": 3058,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
     "xws": "volatilebomb",
@@ -20843,7 +24473,7 @@
   },
   {
     "name": "item 024",
-    "points": 2777,
+    "points": 3059,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
     "xws": "volatilebomb",
@@ -20851,7 +24481,7 @@
   },
   {
     "name": "item #24",
-    "points": 2778,
+    "points": 3060,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
     "xws": "volatilebomb",
@@ -20859,7 +24489,7 @@
   },
   {
     "name": "item #024",
-    "points": 2779,
+    "points": 3061,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
     "xws": "volatilebomb",
@@ -20867,7 +24497,7 @@
   },
   {
     "name": "volatile bomb",
-    "points": 2780,
+    "points": 3062,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
     "xws": "volatilebomb",
@@ -20875,7 +24505,7 @@
   },
   {
     "name": "514",
-    "points": 2781,
+    "points": 3063,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb.png",
     "xws": "volatilebomb",
@@ -20883,7 +24513,7 @@
   },
   {
     "name": "volatile bomb",
-    "points": 2782,
+    "points": 3064,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-024-volatile-bomb-back.png",
     "xws": "volatilebomb",
@@ -20891,7 +24521,7 @@
   },
   {
     "name": "item 25",
-    "points": 2783,
+    "points": 3065,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
     "xws": "barbedchain",
@@ -20899,7 +24529,7 @@
   },
   {
     "name": "item 025",
-    "points": 2784,
+    "points": 3066,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
     "xws": "barbedchain",
@@ -20907,7 +24537,7 @@
   },
   {
     "name": "item #25",
-    "points": 2785,
+    "points": 3067,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
     "xws": "barbedchain",
@@ -20915,7 +24545,7 @@
   },
   {
     "name": "item #025",
-    "points": 2786,
+    "points": 3068,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
     "xws": "barbedchain",
@@ -20923,7 +24553,7 @@
   },
   {
     "name": "barbed chain",
-    "points": 2787,
+    "points": 3069,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
     "xws": "barbedchain",
@@ -20931,7 +24561,7 @@
   },
   {
     "name": "515",
-    "points": 2788,
+    "points": 3070,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain.png",
     "xws": "barbedchain",
@@ -20939,7 +24569,7 @@
   },
   {
     "name": "barbed chain",
-    "points": 2789,
+    "points": 3071,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-025-barbed-chain-back.png",
     "xws": "barbedchain",
@@ -20947,7 +24577,7 @@
   },
   {
     "name": "item 26",
-    "points": 2790,
+    "points": 3072,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
     "xws": "oakcharm",
@@ -20955,7 +24585,7 @@
   },
   {
     "name": "item 026",
-    "points": 2791,
+    "points": 3073,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
     "xws": "oakcharm",
@@ -20963,7 +24593,7 @@
   },
   {
     "name": "item #26",
-    "points": 2792,
+    "points": 3074,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
     "xws": "oakcharm",
@@ -20971,7 +24601,7 @@
   },
   {
     "name": "item #026",
-    "points": 2793,
+    "points": 3075,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
     "xws": "oakcharm",
@@ -20979,7 +24609,7 @@
   },
   {
     "name": "oak charm",
-    "points": 2794,
+    "points": 3076,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
     "xws": "oakcharm",
@@ -20987,7 +24617,7 @@
   },
   {
     "name": "516",
-    "points": 2795,
+    "points": 3077,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm.png",
     "xws": "oakcharm",
@@ -20995,7 +24625,7 @@
   },
   {
     "name": "oak charm",
-    "points": 2796,
+    "points": 3078,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/021-026/jl-026-oak-charm-back.png",
     "xws": "oakcharm",
@@ -21003,7 +24633,7 @@
   },
   {
     "name": "item 27",
-    "points": 2797,
+    "points": 3079,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
     "xws": "fatefulcompass",
@@ -21011,7 +24641,7 @@
   },
   {
     "name": "item 027",
-    "points": 2798,
+    "points": 3080,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
     "xws": "fatefulcompass",
@@ -21019,7 +24649,7 @@
   },
   {
     "name": "item #27",
-    "points": 2799,
+    "points": 3081,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
     "xws": "fatefulcompass",
@@ -21027,7 +24657,7 @@
   },
   {
     "name": "item #027",
-    "points": 2800,
+    "points": 3082,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
     "xws": "fatefulcompass",
@@ -21035,7 +24665,7 @@
   },
   {
     "name": "fateful compass",
-    "points": 2801,
+    "points": 3083,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
     "xws": "fatefulcompass",
@@ -21043,7 +24673,7 @@
   },
   {
     "name": "518",
-    "points": 2802,
+    "points": 3084,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass.png",
     "xws": "fatefulcompass",
@@ -21051,7 +24681,7 @@
   },
   {
     "name": "fateful compass",
-    "points": 2803,
+    "points": 3085,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-027-fateful-compass-back.png",
     "xws": "fatefulcompass",
@@ -21059,7 +24689,7 @@
   },
   {
     "name": "item 28",
-    "points": 2804,
+    "points": 3086,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
     "xws": "fleabittenshawl",
@@ -21067,7 +24697,7 @@
   },
   {
     "name": "item 028",
-    "points": 2805,
+    "points": 3087,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
     "xws": "fleabittenshawl",
@@ -21075,7 +24705,7 @@
   },
   {
     "name": "item #28",
-    "points": 2806,
+    "points": 3088,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
     "xws": "fleabittenshawl",
@@ -21083,7 +24713,7 @@
   },
   {
     "name": "item #028",
-    "points": 2807,
+    "points": 3089,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
     "xws": "fleabittenshawl",
@@ -21091,7 +24721,7 @@
   },
   {
     "name": "flea-bitten shawl",
-    "points": 2808,
+    "points": 3090,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
     "xws": "fleabittenshawl",
@@ -21099,7 +24729,7 @@
   },
   {
     "name": "519",
-    "points": 2809,
+    "points": 3091,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl.png",
     "xws": "fleabittenshawl",
@@ -21107,7 +24737,7 @@
   },
   {
     "name": "flea-bitten shawl",
-    "points": 2810,
+    "points": 3092,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-028-flea-bitten-shawl-back.png",
     "xws": "fleabittenshawl",
@@ -21115,7 +24745,7 @@
   },
   {
     "name": "item 29",
-    "points": 2811,
+    "points": 3093,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
     "xws": "towershield",
@@ -21123,7 +24753,7 @@
   },
   {
     "name": "item 029",
-    "points": 2812,
+    "points": 3094,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
     "xws": "towershield",
@@ -21131,7 +24761,7 @@
   },
   {
     "name": "item #29",
-    "points": 2813,
+    "points": 3095,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
     "xws": "towershield",
@@ -21139,7 +24769,7 @@
   },
   {
     "name": "item #029",
-    "points": 2814,
+    "points": 3096,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
     "xws": "towershield",
@@ -21147,7 +24777,7 @@
   },
   {
     "name": "tower shield",
-    "points": 2815,
+    "points": 3097,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
     "xws": "towershield",
@@ -21155,7 +24785,7 @@
   },
   {
     "name": "520",
-    "points": 2816,
+    "points": 3098,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield.png",
     "xws": "towershield",
@@ -21163,7 +24793,7 @@
   },
   {
     "name": "tower shield",
-    "points": 2817,
+    "points": 3099,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-029-tower-shield-back.png",
     "xws": "towershield",
@@ -21171,7 +24801,7 @@
   },
   {
     "name": "item 30",
-    "points": 2818,
+    "points": 3100,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
     "xws": "ringofhaste",
@@ -21179,7 +24809,7 @@
   },
   {
     "name": "item 030",
-    "points": 2819,
+    "points": 3101,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
     "xws": "ringofhaste",
@@ -21187,7 +24817,7 @@
   },
   {
     "name": "item #30",
-    "points": 2820,
+    "points": 3102,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
     "xws": "ringofhaste",
@@ -21195,7 +24825,7 @@
   },
   {
     "name": "item #030",
-    "points": 2821,
+    "points": 3103,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
     "xws": "ringofhaste",
@@ -21203,7 +24833,7 @@
   },
   {
     "name": "ring of haste",
-    "points": 2822,
+    "points": 3104,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
     "xws": "ringofhaste",
@@ -21211,7 +24841,7 @@
   },
   {
     "name": "521",
-    "points": 2823,
+    "points": 3105,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste.png",
     "xws": "ringofhaste",
@@ -21219,7 +24849,7 @@
   },
   {
     "name": "ring of haste",
-    "points": 2824,
+    "points": 3106,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-030-ring-of-haste-back.png",
     "xws": "ringofhaste",
@@ -21227,7 +24857,7 @@
   },
   {
     "name": "item 31",
-    "points": 2825,
+    "points": 3107,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
     "xws": "ringofstrength",
@@ -21235,7 +24865,7 @@
   },
   {
     "name": "item 031",
-    "points": 2826,
+    "points": 3108,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
     "xws": "ringofstrength",
@@ -21243,7 +24873,7 @@
   },
   {
     "name": "item #31",
-    "points": 2827,
+    "points": 3109,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
     "xws": "ringofstrength",
@@ -21251,7 +24881,7 @@
   },
   {
     "name": "item #031",
-    "points": 2828,
+    "points": 3110,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
     "xws": "ringofstrength",
@@ -21259,7 +24889,7 @@
   },
   {
     "name": "ring of strength",
-    "points": 2829,
+    "points": 3111,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
     "xws": "ringofstrength",
@@ -21267,7 +24897,7 @@
   },
   {
     "name": "522",
-    "points": 2830,
+    "points": 3112,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength.png",
     "xws": "ringofstrength",
@@ -21275,7 +24905,7 @@
   },
   {
     "name": "ring of strength",
-    "points": 2831,
+    "points": 3113,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-031-ring-of-strength-back.png",
     "xws": "ringofstrength",
@@ -21283,7 +24913,7 @@
   },
   {
     "name": "item 32",
-    "points": 2832,
+    "points": 3114,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
     "xws": "ringofrestoration",
@@ -21291,7 +24921,7 @@
   },
   {
     "name": "item 032",
-    "points": 2833,
+    "points": 3115,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
     "xws": "ringofrestoration",
@@ -21299,7 +24929,7 @@
   },
   {
     "name": "item #32",
-    "points": 2834,
+    "points": 3116,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
     "xws": "ringofrestoration",
@@ -21307,7 +24937,7 @@
   },
   {
     "name": "item #032",
-    "points": 2835,
+    "points": 3117,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
     "xws": "ringofrestoration",
@@ -21315,7 +24945,7 @@
   },
   {
     "name": "ring of restoration",
-    "points": 2836,
+    "points": 3118,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
     "xws": "ringofrestoration",
@@ -21323,7 +24953,7 @@
   },
   {
     "name": "523",
-    "points": 2837,
+    "points": 3119,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration.png",
     "xws": "ringofrestoration",
@@ -21331,7 +24961,7 @@
   },
   {
     "name": "ring of restoration",
-    "points": 2838,
+    "points": 3120,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-032-ring-of-restoration-back.png",
     "xws": "ringofrestoration",
@@ -21339,7 +24969,7 @@
   },
   {
     "name": "item 33",
-    "points": 2839,
+    "points": 3121,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
     "xws": "steelring",
@@ -21347,7 +24977,7 @@
   },
   {
     "name": "item 033",
-    "points": 2840,
+    "points": 3122,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
     "xws": "steelring",
@@ -21355,7 +24985,7 @@
   },
   {
     "name": "item #33",
-    "points": 2841,
+    "points": 3123,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
     "xws": "steelring",
@@ -21363,7 +24993,7 @@
   },
   {
     "name": "item #033",
-    "points": 2842,
+    "points": 3124,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
     "xws": "steelring",
@@ -21371,7 +25001,7 @@
   },
   {
     "name": "steel ring",
-    "points": 2843,
+    "points": 3125,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
     "xws": "steelring",
@@ -21379,7 +25009,7 @@
   },
   {
     "name": "524",
-    "points": 2844,
+    "points": 3126,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring.png",
     "xws": "steelring",
@@ -21387,7 +25017,7 @@
   },
   {
     "name": "steel ring",
-    "points": 2845,
+    "points": 3127,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-033-steel-ring-back.png",
     "xws": "steelring",
@@ -21395,7 +25025,7 @@
   },
   {
     "name": "item 34",
-    "points": 2846,
+    "points": 3128,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
     "xws": "barbedaxe",
@@ -21403,7 +25033,7 @@
   },
   {
     "name": "item 034",
-    "points": 2847,
+    "points": 3129,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
     "xws": "barbedaxe",
@@ -21411,7 +25041,7 @@
   },
   {
     "name": "item #34",
-    "points": 2848,
+    "points": 3130,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
     "xws": "barbedaxe",
@@ -21419,7 +25049,7 @@
   },
   {
     "name": "item #034",
-    "points": 2849,
+    "points": 3131,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
     "xws": "barbedaxe",
@@ -21427,7 +25057,7 @@
   },
   {
     "name": "barbed axe",
-    "points": 2850,
+    "points": 3132,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
     "xws": "barbedaxe",
@@ -21435,7 +25065,7 @@
   },
   {
     "name": "525",
-    "points": 2851,
+    "points": 3133,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe.png",
     "xws": "barbedaxe",
@@ -21443,7 +25073,7 @@
   },
   {
     "name": "barbed axe",
-    "points": 2852,
+    "points": 3134,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-034-barbed-axe-back.png",
     "xws": "barbedaxe",
@@ -21451,7 +25081,7 @@
   },
   {
     "name": "item 35",
-    "points": 2853,
+    "points": 3135,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
     "xws": "robesofcommand",
@@ -21459,7 +25089,7 @@
   },
   {
     "name": "item 035",
-    "points": 2854,
+    "points": 3136,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
     "xws": "robesofcommand",
@@ -21467,7 +25097,7 @@
   },
   {
     "name": "item #35",
-    "points": 2855,
+    "points": 3137,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
     "xws": "robesofcommand",
@@ -21475,7 +25105,7 @@
   },
   {
     "name": "item #035",
-    "points": 2856,
+    "points": 3138,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
     "xws": "robesofcommand",
@@ -21483,7 +25113,7 @@
   },
   {
     "name": "robes of command",
-    "points": 2857,
+    "points": 3139,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
     "xws": "robesofcommand",
@@ -21491,7 +25121,7 @@
   },
   {
     "name": "526",
-    "points": 2858,
+    "points": 3140,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command.png",
     "xws": "robesofcommand",
@@ -21499,7 +25129,7 @@
   },
   {
     "name": "robes of command",
-    "points": 2859,
+    "points": 3141,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-035-robes-of-command-back.png",
     "xws": "robesofcommand",
@@ -21507,7 +25137,7 @@
   },
   {
     "name": "item 36",
-    "points": 2860,
+    "points": 3142,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
     "xws": "jetboots",
@@ -21515,7 +25145,7 @@
   },
   {
     "name": "item 036",
-    "points": 2861,
+    "points": 3143,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
     "xws": "jetboots",
@@ -21523,7 +25153,7 @@
   },
   {
     "name": "item #36",
-    "points": 2862,
+    "points": 3144,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
     "xws": "jetboots",
@@ -21531,7 +25161,7 @@
   },
   {
     "name": "item #036",
-    "points": 2863,
+    "points": 3145,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
     "xws": "jetboots",
@@ -21539,7 +25169,7 @@
   },
   {
     "name": "jet boots",
-    "points": 2864,
+    "points": 3146,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
     "xws": "jetboots",
@@ -21547,7 +25177,7 @@
   },
   {
     "name": "527",
-    "points": 2865,
+    "points": 3147,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots.png",
     "xws": "jetboots",
@@ -21555,7 +25185,7 @@
   },
   {
     "name": "jet boots",
-    "points": 2866,
+    "points": 3148,
     "expansion": "jaws of the lion",
     "image": "items/jaws-of-the-lion/027-036/jl-036-jet-boots-back.png",
     "xws": "jetboots",
@@ -21563,6909 +25193,6909 @@
   },
   {
     "name": "item 1",
-    "points": 2867,
+    "points": 3149,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 1",
-    "points": 2868,
+    "points": 3150,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 01",
-    "points": 2869,
+    "points": 3151,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 01",
-    "points": 2870,
+    "points": 3152,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 001",
-    "points": 2871,
+    "points": 3153,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 001",
-    "points": 2872,
+    "points": 3154,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #1",
-    "points": 2873,
+    "points": 3155,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #1",
-    "points": 2874,
+    "points": 3156,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #01",
-    "points": 2875,
+    "points": 3157,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #01",
-    "points": 2876,
+    "points": 3158,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #001",
-    "points": 2877,
+    "points": 3159,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item #001",
-    "points": 2878,
+    "points": 3160,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "orb of confusion",
-    "points": 2879,
+    "points": 3161,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01a-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "orb of confusion",
-    "points": 2880,
+    "points": 3162,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01b-orb-of-confusion.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "orb of confusion",
-    "points": 2881,
+    "points": 3163,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-01-orb-of-confusion-back.png",
     "xws": "orbofconfusion"
   },
   {
     "name": "item 2",
-    "points": 2882,
+    "points": 3164,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 2",
-    "points": 2883,
+    "points": 3165,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 02",
-    "points": 2884,
+    "points": 3166,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 02",
-    "points": 2885,
+    "points": 3167,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 002",
-    "points": 2886,
+    "points": 3168,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 002",
-    "points": 2887,
+    "points": 3169,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #2",
-    "points": 2888,
+    "points": 3170,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #2",
-    "points": 2889,
+    "points": 3171,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #02",
-    "points": 2890,
+    "points": 3172,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #02",
-    "points": 2891,
+    "points": 3173,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #002",
-    "points": 2892,
+    "points": 3174,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item #002",
-    "points": 2893,
+    "points": 3175,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "orb of momentum",
-    "points": 2894,
+    "points": 3176,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02a-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "orb of momentum",
-    "points": 2895,
+    "points": 3177,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02b-orb-of-momentum.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "orb of momentum",
-    "points": 2896,
+    "points": 3178,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-02-orb-of-momentum-back.png",
     "xws": "orbofmomentum"
   },
   {
     "name": "item 3",
-    "points": 2897,
+    "points": 3179,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 3",
-    "points": 2898,
+    "points": 3180,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 03",
-    "points": 2899,
+    "points": 3181,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 03",
-    "points": 2900,
+    "points": 3182,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 003",
-    "points": 2901,
+    "points": 3183,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 003",
-    "points": 2902,
+    "points": 3184,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #3",
-    "points": 2903,
+    "points": 3185,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #3",
-    "points": 2904,
+    "points": 3186,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #03",
-    "points": 2905,
+    "points": 3187,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #03",
-    "points": 2906,
+    "points": 3188,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #003",
-    "points": 2907,
+    "points": 3189,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "item #003",
-    "points": 2908,
+    "points": 3190,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "orb of agility",
-    "points": 2909,
+    "points": 3191,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03a-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "orb of agility",
-    "points": 2910,
+    "points": 3192,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03b-orb-of-agility.png",
     "xws": "orbofagility"
   },
   {
     "name": "orb of agility",
-    "points": 2911,
+    "points": 3193,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-03-orb-of-agility-back.png",
     "xws": "orbofagility"
   },
   {
     "name": "item 4",
-    "points": 2912,
+    "points": 3194,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 4",
-    "points": 2913,
+    "points": 3195,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 04",
-    "points": 2914,
+    "points": 3196,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 04",
-    "points": 2915,
+    "points": 3197,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 004",
-    "points": 2916,
+    "points": 3198,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 004",
-    "points": 2917,
+    "points": 3199,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #4",
-    "points": 2918,
+    "points": 3200,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #4",
-    "points": 2919,
+    "points": 3201,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #04",
-    "points": 2920,
+    "points": 3202,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #04",
-    "points": 2921,
+    "points": 3203,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #004",
-    "points": 2922,
+    "points": 3204,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item #004",
-    "points": 2923,
+    "points": 3205,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "orb of vigor",
-    "points": 2924,
+    "points": 3206,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04a-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "orb of vigor",
-    "points": 2925,
+    "points": 3207,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04b-orb-of-vigor.png",
     "xws": "orbofvigor"
   },
   {
     "name": "orb of vigor",
-    "points": 2926,
+    "points": 3208,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-04-orb-of-vigor-back.png",
     "xws": "orbofvigor"
   },
   {
     "name": "item 5",
-    "points": 2927,
+    "points": 3209,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 5",
-    "points": 2928,
+    "points": 3210,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 05",
-    "points": 2929,
+    "points": 3211,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 05",
-    "points": 2930,
+    "points": 3212,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 005",
-    "points": 2931,
+    "points": 3213,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 005",
-    "points": 2932,
+    "points": 3214,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #5",
-    "points": 2933,
+    "points": 3215,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #5",
-    "points": 2934,
+    "points": 3216,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #05",
-    "points": 2935,
+    "points": 3217,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #05",
-    "points": 2936,
+    "points": 3218,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #005",
-    "points": 2937,
+    "points": 3219,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item #005",
-    "points": 2938,
+    "points": 3220,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "orb of retribution",
-    "points": 2939,
+    "points": 3221,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05a-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "orb of retribution",
-    "points": 2940,
+    "points": 3222,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05b-orb-of-retribution.png",
     "xws": "orbofretribution"
   },
   {
     "name": "orb of retribution",
-    "points": 2941,
+    "points": 3223,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-05-orb-of-retribution-back.png",
     "xws": "orbofretribution"
   },
   {
     "name": "item 6",
-    "points": 2942,
+    "points": 3224,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 6",
-    "points": 2943,
+    "points": 3225,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 06",
-    "points": 2944,
+    "points": 3226,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 06",
-    "points": 2945,
+    "points": 3227,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 006",
-    "points": 2946,
+    "points": 3228,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 006",
-    "points": 2947,
+    "points": 3229,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #6",
-    "points": 2948,
+    "points": 3230,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #6",
-    "points": 2949,
+    "points": 3231,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #06",
-    "points": 2950,
+    "points": 3232,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #06",
-    "points": 2951,
+    "points": 3233,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #006",
-    "points": 2952,
+    "points": 3234,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item #006",
-    "points": 2953,
+    "points": 3235,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "orb of infection",
-    "points": 2954,
+    "points": 3236,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06a-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "orb of infection",
-    "points": 2955,
+    "points": 3237,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06b-orb-of-infection.png",
     "xws": "orbofinfection"
   },
   {
     "name": "orb of infection",
-    "points": 2956,
+    "points": 3238,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-06-orb-of-infection-back.png",
     "xws": "orbofinfection"
   },
   {
     "name": "item 7",
-    "points": 2957,
+    "points": 3239,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 7",
-    "points": 2958,
+    "points": 3240,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 07",
-    "points": 2959,
+    "points": 3241,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 07",
-    "points": 2960,
+    "points": 3242,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 007",
-    "points": 2961,
+    "points": 3243,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 007",
-    "points": 2962,
+    "points": 3244,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #7",
-    "points": 2963,
+    "points": 3245,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #7",
-    "points": 2964,
+    "points": 3246,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #07",
-    "points": 2965,
+    "points": 3247,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #07",
-    "points": 2966,
+    "points": 3248,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #007",
-    "points": 2967,
+    "points": 3249,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item #007",
-    "points": 2968,
+    "points": 3250,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "orb of vitality",
-    "points": 2969,
+    "points": 3251,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07a-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "orb of vitality",
-    "points": 2970,
+    "points": 3252,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07b-orb-of-vitality.png",
     "xws": "orbofvitality"
   },
   {
     "name": "orb of vitality",
-    "points": 2971,
+    "points": 3253,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-07-orb-of-vitality-back.png",
     "xws": "orbofvitality"
   },
   {
     "name": "item 8",
-    "points": 2972,
+    "points": 3254,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 8",
-    "points": 2973,
+    "points": 3255,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 08",
-    "points": 2974,
+    "points": 3256,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 08",
-    "points": 2975,
+    "points": 3257,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 008",
-    "points": 2976,
+    "points": 3258,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 008",
-    "points": 2977,
+    "points": 3259,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #8",
-    "points": 2978,
+    "points": 3260,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #8",
-    "points": 2979,
+    "points": 3261,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #08",
-    "points": 2980,
+    "points": 3262,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #08",
-    "points": 2981,
+    "points": 3263,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #008",
-    "points": 2982,
+    "points": 3264,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item #008",
-    "points": 2983,
+    "points": 3265,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "orb of protection",
-    "points": 2984,
+    "points": 3266,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08a-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "orb of protection",
-    "points": 2985,
+    "points": 3267,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08b-orb-of-protection.png",
     "xws": "orbofprotection"
   },
   {
     "name": "orb of protection",
-    "points": 2986,
+    "points": 3268,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-08-orb-of-protection-back.png",
     "xws": "orbofprotection"
   },
   {
     "name": "item 9",
-    "points": 2987,
+    "points": 3269,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 9",
-    "points": 2988,
+    "points": 3270,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 09",
-    "points": 2989,
+    "points": 3271,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 09",
-    "points": 2990,
+    "points": 3272,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 009",
-    "points": 2991,
+    "points": 3273,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 009",
-    "points": 2992,
+    "points": 3274,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #9",
-    "points": 2993,
+    "points": 3275,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #9",
-    "points": 2994,
+    "points": 3276,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #09",
-    "points": 2995,
+    "points": 3277,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #09",
-    "points": 2996,
+    "points": 3278,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #009",
-    "points": 2997,
+    "points": 3279,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "item #009",
-    "points": 2998,
+    "points": 3280,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "orb of fortune",
-    "points": 2999,
+    "points": 3281,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09a-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "orb of fortune",
-    "points": 3000,
+    "points": 3282,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09b-orb-of-fortune.png",
     "xws": "orboffortune"
   },
   {
     "name": "orb of fortune",
-    "points": 3001,
+    "points": 3283,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-09-orb-of-fortune-back.png",
     "xws": "orboffortune"
   },
   {
     "name": "item 10",
-    "points": 3002,
+    "points": 3284,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 10",
-    "points": 3003,
+    "points": 3285,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 010",
-    "points": 3004,
+    "points": 3286,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 010",
-    "points": 3005,
+    "points": 3287,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #10",
-    "points": 3006,
+    "points": 3288,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #10",
-    "points": 3007,
+    "points": 3289,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #010",
-    "points": 3008,
+    "points": 3290,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item #010",
-    "points": 3009,
+    "points": 3291,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "orb of despair",
-    "points": 3010,
+    "points": 3292,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10a-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "orb of despair",
-    "points": 3011,
+    "points": 3293,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10b-orb-of-despair.png",
     "xws": "orbofdespair"
   },
   {
     "name": "orb of despair",
-    "points": 3012,
+    "points": 3294,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-10-orb-of-despair-back.png",
     "xws": "orbofdespair"
   },
   {
     "name": "item 11",
-    "points": 3013,
+    "points": 3295,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "item 011",
-    "points": 3014,
+    "points": 3296,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "item #11",
-    "points": 3015,
+    "points": 3297,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "item #011",
-    "points": 3016,
+    "points": 3298,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "pox antidote",
-    "points": 3017,
+    "points": 3299,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote.png",
     "xws": "poxantidote"
   },
   {
     "name": "pox antidote",
-    "points": 3018,
+    "points": 3300,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-11-pox-antidote-back.png",
     "xws": "poxantidote"
   },
   {
     "name": "item 12",
-    "points": 3019,
+    "points": 3301,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item 012",
-    "points": 3020,
+    "points": 3302,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item #12",
-    "points": 3021,
+    "points": 3303,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item #012",
-    "points": 3022,
+    "points": 3304,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "trophy helm",
-    "points": 3023,
+    "points": 3305,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm.png",
     "xws": "trophyhelm"
   },
   {
     "name": "trophy helm",
-    "points": 3024,
+    "points": 3306,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-12-trophy-helm-back.png",
     "xws": "trophyhelm"
   },
   {
     "name": "item 13",
-    "points": 3025,
+    "points": 3307,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item 13",
-    "points": 3026,
+    "points": 3308,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item 013",
-    "points": 3027,
+    "points": 3309,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item 013",
-    "points": 3028,
+    "points": 3310,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #13",
-    "points": 3029,
+    "points": 3311,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #13",
-    "points": 3030,
+    "points": 3312,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #013",
-    "points": 3031,
+    "points": 3313,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "item #013",
-    "points": 3032,
+    "points": 3314,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "war pick",
-    "points": 3033,
+    "points": 3315,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13a-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "war pick",
-    "points": 3034,
+    "points": 3316,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13b-war-pick.png",
     "xws": "warpick"
   },
   {
     "name": "war pick",
-    "points": 3035,
+    "points": 3317,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-13-war-pick-back.png",
     "xws": "warpick"
   },
   {
     "name": "item 14",
-    "points": 3036,
+    "points": 3318,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item 14",
-    "points": 3037,
+    "points": 3319,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item 014",
-    "points": 3038,
+    "points": 3320,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item 014",
-    "points": 3039,
+    "points": 3321,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #14",
-    "points": 3040,
+    "points": 3322,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #14",
-    "points": 3041,
+    "points": 3323,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #014",
-    "points": 3042,
+    "points": 3324,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "item #014",
-    "points": 3043,
+    "points": 3325,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "chain mace",
-    "points": 3044,
+    "points": 3326,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14a-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "chain mace",
-    "points": 3045,
+    "points": 3327,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14b-chain-mace.png",
     "xws": "chainmace"
   },
   {
     "name": "chain mace",
-    "points": 3046,
+    "points": 3328,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-14-chain-mace-back.png",
     "xws": "chainmace"
   },
   {
     "name": "item 15",
-    "points": 3047,
+    "points": 3329,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 15",
-    "points": 3048,
+    "points": 3330,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 015",
-    "points": 3049,
+    "points": 3331,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 015",
-    "points": 3050,
+    "points": 3332,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #15",
-    "points": 3051,
+    "points": 3333,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #15",
-    "points": 3052,
+    "points": 3334,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #015",
-    "points": 3053,
+    "points": 3335,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item #015",
-    "points": 3054,
+    "points": 3336,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "draining greaves",
-    "points": 3055,
+    "points": 3337,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15a-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "draining greaves",
-    "points": 3056,
+    "points": 3338,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15b-draining-greaves.png",
     "xws": "draininggreaves"
   },
   {
     "name": "draining greaves",
-    "points": 3057,
+    "points": 3339,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-15-draining-greaves-back.png",
     "xws": "draininggreaves"
   },
   {
     "name": "item 16",
-    "points": 3058,
+    "points": 3340,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item 016",
-    "points": 3059,
+    "points": 3341,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item #16",
-    "points": 3060,
+    "points": 3342,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item #016",
-    "points": 3061,
+    "points": 3343,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "shoes of phasing",
-    "points": 3062,
+    "points": 3344,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "shoes of phasing",
-    "points": 3063,
+    "points": 3345,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-16-shoes-of-phasing-back.png",
     "xws": "shoesofphasing"
   },
   {
     "name": "item 17",
-    "points": 3064,
+    "points": 3346,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 17",
-    "points": 3065,
+    "points": 3347,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 017",
-    "points": 3066,
+    "points": 3348,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 017",
-    "points": 3067,
+    "points": 3349,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #17",
-    "points": 3068,
+    "points": 3350,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #17",
-    "points": 3069,
+    "points": 3351,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #017",
-    "points": 3070,
+    "points": 3352,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item #017",
-    "points": 3071,
+    "points": 3353,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "lightweight boots",
-    "points": 3072,
+    "points": 3354,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17a-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "lightweight boots",
-    "points": 3073,
+    "points": 3355,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17b-lightweight-boots.png",
     "xws": "lightweightboots"
   },
   {
     "name": "lightweight boots",
-    "points": 3074,
+    "points": 3356,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-17-lightweight-boots-back.png",
     "xws": "lightweightboots"
   },
   {
     "name": "item 18",
-    "points": 3075,
+    "points": 3357,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 18",
-    "points": 3076,
+    "points": 3358,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 018",
-    "points": 3077,
+    "points": 3359,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 018",
-    "points": 3078,
+    "points": 3360,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #18",
-    "points": 3079,
+    "points": 3361,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #18",
-    "points": 3080,
+    "points": 3362,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #018",
-    "points": 3081,
+    "points": 3363,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item #018",
-    "points": 3082,
+    "points": 3364,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "bottled moonlight",
-    "points": 3083,
+    "points": 3365,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18a-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "bottled moonlight",
-    "points": 3084,
+    "points": 3366,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18b-bottled-moonlight.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "bottled moonlight",
-    "points": 3085,
+    "points": 3367,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-18-bottled-moonlight-back.png",
     "xws": "bottledmoonlight"
   },
   {
     "name": "item 19",
-    "points": 3086,
+    "points": 3368,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item 019",
-    "points": 3087,
+    "points": 3369,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item #19",
-    "points": 3088,
+    "points": 3370,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item #019",
-    "points": 3089,
+    "points": 3371,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "boots of perpetuity",
-    "points": 3090,
+    "points": 3372,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "boots of perpetuity",
-    "points": 3091,
+    "points": 3373,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-19-boots-of-perpetuity-back.png",
     "xws": "bootsofperpetuity"
   },
   {
     "name": "item 20",
-    "points": 3092,
+    "points": 3374,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 20",
-    "points": 3093,
+    "points": 3375,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 020",
-    "points": 3094,
+    "points": 3376,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 020",
-    "points": 3095,
+    "points": 3377,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #20",
-    "points": 3096,
+    "points": 3378,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #20",
-    "points": 3097,
+    "points": 3379,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #020",
-    "points": 3098,
+    "points": 3380,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item #020",
-    "points": 3099,
+    "points": 3381,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "curious pendant",
-    "points": 3100,
+    "points": 3382,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20a-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "curious pendant",
-    "points": 3101,
+    "points": 3383,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20b-curious-pendant.png",
     "xws": "curiouspendant"
   },
   {
     "name": "curious pendant",
-    "points": 3102,
+    "points": 3384,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-20-curious-pendant-back.png",
     "xws": "curiouspendant"
   },
   {
     "name": "item 21",
-    "points": 3103,
+    "points": 3385,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item 021",
-    "points": 3104,
+    "points": 3386,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item #21",
-    "points": 3105,
+    "points": 3387,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item #021",
-    "points": 3106,
+    "points": 3388,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "infrared goggles",
-    "points": 3107,
+    "points": 3389,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "infrared goggles",
-    "points": 3108,
+    "points": 3390,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-21-infrared-goggles-back.png",
     "xws": "infraredgoggles"
   },
   {
     "name": "item 22",
-    "points": 3109,
+    "points": 3391,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 22",
-    "points": 3110,
+    "points": 3392,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 022",
-    "points": 3111,
+    "points": 3393,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 022",
-    "points": 3112,
+    "points": 3394,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #22",
-    "points": 3113,
+    "points": 3395,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #22",
-    "points": 3114,
+    "points": 3396,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #022",
-    "points": 3115,
+    "points": 3397,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item #022",
-    "points": 3116,
+    "points": 3398,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "steel helmet",
-    "points": 3117,
+    "points": 3399,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22a-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "steel helmet",
-    "points": 3118,
+    "points": 3400,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22b-steel-helmet.png",
     "xws": "steelhelmet"
   },
   {
     "name": "steel helmet",
-    "points": 3119,
+    "points": 3401,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-22-steel-helmet-back.png",
     "xws": "steelhelmet"
   },
   {
     "name": "item 23",
-    "points": 3120,
+    "points": 3402,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 23",
-    "points": 3121,
+    "points": 3403,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 023",
-    "points": 3122,
+    "points": 3404,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 023",
-    "points": 3123,
+    "points": 3405,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #23",
-    "points": 3124,
+    "points": 3406,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #23",
-    "points": 3125,
+    "points": 3407,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #023",
-    "points": 3126,
+    "points": 3408,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item #023",
-    "points": 3127,
+    "points": 3409,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "woven plate armor",
-    "points": 3128,
+    "points": 3410,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23a-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "woven plate armor",
-    "points": 3129,
+    "points": 3411,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23b-woven-plate-armor.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "woven plate armor",
-    "points": 3130,
+    "points": 3412,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-23-woven-plate-armor-back.png",
     "xws": "wovenplatearmor"
   },
   {
     "name": "item 24",
-    "points": 3131,
+    "points": 3413,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 24",
-    "points": 3132,
+    "points": 3414,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 024",
-    "points": 3133,
+    "points": 3415,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 024",
-    "points": 3134,
+    "points": 3416,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #24",
-    "points": 3135,
+    "points": 3417,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #24",
-    "points": 3136,
+    "points": 3418,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #024",
-    "points": 3137,
+    "points": 3419,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item #024",
-    "points": 3138,
+    "points": 3420,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "mantle of purity",
-    "points": 3139,
+    "points": 3421,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24a-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "mantle of purity",
-    "points": 3140,
+    "points": 3422,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24b-mantle-of-purity.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "mantle of purity",
-    "points": 3141,
+    "points": 3423,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-24-mantle-of-purity-back.png",
     "xws": "mantleofpurity"
   },
   {
     "name": "item 25",
-    "points": 3142,
+    "points": 3424,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 25",
-    "points": 3143,
+    "points": 3425,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 025",
-    "points": 3144,
+    "points": 3426,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 025",
-    "points": 3145,
+    "points": 3427,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #25",
-    "points": 3146,
+    "points": 3428,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #25",
-    "points": 3147,
+    "points": 3429,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #025",
-    "points": 3148,
+    "points": 3430,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item #025",
-    "points": 3149,
+    "points": 3431,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "boneclad shawl",
-    "points": 3150,
+    "points": 3432,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25a-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "boneclad shawl",
-    "points": 3151,
+    "points": 3433,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25b-boneclad-shawl.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "boneclad shawl",
-    "points": 3152,
+    "points": 3434,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-25-boneclad-shawl-back.png",
     "xws": "bonecladshawl"
   },
   {
     "name": "item 26",
-    "points": 3153,
+    "points": 3435,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item 026",
-    "points": 3154,
+    "points": 3436,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item #26",
-    "points": 3155,
+    "points": 3437,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item #026",
-    "points": 3156,
+    "points": 3438,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "silhouette cuirass",
-    "points": 3157,
+    "points": 3439,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "silhouette cuirass",
-    "points": 3158,
+    "points": 3440,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-26-silhouette-cuirass-back.png",
     "xws": "silhouettecuirass"
   },
   {
     "name": "item 27",
-    "points": 3159,
+    "points": 3441,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item 027",
-    "points": 3160,
+    "points": 3442,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item #27",
-    "points": 3161,
+    "points": 3443,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item #027",
-    "points": 3162,
+    "points": 3444,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "translocation device",
-    "points": 3163,
+    "points": 3445,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device.png",
     "xws": "translocationdevice"
   },
   {
     "name": "translocation device",
-    "points": 3164,
+    "points": 3446,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-27-translocation-device-back.png",
     "xws": "translocationdevice"
   },
   {
     "name": "item 28",
-    "points": 3165,
+    "points": 3447,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 28",
-    "points": 3166,
+    "points": 3448,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 028",
-    "points": 3167,
+    "points": 3449,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 028",
-    "points": 3168,
+    "points": 3450,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #28",
-    "points": 3169,
+    "points": 3451,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #28",
-    "points": 3170,
+    "points": 3452,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #028",
-    "points": 3171,
+    "points": 3453,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item #028",
-    "points": 3172,
+    "points": 3454,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "alchemy potion",
-    "points": 3173,
+    "points": 3455,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28a-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "alchemy potion",
-    "points": 3174,
+    "points": 3456,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28b-alchemy-potion.png",
     "xws": "alchemypotion"
   },
   {
     "name": "alchemy potion",
-    "points": 3175,
+    "points": 3457,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-28-alchemy-potion-back.png",
     "xws": "alchemypotion"
   },
   {
     "name": "item 29",
-    "points": 3176,
+    "points": 3458,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item 029",
-    "points": 3177,
+    "points": 3459,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item #29",
-    "points": 3178,
+    "points": 3460,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item #029",
-    "points": 3179,
+    "points": 3461,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "intoxicating potion",
-    "points": 3180,
+    "points": 3462,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "intoxicating potion",
-    "points": 3181,
+    "points": 3463,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-29-intoxicating-potion-back.png",
     "xws": "intoxicatingpotion"
   },
   {
     "name": "item 30",
-    "points": 3182,
+    "points": 3464,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 30",
-    "points": 3183,
+    "points": 3465,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 030",
-    "points": 3184,
+    "points": 3466,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 030",
-    "points": 3185,
+    "points": 3467,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #30",
-    "points": 3186,
+    "points": 3468,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #30",
-    "points": 3187,
+    "points": 3469,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #030",
-    "points": 3188,
+    "points": 3470,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "item #030",
-    "points": 3189,
+    "points": 3471,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "iron snare",
-    "points": 3190,
+    "points": 3472,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30a-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "iron snare",
-    "points": 3191,
+    "points": 3473,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30b-iron-snare.png",
     "xws": "ironsnare"
   },
   {
     "name": "iron snare",
-    "points": 3192,
+    "points": 3474,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-30-iron-snare-back.png",
     "xws": "ironsnare"
   },
   {
     "name": "item 31",
-    "points": 3193,
+    "points": 3475,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 31",
-    "points": 3194,
+    "points": 3476,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 031",
-    "points": 3195,
+    "points": 3477,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 031",
-    "points": 3196,
+    "points": 3478,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #31",
-    "points": 3197,
+    "points": 3479,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #31",
-    "points": 3198,
+    "points": 3480,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #031",
-    "points": 3199,
+    "points": 3481,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "item #031",
-    "points": 3200,
+    "points": 3482,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "concussion mine",
-    "points": 3201,
+    "points": 3483,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31a-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "concussion mine",
-    "points": 3202,
+    "points": 3484,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31b-concussion-mine.png",
     "xws": "concussionmine"
   },
   {
     "name": "concussion mine",
-    "points": 3203,
+    "points": 3485,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-31-concussion-mine-back.png",
     "xws": "concussionmine"
   },
   {
     "name": "item 32",
-    "points": 3204,
+    "points": 3486,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item 032",
-    "points": 3205,
+    "points": 3487,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item #32",
-    "points": 3206,
+    "points": 3488,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item #032",
-    "points": 3207,
+    "points": 3489,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "shifting compass",
-    "points": 3208,
+    "points": 3490,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "shifting compass",
-    "points": 3209,
+    "points": 3491,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-32-shifting-compass-back.png",
     "xws": "shiftingcompass"
   },
   {
     "name": "item 33",
-    "points": 3210,
+    "points": 3492,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "item 033",
-    "points": 3211,
+    "points": 3493,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "item #33",
-    "points": 3212,
+    "points": 3494,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "item #033",
-    "points": 3213,
+    "points": 3495,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "battering ram",
-    "points": 3214,
+    "points": 3496,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram.png",
     "xws": "batteringram"
   },
   {
     "name": "battering ram",
-    "points": 3215,
+    "points": 3497,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-33-battering-ram-back.png",
     "xws": "batteringram"
   },
   {
     "name": "item 34",
-    "points": 3216,
+    "points": 3498,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "item 034",
-    "points": 3217,
+    "points": 3499,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "item #34",
-    "points": 3218,
+    "points": 3500,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "item #034",
-    "points": 3219,
+    "points": 3501,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "claw trap",
-    "points": 3220,
+    "points": 3502,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap.png",
     "xws": "clawtrap"
   },
   {
     "name": "claw trap",
-    "points": 3221,
+    "points": 3503,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-34-claw-trap-back.png",
     "xws": "clawtrap"
   },
   {
     "name": "item 35",
-    "points": 3222,
+    "points": 3504,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item 035",
-    "points": 3223,
+    "points": 3505,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item #35",
-    "points": 3224,
+    "points": 3506,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item #035",
-    "points": 3225,
+    "points": 3507,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "staff of retribution",
-    "points": 3226,
+    "points": 3508,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution.png",
     "xws": "staffofretribution"
   },
   {
     "name": "staff of retribution",
-    "points": 3227,
+    "points": 3509,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-35-staff-of-retribution-back.png",
     "xws": "staffofretribution"
   },
   {
     "name": "item 36",
-    "points": 3228,
+    "points": 3510,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item 036",
-    "points": 3229,
+    "points": 3511,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item #36",
-    "points": 3230,
+    "points": 3512,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item #036",
-    "points": 3231,
+    "points": 3513,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "curseblood blade",
-    "points": 3232,
+    "points": 3514,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "curseblood blade",
-    "points": 3233,
+    "points": 3515,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-36-curseblood-blade-back.png",
     "xws": "cursebloodblade"
   },
   {
     "name": "item 37",
-    "points": 3234,
+    "points": 3516,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 37",
-    "points": 3235,
+    "points": 3517,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 037",
-    "points": 3236,
+    "points": 3518,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 037",
-    "points": 3237,
+    "points": 3519,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #37",
-    "points": 3238,
+    "points": 3520,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #37",
-    "points": 3239,
+    "points": 3521,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #037",
-    "points": 3240,
+    "points": 3522,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item #037",
-    "points": 3241,
+    "points": 3523,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "drakescale shield",
-    "points": 3242,
+    "points": 3524,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37a-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "drakescale shield",
-    "points": 3243,
+    "points": 3525,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37b-drakescale-shield.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "drakescale shield",
-    "points": 3244,
+    "points": 3526,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-37-drakescale-shield-back.png",
     "xws": "drakescaleshield"
   },
   {
     "name": "item 38",
-    "points": 3245,
+    "points": 3527,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item 038",
-    "points": 3246,
+    "points": 3528,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item #38",
-    "points": 3247,
+    "points": 3529,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item #038",
-    "points": 3248,
+    "points": 3530,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "drakescale dagger",
-    "points": 3249,
+    "points": 3531,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "drakescale dagger",
-    "points": 3250,
+    "points": 3532,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-38-drakescale-dagger-back.png",
     "xws": "drakescaledagger"
   },
   {
     "name": "item 39",
-    "points": 3251,
+    "points": 3533,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "item 039",
-    "points": 3252,
+    "points": 3534,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "item #39",
-    "points": 3253,
+    "points": 3535,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "item #039",
-    "points": 3254,
+    "points": 3536,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "hook shot",
-    "points": 3255,
+    "points": 3537,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot.png",
     "xws": "hookshot"
   },
   {
     "name": "hook shot",
-    "points": 3256,
+    "points": 3538,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-39-hook-shot-back.png",
     "xws": "hookshot"
   },
   {
     "name": "item 40",
-    "points": 3257,
+    "points": 3539,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item 040",
-    "points": 3258,
+    "points": 3540,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item #40",
-    "points": 3259,
+    "points": 3541,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item #040",
-    "points": 3260,
+    "points": 3542,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "moonleather boots",
-    "points": 3261,
+    "points": 3543,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "moonleather boots",
-    "points": 3262,
+    "points": 3544,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-40-moonleather-boots-back.png",
     "xws": "moonleatherboots"
   },
   {
     "name": "item 41",
-    "points": 3263,
+    "points": 3545,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item 041",
-    "points": 3264,
+    "points": 3546,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item #41",
-    "points": 3265,
+    "points": 3547,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item #041",
-    "points": 3266,
+    "points": 3548,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "spirit libation",
-    "points": 3267,
+    "points": 3549,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation.png",
     "xws": "spiritlibation"
   },
   {
     "name": "spirit libation",
-    "points": 3268,
+    "points": 3550,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-41-spirit-libation-back.png",
     "xws": "spiritlibation"
   },
   {
     "name": "item 42",
-    "points": 3269,
+    "points": 3551,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item 042",
-    "points": 3270,
+    "points": 3552,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item #42",
-    "points": 3271,
+    "points": 3553,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item #042",
-    "points": 3272,
+    "points": 3554,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "robe of soothing",
-    "points": 3273,
+    "points": 3555,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "robe of soothing",
-    "points": 3274,
+    "points": 3556,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-42-robe-of-soothing-back.png",
     "xws": "robeofsoothing"
   },
   {
     "name": "item 43",
-    "points": 3275,
+    "points": 3557,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item 043",
-    "points": 3276,
+    "points": 3558,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item #43",
-    "points": 3277,
+    "points": 3559,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item #043",
-    "points": 3278,
+    "points": 3560,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "resplendent mitre",
-    "points": 3279,
+    "points": 3561,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "resplendent mitre",
-    "points": 3280,
+    "points": 3562,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-43-resplendent-mitre-back.png",
     "xws": "resplendentmitre"
   },
   {
     "name": "item 44",
-    "points": 3281,
+    "points": 3563,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item 044",
-    "points": 3282,
+    "points": 3564,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item #44",
-    "points": 3283,
+    "points": 3565,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item #044",
-    "points": 3284,
+    "points": 3566,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "canister projectile",
-    "points": 3285,
+    "points": 3567,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "canister projectile",
-    "points": 3286,
+    "points": 3568,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-44-canister-projectile-back.png",
     "xws": "canisterprojectile"
   },
   {
     "name": "item 45",
-    "points": 3287,
+    "points": 3569,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "item 045",
-    "points": 3288,
+    "points": 3570,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "item #45",
-    "points": 3289,
+    "points": 3571,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "item #045",
-    "points": 3290,
+    "points": 3572,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "chain cannon",
-    "points": 3291,
+    "points": 3573,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon.png",
     "xws": "chaincannon"
   },
   {
     "name": "chain cannon",
-    "points": 3292,
+    "points": 3574,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-45-chain-cannon-back.png",
     "xws": "chaincannon"
   },
   {
     "name": "item 46",
-    "points": 3293,
+    "points": 3575,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item 046",
-    "points": 3294,
+    "points": 3576,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item #46",
-    "points": 3295,
+    "points": 3577,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item #046",
-    "points": 3296,
+    "points": 3578,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "summoner's whistle",
-    "points": 3297,
+    "points": 3579,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "summoner's whistle",
-    "points": 3298,
+    "points": 3580,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-46-summoners-whistle-back.png",
     "xws": "summonerswhistle"
   },
   {
     "name": "item 47",
-    "points": 3299,
+    "points": 3581,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item 047",
-    "points": 3300,
+    "points": 3582,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item #47",
-    "points": 3301,
+    "points": 3583,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item #047",
-    "points": 3302,
+    "points": 3584,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "nature armlets",
-    "points": 3303,
+    "points": 3585,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets.png",
     "xws": "naturearmlets"
   },
   {
     "name": "nature armlets",
-    "points": 3304,
+    "points": 3586,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-47-nature-armlets-back.png",
     "xws": "naturearmlets"
   },
   {
     "name": "item 48",
-    "points": 3305,
+    "points": 3587,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "item 048",
-    "points": 3306,
+    "points": 3588,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "item #48",
-    "points": 3307,
+    "points": 3589,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "item #048",
-    "points": 3308,
+    "points": 3590,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "test tube",
-    "points": 3309,
+    "points": 3591,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube.png",
     "xws": "testtube"
   },
   {
     "name": "test tube",
-    "points": 3310,
+    "points": 3592,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-48-test-tube-back.png",
     "xws": "testtube"
   },
   {
     "name": "item 49",
-    "points": 3311,
+    "points": 3593,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "item 049",
-    "points": 3312,
+    "points": 3594,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "item #49",
-    "points": 3313,
+    "points": 3595,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "item #049",
-    "points": 3314,
+    "points": 3596,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "booster shot",
-    "points": 3315,
+    "points": 3597,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot.png",
     "xws": "boostershot"
   },
   {
     "name": "booster shot",
-    "points": 3316,
+    "points": 3598,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-49-booster-shot-back.png",
     "xws": "boostershot"
   },
   {
     "name": "item 50",
-    "points": 3317,
+    "points": 3599,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item 050",
-    "points": 3318,
+    "points": 3600,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item #50",
-    "points": 3319,
+    "points": 3601,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item #050",
-    "points": 3320,
+    "points": 3602,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "luminous carapace",
-    "points": 3321,
+    "points": 3603,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "luminous carapace",
-    "points": 3322,
+    "points": 3604,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-50-luminous-carapace-back.png",
     "xws": "luminouscarapace"
   },
   {
     "name": "item 51",
-    "points": 3323,
+    "points": 3605,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item 051",
-    "points": 3324,
+    "points": 3606,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item #51",
-    "points": 3325,
+    "points": 3607,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item #051",
-    "points": 3326,
+    "points": 3608,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "flaming armor",
-    "points": 3327,
+    "points": 3609,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor.png",
     "xws": "flamingarmor"
   },
   {
     "name": "flaming armor",
-    "points": 3328,
+    "points": 3610,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-51-flaming-armor-back.png",
     "xws": "flamingarmor"
   },
   {
     "name": "item 52",
-    "points": 3329,
+    "points": 3611,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item 052",
-    "points": 3330,
+    "points": 3612,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item #52",
-    "points": 3331,
+    "points": 3613,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item #052",
-    "points": 3332,
+    "points": 3614,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "flaming axe",
-    "points": 3333,
+    "points": 3615,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe.png",
     "xws": "flamingaxe"
   },
   {
     "name": "flaming axe",
-    "points": 3334,
+    "points": 3616,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-52-flaming-axe-back.png",
     "xws": "flamingaxe"
   },
   {
     "name": "item 53",
-    "points": 3335,
+    "points": 3617,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item 053",
-    "points": 3336,
+    "points": 3618,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item #53",
-    "points": 3337,
+    "points": 3619,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item #053",
-    "points": 3338,
+    "points": 3620,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "field mortar",
-    "points": 3339,
+    "points": 3621,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar.png",
     "xws": "fieldmortar"
   },
   {
     "name": "field mortar",
-    "points": 3340,
+    "points": 3622,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-53-field-mortar-back.png",
     "xws": "fieldmortar"
   },
   {
     "name": "item 54",
-    "points": 3341,
+    "points": 3623,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item 054",
-    "points": 3342,
+    "points": 3624,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item #54",
-    "points": 3343,
+    "points": 3625,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item #054",
-    "points": 3344,
+    "points": 3626,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "vipertooth dagger",
-    "points": 3345,
+    "points": 3627,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "vipertooth dagger",
-    "points": 3346,
+    "points": 3628,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-54-vipertooth-dagger-back.png",
     "xws": "vipertoothdagger"
   },
   {
     "name": "item 55",
-    "points": 3347,
+    "points": 3629,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 55",
-    "points": 3348,
+    "points": 3630,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 055",
-    "points": 3349,
+    "points": 3631,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 055",
-    "points": 3350,
+    "points": 3632,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #55",
-    "points": 3351,
+    "points": 3633,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #55",
-    "points": 3352,
+    "points": 3634,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #055",
-    "points": 3353,
+    "points": 3635,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item #055",
-    "points": 3354,
+    "points": 3636,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "ghost viper venom",
-    "points": 3355,
+    "points": 3637,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55a-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "ghost viper venom",
-    "points": 3356,
+    "points": 3638,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55b-ghost-viper-venom.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "ghost viper venom",
-    "points": 3357,
+    "points": 3639,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-55-ghost-viper-venom-back.png",
     "xws": "ghostvipervenom"
   },
   {
     "name": "item 56",
-    "points": 3358,
+    "points": 3640,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "item 056",
-    "points": 3359,
+    "points": 3641,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "item #56",
-    "points": 3360,
+    "points": 3642,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "item #056",
-    "points": 3361,
+    "points": 3643,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "clamp trap",
-    "points": 3362,
+    "points": 3644,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap.png",
     "xws": "clamptrap"
   },
   {
     "name": "clamp trap",
-    "points": 3363,
+    "points": 3645,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-56-clamp-trap-back.png",
     "xws": "clamptrap"
   },
   {
     "name": "item 57",
-    "points": 3364,
+    "points": 3646,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item 057",
-    "points": 3365,
+    "points": 3647,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item #57",
-    "points": 3366,
+    "points": 3648,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item #057",
-    "points": 3367,
+    "points": 3649,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "cleansed voidheart",
-    "points": 3368,
+    "points": 3650,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "cleansed voidheart",
-    "points": 3369,
+    "points": 3651,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-57-cleansed-voidheart-back.png",
     "xws": "cleansedvoidheart"
   },
   {
     "name": "item 58",
-    "points": 3370,
+    "points": 3652,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 58",
-    "points": 3371,
+    "points": 3653,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 058",
-    "points": 3372,
+    "points": 3654,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 058",
-    "points": 3373,
+    "points": 3655,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #58",
-    "points": 3374,
+    "points": 3656,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #58",
-    "points": 3375,
+    "points": 3657,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #058",
-    "points": 3376,
+    "points": 3658,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item #058",
-    "points": 3377,
+    "points": 3659,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "dizzying tincture",
-    "points": 3378,
+    "points": 3660,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58a-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "dizzying tincture",
-    "points": 3379,
+    "points": 3661,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58b-dizzying-tincture.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "dizzying tincture",
-    "points": 3380,
+    "points": 3662,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-58-dizzying-tincture-back.png",
     "xws": "dizzyingtincture"
   },
   {
     "name": "item 59",
-    "points": 3381,
+    "points": 3663,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 59",
-    "points": 3382,
+    "points": 3664,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 059",
-    "points": 3383,
+    "points": 3665,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 059",
-    "points": 3384,
+    "points": 3666,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #59",
-    "points": 3385,
+    "points": 3667,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #59",
-    "points": 3386,
+    "points": 3668,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #059",
-    "points": 3387,
+    "points": 3669,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "item #059",
-    "points": 3388,
+    "points": 3670,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "drake's blood",
-    "points": 3389,
+    "points": 3671,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59a-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "drake's blood",
-    "points": 3390,
+    "points": 3672,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59b-drakes-blood.png",
     "xws": "drakesblood"
   },
   {
     "name": "drake's blood",
-    "points": 3391,
+    "points": 3673,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-59-drakes-blood-back.png",
     "xws": "drakesblood"
   },
   {
     "name": "item 60",
-    "points": 3392,
+    "points": 3674,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 60",
-    "points": 3393,
+    "points": 3675,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 060",
-    "points": 3394,
+    "points": 3676,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 060",
-    "points": 3395,
+    "points": 3677,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #60",
-    "points": 3396,
+    "points": 3678,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #60",
-    "points": 3397,
+    "points": 3679,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #060",
-    "points": 3398,
+    "points": 3680,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "item #060",
-    "points": 3399,
+    "points": 3681,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "mana medicine",
-    "points": 3400,
+    "points": 3682,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60a-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "mana medicine",
-    "points": 3401,
+    "points": 3683,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60b-mana-medicine.png",
     "xws": "manamedicine"
   },
   {
     "name": "mana medicine",
-    "points": 3402,
+    "points": 3684,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-60-mana-medicine-back.png",
     "xws": "manamedicine"
   },
   {
     "name": "item 61",
-    "points": 3403,
+    "points": 3685,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item 061",
-    "points": 3404,
+    "points": 3686,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item #61",
-    "points": 3405,
+    "points": 3687,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item #061",
-    "points": 3406,
+    "points": 3688,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "ashsteel gauntlets",
-    "points": 3407,
+    "points": 3689,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "ashsteel gauntlets",
-    "points": 3408,
+    "points": 3690,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-61-ashsteel-gauntlets-back.png",
     "xws": "ashsteelgauntlets"
   },
   {
     "name": "item 62",
-    "points": 3409,
+    "points": 3691,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "item 062",
-    "points": 3410,
+    "points": 3692,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "item #62",
-    "points": 3411,
+    "points": 3693,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "item #062",
-    "points": 3412,
+    "points": 3694,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "smog emitter",
-    "points": 3413,
+    "points": 3695,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter.png",
     "xws": "smogemitter"
   },
   {
     "name": "smog emitter",
-    "points": 3414,
+    "points": 3696,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-62-smog-emitter-back.png",
     "xws": "smogemitter"
   },
   {
     "name": "item 63",
-    "points": 3415,
+    "points": 3697,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item 063",
-    "points": 3416,
+    "points": 3698,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item #63",
-    "points": 3417,
+    "points": 3699,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item #063",
-    "points": 3418,
+    "points": 3700,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "lucky horseshoe",
-    "points": 3419,
+    "points": 3701,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "lucky horseshoe",
-    "points": 3420,
+    "points": 3702,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-63-lucky-horseshoe-back.png",
     "xws": "luckyhorseshoe"
   },
   {
     "name": "item 64",
-    "points": 3421,
+    "points": 3703,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item 064",
-    "points": 3422,
+    "points": 3704,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item #64",
-    "points": 3423,
+    "points": 3705,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item #064",
-    "points": 3424,
+    "points": 3706,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "mild kindled tonic",
-    "points": 3425,
+    "points": 3707,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "mild kindled tonic",
-    "points": 3426,
+    "points": 3708,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-64-mild-kindled-tonic-back.png",
     "xws": "mildkindledtonic"
   },
   {
     "name": "item 65",
-    "points": 3427,
+    "points": 3709,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item 065",
-    "points": 3428,
+    "points": 3710,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item #65",
-    "points": 3429,
+    "points": 3711,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item #065",
-    "points": 3430,
+    "points": 3712,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "rescue axe",
-    "points": 3431,
+    "points": 3713,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe.png",
     "xws": "rescueaxe"
   },
   {
     "name": "rescue axe",
-    "points": 3432,
+    "points": 3714,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-65-rescue-axe-back.png",
     "xws": "rescueaxe"
   },
   {
     "name": "item 66",
-    "points": 3433,
+    "points": 3715,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item 066",
-    "points": 3434,
+    "points": 3716,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item #66",
-    "points": 3435,
+    "points": 3717,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item #066",
-    "points": 3436,
+    "points": 3718,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "iron malleus",
-    "points": 3437,
+    "points": 3719,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus.png",
     "xws": "ironmalleus"
   },
   {
     "name": "iron malleus",
-    "points": 3438,
+    "points": 3720,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-66-iron-malleus-back.png",
     "xws": "ironmalleus"
   },
   {
     "name": "item 67",
-    "points": 3439,
+    "points": 3721,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "item 067",
-    "points": 3440,
+    "points": 3722,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "item #67",
-    "points": 3441,
+    "points": 3723,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "item #067",
-    "points": 3442,
+    "points": 3724,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "pike hook",
-    "points": 3443,
+    "points": 3725,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook.png",
     "xws": "pikehook"
   },
   {
     "name": "pike hook",
-    "points": 3444,
+    "points": 3726,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-67-pike-hook-back.png",
     "xws": "pikehook"
   },
   {
     "name": "item 68",
-    "points": 3445,
+    "points": 3727,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item 068",
-    "points": 3446,
+    "points": 3728,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item #68",
-    "points": 3447,
+    "points": 3729,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item #068",
-    "points": 3448,
+    "points": 3730,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "explosive tonic",
-    "points": 3449,
+    "points": 3731,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic.png",
     "xws": "explosivetonic"
   },
   {
     "name": "explosive tonic",
-    "points": 3450,
+    "points": 3732,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-68-explosive-tonic-back.png",
     "xws": "explosivetonic"
   },
   {
     "name": "item 69",
-    "points": 3451,
+    "points": 3733,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item 069",
-    "points": 3452,
+    "points": 3734,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item #69",
-    "points": 3453,
+    "points": 3735,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item #069",
-    "points": 3454,
+    "points": 3736,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "spicy kindled tonic",
-    "points": 3455,
+    "points": 3737,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "spicy kindled tonic",
-    "points": 3456,
+    "points": 3738,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-69-spicy-kindled-tonic-back.png",
     "xws": "spicykindledtonic"
   },
   {
     "name": "item 70",
-    "points": 3457,
+    "points": 3739,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "item 070",
-    "points": 3458,
+    "points": 3740,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "item #70",
-    "points": 3459,
+    "points": 3741,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "item #070",
-    "points": 3460,
+    "points": 3742,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "utility rope",
-    "points": 3461,
+    "points": 3743,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope.png",
     "xws": "utilityrope"
   },
   {
     "name": "utility rope",
-    "points": 3462,
+    "points": 3744,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-70-utility-rope-back.png",
     "xws": "utilityrope"
   },
   {
     "name": "item 71",
-    "points": 3463,
+    "points": 3745,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item 071",
-    "points": 3464,
+    "points": 3746,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item #71",
-    "points": 3465,
+    "points": 3747,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item #071",
-    "points": 3466,
+    "points": 3748,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "fireproof helm",
-    "points": 3467,
+    "points": 3749,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "fireproof helm",
-    "points": 3468,
+    "points": 3750,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-71-fireproof-helm-back.png",
     "xws": "fireproofhelm"
   },
   {
     "name": "item 72",
-    "points": 3469,
+    "points": 3751,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "item 072",
-    "points": 3470,
+    "points": 3752,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "item #72",
-    "points": 3471,
+    "points": 3753,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "item #072",
-    "points": 3472,
+    "points": 3754,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "wooden ladder",
-    "points": 3473,
+    "points": 3755,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder.png",
     "xws": "woodenladder"
   },
   {
     "name": "wooden ladder",
-    "points": 3474,
+    "points": 3756,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-72-wooden-ladder-back.png",
     "xws": "woodenladder"
   },
   {
     "name": "item 73",
-    "points": 3475,
+    "points": 3757,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "item 073",
-    "points": 3476,
+    "points": 3758,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "item #73",
-    "points": 3477,
+    "points": 3759,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "item #073",
-    "points": 3478,
+    "points": 3760,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "medical kit",
-    "points": 3479,
+    "points": 3761,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit.png",
     "xws": "medicalkit"
   },
   {
     "name": "medical kit",
-    "points": 3480,
+    "points": 3762,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-73-medical-kit-back.png",
     "xws": "medicalkit"
   },
   {
     "name": "item 74",
-    "points": 3481,
+    "points": 3763,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item 074",
-    "points": 3482,
+    "points": 3764,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item #74",
-    "points": 3483,
+    "points": 3765,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item #074",
-    "points": 3484,
+    "points": 3766,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "mild bolstering tonic",
-    "points": 3485,
+    "points": 3767,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "mild bolstering tonic",
-    "points": 3486,
+    "points": 3768,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-74-mild-bolstering-tonic-back.png",
     "xws": "mildbolsteringtonic"
   },
   {
     "name": "item 75",
-    "points": 3487,
+    "points": 3769,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item 075",
-    "points": 3488,
+    "points": 3770,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item #75",
-    "points": 3489,
+    "points": 3771,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item #075",
-    "points": 3490,
+    "points": 3772,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "medallion of the oak",
-    "points": 3491,
+    "points": 3773,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "medallion of the oak",
-    "points": 3492,
+    "points": 3774,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-75-medallion-of-the-oak-back.png",
     "xws": "medallionoftheoak"
   },
   {
     "name": "item 76",
-    "points": 3493,
+    "points": 3775,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item 076",
-    "points": 3494,
+    "points": 3776,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item #76",
-    "points": 3495,
+    "points": 3777,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item #076",
-    "points": 3496,
+    "points": 3778,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "cauterizing knife",
-    "points": 3497,
+    "points": 3779,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "cauterizing knife",
-    "points": 3498,
+    "points": 3780,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-76-cauterizing-knife-back.png",
     "xws": "cauterizingknife"
   },
   {
     "name": "item 77",
-    "points": 3499,
+    "points": 3781,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "item 077",
-    "points": 3500,
+    "points": 3782,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "item #77",
-    "points": 3501,
+    "points": 3783,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "item #077",
-    "points": 3502,
+    "points": 3784,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "trauma kit",
-    "points": 3503,
+    "points": 3785,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit.png",
     "xws": "traumakit"
   },
   {
     "name": "trauma kit",
-    "points": 3504,
+    "points": 3786,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-77-trauma-kit-back.png",
     "xws": "traumakit"
   },
   {
     "name": "item 78",
-    "points": 3505,
+    "points": 3787,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item 078",
-    "points": 3506,
+    "points": 3788,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item #78",
-    "points": 3507,
+    "points": 3789,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item #078",
-    "points": 3508,
+    "points": 3790,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "scroll of charisma",
-    "points": 3509,
+    "points": 3791,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "scroll of charisma",
-    "points": 3510,
+    "points": 3792,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-78-scroll-of-charisma-back.png",
     "xws": "scrollofcharisma"
   },
   {
     "name": "item 79",
-    "points": 3511,
+    "points": 3793,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "item 079",
-    "points": 3512,
+    "points": 3794,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "item #79",
-    "points": 3513,
+    "points": 3795,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "item #079",
-    "points": 3514,
+    "points": 3796,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "rescue shield",
-    "points": 3515,
+    "points": 3797,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield.png",
     "xws": "rescueshield"
   },
   {
     "name": "rescue shield",
-    "points": 3516,
+    "points": 3798,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-79-rescue-shield-back.png",
     "xws": "rescueshield"
   },
   {
     "name": "item 80",
-    "points": 3517,
+    "points": 3799,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item 080",
-    "points": 3518,
+    "points": 3800,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item #80",
-    "points": 3519,
+    "points": 3801,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item #080",
-    "points": 3520,
+    "points": 3802,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "scroll of protection",
-    "points": 3521,
+    "points": 3803,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "scroll of protection",
-    "points": 3522,
+    "points": 3804,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-80-scroll-of-protection-back.png",
     "xws": "scrollofprotection"
   },
   {
     "name": "item 81",
-    "points": 3523,
+    "points": 3805,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item 081",
-    "points": 3524,
+    "points": 3806,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item #81",
-    "points": 3525,
+    "points": 3807,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item #081",
-    "points": 3526,
+    "points": 3808,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "spicy bolstering tonic",
-    "points": 3527,
+    "points": 3809,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "spicy bolstering tonic",
-    "points": 3528,
+    "points": 3810,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-81-spicy-bolstering-tonic-back.png",
     "xws": "spicybolsteringtonic"
   },
   {
     "name": "item 82",
-    "points": 3529,
+    "points": 3811,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item 082",
-    "points": 3530,
+    "points": 3812,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item #82",
-    "points": 3531,
+    "points": 3813,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item #082",
-    "points": 3532,
+    "points": 3814,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "scroll of command",
-    "points": 3533,
+    "points": 3815,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "scroll of command",
-    "points": 3534,
+    "points": 3816,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-82-scroll-of-command-back.png",
     "xws": "scrollofcommand"
   },
   {
     "name": "item 83",
-    "points": 3535,
+    "points": 3817,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item 083",
-    "points": 3536,
+    "points": 3818,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item #83",
-    "points": 3537,
+    "points": 3819,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item #083",
-    "points": 3538,
+    "points": 3820,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "sphere of currents",
-    "points": 3539,
+    "points": 3821,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "sphere of currents",
-    "points": 3540,
+    "points": 3822,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-83-sphere-of-currents-back.png",
     "xws": "sphereofcurrents"
   },
   {
     "name": "item 84",
-    "points": 3541,
+    "points": 3823,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item 084",
-    "points": 3542,
+    "points": 3824,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item #84",
-    "points": 3543,
+    "points": 3825,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item #084",
-    "points": 3544,
+    "points": 3826,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "slug crossbow",
-    "points": 3545,
+    "points": 3827,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "slug crossbow",
-    "points": 3546,
+    "points": 3828,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-84-slug-crossbow-back.png",
     "xws": "slugcrossbow"
   },
   {
     "name": "item 85",
-    "points": 3547,
+    "points": 3829,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item 085",
-    "points": 3548,
+    "points": 3830,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item #85",
-    "points": 3549,
+    "points": 3831,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item #085",
-    "points": 3550,
+    "points": 3832,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "refined slug crossbow",
-    "points": 3551,
+    "points": 3833,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "refined slug crossbow",
-    "points": 3552,
+    "points": 3834,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-85-refined-slug-crossbow-back.png",
     "xws": "refinedslugcrossbow"
   },
   {
     "name": "item 86",
-    "points": 3553,
+    "points": 3835,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item 086",
-    "points": 3554,
+    "points": 3836,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item #86",
-    "points": 3555,
+    "points": 3837,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item #086",
-    "points": 3556,
+    "points": 3838,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "bulwark banner",
-    "points": 3557,
+    "points": 3839,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "bulwark banner",
-    "points": 3558,
+    "points": 3840,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-86-bulwark-banner-back.png",
     "xws": "bulwarkbanner"
   },
   {
     "name": "item 87",
-    "points": 3559,
+    "points": 3841,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item 087",
-    "points": 3560,
+    "points": 3842,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item #87",
-    "points": 3561,
+    "points": 3843,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item #087",
-    "points": 3562,
+    "points": 3844,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "refined bulwark banner",
-    "points": 3563,
+    "points": 3845,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "refined bulwark banner",
-    "points": 3564,
+    "points": 3846,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-87-refined-bulwark-banner-back.png",
     "xws": "refinedbulwarkbanner"
   },
   {
     "name": "item 88",
-    "points": 3565,
+    "points": 3847,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item 088",
-    "points": 3566,
+    "points": 3848,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item #88",
-    "points": 3567,
+    "points": 3849,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item #088",
-    "points": 3568,
+    "points": 3850,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "remote beetle",
-    "points": 3569,
+    "points": 3851,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle.png",
     "xws": "remotebeetle"
   },
   {
     "name": "remote beetle",
-    "points": 3570,
+    "points": 3852,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-88-remote-beetle-back.png",
     "xws": "remotebeetle"
   },
   {
     "name": "item 89",
-    "points": 3571,
+    "points": 3853,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item 089",
-    "points": 3572,
+    "points": 3854,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item #89",
-    "points": 3573,
+    "points": 3855,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item #089",
-    "points": 3574,
+    "points": 3856,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "refined remote beetle",
-    "points": 3575,
+    "points": 3857,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "refined remote beetle",
-    "points": 3576,
+    "points": 3858,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-89-refined-remote-beetle-back.png",
     "xws": "refinedremotebeetle"
   },
   {
     "name": "item 90",
-    "points": 3577,
+    "points": 3859,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "item 090",
-    "points": 3578,
+    "points": 3860,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "item #90",
-    "points": 3579,
+    "points": 3861,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "item #090",
-    "points": 3580,
+    "points": 3862,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "blazing boots",
-    "points": 3581,
+    "points": 3863,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots.png",
     "xws": "blazingboots"
   },
   {
     "name": "blazing boots",
-    "points": 3582,
+    "points": 3864,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-90-blazing-boots-back.png",
     "xws": "blazingboots"
   },
   {
     "name": "item 91",
-    "points": 3583,
+    "points": 3865,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item 091",
-    "points": 3584,
+    "points": 3866,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item #91",
-    "points": 3585,
+    "points": 3867,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item #091",
-    "points": 3586,
+    "points": 3868,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "refined blazing boots",
-    "points": 3587,
+    "points": 3869,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "refined blazing boots",
-    "points": 3588,
+    "points": 3870,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-91-refined-blazing-boots-back.png",
     "xws": "refinedblazingboots"
   },
   {
     "name": "item 92",
-    "points": 3589,
+    "points": 3871,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item 092",
-    "points": 3590,
+    "points": 3872,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item #92",
-    "points": 3591,
+    "points": 3873,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item #092",
-    "points": 3592,
+    "points": 3874,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "viper blowgun",
-    "points": 3593,
+    "points": 3875,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun.png",
     "xws": "viperblowgun"
   },
   {
     "name": "viper blowgun",
-    "points": 3594,
+    "points": 3876,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-92-viper-blowgun-back.png",
     "xws": "viperblowgun"
   },
   {
     "name": "item 93",
-    "points": 3595,
+    "points": 3877,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item 093",
-    "points": 3596,
+    "points": 3878,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item #93",
-    "points": 3597,
+    "points": 3879,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item #093",
-    "points": 3598,
+    "points": 3880,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "refined viper blowgun",
-    "points": 3599,
+    "points": 3881,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "refined viper blowgun",
-    "points": 3600,
+    "points": 3882,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-93-refined-viper-blowgun-back.png",
     "xws": "refinedviperblowgun"
   },
   {
     "name": "item 94",
-    "points": 3601,
+    "points": 3883,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "item 094",
-    "points": 3602,
+    "points": 3884,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "item #94",
-    "points": 3603,
+    "points": 3885,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "item #094",
-    "points": 3604,
+    "points": 3886,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "frost stone",
-    "points": 3605,
+    "points": 3887,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone.png",
     "xws": "froststone"
   },
   {
     "name": "frost stone",
-    "points": 3606,
+    "points": 3888,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-94-frost-stone-back.png",
     "xws": "froststone"
   },
   {
     "name": "item 95",
-    "points": 3607,
+    "points": 3889,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "item 095",
-    "points": 3608,
+    "points": 3890,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "item #95",
-    "points": 3609,
+    "points": 3891,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "item #095",
-    "points": 3610,
+    "points": 3892,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "storm stone",
-    "points": 3611,
+    "points": 3893,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone.png",
     "xws": "stormstone"
   },
   {
     "name": "storm stone",
-    "points": 3612,
+    "points": 3894,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-95-storm-stone-back.png",
     "xws": "stormstone"
   },
   {
     "name": "item 96",
-    "points": 3613,
+    "points": 3895,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "item 096",
-    "points": 3614,
+    "points": 3896,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "item #96",
-    "points": 3615,
+    "points": 3897,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "item #096",
-    "points": 3616,
+    "points": 3898,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "inferno stone",
-    "points": 3617,
+    "points": 3899,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone.png",
     "xws": "infernostone"
   },
   {
     "name": "inferno stone",
-    "points": 3618,
+    "points": 3900,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-96-inferno-stone-back.png",
     "xws": "infernostone"
   },
   {
     "name": "item 97",
-    "points": 3619,
+    "points": 3901,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "item 097",
-    "points": 3620,
+    "points": 3902,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "item #97",
-    "points": 3621,
+    "points": 3903,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "item #097",
-    "points": 3622,
+    "points": 3904,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "tremor stone",
-    "points": 3623,
+    "points": 3905,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone.png",
     "xws": "tremorstone"
   },
   {
     "name": "tremor stone",
-    "points": 3624,
+    "points": 3906,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-97-tremor-stone-back.png",
     "xws": "tremorstone"
   },
   {
     "name": "item 98",
-    "points": 3625,
+    "points": 3907,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item 098",
-    "points": 3626,
+    "points": 3908,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item #98",
-    "points": 3627,
+    "points": 3909,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item #098",
-    "points": 3628,
+    "points": 3910,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "brilliant stone",
-    "points": 3629,
+    "points": 3911,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone.png",
     "xws": "brilliantstone"
   },
   {
     "name": "brilliant stone",
-    "points": 3630,
+    "points": 3912,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-98-brilliant-stone-back.png",
     "xws": "brilliantstone"
   },
   {
     "name": "item 99",
-    "points": 3631,
+    "points": 3913,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "item 099",
-    "points": 3632,
+    "points": 3914,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "item #99",
-    "points": 3633,
+    "points": 3915,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "item #099",
-    "points": 3634,
+    "points": 3916,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "dark stone",
-    "points": 3635,
+    "points": 3917,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone.png",
     "xws": "darkstone"
   },
   {
     "name": "dark stone",
-    "points": 3636,
+    "points": 3918,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-99-dark-stone-back.png",
     "xws": "darkstone"
   },
   {
     "name": "item 100",
-    "points": 3637,
+    "points": 3919,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone.png",
     "xws": "wonderstone"
   },
   {
     "name": "item #100",
-    "points": 3638,
+    "points": 3920,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone.png",
     "xws": "wonderstone"
   },
   {
     "name": "wonder stone",
-    "points": 3639,
+    "points": 3921,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone.png",
     "xws": "wonderstone"
   },
   {
     "name": "wonder stone",
-    "points": 3640,
+    "points": 3922,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-100-wonder-stone-back.png",
     "xws": "wonderstone"
   },
   {
     "name": "item aa01",
-    "points": 3641,
+    "points": 3923,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "item #aa01",
-    "points": 3642,
+    "points": 3924,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "rockspine bulwark",
-    "points": 3643,
+    "points": 3925,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "rockspine bulwark",
-    "points": 3644,
+    "points": 3926,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa01-rockspine-bulwark-back.png",
     "xws": "rockspinebulwark"
   },
   {
     "name": "item aa02",
-    "points": 3645,
+    "points": 3927,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "item #aa02",
-    "points": 3646,
+    "points": 3928,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "ghostshimmer honey",
-    "points": 3647,
+    "points": 3929,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "ghostshimmer honey",
-    "points": 3648,
+    "points": 3930,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey-back.png",
     "xws": "ghostshimmerhoney"
   },
   {
     "name": "item aa03",
-    "points": 3649,
+    "points": 3931,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "item #aa03",
-    "points": 3650,
+    "points": 3932,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "steelsilk spinneret",
-    "points": 3651,
+    "points": 3933,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "steelsilk spinneret",
-    "points": 3652,
+    "points": 3934,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret-back.png",
     "xws": "steelsilkspinneret"
   },
   {
     "name": "item qa01",
-    "points": 3653,
+    "points": 3935,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator.png",
     "xws": "powermodulator"
   },
   {
     "name": "item #qa01",
-    "points": 3654,
+    "points": 3936,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator.png",
     "xws": "powermodulator"
   },
   {
     "name": "power modulator",
-    "points": 3655,
+    "points": 3937,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator.png",
     "xws": "powermodulator"
   },
   {
     "name": "power modulator",
-    "points": 3656,
+    "points": 3938,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa01-power-modulator-back.png",
     "xws": "powermodulator"
   },
   {
     "name": "item qa02",
-    "points": 3657,
+    "points": 3939,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
-    "points": 3658,
+    "points": 3940,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3659,
+    "points": 3941,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3660,
+    "points": 3942,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer-back.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item qa02",
-    "points": 3661,
+    "points": 3943,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
-    "points": 3662,
+    "points": 3944,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3663,
+    "points": 3945,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
-    "points": 3664,
+    "points": 3946,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer-back.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item qa03",
-    "points": 3665,
+    "points": 3947,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item #qa03",
-    "points": 3666,
+    "points": 3948,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3667,
+    "points": 3949,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3668,
+    "points": 3950,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves-back.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item qa03",
-    "points": 3669,
+    "points": 3951,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item #qa03",
-    "points": 3670,
+    "points": 3952,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3671,
+    "points": 3953,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "spider climb gloves",
-    "points": 3672,
+    "points": 3954,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves-back.png",
     "xws": "spiderclimbgloves"
   },
   {
     "name": "item qa04",
-    "points": 3673,
+    "points": 3955,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "item #qa04",
-    "points": 3674,
+    "points": 3956,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "gravity inversion pads",
-    "points": 3675,
+    "points": 3957,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "gravity inversion pads",
-    "points": 3676,
+    "points": 3958,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads-back.png",
     "xws": "gravityinversionpads"
   },
   {
     "name": "item qa05",
-    "points": 3677,
+    "points": 3959,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "item #qa05",
-    "points": 3678,
+    "points": 3960,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "delicate model",
-    "points": 3679,
+    "points": 3961,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "scrap collector",
-    "points": 3680,
+    "points": 3962,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
     "xws": "delicatemodel"
   },
   {
     "name": "delicate model",
-    "points": 3681,
+    "points": 3963,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model-back.png",
     "xws": "delicatemodel"
   },
   {
     "name": "item qa06",
-    "points": 3682,
+    "points": 3964,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "item #qa06",
-    "points": 3683,
+    "points": 3965,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "auscudec of the makers",
-    "points": 3684,
+    "points": 3966,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "auscudec of the makers",
-    "points": 3685,
+    "points": 3967,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers-back.png",
     "xws": "auscudecofthemakers"
   },
   {
     "name": "item rm01",
-    "points": 3686,
+    "points": 3968,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "item #rm01",
-    "points": 3687,
+    "points": 3969,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3688,
+    "points": 3970,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3689,
+    "points": 3971,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01-serrated-edge-back.png",
     "xws": "serratededge"
   },
   {
     "name": "item rm01",
-    "points": 3690,
+    "points": 3972,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "item #rm01",
-    "points": 3691,
+    "points": 3973,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3692,
+    "points": 3974,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
     "xws": "serratededge"
   },
   {
     "name": "serrated edge",
-    "points": 3693,
+    "points": 3975,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm01-serrated-edge-back.png",
     "xws": "serratededge"
   },
   {
     "name": "item rm02",
-    "points": 3694,
+    "points": 3976,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
     "xws": "grislyboots"
   },
   {
     "name": "item #rm02",
-    "points": 3695,
+    "points": 3977,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
     "xws": "grislyboots"
   },
   {
     "name": "grisly boots",
-    "points": 3696,
+    "points": 3978,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
     "xws": "grislyboots"
   },
   {
     "name": "grisly boots",
-    "points": 3697,
+    "points": 3979,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm02-grisly-boots-back.png",
     "xws": "grislyboots"
   },
   {
     "name": "item rm03",
-    "points": 3698,
+    "points": 3980,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "item #rm03",
-    "points": 3699,
+    "points": 3981,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "terrorscale saber",
-    "points": 3700,
+    "points": 3982,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "terrorscale saber",
-    "points": 3701,
+    "points": 3983,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm03-terrorscale-saber-back.png",
     "xws": "terrorscalesaber"
   },
   {
     "name": "item rm04",
-    "points": 3702,
+    "points": 3984,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "item #rm04",
-    "points": 3703,
+    "points": 3985,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "terrorscale crossblades",
-    "points": 3704,
+    "points": 3986,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "terrorscale crossblades",
-    "points": 3705,
+    "points": 3987,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades-back.png",
     "xws": "terrorscalecrossblades"
   },
   {
     "name": "item rm05",
-    "points": 3706,
+    "points": 3988,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
     "xws": "riteofruin"
   },
   {
     "name": "item #rm05",
-    "points": 3707,
+    "points": 3989,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
     "xws": "riteofruin"
   },
   {
     "name": "rite of ruin",
-    "points": 3708,
+    "points": 3990,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
     "xws": "riteofruin"
   },
   {
     "name": "rite of ruin",
-    "points": 3709,
+    "points": 3991,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm05-rite-of-ruin-back.png",
     "xws": "riteofruin"
   },
   {
     "name": "item rm06",
-    "points": 3710,
+    "points": 3992,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
     "xws": "savagecuirass"
   },
   {
     "name": "item #rm06",
-    "points": 3711,
+    "points": 3993,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
     "xws": "savagecuirass"
   },
   {
     "name": "savage cuirass",
-    "points": 3712,
+    "points": 3994,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
     "xws": "savagecuirass"
   },
   {
     "name": "savage cuirass",
-    "points": 3713,
+    "points": 3995,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass-back.png",
     "xws": "savagecuirass"
   },
   {
     "name": "item 101",
-    "points": 3714,
+    "points": 3996,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard.png",
     "xws": "runicvisard"
   },
   {
     "name": "item #101",
-    "points": 3715,
+    "points": 3997,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard.png",
     "xws": "runicvisard"
   },
   {
     "name": "runic visard",
-    "points": 3716,
+    "points": 3998,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard.png",
     "xws": "runicvisard"
   },
   {
     "name": "runic visard",
-    "points": 3717,
+    "points": 3999,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-101-runic-visard-back.png",
     "xws": "runicvisard"
   },
   {
     "name": "item 102",
-    "points": 3718,
+    "points": 4000,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item 102",
-    "points": 3719,
+    "points": 4001,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item #102",
-    "points": 3720,
+    "points": 4002,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item #102",
-    "points": 3721,
+    "points": 4003,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "shoes of ataraxy",
-    "points": 3722,
+    "points": 4004,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "shoes of ataraxy",
-    "points": 3723,
+    "points": 4005,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "shoes of ataraxy",
-    "points": 3724,
+    "points": 4006,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-102-shoes-of-ataraxy-back.png",
     "xws": "shoesofataraxy"
   },
   {
     "name": "item 103",
-    "points": 3725,
+    "points": 4007,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "item #103",
-    "points": 3726,
+    "points": 4008,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "magnetic relocator",
-    "points": 3727,
+    "points": 4009,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "magnetic relocator",
-    "points": 3728,
+    "points": 4010,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-103-magnetic-relocator-back.png",
     "xws": "magneticrelocator"
   },
   {
     "name": "item 104",
-    "points": 3729,
+    "points": 4011,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "item #104",
-    "points": 3730,
+    "points": 4012,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "shepherd's flute",
-    "points": 3731,
+    "points": 4013,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "harrower swarm",
-    "points": 3732,
+    "points": 4014,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "shepherd's flute",
-    "points": 3733,
+    "points": 4015,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-104-shepherds-flute-back.png",
     "xws": "shepherdsflute"
   },
   {
     "name": "item 105",
-    "points": 3734,
+    "points": 4016,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "item #105",
-    "points": 3735,
+    "points": 4017,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "tyrannical staff",
-    "points": 3736,
+    "points": 4018,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "tyrannical staff",
-    "points": 3737,
+    "points": 4019,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-105-tyrannical-staff-back.png",
     "xws": "tyrannicalstaff"
   },
   {
     "name": "item 106",
-    "points": 3738,
+    "points": 4020,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "item 106",
-    "points": 3739,
+    "points": 4021,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "item #106",
-    "points": 3740,
+    "points": 4022,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "item #106",
-    "points": 3741,
+    "points": 4023,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "crushing mace",
-    "points": 3742,
+    "points": 4024,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "crushing mace",
-    "points": 3743,
+    "points": 4025,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
     "xws": "crushingmace"
   },
   {
     "name": "crushing mace",
-    "points": 3744,
+    "points": 4026,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-106-crushing-mace-back.png",
     "xws": "crushingmace"
   },
   {
     "name": "item 107",
-    "points": 3745,
+    "points": 4027,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "item #107",
-    "points": 3746,
+    "points": 4028,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "chief's garb",
-    "points": 3747,
+    "points": 4029,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "chief's garb",
-    "points": 3748,
+    "points": 4030,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-107-chiefs-garb-back.png",
     "xws": "chiefsgarb"
   },
   {
     "name": "item 108",
-    "points": 3749,
+    "points": 4031,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "item #108",
-    "points": 3750,
+    "points": 4032,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "iridescent bracer",
-    "points": 3751,
+    "points": 4033,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "iridescent bracer",
-    "points": 3752,
+    "points": 4034,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-108-iridescent-bracer-back.png",
     "xws": "iridescentbracer"
   },
   {
     "name": "item 109",
-    "points": 3753,
+    "points": 4035,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff.png",
     "xws": "talosstaff"
   },
   {
     "name": "item #109",
-    "points": 3754,
+    "points": 4036,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff.png",
     "xws": "talosstaff"
   },
   {
     "name": "talo's staff",
-    "points": 3755,
+    "points": 4037,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff.png",
     "xws": "talosstaff"
   },
   {
     "name": "talo's staff",
-    "points": 3756,
+    "points": 4038,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-109-talos-staff-back.png",
     "xws": "talosstaff"
   },
   {
     "name": "item 110",
-    "points": 3757,
+    "points": 4039,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "item #110",
-    "points": 3758,
+    "points": 4040,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "mask of cruelty",
-    "points": 3759,
+    "points": 4041,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "mask of cruelty",
-    "points": 3760,
+    "points": 4042,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-110-mask-of-cruelty-back.png",
     "xws": "maskofcruelty"
   },
   {
     "name": "item 111",
-    "points": 3761,
+    "points": 4043,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "item #111",
-    "points": 3762,
+    "points": 4044,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "staff of equilibrium",
-    "points": 3763,
+    "points": 4045,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "staff of equilibrium",
-    "points": 3764,
+    "points": 4046,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium-back.png",
     "xws": "staffofequilibrium"
   },
   {
     "name": "item 112",
-    "points": 3765,
+    "points": 4047,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
     "xws": "voyagersblade"
   },
   {
     "name": "item #112",
-    "points": 3766,
+    "points": 4048,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
     "xws": "voyagersblade"
   },
   {
     "name": "voyager's blade",
-    "points": 3767,
+    "points": 4049,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
     "xws": "voyagersblade"
   },
   {
     "name": "voyager's blade",
-    "points": 3768,
+    "points": 4050,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-112-voyagers-blade-back.png",
     "xws": "voyagersblade"
   },
   {
     "name": "item 113",
-    "points": 3769,
+    "points": 4051,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass.png",
     "xws": "lookingglass"
   },
   {
     "name": "item #113",
-    "points": 3770,
+    "points": 4052,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass.png",
     "xws": "lookingglass"
   },
   {
     "name": "looking glass",
-    "points": 3771,
+    "points": 4053,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass.png",
     "xws": "lookingglass"
   },
   {
     "name": "looking glass",
-    "points": 3772,
+    "points": 4054,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-113-looking-glass-back.png",
     "xws": "lookingglass"
   },
   {
     "name": "item 114",
-    "points": 3773,
+    "points": 4055,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "item #114",
-    "points": 3774,
+    "points": 4056,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "runic boots of travel",
-    "points": 3775,
+    "points": 4057,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "runic boots of travel",
-    "points": 3776,
+    "points": 4058,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel-back.png",
     "xws": "runicbootsoftravel"
   },
   {
     "name": "item 115",
-    "points": 3777,
+    "points": 4059,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard.png",
     "xws": "battlestandard"
   },
   {
     "name": "item #115",
-    "points": 3778,
+    "points": 4060,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard.png",
     "xws": "battlestandard"
   },
   {
     "name": "battle standard",
-    "points": 3779,
+    "points": 4061,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard.png",
     "xws": "battlestandard"
   },
   {
     "name": "battle standard",
-    "points": 3780,
+    "points": 4062,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-115-battle-standard-back.png",
     "xws": "battlestandard"
   },
   {
     "name": "item 116",
-    "points": 3781,
+    "points": 4063,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "item #116",
-    "points": 3782,
+    "points": 4064,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "matriarch's warhorn",
-    "points": 3783,
+    "points": 4065,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "matriarch's warhorn",
-    "points": 3784,
+    "points": 4066,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn-back.png",
     "xws": "matriarchswarhorn"
   },
   {
     "name": "item 117",
-    "points": 3785,
+    "points": 4067,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item 117",
-    "points": 3786,
+    "points": 4068,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item #117",
-    "points": 3787,
+    "points": 4069,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item #117",
-    "points": 3788,
+    "points": 4070,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "dawnbloom nectar",
-    "points": 3789,
+    "points": 4071,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "dawnbloom nectar",
-    "points": 3790,
+    "points": 4072,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "dawnbloom nectar",
-    "points": 3791,
+    "points": 4073,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-117-dawnbloom-nectar-back.png",
     "xws": "dawnbloomnectar"
   },
   {
     "name": "item 118",
-    "points": 3792,
+    "points": 4074,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item 118",
-    "points": 3793,
+    "points": 4075,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item #118",
-    "points": 3794,
+    "points": 4076,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item #118",
-    "points": 3795,
+    "points": 4077,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "graveweed extract",
-    "points": 3796,
+    "points": 4078,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "graveweed extract",
-    "points": 3797,
+    "points": 4079,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
     "xws": "graveweedextract"
   },
   {
     "name": "graveweed extract",
-    "points": 3798,
+    "points": 4080,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-118-graveweed-extract-back.png",
     "xws": "graveweedextract"
   },
   {
     "name": "item 119",
-    "points": 3799,
+    "points": 4081,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "item #119",
-    "points": 3800,
+    "points": 4082,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "thrice-souled warsword",
-    "points": 3801,
+    "points": 4083,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "thrice-souled warsword",
-    "points": 3802,
+    "points": 4084,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword-back.png",
     "xws": "thricesouledwarsword"
   },
   {
     "name": "item 120",
-    "points": 3803,
+    "points": 4085,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
     "xws": "rekindledcore"
   },
   {
     "name": "item #120",
-    "points": 3804,
+    "points": 4086,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
     "xws": "rekindledcore"
   },
   {
     "name": "rekindled core",
-    "points": 3805,
+    "points": 4087,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
     "xws": "rekindledcore"
   },
   {
     "name": "rekindled core",
-    "points": 3806,
+    "points": 4088,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-120-rekindled-core-back.png",
     "xws": "rekindledcore"
   },
   {
     "name": "item 121",
-    "points": 3807,
+    "points": 4089,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "item #121",
-    "points": 3808,
+    "points": 4090,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "crystal catalyst",
-    "points": 3809,
+    "points": 4091,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "crystal catalyst",
-    "points": 3810,
+    "points": 4092,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-121-crystal-catalyst-back.png",
     "xws": "crystalcatalyst"
   },
   {
     "name": "item 122",
-    "points": 3811,
+    "points": 4093,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
     "xws": "crystalspike"
   },
   {
     "name": "item #122",
-    "points": 3812,
+    "points": 4094,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
     "xws": "crystalspike"
   },
   {
     "name": "crystal spike",
-    "points": 3813,
+    "points": 4095,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
     "xws": "crystalspike"
   },
   {
     "name": "crystal spike",
-    "points": 3814,
+    "points": 4096,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-122-crystal-spike-back.png",
     "xws": "crystalspike"
   },
   {
     "name": "item 123",
-    "points": 3815,
+    "points": 4097,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
     "xws": "arclightcladding"
   },
   {
     "name": "item #123",
-    "points": 3816,
+    "points": 4098,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
     "xws": "arclightcladding"
   },
   {
     "name": "arclight cladding",
-    "points": 3817,
+    "points": 4099,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
     "xws": "arclightcladding"
   },
   {
     "name": "arclight cladding",
-    "points": 3818,
+    "points": 4100,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-123-arclight-cladding-back.png",
     "xws": "arclightcladding"
   },
   {
     "name": "item 124",
-    "points": 3819,
+    "points": 4101,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
     "xws": "arcboltlance"
   },
   {
     "name": "item #124",
-    "points": 3820,
+    "points": 4102,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
     "xws": "arcboltlance"
   },
   {
     "name": "arcbolt lance",
-    "points": 3821,
+    "points": 4103,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
     "xws": "arcboltlance"
   },
   {
     "name": "arcbolt lance",
-    "points": 3822,
+    "points": 4104,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-124-arcbolt-lance-back.png",
     "xws": "arcboltlance"
   },
   {
     "name": "item 125",
-    "points": 3823,
+    "points": 4105,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "item #125",
-    "points": 3824,
+    "points": 4106,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "scroll of evasion",
-    "points": 3825,
+    "points": 4107,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "scroll of evasion",
-    "points": 3826,
+    "points": 4108,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-125-scroll-of-evasion-back.png",
     "xws": "scrollofevasion"
   },
   {
     "name": "item 126",
-    "points": 3827,
+    "points": 4109,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "item #126",
-    "points": 3828,
+    "points": 4110,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "arcstone greaves",
-    "points": 3829,
+    "points": 4111,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "arcstone greaves",
-    "points": 3830,
+    "points": 4112,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-126-arcstone-greaves-back.png",
     "xws": "arcstonegreaves"
   },
   {
     "name": "item 127",
-    "points": 3831,
+    "points": 4113,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
     "xws": "arclighthood"
   },
   {
     "name": "item #127",
-    "points": 3832,
+    "points": 4114,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
     "xws": "arclighthood"
   },
   {
     "name": "arclight hood",
-    "points": 3833,
+    "points": 4115,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
     "xws": "arclighthood"
   },
   {
     "name": "arclight hood",
-    "points": 3834,
+    "points": 4116,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-127-arclight-hood-back.png",
     "xws": "arclighthood"
   },
   {
     "name": "item 128",
-    "points": 3835,
+    "points": 4117,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
     "xws": "barbedwhip"
   },
   {
     "name": "item #128",
-    "points": 3836,
+    "points": 4118,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
     "xws": "barbedwhip"
   },
   {
     "name": "barbed whip",
-    "points": 3837,
+    "points": 4119,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
     "xws": "barbedwhip"
   },
   {
     "name": "barbed whip",
-    "points": 3838,
+    "points": 4120,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-128-barbed-whip-back.png",
     "xws": "barbedwhip"
   },
   {
     "name": "item 129",
-    "points": 3839,
+    "points": 4121,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "item 129",
-    "points": 3840,
+    "points": 4122,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "item #129",
-    "points": 3841,
+    "points": 4123,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "item #129",
-    "points": 3842,
+    "points": 4124,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "talo's rosary",
-    "points": 3843,
+    "points": 4125,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "talo's rosary",
-    "points": 3844,
+    "points": 4126,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
     "xws": "talosrosary"
   },
   {
     "name": "talo's rosary",
-    "points": 3845,
+    "points": 4127,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-129-talos-rosary-back.png",
     "xws": "talosrosary"
   },
   {
     "name": "item 130",
-    "points": 3846,
+    "points": 4128,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "item #130",
-    "points": 3847,
+    "points": 4129,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "dynamic sickle",
-    "points": 3848,
+    "points": 4130,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "dynamic sickle",
-    "points": 3849,
+    "points": 4131,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-130-dynamic-sickle-back.png",
     "xws": "dynamicsickle"
   },
   {
     "name": "item 131",
-    "points": 3850,
+    "points": 4132,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
     "xws": "predatorswristblade"
   },
   {
     "name": "item #131",
-    "points": 3851,
+    "points": 4133,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
     "xws": "predatorswristblade"
   },
   {
     "name": "predator's wristblade",
-    "points": 3852,
+    "points": 4134,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
     "xws": "predatorswristblade"
   },
   {
     "name": "predator's wristblade",
-    "points": 3853,
+    "points": 4135,
     "expansion": "trail of ashes",
     "image": "items/trail-of-ashes/toa-131-predators-wristblade-back.png",
     "xws": "predatorswristblade"
