@@ -1091,7 +1091,7 @@
     "name": "character dial",
     "points": 136,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-back.png",
+    "image": "map-tiles/frosthaven/fh-character-dial-front.png",
     "xws": "characterdial",
     "assetno": "###"
   },
@@ -1099,7 +1099,7 @@
     "name": "character dial",
     "points": 137,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-front.png",
+    "image": "map-tiles/frosthaven/fh-character-dial-back.png",
     "xws": "characterdial",
     "assetno": "###"
   },
@@ -1107,7 +1107,7 @@
     "name": "character dial health",
     "points": 138,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-health-back.png",
+    "image": "map-tiles/frosthaven/fh-character-dial-health-front.png",
     "xws": "characterdialhealth",
     "assetno": "###"
   },
@@ -1115,7 +1115,7 @@
     "name": "character dial health",
     "points": 139,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-health-front.png",
+    "image": "map-tiles/frosthaven/fh-character-dial-health-back.png",
     "xws": "characterdialhealth",
     "assetno": "###"
   },
@@ -1123,7 +1123,7 @@
     "name": "character dial xp",
     "points": 140,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-xp-back.png",
+    "image": "map-tiles/frosthaven/fh-character-dial-xp-front.png",
     "xws": "characterdialxp",
     "assetno": "###"
   },
@@ -1131,7 +1131,7 @@
     "name": "character dial xp",
     "points": 141,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-xp-front.png",
+    "image": "map-tiles/frosthaven/fh-character-dial-xp-back.png",
     "xws": "characterdialxp",
     "assetno": "###"
   },
@@ -1139,7 +1139,7 @@
     "name": "element board",
     "points": 142,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-element-board-back.png",
+    "image": "map-tiles/frosthaven/fh-element-board-front.png",
     "xws": "elementboard",
     "assetno": "###"
   },
@@ -1147,7 +1147,7 @@
     "name": "element board",
     "points": 143,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-element-board-front.png",
+    "image": "map-tiles/frosthaven/fh-element-board-back.png",
     "xws": "elementboard",
     "assetno": "###"
   }
