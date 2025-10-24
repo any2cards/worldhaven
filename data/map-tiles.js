@@ -484,587 +484,671 @@
     "points": 60,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01a-snow.png",
-    "xws": "01a"
+    "xws": "01a",
+    "assetno": "###"
   },
   {
     "name": "01b",
     "points": 61,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01b-metal.png",
-    "xws": "01b"
+    "xws": "01b",
+    "assetno": "###"
   },
   {
     "name": "01c",
     "points": 62,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01c-snow.png",
-    "xws": "01c"
+    "xws": "01c",
+    "assetno": "###"
   },
   {
     "name": "01d",
     "points": 63,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01d-metal.png",
-    "xws": "01d"
+    "xws": "01d",
+    "assetno": "###"
   },
   {
     "name": "01e",
     "points": 64,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01e-snow.png",
-    "xws": "01e"
+    "xws": "01e",
+    "assetno": "###"
   },
   {
     "name": "01f",
     "points": 65,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01f-cave.png",
-    "xws": "01f"
+    "xws": "01f",
+    "assetno": "###"
   },
   {
     "name": "01g",
     "points": 66,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01g-snow.png",
-    "xws": "01g"
+    "xws": "01g",
+    "assetno": "###"
   },
   {
     "name": "01h",
     "points": 67,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-01h-dungeon.png",
-    "xws": "01h"
+    "xws": "01h",
+    "assetno": "###"
   },
   {
     "name": "02a",
     "points": 68,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02a-dungeon.png",
-    "xws": "02a"
+    "xws": "02a",
+    "assetno": "###"
   },
   {
     "name": "02b",
     "points": 69,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02b-wood.png",
-    "xws": "02b"
+    "xws": "02b",
+    "assetno": "###"
   },
   {
     "name": "02c",
     "points": 70,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02c-dungeon.png",
-    "xws": "02c"
+    "xws": "02c",
+    "assetno": "###"
   },
   {
     "name": "02d",
     "points": 71,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02d-wood.png",
-    "xws": "02d"
+    "xws": "02d",
+    "assetno": "###"
   },
   {
     "name": "02e",
     "points": 72,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02e-snow.png",
-    "xws": "02e"
+    "xws": "02e",
+    "assetno": "###"
   },
   {
     "name": "02f",
     "points": 73,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02f-metal.png",
-    "xws": "02f"
+    "xws": "02f",
+    "assetno": "###"
   },
   {
     "name": "02g",
     "points": 74,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02g-snow.png",
-    "xws": "02g"
+    "xws": "02g",
+    "assetno": "###"
   },
   {
     "name": "02h",
     "points": 75,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02h-metal.png",
-    "xws": "02h"
+    "xws": "02h",
+    "assetno": "###"
   },
   {
     "name": "02i",
     "points": 76,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02i-dungeon.png",
-    "xws": "02i"
+    "xws": "02i",
+    "assetno": "###"
   },
   {
     "name": "02j",
     "points": 77,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02j-cave.png",
-    "xws": "02j"
+    "xws": "02j",
+    "assetno": "###"
   },
   {
     "name": "02k",
     "points": 78,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02k-dungeon.png",
-    "xws": "02k"
+    "xws": "02k",
+    "assetno": "###"
   },
   {
     "name": "02l",
     "points": 79,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-02l-cave.png",
-    "xws": "02l"
+    "xws": "02l",
+    "assetno": "###"
   },
   {
     "name": "03a",
     "points": 80,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-03a-cave.png",
-    "xws": "03a"
+    "xws": "03a",
+    "assetno": "###"
   },
   {
     "name": "03b",
     "points": 81,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-03b-metal.png",
-    "xws": "03b"
+    "xws": "03b",
+    "assetno": "###"
   },
   {
     "name": "03c",
     "points": 82,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-03c-dungeon.png",
-    "xws": "03c"
+    "xws": "03c",
+    "assetno": "###"
   },
   {
     "name": "03d",
     "points": 83,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-03d-snow.png",
-    "xws": "03d"
+    "xws": "03d",
+    "assetno": "###"
   },
   {
     "name": "04a",
     "points": 84,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-04a-cave.png",
-    "xws": "04a"
+    "xws": "04a",
+    "assetno": "###"
   },
   {
     "name": "04b",
     "points": 85,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-04b-metal.png",
-    "xws": "04b"
+    "xws": "04b",
+    "assetno": "###"
   },
   {
     "name": "04c",
     "points": 86,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-04c-snow.png",
-    "xws": "04c"
+    "xws": "04c",
+    "assetno": "###"
   },
   {
     "name": "04d",
     "points": 87,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-04d-dungeon.png",
-    "xws": "04d"
+    "xws": "04d",
+    "assetno": "###"
   },
   {
     "name": "05a",
     "points": 88,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-05a-cave.png",
-    "xws": "05a"
+    "xws": "05a",
+    "assetno": "###"
   },
   {
     "name": "05b",
     "points": 89,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-05b-snow.png",
-    "xws": "05b"
+    "xws": "05b",
+    "assetno": "###"
   },
   {
     "name": "06a",
     "points": 90,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-06a-snow.png",
-    "xws": "06a"
+    "xws": "06a",
+    "assetno": "###"
   },
   {
     "name": "06b",
     "points": 91,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-06b-metal.png",
-    "xws": "06b"
+    "xws": "06b",
+    "assetno": "###"
   },
   {
     "name": "07a",
     "points": 92,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07a-cave.png",
-    "xws": "07a"
+    "xws": "07a",
+    "assetno": "###"
   },
   {
     "name": "07b",
     "points": 93,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07b-snow.png",
-    "xws": "07b"
+    "xws": "07b",
+    "assetno": "###"
   },
   {
     "name": "07c",
     "points": 94,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07c-cave.png",
-    "xws": "07c"
+    "xws": "07c",
+    "assetno": "###"
   },
   {
     "name": "07d",
     "points": 95,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07d-snow.png",
-    "xws": "07d"
+    "xws": "07d",
+    "assetno": "###"
   },
   {
     "name": "07e",
     "points": 96,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07e-dungeon.png",
-    "xws": "07e"
+    "xws": "07e",
+    "assetno": "###"
   },
   {
     "name": "07f",
     "points": 97,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07f-metal.png",
-    "xws": "07f"
+    "xws": "07f",
+    "assetno": "###"
   },
   {
     "name": "07g",
     "points": 98,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07g-wood.png",
-    "xws": "07g"
+    "xws": "07g",
+    "assetno": "###"
   },
   {
     "name": "07h",
     "points": 99,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-07h-metal.png",
-    "xws": "07h"
+    "xws": "07h",
+    "assetno": "###"
   },
   {
     "name": "08a",
     "points": 100,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-08a-metal.png",
-    "xws": "08a"
+    "xws": "08a",
+    "assetno": "###"
   },
   {
     "name": "08b",
     "points": 101,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-08b-cave.png",
-    "xws": "08b"
+    "xws": "08b",
+    "assetno": "###"
   },
   {
     "name": "09a",
     "points": 102,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-09a-snow.png",
-    "xws": "09a"
+    "xws": "09a",
+    "assetno": "###"
   },
   {
     "name": "09b",
     "points": 103,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-09b-dungeon.png",
-    "xws": "09b"
+    "xws": "09b",
+    "assetno": "###"
   },
   {
     "name": "09c",
     "points": 104,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-09c-metal.png",
-    "xws": "09c"
+    "xws": "09c",
+    "assetno": "###"
   },
   {
     "name": "09d",
     "points": 105,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-09d-wood.png",
-    "xws": "09d"
+    "xws": "09d",
+    "assetno": "###"
   },
   {
     "name": "10a",
     "points": 106,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-10a-metal.png",
-    "xws": "10a"
+    "xws": "10a",
+    "assetno": "###"
   },
   {
     "name": "10b",
     "points": 107,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-10b-dungeon.png",
-    "xws": "10b"
+    "xws": "10b",
+    "assetno": "###"
   },
   {
     "name": "10c",
     "points": 108,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-10c-metal.png",
-    "xws": "10c"
+    "xws": "10c",
+    "assetno": "###"
   },
   {
     "name": "10d",
     "points": 109,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-10d-snow.png",
-    "xws": "10d"
+    "xws": "10d",
+    "assetno": "###"
   },
   {
     "name": "11a",
     "points": 110,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-11a-snow.png",
-    "xws": "11a"
+    "xws": "11a",
+    "assetno": "###"
   },
   {
     "name": "11b",
     "points": 111,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-11b-cave.png",
-    "xws": "11b"
+    "xws": "11b",
+    "assetno": "###"
   },
   {
     "name": "11c",
     "points": 112,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-11c-snow.png",
-    "xws": "11c"
+    "xws": "11c",
+    "assetno": "###"
   },
   {
     "name": "11d",
     "points": 113,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-11d-cave.png",
-    "xws": "11d"
+    "xws": "11d",
+    "assetno": "###"
   },
   {
     "name": "11e",
     "points": 114,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-11e-dungeon.png",
-    "xws": "11e"
+    "xws": "11e",
+    "assetno": "###"
   },
   {
     "name": "11f",
     "points": 115,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-11f-metal.png",
-    "xws": "11f"
+    "xws": "11f",
+    "assetno": "###"
   },
   {
     "name": "12a",
     "points": 116,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-12a-metal.png",
-    "xws": "12a"
+    "xws": "12a",
+    "assetno": "###"
   },
   {
     "name": "12b",
     "points": 117,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-12b-cave.png",
-    "xws": "12b"
+    "xws": "12b",
+    "assetno": "###"
   },
   {
     "name": "12c",
     "points": 118,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-12c-metal.png",
-    "xws": "12c"
+    "xws": "12c",
+    "assetno": "###"
   },
   {
     "name": "12d",
     "points": 119,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-12d-dungeon.png",
-    "xws": "12d"
+    "xws": "12d",
+    "assetno": "###"
   },
   {
     "name": "13a",
     "points": 120,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-13a-snow.png",
-    "xws": "13a"
+    "xws": "13a",
+    "assetno": "###"
   },
   {
     "name": "13b",
     "points": 121,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-13b-cave.png",
-    "xws": "13b"
+    "xws": "13b",
+    "assetno": "###"
   },
   {
     "name": "13c",
     "points": 122,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-13c-snow.png",
-    "xws": "13c"
+    "xws": "13c",
+    "assetno": "###"
   },
   {
     "name": "13d",
     "points": 123,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-13d-cave.png",
-    "xws": "13d"
+    "xws": "13d",
+    "assetno": "###"
   },
   {
     "name": "13e",
     "points": 124,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-13e-dungeon.png",
-    "xws": "13e"
+    "xws": "13e",
+    "assetno": "###"
   },
   {
     "name": "13f",
     "points": 125,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-13f-metal.png",
-    "xws": "13f"
+    "xws": "13f",
+    "assetno": "###"
   },
   {
     "name": "14a",
     "points": 126,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-14a-wood.png",
-    "xws": "14a"
+    "xws": "14a",
+    "assetno": "###"
   },
   {
     "name": "14b",
     "points": 127,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-14b-cave.png",
-    "xws": "14b"
+    "xws": "14b",
+    "assetno": "###"
   },
   {
     "name": "15a",
     "points": 128,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-15a-snow.png",
-    "xws": "15a"
+    "xws": "15a",
+    "assetno": "###"
   },
   {
     "name": "15b",
     "points": 129,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-15b-cave.png",
-    "xws": "15b"
+    "xws": "15b",
+    "assetno": "###"
   },
   {
     "name": "15c",
     "points": 130,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-15c-dungeon.png",
-    "xws": "15c"
+    "xws": "15c",
+    "assetno": "###"
   },
   {
     "name": "15d",
     "points": 131,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-15d-metal.png",
-    "xws": "15d"
+    "xws": "15d",
+    "assetno": "###"
   },
   {
     "name": "16a",
     "points": 132,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-16a-snow.png",
-    "xws": "16a"
+    "xws": "16a",
+    "assetno": "###"
   },
   {
     "name": "16b",
     "points": 133,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-16b-cave.png",
-    "xws": "16b"
+    "xws": "16b",
+    "assetno": "###"
   },
   {
     "name": "16c",
     "points": 134,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-16c-dungeon.png",
-    "xws": "16c"
+    "xws": "16c",
+    "assetno": "###"
   },
   {
     "name": "16d",
     "points": 135,
     "expansion": "frosthaven",
     "image": "map-tiles/frosthaven/fh-16d-metal.png",
-    "xws": "16d"
+    "xws": "16d",
+    "assetno": "###"
   },
   {
     "name": "character dial",
     "points": 136,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-front.png",
-    "xws": "characterdial"
+    "image": "map-tiles/frosthaven/fh-character-dial-back.png",
+    "xws": "characterdial",
+    "assetno": "###"
   },
   {
     "name": "character dial",
     "points": 137,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-back.png",
-    "xws": "characterdial"
+    "image": "map-tiles/frosthaven/fh-character-dial-front.png",
+    "xws": "characterdial",
+    "assetno": "###"
   },
   {
     "name": "character dial health",
     "points": 138,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-health-front.png",
-    "xws": "characterdialhealth"
+    "image": "map-tiles/frosthaven/fh-character-dial-health-back.png",
+    "xws": "characterdialhealth",
+    "assetno": "###"
   },
   {
     "name": "character dial health",
     "points": 139,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-health-back.png",
-    "xws": "characterdialhealth"
+    "image": "map-tiles/frosthaven/fh-character-dial-health-front.png",
+    "xws": "characterdialhealth",
+    "assetno": "###"
   },
   {
     "name": "character dial xp",
     "points": 140,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-xp-front.png",
-    "xws": "characterdialxp"
+    "image": "map-tiles/frosthaven/fh-character-dial-xp-back.png",
+    "xws": "characterdialxp",
+    "assetno": "###"
   },
   {
     "name": "character dial xp",
     "points": 141,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-character-dial-xp-back.png",
-    "xws": "characterdialxp"
+    "image": "map-tiles/frosthaven/fh-character-dial-xp-front.png",
+    "xws": "characterdialxp",
+    "assetno": "###"
   },
   {
     "name": "element board",
     "points": 142,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-element-board-front.png",
-    "xws": "elementboard"
+    "image": "map-tiles/frosthaven/fh-element-board-back.png",
+    "xws": "elementboard",
+    "assetno": "###"
   },
   {
     "name": "element board",
     "points": 143,
     "expansion": "frosthaven",
-    "image": "map-tiles/frosthaven/fh-element-board-back.png",
-    "xws": "elementboard"
+    "image": "map-tiles/frosthaven/fh-element-board-front.png",
+    "xws": "elementboard",
+    "assetno": "###"
   }
 ]
