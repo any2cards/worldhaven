@@ -7120,15 +7120,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-2.png",
     "xws": "fhmafbs2",
-    "assetno": "0612"
+    "assetno": "0611"
   },
   {
-    "name": "0612",
+    "name": "0611",
     "points": 875,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-2.png",
     "xws": "fhmafbs2",
-    "assetno": "0612"
+    "assetno": "0611"
   },
   {
     "name": "hasty assault",
@@ -7136,7 +7136,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-2.png",
     "xws": "hastyassault",
-    "assetno": "0612"
+    "assetno": "0611"
   },
   {
     "name": "fh-ma-fbs-3",
@@ -7144,15 +7144,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-3.png",
     "xws": "fhmafbs3",
-    "assetno": "0613"
+    "assetno": "0612"
   },
   {
-    "name": "0613",
+    "name": "0612",
     "points": 878,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-3.png",
     "xws": "fhmafbs3",
-    "assetno": "0613"
+    "assetno": "0612"
   },
   {
     "name": "increase momentum",
@@ -7160,7 +7160,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-3.png",
     "xws": "increasemomentum",
-    "assetno": "0613"
+    "assetno": "0612"
   },
   {
     "name": "fh-ma-fbs-4",
@@ -7168,15 +7168,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-4.png",
     "xws": "fhmafbs4",
-    "assetno": "0614"
+    "assetno": "0613"
   },
   {
-    "name": "0614",
+    "name": "0613",
     "points": 881,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-4.png",
     "xws": "fhmafbs4",
-    "assetno": "0614"
+    "assetno": "0613"
   },
   {
     "name": "defensive blades",
@@ -7184,7 +7184,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-4.png",
     "xws": "defensiveblades",
-    "assetno": "0614"
+    "assetno": "0613"
   },
   {
     "name": "fh-ma-fbs-5",
@@ -7192,15 +7192,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-5.png",
     "xws": "fhmafbs5",
-    "assetno": "0615"
+    "assetno": "0614"
   },
   {
-    "name": "0615",
+    "name": "0614",
     "points": 884,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-5.png",
     "xws": "fhmafbs5",
-    "assetno": "0615"
+    "assetno": "0614"
   },
   {
     "name": "heated sweep",
@@ -7208,7 +7208,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-5.png",
     "xws": "heatedsweep",
-    "assetno": "0615"
+    "assetno": "0614"
   },
   {
     "name": "fh-ma-fbs-6",
@@ -7216,15 +7216,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-6.png",
     "xws": "fhmafbs6",
-    "assetno": "0616"
+    "assetno": "0615"
   },
   {
-    "name": "0616",
+    "name": "0615",
     "points": 887,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-6.png",
     "xws": "fhmafbs6",
-    "assetno": "0616"
+    "assetno": "0615"
   },
   {
     "name": "flame jets",
@@ -7232,7 +7232,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-6.png",
     "xws": "flamejets",
-    "assetno": "0616"
+    "assetno": "0615"
   },
   {
     "name": "fh-ma-fbs-7",
@@ -7240,15 +7240,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-7.png",
     "xws": "fhmafbs7",
-    "assetno": "0617"
+    "assetno": "0616"
   },
   {
-    "name": "0617",
+    "name": "0616",
     "points": 890,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-7.png",
     "xws": "fhmafbs7",
-    "assetno": "0617"
+    "assetno": "0616"
   },
   {
     "name": "firestorm",
@@ -7256,7 +7256,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-7.png",
     "xws": "firestorm",
-    "assetno": "0617"
+    "assetno": "0616"
   },
   {
     "name": "fh-ma-fbs-8",
@@ -7264,15 +7264,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-8.png",
     "xws": "fhmafbs8",
-    "assetno": "0618"
+    "assetno": "0617"
   },
   {
-    "name": "0618",
+    "name": "0617",
     "points": 893,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-8.png",
     "xws": "fhmafbs8",
-    "assetno": "0618"
+    "assetno": "0617"
   },
   {
     "name": "spinning charge",
@@ -7280,7 +7280,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fbs-8.png",
     "xws": "spinningcharge",
-    "assetno": "0618"
+    "assetno": "0617"
   },
   {
     "name": "fh-ma-fbs-back",
