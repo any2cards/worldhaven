@@ -10472,15 +10472,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-3.png",
     "xws": "fhmand3",
-    "assetno": "0590"
+    "assetno": "0580"
   },
   {
-    "name": "0590",
+    "name": "0580",
     "points": 1294,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-3.png",
     "xws": "fhmand3",
-    "assetno": "0590"
+    "assetno": "0580"
   },
   {
     "name": "nothing special",
@@ -10488,7 +10488,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-3.png",
     "xws": "nothingspecial",
-    "assetno": "0590"
+    "assetno": "0580"
   },
   {
     "name": "fh-ma-nd-4",
@@ -10496,15 +10496,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-4.png",
     "xws": "fhmand4",
-    "assetno": "0591"
+    "assetno": "0581"
   },
   {
-    "name": "0591",
+    "name": "0581",
     "points": 1297,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-4.png",
     "xws": "fhmand4",
-    "assetno": "0591"
+    "assetno": "0581"
   },
   {
     "name": "black thorns",
@@ -10512,7 +10512,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-4.png",
     "xws": "blackthorns",
-    "assetno": "0591"
+    "assetno": "0581"
   },
   {
     "name": "fh-ma-nd-5",
@@ -10520,15 +10520,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-5.png",
     "xws": "fhmand5",
-    "assetno": "0592"
+    "assetno": "0582"
   },
   {
-    "name": "0592",
+    "name": "0582",
     "points": 1300,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-5.png",
     "xws": "fhmand5",
-    "assetno": "0592"
+    "assetno": "0582"
   },
   {
     "name": "death's embrace",
@@ -10536,7 +10536,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-5.png",
     "xws": "deathsembrace",
-    "assetno": "0592"
+    "assetno": "0582"
   },
   {
     "name": "fh-ma-nd-6",
@@ -10544,15 +10544,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-6.png",
     "xws": "fhmand6",
-    "assetno": "0593"
+    "assetno": "0583"
   },
   {
-    "name": "0593",
+    "name": "0583",
     "points": 1303,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-6.png",
     "xws": "fhmand6",
-    "assetno": "0593"
+    "assetno": "0583"
   },
   {
     "name": "calculated strike",
@@ -10560,7 +10560,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-6.png",
     "xws": "calculatedstrike",
-    "assetno": "0593"
+    "assetno": "0583"
   },
   {
     "name": "fh-ma-nd-7",
@@ -10568,15 +10568,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-7.png",
     "xws": "fhmand7",
-    "assetno": "0594"
+    "assetno": "0584"
   },
   {
-    "name": "0594",
+    "name": "0584",
     "points": 1306,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-7.png",
     "xws": "fhmand7",
-    "assetno": "0594"
+    "assetno": "0584"
   },
   {
     "name": "impale",
@@ -10584,7 +10584,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-7.png",
     "xws": "impale",
-    "assetno": "0594"
+    "assetno": "0584"
   },
   {
     "name": "fh-ma-nd-8",
@@ -10592,15 +10592,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-8.png",
     "xws": "fhmand8",
-    "assetno": "0595"
+    "assetno": "0585"
   },
   {
-    "name": "0595",
+    "name": "0585",
     "points": 1309,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-8.png",
     "xws": "fhmand8",
-    "assetno": "0595"
+    "assetno": "0585"
   },
   {
     "name": "the night feeds",
@@ -10608,7 +10608,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/night-demon/fh-ma-nd-8.png",
     "xws": "thenightfeeds",
-    "assetno": "0595"
+    "assetno": "0585"
   },
   {
     "name": "fh-ma-nd-back",
