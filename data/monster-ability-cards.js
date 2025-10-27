@@ -10728,15 +10728,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-5.png",
     "xws": "fhmaoo5",
-    "assetno": "0890"
+    "assetno": "0870"
   },
   {
-    "name": "0890",
+    "name": "0870",
     "points": 1326,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-5.png",
     "xws": "fhmaoo5",
-    "assetno": "0890"
+    "assetno": "0870"
   },
   {
     "name": "calculated strike",
@@ -10744,7 +10744,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-5.png",
     "xws": "calculatedstrike",
-    "assetno": "0890"
+    "assetno": "0870"
   },
   {
     "name": "fh-ma-oo-6",
@@ -10752,15 +10752,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-6.png",
     "xws": "fhmaoo6",
-    "assetno": "0891"
+    "assetno": "0871"
   },
   {
-    "name": "0891",
+    "name": "0871",
     "points": 1329,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-6.png",
     "xws": "fhmaoo6",
-    "assetno": "0891"
+    "assetno": "0871"
   },
   {
     "name": "split",
@@ -10768,7 +10768,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-6.png",
     "xws": "split",
-    "assetno": "0891"
+    "assetno": "0871"
   },
   {
     "name": "fh-ma-oo-7",
@@ -10776,15 +10776,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-7.png",
     "xws": "fhmaoo7",
-    "assetno": "0892"
+    "assetno": "0872"
   },
   {
-    "name": "0892",
+    "name": "0872",
     "points": 1332,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-7.png",
     "xws": "fhmaoo7",
-    "assetno": "0892"
+    "assetno": "0872"
   },
   {
     "name": "split",
@@ -10792,7 +10792,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-7.png",
     "xws": "split",
-    "assetno": "0892"
+    "assetno": "0872"
   },
   {
     "name": "fh-ma-oo-8",
@@ -10800,15 +10800,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-8.png",
     "xws": "fhmaoo8",
-    "assetno": "0893"
+    "assetno": "0873"
   },
   {
-    "name": "0893",
+    "name": "0873",
     "points": 1335,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-8.png",
     "xws": "fhmaoo8",
-    "assetno": "0893"
+    "assetno": "0873"
   },
   {
     "name": "feed",
@@ -10816,7 +10816,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/ooze/fh-ma-oo-8.png",
     "xws": "feed",
-    "assetno": "0893"
+    "assetno": "0873"
   },
   {
     "name": "fh-ma-oo-back",
