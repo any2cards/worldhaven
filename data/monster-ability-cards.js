@@ -5214,7 +5214,7 @@
     "name": "algox icespeaker back",
     "points": 636,
     "expansion": "frosthaven",
-    "image": "monster-ability-cards/frosthaven/abael-herder/fh-ma-ai-back.png",
+    "image": "monster-ability-cards/frosthaven/algox-icespeaker/fh-ma-ai-back.png",
     "xws": "algoxicespeakerback",
     "assetno": "####"
   },
