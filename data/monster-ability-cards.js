@@ -5992,15 +5992,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/boss/fh-ma-bo-7.png",
     "xws": "fhmabo7",
-    "assetno": "0890"
+    "assetno": "0880"
   },
   {
-    "name": "0890",
+    "name": "0880",
     "points": 734,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/boss/fh-ma-bo-7.png",
     "xws": "fhmabo7",
-    "assetno": "0890"
+    "assetno": "0880"
   },
   {
     "name": "nothing special",
@@ -6008,7 +6008,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/boss/fh-ma-bo-7.png",
     "xws": "nothingspecial",
-    "assetno": "0890"
+    "assetno": "0880"
   },
   {
     "name": "fh-ma-bo-8",
@@ -6016,15 +6016,15 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/boss/fh-ma-bo-8.png",
     "xws": "fhmabo8",
-    "assetno": "0891"
+    "assetno": "0881"
   },
   {
-    "name": "0891",
+    "name": "0881",
     "points": 737,
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/boss/fh-ma-bo-8.png",
     "xws": "fhmabo8",
-    "assetno": "0891"
+    "assetno": "0881"
   },
   {
     "name": "twin shots",
@@ -6032,7 +6032,7 @@
     "expansion": "frosthaven",
     "image": "monster-ability-cards/frosthaven/boss/fh-ma-bo-8.png",
     "xws": "twinshots",
-    "assetno": "0891"
+    "assetno": "0881"
   },
   {
     "name": "fh-ma-bo-back",
