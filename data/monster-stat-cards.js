@@ -944,1149 +944,1288 @@
     "assetno": "###"
   },
   {
-    "name": "boss stat card envelope 6",
+    "name": "abael herder",
     "points": 118,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-boss-stat-card-envelope-6.png",
-    "xws": "bossstatcardenvelope6"
+    "image": "monster-stat-cards/frosthaven/fh-abael-herder-0.png",
+    "xws": "abaelherder",
+    "assetno": "###"
   },
   {
-    "name": "monster stat card envelope 6",
+    "name": "abael herder",
     "points": 119,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-monster-stat-card-envelope-6.png",
-    "xws": "monsterstatcardenvelope6"
+    "image": "monster-stat-cards/frosthaven/fh-abael-herder-4.png",
+    "xws": "abaelherder",
+    "assetno": "###"
   },
   {
-    "name": "monster stat card envelope 10",
+    "name": "abael scout",
     "points": 120,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-monster-stat-card-envelope-10.png",
-    "xws": "monsterstatcardenvelope10"
+    "image": "monster-stat-cards/frosthaven/fh-abael-scout-0.png",
+    "xws": "abaelscout",
+    "assetno": "###"
   },
   {
-    "name": "abael herder",
+    "name": "abael scout",
     "points": 121,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-abael-herder-0.png",
-    "xws": "abaelherder"
+    "image": "monster-stat-cards/frosthaven/fh-abael-scout-4.png",
+    "xws": "abaelscout",
+    "assetno": "###"
   },
   {
-    "name": "abael herder",
+    "name": "algox archer",
     "points": 122,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-abael-herder-4.png",
-    "xws": "abaelherder"
+    "image": "monster-stat-cards/frosthaven/fh-algox-archer-0.png",
+    "xws": "algoxarcher",
+    "assetno": "###"
   },
   {
-    "name": "abael scout",
+    "name": "algox archer",
     "points": 123,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-abael-scout-0.png",
-    "xws": "abaelscout"
+    "image": "monster-stat-cards/frosthaven/fh-algox-archer-4.png",
+    "xws": "algoxarcher",
+    "assetno": "###"
   },
   {
-    "name": "abael scout",
+    "name": "algox guard",
     "points": 124,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-abael-scout-4.png",
-    "xws": "abaelscout"
+    "image": "monster-stat-cards/frosthaven/fh-algox-guard-0.png",
+    "xws": "algoxguard",
+    "assetno": "###"
   },
   {
-    "name": "algox archer",
+    "name": "algox guard",
     "points": 125,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-archer-0.png",
-    "xws": "algoxarcher"
+    "image": "monster-stat-cards/frosthaven/fh-algox-guard-4.png",
+    "xws": "algoxguard",
+    "assetno": "###"
   },
   {
-    "name": "algox archer",
+    "name": "algox icespeaker",
     "points": 126,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-archer-4.png",
-    "xws": "algoxarcher"
+    "image": "monster-stat-cards/frosthaven/fh-algox-icespeaker-0.png",
+    "xws": "algoxicespeaker",
+    "assetno": "###"
   },
   {
-    "name": "algox guard",
+    "name": "algox icespeaker",
     "points": 127,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-guard-0.png",
-    "xws": "algoxguard"
+    "image": "monster-stat-cards/frosthaven/fh-algox-icespeaker-4.png",
+    "xws": "algoxicespeaker",
+    "assetno": "###"
   },
   {
-    "name": "algox guard",
+    "name": "algox priest",
     "points": 128,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-guard-4.png",
-    "xws": "algoxguard"
+    "image": "monster-stat-cards/frosthaven/fh-algox-priest-0.png",
+    "xws": "algoxpriest",
+    "assetno": "###"
   },
   {
-    "name": "algox icespeaker",
+    "name": "algox priest",
     "points": 129,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-icespeaker-0.png",
-    "xws": "algoxicespeaker"
+    "image": "monster-stat-cards/frosthaven/fh-algox-priest-4.png",
+    "xws": "algoxpriest",
+    "assetno": "###"
   },
   {
-    "name": "algox icespeaker",
+    "name": "algox scout",
     "points": 130,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-icespeaker-4.png",
-    "xws": "algoxicespeaker"
+    "image": "monster-stat-cards/frosthaven/fh-algox-scout-0.png",
+    "xws": "algoxscout",
+    "assetno": "###"
   },
   {
-    "name": "algox priest",
+    "name": "algox scout",
     "points": 131,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-priest-0.png",
-    "xws": "algoxpriest"
+    "image": "monster-stat-cards/frosthaven/fh-algox-scout-4.png",
+    "xws": "algoxscout",
+    "assetno": "###"
   },
   {
-    "name": "algox priest",
+    "name": "algox snowspeaker",
     "points": 132,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-priest-4.png",
-    "xws": "algoxpriest"
+    "image": "monster-stat-cards/frosthaven/fh-algox-snowspeaker-0.png",
+    "xws": "algoxsnowspeaker",
+    "assetno": "###"
   },
   {
-    "name": "algox scout",
+    "name": "algox snowspeaker",
     "points": 133,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-scout-0.png",
-    "xws": "algoxscout"
+    "image": "monster-stat-cards/frosthaven/fh-algox-snowspeaker-4.png",
+    "xws": "algoxsnowspeaker",
+    "assetno": "###"
   },
   {
-    "name": "algox scout",
+    "name": "algox stormcaller",
     "points": 134,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-scout-4.png",
-    "xws": "algoxscout"
+    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-0.png",
+    "xws": "algoxstormcaller",
+    "assetno": "###"
   },
   {
-    "name": "algox snowspeaker",
+    "name": "algox stormcaller",
     "points": 135,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-snowspeaker-0.png",
-    "xws": "algoxsnowspeaker"
+    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-2.png",
+    "xws": "algoxstormcaller",
+    "assetno": "###"
   },
   {
-    "name": "algox snowspeaker",
+    "name": "algox stormcaller",
     "points": 136,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-snowspeaker-4.png",
-    "xws": "algoxsnowspeaker"
+    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-4.png",
+    "xws": "algoxstormcaller",
+    "assetno": "###"
   },
   {
     "name": "algox stormcaller",
     "points": 137,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-0.png",
-    "xws": "algoxstormcaller"
+    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-6.png",
+    "xws": "algoxstormcaller",
+    "assetno": "###"
   },
   {
-    "name": "algox stormcaller",
+    "name": "ancient artillery",
     "points": 138,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-2.png",
-    "xws": "algoxstormcaller"
+    "image": "monster-stat-cards/frosthaven/fh-ancient-artillery-0.png",
+    "xws": "ancientartillery",
+    "assetno": "###"
   },
   {
-    "name": "algox stormcaller",
+    "name": "ancient artillery",
     "points": 139,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-4.png",
-    "xws": "algoxstormcaller"
+    "image": "monster-stat-cards/frosthaven/fh-ancient-artillery-4.png",
+    "xws": "ancientartillery",
+    "assetno": "###"
   },
   {
-    "name": "algox stormcaller",
+    "name": "black imp",
     "points": 140,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-algox-stormcaller-6.png",
-    "xws": "algoxstormcaller"
+    "image": "monster-stat-cards/frosthaven/fh-black-imp-0.png",
+    "xws": "blackimp",
+    "assetno": "###"
   },
   {
-    "name": "ancient artillery",
+    "name": "black imp",
     "points": 141,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ancient-artillery-0.png",
-    "xws": "ancientartillery"
+    "image": "monster-stat-cards/frosthaven/fh-black-imp-4.png",
+    "xws": "blackimp",
+    "assetno": "###"
   },
   {
-    "name": "ancient artillery",
+    "name": "burrowing blade",
     "points": 142,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ancient-artillery-4.png",
-    "xws": "ancientartillery"
+    "image": "monster-stat-cards/frosthaven/fh-burrowing-blade-0.png",
+    "xws": "burrowingblade",
+    "assetno": "###"
   },
   {
-    "name": "black imp",
+    "name": "burrowing blade",
     "points": 143,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-black-imp-0.png",
-    "xws": "blackimp"
+    "image": "monster-stat-cards/frosthaven/fh-burrowing-blade-4.png",
+    "xws": "burrowingblade",
+    "assetno": "###"
   },
   {
-    "name": "black imp",
+    "name": "chaos demon",
     "points": 144,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-black-imp-4.png",
-    "xws": "blackimp"
+    "image": "monster-stat-cards/frosthaven/fh-chaos-demon-0.png",
+    "xws": "chaosdemon",
+    "assetno": "###"
   },
   {
-    "name": "burrowing blade",
+    "name": "chaos demon",
     "points": 145,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-burrowing-blade-0.png",
-    "xws": "burrowingblade"
+    "image": "monster-stat-cards/frosthaven/fh-chaos-demon-4.png",
+    "xws": "chaosdemon",
+    "assetno": "###"
   },
   {
-    "name": "burrowing blade",
+    "name": "city guard",
     "points": 146,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-burrowing-blade-4.png",
-    "xws": "burrowingblade"
+    "image": "monster-stat-cards/frosthaven/fh-city-guard-0.png",
+    "xws": "cityguard",
+    "assetno": "###"
   },
   {
-    "name": "chaos demon",
+    "name": "city guard",
     "points": 147,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-chaos-demon-0.png",
-    "xws": "chaosdemon"
+    "image": "monster-stat-cards/frosthaven/fh-city-guard-4.png",
+    "xws": "cityguard",
+    "assetno": "###"
   },
   {
-    "name": "chaos demon",
+    "name": "deep terror",
     "points": 148,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-chaos-demon-4.png",
-    "xws": "chaosdemon"
+    "image": "monster-stat-cards/frosthaven/fh-deep-terror-0.png",
+    "xws": "deepterror",
+    "assetno": "###"
   },
   {
-    "name": "city guard",
+    "name": "deep terror",
     "points": 149,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-city-guard-0.png",
-    "xws": "cityguard"
+    "image": "monster-stat-cards/frosthaven/fh-deep-terror-4.png",
+    "xws": "deepterror",
+    "assetno": "###"
   },
   {
-    "name": "city guard",
+    "name": "earth demon",
     "points": 150,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-city-guard-4.png",
-    "xws": "cityguard"
+    "image": "monster-stat-cards/frosthaven/fh-earth-demon-0.png",
+    "xws": "earthdemon",
+    "assetno": "###"
   },
   {
-    "name": "deep terror",
+    "name": "earth demon",
     "points": 151,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-deep-terror-0.png",
-    "xws": "deepterror"
+    "image": "monster-stat-cards/frosthaven/fh-earth-demon-4.png",
+    "xws": "earthdemon",
+    "assetno": "###"
   },
   {
-    "name": "deep terror",
+    "name": "elder ooze",
     "points": 152,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-deep-terror-4.png",
-    "xws": "deepterror"
+    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-0.png",
+    "xws": "elderooze",
+    "assetno": "###"
   },
   {
-    "name": "earth demon",
+    "name": "elder ooze",
     "points": 153,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-earth-demon-0.png",
-    "xws": "earthdemon"
+    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-2.png",
+    "xws": "elderooze",
+    "assetno": "###"
   },
   {
-    "name": "earth demon",
+    "name": "elder ooze",
     "points": 154,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-earth-demon-4.png",
-    "xws": "earthdemon"
+    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-4.png",
+    "xws": "elderooze",
+    "assetno": "###"
   },
   {
     "name": "elder ooze",
     "points": 155,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-0.png",
-    "xws": "elderooze"
+    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-6.png",
+    "xws": "elderooze",
+    "assetno": "###"
   },
   {
-    "name": "elder ooze",
+    "name": "fish king",
     "points": 156,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-2.png",
-    "xws": "elderooze"
+    "image": "monster-stat-cards/frosthaven/fh-fish-king-0.png",
+    "xws": "fishking",
+    "assetno": "###"
   },
   {
-    "name": "elder ooze",
+    "name": "fish king",
     "points": 157,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-4.png",
-    "xws": "elderooze"
+    "image": "monster-stat-cards/frosthaven/fh-fish-king-2.png",
+    "xws": "fishking",
+    "assetno": "###"
   },
   {
-    "name": "elder ooze",
+    "name": "fish king",
     "points": 158,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-elder-ooze-6.png",
-    "xws": "elderooze"
+    "image": "monster-stat-cards/frosthaven/fh-fish-king-4.png",
+    "xws": "fishking",
+    "assetno": "###"
   },
   {
     "name": "fish king",
     "points": 159,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fish-king-0.png",
-    "xws": "fishking"
+    "image": "monster-stat-cards/frosthaven/fh-fish-king-6.png",
+    "xws": "fishking",
+    "assetno": "###"
   },
   {
-    "name": "fish king",
+    "name": "flame demon",
     "points": 160,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fish-king-2.png",
-    "xws": "fishking"
+    "image": "monster-stat-cards/frosthaven/fh-flame-demon-0.png",
+    "xws": "flamedemon",
+    "assetno": "###"
   },
   {
-    "name": "fish king",
+    "name": "flame demon",
     "points": 161,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fish-king-4.png",
-    "xws": "fishking"
+    "image": "monster-stat-cards/frosthaven/fh-flame-demon-4.png",
+    "xws": "flamedemon",
+    "assetno": "###"
   },
   {
-    "name": "fish king",
+    "name": "flaming bladespinner",
     "points": 162,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fish-king-6.png",
-    "xws": "fishking"
+    "image": "monster-stat-cards/frosthaven/fh-flaming-bladespinner-0.png",
+    "xws": "flamingbladespinner",
+    "assetno": "###"
   },
   {
-    "name": "flame demon",
+    "name": "flaming bladespinner",
     "points": 163,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-flame-demon-0.png",
-    "xws": "flamedemon"
+    "image": "monster-stat-cards/frosthaven/fh-flaming-bladespinner-4.png",
+    "xws": "flamingbladespinner",
+    "assetno": "###"
   },
   {
-    "name": "flame demon",
+    "name": "forest imp",
     "points": 164,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-flame-demon-4.png",
-    "xws": "flamedemon"
+    "image": "monster-stat-cards/frosthaven/fh-forest-imp-0.png",
+    "xws": "forestimp",
+    "assetno": "###"
   },
   {
-    "name": "flaming bladespinner",
+    "name": "forest imp",
     "points": 165,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-flaming-bladespinner-0.png",
-    "xws": "flamingbladespinner"
+    "image": "monster-stat-cards/frosthaven/fh-forest-imp-4.png",
+    "xws": "forestimp",
+    "assetno": "###"
   },
   {
-    "name": "flaming bladespinner",
+    "name": "fracture of the deep",
     "points": 166,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-flaming-bladespinner-4.png",
-    "xws": "flamingbladespinner"
+    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-0.png",
+    "xws": "fractureofthedeep",
+    "assetno": "###"
   },
   {
-    "name": "forest imp",
+    "name": "fracture of the deep",
     "points": 167,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-forest-imp-0.png",
-    "xws": "forestimp"
+    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-2.png",
+    "xws": "fractureofthedeep",
+    "assetno": "###"
   },
   {
-    "name": "forest imp",
+    "name": "fracture of the deep",
     "points": 168,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-forest-imp-4.png",
-    "xws": "forestimp"
+    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-4.png",
+    "xws": "fractureofthedeep",
+    "assetno": "###"
   },
   {
     "name": "fracture of the deep",
     "points": 169,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-0.png",
-    "xws": "fractureofthedeep"
+    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-6.png",
+    "xws": "fractureofthedeep",
+    "assetno": "###"
   },
   {
-    "name": "fracture of the deep",
+    "name": "frost demon",
     "points": 170,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-2.png",
-    "xws": "fractureofthedeep"
+    "image": "monster-stat-cards/frosthaven/fh-frost-demon-0.png",
+    "xws": "frostdemon",
+    "assetno": "###"
   },
   {
-    "name": "fracture of the deep",
+    "name": "frost demon",
     "points": 171,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-4.png",
-    "xws": "fractureofthedeep"
+    "image": "monster-stat-cards/frosthaven/fh-frost-demon-4.png",
+    "xws": "frostdemon",
+    "assetno": "###"
   },
   {
-    "name": "fracture of the deep",
+    "name": "frozen corpse",
     "points": 172,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-fracture-of-the-deep-6.png",
-    "xws": "fractureofthedeep"
+    "image": "monster-stat-cards/frosthaven/fh-frozen-corpse-0.png",
+    "xws": "frozencorpse",
+    "assetno": "###"
   },
   {
-    "name": "frost demon",
+    "name": "frozen corpse",
     "points": 173,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frost-demon-0.png",
-    "xws": "frostdemon"
+    "image": "monster-stat-cards/frosthaven/fh-frozen-corpse-4.png",
+    "xws": "frozencorpse",
+    "assetno": "###"
   },
   {
-    "name": "frost demon",
+    "name": "frozen fist",
     "points": 174,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frost-demon-4.png",
-    "xws": "frostdemon"
+    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-0.png",
+    "xws": "frozenfist",
+    "assetno": "###"
   },
   {
-    "name": "frozen corpse",
+    "name": "frozen fist",
     "points": 175,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frozen-corpse-0.png",
-    "xws": "frozencorpse"
+    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-2.png",
+    "xws": "frozenfist",
+    "assetno": "###"
   },
   {
-    "name": "frozen corpse",
+    "name": "frozen fist",
     "points": 176,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frozen-corpse-4.png",
-    "xws": "frozencorpse"
+    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-4.png",
+    "xws": "frozenfist",
+    "assetno": "###"
   },
   {
     "name": "frozen fist",
     "points": 177,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-0.png",
-    "xws": "frozenfist"
+    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-6.png",
+    "xws": "frozenfist",
+    "assetno": "###"
   },
   {
-    "name": "frozen fist",
+    "name": "harbinger of shadow",
     "points": 178,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-2.png",
-    "xws": "frozenfist"
+    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-0.png",
+    "xws": "harbingerofshadow",
+    "assetno": "###"
   },
   {
-    "name": "frozen fist",
+    "name": "harbinger of shadow",
     "points": 179,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-4.png",
-    "xws": "frozenfist"
+    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-2.png",
+    "xws": "harbingerofshadow",
+    "assetno": "###"
   },
   {
-    "name": "frozen fist",
+    "name": "harbinger of shadow",
     "points": 180,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-frozen-fist-6.png",
-    "xws": "frozenfist"
+    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-4.png",
+    "xws": "harbingerofshadow",
+    "assetno": "###"
   },
   {
     "name": "harbinger of shadow",
     "points": 181,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-0.png",
-    "xws": "harbingerofshadow"
+    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-6.png",
+    "xws": "harbingerofshadow",
+    "assetno": "###"
   },
   {
-    "name": "harbinger of shadow",
+    "name": "harrower infester",
     "points": 182,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-2.png",
-    "xws": "harbingerofshadow"
+    "image": "monster-stat-cards/frosthaven/fh-harrower-infester-0.png",
+    "xws": "harrowerinfester",
+    "assetno": "###"
   },
   {
-    "name": "harbinger of shadow",
+    "name": "harrower infester",
     "points": 183,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-4.png",
-    "xws": "harbingerofshadow"
+    "image": "monster-stat-cards/frosthaven/fh-harrower-infester-4.png",
+    "xws": "harrowerinfester",
+    "assetno": "###"
   },
   {
-    "name": "harbinger of shadow",
+    "name": "hound",
     "points": 184,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-harbinger-of-shadow-6.png",
-    "xws": "harbingerofshadow"
+    "image": "monster-stat-cards/frosthaven/fh-hound-0.png",
+    "xws": "hound",
+    "assetno": "###"
   },
   {
-    "name": "harrower infester",
+    "name": "hound",
     "points": 185,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-harrower-infester-0.png",
-    "xws": "harrowerinfester"
+    "image": "monster-stat-cards/frosthaven/fh-hound-4.png",
+    "xws": "hound",
+    "assetno": "###"
   },
   {
-    "name": "harrower infester",
+    "name": "ice wraith",
     "points": 186,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-harrower-infester-4.png",
-    "xws": "harrowerinfester"
+    "image": "monster-stat-cards/frosthaven/fh-ice-wraith-0.png",
+    "xws": "icewraith",
+    "assetno": "###"
   },
   {
-    "name": "hound",
+    "name": "ice wraith",
     "points": 187,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-hound-0.png",
-    "xws": "hound"
+    "image": "monster-stat-cards/frosthaven/fh-ice-wraith-4.png",
+    "xws": "icewraith",
+    "assetno": "###"
   },
   {
-    "name": "hound",
+    "name": "lightning eel",
     "points": 188,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-hound-4.png",
-    "xws": "hound"
+    "image": "monster-stat-cards/frosthaven/fh-lightning-eel-0.png",
+    "xws": "lightningeel",
+    "assetno": "###"
   },
   {
-    "name": "ice wraith",
+    "name": "lightning eel",
     "points": 189,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ice-wraith-0.png",
-    "xws": "icewraith"
+    "image": "monster-stat-cards/frosthaven/fh-lightning-eel-4.png",
+    "xws": "lightningeel",
+    "assetno": "###"
   },
   {
-    "name": "ice wraith",
+    "name": "living bones",
     "points": 190,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ice-wraith-4.png",
-    "xws": "icewraith"
+    "image": "monster-stat-cards/frosthaven/fh-living-bones-0.png",
+    "xws": "livingbones",
+    "assetno": "###"
   },
   {
-    "name": "lightning eel",
+    "name": "living bones",
     "points": 191,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lightning-eel-0.png",
-    "xws": "lightningeel"
+    "image": "monster-stat-cards/frosthaven/fh-living-bones-4.png",
+    "xws": "livingbones",
+    "assetno": "###"
   },
   {
-    "name": "lightning eel",
+    "name": "living doom",
     "points": 192,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lightning-eel-4.png",
-    "xws": "lightningeel"
+    "image": "monster-stat-cards/frosthaven/fh-living-doom-0.png",
+    "xws": "livingdoom",
+    "assetno": "###"
   },
   {
-    "name": "living bones",
+    "name": "living doom",
     "points": 193,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-living-bones-0.png",
-    "xws": "livingbones"
+    "image": "monster-stat-cards/frosthaven/fh-living-doom-4.png",
+    "xws": "livingdoom",
+    "assetno": "###"
   },
   {
-    "name": "living bones",
+    "name": "living spirit",
     "points": 194,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-living-bones-4.png",
-    "xws": "livingbones"
+    "image": "monster-stat-cards/frosthaven/fh-living-spirit-0.png",
+    "xws": "livingspirit",
+    "assetno": "###"
   },
   {
-    "name": "living doom",
+    "name": "living spirit",
     "points": 195,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-living-doom-0.png",
-    "xws": "livingdoom"
+    "image": "monster-stat-cards/frosthaven/fh-living-spirit-4.png",
+    "xws": "livingspirit",
+    "assetno": "###"
   },
   {
-    "name": "living doom",
+    "name": "lord of chaos",
     "points": 196,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-living-doom-4.png",
-    "xws": "livingdoom"
+    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-0.png",
+    "xws": "lordofchaos",
+    "assetno": "###"
   },
   {
-    "name": "living spirit",
+    "name": "lord of chaos",
     "points": 197,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-living-spirit-0.png",
-    "xws": "livingspirit"
+    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-2.png",
+    "xws": "lordofchaos",
+    "assetno": "###"
   },
   {
-    "name": "living spirit",
+    "name": "lord of chaos",
     "points": 198,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-living-spirit-4.png",
-    "xws": "livingspirit"
+    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-4.png",
+    "xws": "lordofchaos",
+    "assetno": "###"
   },
   {
     "name": "lord of chaos",
     "points": 199,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-0.png",
-    "xws": "lordofchaos"
+    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-6.png",
+    "xws": "lordofchaos",
+    "assetno": "###"
   },
   {
-    "name": "lord of chaos",
+    "name": "lurker clawcrusher",
     "points": 200,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-2.png",
-    "xws": "lordofchaos"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-clawcrusher-0.png",
+    "xws": "lurkerclawcrusher",
+    "assetno": "###"
   },
   {
-    "name": "lord of chaos",
+    "name": "lurker clawcrusher",
     "points": 201,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-4.png",
-    "xws": "lordofchaos"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-clawcrusher-4.png",
+    "xws": "lurkerclawcrusher",
+    "assetno": "###"
   },
   {
-    "name": "lord of chaos",
+    "name": "lurker mindsnipper",
     "points": 202,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lord-of-chaos-6.png",
-    "xws": "lordofchaos"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-mindsnipper-0.png",
+    "xws": "lurkermindsnipper",
+    "assetno": "###"
   },
   {
-    "name": "lurker clawcrusher",
+    "name": "lurker mindsnipper",
     "points": 203,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-clawcrusher-0.png",
-    "xws": "lurkerclawcrusher"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-mindsnipper-4.png",
+    "xws": "lurkermindsnipper",
+    "assetno": "###"
   },
   {
-    "name": "lurker clawcrusher",
+    "name": "lurker soldier",
     "points": 204,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-clawcrusher-4.png",
-    "xws": "lurkerclawcrusher"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-soldier-0.png",
+    "xws": "lurkersoldier",
+    "assetno": "###"
   },
   {
-    "name": "lurker mindsnipper",
+    "name": "lurker soldier",
     "points": 205,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-mindsnipper-0.png",
-    "xws": "lurkermindsnipper"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-soldier-4.png",
+    "xws": "lurkersoldier",
+    "assetno": "###"
   },
   {
-    "name": "lurker mindsnipper",
+    "name": "lurker wavethrower",
     "points": 206,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-mindsnipper-4.png",
-    "xws": "lurkermindsnipper"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-wavethrower-0.png",
+    "xws": "lurkerwavethrower",
+    "assetno": "###"
   },
   {
-    "name": "lurker soldier",
+    "name": "lurker wavethrower",
     "points": 207,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-soldier-0.png",
-    "xws": "lurkersoldier"
+    "image": "monster-stat-cards/frosthaven/fh-lurker-wavethrower-4.png",
+    "xws": "lurkerwavethrower",
+    "assetno": "###"
   },
   {
-    "name": "lurker soldier",
+    "name": "night demon",
     "points": 208,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-soldier-4.png",
-    "xws": "lurkersoldier"
+    "image": "monster-stat-cards/frosthaven/fh-night-demon-0.png",
+    "xws": "nightdemon",
+    "assetno": "###"
   },
   {
-    "name": "lurker wavethrower",
+    "name": "night demon",
     "points": 209,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-wavethrower-0.png",
-    "xws": "lurkerwavethrower"
+    "image": "monster-stat-cards/frosthaven/fh-night-demon-4.png",
+    "xws": "nightdemon",
+    "assetno": "###"
   },
   {
-    "name": "lurker wavethrower",
+    "name": "ooze",
     "points": 210,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-lurker-wavethrower-4.png",
-    "xws": "lurkerwavethrower"
+    "image": "monster-stat-cards/frosthaven/fh-ooze-0.png",
+    "xws": "ooze",
+    "assetno": "###"
   },
   {
-    "name": "night demon",
+    "name": "ooze",
     "points": 211,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-night-demon-0.png",
-    "xws": "nightdemon"
+    "image": "monster-stat-cards/frosthaven/fh-ooze-4.png",
+    "xws": "ooze",
+    "assetno": "###"
   },
   {
-    "name": "night demon",
+    "name": "orphan",
     "points": 212,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-night-demon-4.png",
-    "xws": "nightdemon"
+    "image": "monster-stat-cards/frosthaven/fh-orphan-0.png",
+    "xws": "orphan",
+    "assetno": "###"
   },
   {
-    "name": "ooze",
+    "name": "orphan",
     "points": 213,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ooze-0.png",
-    "xws": "ooze"
+    "image": "monster-stat-cards/frosthaven/fh-orphan-2.png",
+    "xws": "orphan",
+    "assetno": "###"
   },
   {
-    "name": "ooze",
+    "name": "orphan",
     "points": 214,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ooze-4.png",
-    "xws": "ooze"
+    "image": "monster-stat-cards/frosthaven/fh-orphan-4.png",
+    "xws": "orphan",
+    "assetno": "###"
   },
   {
     "name": "orphan",
     "points": 215,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-orphan-0.png",
-    "xws": "orphan"
+    "image": "monster-stat-cards/frosthaven/fh-orphan-6.png",
+    "xws": "orphan",
+    "assetno": "###"
   },
   {
-    "name": "orphan",
+    "name": "piranha pig",
     "points": 216,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-orphan-2.png",
-    "xws": "orphan"
+    "image": "monster-stat-cards/frosthaven/fh-piranha-pig-0.png",
+    "xws": "piranhapig",
+    "assetno": "###"
   },
   {
-    "name": "orphan",
+    "name": "piranha pig",
     "points": 217,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-orphan-4.png",
-    "xws": "orphan"
+    "image": "monster-stat-cards/frosthaven/fh-piranha-pig-4.png",
+    "xws": "piranhapig",
+    "assetno": "###"
   },
   {
-    "name": "orphan",
+    "name": "polar bear",
     "points": 218,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-orphan-6.png",
-    "xws": "orphan"
+    "image": "monster-stat-cards/frosthaven/fh-polar-bear-0.png",
+    "xws": "polarbear",
+    "assetno": "###"
   },
   {
-    "name": "piranha pig",
+    "name": "polar bear",
     "points": 219,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-piranha-pig-0.png",
-    "xws": "piranhapig"
+    "image": "monster-stat-cards/frosthaven/fh-polar-bear-4.png",
+    "xws": "polarbear",
+    "assetno": "###"
   },
   {
-    "name": "piranha pig",
+    "name": "prince of frost",
     "points": 220,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-piranha-pig-4.png",
-    "xws": "piranhapig"
+    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-0.png",
+    "xws": "princeoffrost",
+    "assetno": "###"
   },
   {
-    "name": "polar bear",
+    "name": "prince of frost",
     "points": 221,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-polar-bear-0.png",
-    "xws": "polarbear"
+    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-2.png",
+    "xws": "princeoffrost",
+    "assetno": "###"
   },
   {
-    "name": "polar bear",
+    "name": "prince of frost",
     "points": 222,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-polar-bear-4.png",
-    "xws": "polarbear"
+    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-4.png",
+    "xws": "princeoffrost",
+    "assetno": "###"
   },
   {
     "name": "prince of frost",
     "points": 223,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-0.png",
-    "xws": "princeoffrost"
+    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-6.png",
+    "xws": "princeoffrost",
+    "assetno": "###"
   },
   {
-    "name": "prince of frost",
+    "name": "program director",
     "points": 224,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-2.png",
-    "xws": "princeoffrost"
+    "image": "monster-stat-cards/frosthaven/fh-program-director-0.png",
+    "xws": "programdirector",
+    "assetno": "###"
   },
   {
-    "name": "prince of frost",
+    "name": "program director",
     "points": 225,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-4.png",
-    "xws": "princeoffrost"
+    "image": "monster-stat-cards/frosthaven/fh-program-director-2.png",
+    "xws": "programdirector",
+    "assetno": "###"
   },
   {
-    "name": "prince of frost",
+    "name": "program director",
     "points": 226,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-prince-of-frost-6.png",
-    "xws": "princeoffrost"
+    "image": "monster-stat-cards/frosthaven/fh-program-director-4.png",
+    "xws": "programdirector",
+    "assetno": "###"
   },
   {
     "name": "program director",
     "points": 227,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-program-director-0.png",
-    "xws": "programdirector"
+    "image": "monster-stat-cards/frosthaven/fh-program-director-6.png",
+    "xws": "programdirector",
+    "assetno": "###"
   },
   {
-    "name": "program director",
+    "name": "render",
     "points": 228,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-program-director-2.png",
-    "xws": "programdirector"
+    "image": "monster-stat-cards/frosthaven/fh-render-0.png",
+    "xws": "render",
+    "assetno": "###"
   },
   {
-    "name": "program director",
+    "name": "render",
     "points": 229,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-program-director-4.png",
-    "xws": "programdirector"
+    "image": "monster-stat-cards/frosthaven/fh-render-2.png",
+    "xws": "render",
+    "assetno": "###"
   },
   {
-    "name": "program director",
+    "name": "render",
     "points": 230,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-program-director-6.png",
-    "xws": "programdirector"
+    "image": "monster-stat-cards/frosthaven/fh-render-4.png",
+    "xws": "render",
+    "assetno": "###"
   },
   {
     "name": "render",
     "points": 231,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-render-0.png",
-    "xws": "render"
+    "image": "monster-stat-cards/frosthaven/fh-render-6.png",
+    "xws": "render",
+    "assetno": "###"
   },
   {
-    "name": "render",
+    "name": "rending drake",
     "points": 232,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-render-2.png",
-    "xws": "render"
+    "image": "monster-stat-cards/frosthaven/fh-rending-drake-0.png",
+    "xws": "rendingdrake",
+    "assetno": "###"
   },
   {
-    "name": "render",
+    "name": "rending drake",
     "points": 233,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-render-4.png",
-    "xws": "render"
+    "image": "monster-stat-cards/frosthaven/fh-rending-drake-4.png",
+    "xws": "rendingdrake",
+    "assetno": "###"
   },
   {
-    "name": "render",
+    "name": "robotic boltshooter",
     "points": 234,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-render-6.png",
-    "xws": "render"
+    "image": "monster-stat-cards/frosthaven/fh-robotic-boltshooter-0.png",
+    "xws": "roboticboltshooter",
+    "assetno": "###"
   },
   {
-    "name": "rending drake",
+    "name": "robotic boltshooter",
     "points": 235,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-rending-drake-0.png",
-    "xws": "rendingdrake"
+    "image": "monster-stat-cards/frosthaven/fh-robotic-boltshooter-4.png",
+    "xws": "roboticboltshooter",
+    "assetno": "###"
   },
   {
-    "name": "rending drake",
+    "name": "ruined machine",
     "points": 236,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-rending-drake-4.png",
-    "xws": "rendingdrake"
+    "image": "monster-stat-cards/frosthaven/fh-ruined-machine-0.png",
+    "xws": "ruinedmachine",
+    "assetno": "###"
   },
   {
-    "name": "robotic boltshooter",
+    "name": "ruined machine",
     "points": 237,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-robotic-boltshooter-0.png",
-    "xws": "roboticboltshooter"
+    "image": "monster-stat-cards/frosthaven/fh-ruined-machine-4.png",
+    "xws": "ruinedmachine",
+    "assetno": "###"
   },
   {
-    "name": "robotic boltshooter",
+    "name": "savvas icestorm",
     "points": 238,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-robotic-boltshooter-4.png",
-    "xws": "roboticboltshooter"
+    "image": "monster-stat-cards/frosthaven/fh-savvas-icestorm-0.png",
+    "xws": "savvasicestorm",
+    "assetno": "###"
   },
   {
-    "name": "ruined machine",
+    "name": "savvas icestorm",
     "points": 239,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ruined-machine-0.png",
-    "xws": "ruinedmachine"
+    "image": "monster-stat-cards/frosthaven/fh-savvas-icestorm-4.png",
+    "xws": "savvasicestorm",
+    "assetno": "###"
   },
   {
-    "name": "ruined machine",
+    "name": "savvas lavaflow",
     "points": 240,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-ruined-machine-4.png",
-    "xws": "ruinedmachine"
+    "image": "monster-stat-cards/frosthaven/fh-savvas-lavaflow-0.png",
+    "xws": "savvaslavaflow",
+    "assetno": "###"
   },
   {
-    "name": "savvas icestorm",
+    "name": "savvas lavaflow",
     "points": 241,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-savvas-icestorm-0.png",
-    "xws": "savvasicestorm"
+    "image": "monster-stat-cards/frosthaven/fh-savvas-lavaflow-4.png",
+    "xws": "savvaslavaflow",
+    "assetno": "###"
   },
   {
-    "name": "savvas icestorm",
+    "name": "seeker of the abyss",
     "points": 242,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-savvas-icestorm-4.png",
-    "xws": "savvasicestorm"
+    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-0.png",
+    "xws": "seekeroftheabyss",
+    "assetno": "###"
   },
   {
-    "name": "savvas lavaflow",
+    "name": "seeker of the abyss",
     "points": 243,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-savvas-lavaflow-0.png",
-    "xws": "savvaslavaflow"
+    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-2.png",
+    "xws": "seekeroftheabyss",
+    "assetno": "###"
   },
   {
-    "name": "savvas lavaflow",
+    "name": "seeker of the abyss",
     "points": 244,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-savvas-lavaflow-4.png",
-    "xws": "savvaslavaflow"
+    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-4.png",
+    "xws": "seekeroftheabyss",
+    "assetno": "###"
   },
   {
     "name": "seeker of the abyss",
     "points": 245,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-0.png",
-    "xws": "seekeroftheabyss"
+    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-6.png",
+    "xws": "seekeroftheabyss",
+    "assetno": "###"
   },
   {
-    "name": "seeker of the abyss",
+    "name": "shrike fiend",
     "points": 246,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-2.png",
-    "xws": "seekeroftheabyss"
+    "image": "monster-stat-cards/frosthaven/fh-shrike-fiend-0.png",
+    "xws": "shrikefiend",
+    "assetno": "###"
   },
   {
-    "name": "seeker of the abyss",
+    "name": "shrike fiend",
     "points": 247,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-4.png",
-    "xws": "seekeroftheabyss"
+    "image": "monster-stat-cards/frosthaven/fh-shrike-fiend-4.png",
+    "xws": "shrikefiend",
+    "assetno": "###"
   },
   {
-    "name": "seeker of the abyss",
+    "name": "snow imp",
     "points": 248,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-seeker-of-the-abyss-6.png",
-    "xws": "seekeroftheabyss"
+    "image": "monster-stat-cards/frosthaven/fh-snow-imp-0.png",
+    "xws": "snowimp",
+    "assetno": "###"
   },
   {
-    "name": "shrike fiend",
+    "name": "snow imp",
     "points": 249,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-shrike-fiend-0.png",
-    "xws": "shrikefiend"
+    "image": "monster-stat-cards/frosthaven/fh-snow-imp-4.png",
+    "xws": "snowimp",
+    "assetno": "###"
   },
   {
-    "name": "shrike fiend",
+    "name": "snowdancer",
     "points": 250,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-shrike-fiend-4.png",
-    "xws": "shrikefiend"
+    "image": "monster-stat-cards/frosthaven/fh-snowdancer-0.png",
+    "xws": "snowdancer",
+    "assetno": "###"
   },
   {
     "name": "snowdancer",
     "points": 251,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-snowdancer-0.png",
-    "xws": "snowdancer"
+    "image": "monster-stat-cards/frosthaven/fh-snowdancer-2.png",
+    "xws": "snowdancer",
+    "assetno": "###"
   },
   {
     "name": "snowdancer",
     "points": 252,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-snowdancer-2.png",
-    "xws": "snowdancer"
+    "image": "monster-stat-cards/frosthaven/fh-snowdancer-4.png",
+    "xws": "snowdancer",
+    "assetno": "###"
   },
   {
     "name": "snowdancer",
     "points": 253,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-snowdancer-4.png",
-    "xws": "snowdancer"
+    "image": "monster-stat-cards/frosthaven/fh-snowdancer-6.png",
+    "xws": "snowdancer",
+    "assetno": "###"
   },
   {
-    "name": "snowdancer",
+    "name": "spitting drake",
     "points": 254,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-snowdancer-6.png",
-    "xws": "snowdancer"
+    "image": "monster-stat-cards/frosthaven/fh-spitting-drake-0.png",
+    "xws": "spittingdrake",
+    "assetno": "###"
   },
   {
-    "name": "snow imp",
+    "name": "spitting drake",
     "points": 255,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-snow-imp-0.png",
-    "xws": "snowimp"
+    "image": "monster-stat-cards/frosthaven/fh-spitting-drake-4.png",
+    "xws": "spittingdrake",
+    "assetno": "###"
   },
   {
-    "name": "snow imp",
+    "name": "steel automaton",
     "points": 256,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-snow-imp-4.png",
-    "xws": "snowimp"
+    "image": "monster-stat-cards/frosthaven/fh-steel-automaton-0.png",
+    "xws": "steelautomaton",
+    "assetno": "###"
   },
   {
-    "name": "spitting drake",
+    "name": "steel automaton",
     "points": 257,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-spitting-drake-0.png",
-    "xws": "spittingdrake"
+    "image": "monster-stat-cards/frosthaven/fh-steel-automaton-4.png",
+    "xws": "steelautomaton",
+    "assetno": "###"
   },
   {
-    "name": "spitting drake",
+    "name": "sun demon",
     "points": 258,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-spitting-drake-4.png",
-    "xws": "spittingdrake"
+    "image": "monster-stat-cards/frosthaven/fh-sun-demon-0.png",
+    "xws": "sundemon",
+    "assetno": "###"
   },
   {
-    "name": "steel automaton",
+    "name": "sun demon",
     "points": 259,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-steel-automaton-0.png",
-    "xws": "steelautomaton"
+    "image": "monster-stat-cards/frosthaven/fh-sun-demon-4.png",
+    "xws": "sundemon",
+    "assetno": "###"
   },
   {
-    "name": "steel automaton",
+    "name": "the collector",
     "points": 260,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-steel-automaton-4.png",
-    "xws": "steelautomaton"
+    "image": "monster-stat-cards/frosthaven/fh-the-collector-0.png",
+    "xws": "thecollector",
+    "assetno": "###"
   },
   {
-    "name": "sun demon",
+    "name": "the collector",
     "points": 261,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-sun-demon-0.png",
-    "xws": "sundemon"
+    "image": "monster-stat-cards/frosthaven/fh-the-collector-2.png",
+    "xws": "thecollector",
+    "assetno": "###"
   },
   {
-    "name": "sun demon",
+    "name": "the collector",
     "points": 262,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-sun-demon-4.png",
-    "xws": "sundemon"
+    "image": "monster-stat-cards/frosthaven/fh-the-collector-4.png",
+    "xws": "thecollector",
+    "assetno": "###"
   },
   {
     "name": "the collector",
     "points": 263,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-collector-0.png",
-    "xws": "thecollector"
+    "image": "monster-stat-cards/frosthaven/fh-the-collector-6.png",
+    "xws": "thecollector",
+    "assetno": "###"
   },
   {
-    "name": "the collector",
+    "name": "the relic",
     "points": 264,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-collector-2.png",
-    "xws": "thecollector"
+    "image": "monster-stat-cards/frosthaven/fh-the-relic-0.png",
+    "xws": "therelic",
+    "assetno": "###"
   },
   {
-    "name": "the collector",
+    "name": "the relic",
     "points": 265,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-collector-4.png",
-    "xws": "thecollector"
+    "image": "monster-stat-cards/frosthaven/fh-the-relic-2.png",
+    "xws": "therelic",
+    "assetno": "###"
   },
   {
-    "name": "the collector",
+    "name": "the relic",
     "points": 266,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-collector-6.png",
-    "xws": "thecollector"
+    "image": "monster-stat-cards/frosthaven/fh-the-relic-4.png",
+    "xws": "therelic",
+    "assetno": "###"
   },
   {
     "name": "the relic",
     "points": 267,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-relic-0.png",
-    "xws": "therelic"
+    "image": "monster-stat-cards/frosthaven/fh-the-relic-6.png",
+    "xws": "therelic",
+    "assetno": "###"
   },
   {
-    "name": "the relic",
+    "name": "vermling priest",
     "points": 268,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-relic-2.png",
-    "xws": "therelic"
+    "image": "monster-stat-cards/frosthaven/fh-vermling-priest-0.png",
+    "xws": "vermlingpriest",
+    "assetno": "###"
   },
   {
-    "name": "the relic",
+    "name": "vermling priest",
     "points": 269,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-relic-4.png",
-    "xws": "therelic"
+    "image": "monster-stat-cards/frosthaven/fh-vermling-priest-4.png",
+    "xws": "vermlingpriest",
+    "assetno": "###"
   },
   {
-    "name": "the relic",
+    "name": "vermling scout",
     "points": 270,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-the-relic-6.png",
-    "xws": "therelic"
+    "image": "monster-stat-cards/frosthaven/fh-vermling-scout-0.png",
+    "xws": "vermlingscout",
+    "assetno": "###"
   },
   {
-    "name": "vermling priest",
+    "name": "vermling scout",
     "points": 271,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vermling-priest-0.png",
-    "xws": "vermlingpriest"
+    "image": "monster-stat-cards/frosthaven/fh-vermling-scout-4.png",
+    "xws": "vermlingscout",
+    "assetno": "###"
   },
   {
-    "name": "vermling priest",
+    "name": "vestige of the imprisoned god",
     "points": 272,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vermling-priest-4.png",
-    "xws": "vermlingpriest"
+    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-0.png",
+    "xws": "vestigeoftheimprisonedgod",
+    "assetno": "###"
   },
   {
-    "name": "vermling scout",
+    "name": "vestige of the imprisoned god",
     "points": 273,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vermling-scout-0.png",
-    "xws": "vermlingscout"
+    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-2.png",
+    "xws": "vestigeoftheimprisonedgod",
+    "assetno": "###"
   },
   {
-    "name": "vermling scout",
+    "name": "vestige of the imprisoned god",
     "points": 274,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vermling-scout-4.png",
-    "xws": "vermlingscout"
+    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-4.png",
+    "xws": "vestigeoftheimprisonedgod",
+    "assetno": "###"
   },
   {
     "name": "vestige of the imprisoned god",
     "points": 275,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-0.png",
-    "xws": "vestigeoftheimprisonedgod"
+    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-6.png",
+    "xws": "vestigeoftheimprisonedgod",
+    "assetno": "###"
   },
   {
-    "name": "vestige of the imprisoned god",
+    "name": "wind demon",
     "points": 276,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-2.png",
-    "xws": "vestigeoftheimprisonedgod"
+    "image": "monster-stat-cards/frosthaven/fh-wind-demon-0.png",
+    "xws": "winddemon",
+    "assetno": "###"
   },
   {
-    "name": "vestige of the imprisoned god",
+    "name": "wind demon",
     "points": 277,
     "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-4.png",
-    "xws": "vestigeoftheimprisonedgod"
-  },
-  {
-    "name": "vestige of the imprisoned god",
-    "points": 278,
-    "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-vestige-of-the-imprisoned-god-6.png",
-    "xws": "vestigeoftheimprisonedgod"
-  },
-  {
-    "name": "wind demon",
-    "points": 279,
-    "expansion": "frosthaven",
-    "image": "monster-stat-cards/frosthaven/fh-wind-demon-0.png",
-    "xws": "winddemon"
-  },
-  {
-    "name": "wind demon",
-    "points": 280,
-    "expansion": "frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-wind-demon-4.png",
-    "xws": "winddemon"
+    "xws": "winddemon",
+    "assetno": "###"
   },
   {
     "name": "black imp",
-    "points": 281,
+    "points": 278,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-black-imp-0.png",
     "xws": "blackimp",
@@ -2094,7 +2233,7 @@
   },
   {
     "name": "black imp",
-    "points": 282,
+    "points": 279,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-black-imp-4.png",
     "xws": "blackimp",
@@ -2102,7 +2241,7 @@
   },
   {
     "name": "black sludge",
-    "points": 283,
+    "points": 280,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-black-sludge-0.png",
     "xws": "blacksludge",
@@ -2110,7 +2249,7 @@
   },
   {
     "name": "black sludge",
-    "points": 284,
+    "points": 281,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-black-sludge-4.png",
     "xws": "blacksludge",
@@ -2118,7 +2257,7 @@
   },
   {
     "name": "blood horror",
-    "points": 285,
+    "points": 282,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-horror-0.png",
     "xws": "bloodhorror",
@@ -2126,7 +2265,7 @@
   },
   {
     "name": "blood horror",
-    "points": 286,
+    "points": 283,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-horror-4.png",
     "xws": "bloodhorror",
@@ -2134,7 +2273,7 @@
   },
   {
     "name": "blood imp",
-    "points": 287,
+    "points": 284,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-imp-0.png",
     "xws": "bloodimp",
@@ -2142,7 +2281,7 @@
   },
   {
     "name": "blood imp",
-    "points": 288,
+    "points": 285,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-imp-4.png",
     "xws": "bloodimp",
@@ -2150,7 +2289,7 @@
   },
   {
     "name": "blood monstrosity",
-    "points": 289,
+    "points": 286,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-monstrosity-0.png",
     "xws": "bloodmonstrosity",
@@ -2158,7 +2297,7 @@
   },
   {
     "name": "blood monstrosity",
-    "points": 290,
+    "points": 287,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-monstrosity-4.png",
     "xws": "bloodmonstrosity",
@@ -2166,7 +2305,7 @@
   },
   {
     "name": "blood tumor",
-    "points": 291,
+    "points": 288,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-tumor-0.png",
     "xws": "bloodtumor",
@@ -2174,7 +2313,7 @@
   },
   {
     "name": "blood tumor",
-    "points": 292,
+    "points": 289,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-blood-tumor-4.png",
     "xws": "bloodtumor",
@@ -2182,7 +2321,7 @@
   },
   {
     "name": "chaos demon",
-    "points": 293,
+    "points": 290,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-chaos-demon-0.png",
     "xws": "chaosdemon",
@@ -2190,7 +2329,7 @@
   },
   {
     "name": "chaos demon",
-    "points": 294,
+    "points": 291,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-chaos-demon-4.png",
     "xws": "chaosdemon",
@@ -2198,7 +2337,7 @@
   },
   {
     "name": "first of the order",
-    "points": 295,
+    "points": 292,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-first-of-the-order-0.png",
     "xws": "firstoftheorder",
@@ -2206,7 +2345,7 @@
   },
   {
     "name": "first of the order",
-    "points": 296,
+    "points": 293,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-first-of-the-order-4.png",
     "xws": "firstoftheorder",
@@ -2214,7 +2353,7 @@
   },
   {
     "name": "giant viper",
-    "points": 297,
+    "points": 294,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-giant-viper-0.png",
     "xws": "giantviper",
@@ -2222,7 +2361,7 @@
   },
   {
     "name": "giant viper",
-    "points": 298,
+    "points": 295,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-giant-viper-4.png",
     "xws": "giantviper",
@@ -2230,7 +2369,7 @@
   },
   {
     "name": "living corpse",
-    "points": 299,
+    "points": 296,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-living-corpse-0.png",
     "xws": "livingcorpse",
@@ -2238,7 +2377,7 @@
   },
   {
     "name": "living corpse",
-    "points": 300,
+    "points": 297,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-living-corpse-4.png",
     "xws": "livingcorpse",
@@ -2246,7 +2385,7 @@
   },
   {
     "name": "living spirit",
-    "points": 301,
+    "points": 298,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-living-spirit-0.png",
     "xws": "livingspirit",
@@ -2254,7 +2393,7 @@
   },
   {
     "name": "living spirit",
-    "points": 302,
+    "points": 299,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-living-spirit-4.png",
     "xws": "livingspirit",
@@ -2262,7 +2401,7 @@
   },
   {
     "name": "rat monstrosity",
-    "points": 303,
+    "points": 300,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-rat-monstrosity-0.png",
     "xws": "ratmonstrosity",
@@ -2270,7 +2409,7 @@
   },
   {
     "name": "rat monstrosity",
-    "points": 304,
+    "points": 301,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-rat-monstrosity-4.png",
     "xws": "ratmonstrosity",
@@ -2278,7 +2417,7 @@
   },
   {
     "name": "stone golem",
-    "points": 305,
+    "points": 302,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-stone-golem-0.png",
     "xws": "stonegolem",
@@ -2286,7 +2425,7 @@
   },
   {
     "name": "stone golem",
-    "points": 306,
+    "points": 303,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-stone-golem-4.png",
     "xws": "stonegolem",
@@ -2294,7 +2433,7 @@
   },
   {
     "name": "vermling raider",
-    "points": 307,
+    "points": 304,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-raider-0.png",
     "xws": "vermlingraider",
@@ -2302,7 +2441,7 @@
   },
   {
     "name": "vermling raider",
-    "points": 308,
+    "points": 305,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-raider-4.png",
     "xws": "vermlingraider",
@@ -2310,7 +2449,7 @@
   },
   {
     "name": "vermling scout",
-    "points": 309,
+    "points": 306,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-scout-0.png",
     "xws": "vermlingscout",
@@ -2318,7 +2457,7 @@
   },
   {
     "name": "vermling scout",
-    "points": 310,
+    "points": 307,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-vermling-scout-4.png",
     "xws": "vermlingscout",
@@ -2326,7 +2465,7 @@
   },
   {
     "name": "zealot",
-    "points": 311,
+    "points": 308,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-zealot-0.png",
     "xws": "zealot",
@@ -2334,7 +2473,7 @@
   },
   {
     "name": "zealot",
-    "points": 312,
+    "points": 309,
     "expansion": "jaws of the lion",
     "image": "monster-stat-cards/jaws-of-the-lion/jl-zealot-4.png",
     "xws": "zealot",
@@ -2342,364 +2481,364 @@
   },
   {
     "name": "gnashing drake",
-    "points": 313,
+    "points": 310,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-0.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "gnashing drake",
-    "points": 314,
+    "points": 311,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-2.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "gnashing drake",
-    "points": 315,
+    "points": 312,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-4.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "gnashing drake",
-    "points": 316,
+    "points": 313,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-6.png",
     "xws": "gnashingdrake"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 317,
+    "points": 314,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-0.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 318,
+    "points": 315,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-2.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 319,
+    "points": 316,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-4.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "goremyon shatter-mind",
-    "points": 320,
+    "points": 317,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-6.png",
     "xws": "goremyonshattermind"
   },
   {
     "name": "harrower aegis",
-    "points": 321,
+    "points": 318,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-0.png",
     "xws": "harroweraegis"
   },
   {
     "name": "harrower aegis",
-    "points": 322,
+    "points": 319,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-2.png",
     "xws": "harroweraegis"
   },
   {
     "name": "harrower aegis",
-    "points": 323,
+    "points": 320,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-4.png",
     "xws": "harroweraegis"
   },
   {
     "name": "harrower aegis",
-    "points": 324,
+    "points": 321,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-6.png",
     "xws": "harroweraegis"
   },
   {
     "name": "inox bloodguard",
-    "points": 325,
+    "points": 322,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-0.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "inox bloodguard",
-    "points": 326,
+    "points": 323,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-2.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "inox bloodguard",
-    "points": 327,
+    "points": 324,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-4.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "inox bloodguard",
-    "points": 328,
+    "points": 325,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-6.png",
     "xws": "inoxbloodguard"
   },
   {
     "name": "ravenous gharial",
-    "points": 329,
+    "points": 326,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-0.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ravenous gharial",
-    "points": 330,
+    "points": 327,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-2.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ravenous gharial",
-    "points": 331,
+    "points": 328,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-4.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ravenous gharial",
-    "points": 332,
+    "points": 329,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-6.png",
     "xws": "ravenousgharial"
   },
   {
     "name": "ruinmaw",
-    "points": 333,
+    "points": 330,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-0.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 334,
+    "points": 331,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-2.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 335,
+    "points": 332,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-4.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 336,
+    "points": 333,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-6.png",
     "xws": "ruinmaw"
   },
   {
     "name": "terrorscale drake",
-    "points": 337,
+    "points": 334,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-0.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "terrorscale drake",
-    "points": 338,
+    "points": 335,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-2.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "terrorscale drake",
-    "points": 339,
+    "points": 336,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-4.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "terrorscale drake",
-    "points": 340,
+    "points": 337,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-6.png",
     "xws": "terrorscaledrake"
   },
   {
     "name": "water spirit",
-    "points": 341,
+    "points": 338,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-0.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 342,
+    "points": 339,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-2.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 343,
+    "points": 340,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 344,
+    "points": 341,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-6.png",
     "xws": "waterspirit"
   },
   {
     "name": "harrower bugflute",
-    "points": 345,
+    "points": 342,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-0.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "harrower bugflute",
-    "points": 346,
+    "points": 343,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-2.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "harrower bugflute",
-    "points": 347,
+    "points": 344,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-4.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "harrower bugflute",
-    "points": 348,
+    "points": 345,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-6.png",
     "xws": "harrowerbugflute"
   },
   {
     "name": "shardrender",
-    "points": 349,
+    "points": 346,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-0.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 350,
+    "points": 347,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-2.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 351,
+    "points": 348,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-4.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 352,
+    "points": 349,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-6.png",
     "xws": "shardrender"
   },
   {
     "name": "smoke spirit",
-    "points": 353,
+    "points": 350,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-0.png",
     "xws": "smokespirit"
   },
   {
     "name": "smoke spirit",
-    "points": 354,
+    "points": 351,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-2.png",
     "xws": "smokespirit"
   },
   {
     "name": "smoke spirit",
-    "points": 355,
+    "points": 352,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-4.png",
     "xws": "smokespirit"
   },
   {
     "name": "smoke spirit",
-    "points": 356,
+    "points": 353,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-6.png",
     "xws": "smokespirit"
   },
   {
     "name": "talo",
-    "points": 357,
+    "points": 354,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-0.png",
     "xws": "talo"
   },
   {
     "name": "talo",
-    "points": 358,
+    "points": 355,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-2.png",
     "xws": "talo"
   },
   {
     "name": "talo",
-    "points": 359,
+    "points": 356,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-4.png",
     "xws": "talo"
   },
   {
     "name": "talo",
-    "points": 360,
+    "points": 357,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-6.png",
     "xws": "talo"
   },
   {
     "name": "valrath vanquisher",
-    "points": 361,
+    "points": 358,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-0.png",
     "xws": "valrathvanquisher"
   },
   {
     "name": "valrath vanquisher",
-    "points": 362,
+    "points": 359,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-2.png",
     "xws": "valrathvanquisher"
   },
   {
     "name": "valrath vanquisher",
-    "points": 363,
+    "points": 360,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-4.png",
     "xws": "valrathvanquisher"
   },
   {
     "name": "valrath vanquisher",
-    "points": 364,
+    "points": 361,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-6.png",
     "xws": "valrathvanquisher"
