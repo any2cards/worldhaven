@@ -584,848 +584,1079 @@
     "assetno": "###"
   },
   {
-    "name": "fh-pq-back",
+    "name": "fh-pq-01",
     "points": 73,
     "expansion": "frosthaven",
-    "image": "personal-quests/frosthaven/fh-pq-back.png",
-    "xws": "fhpqback"
+    "image": "personal-quests/frosthaven/fh-pq-01.png",
+    "xws": "fhpq01",
+    "assetno": "501"
   },
   {
-    "name": "fh-pq-01",
+    "name": "501",
     "points": 74,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-01.png",
-    "xws": "fhpq01"
+    "xws": "fhpq01",
+    "assetno": "501"
   },
   {
     "name": "the study of plants",
     "points": 75,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-01.png",
-    "xws": "fhpq01"
+    "xws": "thestudyofplants",
+    "assetno": "501"
   },
   {
     "name": "fh-pq-02",
     "points": 76,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-02.png",
-    "xws": "fhpq02"
+    "xws": "fhpq02",
+    "assetno": "502"
   },
   {
-    "name": "searching for the oak",
+    "name": "502",
     "points": 77,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-02.png",
-    "xws": "fhpq02"
+    "xws": "fhpq02",
+    "assetno": "502"
+  },
+  {
+    "name": "searching for the oak",
+    "points": 78,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-02.png",
+    "xws": "searchingfortheoak",
+    "assetno": "502"
   },
   {
     "name": "fh-pq-03",
-    "points": 78,
-    "expansion": "frosthaven",
-    "image": "personal-quests/frosthaven/fh-pq-03.png",
-    "xws": "fhpq03"
-  },
-  {
-    "name": "merchant class",
     "points": 79,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-03.png",
-    "xws": "fhpq03"
+    "xws": "fhpq03",
+    "assetno": "503"
+  },
+  {
+    "name": "503",
+    "points": 80,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-03.png",
+    "xws": "fhpq03",
+    "assetno": "503"
+  },
+  {
+    "name": "merchant class",
+    "points": 81,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-03.png",
+    "xws": "merchantclass",
+    "assetno": "503"
   },
   {
     "name": "fh-pq-04",
-    "points": 80,
+    "points": 82,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-04.png",
-    "xws": "fhpq04"
+    "xws": "fhpq04",
+    "assetno": "504"
+  },
+  {
+    "name": "504",
+    "points": 83,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-04.png",
+    "xws": "fhpq04",
+    "assetno": "504"
   },
   {
     "name": "greed is good",
-    "points": 81,
+    "points": 84,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-04.png",
-    "xws": "fhpq04"
+    "xws": "greedisgood",
+    "assetno": "504"
   },
   {
     "name": "fh-pq-05",
-    "points": 82,
+    "points": 85,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-05.png",
-    "xws": "fhpq05"
+    "xws": "fhpq05",
+    "assetno": "505"
+  },
+  {
+    "name": "505",
+    "points": 86,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-05.png",
+    "xws": "fhpq05",
+    "assetno": "505"
   },
   {
     "name": "build, not destroy",
-    "points": 83,
+    "points": 87,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-05.png",
-    "xws": "fhpq05"
+    "xws": "buildnotdestroy",
+    "assetno": "505"
   },
   {
     "name": "fh-pq-06",
-    "points": 84,
+    "points": 88,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-06.png",
-    "xws": "fhpq06"
+    "xws": "fhpq06",
+    "assetno": "506"
+  },
+  {
+    "name": "506",
+    "points": 89,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-06.png",
+    "xws": "fhpq06",
+    "assetno": "506"
   },
   {
     "name": "team building",
-    "points": 85,
+    "points": 90,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-06.png",
-    "xws": "fhpq06"
+    "xws": "teambuilding",
+    "assetno": "506"
   },
   {
     "name": "fh-pq-07",
-    "points": 86,
+    "points": 91,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-07.png",
-    "xws": "fhpq07"
+    "xws": "fhpq07",
+    "assetno": "507"
+  },
+  {
+    "name": "507",
+    "points": 92,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-07.png",
+    "xws": "fhpq07",
+    "assetno": "507"
   },
   {
     "name": "aesther outpost",
-    "points": 87,
+    "points": 93,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-07.png",
-    "xws": "fhpq07"
+    "xws": "aestheroutpost",
+    "assetno": "507"
   },
   {
     "name": "fh-pq-08",
-    "points": 88,
+    "points": 94,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-08.png",
-    "xws": "fhpq08"
+    "xws": "fhpq08",
+    "assetno": "508"
+  },
+  {
+    "name": "508",
+    "points": 95,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-08.png",
+    "xws": "fhpq08",
+    "assetno": "508"
   },
   {
     "name": "dangerous game",
-    "points": 89,
+    "points": 96,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-08.png",
-    "xws": "fhpq08"
+    "xws": "dangerousgame",
+    "assetno": "508"
   },
   {
     "name": "fh-pq-09",
-    "points": 90,
+    "points": 97,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-09.png",
-    "xws": "fhpq09"
+    "xws": "fhpq09",
+    "assetno": "509"
+  },
+  {
+    "name": "509",
+    "points": 98,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-09.png",
+    "xws": "fhpq09",
+    "assetno": "509"
   },
   {
     "name": "life lessons",
-    "points": 91,
+    "points": 99,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-09.png",
-    "xws": "fhpq09"
+    "xws": "lifelessons",
+    "assetno": "509"
   },
   {
     "name": "fh-pq-10",
-    "points": 92,
+    "points": 100,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-10.png",
-    "xws": "fhpq10"
+    "xws": "fhpq10",
+    "assetno": "510"
+  },
+  {
+    "name": "510",
+    "points": 101,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-10.png",
+    "xws": "fhpq10",
+    "assetno": "510"
   },
   {
     "name": "explore the reaches",
-    "points": 93,
+    "points": 102,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-10.png",
-    "xws": "fhpq10"
+    "xws": "explorethereaches",
+    "assetno": "510"
   },
   {
     "name": "fh-pq-11",
-    "points": 94,
+    "points": 103,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-11.png",
-    "xws": "fhpq11"
+    "xws": "fhpq11",
+    "assetno": "505"
+  },
+  {
+    "name": "505",
+    "points": 104,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-11.png",
+    "xws": "fhpq11",
+    "assetno": "505"
   },
   {
     "name": "refined tastes",
-    "points": 95,
+    "points": 105,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-11.png",
-    "xws": "fhpq11"
+    "xws": "refinedtastes",
+    "assetno": "505"
   },
   {
     "name": "fh-pq-12",
-    "points": 96,
+    "points": 106,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-12.png",
-    "xws": "fhpq12"
+    "xws": "fhpq12",
+    "assetno": "509"
+  },
+  {
+    "name": "509",
+    "points": 107,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-12.png",
+    "xws": "fhpq12",
+    "assetno": "509"
   },
   {
     "name": "threat from the deep",
-    "points": 97,
+    "points": 108,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-12.png",
-    "xws": "fhpq12"
+    "xws": "threatfromthedeep",
+    "assetno": "509"
   },
   {
     "name": "fh-pq-13",
-    "points": 98,
+    "points": 109,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-13.png",
-    "xws": "fhpq13"
+    "xws": "fhpq13",
+    "assetno": "514"
+  },
+  {
+    "name": "514",
+    "points": 110,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-13.png",
+    "xws": "fhpq13",
+    "assetno": "514"
   },
   {
     "name": "end the trickery",
-    "points": 99,
+    "points": 111,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-13.png",
-    "xws": "fhpq13"
+    "xws": "endthetrickery",
+    "assetno": "514"
   },
   {
     "name": "fh-pq-14",
-    "points": 100,
+    "points": 112,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-14.png",
-    "xws": "fhpq14"
+    "xws": "fhpq14",
+    "assetno": "519"
+  },
+  {
+    "name": "519",
+    "points": 113,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-14.png",
+    "xws": "fhpq14",
+    "assetno": "519"
   },
   {
     "name": "eternal wanderer",
-    "points": 101,
+    "points": 114,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-14.png",
-    "xws": "fhpq14"
+    "xws": "eternalwanderer",
+    "assetno": "519"
   },
   {
     "name": "fh-pq-15",
-    "points": 102,
+    "points": 115,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-15.png",
-    "xws": "fhpq15"
+    "xws": "fhpq15",
+    "assetno": "523"
+  },
+  {
+    "name": "523",
+    "points": 116,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-15.png",
+    "xws": "fhpq15",
+    "assetno": "523"
   },
   {
     "name": "continued prosperity",
-    "points": 103,
+    "points": 117,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-15.png",
-    "xws": "fhpq15"
+    "xws": "continuedprosperity",
+    "assetno": "523"
   },
   {
     "name": "fh-pq-16",
-    "points": 104,
+    "points": 118,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-16.png",
-    "xws": "fhpq16"
+    "xws": "fhpq16",
+    "assetno": "527"
+  },
+  {
+    "name": "527",
+    "points": 119,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-16.png",
+    "xws": "fhpq16",
+    "assetno": "527"
   },
   {
     "name": "prepared for the worst",
-    "points": 105,
+    "points": 120,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-16.png",
-    "xws": "fhpq16"
+    "xws": "preparedfortheworst",
+    "assetno": "527"
   },
   {
     "name": "fh-pq-17",
-    "points": 106,
+    "points": 121,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-17.png",
-    "xws": "fhpq17"
+    "xws": "fhpq17",
+    "assetno": "538"
+  },
+  {
+    "name": "538",
+    "points": 122,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-17.png",
+    "xws": "fhpq17",
+    "assetno": "538"
   },
   {
     "name": "battle legend",
-    "points": 107,
+    "points": 123,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-17.png",
-    "xws": "fhpq17"
+    "xws": "battlelegend",
+    "assetno": "538"
   },
   {
     "name": "fh-pq-18",
-    "points": 108,
+    "points": 124,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-18.png",
-    "xws": "fhpq18"
+    "xws": "fhpq18",
+    "assetno": "542"
+  },
+  {
+    "name": "542",
+    "points": 125,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-18.png",
+    "xws": "fhpq18",
+    "assetno": "542"
   },
   {
     "name": "let them be",
-    "points": 109,
+    "points": 126,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-18.png",
-    "xws": "fhpq18"
+    "xws": "letthembe",
+    "assetno": "542"
   },
   {
     "name": "fh-pq-19",
-    "points": 110,
+    "points": 127,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-19.png",
-    "xws": "fhpq19"
+    "xws": "fhpq19",
+    "assetno": "545"
+  },
+  {
+    "name": "545",
+    "points": 128,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-19.png",
+    "xws": "fhpq19",
+    "assetno": "545"
   },
   {
     "name": "quiet the dead places",
-    "points": 111,
+    "points": 129,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-19.png",
-    "xws": "fhpq19"
+    "xws": "quietthedeadplaces",
+    "assetno": "545"
   },
   {
     "name": "fh-pq-20",
-    "points": 112,
+    "points": 130,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-20.png",
-    "xws": "fhpq20"
+    "xws": "fhpq20",
+    "assetno": "549"
+  },
+  {
+    "name": "549",
+    "points": 131,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-20.png",
+    "xws": "fhpq20",
+    "assetno": "549"
   },
   {
     "name": "return to simplicity",
-    "points": 113,
+    "points": 132,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-20.png",
-    "xws": "fhpq20"
+    "xws": "returntosimplicity",
+    "assetno": "549"
   },
   {
     "name": "fh-pq-21",
-    "points": 114,
+    "points": 133,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-21.png",
-    "xws": "fhpq21"
+    "xws": "fhpq21",
+    "assetno": "552"
+  },
+  {
+    "name": "552",
+    "points": 134,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-21.png",
+    "xws": "fhpq21",
+    "assetno": "552"
   },
   {
     "name": "the study of life",
-    "points": 115,
+    "points": 135,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-21.png",
-    "xws": "fhpq21"
+    "xws": "thestudyoflife",
+    "assetno": "552"
   },
   {
     "name": "fh-pq-22",
-    "points": 116,
+    "points": 136,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-22.png",
-    "xws": "fhpq22"
+    "xws": "fhpq22",
+    "assetno": "557"
+  },
+  {
+    "name": "557",
+    "points": 137,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-22.png",
+    "xws": "fhpq22",
+    "assetno": "557"
   },
   {
     "name": "the greatest challenge",
-    "points": 117,
+    "points": 138,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-22.png",
-    "xws": "fhpq22"
+    "xws": "thegreatestchallenge",
+    "assetno": "557"
   },
   {
     "name": "fh-pq-23",
-    "points": 118,
+    "points": 139,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-23.png",
-    "xws": "fhpq23"
+    "xws": "fhpq23",
+    "assetno": "543"
+  },
+  {
+    "name": "543",
+    "points": 140,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-23.png",
+    "xws": "fhpq23",
+    "assetno": "543"
   },
   {
     "name": "the chosen one",
-    "points": 119,
+    "points": 141,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-23.png",
-    "xws": "fhpq23"
+    "xws": "thechosenone",
+    "assetno": "543"
+  },
+  {
+    "name": "fh-pq-back",
+    "points": 142,
+    "expansion": "frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-back.png",
+    "xws": "fhpqback",
+    "assetno": "###"
   },
   {
     "name": "cs-pq-back",
-    "points": 120,
+    "points": 143,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-back.png",
     "xws": "cspqback"
   },  
   {
     "name": "cs-pq-330",
-    "points": 121,
+    "points": 144,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-330.png",
     "xws": "cspq330"
   },
   {
     "name": "protect and serve",
-    "points": 122,
+    "points": 145,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-330.png",
     "xws": "cspq330"
   },
   {
     "name": "cs-pq-331",
-    "points": 123,
+    "points": 146,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-331.png",
     "xws": "cspq331"
   },
   {
     "name": "weapons specialist",
-    "points": 124,
+    "points": 147,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-331.png",
     "xws": "cspq331"
   },
   {
     "name": "cs-pq-332",
-    "points": 125,
+    "points": 148,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-332.png",
     "xws": "cspq332"
   },
   {
     "name": "experimentation",
-    "points": 126,
+    "points": 149,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-332.png",
     "xws": "cspq332"
   },
   {
     "name": "cs-pq-333",
-    "points": 127,
+    "points": 150,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-333.png",
     "xws": "cspq333"
   },
   {
     "name": "thrill seeker",
-    "points": 128,
+    "points": 151,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-333.png",
     "xws": "cspq333"
   },
   {
     "name": "cs-pq-334",
-    "points": 129,
+    "points": 152,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-334.png",
     "xws": "cspq334"
   },
   {
     "name": "trap setter",
-    "points": 130,
+    "points": 153,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-334.png",
     "xws": "cspq334"
   },
   {
     "name": "cs-pq-335",
-    "points": 131,
+    "points": 154,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-335.png",
     "xws": "cspq335"
   },
   {
     "name": "bandit banisher",
-    "points": 132,
+    "points": 155,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-335.png",
     "xws": "cspq335"
   },
   {
     "name": "cs-pq-336",
-    "points": 133,
+    "points": 156,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-336.png",
     "xws": "cspq336"
   },
   {
     "name": "creatures in the night",
-    "points": 134,
+    "points": 157,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-336.png",
     "xws": "cspq336"
   },
   {
     "name": "cs-pq-337",
-    "points": 135,
+    "points": 158,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-337.png",
     "xws": "cspq337"
   },
   {
     "name": "experienced leader",
-    "points": 136,
+    "points": 159,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-337.png",
     "xws": "cspq337"
   },
   {
     "name": "cs-pq-338",
-    "points": 137,
+    "points": 160,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-338.png",
     "xws": "cspq338"
   },
   {
     "name": "adrenaline spike",
-    "points": 138,
+    "points": 161,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-338.png",
     "xws": "cspq338"
   },
   {
     "name": "cs-pq-339",
-    "points": 139,
+    "points": 162,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-339.png",
     "xws": "cspq339"
   },
   {
     "name": "mutual support",
-    "points": 140,
+    "points": 163,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-339.png",
     "xws": "cspq339"
   },
   {
     "name": "cs-pq-340",
-    "points": 141,
+    "points": 164,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-340.png",
     "xws": "cspq340"
   },
   {
     "name": "thy be blessed",
-    "points": 142,
+    "points": 165,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-340.png",
     "xws": "cspq340"
   },
   {
     "name": "cs-pq-341",
-    "points": 143,
+    "points": 166,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-341.png",
     "xws": "cspq341"
   },
   {
     "name": "spiritual gains",
-    "points": 144,
+    "points": 167,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-341.png",
     "xws": "cspq341"
   },
   {
     "name": "cs-pq-342",
-    "points": 145,
+    "points": 168,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-342.png",
     "xws": "cspq342"
   },
   {
     "name": "the path of agony",
-    "points": 146,
+    "points": 169,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-342.png",
     "xws": "cspq342"
   },
   {
     "name": "cs-pq-343",
-    "points": 147,
+    "points": 170,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-343.png",
     "xws": "cspq343"
   },
   {
     "name": "the dying of light",
-    "points": 148,
+    "points": 171,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-343.png",
     "xws": "cspq343"
   },
   {
     "name": "cs-pq-344",
-    "points": 149,
+    "points": 172,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-344.png",
     "xws": "cspq344"
   },
   {
     "name": "natural selection",
-    "points": 150,
+    "points": 173,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-344.png",
     "xws": "cspq344"
   },
   {
     "name": "cs-pq-345",
-    "points": 151,
+    "points": 174,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-345.png",
     "xws": "cspq345"
   },
   {
     "name": "predator and prey",
-    "points": 152,
+    "points": 175,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-345.png",
     "xws": "cspq345"
   },
   {
     "name": "cs-pq-346",
-    "points": 153,
+    "points": 176,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-346.png",
     "xws": "cspq346"
   },
   {
     "name": "an adder divides",
-    "points": 154,
+    "points": 177,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-346.png",
     "xws": "cspq346"
   },
   {
     "name": "cs-pq-347",
-    "points": 155,
+    "points": 178,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-347.png",
     "xws": "cspq347"
   },
   {
     "name": "field research",
-    "points": 156,
+    "points": 179,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-347.png",
     "xws": "cspq347"
   },
   {
     "name": "cs-pq-348",
-    "points": 157,
+    "points": 180,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-348.png",
     "xws": "cspq348"
   },
   {
     "name": "conjurers hand",
-    "points": 158,
+    "points": 181,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-348.png",
     "xws": "cspq348"
   },
   {
     "name": "cs-pq-349",
-    "points": 159,
+    "points": 182,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-349.png",
     "xws": "cspq349"
   },
   {
     "name": "no rest for the wicked",
-    "points": 160,
+    "points": 183,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-349.png",
     "xws": "cspq349"
   },
   {
     "name": "cs-pq-350",
-    "points": 161,
+    "points": 184,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-350.png",
     "xws": "cspq350"
   },
   {
     "name": "health first",
-    "points": 162,
+    "points": 185,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-350.png",
     "xws": "cspq350"
   },
   {
     "name": "cs-pq-351",
-    "points": 163,
+    "points": 186,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-351.png",
     "xws": "cspq351"
   },
   {
     "name": "limitless searching",
-    "points": 164,
+    "points": 187,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-351.png",
     "xws": "cspq351"
   },
   {
     "name": "cs-pq-aa-001",
-    "points": 165,
+    "points": 188,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-001.png",
     "xws": "cspqaa001"
   },
   {
     "name": "at all costs",
-    "points": 166,
+    "points": 189,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-001.png",
     "xws": "cspqaa001"
   },
   {
     "name": "cs-pq-aa-002",
-    "points": 167,
+    "points": 190,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-002.png",
     "xws": "cspqaa002"
   },
   {
     "name": "the weight of failure",
-    "points": 168,
+    "points": 191,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-002.png",
     "xws": "cspqaa002"
   },
   {
     "name": "cs-pq-qa-001",
-    "points": 169,
+    "points": 192,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-001.png",
     "xws": "cspqqa001"
   },
   {
     "name": "ingenious inventor",
-    "points": 170,
+    "points": 193,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-001.png",
     "xws": "cspqqa001"
   },
   {
     "name": "cs-pq-qa-002",
-    "points": 171,
+    "points": 194,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-002.png",
     "xws": "cspqqa002"
   },
   {
     "name": "scrap diver",
-    "points": 172,
+    "points": 195,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-002.png",
     "xws": "cspqqa002"
   },
   {
     "name": "cs-pq-rm-001",
-    "points": 173,
+    "points": 196,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-001.png",
     "xws": "cspqrm001"
   },
   {
     "name": "brutal enforcer",
-    "points": 174,
+    "points": 197,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-001.png",
     "xws": "cspqrm001"
   },
   {
     "name": "cs-pq-rm-002",
-    "points": 175,
+    "points": 198,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
     "xws": "cspqrm002"
   },
   {
     "name": "apex predator",
-    "points": 176,
+    "points": 199,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
     "xws": "cspqrm002"
   },
   {
     "name": "toa-pq-back",
-    "points": 177,
+    "points": 200,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-back.png",
     "xws": "toapqback"
   },  
   {
     "name": "toa-pq-641",
-    "points": 178,
+    "points": 201,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
     "xws": "toapq641"
   },
   {
     "name": "grave robber",
-    "points": 179,
+    "points": 202,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
     "xws": "toapq641"
   },
   {
     "name": "toa-pq-642",
-    "points": 180,
+    "points": 203,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
     "xws": "toapq642"
   },
   {
     "name": "stand as one",
-    "points": 181,
+    "points": 204,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
     "xws": "toapq642"
   },
   {
     "name": "toa-pq-643",
-    "points": 182,
+    "points": 205,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
     "xws": "toapq643"
   },
   {
     "name": "false dichotomies",
-    "points": 183,
+    "points": 206,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
     "xws": "toapq643"
   },
   {
     "name": "toa-pq-644",
-    "points": 184,
+    "points": 207,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
     "xws": "toapq644"
   },
   {
     "name": "shared suffering",
-    "points": 185,
+    "points": 208,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
     "xws": "toapq644"
   },
   {
     "name": "toa-pq-645",
-    "points": 186,
+    "points": 209,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
     "xws": "toapq645"
   },
   {
     "name": "speed is king",
-    "points": 187,
+    "points": 210,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
     "xws": "toapq645"
   },
   {
     "name": "toa-pq-646",
-    "points": 188,
+    "points": 211,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
     "xws": "toapq646"
   },
   {
     "name": "resourceful",
-    "points": 189,
+    "points": 212,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
     "xws": "toapq646"
   },
   {
     "name": "toa-pq-647",
-    "points": 190,
+    "points": 213,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
     "xws": "toapq647"
   },
   {
     "name": "close to nature",
-    "points": 191,
+    "points": 214,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
     "xws": "toapq647"
   },
   {
     "name": "toa-pq-648",
-    "points": 192,
+    "points": 215,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
     "xws": "toapq648"
   },
   {
     "name": "in good time",
-    "points": 193,
+    "points": 216,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
     "xws": "toapq648"
