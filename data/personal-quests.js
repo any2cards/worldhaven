@@ -589,15 +589,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-01.png",
     "xws": "fhpq01",
-    "assetno": "501"
+    "assetno": "581"
   },
   {
-    "name": "501",
+    "name": "581",
     "points": 74,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-01.png",
     "xws": "fhpq01",
-    "assetno": "501"
+    "assetno": "581"
   },
   {
     "name": "the study of plants",
@@ -605,7 +605,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-01.png",
     "xws": "thestudyofplants",
-    "assetno": "501"
+    "assetno": "581"
   },
   {
     "name": "fh-pq-02",
@@ -613,15 +613,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-02.png",
     "xws": "fhpq02",
-    "assetno": "502"
+    "assetno": "582"
   },
   {
-    "name": "502",
+    "name": "582",
     "points": 77,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-02.png",
     "xws": "fhpq02",
-    "assetno": "502"
+    "assetno": "582"
   },
   {
     "name": "searching for the oak",
@@ -629,7 +629,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-02.png",
     "xws": "searchingfortheoak",
-    "assetno": "502"
+    "assetno": "582"
   },
   {
     "name": "fh-pq-03",
@@ -637,15 +637,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-03.png",
     "xws": "fhpq03",
-    "assetno": "503"
+    "assetno": "583"
   },
   {
-    "name": "503",
+    "name": "583",
     "points": 80,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-03.png",
     "xws": "fhpq03",
-    "assetno": "503"
+    "assetno": "583"
   },
   {
     "name": "merchant class",
@@ -653,7 +653,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-03.png",
     "xws": "merchantclass",
-    "assetno": "503"
+    "assetno": "583"
   },
   {
     "name": "fh-pq-04",
@@ -661,15 +661,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-04.png",
     "xws": "fhpq04",
-    "assetno": "504"
+    "assetno": "584"
   },
   {
-    "name": "504",
+    "name": "584",
     "points": 83,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-04.png",
     "xws": "fhpq04",
-    "assetno": "504"
+    "assetno": "584"
   },
   {
     "name": "greed is good",
@@ -677,7 +677,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-04.png",
     "xws": "greedisgood",
-    "assetno": "504"
+    "assetno": "584"
   },
   {
     "name": "fh-pq-05",
@@ -685,15 +685,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-05.png",
     "xws": "fhpq05",
-    "assetno": "505"
+    "assetno": "585"
   },
   {
-    "name": "505",
+    "name": "585",
     "points": 86,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-05.png",
     "xws": "fhpq05",
-    "assetno": "505"
+    "assetno": "585"
   },
   {
     "name": "build, not destroy",
@@ -701,7 +701,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-05.png",
     "xws": "buildnotdestroy",
-    "assetno": "505"
+    "assetno": "585"
   },
   {
     "name": "fh-pq-06",
@@ -709,15 +709,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-06.png",
     "xws": "fhpq06",
-    "assetno": "506"
+    "assetno": "586"
   },
   {
-    "name": "506",
+    "name": "586",
     "points": 89,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-06.png",
     "xws": "fhpq06",
-    "assetno": "506"
+    "assetno": "586"
   },
   {
     "name": "team building",
@@ -725,7 +725,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-06.png",
     "xws": "teambuilding",
-    "assetno": "506"
+    "assetno": "586"
   },
   {
     "name": "fh-pq-07",
@@ -733,15 +733,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-07.png",
     "xws": "fhpq07",
-    "assetno": "507"
+    "assetno": "587"
   },
   {
-    "name": "507",
+    "name": "587",
     "points": 92,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-07.png",
     "xws": "fhpq07",
-    "assetno": "507"
+    "assetno": "587"
   },
   {
     "name": "aesther outpost",
@@ -749,7 +749,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-07.png",
     "xws": "aestheroutpost",
-    "assetno": "507"
+    "assetno": "587"
   },
   {
     "name": "fh-pq-08",
@@ -757,15 +757,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-08.png",
     "xws": "fhpq08",
-    "assetno": "508"
+    "assetno": "588"
   },
   {
-    "name": "508",
+    "name": "588",
     "points": 95,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-08.png",
     "xws": "fhpq08",
-    "assetno": "508"
+    "assetno": "588"
   },
   {
     "name": "dangerous game",
@@ -773,7 +773,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-08.png",
     "xws": "dangerousgame",
-    "assetno": "508"
+    "assetno": "588"
   },
   {
     "name": "fh-pq-09",
@@ -781,15 +781,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-09.png",
     "xws": "fhpq09",
-    "assetno": "509"
+    "assetno": "589"
   },
   {
-    "name": "509",
+    "name": "589",
     "points": 98,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-09.png",
     "xws": "fhpq09",
-    "assetno": "509"
+    "assetno": "589"
   },
   {
     "name": "life lessons",
@@ -797,7 +797,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-09.png",
     "xws": "lifelessons",
-    "assetno": "509"
+    "assetno": "589"
   },
   {
     "name": "fh-pq-10",
@@ -805,15 +805,15 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-10.png",
     "xws": "fhpq10",
-    "assetno": "510"
+    "assetno": "590"
   },
   {
-    "name": "510",
+    "name": "590",
     "points": 101,
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-10.png",
     "xws": "fhpq10",
-    "assetno": "510"
+    "assetno": "590"
   },
   {
     "name": "explore the reaches",
@@ -821,7 +821,7 @@
     "expansion": "frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-10.png",
     "xws": "explorethereaches",
-    "assetno": "510"
+    "assetno": "590"
   },
   {
     "name": "fh-pq-11",
