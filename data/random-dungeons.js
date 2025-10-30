@@ -704,703 +704,803 @@
     "assetno": "623"
   },
   {
-    "name": "random dungeon a-back",
+    "name": "a-back",
     "points": 88,
     "expansion": "frosthaven",
     "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-a-back.png",
-    "xws": "randomdungeonaback"
+    "xws": "aback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon ab-back",
+    "name": "ab-back",
     "points": 89,
     "expansion": "frosthaven",
     "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-ab-back.png",
-    "xws": "randomdungeonabback"
+    "xws": "abback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon b-back",
+    "name": "attic",
     "points": 90,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-b-back.png",
-    "xws": "randomdungeonbback"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-attic.png",
+    "xws": "attic",
+    "assetno": "884"
   },
   {
-    "name": "random dungeon 867",
+    "name": "884",
     "points": 91,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tracks.png",
-    "xws": "randomdungeontracks"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-attic.png",
+    "xws": "attic",
+    "assetno": "884"
   },
   {
-    "name": "random dungeon tracks",
+    "name": "b-back",
     "points": 92,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tracks.png",
-    "xws": "randomdungeontracks"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-b-back.png",
+    "xws": "bback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon 868",
+    "name": "cache",
     "points": 93,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-mausoleum.png",
-    "xws": "randomdungeonmausoleum"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-cache.png",
+    "xws": "cache",
+    "assetno": "873"
   },
   {
-    "name": "random dungeon mausoleum",
+    "name": "873",
     "points": 94,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-mausoleum.png",
-    "xws": "randomdungeonmausoleum"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-cache.png",
+    "xws": "cache",
+    "assetno": "873"
   },
   {
-    "name": "random dungeon 869",
+    "name": "core",
     "points": 95,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-volcano.png",
-    "xws": "randomdungeonvolcano"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-core.png",
+    "xws": "core",
+    "assetno": "887"
   },
   {
-    "name": "random dungeon volcano",
+    "name": "887",
     "points": 96,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-volcano.png",
-    "xws": "randomdungeonvolcano"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-core.png",
+    "xws": "core",
+    "assetno": "887"
   },
   {
-    "name": "random dungeon 870",
+    "name": "crater",
     "points": 97,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-factory.png",
-    "xws": "randomdungeonfactory"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crater.png",
+    "xws": "crater",
+    "assetno": "882"
   },
   {
-    "name": "random dungeon factory",
+    "name": "882",
     "points": 98,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-factory.png",
-    "xws": "randomdungeonfactory"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crater.png",
+    "xws": "crater",
+    "assetno": "882"
   },
   {
-    "name": "random dungeon 871",
+    "name": "crevice",
     "points": 99,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-ship.png",
-    "xws": "randomdungeonship"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crevice.png",
+    "xws": "crevice",
+    "assetno": "874"
   },
   {
-    "name": "random dungeon ship",
+    "name": "874",
     "points": 100,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-ship.png",
-    "xws": "randomdungeonship"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crevice.png",
+    "xws": "crevice",
+    "assetno": "874"
   },
   {
-    "name": "random dungeon 872",
+    "name": "dock",
     "points": 101,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tundra.png",
-    "xws": "randomdungeontundra"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-dock.png",
+    "xws": "dock",
+    "assetno": "881"
   },
   {
-    "name": "random dungeon tundra",
+    "name": "881",
     "points": 102,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tundra.png",
-    "xws": "randomdungeontundra"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-dock.png",
+    "xws": "dock",
+    "assetno": "881"
   },
   {
-    "name": "random dungeon 873",
+    "name": "entryway",
     "points": 103,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-cache.png",
-    "xws": "randomdungeoncache"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-entryway.png",
+    "xws": "entryway",
+    "assetno": "880"
   },
   {
-    "name": "random dungeon cache",
+    "name": "880",
     "points": 104,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-cache.png",
-    "xws": "randomdungeoncache"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-entryway.png",
+    "xws": "entryway",
+    "assetno": "880"
   },
   {
-    "name": "random dungeon 874",
+    "name": "factory",
     "points": 105,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crevice.png",
-    "xws": "randomdungeoncrevice"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-factory.png",
+    "xws": "factory",
+    "assetno": "870"
   },
   {
-    "name": "random dungeon crevice",
+    "name": "870",
     "points": 106,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crevice.png",
-    "xws": "randomdungeoncrevice"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-factory.png",
+    "xws": "factory",
+    "assetno": "870"
   },
   {
-    "name": "random dungeon 875",
+    "name": "foyer",
     "points": 107,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-plant.png",
-    "xws": "randomdungeonplant"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-foyer.png",
+    "xws": "foyer",
+    "assetno": "883"
   },
   {
-    "name": "random dungeon plant",
+    "name": "883",
     "points": 108,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-plant.png",
-    "xws": "randomdungeonplant"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-foyer.png",
+    "xws": "foyer",
+    "assetno": "883"
   },
   {
-    "name": "random dungeon 876",
+    "name": "hollow",
     "points": 109,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-valley.png",
-    "xws": "randomdungeonvalley"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-hollow.png",
+    "xws": "hollow",
+    "assetno": "888"
   },
   {
-    "name": "random dungeon valley",
+    "name": "888",
     "points": 110,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-valley.png",
-    "xws": "randomdungeonvalley"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-hollow.png",
+    "xws": "hollow",
+    "assetno": "888"
   },
   {
-    "name": "random dungeon 877",
+    "name": "iceberg",
     "points": 111,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-parapet.png",
-    "xws": "randomdungeonparapet"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-iceberg.png",
+    "xws": "iceberg",
+    "assetno": "879"
   },
   {
-    "name": "random dungeon parapet",
+    "name": "879",
     "points": 112,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-parapet.png",
-    "xws": "randomdungeonparapet"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-iceberg.png",
+    "xws": "iceberg",
+    "assetno": "879"
   },
   {
-    "name": "random dungeon 878",
+    "name": "mausoleum",
     "points": 113,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-station.png",
-    "xws": "randomdungeonstation"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-mausoleum.png",
+    "xws": "mausoleum",
+    "assetno": "868"
   },
   {
-    "name": "random dungeon station",
+    "name": "868",
     "points": 114,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-station.png",
-    "xws": "randomdungeonstation"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-mausoleum.png",
+    "xws": "mausoleum",
+    "assetno": "868"
   },
   {
-    "name": "random dungeon 879",
+    "name": "parapet",
     "points": 115,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-iceberg.png",
-    "xws": "randomdungeoniceberg"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-parapet.png",
+    "xws": "parapet",
+    "assetno": "877"
   },
   {
-    "name": "random dungeon iceberg",
+    "name": "877",
     "points": 116,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-iceberg.png",
-    "xws": "randomdungeoniceberg"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-parapet.png",
+    "xws": "parapet",
+    "assetno": "877"
   },
   {
-    "name": "random dungeon 880",
+    "name": "pit",
     "points": 117,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-entryway.png",
-    "xws": "randomdungeonentryway"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-pit.png",
+    "xws": "pit",
+    "assetno": "886"
   },
   {
-    "name": "random dungeon entryway",
+    "name": "886",
     "points": 118,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-entryway.png",
-    "xws": "randomdungeonentryway"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-pit.png",
+    "xws": "pit",
+    "assetno": "886"
   },
   {
-    "name": "random dungeon 881",
+    "name": "plant",
     "points": 119,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-dock.png",
-    "xws": "randomdungeondock"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-plant.png",
+    "xws": "plant",
+    "assetno": "875"
   },
   {
-    "name": "random dungeon dock",
+    "name": "875",
     "points": 120,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-dock.png",
-    "xws": "randomdungeondock"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-plant.png",
+    "xws": "plant",
+    "assetno": "875"
   },
   {
-    "name": "random dungeon 882",
+    "name": "platform",
     "points": 121,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crater.png",
-    "xws": "randomdungeoncrater"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-platform.png",
+    "xws": "platform",
+    "assetno": "885"
   },
   {
-    "name": "random dungeon crater",
+    "name": "885",
     "points": 122,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-crater.png",
-    "xws": "randomdungeoncrater"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-platform.png",
+    "xws": "platform",
+    "assetno": "885"
   },
   {
-    "name": "random dungeon 883",
+    "name": "ship",
     "points": 123,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-foyer.png",
-    "xws": "randomdungeonfoyer"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-ship.png",
+    "xws": "ship",
+    "assetno": "871"
   },
   {
-    "name": "random dungeon foyer",
+    "name": "871",
     "points": 124,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-foyer.png",
-    "xws": "randomdungeonfoyer"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-ship.png",
+    "xws": "ship",
+    "assetno": "871"
   },
   {
-    "name": "random dungeon 884",
+    "name": "station",
     "points": 125,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-attic.png",
-    "xws": "randomdungeonattic"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-station.png",
+    "xws": "station",
+    "assetno": "878"
   },
   {
-    "name": "random dungeon attic",
+    "name": "878",
     "points": 126,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-attic.png",
-    "xws": "randomdungeonattic"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-station.png",
+    "xws": "station",
+    "assetno": "878"
   },
   {
-    "name": "random dungeon 885",
+    "name": "tracks",
     "points": 127,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-platform.png",
-    "xws": "randomdungeonplatform"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tracks.png",
+    "xws": "tracks",
+    "assetno": "867"
   },
   {
-    "name": "random dungeon platform",
+    "name": "867",
     "points": 128,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-platform.png",
-    "xws": "randomdungeonplatform"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tracks.png",
+    "xws": "tracks",
+    "assetno": "867"
   },
   {
-    "name": "random dungeon 886",
+    "name": "tundra",
     "points": 129,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-pit.png",
-    "xws": "randomdungeonpit"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tundra.png",
+    "xws": "tundra",
+    "assetno": "872"
   },
   {
-    "name": "random dungeon pit",
+    "name": "872",
     "points": 130,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-pit.png",
-    "xws": "randomdungeonpit"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-tundra.png",
+    "xws": "tundra",
+    "assetno": "872"
   },
   {
-    "name": "random dungeon 887",
+    "name": "valley",
     "points": 131,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-core.png",
-    "xws": "randomdungeoncore"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-valley.png",
+    "xws": "valley",
+    "assetno": "876"
   },
   {
-    "name": "random dungeon core",
+    "name": "876",
     "points": 132,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-core.png",
-    "xws": "randomdungeoncore"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-valley.png",
+    "xws": "valley",
+    "assetno": "876"
   },
   {
-    "name": "random dungeon 888",
+    "name": "volcano",
     "points": 133,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-hollow.png",
-    "xws": "randomdungeonhollow"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-volcano.png",
+    "xws": "volcano",
+    "assetno": "869"
   },
   {
-    "name": "random dungeon hollow",
+    "name": "869",
     "points": 134,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-hollow.png",
-    "xws": "randomdungeonhollow"
+    "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-volcano.png",
+    "xws": "volcano",
+    "assetno": "869"
   },
   {
-    "name": "random dungeon 889",
+    "name": "warehouse",
     "points": 135,
     "expansion": "frosthaven",
     "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-warehouse.png",
-    "xws": "randomdungeonwarehouse"
+    "xws": "warehouse",
+    "assetno": "889"
   },
   {
-    "name": "random dungeon warehouse",
+    "name": "889",
     "points": 136,
     "expansion": "frosthaven",
     "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-warehouse.png",
-    "xws": "randomdungeonwarehouse"
+    "xws": "warehouse",
+    "assetno": "889"
   },
   {
-    "name": "random dungeon 890",
+    "name": "wasteland",
     "points": 137,
     "expansion": "frosthaven",
     "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-wasteland.png",
-    "xws": "randomdungeonwasteland"
+    "xws": "wasteland",
+    "assetno": "890"
   },
   {
-    "name": "random dungeon wasteland",
+    "name": "890",
     "points": 138,
     "expansion": "frosthaven",
     "image": "random-dungeons/frosthaven/dungeons/fh-dungeon-wasteland.png",
-    "xws": "randomdungeonwasteland"
+    "xws": "wasteland",
+    "assetno": "890"
   },
   {
-    "name": "random dungeon monster-back",
+    "name": "abandoned",
     "points": 139,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-monster-back.png",
-    "xws": "randomdungeonmonsterback"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-abandoned.png",
+    "xws": "abandoned",
+    "assetno": "904"
   },
   {
-    "name": "random dungeon 891",
+    "name": "904",
     "points": 140,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-smashing.png",
-    "xws": "randomdungeonsmashing"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-abandoned.png",
+    "xws": "abandoned",
+    "assetno": "904"
   },
   {
-    "name": "random dungeon smashing",
+    "name": "bleak",
     "points": 141,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-smashing.png",
-    "xws": "randomdungeonsmashing"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-bleak.png",
+    "xws": "bleak",
+    "assetno": "898"
   },
   {
-    "name": "random dungeon 892",
+    "name": "898",
     "points": 142,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-stormy.png",
-    "xws": "randomdungeonstormy"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-bleak.png",
+    "xws": "bleak",
+    "assetno": "898"
   },
   {
-    "name": "random dungeon stormy",
+    "name": "daunting",
     "points": 143,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-stormy.png",
-    "xws": "randomdungeonstormy"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-daunting.png",
+    "xws": "daunting",
+    "assetno": "903"
   },
   {
-    "name": "random dungeon 893",
+    "name": "903",
     "points": 144,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-territorial.png",
-    "xws": "randomdungeonterritorial"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-daunting.png",
+    "xws": "daunting",
+    "assetno": "903"
   },
   {
-    "name": "random dungeon territorial",
+    "name": "decayed",
     "points": 145,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-territorial.png",
-    "xws": "randomdungeonterritorial"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-decayed.png",
+    "xws": "decayed",
+    "assetno": "900"
   },
   {
-    "name": "random dungeon 894",
+    "name": "900",
     "points": 146,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-feral.png",
-    "xws": "randomdungeonferal"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-decayed.png",
+    "xws": "decayed",
+    "assetno": "900"
   },
   {
-    "name": "random dungeon feral",
+    "name": "dirty",
     "points": 147,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-feral.png",
-    "xws": "randomdungeonferal"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-dirty.png",
+    "xws": "dirty",
+    "assetno": "910"
   },
   {
-    "name": "random dungeon 895",
+    "name": "910",
     "points": 148,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-tamed.png",
-    "xws": "randomdungeontamed"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-dirty.png",
+    "xws": "dirty",
+    "assetno": "910"
   },
   {
-    "name": "random dungeon tamed",
+    "name": "domesticated",
     "points": 149,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-tamed.png",
-    "xws": "randomdungeontamed"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-domesticated.png",
+    "xws": "domesticated",
+    "assetno": "901"
   },
   {
-    "name": "random dungeon 896",
+    "name": "901",
     "points": 150,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-swarming.png",
-    "xws": "randomdungeonswarming"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-domesticated.png",
+    "xws": "domesticated",
+    "assetno": "901"
   },
   {
-    "name": "random dungeon swarming",
+    "name": "feral",
     "points": 151,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-swarming.png",
-    "xws": "randomdungeonswarming"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-feral.png",
+    "xws": "feral",
+    "assetno": "894"
   },
   {
-    "name": "random dungeon 897",
+    "name": "894",
     "points": 152,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-traitorous.png",
-    "xws": "randomdungeontraitorous"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-feral.png",
+    "xws": "feral",
+    "assetno": "894"
   },
   {
-    "name": "random dungeon traitorous",
+    "name": "grave",
     "points": 153,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-traitorous.png",
-    "xws": "randomdungeontraitorous"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-grave.png",
+    "xws": "grave",
+    "assetno": "911"
   },
   {
-    "name": "random dungeon 898",
+    "name": "911",
     "points": 154,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-bleak.png",
-    "xws": "randomdungeonbleak"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-grave.png",
+    "xws": "grave",
+    "assetno": "911"
   },
   {
-    "name": "random dungeon bleak",
+    "name": "luminous",
     "points": 155,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-bleak.png",
-    "xws": "randomdungeonbleak"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-luminous.png",
+    "xws": "luminous",
+    "assetno": "912"
   },
   {
-    "name": "random dungeon 899",
+    "name": "912",
     "points": 156,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-sapping.png",
-    "xws": "randomdungeonsapping"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-luminous.png",
+    "xws": "luminous",
+    "assetno": "912"
   },
   {
-    "name": "random dungeon sapping",
+    "name": "monster-back",
     "points": 157,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-sapping.png",
-    "xws": "randomdungeonsapping"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-monster-back.png",
+    "xws": "monsterback",
+    "assetno": "###"
   },
   {
-    "name": "random dungeon 900",
+    "name": "reinforced",
     "points": 158,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-decayed.png",
-    "xws": "randomdungeondecayed"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-reinforced.png",
+    "xws": "reinforced",
+    "assetno": "905"
   },
   {
-    "name": "random dungeon decayed",
+    "name": "905",
     "points": 159,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-decayed.png",
-    "xws": "randomdungeondecayed"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-reinforced.png",
+    "xws": "reinforced",
+    "assetno": "905"
   },
   {
-    "name": "random dungeon 901",
+    "name": "rusted",
     "points": 160,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-domesticated.png",
-    "xws": "randomdungeondomesticated"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-rusted.png",
+    "xws": "rusted",
+    "assetno": "906"
   },
   {
-    "name": "random dungeon domesticated",
+    "name": "906",
     "points": 161,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-domesticated.png",
-    "xws": "randomdungeondomesticated"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-rusted.png",
+    "xws": "rusted",
+    "assetno": "906"
   },
   {
-    "name": "random dungeon 902",
+    "name": "sapping",
     "points": 162,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-thrashing.png",
-    "xws": "randomdungeonthrashing"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-sapping.png",
+    "xws": "sapping",
+    "assetno": "899"
   },
   {
-    "name": "random dungeon thrashing",
+    "name": "899",
     "points": 163,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-thrashing.png",
-    "xws": "randomdungeonthrashing"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-sapping.png",
+    "xws": "sapping",
+    "assetno": "899"
   },
   {
-    "name": "random dungeon 903",
+    "name": "scorching",
     "points": 164,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-daunting.png",
-    "xws": "randomdungeondaunting"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-scorching.png",
+    "xws": "scorching",
+    "assetno": "913"
   },
   {
-    "name": "random dungeon daunting",
+    "name": "913",
     "points": 165,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-daunting.png",
-    "xws": "randomdungeondaunting"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-scorching.png",
+    "xws": "scorching",
+    "assetno": "913"
   },
   {
-    "name": "random dungeon 904",
+    "name": "segmented",
     "points": 166,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-abandoned.png",
-    "xws": "randomdungeonabandoned"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-segmented.png",
+    "xws": "segmented",
+    "assetno": "909"
   },
   {
-    "name": "random dungeon abandoned",
+    "name": "909",
     "points": 167,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-abandoned.png",
-    "xws": "randomdungeonabandoned"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-segmented.png",
+    "xws": "segmented",
+    "assetno": "909"
   },
   {
-    "name": "random dungeon 905",
+    "name": "smashing",
     "points": 168,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-reinforced.png",
-    "xws": "randomdungeonreinforced"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-smashing.png",
+    "xws": "smashing",
+    "assetno": "891"
   },
   {
-    "name": "random dungeon reinforced",
+    "name": "891",
     "points": 169,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-reinforced.png",
-    "xws": "randomdungeonreinforced"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-smashing.png",
+    "xws": "smashing",
+    "assetno": "891"
   },
   {
-    "name": "random dungeon 906",
+    "name": "stormy",
     "points": 170,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-rusted.png",
-    "xws": "randomdungeonrusted"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-stormy.png",
+    "xws": "stormy",
+    "assetno": "892"
   },
   {
-    "name": "random dungeon rusted",
+    "name": "892",
     "points": 171,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-rusted.png",
-    "xws": "randomdungeonrusted"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-stormy.png",
+    "xws": "stormy",
+    "assetno": "892"
   },
   {
-    "name": "random dungeon 907",
+    "name": "swarming",
     "points": 172,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-unsettling.png",
-    "xws": "randomdungeonunsettling"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-swarming.png",
+    "xws": "swarming",
+    "assetno": "896"
   },
   {
-    "name": "random dungeon unsettling",
+    "name": "896",
     "points": 173,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-unsettling.png",
-    "xws": "randomdungeonunsettling"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-swarming.png",
+    "xws": "swarming",
+    "assetno": "896"
   },
   {
-    "name": "random dungeon 908",
+    "name": "swift",
     "points": 174,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-taloned.png",
-    "xws": "randomdungeontaloned"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-swift.png",
+    "xws": "swift",
+    "assetno": "914"
   },
   {
-    "name": "random dungeon taloned",
+    "name": "914",
     "points": 175,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-taloned.png",
-    "xws": "randomdungeontaloned"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-swift.png",
+    "xws": "swift",
+    "assetno": "914"
   },
   {
-    "name": "random dungeon 909",
+    "name": "taloned",
     "points": 176,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-segmented.png",
-    "xws": "randomdungeonsegmented"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-taloned.png",
+    "xws": "taloned",
+    "assetno": "908"
   },
   {
-    "name": "random dungeon segmented",
+    "name": "908",
     "points": 177,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-segmented.png",
-    "xws": "randomdungeonsegmented"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-taloned.png",
+    "xws": "taloned",
+    "assetno": "908"
   },
   {
-    "name": "random dungeon 910",
+    "name": "tamed",
     "points": 178,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-dirty.png",
-    "xws": "randomdungeondirty"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-tamed.png",
+    "xws": "tamed",
+    "assetno": "895"
   },
   {
-    "name": "random dungeon dirty",
+    "name": "895",
     "points": 179,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-dirty.png",
-    "xws": "randomdungeondirty"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-tamed.png",
+    "xws": "tamed",
+    "assetno": "895"
   },
   {
-    "name": "random dungeon 911",
+    "name": "territorial",
     "points": 180,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-grave.png",
-    "xws": "randomdungeongrave"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-territorial.png",
+    "xws": "territorial",
+    "assetno": "893"
   },
   {
-    "name": "random dungeon grave",
+    "name": "893",
     "points": 181,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-grave.png",
-    "xws": "randomdungeongrave"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-territorial.png",
+    "xws": "territorial",
+    "assetno": "893"
   },
   {
-    "name": "random dungeon 912",
+    "name": "thrashing",
     "points": 182,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-luminous.png",
-    "xws": "randomdungeonluminous"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-thrashing.png",
+    "xws": "thrashing",
+    "assetno": "902"
   },
   {
-    "name": "random dungeon luminous",
+    "name": "902",
     "points": 183,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-luminous.png",
-    "xws": "randomdungeonluminous"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-thrashing.png",
+    "xws": "thrashing",
+    "assetno": "902"
   },
   {
-    "name": "random dungeon 913",
+    "name": "traitorous",
     "points": 184,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-scorching.png",
-    "xws": "randomdungeonscorching"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-traitorous.png",
+    "xws": "traitorous",
+    "assetno": "897"
   },
   {
-    "name": "random dungeon scorching",
+    "name": "897",
     "points": 185,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-scorching.png",
-    "xws": "randomdungeonscorching"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-traitorous.png",
+    "xws": "traitorous",
+    "assetno": "897"
   },
   {
-    "name": "random dungeon 914",
+    "name": "unsettling",
     "points": 186,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-swift.png",
-    "xws": "randomdungeonswift"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-unsettling.png",
+    "xws": "unsettling",
+    "assetno": "907"
   },
   {
-    "name": "random dungeon swift",
+    "name": "907",
     "points": 187,
     "expansion": "frosthaven",
-    "image": "random-dungeons/frosthaven/monsters/fh-monster-swift.png",
-    "xws": "randomdungeonswift"
+    "image": "random-dungeons/frosthaven/monsters/fh-monster-unsettling.png",
+    "xws": "unsettling",
+    "assetno": "907"
   }
 ]
