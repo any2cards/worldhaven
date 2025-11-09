@@ -2291,7 +2291,8 @@
     "name": "frosthaven map",
     "points": 286,
     "expansion": "frosthaven",
-    "image": "world-map/frosthaven/fh-frosthaven-map.png",
-    "xws": "frosthavenmap"
+    "image": "world-map/frosthaven/fh-frosthaven map.png",
+    "xws": "frosthavenmap",
+    "assetno": "###"
   }
 ]
