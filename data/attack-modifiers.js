@@ -23685,15 +23685,15 @@
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-05.png",
     "xws": "csamho05",
-    "assetno": "108"
+    "assetno": "109"
   },
   {
-    "name": "108",
+    "name": "109",
     "points": 2961,
     "expansion": "crimson scales",
     "image": "attack-modifiers/crimson-scales/ho/cs-am-ho-05.png",
     "xws": "csamho05",
-    "assetno": "108"
+    "assetno": "109"
   },
   {
     "name": "cs-am-ho-06",

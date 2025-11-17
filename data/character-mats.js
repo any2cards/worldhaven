@@ -1104,14 +1104,14 @@
     "xws": "brightspark"
   },
   {
-    "name": "chained helmet",
+    "name": "chainguard",
     "points": 140,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chainguard.png",
     "xws": "chainguard"
   },
   {
-    "name": "chained helmet",
+    "name": "chainguard",
     "points": 141,
     "expansion": "crimson scales",
     "image": "character-mats/crimson-scales/cs-chainguard-back.png",
