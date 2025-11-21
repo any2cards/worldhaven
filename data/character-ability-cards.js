@@ -28773,15 +28773,15 @@
     "assetno": "011"
   },
   {
-    "name": "rockspine termite            011",
+    "name": "rockspine termite",
     "points": 2616,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-shelter-the-nest.png",
-    "xws": "rockspinetermite011",
+    "xws": "rockspinetermite",
     "level": "1",
     "initiative": "16",
     "character-xws": "amber aegis",
-    "assetno": "6"
+    "assetno": "011"
   },
   {
     "name": "stalk the prey",
@@ -36946,11 +36946,11 @@
     "assetno": "276"
   },
   {
-    "name": "skeleton archer",
+    "name": "skeletal archer",
     "points": 3359,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horde-of-bones.png",
-    "xws": "skeletonarcher",
+    "xws": "skeletalarcher",
     "level": "1",
     "initiative": "79",
     "character-xws": "spirit caller",
