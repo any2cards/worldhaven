@@ -28129,10 +28129,10 @@
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-aa-back.png",
     "xws": "aaback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "amber aegis"
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "amber aegis",
+    "assetno": "###"
   },
   {
     "name": "alate dispersion",
@@ -28142,5347 +28142,9945 @@
     "xws": "alatedispersion",
     "level": "4",
     "initiative": "58",
-    "cardno": "aa-022",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "022"
   },
   {
-    "name": "rockspine termite",
+    "name": "022",
     "points": 2559,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-alate-dispersion.png",
     "xws": "alatedispersion",
     "level": "4",
     "initiative": "58",
-    "cardno": "aa-022",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "022"
+  },
+  {
+    "name": "rockspine termite",
+    "points": 2560,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-alate-dispersion.png",
+    "xws": "rockspinetermite",
+    "level": "4",
+    "initiative": "58",
+    "character-xws": "amber aegis",
+    "assetno": "022"
   },
   {
     "name": "anti-venom",
-    "points": 2560,
+    "points": 2561,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-anti-venom.png",
     "xws": "antivenom",
     "level": "1",
     "initiative": "73",
-    "cardno": "aa-009",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "009"
+  },
+  {
+    "name": "009",
+    "points": 2562,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-anti-venom.png",
+    "xws": "antivenom",
+    "level": "1",
+    "initiative": "73",
+    "character-xws": "amber aegis",
+    "assetno": "009"
   },
   {
     "name": "assimilate adversaries",
-    "points": 2561,
+    "points": 2563,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-assimilate-adversaries.png",
     "xws": "assimilateadversaries",
     "level": "6",
     "initiative": "50",
-    "cardno": "aa-025",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "025"
+  },
+  {
+    "name": "025",
+    "points": 2564,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-assimilate-adversaries.png",
+    "xws": "assimilateadversaries",
+    "level": "6",
+    "initiative": "50",
+    "character-xws": "amber aegis",
+    "assetno": "025"
   },
   {
     "name": "birthing chambers",
-    "points": 2562,
+    "points": 2565,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-birthing-chambers.png",
     "xws": "birthingchambers",
     "level": "5",
     "initiative": "61",
-    "cardno": "aa-023",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "023"
+  },
+  {
+    "name": "023",
+    "points": 2566,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-birthing-chambers.png",
+    "xws": "birthingchambers",
+    "level": "5",
+    "initiative": "61",
+    "character-xws": "amber aegis",
+    "assetno": "023"
   },
   {
     "name": "ghostshimmer bee",
-    "points": 2563,
+    "points": 2567,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-birthing-chambers.png",
-    "xws": "birthingchambers",
+    "xws": "ghostshimmerbee",
     "level": "5",
     "initiative": "61",
-    "cardno": "aa-023",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "023"
   },
   {
     "name": "burning stingers",
-    "points": 2564,
+    "points": 2568,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-burning-stingers.png",
     "xws": "burningstingers",
     "level": "1",
     "initiative": "73",
-    "cardno": "aa-008",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "008"
+  },
+  {
+    "name": "008",
+    "points": 2569,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-burning-stingers.png",
+    "xws": "burningstingers",
+    "level": "1",
+    "initiative": "73",
+    "character-xws": "amber aegis",
+    "assetno": "008"
   },
   {
     "name": "burrow under",
-    "points": 2565,
+    "points": 2570,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-burrow-under.png",
     "xws": "burrowunder",
     "level": "5",
     "initiative": "22",
-    "cardno": "aa-024",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "024"
+  },
+  {
+    "name": "024",
+    "points": 2571,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-burrow-under.png",
+    "xws": "burrowunder",
+    "level": "5",
+    "initiative": "22",
+    "character-xws": "amber aegis",
+    "assetno": "024"
   },
   {
     "name": "clad in spikes",
-    "points": 2566,
+    "points": 2572,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-clad-in-spikes.png",
     "xws": "cladinspikes",
     "level": "2",
     "initiative": "12",
-    "cardno": "aa-017",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "017"
+  },
+  {
+    "name": "017",
+    "points": 2573,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-clad-in-spikes.png",
+    "xws": "cladinspikes",
+    "level": "2",
+    "initiative": "12",
+    "character-xws": "amber aegis",
+    "assetno": "017"
   },
   {
     "name": "coordinated infestation",
-    "points": 2567,
+    "points": 2574,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-coordinated-infestation.png",
     "xws": "coordinatedinfestation",
     "level": "8",
     "initiative": "45",
-    "cardno": "aa-029",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "029"
+  },
+  {
+    "name": "029",
+    "points": 2575,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-coordinated-infestation.png",
+    "xws": "coordinatedinfestation",
+    "level": "8",
+    "initiative": "45",
+    "character-xws": "amber aegis",
+    "assetno": "029"
   },
   {
     "name": "corrosive spittle",
-    "points": 2568,
+    "points": 2576,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-corrosive-spittle.png",
     "xws": "corrosivespittle",
     "level": "1",
     "initiative": "45",
-    "cardno": "aa-007",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "007"
+  },
+  {
+    "name": "007",
+    "points": 2577,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-corrosive-spittle.png",
+    "xws": "corrosivespittle",
+    "level": "1",
+    "initiative": "45",
+    "character-xws": "amber aegis",
+    "assetno": "007"
   },
   {
     "name": "divide and conquer",
-    "points": 2569,
+    "points": 2578,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-divide-and-conquer.png",
     "xws": "divideandconquer",
     "level": "9",
     "initiative": "97",
-    "cardno": "aa-031",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "031"
+  },
+  {
+    "name": "031",
+    "points": 2579,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-divide-and-conquer.png",
+    "xws": "divideandconquer",
+    "level": "9",
+    "initiative": "97",
+    "character-xws": "amber aegis",
+    "assetno": "031"
   },
   {
     "name": "beta aegis",
-    "points": 2570,
+    "points": 2580,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-divide-and-conquer.png",
-    "xws": "divideandconquer",
+    "xws": "betaaegis",
     "level": "9",
     "initiative": "97",
-    "cardno": "aa-031",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "031"
   },
   {
     "name": "encasing webs",
-    "points": 2571,
+    "points": 2581,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-encasing-webs.png",
     "xws": "encasingwebs",
     "level": "1",
     "initiative": "33",
-    "cardno": "aa-003",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "003"
+  },
+  {
+    "name": "003",
+    "points": 2582,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-encasing-webs.png",
+    "xws": "encasingwebs",
+    "level": "1",
+    "initiative": "33",
+    "character-xws": "amber aegis",
+    "assetno": "003"
   },
   {
     "name": "erupting mandibles",
-    "points": 2572,
+    "points": 2583,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-erupting-mandibles.png",
     "xws": "eruptingmandibles",
     "level": "8",
     "initiative": "54",
-    "cardno": "aa-030",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "030"
+  },
+  {
+    "name": "030",
+    "points": 2584,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-erupting-mandibles.png",
+    "xws": "eruptingmandibles",
+    "level": "8",
+    "initiative": "54",
+    "character-xws": "amber aegis",
+    "assetno": "030"
   },
   {
     "name": "ferocious proliferation",
-    "points": 2573,
+    "points": 2585,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-ferocious-proliferation.png",
     "xws": "ferociousproliferation",
     "level": "4",
     "initiative": "58",
-    "cardno": "aa-021",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "021"
+  },
+  {
+    "name": "021",
+    "points": 2586,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-ferocious-proliferation.png",
+    "xws": "ferociousproliferation",
+    "level": "4",
+    "initiative": "58",
+    "character-xws": "amber aegis",
+    "assetno": "021"
   },
   {
     "name": "firespitter ant",
-    "points": 2574,
+    "points": 2587,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-ferocious-proliferation.png",
-    "xws": "ferociousproliferation",
+    "xws": "firespitterant",
     "level": "4",
     "initiative": "58",
-    "cardno": "aa-021",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "021"
   },
   {
     "name": "frantic migration",
-    "points": 2575,
+    "points": 2588,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-frantic-migration.png",
     "xws": "franticmigration",
     "level": "6",
     "initiative": "08",
-    "cardno": "aa-026",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "026"
+  },
+  {
+    "name": "026",
+    "points": 2589,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-frantic-migration.png",
+    "xws": "franticmigration",
+    "level": "6",
+    "initiative": "08",
+    "character-xws": "amber aegis",
+    "assetno": "026"
   },
   {
     "name": "horned carapace",
-    "points": 2576,
+    "points": 2590,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-horned-carapace.png",
     "xws": "hornedcarapace",
     "level": "1",
     "initiative": "26",
-    "cardno": "aa-004",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "004"
+  },
+  {
+    "name": "004",
+    "points": 2591,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-horned-carapace.png",
+    "xws": "hornedcarapace",
+    "level": "1",
+    "initiative": "26",
+    "character-xws": "amber aegis",
+    "assetno": "004"
   },
   {
     "name": "lacerating horde",
-    "points": 2577,
+    "points": 2592,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-lacerating-horde.png",
     "xws": "laceratinghorde",
     "level": "7",
     "initiative": "22",
-    "cardno": "aa-028",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "028"
+  },
+  {
+    "name": "028",
+    "points": 2593,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-lacerating-horde.png",
+    "xws": "laceratinghorde",
+    "level": "7",
+    "initiative": "22",
+    "character-xws": "amber aegis",
+    "assetno": "028"
   },
   {
     "name": "maddening chatter",
-    "points": 2578,
+    "points": 2594,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-maddening-chatter.png",
     "xws": "maddeningchatter",
     "level": "3",
     "initiative": "29",
-    "cardno": "aa-019",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "019"
+  },
+  {
+    "name": "019",
+    "points": 2595,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-maddening-chatter.png",
+    "xws": "maddeningchatter",
+    "level": "3",
+    "initiative": "29",
+    "character-xws": "amber aegis",
+    "assetno": "019"
   },
   {
     "name": "march of multitudes",
-    "points": 2579,
+    "points": 2596,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-march-of-multitudes.png",
     "xws": "marchofmultitudes",
     "level": "x",
     "initiative": "37",
-    "cardno": "aa-015",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "015"
+  },
+  {
+    "name": "015",
+    "points": 2597,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-march-of-multitudes.png",
+    "xws": "marchofmultitudes",
+    "level": "x",
+    "initiative": "37",
+    "character-xws": "amber aegis",
+    "assetno": "015"
   },
   {
     "name": "nurture the weak",
-    "points": 2580,
+    "points": 2598,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-nurture-the-weak.png",
     "xws": "nurturetheweak",
     "level": "1",
     "initiative": "20",
-    "cardno": "aa-010",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "010"
+  },
+  {
+    "name": "010",
+    "points": 2599,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-nurture-the-weak.png",
+    "xws": "nurturetheweak",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "amber aegis",
+    "assetno": "010"
   },
   {
     "name": "overwhelming swarm",
-    "points": 2581,
+    "points": 2600,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-overwhelming-swarm.png",
     "xws": "overwhelmingswarm",
     "level": "x",
     "initiative": "44",
-    "cardno": "aa-014",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "014"
+  },
+  {
+    "name": "014",
+    "points": 2601,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-overwhelming-swarm.png",
+    "xws": "overwhelmingswarm",
+    "level": "x",
+    "initiative": "44",
+    "character-xws": "amber aegis",
+    "assetno": "014"
   },
   {
     "name": "primal pheromones",
-    "points": 2582,
+    "points": 2602,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-primal-pheromones.png",
     "xws": "primalpheromones",
     "level": "x",
     "initiative": "92",
-    "cardno": "aa-016",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "016"
+  },
+  {
+    "name": "016",
+    "points": 2603,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-primal-pheromones.png",
+    "xws": "primalpheromones",
+    "level": "x",
+    "initiative": "92",
+    "character-xws": "amber aegis",
+    "assetno": "016"
   },
   {
     "name": "repel intruders",
-    "points": 2583,
+    "points": 2604,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-repel-intruders.png",
     "xws": "repelintruders",
     "level": "1",
     "initiative": "36",
-    "cardno": "aa-013",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "013"
+  },
+  {
+    "name": "013",
+    "points": 2605,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-repel-intruders.png",
+    "xws": "repelintruders",
+    "level": "1",
+    "initiative": "36",
+    "character-xws": "amber aegis",
+    "assetno": "013"
   },
   {
     "name": "firespitter ant",
-    "points": 2584,
+    "points": 2606,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-repel-intruders.png",
-    "xws": "repelintruders",
+    "xws": "firespitterant",
     "level": "1",
     "initiative": "36",
-    "cardno": "aa-013",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "013"
   },
   {
     "name": "retribution of the hive",
-    "points": 2585,
+    "points": 2607,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-retribution-of-the-hive.png",
     "xws": "retributionofthehive",
     "level": "1",
     "initiative": "16",
-    "cardno": "aa-005",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "005"
+  },
+  {
+    "name": "005",
+    "points": 2608,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-retribution-of-the-hive.png",
+    "xws": "retributionofthehive",
+    "level": "1",
+    "initiative": "16",
+    "character-xws": "amber aegis",
+    "assetno": "005"
   },
   {
     "name": "seek nourishment",
-    "points": 2586,
+    "points": 2609,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-seek-nourishment.png",
     "xws": "seeknourishment",
     "level": "1",
     "initiative": "24",
-    "cardno": "aa-012",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "012"
+  },
+  {
+    "name": "012",
+    "points": 2610,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-seek-nourishment.png",
+    "xws": "seeknourishment",
+    "level": "1",
+    "initiative": "24",
+    "character-xws": "amber aegis",
+    "assetno": "012"
   },
   {
     "name": "ghostshimmer bee",
-    "points": 2587,
+    "points": 2611,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-seek-nourishment.png",
-    "xws": "seeknourishment",
+    "xws": "ghostshimmerbee",
     "level": "1",
     "initiative": "24",
-    "cardno": "aa-012",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "012"
   },
   {
     "name": "sentry swarm",
-    "points": 2588,
+    "points": 2612,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-sentry-swarm.png",
     "xws": "sentryswarm",
     "level": "1",
     "initiative": "07",
-    "cardno": "aa-006",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "006"
+  },
+  {
+    "name": "006",
+    "points": 2613,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-sentry-swarm.png",
+    "xws": "sentryswarm",
+    "level": "1",
+    "initiative": "07",
+    "character-xws": "amber aegis",
+    "assetno": "006"
   },
   {
     "name": "shelter the nest",
-    "points": 2589,
+    "points": 2614,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-shelter-the-nest.png",
     "xws": "shelterthenest",
     "level": "1",
     "initiative": "16",
-    "cardno": "aa-011",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "011"
   },
   {
-    "name": "rockspine termite",
-    "points": 2590,
+    "name": "011",
+    "points": 2615,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-shelter-the-nest.png",
     "xws": "shelterthenest",
     "level": "1",
     "initiative": "16",
-    "cardno": "aa-011",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "011"
+  },
+  {
+    "name": "rockspine termite            011",
+    "points": 2616,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-shelter-the-nest.png",
+    "xws": "rockspinetermite011",
+    "level": "1",
+    "initiative": "16",
+    "character-xws": "amber aegis",
+    "assetno": "6"
   },
   {
     "name": "stalk the prey",
-    "points": 2591,
+    "points": 2617,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-stalk-the-prey.png",
     "xws": "stalktheprey",
     "level": "7",
     "initiative": "79",
-    "cardno": "aa-027",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "027"
+  },
+  {
+    "name": "027",
+    "points": 2618,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-stalk-the-prey.png",
+    "xws": "stalktheprey",
+    "level": "7",
+    "initiative": "79",
+    "character-xws": "amber aegis",
+    "assetno": "027"
   },
   {
     "name": "deathshroud spider",
-    "points": 2592,
+    "points": 2619,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-stalk-the-prey.png",
-    "xws": "stalktheprey",
+    "xws": "deathshroudspider",
     "level": "7",
     "initiative": "79",
-    "cardno": "aa-027",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "027"
   },
   {
     "name": "2 venator tarantulas",
-    "points": 2593,
+    "points": 2620,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-stalk-the-prey.png",
-    "xws": "stalktheprey",
+    "xws": "2venatortarantulas",
     "level": "7",
     "initiative": "79",
-    "cardno": "aa-027",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "027"
   },
   {
     "name": "steelsilk weaver",
-    "points": 2594,
+    "points": 2621,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-steelsilk-weaver.png",
     "xws": "steelsilkweaver",
     "level": "2",
     "initiative": "41",
-    "cardno": "aa-018",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "018"
+  },
+  {
+    "name": "018",
+    "points": 2622,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-steelsilk-weaver.png",
+    "xws": "steelsilkweaver",
+    "level": "2",
+    "initiative": "41",
+    "character-xws": "amber aegis",
+    "assetno": "018"
   },
   {
     "name": "supreme authority",
-    "points": 2595,
+    "points": 2623,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-supreme-authority.png",
     "xws": "supremeauthority",
     "level": "9",
     "initiative": "03",
-    "cardno": "aa-032",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "032"
+  },
+  {
+    "name": "032",
+    "points": 2624,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/aa/cs-supreme-authority.png",
+    "xws": "supremeauthority",
+    "level": "9",
+    "initiative": "03",
+    "character-xws": "amber aegis",
+    "assetno": "032"
   },
   {
     "name": "violent outlash",
-    "points": 2596,
+    "points": 2625,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/aa/cs-violent-outlash.png",
     "xws": "violentoutlash",
     "level": "3",
     "initiative": "63",
-    "cardno": "aa-020",
-    "character-xws": "amber aegis"
+    "character-xws": "amber aegis",
+    "assetno": "020"
   },
   {
-    "name": "bk-back",
-    "points": 2597,
+    "name": "020",
+    "points": 2626,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/bk/cs-bk-back.png",
-    "xws": "bkback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "brightspark"
+    "image": "character-ability-cards/crimson-scales/aa/cs-violent-outlash.png",
+    "xws": "violentoutlash",
+    "level": "3",
+    "initiative": "63",
+    "character-xws": "amber aegis",
+    "assetno": "020"
   },
   {
     "name": "acquire funding",
-    "points": 2598,
+    "points": 2627,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-acquire-funding.png",
     "xws": "acquirefunding",
     "level": "1",
     "initiative": "61",
-    "cardno": "029",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "029"
+  },
+  {
+    "name": "029",
+    "points": 2628,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-acquire-funding.png",
+    "xws": "acquirefunding",
+    "level": "1",
+    "initiative": "61",
+    "character-xws": "brightspark",
+    "assetno": "029"
   },
   {
     "name": "advanced research",
-    "points": 2599,
+    "points": 2629,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-advanced-research.png",
     "xws": "advancedresearch",
     "level": "5",
     "initiative": "85",
-    "cardno": "049",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "049"
+  },
+  {
+    "name": "049",
+    "points": 2630,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-advanced-research.png",
+    "xws": "advancedresearch",
+    "level": "5",
+    "initiative": "85",
+    "character-xws": "brightspark",
+    "assetno": "049"
   },
   {
     "name": "antibiotic boost",
-    "points": 2600,
+    "points": 2631,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-antibiotic-boost.png",
     "xws": "antibioticboost",
     "level": "6",
     "initiative": "56",
-    "cardno": "051",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "051"
+  },
+  {
+    "name": "051",
+    "points": 2632,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-antibiotic-boost.png",
+    "xws": "antibioticboost",
+    "level": "6",
+    "initiative": "56",
+    "character-xws": "brightspark",
+    "assetno": "051"
   },
   {
     "name": "astronomical strike",
-    "points": 2601,
+    "points": 2633,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-astronomical-strike.png",
     "xws": "astronomicalstrike",
     "level": "7",
     "initiative": "57",
-    "cardno": "053",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "053"
+  },
+  {
+    "name": "053",
+    "points": 2634,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-astronomical-strike.png",
+    "xws": "astronomicalstrike",
+    "level": "7",
+    "initiative": "57",
+    "character-xws": "brightspark",
+    "assetno": "053"
   },
   {
     "name": "black hole",
-    "points": 2602,
+    "points": 2635,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-astronomical-strike.png",
-    "xws": "astronomicalstrike",
+    "xws": "blackhole",
     "level": "7",
     "initiative": "57",
-    "cardno": "053",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "053"
   },
   {
     "name": "befuddling serum",
-    "points": 2603,
+    "points": 2636,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-befuddling-serum.png",
     "xws": "befuddlingserum",
     "level": "4",
     "initiative": "49",
-    "cardno": "047",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "047"
+  },
+  {
+    "name": "047",
+    "points": 2637,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-befuddling-serum.png",
+    "xws": "befuddlingserum",
+    "level": "4",
+    "initiative": "49",
+    "character-xws": "brightspark",
+    "assetno": "047"
+  },
+  {
+    "name": "bk-back",
+    "points": 2638,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-bk-back.png",
+    "xws": "bkback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "brightspark",
+    "assetno": "###"
   },
   {
     "name": "blinding lightwaves",
-    "points": 2604,
+    "points": 2639,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-blinding-lightwaves.png",
     "xws": "blindinglightwaves",
     "level": "1",
     "initiative": "68",
-    "cardno": "030",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "030"
+  },
+  {
+    "name": "030",
+    "points": 2640,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-blinding-lightwaves.png",
+    "xws": "blindinglightwaves",
+    "level": "1",
+    "initiative": "68",
+    "character-xws": "brightspark",
+    "assetno": "030"
   },
   {
     "name": "cell regeneration",
-    "points": 2605,
+    "points": 2641,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-cell-regeneration.png",
     "xws": "cellregeneration",
     "level": "1",
     "initiative": "73",
-    "cardno": "031",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "031"
+  },
+  {
+    "name": "031",
+    "points": 2642,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-cell-regeneration.png",
+    "xws": "cellregeneration",
+    "level": "1",
+    "initiative": "73",
+    "character-xws": "brightspark",
+    "assetno": "031"
   },
   {
     "name": "contagious malady",
-    "points": 2606,
+    "points": 2643,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-contagious-malady.png",
     "xws": "contagiousmalady",
     "level": "1",
     "initiative": "13",
-    "cardno": "032",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "032"
+  },
+  {
+    "name": "032",
+    "points": 2644,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-contagious-malady.png",
+    "xws": "contagiousmalady",
+    "level": "1",
+    "initiative": "13",
+    "character-xws": "brightspark",
+    "assetno": "032"
   },
   {
     "name": "corrosive combustion",
-    "points": 2607,
+    "points": 2645,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-corrosive-combustion.png",
     "xws": "corrosivecombustion",
     "level": "1",
     "initiative": "32",
-    "cardno": "033",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "033"
+  },
+  {
+    "name": "033",
+    "points": 2646,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-corrosive-combustion.png",
+    "xws": "corrosivecombustion",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "brightspark",
+    "assetno": "033"
   },
   {
     "name": "critical hypothesis",
-    "points": 2608,
+    "points": 2647,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-critical-hypothesis.png",
     "xws": "criticalhypothesis",
     "level": "8",
     "initiative": "16",
-    "cardno": "055",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "055"
+  },
+  {
+    "name": "055",
+    "points": 2648,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-critical-hypothesis.png",
+    "xws": "criticalhypothesis",
+    "level": "8",
+    "initiative": "16",
+    "character-xws": "brightspark",
+    "assetno": "055"
   },
   {
     "name": "critical observation",
-    "points": 2609,
+    "points": 2649,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-critical-observation.png",
     "xws": "criticalobservation",
     "level": "1",
     "initiative": "20",
-    "cardno": "034",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "034"
+  },
+  {
+    "name": "034",
+    "points": 2650,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-critical-observation.png",
+    "xws": "criticalobservation",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "brightspark",
+    "assetno": "034"
   },
   {
     "name": "dynamic balance",
-    "points": 2610,
+    "points": 2651,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-dynamic-balance.png",
     "xws": "dynamicbalance",
     "level": "1",
     "initiative": "22",
-    "cardno": "035",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "035"
+  },
+  {
+    "name": "035",
+    "points": 2652,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-dynamic-balance.png",
+    "xws": "dynamicbalance",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "brightspark",
+    "assetno": "035"
   },
   {
     "name": "electromagnetism",
-    "points": 2611,
+    "points": 2653,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-electromagnetism.png",
     "xws": "electromagnetism",
     "level": "3",
     "initiative": "84",
-    "cardno": "046",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "046"
+  },
+  {
+    "name": "046",
+    "points": 2654,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-electromagnetism.png",
+    "xws": "electromagnetism",
+    "level": "3",
+    "initiative": "84",
+    "character-xws": "brightspark",
+    "assetno": "046"
   },
   {
     "name": "metal detector",
-    "points": 2612,
+    "points": 2655,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-electromagnetism.png",
-    "xws": "electromagnetism",
+    "xws": "metaldetector",
     "level": "3",
     "initiative": "84",
-    "cardno": "046",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "046"
   },
   {
     "name": "elevated chemicals",
-    "points": 2613,
+    "points": 2656,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-elevated-chemicals.png",
     "xws": "elevatedchemicals",
     "level": "5",
     "initiative": "44",
-    "cardno": "050",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "050"
+  },
+  {
+    "name": "050",
+    "points": 2657,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-elevated-chemicals.png",
+    "xws": "elevatedchemicals",
+    "level": "5",
+    "initiative": "44",
+    "character-xws": "brightspark",
+    "assetno": "050"
   },
   {
     "name": "elevated intake",
-    "points": 2614,
+    "points": 2658,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-elevated-intake.png",
     "xws": "elevatedintake",
     "level": "x",
     "initiative": "50",
-    "cardno": "042",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "042"
+  },
+  {
+    "name": "042",
+    "points": 2659,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-elevated-intake.png",
+    "xws": "elevatedintake",
+    "level": "x",
+    "initiative": "50",
+    "character-xws": "brightspark",
+    "assetno": "042"
   },
   {
     "name": "elixir of life",
-    "points": 2615,
+    "points": 2660,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-elixir-of-life.png",
     "xws": "elixiroflife",
     "level": "9",
     "initiative": "38",
-    "cardno": "057",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "057"
+  },
+  {
+    "name": "057",
+    "points": 2661,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-elixir-of-life.png",
+    "xws": "elixiroflife",
+    "level": "9",
+    "initiative": "38",
+    "character-xws": "brightspark",
+    "assetno": "057"
   },
   {
     "name": "enviromental survey",
-    "points": 2616,
+    "points": 2662,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-enviromental-survey.png",
     "xws": "enviromentalsurvey",
     "level": "x",
     "initiative": "31",
-    "cardno": "040",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "040"
+  },
+  {
+    "name": "040",
+    "points": 2663,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-enviromental-survey.png",
+    "xws": "enviromentalsurvey",
+    "level": "x",
+    "initiative": "31",
+    "character-xws": "brightspark",
+    "assetno": "040"
   },
   {
     "name": "exothermic cocktail",
-    "points": 2617,
+    "points": 2664,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-exothermic-cocktail.png",
     "xws": "exothermiccocktail",
     "level": "1",
     "initiative": "45",
-    "cardno": "036",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "036"
+  },
+  {
+    "name": "036",
+    "points": 2665,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-exothermic-cocktail.png",
+    "xws": "exothermiccocktail",
+    "level": "1",
+    "initiative": "45",
+    "character-xws": "brightspark",
+    "assetno": "036"
   },
   {
     "name": "frozen explosion",
-    "points": 2618,
+    "points": 2666,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-frozen-explosion.png",
     "xws": "frozenexplosion",
     "level": "1",
     "initiative": "55",
-    "cardno": "037",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "037"
+  },
+  {
+    "name": "037",
+    "points": 2667,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-frozen-explosion.png",
+    "xws": "frozenexplosion",
+    "level": "1",
+    "initiative": "55",
+    "character-xws": "brightspark",
+    "assetno": "037"
   },
   {
     "name": "leftover tonic",
-    "points": 2619,
+    "points": 2668,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-leftover-tonic.png",
     "xws": "leftovertonic",
     "level": "x",
     "initiative": "70",
-    "cardno": "041",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "041"
+  },
+  {
+    "name": "041",
+    "points": 2669,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-leftover-tonic.png",
+    "xws": "leftovertonic",
+    "level": "x",
+    "initiative": "70",
+    "character-xws": "brightspark",
+    "assetno": "041"
   },
   {
     "name": "magnetic field",
-    "points": 2620,
+    "points": 2670,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-magnetic-field.png",
     "xws": "magneticfield",
     "level": "1",
     "initiative": "28",
-    "cardno": "038",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "038"
+  },
+  {
+    "name": "038",
+    "points": 2671,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-magnetic-field.png",
+    "xws": "magneticfield",
+    "level": "1",
+    "initiative": "28",
+    "character-xws": "brightspark",
+    "assetno": "038"
   },
   {
     "name": "molecular hydroblast",
-    "points": 2621,
+    "points": 2672,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-molecular-hydroblast.png",
     "xws": "molecularhydroblast",
     "level": "6",
     "initiative": "29",
-    "cardno": "052",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "052"
+  },
+  {
+    "name": "052",
+    "points": 2673,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-molecular-hydroblast.png",
+    "xws": "molecularhydroblast",
+    "level": "6",
+    "initiative": "29",
+    "character-xws": "brightspark",
+    "assetno": "052"
   },
   {
     "name": "nourishing formula",
-    "points": 2622,
+    "points": 2674,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-nourishing-formula.png",
     "xws": "nourishingformula",
     "level": "7",
     "initiative": "77",
-    "cardno": "054",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "054"
+  },
+  {
+    "name": "054",
+    "points": 2675,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-nourishing-formula.png",
+    "xws": "nourishingformula",
+    "level": "7",
+    "initiative": "77",
+    "character-xws": "brightspark",
+    "assetno": "054"
   },
   {
     "name": "nutrient overdose",
-    "points": 2623,
+    "points": 2676,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-nutrient-overdose.png",
     "xws": "nutrientoverdose",
     "level": "2",
     "initiative": "17",
-    "cardno": "043",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "043"
+  },
+  {
+    "name": "043",
+    "points": 2677,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-nutrient-overdose.png",
+    "xws": "nutrientoverdose",
+    "level": "2",
+    "initiative": "17",
+    "character-xws": "brightspark",
+    "assetno": "043"
   },
   {
     "name": "preliminary research",
-    "points": 2624,
+    "points": 2678,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-preliminary-research.png",
     "xws": "preliminaryresearch",
     "level": "1",
     "initiative": "24",
-    "cardno": "039",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "039"
+  },
+  {
+    "name": "039",
+    "points": 2679,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-preliminary-research.png",
+    "xws": "preliminaryresearch",
+    "level": "1",
+    "initiative": "24",
+    "character-xws": "brightspark",
+    "assetno": "039"
   },
   {
     "name": "strength elixir",
-    "points": 2625,
+    "points": 2680,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-strength-elixir.png",
     "xws": "strengthelixir",
     "level": "4",
     "initiative": "19",
-    "cardno": "048",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "048"
+  },
+  {
+    "name": "048",
+    "points": 2681,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-strength-elixir.png",
+    "xws": "strengthelixir",
+    "level": "4",
+    "initiative": "19",
+    "character-xws": "brightspark",
+    "assetno": "048"
   },
   {
     "name": "transformation libation",
-    "points": 2626,
+    "points": 2682,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-transformation-libation.png",
     "xws": "transformationlibation",
     "level": "2",
     "initiative": "27",
-    "cardno": "044",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "044"
+  },
+  {
+    "name": "044",
+    "points": 2683,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-transformation-libation.png",
+    "xws": "transformationlibation",
+    "level": "2",
+    "initiative": "27",
+    "character-xws": "brightspark",
+    "assetno": "044"
   },
   {
     "name": "ultraviolet rays",
-    "points": 2627,
+    "points": 2684,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-ultraviolet-rays.png",
     "xws": "ultravioletrays",
     "level": "9",
     "initiative": "66",
-    "cardno": "058",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "058"
+  },
+  {
+    "name": "058",
+    "points": 2685,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-ultraviolet-rays.png",
+    "xws": "ultravioletrays",
+    "level": "9",
+    "initiative": "66",
+    "character-xws": "brightspark",
+    "assetno": "058"
   },
   {
     "name": "versatile concoction",
-    "points": 2628,
+    "points": 2686,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-versatile-concoction.png",
     "xws": "versatileconcoction",
     "level": "8",
     "initiative": "58",
-    "cardno": "056",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "056"
+  },
+  {
+    "name": "056",
+    "points": 2687,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bk/cs-versatile-concoction.png",
+    "xws": "versatileconcoction",
+    "level": "8",
+    "initiative": "58",
+    "character-xws": "brightspark",
+    "assetno": "056"
   },
   {
     "name": "weather forecast",
-    "points": 2629,
+    "points": 2688,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bk/cs-weather-forecast.png",
     "xws": "weatherforecast",
     "level": "3",
     "initiative": "30",
-    "cardno": "045",
-    "character-xws": "brightspark"
+    "character-xws": "brightspark",
+    "assetno": "045"
   },
   {
-    "name": "bm-back",
-    "points": 2630,
+    "name": "045",
+    "points": 2689,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/bm/cs-bm-back.png",
-    "xws": "bmback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "bombard"
+    "image": "character-ability-cards/crimson-scales/bk/cs-weather-forecast.png",
+    "xws": "weatherforecast",
+    "level": "3",
+    "initiative": "30",
+    "character-xws": "brightspark",
+    "assetno": "045"
   },
   {
     "name": "airborne skyrocket",
-    "points": 2631,
+    "points": 2690,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-airborne-skyrocket.png",
     "xws": "airborneskyrocket",
     "level": "7",
     "initiative": "55",
-    "cardno": "023",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "023"
+  },
+  {
+    "name": "023",
+    "points": 2691,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-airborne-skyrocket.png",
+    "xws": "airborneskyrocket",
+    "level": "7",
+    "initiative": "55",
+    "character-xws": "bombard",
+    "assetno": "023"
   },
   {
     "name": "ballistic barrage",
-    "points": 2632,
+    "points": 2692,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-ballistic-barrage.png",
     "xws": "ballisticbarrage",
     "level": "7",
     "initiative": "73",
-    "cardno": "024",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "024"
+  },
+  {
+    "name": "024",
+    "points": 2693,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-ballistic-barrage.png",
+    "xws": "ballisticbarrage",
+    "level": "7",
+    "initiative": "73",
+    "character-xws": "bombard",
+    "assetno": "024"
   },
   {
     "name": "barbed armor",
-    "points": 2633,
+    "points": 2694,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-barbed-armor.png",
     "xws": "barbedarmor",
     "level": "1",
     "initiative": "13",
-    "cardno": "008",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "008"
+  },
+  {
+    "name": "008",
+    "points": 2695,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-barbed-armor.png",
+    "xws": "barbedarmor",
+    "level": "1",
+    "initiative": "13",
+    "character-xws": "bombard",
+    "assetno": "008"
+  },
+  {
+    "name": "bm-back",
+    "points": 2696,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-bm-back.png",
+    "xws": "bmback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "bombard",
+    "assetno": "###"
   },
   {
     "name": "chain grapnel",
-    "points": 2634,
+    "points": 2697,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-chain-grapnel.png",
     "xws": "chaingrapnel",
     "level": "x",
     "initiative": "46",
-    "cardno": "010",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "010"
+  },
+  {
+    "name": "010",
+    "points": 2698,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-chain-grapnel.png",
+    "xws": "chaingrapnel",
+    "level": "x",
+    "initiative": "46",
+    "character-xws": "bombard",
+    "assetno": "010"
   },
   {
     "name": "consistent firing",
-    "points": 2635,
+    "points": 2699,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-consistent-firing.png",
     "xws": "consistentfiring",
     "level": "1",
     "initiative": "76",
-    "cardno": "001",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "001"
+  },
+  {
+    "name": "001",
+    "points": 2700,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-consistent-firing.png",
+    "xws": "consistentfiring",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "bombard",
+    "assetno": "001"
   },
   {
     "name": "defense mechanism",
-    "points": 2636,
+    "points": 2701,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-defense-mechanism.png",
     "xws": "defensemechanism",
     "level": "8",
     "initiative": "18",
-    "cardno": "025",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "025"
+  },
+  {
+    "name": "025",
+    "points": 2702,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-defense-mechanism.png",
+    "xws": "defensemechanism",
+    "level": "8",
+    "initiative": "18",
+    "character-xws": "bombard",
+    "assetno": "025"
   },
   {
     "name": "distant retribution",
-    "points": 2637,
+    "points": 2703,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-distant-retribution.png",
     "xws": "distantretribution",
     "level": "2",
     "initiative": "12",
-    "cardno": "013",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "013"
+  },
+  {
+    "name": "013",
+    "points": 2704,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-distant-retribution.png",
+    "xws": "distantretribution",
+    "level": "2",
+    "initiative": "12",
+    "character-xws": "bombard",
+    "assetno": "013"
   },
   {
     "name": "double cannons",
-    "points": 2638,
+    "points": 2705,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-double-cannons.png",
     "xws": "doublecannons",
     "level": "1",
     "initiative": "60",
-    "cardno": "002",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "002"
+  },
+  {
+    "name": "002",
+    "points": 2706,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-double-cannons.png",
+    "xws": "doublecannons",
+    "level": "1",
+    "initiative": "60",
+    "character-xws": "bombard",
+    "assetno": "002"
   },
   {
     "name": "exploding cannonball",
-    "points": 2639,
+    "points": 2707,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-exploding-cannonball.png",
     "xws": "explodingcannonball",
     "level": "1",
     "initiative": "88",
-    "cardno": "003",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "003"
+  },
+  {
+    "name": "003",
+    "points": 2708,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-exploding-cannonball.png",
+    "xws": "explodingcannonball",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "bombard",
+    "assetno": "003"
   },
   {
     "name": "forceful bolt",
-    "points": 2640,
+    "points": 2709,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-forceful-bolt.png",
     "xws": "forcefulbolt",
     "level": "1",
     "initiative": "63",
-    "cardno": "004",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "004"
+  },
+  {
+    "name": "004",
+    "points": 2710,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-forceful-bolt.png",
+    "xws": "forcefulbolt",
+    "level": "1",
+    "initiative": "63",
+    "character-xws": "bombard",
+    "assetno": "004"
   },
   {
     "name": "grappling hook",
-    "points": 2641,
+    "points": 2711,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-grappling-hook.png",
     "xws": "grapplinghook",
     "level": "1",
     "initiative": "68",
-    "cardno": "005",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "005"
+  },
+  {
+    "name": "005",
+    "points": 2712,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-grappling-hook.png",
+    "xws": "grapplinghook",
+    "level": "1",
+    "initiative": "68",
+    "character-xws": "bombard",
+    "assetno": "005"
   },
   {
     "name": "hurried repairs",
-    "points": 2642,
+    "points": 2713,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-hurried-repairs.png",
     "xws": "hurriedrepairs",
     "level": "4",
     "initiative": "25",
-    "cardno": "017",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "017"
+  },
+  {
+    "name": "017",
+    "points": 2714,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-hurried-repairs.png",
+    "xws": "hurriedrepairs",
+    "level": "4",
+    "initiative": "25",
+    "character-xws": "bombard",
+    "assetno": "017"
   },
   {
     "name": "ignited launch",
-    "points": 2643,
+    "points": 2715,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-ignited-launch.png",
     "xws": "ignitedlaunch",
     "level": "1",
     "initiative": "81",
-    "cardno": "006",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "006"
+  },
+  {
+    "name": "006",
+    "points": 2716,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-ignited-launch.png",
+    "xws": "ignitedlaunch",
+    "level": "1",
+    "initiative": "81",
+    "character-xws": "bombard",
+    "assetno": "006"
   },
   {
     "name": "man the cannon",
-    "points": 2644,
+    "points": 2717,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-man-the-cannon.png",
     "xws": "manthecannon",
     "level": "x",
     "initiative": "21",
-    "cardno": "011",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "011"
+  },
+  {
+    "name": "011",
+    "points": 2718,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-man-the-cannon.png",
+    "xws": "manthecannon",
+    "level": "x",
+    "initiative": "21",
+    "character-xws": "bombard",
+    "assetno": "011"
   },
   {
     "name": "meteoric blast",
-    "points": 2645,
+    "points": 2719,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-meteoric-blast.png",
     "xws": "meteoricblast",
     "level": "6",
     "initiative": "26",
-    "cardno": "021",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "021"
+  },
+  {
+    "name": "021",
+    "points": 2720,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-meteoric-blast.png",
+    "xws": "meteoricblast",
+    "level": "6",
+    "initiative": "26",
+    "character-xws": "bombard",
+    "assetno": "021"
   },
   {
     "name": "pillars of smoke",
-    "points": 2646,
+    "points": 2721,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-pillars-of-smoke.png",
     "xws": "pillarsofsmoke",
     "level": "x",
     "initiative": "11",
-    "cardno": "012",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "012"
+  },
+  {
+    "name": "012",
+    "points": 2722,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-pillars-of-smoke.png",
+    "xws": "pillarsofsmoke",
+    "level": "x",
+    "initiative": "11",
+    "character-xws": "bombard",
+    "assetno": "012"
   },
   {
     "name": "powerful buckshot",
-    "points": 2647,
+    "points": 2723,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-powerful-buckshot.png",
     "xws": "powerfulbuckshot",
     "level": "4",
     "initiative": "84",
-    "cardno": "018",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "018"
+  },
+  {
+    "name": "018",
+    "points": 2724,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-powerful-buckshot.png",
+    "xws": "powerfulbuckshot",
+    "level": "4",
+    "initiative": "84",
+    "character-xws": "bombard",
+    "assetno": "018"
   },
   {
     "name": "prolific perforation",
-    "points": 2648,
+    "points": 2725,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-prolific-perforation.png",
     "xws": "prolificperforation",
     "level": "6",
     "initiative": "62",
-    "cardno": "022",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "022"
+  },
+  {
+    "name": "022",
+    "points": 2726,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-prolific-perforation.png",
+    "xws": "prolificperforation",
+    "level": "6",
+    "initiative": "62",
+    "character-xws": "bombard",
+    "assetno": "022"
   },
   {
     "name": "quadruple cannons",
-    "points": 2649,
+    "points": 2727,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-quadruple-cannons.png",
     "xws": "quadruplecannons",
     "level": "8",
     "initiative": "86",
-    "cardno": "026",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "026"
+  },
+  {
+    "name": "026",
+    "points": 2728,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-quadruple-cannons.png",
+    "xws": "quadruplecannons",
+    "level": "8",
+    "initiative": "86",
+    "character-xws": "bombard",
+    "assetno": "026"
   },
   {
     "name": "rapid fire",
-    "points": 2650,
+    "points": 2729,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-rapid-fire.png",
     "xws": "rapidfire",
     "level": "2",
     "initiative": "41",
-    "cardno": "014",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "014"
+  },
+  {
+    "name": "014",
+    "points": 2730,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-rapid-fire.png",
+    "xws": "rapidfire",
+    "level": "2",
+    "initiative": "41",
+    "character-xws": "bombard",
+    "assetno": "014"
   },
   {
     "name": "rolling into position",
-    "points": 2651,
+    "points": 2731,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-rolling-into-position.png",
     "xws": "rollingintoposition",
     "level": "1",
     "initiative": "14",
-    "cardno": "007",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "007"
+  },
+  {
+    "name": "007",
+    "points": 2732,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-rolling-into-position.png",
+    "xws": "rollingintoposition",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "bombard",
+    "assetno": "007"
   },
   {
     "name": "sharpened focus",
-    "points": 2652,
+    "points": 2733,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-sharpened-focus.png",
     "xws": "sharpenedfocus",
     "level": "5",
     "initiative": "32",
-    "cardno": "020",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "020"
+  },
+  {
+    "name": "020",
+    "points": 2734,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-sharpened-focus.png",
+    "xws": "sharpenedfocus",
+    "level": "5",
+    "initiative": "32",
+    "character-xws": "bombard",
+    "assetno": "020"
   },
   {
     "name": "stationary enhancements",
-    "points": 2653,
+    "points": 2735,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-stationary-enhancements.png",
     "xws": "stationaryenhancements",
     "level": "3",
     "initiative": "20",
-    "cardno": "015",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "015"
+  },
+  {
+    "name": "015",
+    "points": 2736,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-stationary-enhancements.png",
+    "xws": "stationaryenhancements",
+    "level": "3",
+    "initiative": "20",
+    "character-xws": "bombard",
+    "assetno": "015"
   },
   {
     "name": "supercharged gunpowder",
-    "points": 2654,
+    "points": 2737,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-supercharged-gunpowder.png",
     "xws": "superchargedgunpowder",
     "level": "9",
     "initiative": "90",
-    "cardno": "027",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "027"
+  },
+  {
+    "name": "027",
+    "points": 2738,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-supercharged-gunpowder.png",
+    "xws": "superchargedgunpowder",
+    "level": "9",
+    "initiative": "90",
+    "character-xws": "bombard",
+    "assetno": "027"
   },
   {
     "name": "superior upgrade",
-    "points": 2655,
+    "points": 2739,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-superior-upgrade.png",
     "xws": "superiorupgrade",
     "level": "9",
     "initiative": "09",
-    "cardno": "028",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "028"
+  },
+  {
+    "name": "028",
+    "points": 2740,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-superior-upgrade.png",
+    "xws": "superiorupgrade",
+    "level": "9",
+    "initiative": "09",
+    "character-xws": "bombard",
+    "assetno": "028"
   },
   {
     "name": "twin blast",
-    "points": 2656,
+    "points": 2741,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-twin-blast.png",
     "xws": "twinblast",
     "level": "3",
     "initiative": "80",
-    "cardno": "016",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "016"
+  },
+  {
+    "name": "016",
+    "points": 2742,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-twin-blast.png",
+    "xws": "twinblast",
+    "level": "3",
+    "initiative": "80",
+    "character-xws": "bombard",
+    "assetno": "016"
   },
   {
     "name": "unbreakable position",
-    "points": 2657,
+    "points": 2743,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-unbreakable-position.png",
     "xws": "unbreakableposition",
     "level": "5",
     "initiative": "15",
-    "cardno": "019",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "019"
+  },
+  {
+    "name": "019",
+    "points": 2744,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/bm/cs-unbreakable-position.png",
+    "xws": "unbreakableposition",
+    "level": "5",
+    "initiative": "15",
+    "character-xws": "bombard",
+    "assetno": "019"
   },
   {
     "name": "unexpected bombshell",
-    "points": 2658,
+    "points": 2745,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/bm/cs-unexpected-bombshell.png",
     "xws": "unexpectedbombshell",
     "level": "1",
     "initiative": "85",
-    "cardno": "009",
-    "character-xws": "bombard"
+    "character-xws": "bombard",
+    "assetno": "009"
   },
   {
-    "name": "cg-back",
-    "points": 2659,
+    "name": "009",
+    "points": 2746,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/cg/cs-cg-back.png",
-    "xws": "cgback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "chainguard"
+    "image": "character-ability-cards/crimson-scales/bm/cs-unexpected-bombshell.png",
+    "xws": "unexpectedbombshell",
+    "level": "1",
+    "initiative": "85",
+    "character-xws": "bombard",
+    "assetno": "009"
   },
   {
     "name": "agonizing clamp",
-    "points": 2660,
+    "points": 2747,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-agonizing-clamp.png",
     "xws": "agonizingclamp",
     "level": "2",
     "initiative": "57",
-    "cardno": "072",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "072"
+  },
+  {
+    "name": "072",
+    "points": 2748,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-agonizing-clamp.png",
+    "xws": "agonizingclamp",
+    "level": "2",
+    "initiative": "57",
+    "character-xws": "chainguard",
+    "assetno": "072"
+  },
+  {
+    "name": "cg-back",
+    "points": 2749,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-cg-back.png",
+    "xws": "cgback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "chainguard",
+    "assetno": "###"
   },
   {
     "name": "champion of chains",
-    "points": 2661,
+    "points": 2750,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-champion-of-chains.png",
     "xws": "championofchains",
     "level": "9",
     "initiative": "10",
-    "cardno": "086",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "086"
+  },
+  {
+    "name": "086",
+    "points": 2751,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-champion-of-chains.png",
+    "xws": "championofchains",
+    "level": "9",
+    "initiative": "10",
+    "character-xws": "chainguard",
+    "assetno": "086"
   },
   {
     "name": "chokehold",
-    "points": 2662,
+    "points": 2752,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-chokehold.png",
     "xws": "chokehold",
     "level": "1",
     "initiative": "22",
-    "cardno": "060",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "060"
+  },
+  {
+    "name": "060",
+    "points": 2753,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-chokehold.png",
+    "xws": "chokehold",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "chainguard",
+    "assetno": "060"
   },
   {
     "name": "clamping snare",
-    "points": 2663,
+    "points": 2754,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-clamping-snare.png",
     "xws": "clampingsnare",
     "level": "7",
     "initiative": "27",
-    "cardno": "082",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "082"
+  },
+  {
+    "name": "082",
+    "points": 2755,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-clamping-snare.png",
+    "xws": "clampingsnare",
+    "level": "7",
+    "initiative": "27",
+    "character-xws": "chainguard",
+    "assetno": "082"
   },
   {
     "name": "dizzying release",
-    "points": 2664,
+    "points": 2756,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-dizzying-release.png",
     "xws": "dizzyingrelease",
     "level": "4",
     "initiative": "24",
-    "cardno": "076",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "076"
+  },
+  {
+    "name": "076",
+    "points": 2757,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-dizzying-release.png",
+    "xws": "dizzyingrelease",
+    "level": "4",
+    "initiative": "24",
+    "character-xws": "chainguard",
+    "assetno": "076"
   },
   {
     "name": "double k.o.",
-    "points": 2665,
+    "points": 2758,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-double-ko.png",
     "xws": "doubleko",
     "level": "4",
     "initiative": "92",
-    "cardno": "077",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "077"
+  },
+  {
+    "name": "077",
+    "points": 2759,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-double-ko.png",
+    "xws": "doubleko",
+    "level": "4",
+    "initiative": "92",
+    "character-xws": "chainguard",
+    "assetno": "077"
   },
   {
     "name": "drag through dirt",
-    "points": 2666,
+    "points": 2760,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-drag-through-dirt.png",
-    "xws": "dragthroughthedirt",
+    "xws": "dragthroughdirt",
     "level": "1",
     "initiative": "30",
-    "cardno": "061",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "061"
+  },
+  {
+    "name": "061",
+    "points": 2761,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-drag-through-dirt.png",
+    "xws": "dragthroughdirt",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "chainguard",
+    "assetno": "061"
   },
   {
     "name": "follow the chains",
-    "points": 2667,
+    "points": 2762,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-follow-the-chains.png",
     "xws": "followthechains",
     "level": "1",
     "initiative": "19",
-    "cardno": "062",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "062"
+  },
+  {
+    "name": "062",
+    "points": 2763,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-follow-the-chains.png",
+    "xws": "followthechains",
+    "level": "1",
+    "initiative": "19",
+    "character-xws": "chainguard",
+    "assetno": "062"
   },
   {
     "name": "ganging up",
-    "points": 2668,
+    "points": 2764,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-ganging-up.png",
     "xws": "gangingup",
     "level": "x",
     "initiative": "74",
-    "cardno": "069",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "069"
+  },
+  {
+    "name": "069",
+    "points": 2765,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-ganging-up.png",
+    "xws": "gangingup",
+    "level": "x",
+    "initiative": "74",
+    "character-xws": "chainguard",
+    "assetno": "069"
   },
   {
     "name": "impending power",
-    "points": 2669,
+    "points": 2766,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-impending-power.png",
     "xws": "impendingpower",
     "level": "5",
     "initiative": "12",
-    "cardno": "078",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "078"
+  },
+  {
+    "name": "078",
+    "points": 2767,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-impending-power.png",
+    "xws": "impendingpower",
+    "level": "5",
+    "initiative": "12",
+    "character-xws": "chainguard",
+    "assetno": "078"
   },
   {
     "name": "iron thrust",
-    "points": 2670,
+    "points": 2768,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-iron-thrust.png",
     "xws": "ironthrust",
     "level": "2",
     "initiative": "38",
-    "cardno": "073",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "073"
+  },
+  {
+    "name": "073",
+    "points": 2769,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-iron-thrust.png",
+    "xws": "ironthrust",
+    "level": "2",
+    "initiative": "38",
+    "character-xws": "chainguard",
+    "assetno": "073"
   },
   {
     "name": "latch and tow",
-    "points": 2671,
+    "points": 2770,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-latch-and-tow.png",
     "xws": "latchandtow",
     "level": "3",
     "initiative": "81",
-    "cardno": "074",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "074"
+  },
+  {
+    "name": "074",
+    "points": 2771,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-latch-and-tow.png",
+    "xws": "latchandtow",
+    "level": "3",
+    "initiative": "81",
+    "character-xws": "chainguard",
+    "assetno": "074"
   },
   {
     "name": "locking links",
-    "points": 2672,
+    "points": 2772,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-locking-links.png",
     "xws": "lockinglinks",
     "level": "1",
     "initiative": "41",
-    "cardno": "063",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "063"
+  },
+  {
+    "name": "063",
+    "points": 2773,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-locking-links.png",
+    "xws": "lockinglinks",
+    "level": "1",
+    "initiative": "41",
+    "character-xws": "chainguard",
+    "assetno": "063"
   },
   {
     "name": "merciless beatdown",
-    "points": 2673,
+    "points": 2774,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-merciless-beatdown.png",
     "xws": "mercilessbeatdown",
     "level": "1",
     "initiative": "26",
-    "cardno": "064",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "064"
+  },
+  {
+    "name": "064",
+    "points": 2775,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-merciless-beatdown.png",
+    "xws": "mercilessbeatdown",
+    "level": "1",
+    "initiative": "26",
+    "character-xws": "chainguard",
+    "assetno": "064"
   },
   {
     "name": "meteor hammer",
-    "points": 2674,
+    "points": 2776,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-meteor-hammer.png",
     "xws": "meteorhammer",
     "level": "7",
     "initiative": "45",
-    "cardno": "083",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "083"
+  },
+  {
+    "name": "083",
+    "points": 2777,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-meteor-hammer.png",
+    "xws": "meteorhammer",
+    "level": "7",
+    "initiative": "45",
+    "character-xws": "chainguard",
+    "assetno": "083"
   },
   {
     "name": "pivot and smash",
-    "points": 2675,
+    "points": 2778,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-pivot-and-smash.png",
     "xws": "pivotandsmash",
     "level": "8",
     "initiative": "28",
-    "cardno": "084",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "084"
+  },
+  {
+    "name": "084",
+    "points": 2779,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-pivot-and-smash.png",
+    "xws": "pivotandsmash",
+    "level": "8",
+    "initiative": "28",
+    "character-xws": "chainguard",
+    "assetno": "084"
   },
   {
     "name": "roundhouse swing",
-    "points": 2676,
+    "points": 2780,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-roundhouse-swing.png",
     "xws": "roundhouseswing",
     "level": "x",
     "initiative": "79",
-    "cardno": "070",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "070"
+  },
+  {
+    "name": "070",
+    "points": 2781,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-roundhouse-swing.png",
+    "xws": "roundhouseswing",
+    "level": "x",
+    "initiative": "79",
+    "character-xws": "chainguard",
+    "assetno": "070"
   },
   {
     "name": "rusty spikes",
-    "points": 2677,
+    "points": 2782,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-rusty-spikes.png",
     "xws": "rustyspikes",
     "level": "1",
     "initiative": "18",
-    "cardno": "065",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "065"
+  },
+  {
+    "name": "065",
+    "points": 2783,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-rusty-spikes.png",
+    "xws": "rustyspikes",
+    "level": "1",
+    "initiative": "18",
+    "character-xws": "chainguard",
+    "assetno": "065"
   },
   {
     "name": "slamming shove",
-    "points": 2678,
+    "points": 2784,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-slamming-shove.png",
     "xws": "slammingshove",
     "level": "1",
     "initiative": "25",
-    "cardno": "066",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "066"
+  },
+  {
+    "name": "066",
+    "points": 2785,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-slamming-shove.png",
+    "xws": "slammingshove",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "chainguard",
+    "assetno": "066"
   },
   {
     "name": "spiked knuckles",
-    "points": 2679,
+    "points": 2786,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-spiked-knuckles.png",
     "xws": "spikedknuckles",
     "level": "1",
     "initiative": "66",
-    "cardno": "067",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "067"
+  },
+  {
+    "name": "067",
+    "points": 2787,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-spiked-knuckles.png",
+    "xws": "spikedknuckles",
+    "level": "1",
+    "initiative": "66",
+    "character-xws": "chainguard",
+    "assetno": "067"
   },
   {
     "name": "suffering steel",
-    "points": 2680,
+    "points": 2788,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-suffering-steel.png",
     "xws": "sufferingsteel",
     "level": "6",
     "initiative": "09",
-    "cardno": "080",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "080"
+  },
+  {
+    "name": "080",
+    "points": 2789,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-suffering-steel.png",
+    "xws": "sufferingsteel",
+    "level": "6",
+    "initiative": "09",
+    "character-xws": "chainguard",
+    "assetno": "080"
   },
   {
     "name": "sweeping collision",
-    "points": 2681,
+    "points": 2790,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-sweeping-collision.png",
     "xws": "sweepingcollision",
     "level": "3",
     "initiative": "20",
-    "cardno": "075",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "075"
+  },
+  {
+    "name": "075",
+    "points": 2791,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-sweeping-collision.png",
+    "xws": "sweepingcollision",
+    "level": "3",
+    "initiative": "20",
+    "character-xws": "chainguard",
+    "assetno": "075"
   },
   {
     "name": "syndicated assault",
-    "points": 2682,
+    "points": 2792,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-syndicated-assault.png",
     "xws": "syndicatedassault",
     "level": "8",
     "initiative": "68",
-    "cardno": "085",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "085"
+  },
+  {
+    "name": "085",
+    "points": 2793,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-syndicated-assault.png",
+    "xws": "syndicatedassault",
+    "level": "8",
+    "initiative": "68",
+    "character-xws": "chainguard",
+    "assetno": "085"
   },
   {
     "name": "tighten the chains",
-    "points": 2683,
+    "points": 2794,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-tighten-the-chains.png",
     "xws": "tightenthechains",
     "level": "5",
     "initiative": "17",
-    "cardno": "079",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "079"
+  },
+  {
+    "name": "079",
+    "points": 2795,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-tighten-the-chains.png",
+    "xws": "tightenthechains",
+    "level": "5",
+    "initiative": "17",
+    "character-xws": "chainguard",
+    "assetno": "079"
   },
   {
     "name": "titanic chainwhip",
-    "points": 2684,
+    "points": 2796,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-titanic-chainwhip.png",
     "xws": "titanicchainwhip",
     "level": "6",
     "initiative": "29",
-    "cardno": "081",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "081"
+  },
+  {
+    "name": "081",
+    "points": 2797,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-titanic-chainwhip.png",
+    "xws": "titanicchainwhip",
+    "level": "6",
+    "initiative": "29",
+    "character-xws": "chainguard",
+    "assetno": "081"
   },
   {
     "name": "unending torment",
-    "points": 2685,
+    "points": 2798,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-unending-torment.png",
     "xws": "unendingtorment",
     "level": "9",
     "initiative": "33",
-    "cardno": "087",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "087"
+  },
+  {
+    "name": "087",
+    "points": 2799,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-unending-torment.png",
+    "xws": "unendingtorment",
+    "level": "9",
+    "initiative": "33",
+    "character-xws": "chainguard",
+    "assetno": "087"
   },
   {
     "name": "untouchable keeper",
-    "points": 2686,
+    "points": 2800,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-untouchable-keeper.png",
     "xws": "untouchablekeeper",
     "level": "1",
     "initiative": "14",
-    "cardno": "059",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "059"
+  },
+  {
+    "name": "059",
+    "points": 2801,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-untouchable-keeper.png",
+    "xws": "untouchablekeeper",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "chainguard",
+    "assetno": "059"
   },
   {
     "name": "vigorous sway",
-    "points": 2687,
+    "points": 2802,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-vigorous-sway.png",
     "xws": "vigoroussway",
     "level": "x",
     "initiative": "52",
-    "cardno": "071",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "071"
+  },
+  {
+    "name": "071",
+    "points": 2803,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/cg/cs-vigorous-sway.png",
+    "xws": "vigoroussway",
+    "level": "x",
+    "initiative": "52",
+    "character-xws": "chainguard",
+    "assetno": "071"
   },
   {
     "name": "wrapped in metal",
-    "points": 2688,
+    "points": 2804,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/cg/cs-wrapped-in-metal.png",
     "xws": "wrappedinmetal",
     "level": "1",
     "initiative": "82",
-    "cardno": "068",
-    "character-xws": "chainguard"
+    "character-xws": "chainguard",
+    "assetno": "068"
   },
   {
-    "name": "ct-back",
-    "points": 2689,
+    "name": "068",
+    "points": 2805,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/ct/cs-ct-back.png",
-    "xws": "ctback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "chieftain"
+    "image": "character-ability-cards/crimson-scales/cg/cs-wrapped-in-metal.png",
+    "xws": "wrappedinmetal",
+    "level": "1",
+    "initiative": "82",
+    "character-xws": "chainguard",
+    "assetno": "068"
   },
   {
     "name": "agile predator",
-    "points": 2690,
+    "points": 2806,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-agile-predator.png",
     "xws": "agilepredator",
     "level": "3",
     "initiative": "90",
-    "cardno": "104",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "104"
+  },
+  {
+    "name": "104",
+    "points": 2807,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-agile-predator.png",
+    "xws": "agilepredator",
+    "level": "3",
+    "initiative": "90",
+    "character-xws": "chieftain",
+    "assetno": "104"
   },
   {
     "name": "black panther",
-    "points": 2691,
+    "points": 2808,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-agile-predator.png",
-    "xws": "agilepredator",
+    "xws": "blackpanther",
     "level": "3",
     "initiative": "90",
-    "cardno": "104",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "104"
   },
   {
     "name": "catastrophic cattle",
-    "points": 2692,
+    "points": 2809,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-catastrophic-cattle.png",
     "xws": "catastrophiccattle",
     "level": "1",
     "initiative": "88",
-    "cardno": "088",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "088"
+  },
+  {
+    "name": "088",
+    "points": 2810,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-catastrophic-cattle.png",
+    "xws": "catastrophiccattle",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "chieftain",
+    "assetno": "088"
   },
   {
     "name": "fighting bull",
-    "points": 2693,
+    "points": 2811,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-catastrophic-cattle.png",
-    "xws": "catastrophiccattle",
+    "xws": "fightingbull",
     "level": "1",
     "initiative": "88",
-    "cardno": "088",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "088"
   },
   {
     "name": "ceremonial dance",
-    "points": 2694,
+    "points": 2812,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-ceremonial-dance.png",
     "xws": "ceremonialdance",
     "level": "2",
     "initiative": "23",
-    "cardno": "102",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "102"
+  },
+  {
+    "name": "102",
+    "points": 2813,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-ceremonial-dance.png",
+    "xws": "ceremonialdance",
+    "level": "2",
+    "initiative": "23",
+    "character-xws": "chieftain",
+    "assetno": "102"
   },
   {
     "name": "chest thumper",
-    "points": 2695,
+    "points": 2814,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-chest-thumper.png",
     "xws": "chestthumper",
     "level": "5",
     "initiative": "94",
-    "cardno": "107",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "107"
+  },
+  {
+    "name": "107",
+    "points": 2815,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-chest-thumper.png",
+    "xws": "chestthumper",
+    "level": "5",
+    "initiative": "94",
+    "character-xws": "chieftain",
+    "assetno": "107"
   },
   {
     "name": "lowland gorilla",
-    "points": 2696,
+    "points": 2816,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-chest-thumper.png",
-    "xws": "chestthumper",
+    "xws": "lowlandgorilla",
     "level": "5",
     "initiative": "94",
-    "cardno": "107",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "107"
+  },
+  {
+    "name": "ct-back",
+    "points": 2817,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-ct-back.png",
+    "xws": "ctback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "chieftain",
+    "assetno": "###"
   },
   {
     "name": "hunter's mark",
-    "points": 2697,
+    "points": 2818,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-hunters-mark.png",
     "xws": "huntersmark",
     "level": "x",
     "initiative": "15",
-    "cardno": "099",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "099"
+  },
+  {
+    "name": "099",
+    "points": 2819,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-hunters-mark.png",
+    "xws": "huntersmark",
+    "level": "x",
+    "initiative": "15",
+    "character-xws": "chieftain",
+    "assetno": "099"
   },
   {
     "name": "impervious armor",
-    "points": 2698,
+    "points": 2820,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-impervious-armor.png",
     "xws": "imperviousarmor",
     "level": "7",
     "initiative": "86",
-    "cardno": "111",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "111"
+  },
+  {
+    "name": "111",
+    "points": 2821,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-impervious-armor.png",
+    "xws": "imperviousarmor",
+    "level": "7",
+    "initiative": "86",
+    "character-xws": "chieftain",
+    "assetno": "111"
   },
   {
     "name": "battle rhinoceros",
-    "points": 2699,
+    "points": 2822,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-impervious-armor.png",
-    "xws": "imperviousarmor",
+    "xws": "battlerhinoceros",
     "level": "7",
     "initiative": "86",
-    "cardno": "111",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "111"
   },
   {
     "name": "majestic mass",
-    "points": 2700,
+    "points": 2823,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-majestic-mass.png",
     "xws": "majesticmass",
     "level": "8",
     "initiative": "86",
-    "cardno": "113",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "113"
+  },
+  {
+    "name": "113",
+    "points": 2824,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-majestic-mass.png",
+    "xws": "majesticmass",
+    "level": "8",
+    "initiative": "86",
+    "character-xws": "chieftain",
+    "assetno": "113"
   },
   {
     "name": "war elephant",
-    "points": 2701,
+    "points": 2825,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-majestic-mass.png",
-    "xws": "majesticmass",
+    "xws": "warelephant",
     "level": "8",
     "initiative": "86",
-    "cardno": "113",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "113"
   },
   {
     "name": "master the reins",
-    "points": 2702,
+    "points": 2826,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-master-the-reins.png",
     "xws": "masterthereins",
     "level": "9",
     "initiative": "30",
-    "cardno": "115",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "115"
+  },
+  {
+    "name": "115",
+    "points": 2827,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-master-the-reins.png",
+    "xws": "masterthereins",
+    "level": "9",
+    "initiative": "30",
+    "character-xws": "chieftain",
+    "assetno": "115"
   },
   {
     "name": "medicine shield",
-    "points": 2703,
+    "points": 2828,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-medicine-shield.png",
     "xws": "medicineshield",
     "level": "2",
     "initiative": "19",
-    "cardno": "101",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "101"
+  },
+  {
+    "name": "101",
+    "points": 2829,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-medicine-shield.png",
+    "xws": "medicineshield",
+    "level": "2",
+    "initiative": "19",
+    "character-xws": "chieftain",
+    "assetno": "101"
   },
   {
     "name": "mounded sight",
-    "points": 2704,
+    "points": 2830,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-mounded-sight.png",
     "xws": "moundedsight",
     "level": "x",
     "initiative": "82",
-    "cardno": "100",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "100"
+  },
+  {
+    "name": "100",
+    "points": 2831,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-mounded-sight.png",
+    "xws": "moundedsight",
+    "level": "x",
+    "initiative": "82",
+    "character-xws": "chieftain",
+    "assetno": "100"
   },
   {
     "name": "cavalry camel",
-    "points": 2705,
+    "points": 2832,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-mounded-sight.png",
-    "xws": "moundedsight",
+    "xws": "cavalrycamel",
     "level": "x",
     "initiative": "82",
-    "cardno": "100",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "100"
   },
   {
     "name": "one with nature",
-    "points": 2706,
+    "points": 2833,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-one-with-nature.png",
     "xws": "onewithnature",
     "level": "6",
     "initiative": "33",
-    "cardno": "109",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "109"
+  },
+  {
+    "name": "109",
+    "points": 2834,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-one-with-nature.png",
+    "xws": "onewithnature",
+    "level": "6",
+    "initiative": "33",
+    "character-xws": "chieftain",
+    "assetno": "109"
   },
   {
     "name": "outrun the enemy",
-    "points": 2707,
+    "points": 2835,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-outrun-the-enemy.png",
     "xws": "outruntheenemy",
     "level": "1",
     "initiative": "87",
-    "cardno": "089",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "089"
+  },
+  {
+    "name": "089",
+    "points": 2836,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-outrun-the-enemy.png",
+    "xws": "outruntheenemy",
+    "level": "1",
+    "initiative": "87",
+    "character-xws": "chieftain",
+    "assetno": "089"
   },
   {
     "name": "speedy ostrich",
-    "points": 2708,
+    "points": 2837,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-outrun-the-enemy.png",
-    "xws": "outruntheenemy",
+    "xws": "speedyostrich",
     "level": "1",
     "initiative": "87",
-    "cardno": "089",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "089"
   },
   {
     "name": "piercing darts",
-    "points": 2709,
+    "points": 2838,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-piercing-darts.png",
     "xws": "piercingdarts",
     "level": "1",
     "initiative": "17",
-    "cardno": "090",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "090"
+  },
+  {
+    "name": "090",
+    "points": 2839,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-piercing-darts.png",
+    "xws": "piercingdarts",
+    "level": "1",
+    "initiative": "17",
+    "character-xws": "chieftain",
+    "assetno": "090"
   },
   {
     "name": "pipe tomahawk",
-    "points": 2710,
+    "points": 2840,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-pipe-tomahawk.png",
     "xws": "pipetomahawk",
     "level": "1",
     "initiative": "26",
-    "cardno": "091",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "091"
+  },
+  {
+    "name": "091",
+    "points": 2841,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-pipe-tomahawk.png",
+    "xws": "pipetomahawk",
+    "level": "1",
+    "initiative": "26",
+    "character-xws": "chieftain",
+    "assetno": "091"
   },
   {
     "name": "positive reinforcement",
-    "points": 2711,
+    "points": 2842,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-positive-reinforcement.png",
     "xws": "positivereinforcement",
     "level": "5",
     "initiative": "24",
-    "cardno": "108",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "108"
+  },
+  {
+    "name": "108",
+    "points": 2843,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-positive-reinforcement.png",
+    "xws": "positivereinforcement",
+    "level": "5",
+    "initiative": "24",
+    "character-xws": "chieftain",
+    "assetno": "108"
   },
   {
     "name": "prepared rations",
-    "points": 2712,
+    "points": 2844,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-prepared-rations.png",
     "xws": "preparedrations",
     "level": "x",
     "initiative": "91",
-    "cardno": "098",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "098"
+  },
+  {
+    "name": "098",
+    "points": 2845,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-prepared-rations.png",
+    "xws": "preparedrations",
+    "level": "x",
+    "initiative": "91",
+    "character-xws": "chieftain",
+    "assetno": "098"
   },
   {
     "name": "pack mule",
-    "points": 2713,
+    "points": 2846,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-prepared-rations.png",
-    "xws": "preparedrations",
+    "xws": "packmule",
     "level": "x",
     "initiative": "91",
-    "cardno": "098",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "098"
   },
   {
     "name": "regal beast",
-    "points": 2714,
+    "points": 2847,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-regal-beast.png",
     "xws": "regalbeast",
     "level": "9",
     "initiative": "81",
-    "cardno": "116",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "116"
+  },
+  {
+    "name": "116",
+    "points": 2848,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-regal-beast.png",
+    "xws": "regalbeast",
+    "level": "9",
+    "initiative": "81",
+    "character-xws": "chieftain",
+    "assetno": "116"
   },
   {
     "name": "sabretooth tiger",
-    "points": 2715,
+    "points": 2849,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-regal-beast.png",
-    "xws": "regalbeast",
+    "xws": "sabretoothtiger",
     "level": "9",
     "initiative": "81",
-    "cardno": "116",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "116"
   },
   {
     "name": "resurrection",
-    "points": 2716,
+    "points": 2850,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-resurrection.png",
     "xws": "resurrection",
     "level": "1",
     "initiative": "32",
-    "cardno": "092",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "092"
+  },
+  {
+    "name": "092",
+    "points": 2851,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-resurrection.png",
+    "xws": "resurrection",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "chieftain",
+    "assetno": "092"
   },
   {
     "name": "skinning knife",
-    "points": 2717,
+    "points": 2852,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-skinning-knife.png",
     "xws": "skinningknife",
     "level": "1",
     "initiative": "54",
-    "cardno": "093",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "093"
+  },
+  {
+    "name": "093",
+    "points": 2853,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-skinning-knife.png",
+    "xws": "skinningknife",
+    "level": "1",
+    "initiative": "54",
+    "character-xws": "chieftain",
+    "assetno": "093"
   },
   {
     "name": "slow and steady",
-    "points": 2718,
+    "points": 2854,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-slow-and-steady.png",
     "xws": "slowandsteady",
     "level": "1",
     "initiative": "93",
-    "cardno": "094",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "094"
+  },
+  {
+    "name": "094",
+    "points": 2855,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-slow-and-steady.png",
+    "xws": "slowandsteady",
+    "level": "1",
+    "initiative": "93",
+    "character-xws": "chieftain",
+    "assetno": "094"
   },
   {
     "name": "giant tortoise",
-    "points": 2719,
+    "points": 2856,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-slow-and-steady.png",
-    "xws": "slowandsteady",
+    "xws": "gianttortoise",
     "level": "1",
     "initiative": "93",
-    "cardno": "094",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "094"
   },
   {
     "name": "sniffing hound",
-    "points": 2720,
+    "points": 2857,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-sniffing-hound.png",
     "xws": "sniffinghound",
     "level": "1",
     "initiative": "80",
-    "cardno": "096",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "096"
+  },
+  {
+    "name": "096",
+    "points": 2858,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-sniffing-hound.png",
+    "xws": "sniffinghound",
+    "level": "1",
+    "initiative": "80",
+    "character-xws": "chieftain",
+    "assetno": "096"
   },
   {
     "name": "scout dog",
-    "points": 2721,
+    "points": 2859,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-sniffing-hound.png",
-    "xws": "sniffinghound",
+    "xws": "scoutdog",
     "level": "1",
     "initiative": "80",
-    "cardno": "096",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "096"
   },
   {
     "name": "soul whisperer",
-    "points": 2722,
+    "points": 2860,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-soul-whisperer.png",
     "xws": "soulwhisperer",
     "level": "1",
     "initiative": "57",
-    "cardno": "097",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "097"
+  },
+  {
+    "name": "097",
+    "points": 2861,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-soul-whisperer.png",
+    "xws": "soulwhisperer",
+    "level": "1",
+    "initiative": "57",
+    "character-xws": "chieftain",
+    "assetno": "097"
   },
   {
     "name": "spiked muzzle",
-    "points": 2723,
+    "points": 2862,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-spiked-muzzle.png",
     "xws": "spikedmuzzle",
     "level": "4",
     "initiative": "47",
-    "cardno": "106",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "106"
+  },
+  {
+    "name": "106",
+    "points": 2863,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-spiked-muzzle.png",
+    "xws": "spikedmuzzle",
+    "level": "4",
+    "initiative": "47",
+    "character-xws": "chieftain",
+    "assetno": "106"
   },
   {
     "name": "strapping bullwhip",
-    "points": 2724,
+    "points": 2864,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-strapping-bullwhip.png",
     "xws": "strappingbullwhip",
     "level": "7",
     "initiative": "29",
-    "cardno": "112",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "112"
+  },
+  {
+    "name": "112",
+    "points": 2865,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-strapping-bullwhip.png",
+    "xws": "strappingbullwhip",
+    "level": "7",
+    "initiative": "29",
+    "character-xws": "chieftain",
+    "assetno": "112"
   },
   {
     "name": "sucker punch",
-    "points": 2725,
+    "points": 2866,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-sucker-punch.png",
     "xws": "suckerpunch",
     "level": "1",
     "initiative": "14",
-    "cardno": "095",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "095"
+  },
+  {
+    "name": "095",
+    "points": 2867,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-sucker-punch.png",
+    "xws": "suckerpunch",
+    "level": "1",
+    "initiative": "14",
+    "character-xws": "chieftain",
+    "assetno": "095"
   },
   {
     "name": "take the reins",
-    "points": 2726,
+    "points": 2868,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-take-the-reins.png",
     "xws": "takethereins",
     "level": "3",
     "initiative": "40",
-    "cardno": "103",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "103"
+  },
+  {
+    "name": "103",
+    "points": 2869,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-take-the-reins.png",
+    "xws": "takethereins",
+    "level": "3",
+    "initiative": "40",
+    "character-xws": "chieftain",
+    "assetno": "103"
   },
   {
     "name": "tribal blessing",
-    "points": 2727,
+    "points": 2870,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-tribal-blessing.png",
     "xws": "tribalblessing",
     "level": "8",
     "initiative": "46",
-    "cardno": "114",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "114"
+  },
+  {
+    "name": "114",
+    "points": 2871,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-tribal-blessing.png",
+    "xws": "tribalblessing",
+    "level": "8",
+    "initiative": "46",
+    "character-xws": "chieftain",
+    "assetno": "114"
   },
   {
     "name": "venomous mayhem",
-    "points": 2728,
+    "points": 2872,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-venomous-mayhem.png",
     "xws": "venomousmayhem",
     "level": "6",
     "initiative": "92",
-    "cardno": "110",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "110"
+  },
+  {
+    "name": "110",
+    "points": 2873,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ct/cs-venomous-mayhem.png",
+    "xws": "venomousmayhem",
+    "level": "6",
+    "initiative": "92",
+    "character-xws": "chieftain",
+    "assetno": "110"
   },
   {
     "name": "cottonmouth snake",
-    "points": 2729,
+    "points": 2874,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-venomous-mayhem.png",
-    "xws": "venomousmayhem",
+    "xws": "cottonmouthsnake",
     "level": "6",
     "initiative": "92",
-    "cardno": "110",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "110"
   },
   {
     "name": "war paint",
-    "points": 2730,
+    "points": 2875,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ct/cs-war-paint.png",
     "xws": "warpaint",
     "level": "4",
     "initiative": "28",
-    "cardno": "105",
-    "character-xws": "chieftain"
+    "character-xws": "chieftain",
+    "assetno": "105"
   },
   {
-    "name": "fk-back",
-    "points": 2731,
+    "name": "105",
+    "points": 2876,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/fk/cs-fk-back.png",
-    "xws": "fkback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "fire knight"
+    "image": "character-ability-cards/crimson-scales/ct/cs-war-paint.png",
+    "xws": "warpaint",
+    "level": "4",
+    "initiative": "28",
+    "character-xws": "chieftain",
+    "assetno": "105"
   },
   {
     "name": "backdraft",
-    "points": 2732,
+    "points": 2877,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-backdraft.png",
     "xws": "backdraft",
     "level": "8",
     "initiative": "38",
-    "cardno": "142",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "142"
+  },
+  {
+    "name": "142",
+    "points": 2878,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-backdraft.png",
+    "xws": "backdraft",
+    "level": "8",
+    "initiative": "38",
+    "character-xws": "fire knight",
+    "assetno": "142"
   },
   {
     "name": "cauterize wound",
-    "points": 2733,
+    "points": 2879,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-cauterize-wound.png",
     "xws": "cauterizewound",
     "level": "8",
     "initiative": "13",
-    "cardno": "143",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "143"
+  },
+  {
+    "name": "143",
+    "points": 2880,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-cauterize-wound.png",
+    "xws": "cauterizewound",
+    "level": "8",
+    "initiative": "13",
+    "character-xws": "fire knight",
+    "assetno": "143"
   },
   {
     "name": "collective combat",
-    "points": 2734,
+    "points": 2881,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-collective-combat.png",
     "xws": "collectivecombat",
     "level": "1",
     "initiative": "64",
-    "cardno": "119",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "119"
+  },
+  {
+    "name": "119",
+    "points": 2882,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-collective-combat.png",
+    "xws": "collectivecombat",
+    "level": "1",
+    "initiative": "64",
+    "character-xws": "fire knight",
+    "assetno": "119"
   },
   {
     "name": "combat medic",
-    "points": 2735,
+    "points": 2883,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-combat-medic.png",
     "xws": "combatmedic",
     "level": "1",
     "initiative": "61",
-    "cardno": "125",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "125"
+  },
+  {
+    "name": "125",
+    "points": 2884,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-combat-medic.png",
+    "xws": "combatmedic",
+    "level": "1",
+    "initiative": "61",
+    "character-xws": "fire knight",
+    "assetno": "125"
   },
   {
     "name": "combined effort",
-    "points": 2736,
+    "points": 2885,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-combined-effort.png",
     "xws": "combinedeffort",
     "level": "1",
     "initiative": "19",
-    "cardno": "118",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "118"
+  },
+  {
+    "name": "118",
+    "points": 2886,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-combined-effort.png",
+    "xws": "combinedeffort",
+    "level": "1",
+    "initiative": "19",
+    "character-xws": "fire knight",
+    "assetno": "118"
   },
   {
     "name": "controlled aggression",
-    "points": 2737,
+    "points": 2887,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-controlled-aggression.png",
     "xws": "controlledaggression",
     "level": "1",
     "initiative": "77",
-    "cardno": "120",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "120"
+  },
+  {
+    "name": "120",
+    "points": 2888,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-controlled-aggression.png",
+    "xws": "controlledaggression",
+    "level": "1",
+    "initiative": "77",
+    "character-xws": "fire knight",
+    "assetno": "120"
   },
   {
     "name": "coordinated attack",
-    "points": 2738,
+    "points": 2889,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-coordinated-attack.png",
     "xws": "coordinatedattack",
     "level": "1",
     "initiative": "22",
-    "cardno": "126",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "126"
+  },
+  {
+    "name": "126",
+    "points": 2890,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-coordinated-attack.png",
+    "xws": "coordinatedattack",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "fire knight",
+    "assetno": "126"
   },
   {
     "name": "crew integrity",
-    "points": 2739,
+    "points": 2891,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-crew-integrity.png",
     "xws": "crewintegrity",
     "level": "3",
     "initiative": "20",
-    "cardno": "133",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "133"
+  },
+  {
+    "name": "133",
+    "points": 2892,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-crew-integrity.png",
+    "xws": "crewintegrity",
+    "level": "3",
+    "initiative": "20",
+    "character-xws": "fire knight",
+    "assetno": "133"
   },
   {
     "name": "fiery charisma",
-    "points": 2740,
+    "points": 2893,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-fiery-charisma.png",
     "xws": "fierycharisma",
     "level": "x",
     "initiative": "25",
-    "cardno": "127",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "127"
+  },
+  {
+    "name": "127",
+    "points": 2894,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-fiery-charisma.png",
+    "xws": "fierycharisma",
+    "level": "x",
+    "initiative": "25",
+    "character-xws": "fire knight",
+    "assetno": "127"
   },
   {
     "name": "fire whirl",
-    "points": 2741,
+    "points": 2895,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-fire-whirl.png",
     "xws": "firewhirl",
     "level": "1",
     "initiative": "51",
-    "cardno": "123",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "123"
+  },
+  {
+    "name": "123",
+    "points": 2896,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-fire-whirl.png",
+    "xws": "firewhirl",
+    "level": "1",
+    "initiative": "51",
+    "character-xws": "fire knight",
+    "assetno": "123"
+  },
+  {
+    "name": "fk-back",
+    "points": 2897,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-fk-back.png",
+    "xws": "fkback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "fire knight",
+    "assetno": "###"
   },
   {
     "name": "flaming axe",
-    "points": 2742,
+    "points": 2898,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-flaming-axe.png",
     "xws": "flamingaxe",
     "level": "6",
     "initiative": "23",
-    "cardno": "138",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "138"
+  },
+  {
+    "name": "138",
+    "points": 2899,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-flaming-axe.png",
+    "xws": "flamingaxe",
+    "level": "6",
+    "initiative": "23",
+    "character-xws": "fire knight",
+    "assetno": "138"
   },
   {
     "name": "flashover",
-    "points": 2743,
+    "points": 2900,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-flashover.png",
     "xws": "flashover",
     "level": "9",
     "initiative": "96",
-    "cardno": "144",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "144"
+  },
+  {
+    "name": "144",
+    "points": 2901,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-flashover.png",
+    "xws": "flashover",
+    "level": "9",
+    "initiative": "96",
+    "character-xws": "fire knight",
+    "assetno": "144"
   },
   {
     "name": "reigniting drakefiend",
-    "points": 2744,
+    "points": 2902,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-flashover.png",
-    "xws": "flashover",
+    "xws": "reignitingdrakefiend",
     "level": "9",
     "initiative": "96",
-    "cardno": "144",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "144"
   },
   {
     "name": "forcible entry",
-    "points": 2745,
+    "points": 2903,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-forcible-entry.png",
     "xws": "forcibleentry",
     "level": "1",
     "initiative": "15",
-    "cardno": "117",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "117"
+  },
+  {
+    "name": "117",
+    "points": 2904,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-forcible-entry.png",
+    "xws": "forcibleentry",
+    "level": "1",
+    "initiative": "15",
+    "character-xws": "fire knight",
+    "assetno": "117"
   },
   {
     "name": "heavy irons",
-    "points": 2746,
+    "points": 2905,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-heavy-irons.png",
     "xws": "heavyirons",
     "level": "2",
     "initiative": "79",
-    "cardno": "130",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "130"
+  },
+  {
+    "name": "130",
+    "points": 2906,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-heavy-irons.png",
+    "xws": "heavyirons",
+    "level": "2",
+    "initiative": "79",
+    "character-xws": "fire knight",
+    "assetno": "130"
   },
   {
     "name": "hook and ladder",
-    "points": 2747,
+    "points": 2907,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-hook-and-ladder.png",
     "xws": "hookandladder",
     "level": "5",
     "initiative": "32",
-    "cardno": "136",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "136"
+  },
+  {
+    "name": "136",
+    "points": 2908,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-hook-and-ladder.png",
+    "xws": "hookandladder",
+    "level": "5",
+    "initiative": "32",
+    "character-xws": "fire knight",
+    "assetno": "136"
   },
   {
     "name": "incident commander",
-    "points": 2748,
+    "points": 2909,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-incident-commander.png",
     "xws": "incidentcommander",
     "level": "9",
     "initiative": "17",
-    "cardno": "145",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "145"
+  },
+  {
+    "name": "145",
+    "points": 2910,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-incident-commander.png",
+    "xws": "incidentcommander",
+    "level": "9",
+    "initiative": "17",
+    "character-xws": "fire knight",
+    "assetno": "145"
   },
   {
     "name": "jack of all trades",
-    "points": 2749,
+    "points": 2911,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-jack-of-all-trades.png",
     "xws": "jackofalltrades",
     "level": "4",
     "initiative": "27",
-    "cardno": "134",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "134"
+  },
+  {
+    "name": "134",
+    "points": 2912,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-jack-of-all-trades.png",
+    "xws": "jackofalltrades",
+    "level": "4",
+    "initiative": "27",
+    "character-xws": "fire knight",
+    "assetno": "134"
   },
   {
     "name": "kindled tonic",
-    "points": 2750,
+    "points": 2913,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-kindled-tonic.png",
     "xws": "kindledtonic",
     "level": "4",
     "initiative": "39",
-    "cardno": "135",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "135"
+  },
+  {
+    "name": "135",
+    "points": 2914,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-kindled-tonic.png",
+    "xws": "kindledtonic",
+    "level": "4",
+    "initiative": "39",
+    "character-xws": "fire knight",
+    "assetno": "135"
   },
   {
     "name": "ladder assault",
-    "points": 2751,
+    "points": 2915,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-ladder-assault.png",
     "xws": "ladderassault",
     "level": "3",
     "initiative": "68",
-    "cardno": "132",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "132"
+  },
+  {
+    "name": "132",
+    "points": 2916,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-ladder-assault.png",
+    "xws": "ladderassault",
+    "level": "3",
+    "initiative": "68",
+    "character-xws": "fire knight",
+    "assetno": "132"
   },
   {
     "name": "light irons",
-    "points": 2752,
+    "points": 2917,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-light-irons.png",
     "xws": "lightirons",
     "level": "1",
     "initiative": "30",
-    "cardno": "124",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "124"
+  },
+  {
+    "name": "124",
+    "points": 2918,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-light-irons.png",
+    "xws": "lightirons",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "fire knight",
+    "assetno": "124"
   },
   {
     "name": "loyal companion",
-    "points": 2753,
+    "points": 2919,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-loyal-companion.png",
     "xws": "loyalcompanion",
     "level": "x",
     "initiative": "81",
-    "cardno": "128",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "128"
+  },
+  {
+    "name": "128",
+    "points": 2920,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-loyal-companion.png",
+    "xws": "loyalcompanion",
+    "level": "x",
+    "initiative": "81",
+    "character-xws": "fire knight",
+    "assetno": "128"
   },
   {
     "name": "spotted hound",
-    "points": 2754,
+    "points": 2921,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-loyal-companion.png",
-    "xws": "loyalcompanion",
+    "xws": "spottedhound",
     "level": "x",
     "initiative": "81",
-    "cardno": "128",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "128"
   },
   {
     "name": "mutual aid",
-    "points": 2755,
+    "points": 2922,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-mutual-aid.png",
     "xws": "mutualaid",
     "level": "6",
     "initiative": "44",
-    "cardno": "139",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "139"
+  },
+  {
+    "name": "139",
+    "points": 2923,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-mutual-aid.png",
+    "xws": "mutualaid",
+    "level": "6",
+    "initiative": "44",
+    "character-xws": "fire knight",
+    "assetno": "139"
   },
   {
     "name": "playing with fire",
-    "points": 2756,
+    "points": 2924,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-playing-with-fire.png",
     "xws": "playingwithfire",
     "level": "1",
     "initiative": "40",
-    "cardno": "122",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "122"
+  },
+  {
+    "name": "122",
+    "points": 2925,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-playing-with-fire.png",
+    "xws": "playingwithfire",
+    "level": "1",
+    "initiative": "40",
+    "character-xws": "fire knight",
+    "assetno": "122"
   },
   {
     "name": "practical tools",
-    "points": 2757,
+    "points": 2926,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-practical-tools.png",
     "xws": "practicaltools",
     "level": "x",
     "initiative": "36",
-    "cardno": "129",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "129"
+  },
+  {
+    "name": "129",
+    "points": 2927,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-practical-tools.png",
+    "xws": "practicaltools",
+    "level": "x",
+    "initiative": "36",
+    "character-xws": "fire knight",
+    "assetno": "129"
   },
   {
     "name": "rapid response",
-    "points": 2758,
+    "points": 2928,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-rapid-response.png",
     "xws": "rapidresponse",
     "level": "1",
     "initiative": "12",
-    "cardno": "121",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "121"
+  },
+  {
+    "name": "121",
+    "points": 2929,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-rapid-response.png",
+    "xws": "rapidresponse",
+    "level": "1",
+    "initiative": "12",
+    "character-xws": "fire knight",
+    "assetno": "121"
   },
   {
     "name": "rolling flames",
-    "points": 2759,
+    "points": 2930,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-rolling-flames.png",
     "xws": "rollingflames",
     "level": "7",
     "initiative": "53",
-    "cardno": "140",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "140"
+  },
+  {
+    "name": "140",
+    "points": 2931,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-rolling-flames.png",
+    "xws": "rollingflames",
+    "level": "7",
+    "initiative": "53",
+    "character-xws": "fire knight",
+    "assetno": "140"
   },
   {
     "name": "search and rescue",
-    "points": 2760,
+    "points": 2932,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-search-and-rescue.png",
     "xws": "searchandrescue",
     "level": "7",
     "initiative": "18",
-    "cardno": "141",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "141"
+  },
+  {
+    "name": "141",
+    "points": 2933,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-search-and-rescue.png",
+    "xws": "searchandrescue",
+    "level": "7",
+    "initiative": "18",
+    "character-xws": "fire knight",
+    "assetno": "141"
   },
   {
     "name": "searing blaze",
-    "points": 2761,
+    "points": 2934,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-searing-blaze.png",
     "xws": "searingblaze",
     "level": "5",
     "initiative": "75",
-    "cardno": "137",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "137"
+  },
+  {
+    "name": "137",
+    "points": 2935,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/fk/cs-searing-blaze.png",
+    "xws": "searingblaze",
+    "level": "5",
+    "initiative": "75",
+    "character-xws": "fire knight",
+    "assetno": "137"
   },
   {
     "name": "trauma care",
-    "points": 2762,
+    "points": 2936,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/fk/cs-trauma-care.png",
     "xws": "traumacare",
     "level": "2",
     "initiative": "31",
-    "cardno": "131",
-    "character-xws": "fire knight"
+    "character-xws": "fire knight",
+    "assetno": "131"
   },
   {
-    "name": "ho-back",
-    "points": 2763,
+    "name": "131",
+    "points": 2937,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/ho/cs-ho-back.png",
-    "xws": "hoback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "hollowpact"
+    "image": "character-ability-cards/crimson-scales/fk/cs-trauma-care.png",
+    "xws": "traumacare",
+    "level": "2",
+    "initiative": "31",
+    "character-xws": "fire knight",
+    "assetno": "131"
   },
   {
     "name": "borrowed vitality",
-    "points": 2764,
+    "points": 2938,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-borrowed-vitality.png",
     "xws": "borrowedvitality",
     "level": "1",
     "initiative": "37",
-    "cardno": "189",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "189"
+  },
+  {
+    "name": "189",
+    "points": 2939,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-borrowed-vitality.png",
+    "xws": "borrowedvitality",
+    "level": "1",
+    "initiative": "37",
+    "character-xws": "hollowpact",
+    "assetno": "189"
   },
   {
     "name": "channel the void",
-    "points": 2765,
+    "points": 2940,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-channel-the-void.png",
     "xws": "channelthevoid",
     "level": "1",
     "initiative": "88",
-    "cardno": "186",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "186"
+  },
+  {
+    "name": "186",
+    "points": 2941,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-channel-the-void.png",
+    "xws": "channelthevoid",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "hollowpact",
+    "assetno": "186"
   },
   {
     "name": "empowered assault",
-    "points": 2766,
+    "points": 2942,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-empowered-assault.png",
     "xws": "empoweredassault",
     "level": "3",
     "initiative": "19",
-    "cardno": "199",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "199"
+  },
+  {
+    "name": "199",
+    "points": 2943,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-empowered-assault.png",
+    "xws": "empoweredassault",
+    "level": "3",
+    "initiative": "19",
+    "character-xws": "hollowpact",
+    "assetno": "199"
   },
   {
     "name": "enduring darkness",
-    "points": 2767,
+    "points": 2944,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-enduring-darkness.png",
     "xws": "enduringdarkness",
     "level": "6",
     "initiative": "26",
-    "cardno": "205",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "205"
+  },
+  {
+    "name": "205",
+    "points": 2945,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-enduring-darkness.png",
+    "xws": "enduringdarkness",
+    "level": "6",
+    "initiative": "26",
+    "character-xws": "hollowpact",
+    "assetno": "205"
   },
   {
     "name": "enervating strike",
-    "points": 2768,
+    "points": 2946,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-enervating-strike.png",
     "xws": "enervatingstrike",
     "level": "1",
     "initiative": "25",
-    "cardno": "188",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "188"
+  },
+  {
+    "name": "188",
+    "points": 2947,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-enervating-strike.png",
+    "xws": "enervatingstrike",
+    "level": "1",
+    "initiative": "25",
+    "character-xws": "hollowpact",
+    "assetno": "188"
   },
   {
     "name": "entropy unleashed",
-    "points": 2769,
+    "points": 2948,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-entropy-unleashed.png",
     "xws": "entropyunleashed",
     "level": "8",
     "initiative": "28",
-    "cardno": "209",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "209"
+  },
+  {
+    "name": "209",
+    "points": 2949,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-entropy-unleashed.png",
+    "xws": "entropyunleashed",
+    "level": "8",
+    "initiative": "28",
+    "character-xws": "hollowpact",
+    "assetno": "209"
   },
   {
     "name": "find an opening",
-    "points": 2770,
+    "points": 2950,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-find-an-opening.png",
     "xws": "findanopening",
     "level": "1",
     "initiative": "15",
-    "cardno": "192",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "192"
+  },
+  {
+    "name": "192",
+    "points": 2951,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-find-an-opening.png",
+    "xws": "findanopening",
+    "level": "1",
+    "initiative": "15",
+    "character-xws": "hollowpact",
+    "assetno": "192"
   },
   {
     "name": "gateway to the abyss",
-    "points": 2771,
+    "points": 2952,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-gateway-to-the-abyss.png",
     "xws": "gatewaytotheabyss",
     "level": "7",
     "initiative": "66",
-    "cardno": "208",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "208"
+  },
+  {
+    "name": "208",
+    "points": 2953,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-gateway-to-the-abyss.png",
+    "xws": "gatewaytotheabyss",
+    "level": "7",
+    "initiative": "66",
+    "character-xws": "hollowpact",
+    "assetno": "208"
   },
   {
     "name": "greed before need",
-    "points": 2772,
+    "points": 2954,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-greed-before-need.png",
     "xws": "greedbeforeneed",
     "level": "x",
     "initiative": "33",
-    "cardno": "196",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "196"
+  },
+  {
+    "name": "196",
+    "points": 2955,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-greed-before-need.png",
+    "xws": "greedbeforeneed",
+    "level": "x",
+    "initiative": "33",
+    "character-xws": "hollowpact",
+    "assetno": "196"
+  },
+  {
+    "name": "ho-back",
+    "points": 2956,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-ho-back.png",
+    "xws": "hoback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "hollowpact",
+    "assetno": "###"
   },
   {
     "name": "hollow embrace",
-    "points": 2773,
+    "points": 2957,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-hollow-embrace.png",
     "xws": "hollowembrace",
     "level": "x",
     "initiative": "53",
-    "cardno": "195",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "195"
+  },
+  {
+    "name": "195",
+    "points": 2958,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-hollow-embrace.png",
+    "xws": "hollowembrace",
+    "level": "x",
+    "initiative": "53",
+    "character-xws": "hollowpact",
+    "assetno": "195"
   },
   {
     "name": "implosion",
-    "points": 2774,
+    "points": 2959,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-implosion.png",
     "xws": "implosion",
     "level": "6",
     "initiative": "49",
-    "cardno": "206",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "206"
+  },
+  {
+    "name": "206",
+    "points": 2960,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-implosion.png",
+    "xws": "implosion",
+    "level": "6",
+    "initiative": "49",
+    "character-xws": "hollowpact",
+    "assetno": "206"
   },
   {
     "name": "majestic malevolence",
-    "points": 2775,
+    "points": 2961,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-majestic-malevolence.png",
     "xws": "majesticmalevolence",
     "level": "3",
     "initiative": "89",
-    "cardno": "200",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "200"
+  },
+  {
+    "name": "200",
+    "points": 2962,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-majestic-malevolence.png",
+    "xws": "majesticmalevolence",
+    "level": "3",
+    "initiative": "89",
+    "character-xws": "hollowpact",
+    "assetno": "200"
   },
   {
     "name": "nether binding",
-    "points": 2776,
+    "points": 2963,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-nether-binding.png",
     "xws": "netherbinding",
     "level": "2",
     "initiative": "64",
-    "cardno": "197",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "197"
+  },
+  {
+    "name": "197",
+    "points": 2964,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-nether-binding.png",
+    "xws": "netherbinding",
+    "level": "2",
+    "initiative": "64",
+    "character-xws": "hollowpact",
+    "assetno": "197"
   },
   {
     "name": "nether blades",
-    "points": 2777,
+    "points": 2965,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-nether-blades.png",
     "xws": "netherblades",
     "level": "1",
     "initiative": "55",
-    "cardno": "185",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "185"
+  },
+  {
+    "name": "185",
+    "points": 2966,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-nether-blades.png",
+    "xws": "netherblades",
+    "level": "1",
+    "initiative": "55",
+    "character-xws": "hollowpact",
+    "assetno": "185"
   },
   {
     "name": "no escape",
-    "points": 2778,
+    "points": 2967,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-no-escape.png",
     "xws": "noescape",
     "level": "9",
     "initiative": "57",
-    "cardno": "212",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "212"
+  },
+  {
+    "name": "212",
+    "points": 2968,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-no-escape.png",
+    "xws": "noescape",
+    "level": "9",
+    "initiative": "57",
+    "character-xws": "hollowpact",
+    "assetno": "212"
   },
   {
     "name": "obliterate",
-    "points": 2779,
+    "points": 2969,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-obliterate.png",
     "xws": "obliterate",
     "level": "4",
     "initiative": "13",
-    "cardno": "202",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "202"
+  },
+  {
+    "name": "202",
+    "points": 2970,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-obliterate.png",
+    "xws": "obliterate",
+    "level": "4",
+    "initiative": "13",
+    "character-xws": "hollowpact",
+    "assetno": "202"
   },
   {
     "name": "one with nothingness",
-    "points": 2780,
+    "points": 2971,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-one-with-nothingness.png",
     "xws": "onewithnothingness",
     "level": "x",
     "initiative": "31",
-    "cardno": "194",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "194"
+  },
+  {
+    "name": "194",
+    "points": 2972,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-one-with-nothingness.png",
+    "xws": "onewithnothingness",
+    "level": "x",
+    "initiative": "31",
+    "character-xws": "hollowpact",
+    "assetno": "194"
   },
   {
     "name": "prescient voidmastery",
-    "points": 2781,
+    "points": 2973,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-prescient-voidmastery.png",
     "xws": "prescientvoidmastery",
     "level": "9",
     "initiative": "11",
-    "cardno": "211",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "211"
+  },
+  {
+    "name": "211",
+    "points": 2974,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-prescient-voidmastery.png",
+    "xws": "prescientvoidmastery",
+    "level": "9",
+    "initiative": "11",
+    "character-xws": "hollowpact",
+    "assetno": "211"
   },
   {
     "name": "reaching darkness",
-    "points": 2782,
+    "points": 2975,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-reaching-darkness.png",
     "xws": "reachingdarkness",
     "level": "1",
     "initiative": "79",
-    "cardno": "193",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "193"
+  },
+  {
+    "name": "193",
+    "points": 2976,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-reaching-darkness.png",
+    "xws": "reachingdarkness",
+    "level": "1",
+    "initiative": "79",
+    "character-xws": "hollowpact",
+    "assetno": "193"
   },
   {
     "name": "ruinous barrage",
-    "points": 2783,
+    "points": 2977,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-ruinous-barrage.png",
     "xws": "ruinousbarrage",
     "level": "7",
     "initiative": "38",
-    "cardno": "207",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "207"
+  },
+  {
+    "name": "207",
+    "points": 2978,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-ruinous-barrage.png",
+    "xws": "ruinousbarrage",
+    "level": "7",
+    "initiative": "38",
+    "character-xws": "hollowpact",
+    "assetno": "207"
   },
   {
     "name": "sever reality",
-    "points": 2784,
+    "points": 2979,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-sever-reality.png",
     "xws": "severreality",
     "level": "5",
     "initiative": "78",
-    "cardno": "204",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "204"
+  },
+  {
+    "name": "204",
+    "points": 2980,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-sever-reality.png",
+    "xws": "severreality",
+    "level": "5",
+    "initiative": "78",
+    "character-xws": "hollowpact",
+    "assetno": "204"
   },
   {
     "name": "shrouded grasp",
-    "points": 2785,
+    "points": 2981,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-shrouded-grasp.png",
     "xws": "shroudedgrasp",
     "level": "2",
     "initiative": "23",
-    "cardno": "198",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "198"
+  },
+  {
+    "name": "198",
+    "points": 2982,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-shrouded-grasp.png",
+    "xws": "shroudedgrasp",
+    "level": "2",
+    "initiative": "23",
+    "character-xws": "hollowpact",
+    "assetno": "198"
   },
   {
     "name": "stalking quarry",
-    "points": 2786,
+    "points": 2983,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-stalking-quarry.png",
     "xws": "stalkingquarry",
     "level": "5",
     "initiative": "14",
-    "cardno": "203",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "203"
+  },
+  {
+    "name": "203",
+    "points": 2984,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-stalking-quarry.png",
+    "xws": "stalkingquarry",
+    "level": "5",
+    "initiative": "14",
+    "character-xws": "hollowpact",
+    "assetno": "203"
   },
   {
     "name": "tendrils of night",
-    "points": 2787,
+    "points": 2985,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-tendrils-of-night.png",
     "xws": "tendrilsofnight",
     "level": "8",
     "initiative": "44",
-    "cardno": "210",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "210"
+  },
+  {
+    "name": "210",
+    "points": 2986,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-tendrils-of-night.png",
+    "xws": "tendrilsofnight",
+    "level": "8",
+    "initiative": "44",
+    "character-xws": "hollowpact",
+    "assetno": "210"
   },
   {
     "name": "touch of the void",
-    "points": 2788,
+    "points": 2987,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-touch-of-the-void.png",
     "xws": "touchofthevoid",
     "level": "1",
     "initiative": "29",
-    "cardno": "191",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "191"
+  },
+  {
+    "name": "191",
+    "points": 2988,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-touch-of-the-void.png",
+    "xws": "touchofthevoid",
+    "level": "1",
+    "initiative": "29",
+    "character-xws": "hollowpact",
+    "assetno": "191"
   },
   {
     "name": "untethered advance",
-    "points": 2789,
+    "points": 2989,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-untethered-advance.png",
     "xws": "untetheredadvance",
     "level": "1",
     "initiative": "46",
-    "cardno": "190",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "190"
+  },
+  {
+    "name": "190",
+    "points": 2990,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-untethered-advance.png",
+    "xws": "untetheredadvance",
+    "level": "1",
+    "initiative": "46",
+    "character-xws": "hollowpact",
+    "assetno": "190"
   },
   {
     "name": "void-enhanced armory",
-    "points": 2790,
+    "points": 2991,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-void-enhanced-armory.png",
     "xws": "voidenhancedarmory",
     "level": "4",
     "initiative": "17",
-    "cardno": "201",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "201"
+  },
+  {
+    "name": "201",
+    "points": 2992,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-void-enhanced-armory.png",
+    "xws": "voidenhancedarmory",
+    "level": "4",
+    "initiative": "17",
+    "character-xws": "hollowpact",
+    "assetno": "201"
   },
   {
     "name": "void step",
-    "points": 2791,
+    "points": 2993,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-void-step.png",
     "xws": "voidstep",
     "level": "1",
     "initiative": "20",
-    "cardno": "184",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "184"
+  },
+  {
+    "name": "184",
+    "points": 2994,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/ho/cs-void-step.png",
+    "xws": "voidstep",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "hollowpact",
+    "assetno": "184"
   },
   {
     "name": "withering deluge",
-    "points": 2792,
+    "points": 2995,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/ho/cs-withering-deluge.png",
     "xws": "witheringdeluge",
     "level": "1",
     "initiative": "47",
-    "cardno": "187",
-    "character-xws": "hollowpact"
+    "character-xws": "hollowpact",
+    "assetno": "187"
   },
   {
-    "name": "hp-back",
-    "points": 2793,
+    "name": "187",
+    "points": 2996,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/hp/cs-hp-back.png",
-    "xws": "hpback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "hierophant"
+    "image": "character-ability-cards/crimson-scales/ho/cs-withering-deluge.png",
+    "xws": "witheringdeluge",
+    "level": "1",
+    "initiative": "47",
+    "character-xws": "hollowpact",
+    "assetno": "187"
   },
   {
     "name": "aspiration",
-    "points": 2794,
+    "points": 2997,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-aspiration.png",
     "xws": "aspiration",
     "level": "p",
     "initiative": "50",
-    "cardno": "176",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "176"
+  },
+  {
+    "name": "176",
+    "points": 2998,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-aspiration.png",
+    "xws": "aspiration",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "176"
   },
   {
     "name": "beacon of hope",
-    "points": 2795,
+    "points": 2999,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-beacon-of-hope.png",
     "xws": "beaconofhope",
     "level": "4",
     "initiative": "82",
-    "cardno": "164",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "164"
+  },
+  {
+    "name": "164",
+    "points": 3000,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-beacon-of-hope.png",
+    "xws": "beaconofhope",
+    "level": "4",
+    "initiative": "82",
+    "character-xws": "hierophant",
+    "assetno": "164"
   },
   {
     "name": "bringer of miracles",
-    "points": 2796,
+    "points": 3001,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-bringer-of-miracles.png",
     "xws": "bringerofmiracles",
     "level": "9",
     "initiative": "36",
-    "cardno": "174",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "174"
+  },
+  {
+    "name": "174",
+    "points": 3002,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-bringer-of-miracles.png",
+    "xws": "bringerofmiracles",
+    "level": "9",
+    "initiative": "36",
+    "character-xws": "hierophant",
+    "assetno": "174"
   },
   {
     "name": "chains of light",
-    "points": 2797,
+    "points": 3003,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-chains-of-light.png",
     "xws": "chainsoflight",
     "level": "6",
     "initiative": "31",
-    "cardno": "168",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "168"
+  },
+  {
+    "name": "168",
+    "points": 3004,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-chains-of-light.png",
+    "xws": "chainsoflight",
+    "level": "6",
+    "initiative": "31",
+    "character-xws": "hierophant",
+    "assetno": "168"
   },
   {
     "name": "devotion",
-    "points": 2798,
+    "points": 3005,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-devotion.png",
     "xws": "devotion",
     "level": "p",
     "initiative": "50",
-    "cardno": "177",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "177"
+  },
+  {
+    "name": "177",
+    "points": 3006,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-devotion.png",
+    "xws": "devotion",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "177"
   },
   {
     "name": "devout assistance",
-    "points": 2799,
+    "points": 3007,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-devout-assistance.png",
     "xws": "devoutassistance",
     "level": "5",
     "initiative": "37",
-    "cardno": "166",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "166"
+  },
+  {
+    "name": "166",
+    "points": 3008,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-devout-assistance.png",
+    "xws": "devoutassistance",
+    "level": "5",
+    "initiative": "37",
+    "character-xws": "hierophant",
+    "assetno": "166"
   },
   {
     "name": "divine allegiance",
-    "points": 2800,
+    "points": 3009,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-divine-allegiance.png",
-    "xws": "devineallegiance",
+    "xws": "divineallegiance",
     "level": "2",
     "initiative": "63",
-    "cardno": "160",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "160"
+  },
+  {
+    "name": "160",
+    "points": 3010,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-divine-allegiance.png",
+    "xws": "divineallegiance",
+    "level": "2",
+    "initiative": "63",
+    "character-xws": "hierophant",
+    "assetno": "160"
   },
   {
     "name": "encouraged conviction",
-    "points": 2801,
+    "points": 3011,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-encouraged-conviction.png",
     "xws": "encouragedconviction",
     "level": "3",
     "initiative": "14",
-    "cardno": "162",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "162"
+  },
+  {
+    "name": "162",
+    "points": 3012,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-encouraged-conviction.png",
+    "xws": "encouragedconviction",
+    "level": "3",
+    "initiative": "14",
+    "character-xws": "hierophant",
+    "assetno": "162"
   },
   {
     "name": "expansive permanence",
-    "points": 2802,
+    "points": 3013,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-expansive-permanence.png",
     "xws": "expansivepermanence",
     "level": "9",
     "initiative": "09",
-    "cardno": "175",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "175"
+  },
+  {
+    "name": "175",
+    "points": 3014,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-expansive-permanence.png",
+    "xws": "expansivepermanence",
+    "level": "9",
+    "initiative": "09",
+    "character-xws": "hierophant",
+    "assetno": "175"
   },
   {
     "name": "faith calling",
-    "points": 2803,
+    "points": 3015,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-faith-calling.png",
     "xws": "faithcalling",
     "level": "1",
     "initiative": "13",
-    "cardno": "146",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "146"
+  },
+  {
+    "name": "146",
+    "points": 3016,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-faith-calling.png",
+    "xws": "faithcalling",
+    "level": "1",
+    "initiative": "13",
+    "character-xws": "hierophant",
+    "assetno": "146"
   },
   {
     "name": "grace",
-    "points": 2804,
+    "points": 3017,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-grace.png",
     "xws": "grace",
     "level": "p",
     "initiative": "50",
-    "cardno": "178",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "178"
+  },
+  {
+    "name": "178",
+    "points": 3018,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-grace.png",
+    "xws": "grace",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "178"
   },
   {
     "name": "harsh rebuke",
-    "points": 2805,
+    "points": 3019,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-harsh-rebuke.png",
     "xws": "harshrebuke",
     "level": "1",
     "initiative": "44",
-    "cardno": "147",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "147"
+  },
+  {
+    "name": "147",
+    "points": 3020,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-harsh-rebuke.png",
+    "xws": "harshrebuke",
+    "level": "1",
+    "initiative": "44",
+    "character-xws": "hierophant",
+    "assetno": "147"
+  },
+  {
+    "name": "hp-back",
+    "points": 3021,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-hp-back.png",
+    "xws": "hpback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "hierophant",
+    "assetno": "###"
   },
   {
     "name": "impetuous inquisition",
-    "points": 2806,
+    "points": 3022,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-impetuous-inquisition.png",
     "xws": "impetuousinquisition",
     "level": "1",
     "initiative": "28",
-    "cardno": "148",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "148"
+  },
+  {
+    "name": "148",
+    "points": 3023,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-impetuous-inquisition.png",
+    "xws": "impetuousinquisition",
+    "level": "1",
+    "initiative": "28",
+    "character-xws": "hierophant",
+    "assetno": "148"
   },
   {
     "name": "inner reflection",
-    "points": 2807,
+    "points": 3024,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-inner-reflection.png",
     "xws": "innerreflection",
     "level": "1",
     "initiative": "53",
-    "cardno": "149",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "149"
+  },
+  {
+    "name": "149",
+    "points": 3025,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-inner-reflection.png",
+    "xws": "innerreflection",
+    "level": "1",
+    "initiative": "53",
+    "character-xws": "hierophant",
+    "assetno": "149"
   },
   {
     "name": "inspired remedy",
-    "points": 2808,
+    "points": 3026,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-inspired-remedy.png",
     "xws": "inspiredremedy",
     "level": "1",
     "initiative": "76",
-    "cardno": "150",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "150"
+  },
+  {
+    "name": "150",
+    "points": 3027,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-inspired-remedy.png",
+    "xws": "inspiredremedy",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "hierophant",
+    "assetno": "150"
   },
   {
     "name": "lamentation",
-    "points": 2809,
+    "points": 3028,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-lamentation.png",
     "xws": "lamentation",
     "level": "p",
     "initiative": "50",
-    "cardno": "179",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "179"
+  },
+  {
+    "name": "179",
+    "points": 3029,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-lamentation.png",
+    "xws": "lamentation",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "179"
   },
   {
     "name": "meditation",
-    "points": 2810,
+    "points": 3030,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-meditation.png",
     "xws": "meditation",
     "level": "p",
     "initiative": "50",
-    "cardno": "180",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "180"
+  },
+  {
+    "name": "180",
+    "points": 3031,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-meditation.png",
+    "xws": "meditation",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "180"
   },
   {
     "name": "oaks embrace",
-    "points": 2811,
+    "points": 3032,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-oaks-embrace.png",
     "xws": "oaksembrace",
     "level": "1",
     "initiative": "84",
-    "cardno": "151",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "151"
+  },
+  {
+    "name": "151",
+    "points": 3033,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-oaks-embrace.png",
+    "xws": "oaksembrace",
+    "level": "1",
+    "initiative": "84",
+    "character-xws": "hierophant",
+    "assetno": "151"
   },
   {
     "name": "ordination",
-    "points": 2812,
+    "points": 3034,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-ordination.png",
     "xws": "ordination",
     "level": "p",
     "initiative": "50",
-    "cardno": "181",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "181"
+  },
+  {
+    "name": "181",
+    "points": 3035,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-ordination.png",
+    "xws": "ordination",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "181"
   },
   {
     "name": "penitence",
-    "points": 2813,
+    "points": 3036,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-penitence.png",
     "xws": "penitence",
     "level": "p",
     "initiative": "50",
-    "cardno": "182",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "182"
+  },
+  {
+    "name": "182",
+    "points": 3037,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-penitence.png",
+    "xws": "penitence",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "182"
   },
   {
     "name": "prosperous concord",
-    "points": 2814,
+    "points": 3038,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-prosperous-concord.png",
     "xws": "prosperousconcord",
     "level": "x",
     "initiative": "43",
-    "cardno": "157",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "157"
+  },
+  {
+    "name": "157",
+    "points": 3039,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-prosperous-concord.png",
+    "xws": "prosperousconcord",
+    "level": "x",
+    "initiative": "43",
+    "character-xws": "hierophant",
+    "assetno": "157"
   },
   {
     "name": "restoring faith",
-    "points": 2815,
+    "points": 3040,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-restoring-faith.png",
     "xws": "restoringfaith",
     "level": "1",
     "initiative": "64",
-    "cardno": "152",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "152"
+  },
+  {
+    "name": "152",
+    "points": 3041,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-restoring-faith.png",
+    "xws": "restoringfaith",
+    "level": "1",
+    "initiative": "64",
+    "character-xws": "hierophant",
+    "assetno": "152"
   },
   {
     "name": "revered protector",
-    "points": 2816,
+    "points": 3042,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-revered-protector.png",
     "xws": "reveredprotector",
     "level": "7",
     "initiative": "15",
-    "cardno": "170",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "170"
+  },
+  {
+    "name": "170",
+    "points": 3043,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-revered-protector.png",
+    "xws": "reveredprotector",
+    "level": "7",
+    "initiative": "15",
+    "character-xws": "hierophant",
+    "assetno": "170"
   },
   {
     "name": "righteous atonement",
-    "points": 2817,
+    "points": 3044,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-righteous-atonement.png",
     "xws": "righteousatonement",
     "level": "8",
     "initiative": "20",
-    "cardno": "172",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "172"
+  },
+  {
+    "name": "172",
+    "points": 3045,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-righteous-atonement.png",
+    "xws": "righteousatonement",
+    "level": "8",
+    "initiative": "20",
+    "character-xws": "hierophant",
+    "assetno": "172"
   },
   {
     "name": "rooted subjugation",
-    "points": 2818,
+    "points": 3046,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-rooted-subjugation.png",
     "xws": "rootedsubjugation",
     "level": "4",
     "initiative": "30",
-    "cardno": "165",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "165"
+  },
+  {
+    "name": "165",
+    "points": 3047,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-rooted-subjugation.png",
+    "xws": "rootedsubjugation",
+    "level": "4",
+    "initiative": "30",
+    "character-xws": "hierophant",
+    "assetno": "165"
   },
   {
     "name": "sacred death",
-    "points": 2819,
+    "points": 3048,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-sacred-death.png",
     "xws": "sacreddeath",
     "level": "1",
     "initiative": "81",
-    "cardno": "153",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "153"
+  },
+  {
+    "name": "153",
+    "points": 3049,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-sacred-death.png",
+    "xws": "sacreddeath",
+    "level": "1",
+    "initiative": "81",
+    "character-xws": "hierophant",
+    "assetno": "153"
   },
   {
     "name": "salvation",
-    "points": 2820,
+    "points": 3050,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-salvation.png",
     "xws": "salvation",
     "level": "p",
     "initiative": "50",
-    "cardno": "183",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "183"
+  },
+  {
+    "name": "183",
+    "points": 3051,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-salvation.png",
+    "xws": "salvation",
+    "level": "p",
+    "initiative": "50",
+    "character-xws": "hierophant",
+    "assetno": "183"
   },
   {
     "name": "soulful salvation",
-    "points": 2821,
+    "points": 3052,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-soulful-salvation.png",
     "xws": "soulfulsalvation",
     "level": "x",
     "initiative": "11",
-    "cardno": "158",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "158"
+  },
+  {
+    "name": "158",
+    "points": 3053,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-soulful-salvation.png",
+    "xws": "soulfulsalvation",
+    "level": "x",
+    "initiative": "11",
+    "character-xws": "hierophant",
+    "assetno": "158"
   },
   {
     "name": "soul strike",
-    "points": 2822,
+    "points": 3054,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-soul-strike.png",
     "xws": "soulstrike",
     "level": "1",
     "initiative": "69",
-    "cardno": "154",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "154"
+  },
+  {
+    "name": "154",
+    "points": 3055,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-soul-strike.png",
+    "xws": "soulstrike",
+    "level": "1",
+    "initiative": "69",
+    "character-xws": "hierophant",
+    "assetno": "154"
   },
   {
     "name": "spiritual gains",
-    "points": 2823,
+    "points": 3056,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-spiritual-gains.png",
     "xws": "spiritualgains",
     "level": "5",
     "initiative": "94",
-    "cardno": "167",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "167"
+  },
+  {
+    "name": "167",
+    "points": 3057,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-spiritual-gains.png",
+    "xws": "spiritualgains",
+    "level": "5",
+    "initiative": "94",
+    "character-xws": "hierophant",
+    "assetno": "167"
   },
   {
     "name": "standing ground",
-    "points": 2824,
+    "points": 3058,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-standing-ground.png",
     "xws": "standingground",
     "level": "1",
     "initiative": "22",
-    "cardno": "155",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "155"
+  },
+  {
+    "name": "155",
+    "points": 3059,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-standing-ground.png",
+    "xws": "standingground",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "hierophant",
+    "assetno": "155"
   },
   {
     "name": "symphony of oppression",
-    "points": 2825,
+    "points": 3060,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-symphony-of-oppression.png",
     "xws": "symphonyofoppression",
     "level": "7",
     "initiative": "86",
-    "cardno": "171",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "171"
+  },
+  {
+    "name": "171",
+    "points": 3061,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-symphony-of-oppression.png",
+    "xws": "symphonyofoppression",
+    "level": "7",
+    "initiative": "86",
+    "character-xws": "hierophant",
+    "assetno": "171"
   },
   {
     "name": "unruly repentance",
-    "points": 2826,
+    "points": 3062,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-unruly-repentance.png",
     "xws": "unrulyrepentance",
     "level": "x",
     "initiative": "25",
-    "cardno": "159",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "159"
+  },
+  {
+    "name": "159",
+    "points": 3063,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-unruly-repentance.png",
+    "xws": "unrulyrepentance",
+    "level": "x",
+    "initiative": "25",
+    "character-xws": "hierophant",
+    "assetno": "159"
   },
   {
     "name": "unstoppable force",
-    "points": 2827,
+    "points": 3064,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-unstoppable-force.png",
     "xws": "unstoppableforce",
     "level": "6",
     "initiative": "21",
-    "cardno": "169",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "169"
+  },
+  {
+    "name": "169",
+    "points": 3065,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-unstoppable-force.png",
+    "xws": "unstoppableforce",
+    "level": "6",
+    "initiative": "21",
+    "character-xws": "hierophant",
+    "assetno": "169"
   },
   {
     "name": "vengeful veneration",
-    "points": 2828,
+    "points": 3066,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-vengeful-veneration.png",
     "xws": "vengefulveneration",
     "level": "8",
     "initiative": "78",
-    "cardno": "173",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "173"
+  },
+  {
+    "name": "173",
+    "points": 3067,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-vengeful-veneration.png",
+    "xws": "vengefulveneration",
+    "level": "8",
+    "initiative": "78",
+    "character-xws": "hierophant",
+    "assetno": "173"
   },
   {
     "name": "vital bond",
-    "points": 2829,
+    "points": 3068,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-vital-bond.png",
     "xws": "vitalbond",
     "level": "3",
     "initiative": "48",
-    "cardno": "163",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "163"
+  },
+  {
+    "name": "163",
+    "points": 3069,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-vital-bond.png",
+    "xws": "vitalbond",
+    "level": "3",
+    "initiative": "48",
+    "character-xws": "hierophant",
+    "assetno": "163"
   },
   {
     "name": "vocal sermon",
-    "points": 2830,
+    "points": 3070,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-vocal-sermon.png",
     "xws": "vocalsermon",
     "level": "1",
     "initiative": "32",
-    "cardno": "156",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "156"
+  },
+  {
+    "name": "156",
+    "points": 3071,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/hp/cs-vocal-sermon.png",
+    "xws": "vocalsermon",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "hierophant",
+    "assetno": "156"
   },
   {
     "name": "weakened will",
-    "points": 2831,
+    "points": 3072,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/hp/cs-weakened-will.png",
     "xws": "weakenedwill",
     "level": "2",
     "initiative": "17",
-    "cardno": "161",
-    "character-xws": "hierophant"
+    "character-xws": "hierophant",
+    "assetno": "161"
   },
   {
-    "name": "lu-back",
-    "points": 2832,
+    "name": "161",
+    "points": 3073,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/lu/cs-lu-back.png",
-    "xws": "luback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "luminary"
+    "image": "character-ability-cards/crimson-scales/hp/cs-weakened-will.png",
+    "xws": "weakenedwill",
+    "level": "2",
+    "initiative": "17",
+    "character-xws": "hierophant",
+    "assetno": "161"
   },
   {
     "name": "blackened rage",
-    "points": 2833,
+    "points": 3074,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-blackened-rage.png",
     "xws": "blackenedrage",
     "level": "3",
     "initiative": "45",
-    "cardno": "229",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "229"
+  },
+  {
+    "name": "229",
+    "points": 3075,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-blackened-rage.png",
+    "xws": "blackenedrage",
+    "level": "3",
+    "initiative": "45",
+    "character-xws": "luminary",
+    "assetno": "229"
   },
   {
     "name": "blazing pincers",
-    "points": 2834,
+    "points": 3076,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-blazing-pincers.png",
     "xws": "blazingpincers",
     "level": "9",
     "initiative": "59",
-    "cardno": "241",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "241"
+  },
+  {
+    "name": "241",
+    "points": 3077,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-blazing-pincers.png",
+    "xws": "blazingpincers",
+    "level": "9",
+    "initiative": "59",
+    "character-xws": "luminary",
+    "assetno": "241"
   },
   {
     "name": "burning sparks",
-    "points": 2835,
+    "points": 3078,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-burning-sparks.png",
     "xws": "burningsparks",
     "level": "1",
     "initiative": "33",
-    "cardno": "213",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "213"
+  },
+  {
+    "name": "213",
+    "points": 3079,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-burning-sparks.png",
+    "xws": "burningsparks",
+    "level": "1",
+    "initiative": "33",
+    "character-xws": "luminary",
+    "assetno": "213"
   },
   {
     "name": "chilling wave",
-    "points": 2836,
+    "points": 3080,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-chilling-wave.png",
     "xws": "chillingwave",
     "level": "1",
     "initiative": "39",
-    "cardno": "214",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "214"
+  },
+  {
+    "name": "214",
+    "points": 3081,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-chilling-wave.png",
+    "xws": "chillingwave",
+    "level": "1",
+    "initiative": "39",
+    "character-xws": "luminary",
+    "assetno": "214"
   },
   {
     "name": "colorful wavelengths",
-    "points": 2837,
+    "points": 3082,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-colorful-wavelengths.png",
     "xws": "colorfulwavelengths",
     "level": "5",
     "initiative": "83",
-    "cardno": "233",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "233"
+  },
+  {
+    "name": "233",
+    "points": 3083,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-colorful-wavelengths.png",
+    "xws": "colorfulwavelengths",
+    "level": "5",
+    "initiative": "83",
+    "character-xws": "luminary",
+    "assetno": "233"
   },
   {
     "name": "darkened overcast",
-    "points": 2838,
+    "points": 3084,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-darkened-overcast.png",
     "xws": "darkenedovercast",
     "level": "2",
     "initiative": "10",
-    "cardno": "227",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "227"
+  },
+  {
+    "name": "227",
+    "points": 3085,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-darkened-overcast.png",
+    "xws": "darkenedovercast",
+    "level": "2",
+    "initiative": "10",
+    "character-xws": "luminary",
+    "assetno": "227"
   },
   {
     "name": "dominating illumination",
-    "points": 2839,
+    "points": 3086,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-dominating-illumination.png",
     "xws": "dominatingillumination",
     "level": "8",
     "initiative": "51",
-    "cardno": "239",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "239"
+  },
+  {
+    "name": "239",
+    "points": 3087,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-dominating-illumination.png",
+    "xws": "dominatingillumination",
+    "level": "8",
+    "initiative": "51",
+    "character-xws": "luminary",
+    "assetno": "239"
   },
   {
     "name": "empowering rays",
-    "points": 2840,
+    "points": 3088,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-empowering-rays.png",
     "xws": "empoweringrays",
     "level": "4",
     "initiative": "57",
-    "cardno": "231",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "231"
+  },
+  {
+    "name": "231",
+    "points": 3089,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-empowering-rays.png",
+    "xws": "empoweringrays",
+    "level": "4",
+    "initiative": "57",
+    "character-xws": "luminary",
+    "assetno": "231"
   },
   {
     "name": "encompassing aura",
-    "points": 2841,
+    "points": 3090,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-encompassing-aura.png",
     "xws": "encompassingaura",
     "level": "6",
     "initiative": "11",
-    "cardno": "235",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "235"
+  },
+  {
+    "name": "235",
+    "points": 3091,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-encompassing-aura.png",
+    "xws": "encompassingaura",
+    "level": "6",
+    "initiative": "11",
+    "character-xws": "luminary",
+    "assetno": "235"
   },
   {
     "name": "flickering lights",
-    "points": 2842,
+    "points": 3092,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-flickering-lights.png",
     "xws": "flickeringlights",
     "level": "1",
     "initiative": "19",
-    "cardno": "215",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "215"
+  },
+  {
+    "name": "215",
+    "points": 3093,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-flickering-lights.png",
+    "xws": "flickeringlights",
+    "level": "1",
+    "initiative": "19",
+    "character-xws": "luminary",
+    "assetno": "215"
   },
   {
     "name": "floodlight",
-    "points": 2843,
+    "points": 3094,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-floodlight.png",
     "xws": "floodlight",
     "level": "4",
     "initiative": "71",
-    "cardno": "232",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "232"
+  },
+  {
+    "name": "232",
+    "points": 3095,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-floodlight.png",
+    "xws": "floodlight",
+    "level": "4",
+    "initiative": "71",
+    "character-xws": "luminary",
+    "assetno": "232"
   },
   {
     "name": "frosty glimmer",
-    "points": 2844,
+    "points": 3096,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-frosty-glimmer.png",
     "xws": "frostyglimmer",
     "level": "1",
     "initiative": "55",
-    "cardno": "216",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "216"
+  },
+  {
+    "name": "216",
+    "points": 3097,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-frosty-glimmer.png",
+    "xws": "frostyglimmer",
+    "level": "1",
+    "initiative": "55",
+    "character-xws": "luminary",
+    "assetno": "216"
   },
   {
     "name": "gamma energy",
-    "points": 2845,
+    "points": 3098,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-gamma-energy.png",
     "xws": "gammaenergy",
     "level": "7",
     "initiative": "65",
-    "cardno": "237",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "237"
+  },
+  {
+    "name": "237",
+    "points": 3099,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-gamma-energy.png",
+    "xws": "gammaenergy",
+    "level": "7",
+    "initiative": "65",
+    "character-xws": "luminary",
+    "assetno": "237"
   },
   {
     "name": "heat waves",
-    "points": 2846,
+    "points": 3100,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-heat-waves.png",
     "xws": "heatwaves",
     "level": "1",
     "initiative": "73",
-    "cardno": "217",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "217"
+  },
+  {
+    "name": "217",
+    "points": 3101,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-heat-waves.png",
+    "xws": "heatwaves",
+    "level": "1",
+    "initiative": "73",
+    "character-xws": "luminary",
+    "assetno": "217"
   },
   {
     "name": "imposing brilliance",
-    "points": 2847,
+    "points": 3102,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-imposing-brilliance.png",
     "xws": "imposingbrilliance",
     "level": "6",
     "initiative": "86",
-    "cardno": "236",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "236"
+  },
+  {
+    "name": "236",
+    "points": 3103,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-imposing-brilliance.png",
+    "xws": "imposingbrilliance",
+    "level": "6",
+    "initiative": "86",
+    "character-xws": "luminary",
+    "assetno": "236"
   },
   {
     "name": "light the way",
-    "points": 2848,
+    "points": 3104,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-light-the-way.png",
     "xws": "lighttheway",
     "level": "9",
     "initiative": "93",
-    "cardno": "242",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "242"
+  },
+  {
+    "name": "242",
+    "points": 3105,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-light-the-way.png",
+    "xws": "lighttheway",
+    "level": "9",
+    "initiative": "93",
+    "character-xws": "luminary",
+    "assetno": "242"
   },
   {
     "name": "gleaming squid",
-    "points": 2849,
+    "points": 3106,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-light-the-way.png",
-    "xws": "lighttheway",
+    "xws": "gleamingsquid",
     "level": "9",
     "initiative": "93",
-    "cardno": "242",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "242"
+  },
+  {
+    "name": "lu-back",
+    "points": 3107,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-lu-back.png",
+    "xws": "luback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "luminary",
+    "assetno": "###"
   },
   {
     "name": "luminescence",
-    "points": 2850,
+    "points": 3108,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-luminescence.png",
     "xws": "luminescence",
     "level": "2",
     "initiative": "66",
-    "cardno": "228",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "228"
+  },
+  {
+    "name": "228",
+    "points": 3109,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-luminescence.png",
+    "xws": "luminescence",
+    "level": "2",
+    "initiative": "66",
+    "character-xws": "luminary",
+    "assetno": "228"
   },
   {
     "name": "moonbeam",
-    "points": 2851,
+    "points": 3110,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-moonbeam.png",
     "xws": "moonbeam",
     "level": "1",
     "initiative": "85",
-    "cardno": "218",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "218"
+  },
+  {
+    "name": "218",
+    "points": 3111,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-moonbeam.png",
+    "xws": "moonbeam",
+    "level": "1",
+    "initiative": "85",
+    "character-xws": "luminary",
+    "assetno": "218"
   },
   {
     "name": "optical refraction",
-    "points": 2852,
+    "points": 3112,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-optical-refraction.png",
     "xws": "opticalrefraction",
     "level": "8",
     "initiative": "37",
-    "cardno": "240",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "240"
+  },
+  {
+    "name": "240",
+    "points": 3113,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-optical-refraction.png",
+    "xws": "opticalrefraction",
+    "level": "8",
+    "initiative": "37",
+    "character-xws": "luminary",
+    "assetno": "240"
   },
   {
     "name": "photonic defense",
-    "points": 2853,
+    "points": 3114,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-photonic-defense.png",
     "xws": "photonicdefense",
     "level": "7",
     "initiative": "09",
-    "cardno": "238",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "238"
+  },
+  {
+    "name": "238",
+    "points": 3115,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-photonic-defense.png",
+    "xws": "photonicdefense",
+    "level": "7",
+    "initiative": "09",
+    "character-xws": "luminary",
+    "assetno": "238"
   },
   {
     "name": "radiant glare",
-    "points": 2854,
+    "points": 3116,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-radiant-glare.png",
     "xws": "radiantglare",
     "level": "1",
     "initiative": "36",
-    "cardno": "219",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "219"
+  },
+  {
+    "name": "219",
+    "points": 3117,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-radiant-glare.png",
+    "xws": "radiantglare",
+    "level": "1",
+    "initiative": "36",
+    "character-xws": "luminary",
+    "assetno": "219"
   },
   {
     "name": "shadow claws",
-    "points": 2855,
+    "points": 3118,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-shadow-claws.png",
     "xws": "shadowclaws",
     "level": "5",
     "initiative": "25",
-    "cardno": "234",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "234"
+  },
+  {
+    "name": "234",
+    "points": 3119,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-shadow-claws.png",
+    "xws": "shadowclaws",
+    "level": "5",
+    "initiative": "25",
+    "character-xws": "luminary",
+    "assetno": "234"
   },
   {
     "name": "shimmering scuttle",
-    "points": 2856,
+    "points": 3120,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-shimmering-scuttle.png",
     "xws": "shimmeringscuttle",
     "level": "1",
     "initiative": "21",
-    "cardno": "220",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "220"
+  },
+  {
+    "name": "220",
+    "points": 3121,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-shimmering-scuttle.png",
+    "xws": "shimmeringscuttle",
+    "level": "1",
+    "initiative": "21",
+    "character-xws": "luminary",
+    "assetno": "220"
   },
   {
     "name": "shining diversion",
-    "points": 2857,
+    "points": 3122,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-shining-diversion.png",
     "xws": "shiningdiversion",
     "level": "3",
     "initiative": "29",
-    "cardno": "230",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "230"
+  },
+  {
+    "name": "230",
+    "points": 3123,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-shining-diversion.png",
+    "xws": "shiningdiversion",
+    "level": "3",
+    "initiative": "29",
+    "character-xws": "luminary",
+    "assetno": "230"
   },
   {
     "name": "soft glow",
-    "points": 2858,
+    "points": 3124,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-soft-glow.png",
     "xws": "softglow",
     "level": "1",
     "initiative": "24",
-    "cardno": "221",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "221"
+  },
+  {
+    "name": "221",
+    "points": 3125,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-soft-glow.png",
+    "xws": "softglow",
+    "level": "1",
+    "initiative": "24",
+    "character-xws": "luminary",
+    "assetno": "221"
   },
   {
     "name": "solid light",
-    "points": 2859,
+    "points": 3126,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-solid-light.png",
     "xws": "solidlight",
     "level": "x",
     "initiative": "12",
-    "cardno": "224",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "224"
+  },
+  {
+    "name": "224",
+    "points": 3127,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-solid-light.png",
+    "xws": "solidlight",
+    "level": "x",
+    "initiative": "12",
+    "character-xws": "luminary",
+    "assetno": "224"
   },
   {
     "name": "sparkling glow",
-    "points": 2860,
+    "points": 3128,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-sparkling-glow.png",
     "xws": "sparklingglow",
     "level": "x",
     "initiative": "27",
-    "cardno": "225",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "225"
+  },
+  {
+    "name": "225",
+    "points": 3129,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-sparkling-glow.png",
+    "xws": "sparklingglow",
+    "level": "x",
+    "initiative": "27",
+    "character-xws": "luminary",
+    "assetno": "225"
   },
   {
     "name": "torrid radiation",
-    "points": 2861,
+    "points": 3130,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-torrid-radiation.png",
     "xws": "torridradiation",
     "level": "1",
     "initiative": "76",
-    "cardno": "222",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "222"
+  },
+  {
+    "name": "222",
+    "points": 3131,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-torrid-radiation.png",
+    "xws": "torridradiation",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "luminary",
+    "assetno": "222"
   },
   {
     "name": "trickling sting",
-    "points": 2862,
+    "points": 3132,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-trickling-sting.png",
     "xws": "tricklingsting",
     "level": "x",
     "initiative": "43",
-    "cardno": "226",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "226"
+  },
+  {
+    "name": "226",
+    "points": 3133,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/lu/cs-trickling-sting.png",
+    "xws": "tricklingsting",
+    "level": "x",
+    "initiative": "43",
+    "character-xws": "luminary",
+    "assetno": "226"
   },
   {
     "name": "violent flash",
-    "points": 2863,
+    "points": 3134,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/lu/cs-violent-flash.png",
     "xws": "violentflash",
     "level": "1",
     "initiative": "40",
-    "cardno": "223",
-    "character-xws": "luminary"
+    "character-xws": "luminary",
+    "assetno": "223"
   },
   {
-    "name": "mf-back",
-    "points": 2864,
+    "name": "223",
+    "points": 3135,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/mf/cs-mf-back.png",
-    "xws": "mfback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "mirefoot"
+    "image": "character-ability-cards/crimson-scales/lu/cs-violent-flash.png",
+    "xws": "violentflash",
+    "level": "1",
+    "initiative": "40",
+    "character-xws": "luminary",
+    "assetno": "223"
   },
   {
     "name": "airborne spores",
-    "points": 2865,
+    "points": 3136,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-airborne-spores.png",
     "xws": "airbornespores",
     "level": "2",
     "initiative": "21",
-    "cardno": "257",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "257"
+  },
+  {
+    "name": "257",
+    "points": 3137,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-airborne-spores.png",
+    "xws": "airbornespores",
+    "level": "2",
+    "initiative": "21",
+    "character-xws": "mirefoot",
+    "assetno": "257"
   },
   {
     "name": "anticoagulant",
-    "points": 2866,
+    "points": 3138,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-anticoagulant.png",
     "xws": "anticoagulant",
     "level": "6",
     "initiative": "12",
-    "cardno": "265",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "265"
+  },
+  {
+    "name": "265",
+    "points": 3139,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-anticoagulant.png",
+    "xws": "anticoagulant",
+    "level": "6",
+    "initiative": "12",
+    "character-xws": "mirefoot",
+    "assetno": "265"
   },
   {
     "name": "blood thinner",
-    "points": 2867,
+    "points": 3140,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-blood-thinner.png",
     "xws": "bloodthinner",
     "level": "1",
     "initiative": "11",
-    "cardno": "243",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "243"
+  },
+  {
+    "name": "243",
+    "points": 3141,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-blood-thinner.png",
+    "xws": "bloodthinner",
+    "level": "1",
+    "initiative": "11",
+    "character-xws": "mirefoot",
+    "assetno": "243"
   },
   {
     "name": "bogstep",
-    "points": 2868,
+    "points": 3142,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-bogstep.png",
     "xws": "bogstep",
     "level": "1",
     "initiative": "16",
-    "cardno": "244",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "244"
+  },
+  {
+    "name": "244",
+    "points": 3143,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-bogstep.png",
+    "xws": "bogstep",
+    "level": "1",
+    "initiative": "16",
+    "character-xws": "mirefoot",
+    "assetno": "244"
   },
   {
     "name": "complex toxicology",
-    "points": 2869,
+    "points": 3144,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-complex-toxicology.png",
     "xws": "complextoxicology",
     "level": "9",
     "initiative": "35",
-    "cardno": "271",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "271"
+  },
+  {
+    "name": "271",
+    "points": 3145,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-complex-toxicology.png",
+    "xws": "complextoxicology",
+    "level": "9",
+    "initiative": "35",
+    "character-xws": "mirefoot",
+    "assetno": "271"
   },
   {
     "name": "compound toxin",
-    "points": 2870,
+    "points": 3146,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-compound-toxin.png",
     "xws": "compoundtoxin",
     "level": "5",
     "initiative": "61",
-    "cardno": "263",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "263"
+  },
+  {
+    "name": "263",
+    "points": 3147,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-compound-toxin.png",
+    "xws": "compoundtoxin",
+    "level": "5",
+    "initiative": "61",
+    "character-xws": "mirefoot",
+    "assetno": "263"
   },
   {
     "name": "copperneck berries",
-    "points": 2871,
+    "points": 3148,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-copperneck-berries.png",
     "xws": "copperneckberries",
     "level": "x",
     "initiative": "70",
-    "cardno": "255",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "255"
+  },
+  {
+    "name": "255",
+    "points": 3149,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-copperneck-berries.png",
+    "xws": "copperneckberries",
+    "level": "x",
+    "initiative": "70",
+    "character-xws": "mirefoot",
+    "assetno": "255"
   },
   {
     "name": "death sentence",
-    "points": 2872,
+    "points": 3150,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-death-sentence.png",
     "xws": "deathsentence",
     "level": "1",
     "initiative": "08",
-    "cardno": "245",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "245"
+  },
+  {
+    "name": "245",
+    "points": 3151,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-death-sentence.png",
+    "xws": "deathsentence",
+    "level": "1",
+    "initiative": "08",
+    "character-xws": "mirefoot",
+    "assetno": "245"
   },
   {
     "name": "fireroot sap",
-    "points": 2873,
+    "points": 3152,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-fireroot-sap.png",
     "xws": "firerootsap",
     "level": "4",
     "initiative": "91",
-    "cardno": "261",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "261"
+  },
+  {
+    "name": "261",
+    "points": 3153,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-fireroot-sap.png",
+    "xws": "firerootsap",
+    "level": "4",
+    "initiative": "91",
+    "character-xws": "mirefoot",
+    "assetno": "261"
   },
   {
     "name": "ground solvent",
-    "points": 2874,
+    "points": 3154,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-ground-solvent.png",
     "xws": "groundsolvent",
     "level": "1",
     "initiative": "63",
-    "cardno": "246",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "246"
+  },
+  {
+    "name": "246",
+    "points": 3155,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-ground-solvent.png",
+    "xws": "groundsolvent",
+    "level": "1",
+    "initiative": "63",
+    "character-xws": "mirefoot",
+    "assetno": "246"
   },
   {
     "name": "hide and seek",
-    "points": 2875,
+    "points": 3156,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-hide-and-seek.png",
     "xws": "hideandseek",
     "level": "3",
     "initiative": "43",
-    "cardno": "259",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "259"
+  },
+  {
+    "name": "259",
+    "points": 3157,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-hide-and-seek.png",
+    "xws": "hideandseek",
+    "level": "3",
+    "initiative": "43",
+    "character-xws": "mirefoot",
+    "assetno": "259"
   },
   {
     "name": "lashing vines",
-    "points": 2876,
+    "points": 3158,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-lashing-vines.png",
     "xws": "lashingvines",
     "level": "1",
     "initiative": "13",
-    "cardno": "247",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "247"
+  },
+  {
+    "name": "247",
+    "points": 3159,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-lashing-vines.png",
+    "xws": "lashingvines",
+    "level": "1",
+    "initiative": "13",
+    "character-xws": "mirefoot",
+    "assetno": "247"
   },
   {
     "name": "flailing ivies",
-    "points": 2877,
+    "points": 3160,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-lashing-vines.png",
-    "xws": "lashingvines",
+    "xws": "flailingivies",
     "level": "1",
     "initiative": "13",
-    "cardno": "247",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "247"
   },
   {
     "name": "lingering swamp moss",
-    "points": 2878,
+    "points": 3161,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-lingering-swamp-moss.png",
     "xws": "lingeringswampmoss",
     "level": "9",
     "initiative": "94",
-    "cardno": "270",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "270"
+  },
+  {
+    "name": "270",
+    "points": 3162,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-lingering-swamp-moss.png",
+    "xws": "lingeringswampmoss",
+    "level": "9",
+    "initiative": "94",
+    "character-xws": "mirefoot",
+    "assetno": "270"
+  },
+  {
+    "name": "mf-back",
+    "points": 3163,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-mf-back.png",
+    "xws": "mfback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "mirefoot",
+    "assetno": "###"
   },
   {
     "name": "mudslide",
-    "points": 2879,
+    "points": 3164,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-mudslide.png",
     "xws": "mudslide",
     "level": "1",
     "initiative": "18",
-    "cardno": "252",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "252"
+  },
+  {
+    "name": "252",
+    "points": 3165,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-mudslide.png",
+    "xws": "mudslide",
+    "level": "1",
+    "initiative": "18",
+    "character-xws": "mirefoot",
+    "assetno": "252"
   },
   {
     "name": "neurotoxin",
-    "points": 2880,
+    "points": 3166,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-neurotoxin.png",
     "xws": "neurotoxin",
     "level": "1",
     "initiative": "84",
-    "cardno": "248",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "248"
+  },
+  {
+    "name": "248",
+    "points": 3167,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-neurotoxin.png",
+    "xws": "neurotoxin",
+    "level": "1",
+    "initiative": "84",
+    "character-xws": "mirefoot",
+    "assetno": "248"
   },
   {
     "name": "paralytic agent",
-    "points": 2881,
+    "points": 3168,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-paralytic-agent.png",
     "xws": "paralyticagent",
     "level": "1",
     "initiative": "76",
-    "cardno": "249",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "249"
+  },
+  {
+    "name": "249",
+    "points": 3169,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-paralytic-agent.png",
+    "xws": "paralyticagent",
+    "level": "1",
+    "initiative": "76",
+    "character-xws": "mirefoot",
+    "assetno": "249"
   },
   {
     "name": "personal poison",
-    "points": 2882,
+    "points": 3170,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-personal-poison.png",
     "xws": "personalpoison",
     "level": "5",
     "initiative": "86",
-    "cardno": "262",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "262"
+  },
+  {
+    "name": "262",
+    "points": 3171,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-personal-poison.png",
+    "xws": "personalpoison",
+    "level": "5",
+    "initiative": "86",
+    "character-xws": "mirefoot",
+    "assetno": "262"
   },
   {
     "name": "potent mixture",
-    "points": 2883,
+    "points": 3172,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-potent-mixture.png",
     "xws": "potentmixture",
     "level": "3",
     "initiative": "17",
-    "cardno": "258",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "258"
+  },
+  {
+    "name": "258",
+    "points": 3173,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-potent-mixture.png",
+    "xws": "potentmixture",
+    "level": "3",
+    "initiative": "17",
+    "character-xws": "mirefoot",
+    "assetno": "258"
   },
   {
     "name": "radiant forest fungi",
-    "points": 2884,
+    "points": 3174,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-radiant-forest-fungi.png",
     "xws": "radiantforestfungi",
     "level": "4",
     "initiative": "06",
-    "cardno": "260",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "260"
+  },
+  {
+    "name": "260",
+    "points": 3175,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-radiant-forest-fungi.png",
+    "xws": "radiantforestfungi",
+    "level": "4",
+    "initiative": "06",
+    "character-xws": "mirefoot",
+    "assetno": "260"
   },
   {
     "name": "serpent's kiss",
-    "points": 2885,
+    "points": 3176,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-serpents-kiss.png",
     "xws": "serpentskiss",
     "level": "1",
     "initiative": "89",
-    "cardno": "250",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "250"
+  },
+  {
+    "name": "250",
+    "points": 3177,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-serpents-kiss.png",
+    "xws": "serpentskiss",
+    "level": "1",
+    "initiative": "89",
+    "character-xws": "mirefoot",
+    "assetno": "250"
   },
   {
     "name": "sinkhole",
-    "points": 2886,
+    "points": 3178,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-sinkhole.png",
     "xws": "sinkhole",
     "level": "x",
     "initiative": "29",
-    "cardno": "253",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "253"
+  },
+  {
+    "name": "253",
+    "points": 3179,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-sinkhole.png",
+    "xws": "sinkhole",
+    "level": "x",
+    "initiative": "29",
+    "character-xws": "mirefoot",
+    "assetno": "253"
   },
   {
     "name": "sludge bomb",
-    "points": 2887,
+    "points": 3180,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-sludge-bomb.png",
     "xws": "sludgebomb",
     "level": "7",
     "initiative": "07",
-    "cardno": "267",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "267"
+  },
+  {
+    "name": "267",
+    "points": 3181,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-sludge-bomb.png",
+    "xws": "sludgebomb",
+    "level": "7",
+    "initiative": "07",
+    "character-xws": "mirefoot",
+    "assetno": "267"
   },
   {
     "name": "still river algae",
-    "points": 2888,
+    "points": 3182,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-still-river-algae.png",
     "xws": "stillriveralgae",
     "level": "1",
     "initiative": "09",
-    "cardno": "251",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "251"
+  },
+  {
+    "name": "251",
+    "points": 3183,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-still-river-algae.png",
+    "xws": "stillriveralgae",
+    "level": "1",
+    "initiative": "09",
+    "character-xws": "mirefoot",
+    "assetno": "251"
   },
   {
     "name": "tainted waters",
-    "points": 2889,
+    "points": 3184,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-tainted-waters.png",
     "xws": "taintedwaters",
     "level": "6",
     "initiative": "88",
-    "cardno": "264",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "264"
+  },
+  {
+    "name": "264",
+    "points": 3185,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-tainted-waters.png",
+    "xws": "taintedwaters",
+    "level": "6",
+    "initiative": "88",
+    "character-xws": "mirefoot",
+    "assetno": "264"
   },
   {
     "name": "throwing daggers",
-    "points": 2890,
+    "points": 3186,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-throwing-daggers.png",
     "xws": "throwingdaggers",
     "level": "2",
     "initiative": "49",
-    "cardno": "256",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "256"
+  },
+  {
+    "name": "256",
+    "points": 3187,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-throwing-daggers.png",
+    "xws": "throwingdaggers",
+    "level": "2",
+    "initiative": "49",
+    "character-xws": "mirefoot",
+    "assetno": "256"
   },
   {
     "name": "twist the blade",
-    "points": 2891,
+    "points": 3188,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-twist-the-blade.png",
     "xws": "twisttheblade",
     "level": "8",
     "initiative": "19",
-    "cardno": "269",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "269"
+  },
+  {
+    "name": "269",
+    "points": 3189,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-twist-the-blade.png",
+    "xws": "twisttheblade",
+    "level": "8",
+    "initiative": "19",
+    "character-xws": "mirefoot",
+    "assetno": "269"
   },
   {
     "name": "volatile tonic",
-    "points": 2892,
+    "points": 3190,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-volatile-tonic.png",
     "xws": "volatiletonic",
     "level": "x",
     "initiative": "31",
-    "cardno": "254",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "254"
+  },
+  {
+    "name": "254",
+    "points": 3191,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-volatile-tonic.png",
+    "xws": "volatiletonic",
+    "level": "x",
+    "initiative": "31",
+    "character-xws": "mirefoot",
+    "assetno": "254"
   },
   {
     "name": "whitefire balm",
-    "points": 2893,
+    "points": 3192,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-whitefire-balm.png",
     "xws": "whitefirebalm",
     "level": "8",
     "initiative": "20",
-    "cardno": "268",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "268"
+  },
+  {
+    "name": "268",
+    "points": 3193,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-whitefire-balm.png",
+    "xws": "whitefirebalm",
+    "level": "8",
+    "initiative": "20",
+    "character-xws": "mirefoot",
+    "assetno": "268"
   },
   {
     "name": "wild stings",
-    "points": 2894,
+    "points": 3194,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-wild-stings.png",
     "xws": "wildstings",
     "level": "7",
     "initiative": "71",
-    "cardno": "266",
-    "character-xws": "mirefoot"
+    "character-xws": "mirefoot",
+    "assetno": "266"
+  },
+  {
+    "name": "266",
+    "points": 3195,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/mf/cs-wild-stings.png",
+    "xws": "wildstings",
+    "level": "7",
+    "initiative": "71",
+    "character-xws": "mirefoot",
+    "assetno": "266"
   },
   {
     "name": "crypt nettle",
-    "points": 2895,
+    "points": 3196,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/mf/cs-wild-stings.png",
-    "xws": "wildstings",
+    "xws": "cryptnettle",
     "level": "7",
     "initiative": "71",
-    "cardno": "266",
-    "character-xws": "mirefoot"
-  },
-  {
-    "name": "qa-back",
-    "points": 2896,
-    "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/qa/cs-qa-back.png",
-    "xws": "qaback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "artificer"
+    "character-xws": "mirefoot",
+    "assetno": "266"
   },
   {
     "name": "annihilating contraption",
-    "points": 2897,
+    "points": 3197,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-annihilating-contraption.png",
     "xws": "annihilatingcontraption",
     "level": "9",
     "initiative": "89",
-    "cardno": "qa-029",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "029"
+  },
+  {
+    "name": "029",
+    "points": 3198,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-annihilating-contraption.png",
+    "xws": "annihilatingcontraption",
+    "level": "9",
+    "initiative": "89",
+    "character-xws": "artificer",
+    "assetno": "029"
   },
   {
     "name": "clockwork ravager",
-    "points": 2898,
+    "points": 3199,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-annihilating-contraption.png",
-    "xws": "annihilatingcontraption",
+    "xws": "clockworkravager",
     "level": "9",
     "initiative": "89",
-    "cardno": "qa-029",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "029"
   },
   {
     "name": "double-barrel railcaster",
-    "points": 2899,
+    "points": 3200,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-double-barrel-railcaster.png",
     "xws": "doublebarrelrailcaster",
     "level": "8",
     "initiative": "37",
-    "cardno": "qa-028",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "028"
+  },
+  {
+    "name": "028",
+    "points": 3201,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-double-barrel-railcaster.png",
+    "xws": "doublebarrelrailcaster",
+    "level": "8",
+    "initiative": "37",
+    "character-xws": "artificer",
+    "assetno": "028"
   },
   {
     "name": "elemental condenser",
-    "points": 2900,
+    "points": 3202,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-elemental-condenser.png",
     "xws": "elementalcondenser",
     "level": "2",
     "initiative": "04",
-    "cardno": "qa-016",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "016"
+  },
+  {
+    "name": "016",
+    "points": 3203,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-elemental-condenser.png",
+    "xws": "elementalcondenser",
+    "level": "2",
+    "initiative": "04",
+    "character-xws": "artificer",
+    "assetno": "016"
   },
   {
     "name": "energy transmission",
-    "points": 2901,
+    "points": 3204,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-energy-transmission.png",
     "xws": "energytransmission",
     "level": "4",
     "initiative": "x5",
-    "cardno": "qa-019",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "019"
+  },
+  {
+    "name": "019",
+    "points": 3205,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-energy-transmission.png",
+    "xws": "energytransmission",
+    "level": "4",
+    "initiative": "x5",
+    "character-xws": "artificer",
+    "assetno": "019"
   },
   {
     "name": "fragmentation grenade",
-    "points": 2902,
+    "points": 3206,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-fragmentation-grenade.png",
     "xws": "fragmentationgrenade",
     "level": "1",
     "initiative": "45",
-    "cardno": "qa-005",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "005"
+  },
+  {
+    "name": "005",
+    "points": 3207,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-fragmentation-grenade.png",
+    "xws": "fragmentationgrenade",
+    "level": "1",
+    "initiative": "45",
+    "character-xws": "artificer",
+    "assetno": "005"
   },
   {
     "name": "galvanic coil",
-    "points": 2903,
+    "points": 3208,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-galvanic-coil.png",
     "xws": "galvaniccoil",
     "level": "6",
     "initiative": "x7",
-    "cardno": "qa-023",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "023"
+  },
+  {
+    "name": "023",
+    "points": 3209,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-galvanic-coil.png",
+    "xws": "galvaniccoil",
+    "level": "6",
+    "initiative": "x7",
+    "character-xws": "artificer",
+    "assetno": "023"
   },
   {
     "name": "gravity inverter module",
-    "points": 2904,
+    "points": 3210,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-gravity-inverter-module.png",
     "xws": "gravityinvertermodule",
     "level": "1",
     "initiative": "20",
-    "cardno": "qa-010",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "010"
+  },
+  {
+    "name": "010",
+    "points": 3211,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-gravity-inverter-module.png",
+    "xws": "gravityinvertermodule",
+    "level": "1",
+    "initiative": "20",
+    "character-xws": "artificer",
+    "assetno": "010"
   },
   {
     "name": "improvised exosuit",
-    "points": 2905,
+    "points": 3212,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-exosuit.png",
     "xws": "improvisedexosuit",
     "level": "x",
     "initiative": "90",
-    "cardno": "qa-014",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "014"
+  },
+  {
+    "name": "014",
+    "points": 3213,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-improvised-exosuit.png",
+    "xws": "improvisedexosuit",
+    "level": "x",
+    "initiative": "90",
+    "character-xws": "artificer",
+    "assetno": "014"
   },
   {
     "name": "hollow carapace",
-    "points": 2906,
+    "points": 3214,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-exosuit.png",
-    "xws": "improvisedexosuit",
+    "xws": "hollowcarapace",
     "level": "x",
     "initiative": "90",
-    "cardno": "qa-014",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "014"
   },
   {
     "name": "improvised mortar",
-    "points": 2907,
+    "points": 3215,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-mortar.png",
     "xws": "improvisedmortar",
     "level": "1",
     "initiative": "93",
-    "cardno": "qa-004",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "004"
+  },
+  {
+    "name": "004",
+    "points": 3216,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-improvised-mortar.png",
+    "xws": "improvisedmortar",
+    "level": "1",
+    "initiative": "93",
+    "character-xws": "artificer",
+    "assetno": "004"
   },
   {
     "name": "clockwork bombard",
-    "points": 2908,
+    "points": 3217,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-improvised-mortar.png",
-    "xws": "improvisedmortar",
+    "xws": "clockworkbombard",
     "level": "1",
     "initiative": "93",
-    "cardno": "qa-004",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "004"
   },
   {
     "name": "instant relocation matrix",
-    "points": 2909,
+    "points": 3218,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-instant-relocation-matrix.png",
     "xws": "instantrelocationmatrix",
     "level": "8",
     "initiative": "x9",
-    "cardno": "qa-027",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "027"
+  },
+  {
+    "name": "027",
+    "points": 3219,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-instant-relocation-matrix.png",
+    "xws": "instantrelocationmatrix",
+    "level": "8",
+    "initiative": "x9",
+    "character-xws": "artificer",
+    "assetno": "027"
   },
   {
     "name": "jury-rigged machine",
-    "points": 2910,
+    "points": 3220,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-jury-rigged-machine.png",
     "xws": "juryriggedmachine",
     "level": "1",
     "initiative": "88",
-    "cardno": "qa-003",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "003"
+  },
+  {
+    "name": "003",
+    "points": 3221,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-jury-rigged-machine.png",
+    "xws": "juryriggedmachine",
+    "level": "1",
+    "initiative": "88",
+    "character-xws": "artificer",
+    "assetno": "003"
   },
   {
     "name": "clockwork soldier",
-    "points": 2911,
+    "points": 3222,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-jury-rigged-machine.png",
-    "xws": "juryriggedmachine",
+    "xws": "clockworksoldier",
     "level": "1",
     "initiative": "88",
-    "cardno": "qa-003",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "003"
   },
   {
     "name": "launch skywards",
-    "points": 2912,
+    "points": 3223,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-launch-skywards.png",
     "xws": "launchskywards",
     "level": "5",
     "initiative": "92",
-    "cardno": "qa-021",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "021"
+  },
+  {
+    "name": "021",
+    "points": 3224,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-launch-skywards.png",
+    "xws": "launchskywards",
+    "level": "5",
+    "initiative": "92",
+    "character-xws": "artificer",
+    "assetno": "021"
   },
   {
     "name": "clockwork drone",
-    "points": 2913,
+    "points": 3225,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-launch-skywards.png",
-    "xws": "launchskywards",
+    "xws": "clockworkdrone",
     "level": "5",
     "initiative": "92",
-    "cardno": "qa-021",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "021"
   },
   {
     "name": "march of machines",
-    "points": 2914,
+    "points": 3226,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-march-of-machines.png",
     "xws": "marchofmachines",
     "level": "6",
     "initiative": "50",
-    "cardno": "qa-024",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "024"
+  },
+  {
+    "name": "024",
+    "points": 3227,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-march-of-machines.png",
+    "xws": "marchofmachines",
+    "level": "6",
+    "initiative": "50",
+    "character-xws": "artificer",
+    "assetno": "024"
   },
   {
     "name": "oscillating projector",
-    "points": 2915,
+    "points": 3228,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-oscillating-projector.png",
     "xws": "oscillatingprojector",
     "level": "5",
     "initiative": "22",
-    "cardno": "qa-022",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "022"
+  },
+  {
+    "name": "022",
+    "points": 3229,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-oscillating-projector.png",
+    "xws": "oscillatingprojector",
+    "level": "5",
+    "initiative": "22",
+    "character-xws": "artificer",
+    "assetno": "022"
   },
   {
     "name": "particle ray beam",
-    "points": 2916,
+    "points": 3230,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-particle-ray-beam.png",
     "xws": "particleraybeam",
     "level": "1",
     "initiative": "36",
-    "cardno": "qa-011",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "011"
+  },
+  {
+    "name": "011",
+    "points": 3231,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-particle-ray-beam.png",
+    "xws": "particleraybeam",
+    "level": "1",
+    "initiative": "36",
+    "character-xws": "artificer",
+    "assetno": "011"
   },
   {
     "name": "perfected exosuit",
-    "points": 2917,
+    "points": 3232,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-perfected-exosuit.png",
     "xws": "perfectedexosuit",
     "level": "9",
     "initiative": "08",
-    "cardno": "qa-030",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "030"
+  },
+  {
+    "name": "030",
+    "points": 3233,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-perfected-exosuit.png",
+    "xws": "perfectedexosuit",
+    "level": "9",
+    "initiative": "08",
+    "character-xws": "artificer",
+    "assetno": "030"
   },
   {
     "name": "phase field emitter",
-    "points": 2918,
+    "points": 3234,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-phase-field-emitter.png",
     "xws": "phasefieldemitter",
     "level": "1",
     "initiative": "12",
-    "cardno": "qa-009",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "009"
+  },
+  {
+    "name": "009",
+    "points": 3235,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-phase-field-emitter.png",
+    "xws": "phasefieldemitter",
+    "level": "1",
+    "initiative": "12",
+    "character-xws": "artificer",
+    "assetno": "009"
   },
   {
     "name": "power modulation",
-    "points": 2919,
+    "points": 3236,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-power-modulation.png",
     "xws": "powermodulation",
     "level": "x",
     "initiative": "x1",
-    "cardno": "qa-012",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "012"
+  },
+  {
+    "name": "012",
+    "points": 3237,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-power-modulation.png",
+    "xws": "powermodulation",
+    "level": "x",
+    "initiative": "x1",
+    "character-xws": "artificer",
+    "assetno": "012"
+  },
+  {
+    "name": "qa-back",
+    "points": 3238,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-qa-back.png",
+    "xws": "qaback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "artificer",
+    "assetno": "###"
   },
   {
     "name": "ransack clutter",
-    "points": 2920,
+    "points": 3239,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-ransack-clutter.png",
     "xws": "ransackclutter",
     "level": "4",
     "initiative": "18",
-    "cardno": "qa-020",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "020"
+  },
+  {
+    "name": "020",
+    "points": 3240,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-ransack-clutter.png",
+    "xws": "ransackclutter",
+    "level": "4",
+    "initiative": "18",
+    "character-xws": "artificer",
+    "assetno": "020"
   },
   {
     "name": "recycle parts",
-    "points": 2921,
+    "points": 3241,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-recycle-parts.png",
     "xws": "recycleparts",
     "level": "1",
     "initiative": "24",
-    "cardno": "qa-006",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "006"
+  },
+  {
+    "name": "006",
+    "points": 3242,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-recycle-parts.png",
+    "xws": "recycleparts",
+    "level": "1",
+    "initiative": "24",
+    "character-xws": "artificer",
+    "assetno": "006"
   },
   {
     "name": "reinforce armor",
-    "points": 2922,
+    "points": 3243,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-reinforce-armor.png",
     "xws": "reinforcearmor",
     "level": "7",
     "initiative": "26",
-    "cardno": "qa-026",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "026"
+  },
+  {
+    "name": "026",
+    "points": 3244,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-reinforce-armor.png",
+    "xws": "reinforcearmor",
+    "level": "7",
+    "initiative": "26",
+    "character-xws": "artificer",
+    "assetno": "026"
   },
   {
     "name": "remote control",
-    "points": 2923,
+    "points": 3245,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-remote-control.png",
     "xws": "remotecontrol",
     "level": "x",
     "initiative": "37",
-    "cardno": "qa-013",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "013"
+  },
+  {
+    "name": "013",
+    "points": 3246,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-remote-control.png",
+    "xws": "remotecontrol",
+    "level": "x",
+    "initiative": "37",
+    "character-xws": "artificer",
+    "assetno": "013"
   },
   {
     "name": "repurpose leftovers",
-    "points": 2924,
+    "points": 3247,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-repurpose-leftovers.png",
     "xws": "repurposeleftovers",
     "level": "1",
     "initiative": "68",
-    "cardno": "qa-007",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "007"
+  },
+  {
+    "name": "007",
+    "points": 3248,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-repurpose-leftovers.png",
+    "xws": "repurposeleftovers",
+    "level": "1",
+    "initiative": "68",
+    "character-xws": "artificer",
+    "assetno": "007"
   },
   {
     "name": "retrofit weapons",
-    "points": 2925,
+    "points": 3249,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-retrofit-weapons.png",
     "xws": "retrofitweapons",
     "level": "3",
     "initiative": "60",
-    "cardno": "qa-018",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "018"
+  },
+  {
+    "name": "018",
+    "points": 3250,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-retrofit-weapons.png",
+    "xws": "retrofitweapons",
+    "level": "3",
+    "initiative": "60",
+    "character-xws": "artificer",
+    "assetno": "018"
   },
   {
     "name": "salvage grappler",
-    "points": 2926,
+    "points": 3251,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-salvage-grappler.png",
     "xws": "salvagegrappler",
     "level": "1",
     "initiative": "46",
-    "cardno": "qa-008",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "008"
+  },
+  {
+    "name": "008",
+    "points": 3252,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-salvage-grappler.png",
+    "xws": "salvagegrappler",
+    "level": "1",
+    "initiative": "46",
+    "character-xws": "artificer",
+    "assetno": "008"
   },
   {
     "name": "seeker missiles",
-    "points": 2927,
+    "points": 3253,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-seeker-missiles.png",
     "xws": "seekermissiles",
     "level": "7",
     "initiative": "77",
-    "cardno": "qa-025",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "025"
+  },
+  {
+    "name": "025",
+    "points": 3254,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-seeker-missiles.png",
+    "xws": "seekermissiles",
+    "level": "7",
+    "initiative": "77",
+    "character-xws": "artificer",
+    "assetno": "025"
   },
   {
     "name": "clockwork rocket",
-    "points": 2928,
+    "points": 3255,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-seeker-missiles.png",
-    "xws": "seekermissiles",
+    "xws": "clockworkrocket",
     "level": "7",
     "initiative": "77",
-    "cardno": "qa-025",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "025"
   },
   {
     "name": "trajectory diverter",
-    "points": 2929,
+    "points": 3256,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-trajectory-diverter.png",
     "xws": "trajectorydiverter",
     "level": "2",
     "initiative": "x3",
-    "cardno": "qa-015",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "015"
+  },
+  {
+    "name": "015",
+    "points": 3257,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-trajectory-diverter.png",
+    "xws": "trajectorydiverter",
+    "level": "2",
+    "initiative": "x3",
+    "character-xws": "artificer",
+    "assetno": "015"
   },
   {
     "name": "trudging bulwark",
-    "points": 2930,
+    "points": 3258,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-trudging-bulwark.png",
     "xws": "trudgingbulwark",
     "level": "3",
     "initiative": "73",
-    "cardno": "qa-017",
-    "character-xws": "artificer"
+    "character-xws": "artificer",
+    "assetno": "017"
+  },
+  {
+    "name": "017",
+    "points": 3259,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/qa/cs-trudging-bulwark.png",
+    "xws": "trudgingbulwark",
+    "level": "3",
+    "initiative": "73",
+    "character-xws": "artificer",
+    "assetno": "017"
   },
   {
     "name": "clockwork guardian",
-    "points": 2931,
+    "points": 3260,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/qa/cs-trudging-bulwark.png",
-    "xws": "trudgingbulwark",
+    "xws": "clockworkguardian",
     "level": "3",
     "initiative": "73",
-    "cardno": "qa-017",
-    "character-xws": "artificer"
-  },
-  {
-    "name": "rm-back",
-    "points": 2932,
-    "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/rm/cs-rm-back.png",
-    "xws": "rmback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "ruinmaw"
+    "character-xws": "artificer",
+    "assetno": "017"
   },
   {
     "name": "belly of the beast",
-    "points": 2933,
+    "points": 3261,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-belly-of-the-beast.png",
     "xws": "bellyofthebeast",
     "level": "9",
     "initiative": "38",
-    "cardno": "rm-031",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "031"
+  },
+  {
+    "name": "031",
+    "points": 3262,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-belly-of-the-beast.png",
+    "xws": "bellyofthebeast",
+    "level": "9",
+    "initiative": "38",
+    "character-xws": "ruinmaw",
+    "assetno": "031"
   },
   {
     "name": "berserk barrage",
-    "points": 2934,
+    "points": 3263,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-berserk-barrage.png",
     "xws": "berserkbarrage",
     "level": "1",
     "initiative": "53",
-    "cardno": "rm-003",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "003"
+  },
+  {
+    "name": "003",
+    "points": 3264,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-berserk-barrage.png",
+    "xws": "berserkbarrage",
+    "level": "1",
+    "initiative": "53",
+    "character-xws": "ruinmaw",
+    "assetno": "003"
   },
   {
     "name": "burning bile",
-    "points": 2935,
+    "points": 3265,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-burning-bile.png",
     "xws": "burningbile",
     "level": "1",
     "initiative": "45",
-    "cardno": "rm-004",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "004"
+  },
+  {
+    "name": "004",
+    "points": 3266,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-burning-bile.png",
+    "xws": "burningbile",
+    "level": "1",
+    "initiative": "45",
+    "character-xws": "ruinmaw",
+    "assetno": "004"
   },
   {
     "name": "caustic claws",
-    "points": 2936,
+    "points": 3267,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-caustic-claws.png",
     "xws": "causticclaws",
     "level": "1",
     "initiative": "78",
-    "cardno": "rm-005",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "005"
+  },
+  {
+    "name": "005",
+    "points": 3268,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-caustic-claws.png",
+    "xws": "causticclaws",
+    "level": "1",
+    "initiative": "78",
+    "character-xws": "ruinmaw",
+    "assetno": "005"
   },
   {
     "name": "cornered animal",
-    "points": 2937,
+    "points": 3269,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-cornered-animal.png",
     "xws": "corneredanimal",
     "level": "x",
     "initiative": "12",
-    "cardno": "rm-014",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "014"
+  },
+  {
+    "name": "014",
+    "points": 3270,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-cornered-animal.png",
+    "xws": "corneredanimal",
+    "level": "x",
+    "initiative": "12",
+    "character-xws": "ruinmaw",
+    "assetno": "014"
   },
   {
     "name": "corrosive spew",
-    "points": 2938,
+    "points": 3271,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-corrosive-spew.png",
     "xws": "corrosivespew",
     "level": "6",
     "initiative": "50",
-    "cardno": "rm-025",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "025"
+  },
+  {
+    "name": "025",
+    "points": 3272,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-corrosive-spew.png",
+    "xws": "corrosivespew",
+    "level": "6",
+    "initiative": "50",
+    "character-xws": "ruinmaw",
+    "assetno": "025"
   },
   {
     "name": "devour whole",
-    "points": 2939,
+    "points": 3273,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-devour-whole.png",
     "xws": "devourwhole",
     "level": "8",
     "initiative": "69",
-    "cardno": "rm-029",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "029"
+  },
+  {
+    "name": "029",
+    "points": 3274,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-devour-whole.png",
+    "xws": "devourwhole",
+    "level": "8",
+    "initiative": "69",
+    "character-xws": "ruinmaw",
+    "assetno": "029"
   },
   {
     "name": "easy prey",
-    "points": 2940,
+    "points": 3275,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-easy-prey.png",
     "xws": "easyprey",
     "level": "1",
     "initiative": "55",
-    "cardno": "rm-006",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "006"
+  },
+  {
+    "name": "006",
+    "points": 3276,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-easy-prey.png",
+    "xws": "easyprey",
+    "level": "1",
+    "initiative": "55",
+    "character-xws": "ruinmaw",
+    "assetno": "006"
   },
   {
     "name": "fatal frenzy",
-    "points": 2941,
+    "points": 3277,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-fatal-frenzy.png",
     "xws": "fatalfrenzy",
     "level": "2",
     "initiative": "40",
-    "cardno": "rm-018",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "018"
+  },
+  {
+    "name": "018",
+    "points": 3278,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-fatal-frenzy.png",
+    "xws": "fatalfrenzy",
+    "level": "2",
+    "initiative": "40",
+    "character-xws": "ruinmaw",
+    "assetno": "018"
   },
   {
     "name": "feast of flesh",
-    "points": 2942,
+    "points": 3279,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-feast-of-flesh.png",
     "xws": "feastofflesh",
     "level": "1",
     "initiative": "73",
-    "cardno": "rm-007",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "007"
+  },
+  {
+    "name": "007",
+    "points": 3280,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-feast-of-flesh.png",
+    "xws": "feastofflesh",
+    "level": "1",
+    "initiative": "73",
+    "character-xws": "ruinmaw",
+    "assetno": "007"
   },
   {
     "name": "feral lunge",
-    "points": 2943,
+    "points": 3281,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-feral-lunge.png",
     "xws": "ferallunge",
     "level": "1",
     "initiative": "31",
-    "cardno": "rm-008",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "008"
+  },
+  {
+    "name": "008",
+    "points": 3282,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-feral-lunge.png",
+    "xws": "ferallunge",
+    "level": "1",
+    "initiative": "31",
+    "character-xws": "ruinmaw",
+    "assetno": "008"
   },
   {
     "name": "ferocious fling",
-    "points": 2944,
+    "points": 3283,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-ferocious-fling.png",
     "xws": "ferociousfling",
     "level": "3",
     "initiative": "86",
-    "cardno": "rm-020",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "020"
+  },
+  {
+    "name": "020",
+    "points": 3284,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-ferocious-fling.png",
+    "xws": "ferociousfling",
+    "level": "3",
+    "initiative": "86",
+    "character-xws": "ruinmaw",
+    "assetno": "020"
   },
   {
     "name": "fight or flight",
-    "points": 2945,
+    "points": 3285,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-fight-or-flight.png",
     "xws": "fightorflight",
     "level": "1",
     "initiative": "35",
-    "cardno": "rm-009",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "009"
+  },
+  {
+    "name": "009",
+    "points": 3286,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-fight-or-flight.png",
+    "xws": "fightorflight",
+    "level": "1",
+    "initiative": "35",
+    "character-xws": "ruinmaw",
+    "assetno": "009"
   },
   {
     "name": "heartripper",
-    "points": 2946,
+    "points": 3287,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-heartripper.png",
     "xws": "heartripper",
     "level": "8",
     "initiative": "90",
-    "cardno": "rm-030",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "030"
+  },
+  {
+    "name": "030",
+    "points": 3288,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-heartripper.png",
+    "xws": "heartripper",
+    "level": "8",
+    "initiative": "90",
+    "character-xws": "ruinmaw",
+    "assetno": "030"
   },
   {
     "name": "indomitable craving",
-    "points": 2947,
+    "points": 3289,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-indomitable-craving.png",
     "xws": "indomitablecraving",
     "level": "7",
     "initiative": "22",
-    "cardno": "rm-027",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "027"
+  },
+  {
+    "name": "027",
+    "points": 3290,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-indomitable-craving.png",
+    "xws": "indomitablecraving",
+    "level": "7",
+    "initiative": "22",
+    "character-xws": "ruinmaw",
+    "assetno": "027"
   },
   {
     "name": "lie in wait",
-    "points": 2948,
+    "points": 3291,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-lie-in-wait.png",
     "xws": "lieinwait",
     "level": "4",
     "initiative": "15",
-    "cardno": "rm-022",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "022"
+  },
+  {
+    "name": "022",
+    "points": 3292,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-lie-in-wait.png",
+    "xws": "lieinwait",
+    "level": "4",
+    "initiative": "15",
+    "character-xws": "ruinmaw",
+    "assetno": "022"
   },
   {
     "name": "nourishing meal",
-    "points": 2949,
+    "points": 3293,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-nourishing-meal.png",
     "xws": "nourishingmeal",
     "level": "1",
     "initiative": "83",
-    "cardno": "rm-010",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "010"
+  },
+  {
+    "name": "010",
+    "points": 3294,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-nourishing-meal.png",
+    "xws": "nourishingmeal",
+    "level": "1",
+    "initiative": "83",
+    "character-xws": "ruinmaw",
+    "assetno": "010"
   },
   {
     "name": "pouncing predator",
-    "points": 2950,
+    "points": 3295,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-pouncing-predator.png",
     "xws": "pouncingpredator",
     "level": "6",
     "initiative": "11",
-    "cardno": "rm-026",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "026"
+  },
+  {
+    "name": "026",
+    "points": 3296,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-pouncing-predator.png",
+    "xws": "pouncingpredator",
+    "level": "6",
+    "initiative": "11",
+    "character-xws": "ruinmaw",
+    "assetno": "026"
   },
   {
     "name": "ravenous roar",
-    "points": 2951,
+    "points": 3297,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-ravenous-roar.png",
     "xws": "ravenousroar",
     "level": "4",
     "initiative": "25",
-    "cardno": "rm-021",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "021"
+  },
+  {
+    "name": "021",
+    "points": 3298,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-ravenous-roar.png",
+    "xws": "ravenousroar",
+    "level": "4",
+    "initiative": "25",
+    "character-xws": "ruinmaw",
+    "assetno": "021"
   },
   {
     "name": "reckless attack",
-    "points": 2952,
+    "points": 3299,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-reckless-attack.png",
     "xws": "recklessattack",
     "level": "1",
     "initiative": "65",
-    "cardno": "rm-011",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "011"
+  },
+  {
+    "name": "011",
+    "points": 3300,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-reckless-attack.png",
+    "xws": "recklessattack",
+    "level": "1",
+    "initiative": "65",
+    "character-xws": "ruinmaw",
+    "assetno": "011"
   },
   {
     "name": "rend and mutilate",
-    "points": 2953,
+    "points": 3301,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-rend-and-mutilate.png",
     "xws": "rendandmutilate",
     "level": "5",
     "initiative": "74",
-    "cardno": "rm-023",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "023"
+  },
+  {
+    "name": "023",
+    "points": 3302,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-rend-and-mutilate.png",
+    "xws": "rendandmutilate",
+    "level": "5",
+    "initiative": "74",
+    "character-xws": "ruinmaw",
+    "assetno": "023"
   },
   {
     "name": "rip and tear",
-    "points": 2954,
+    "points": 3303,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-rip-and-tear.png",
     "xws": "ripandtear",
     "level": "9",
     "initiative": "42",
-    "cardno": "rm-032",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "032"
+  },
+  {
+    "name": "032",
+    "points": 3304,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-rip-and-tear.png",
+    "xws": "ripandtear",
+    "level": "9",
+    "initiative": "42",
+    "character-xws": "ruinmaw",
+    "assetno": "032"
+  },
+  {
+    "name": "rm-back",
+    "points": 3305,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-rm-back.png",
+    "xws": "rmback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "ruinmaw",
+    "assetno": "###"
   },
   {
     "name": "savage stalker",
-    "points": 2955,
+    "points": 3306,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-savage-stalker.png",
     "xws": "savagestalker",
     "level": "3",
     "initiative": "20",
-    "cardno": "rm-019",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "019"
+  },
+  {
+    "name": "019",
+    "points": 3307,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-savage-stalker.png",
+    "xws": "savagestalker",
+    "level": "3",
+    "initiative": "20",
+    "character-xws": "ruinmaw",
+    "assetno": "019"
   },
   {
     "name": "scrape and scrounge",
-    "points": 2956,
+    "points": 3308,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-scrape-and-scrounge.png",
     "xws": "scrapeandscrounge",
     "level": "x",
     "initiative": "24",
-    "cardno": "rm-015",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "015"
+  },
+  {
+    "name": "015",
+    "points": 3309,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-scrape-and-scrounge.png",
+    "xws": "scrapeandscrounge",
+    "level": "x",
+    "initiative": "24",
+    "character-xws": "ruinmaw",
+    "assetno": "015"
   },
   {
     "name": "seize",
-    "points": 2957,
+    "points": 3310,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-seize.png",
     "xws": "seize",
     "level": "x",
     "initiative": "29",
-   "cardno": "rm-016",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "016"
+  },
+  {
+    "name": "016",
+    "points": 3311,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-seize.png",
+    "xws": "seize",
+    "level": "x",
+    "initiative": "29",
+    "character-xws": "ruinmaw",
+    "assetno": "016"
   },
   {
     "name": "slake thirst",
-    "points": 2958,
+    "points": 3312,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-slake-thirst.png",
     "xws": "slakethirst",
     "level": "2",
     "initiative": "26",
-    "cardno": "rm-017",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "017"
+  },
+  {
+    "name": "017",
+    "points": 3313,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-slake-thirst.png",
+    "xws": "slakethirst",
+    "level": "2",
+    "initiative": "26",
+    "character-xws": "ruinmaw",
+    "assetno": "017"
   },
   {
     "name": "strip the flesh",
-    "points": 2959,
+    "points": 3314,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-strip-the-flesh.png",
     "xws": "striptheflesh",
     "level": "1",
     "initiative": "17",
-    "cardno": "rm-012",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "012"
+  },
+  {
+    "name": "012",
+    "points": 3315,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-strip-the-flesh.png",
+    "xws": "striptheflesh",
+    "level": "1",
+    "initiative": "17",
+    "character-xws": "ruinmaw",
+    "assetno": "012"
   },
   {
     "name": "survival instincts",
-    "points": 2960,
+    "points": 3316,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-survival-instincts.png",
     "xws": "survivalinstincts",
     "level": "7",
     "initiative": "13",
-    "cardno": "rm-028",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "028"
+  },
+  {
+    "name": "028",
+    "points": 3317,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-survival-instincts.png",
+    "xws": "survivalinstincts",
+    "level": "7",
+    "initiative": "13",
+    "character-xws": "ruinmaw",
+    "assetno": "028"
   },
   {
     "name": "terrifying howl",
-    "points": 2961,
+    "points": 3318,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-terrifying-howl.png",
     "xws": "terrifyinghowl",
     "level": "1",
     "initiative": "22",
-    "cardno": "rm-013",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "013"
+  },
+  {
+    "name": "013",
+    "points": 3319,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/rm/cs-terrifying-howl.png",
+    "xws": "terrifyinghowl",
+    "level": "1",
+    "initiative": "22",
+    "character-xws": "ruinmaw",
+    "assetno": "013"
   },
   {
     "name": "voracious hunter",
-    "points": 2962,
+    "points": 3320,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/rm/cs-voracious-hunter.png",
     "xws": "voracioushunter",
     "level": "5",
     "initiative": "32",
-    "cardno": "rm-024",
-    "character-xws": "ruinmaw"
+    "character-xws": "ruinmaw",
+    "assetno": "024"
   },
   {
-    "name": "sp-back",
-    "points": 2963,
+    "name": "024",
+    "points": 3321,
     "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/sp/cs-sp-back.png",
-    "xws": "spback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "spirit caller"
+    "image": "character-ability-cards/crimson-scales/rm/cs-voracious-hunter.png",
+    "xws": "voracioushunter",
+    "level": "5",
+    "initiative": "32",
+    "character-xws": "ruinmaw",
+    "assetno": "024"
   },
   {
     "name": "burning pit",
-    "points": 2964,
+    "points": 3322,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-burning-pit.png",
     "xws": "burningpit",
     "level": "1",
     "initiative": "45",
-    "cardno": "272",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "272"
+  },
+  {
+    "name": "272",
+    "points": 3323,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-burning-pit.png",
+    "xws": "burningpit",
+    "level": "1",
+    "initiative": "45",
+    "character-xws": "spirit caller",
+    "assetno": "272"
   },
   {
     "name": "blazing fire",
-    "points": 2965,
+    "points": 3324,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-burning-pit.png",
-    "xws": "burningpit",
+    "xws": "blazingfire",
     "level": "1",
     "initiative": "45",
-    "cardno": "272",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "272"
   },
   {
     "name": "chilling slice",
-    "points": 2966,
+    "points": 3325,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-chilling-slice.png",
     "xws": "chillingslice",
     "level": "8",
     "initiative": "66",
-    "cardno": "297",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "297"
+  },
+  {
+    "name": "297",
+    "points": 3326,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-chilling-slice.png",
+    "xws": "chillingslice",
+    "level": "8",
+    "initiative": "66",
+    "character-xws": "spirit caller",
+    "assetno": "297"
   },
   {
     "name": "circle of lifeless",
-    "points": 2967,
+    "points": 3327,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-circle-of-lifeless.png",
     "xws": "circleoflifeless",
     "level": "8",
     "initiative": "90",
-    "cardno": "298",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "298"
+  },
+  {
+    "name": "298",
+    "points": 3328,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-circle-of-lifeless.png",
+    "xws": "circleoflifeless",
+    "level": "8",
+    "initiative": "90",
+    "character-xws": "spirit caller",
+    "assetno": "298"
   },
   {
     "name": "confidence ritual",
-    "points": 2968,
+    "points": 3329,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-confidence-ritual.png",
     "xws": "confidenceritual",
     "level": "1",
     "initiative": "30",
-    "cardno": "273",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "273"
+  },
+  {
+    "name": "273",
+    "points": 3330,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-confidence-ritual.png",
+    "xws": "confidenceritual",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "spirit caller",
+    "assetno": "273"
   },
   {
     "name": "death is not defeat",
-    "points": 2969,
+    "points": 3331,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-death-is-not-defeat.png",
     "xws": "deathisnotdefeat",
     "level": "9",
     "initiative": "97",
-    "cardno": "299",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "299"
+  },
+  {
+    "name": "299",
+    "points": 3332,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-death-is-not-defeat.png",
+    "xws": "deathisnotdefeat",
+    "level": "9",
+    "initiative": "97",
+    "character-xws": "spirit caller",
+    "assetno": "299"
   },
   {
     "name": "decaying daggers",
-    "points": 2970,
+    "points": 3333,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-decaying-daggers.png",
     "xws": "decayingdaggers",
     "level": "3",
     "initiative": "28",
-    "cardno": "287",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "287"
+  },
+  {
+    "name": "287",
+    "points": 3334,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-decaying-daggers.png",
+    "xws": "decayingdaggers",
+    "level": "3",
+    "initiative": "28",
+    "character-xws": "spirit caller",
+    "assetno": "287"
   },
   {
     "name": "dimmed defense",
-    "points": 2971,
+    "points": 3335,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-dimmed-defense.png",
     "xws": "dimmeddefense",
     "level": "1",
     "initiative": "12",
-    "cardno": "274",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "274"
+  },
+  {
+    "name": "274",
+    "points": 3336,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-dimmed-defense.png",
+    "xws": "dimmeddefense",
+    "level": "1",
+    "initiative": "12",
+    "character-xws": "spirit caller",
+    "assetno": "274"
   },
   {
     "name": "wall of shadows",
-    "points": 2972,
+    "points": 3337,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-dimmed-defense.png",
-    "xws": "dimmeddefense",
+    "xws": "wallofshadows",
     "level": "1",
     "initiative": "12",
-    "cardno": "274",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "274"
   },
   {
     "name": "eternal endurance",
-    "points": 2973,
+    "points": 3338,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-eternal-endurance.png",
     "xws": "eternalendurance",
     "level": "9",
     "initiative": "06",
-    "cardno": "300",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "300"
+  },
+  {
+    "name": "300",
+    "points": 3339,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-eternal-endurance.png",
+    "xws": "eternalendurance",
+    "level": "9",
+    "initiative": "06",
+    "character-xws": "spirit caller",
+    "assetno": "300"
   },
   {
     "name": "wandering soul",
-    "points": 2974,
+    "points": 3340,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-eternal-endurance.png",
-    "xws": "eternalendurance",
+    "xws": "wanderingsoul",
     "level": "9",
-    "initiative": "6",
-    "cardno": "300",
-    "character-xws": "spirit caller"
+    "initiative": "06",
+    "character-xws": "spirit caller",
+    "assetno": "300"
   },
   {
     "name": "disembodied goliath",
-    "points": 2975,
+    "points": 3341,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-eternal-endurance.png",
-    "xws": "eternalendurance",
+    "xws": "disembodiedgoliath",
     "level": "9",
-    "initiative": "6",
-    "cardno": "300",
-    "character-xws": "spirit caller"
+    "initiative": "06",
+    "character-xws": "spirit caller",
+    "assetno": "300"
   },
   {
     "name": "ethereal canine",
-    "points": 2976,
+    "points": 3342,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-ethereal-canine.png",
     "xws": "etherealcanine",
     "level": "1",
     "initiative": "27",
-    "cardno": "275",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "275"
+  },
+  {
+    "name": "275",
+    "points": 3343,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-ethereal-canine.png",
+    "xws": "etherealcanine",
+    "level": "1",
+    "initiative": "27",
+    "character-xws": "spirit caller",
+    "assetno": "275"
   },
   {
     "name": "phantom hound",
-    "points": 2977,
+    "points": 3344,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-ethereal-canine.png",
-    "xws": "etherealcanine",
+    "xws": "phantomhound",
     "level": "1",
     "initiative": "27",
-    "cardno": "275",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "275"
   },
   {
     "name": "fear the reaper",
-    "points": 2978,
+    "points": 3345,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fear-the-reaper.png",
     "xws": "fearthereaper",
     "level": "x",
     "initiative": "91",
-    "cardno": "282",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "282"
+  },
+  {
+    "name": "282",
+    "points": 3346,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-fear-the-reaper.png",
+    "xws": "fearthereaper",
+    "level": "x",
+    "initiative": "91",
+    "character-xws": "spirit caller",
+    "assetno": "282"
   },
   {
     "name": "deatheater",
-    "points": 2979,
+    "points": 3347,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fear-the-reaper.png",
-    "xws": "fearthereaper",
+    "xws": "deatheater",
     "level": "x",
     "initiative": "91",
-    "cardno": "282",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "282"
   },
   {
     "name": "fierce loyalty",
-    "points": 2980,
+    "points": 3348,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fierce-loyalty.png",
     "xws": "fierceloyalty",
     "level": "6",
     "initiative": "20",
-    "cardno": "293",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "293"
+  },
+  {
+    "name": "293",
+    "points": 3349,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-fierce-loyalty.png",
+    "xws": "fierceloyalty",
+    "level": "6",
+    "initiative": "20",
+    "character-xws": "spirit caller",
+    "assetno": "293"
   },
   {
     "name": "mimicking sprite",
-    "points": 2981,
+    "points": 3350,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-fierce-loyalty.png",
-    "xws": "fierceloyalty",
+    "xws": "mimickingsprite",
     "level": "6",
     "initiative": "20",
-    "cardno": "293",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "293"
   },
   {
     "name": "flurry of madness",
-    "points": 2982,
+    "points": 3351,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-flurry-of-madness.png",
     "xws": "flurryofmadness",
     "level": "2",
     "initiative": "42",
-    "cardno": "285",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "285"
+  },
+  {
+    "name": "285",
+    "points": 3352,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-flurry-of-madness.png",
+    "xws": "flurryofmadness",
+    "level": "2",
+    "initiative": "42",
+    "character-xws": "spirit caller",
+    "assetno": "285"
   },
   {
     "name": "bat cloud",
-    "points": 2983,
+    "points": 3353,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-flurry-of-madness.png",
-    "xws": "flurryofmadness",
+    "xws": "batcloud",
     "level": "2",
     "initiative": "42",
-    "cardno": "285",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "285"
   },
   {
     "name": "forceful apparition",
-    "points": 2984,
+    "points": 3354,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-forceful-apparition.png",
     "xws": "forcefulapparition",
     "level": "x",
     "initiative": "16",
-    "cardno": "283",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "283"
+  },
+  {
+    "name": "283",
+    "points": 3355,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-forceful-apparition.png",
+    "xws": "forcefulapparition",
+    "level": "x",
+    "initiative": "16",
+    "character-xws": "spirit caller",
+    "assetno": "283"
   },
   {
     "name": "leeching phantasm",
-    "points": 2985,
+    "points": 3356,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-forceful-apparition.png",
-    "xws": "forcefulapparition",
+    "xws": "leechingphantasm",
     "level": "x",
     "initiative": "16",
-    "cardno": "283",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "283"
   },
   {
     "name": "horde of bones",
-    "points": 2986,
+    "points": 3357,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horde-of-bones.png",
     "xws": "hordeofbones",
     "level": "1",
     "initiative": "79",
-    "cardno": "276",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "276"
   },
   {
-    "name": "skeletal archer",
-    "points": 2987,
+    "name": "276",
+    "points": 3358,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horde-of-bones.png",
     "xws": "hordeofbones",
     "level": "1",
     "initiative": "79",
-    "cardno": "276",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "276"
+  },
+  {
+    "name": "skeleton archer",
+    "points": 3359,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-horde-of-bones.png",
+    "xws": "skeletonarcher",
+    "level": "1",
+    "initiative": "79",
+    "character-xws": "spirit caller",
+    "assetno": "276"
   },
   {
     "name": "horrific nightmare",
-    "points": 2988,
+    "points": 3360,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horrific-nightmare.png",
     "xws": "horrificnightmare",
     "level": "6",
     "initiative": "71",
-    "cardno": "294",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "294"
+  },
+  {
+    "name": "294",
+    "points": 3361,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-horrific-nightmare.png",
+    "xws": "horrificnightmare",
+    "level": "6",
+    "initiative": "71",
+    "character-xws": "spirit caller",
+    "assetno": "294"
   },
   {
     "name": "soul snatcher",
-    "points": 2989,
+    "points": 3362,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-horrific-nightmare.png",
-    "xws": "horrificnightmare",
+    "xws": "soulsnatcher",
     "level": "6",
     "initiative": "71",
-    "cardno": "294",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "294"
   },
   {
     "name": "incorporeal transport",
-    "points": 2990,
+    "points": 3363,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-incorporeal-transport.png",
     "xws": "incorporealtransport",
     "level": "1",
     "initiative": "74",
-    "cardno": "277",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "277"
+  },
+  {
+    "name": "277",
+    "points": 3364,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-incorporeal-transport.png",
+    "xws": "incorporealtransport",
+    "level": "1",
+    "initiative": "74",
+    "character-xws": "spirit caller",
+    "assetno": "277"
   },
   {
     "name": "ghost carriage",
-    "points": 2991,
+    "points": 3365,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-incorporeal-transport.png",
-    "xws": "incorporealtransport",
+    "xws": "ghostcarriage",
     "level": "1",
     "initiative": "74",
-    "cardno": "277",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "277"
   },
   {
     "name": "midnight feast",
-    "points": 2992,
+    "points": 3366,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-midnight-feast.png",
     "xws": "midnightfeast",
     "level": "1",
     "initiative": "80",
-    "cardno": "278",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "278"
+  },
+  {
+    "name": "278",
+    "points": 3367,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-midnight-feast.png",
+    "xws": "midnightfeast",
+    "level": "1",
+    "initiative": "80",
+    "character-xws": "spirit caller",
+    "assetno": "278"
   },
   {
     "name": "rise from ashes",
-    "points": 2993,
+    "points": 3368,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
     "xws": "risefromashes",
     "level": "7",
     "initiative": "55",
-    "cardno": "295",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "295"
+  },
+  {
+    "name": "295",
+    "points": 3369,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
+    "xws": "risefromashes",
+    "level": "7",
+    "initiative": "55",
+    "character-xws": "spirit caller",
+    "assetno": "295"
   },
   {
     "name": "glowing egg",
-    "points": 2994,
+    "points": 3370,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
-    "xws": "risefromashes",
+    "xws": "glowingegg",
     "level": "7",
     "initiative": "55",
-    "cardno": "295",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "295"
   },
   {
     "name": "spectral phoenix",
-    "points": 2995,
+    "points": 3371,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
-    "xws": "risefromashes",
+    "xws": "spectralphoenix",
     "level": "7",
     "initiative": "55",
-    "cardno": "296",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "295"
+  },
+  {
+    "name": "295",
+    "points": 3372,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-rise-from-ashes.png",
+    "xws": "spectralphoenix",
+    "level": "7",
+    "initiative": "55",
+    "character-xws": "spirit caller",
+    "assetno": "295"
   },
   {
     "name": "shamanistic guard",
-    "points": 2996,
+    "points": 3373,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shamanistic-guard.png",
     "xws": "shamanisticguard",
     "level": "7",
     "initiative": "18",
-    "cardno": "296",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "296"
+  },
+  {
+    "name": "296",
+    "points": 3374,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-shamanistic-guard.png",
+    "xws": "shamanisticguard",
+    "level": "7",
+    "initiative": "18",
+    "character-xws": "spirit caller",
+    "assetno": "296"
   },
   {
     "name": "vengeful phantasm",
-    "points": 2997,
+    "points": 3375,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shamanistic-guard.png",
-    "xws": "shamanisticguard",
+    "xws": "vengefulphantasm",
     "level": "7",
     "initiative": "18",
-    "cardno": "296",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "296"
   },
   {
     "name": "shrieking spirit",
-    "points": 2998,
+    "points": 3376,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shrieking-spirit.png",
     "xws": "shriekingspirit",
     "level": "1",
     "initiative": "26",
-    "cardno": "279",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "279"
+  },
+  {
+    "name": "279",
+    "points": 3377,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-shrieking-spirit.png",
+    "xws": "shriekingspirit",
+    "level": "1",
+    "initiative": "26",
+    "character-xws": "spirit caller",
+    "assetno": "279"
   },
   {
     "name": "wailing banshee",
-    "points": 2999,
+    "points": 3378,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-shrieking-spirit.png",
-    "xws": "shriekingspirit",
+    "xws": "wailingbanshee",
     "level": "1",
     "initiative": "26",
-    "cardno": "279",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "279"
   },
   {
     "name": "smoky shroud",
-    "points": 3000,
+    "points": 3379,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-smoky-shroud.png",
     "xws": "smokyshroud",
     "level": "2",
     "initiative": "81",
-    "cardno": "286",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "286"
+  },
+  {
+    "name": "286",
+    "points": 3380,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-smoky-shroud.png",
+    "xws": "smokyshroud",
+    "level": "2",
+    "initiative": "81",
+    "character-xws": "spirit caller",
+    "assetno": "286"
   },
   {
     "name": "mantle of darkness",
-    "points": 3001,
+    "points": 3381,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-smoky-shroud.png",
-    "xws": "smokyshroud",
+    "xws": "mantleofdarkness",
     "level": "2",
     "initiative": "81",
-    "cardno": "286",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "286"
   },
   {
     "name": "soul harvest",
-    "points": 3002,
+    "points": 3382,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-soul-harvest.png",
     "xws": "soulharvest",
     "level": "5",
     "initiative": "15",
-    "cardno": "291",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "291"
+  },
+  {
+    "name": "291",
+    "points": 3383,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-soul-harvest.png",
+    "xws": "soulharvest",
+    "level": "5",
+    "initiative": "15",
+    "character-xws": "spirit caller",
+    "assetno": "291"
+  },
+  {
+    "name": "sp-back",
+    "points": 3384,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-sp-back.png",
+    "xws": "spback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "spirit caller",
+    "assetno": "###"
   },
   {
     "name": "spirit barrage",
-    "points": 3003,
+    "points": 3385,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spirit-barrage.png",
     "xws": "spiritbarrage",
     "level": "4",
     "initiative": "51",
-    "cardno": "289",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "289"
+  },
+  {
+    "name": "289",
+    "points": 3386,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-spirit-barrage.png",
+    "xws": "spiritbarrage",
+    "level": "4",
+    "initiative": "51",
+    "character-xws": "spirit caller",
+    "assetno": "289"
   },
   {
     "name": "spiritual energy",
-    "points": 3004,
+    "points": 3387,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spiritual-energy.png",
     "xws": "spiritualenergy",
     "level": "5",
     "initiative": "34",
-    "cardno": "292",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "292"
+  },
+  {
+    "name": "292",
+    "points": 3388,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-spiritual-energy.png",
+    "xws": "spiritualenergy",
+    "level": "5",
+    "initiative": "34",
+    "character-xws": "spirit caller",
+    "assetno": "292"
   },
   {
     "name": "imbued monolith",
-    "points": 3005,
+    "points": 3389,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spiritual-energy.png",
-    "xws": "spiritualenergy",
+    "xws": "imbuedmonolith",
     "level": "5",
     "initiative": "34",
-    "cardno": "292",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "292"
   },
   {
     "name": "spread disease",
-    "points": 3006,
+    "points": 3390,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spread-disease.png",
     "xws": "spreaddisease",
     "level": "3",
     "initiative": "47",
-    "cardno": "288",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "288"
+  },
+  {
+    "name": "288",
+    "points": 3391,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-spread-disease.png",
+    "xws": "spreaddisease",
+    "level": "3",
+    "initiative": "47",
+    "character-xws": "spirit caller",
+    "assetno": "288"
   },
   {
     "name": "leprous wraith",
-    "points": 3007,
+    "points": 3392,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-spread-disease.png",
-    "xws": "spreaddisease",
+    "xws": "leprouswraith",
     "level": "3",
     "initiative": "47",
-    "cardno": "288",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "288"
   },
   {
     "name": "toxic charm",
-    "points": 3008,
+    "points": 3393,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-toxic-charm.png",
     "xws": "toxiccharm",
     "level": "1",
     "initiative": "59",
-    "cardno": "280",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "280"
+  },
+  {
+    "name": "280",
+    "points": 3394,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-toxic-charm.png",
+    "xws": "toxiccharm",
+    "level": "1",
+    "initiative": "59",
+    "character-xws": "spirit caller",
+    "assetno": "280"
   },
   {
     "name": "unholy sacrifice",
-    "points": 3009,
+    "points": 3395,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-unholy-sacrifice.png",
     "xws": "unholysacrifice",
     "level": "x",
     "initiative": "23",
-    "cardno": "284",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "284"
+  },
+  {
+    "name": "284",
+    "points": 3396,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-unholy-sacrifice.png",
+    "xws": "unholysacrifice",
+    "level": "x",
+    "initiative": "23",
+    "character-xws": "spirit caller",
+    "assetno": "284"
   },
   {
     "name": "whistling winds",
-    "points": 3010,
+    "points": 3397,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-whistling-winds.png",
     "xws": "whistlingwinds",
     "level": "1",
     "initiative": "82",
-    "cardno": "281",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "281"
+  },
+  {
+    "name": "281",
+    "points": 3398,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-whistling-winds.png",
+    "xws": "whistlingwinds",
+    "level": "1",
+    "initiative": "82",
+    "character-xws": "spirit caller",
+    "assetno": "281"
   },
   {
     "name": "white glow",
-    "points": 3011,
+    "points": 3399,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-white-glow.png",
     "xws": "whiteglow",
     "level": "4",
     "initiative": "77",
-    "cardno": "290",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "290"
+  },
+  {
+    "name": "290",
+    "points": 3400,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/sp/cs-white-glow.png",
+    "xws": "whiteglow",
+    "level": "4",
+    "initiative": "77",
+    "character-xws": "spirit caller",
+    "assetno": "290"
   },
   {
     "name": "orb of light",
-    "points": 3012,
+    "points": 3401,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-white-glow.png",
-    "xws": "whiteglow",
+    "xws": "orboflight",
     "level": "4",
     "initiative": "77",
-    "cardno": "290",
-    "character-xws": "spirit caller"
+    "character-xws": "spirit caller",
+    "assetno": "290"
   },
   {
     "name": "shifting discs",
-    "points": 3013,
+    "points": 3402,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/sp/cs-white-glow.png",
-    "xws": "whiteglow",
+    "xws": "shiftingdiscs",
     "level": "4",
     "initiative": "77",
-    "cardno": "290",
-    "character-xws": "spirit caller"
-  },
-  {
-    "name": "st-back",
-    "points": 3014,
-    "expansion": "crimson scales",
-    "image": "character-ability-cards/crimson-scales/st/cs-st-back.png",
-    "xws": "stback",
-    "level": "-",
-    "initiative": "-",
-    "cardno": "-",
-    "character-xws": "starslinger"
+    "character-xws": "spirit caller",
+    "assetno": "290"
   },
   {
     "name": "absolute magnitude",
-    "points": 3015,
+    "points": 3403,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-absolute-magnitude.png",
     "xws": "absolutemagnitude",
     "level": "6",
     "initiative": "20",
-    "cardno": "322",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "322"
+  },
+  {
+    "name": "322",
+    "points": 3404,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-absolute-magnitude.png",
+    "xws": "absolutemagnitude",
+    "level": "6",
+    "initiative": "20",
+    "character-xws": "starslinger",
+    "assetno": "322"
   },
   {
     "name": "absorbing light",
-    "points": 3016,
+    "points": 3405,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-absorbing-light.png",
     "xws": "absorbinglight",
     "level": "3",
     "initiative": "15",
-    "cardno": "316",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "316"
+  },
+  {
+    "name": "316",
+    "points": 3406,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-absorbing-light.png",
+    "xws": "absorbinglight",
+    "level": "3",
+    "initiative": "15",
+    "character-xws": "starslinger",
+    "assetno": "316"
   },
   {
     "name": "aligned constellations",
-    "points": 3017,
+    "points": 3407,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-aligned-constellations.png",
     "xws": "alignedconstellations",
     "level": "1",
     "initiative": "32",
-    "cardno": "301",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "301"
+  },
+  {
+    "name": "301",
+    "points": 3408,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-aligned-constellations.png",
+    "xws": "alignedconstellations",
+    "level": "1",
+    "initiative": "32",
+    "character-xws": "starslinger",
+    "assetno": "301"
   },
   {
     "name": "blue moon",
-    "points": 3018,
+    "points": 3409,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-blue-moon.png",
     "xws": "bluemoon",
     "level": "6",
     "initiative": "79",
-    "cardno": "323",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "323"
+  },
+  {
+    "name": "323",
+    "points": 3410,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-blue-moon.png",
+    "xws": "bluemoon",
+    "level": "6",
+    "initiative": "79",
+    "character-xws": "starslinger",
+    "assetno": "323"
   },
   {
     "name": "celestial maneuver",
-    "points": 3019,
+    "points": 3411,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-celestial-maneuver.png",
     "xws": "celestialmaneuver",
     "level": "8",
     "initiative": "88",
-    "cardno": "326",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "326"
+  },
+  {
+    "name": "326",
+    "points": 3412,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-celestial-maneuver.png",
+    "xws": "celestialmaneuver",
+    "level": "8",
+    "initiative": "88",
+    "character-xws": "starslinger",
+    "assetno": "326"
   },
   {
     "name": "crashing flare",
-    "points": 3020,
+    "points": 3413,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-crashing-flare.png",
     "xws": "crashingflare",
     "level": "1",
     "initiative": "26",
-    "cardno": "302",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "302"
+  },
+  {
+    "name": "302",
+    "points": 3414,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-crashing-flare.png",
+    "xws": "crashingflare",
+    "level": "1",
+    "initiative": "26",
+    "character-xws": "starslinger",
+    "assetno": "302"
   },
   {
     "name": "defying gravity",
-    "points": 3021,
+    "points": 3415,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-defying-gravity.png",
     "xws": "defyinggravity",
     "level": "2",
     "initiative": "22",
-    "cardno": "314",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "314"
+  },
+  {
+    "name": "314",
+    "points": 3416,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-defying-gravity.png",
+    "xws": "defyinggravity",
+    "level": "2",
+    "initiative": "22",
+    "character-xws": "starslinger",
+    "assetno": "314"
   },
   {
     "name": "diamond rings",
-    "points": 3022,
+    "points": 3417,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-diamond-rings.png",
     "xws": "diamondrings",
     "level": "1",
     "initiative": "35",
-    "cardno": "303",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "303"
+  },
+  {
+    "name": "303",
+    "points": 3418,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-diamond-rings.png",
+    "xws": "diamondrings",
+    "level": "1",
+    "initiative": "35",
+    "character-xws": "starslinger",
+    "assetno": "303"
   },
   {
     "name": "earthshine",
-    "points": 3023,
+    "points": 3419,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-earthshine.png",
     "xws": "earthshine",
     "level": "1",
     "initiative": "57",
-    "cardno": "304",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "304"
+  },
+  {
+    "name": "304",
+    "points": 3420,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-earthshine.png",
+    "xws": "earthshine",
+    "level": "1",
+    "initiative": "57",
+    "character-xws": "starslinger",
+    "assetno": "304"
   },
   {
     "name": "eonic blast",
-    "points": 3024,
+    "points": 3421,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-eonic-blast.png",
     "xws": "eonicblast",
     "level": "7",
     "initiative": "50",
-    "cardno": "324",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "324"
+  },
+  {
+    "name": "324",
+    "points": 3422,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-eonic-blast.png",
+    "xws": "eonicblast",
+    "level": "7",
+    "initiative": "50",
+    "character-xws": "starslinger",
+    "assetno": "324"
   },
   {
     "name": "equinox",
-    "points": 3025,
+    "points": 3423,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-equinox.png",
     "xws": "equinox",
     "level": "4",
     "initiative": "40",
-    "cardno": "318",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "318"
+  },
+  {
+    "name": "318",
+    "points": 3424,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-equinox.png",
+    "xws": "equinox",
+    "level": "4",
+    "initiative": "40",
+    "character-xws": "starslinger",
+    "assetno": "318"
   },
   {
     "name": "force field",
-    "points": 3026,
+    "points": 3425,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-force-field.png",
     "xws": "forcefield",
     "level": "x",
     "initiative": "09",
-    "cardno": "311",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "311"
+  },
+  {
+    "name": "311",
+    "points": 3426,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-force-field.png",
+    "xws": "forcefield",
+    "level": "x",
+    "initiative": "09",
+    "character-xws": "starslinger",
+    "assetno": "311"
   },
   {
     "name": "gravitational flip",
-    "points": 3027,
+    "points": 3427,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-gravitational-flip.png",
     "xws": "gravitationalflip",
     "level": "x",
     "initiative": "13",
-    "cardno": "312",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "312"
+  },
+  {
+    "name": "312",
+    "points": 3428,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-gravitational-flip.png",
+    "xws": "gravitationalflip",
+    "level": "x",
+    "initiative": "13",
+    "character-xws": "starslinger",
+    "assetno": "312"
   },
   {
     "name": "interplanar voyager",
-    "points": 3028,
+    "points": 3429,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-interplanar-voyager.png",
     "xws": "interplanarvoyager",
     "level": "9",
     "initiative": "24",
-    "cardno": "328",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "328"
+  },
+  {
+    "name": "328",
+    "points": 3430,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-interplanar-voyager.png",
+    "xws": "interplanarvoyager",
+    "level": "9",
+    "initiative": "24",
+    "character-xws": "starslinger",
+    "assetno": "328"
   },
   {
     "name": "light pollution",
-    "points": 3029,
+    "points": 3431,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-light-pollution.png",
     "xws": "lightpollution",
     "level": "1",
     "initiative": "44",
-    "cardno": "305",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "305"
+  },
+  {
+    "name": "305",
+    "points": 3432,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-light-pollution.png",
+    "xws": "lightpollution",
+    "level": "1",
+    "initiative": "44",
+    "character-xws": "starslinger",
+    "assetno": "305"
   },
   {
     "name": "lost in the stars",
-    "points": 3030,
+    "points": 3433,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-lost-in-the-stars.png",
     "xws": "lostinthestars",
     "level": "x",
     "initiative": "06",
-    "cardno": "313",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "313"
+  },
+  {
+    "name": "313",
+    "points": 3434,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-lost-in-the-stars.png",
+    "xws": "lostinthestars",
+    "level": "x",
+    "initiative": "06",
+    "character-xws": "starslinger",
+    "assetno": "313"
   },
   {
     "name": "lucky stars",
-    "points": 3031,
+    "points": 3435,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-lucky-stars.png",
     "xws": "luckystars",
     "level": "1",
     "initiative": "74",
-    "cardno": "306",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "306"
+  },
+  {
+    "name": "306",
+    "points": 3436,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-lucky-stars.png",
+    "xws": "luckystars",
+    "level": "1",
+    "initiative": "74",
+    "character-xws": "starslinger",
+    "assetno": "306"
   },
   {
     "name": "luminous blitz",
-    "points": 3032,
+    "points": 3437,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-luminous-blitz.png",
     "xws": "luminousblitz",
     "level": "1",
     "initiative": "17",
-    "cardno": "307",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "307"
+  },
+  {
+    "name": "307",
+    "points": 3438,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-luminous-blitz.png",
+    "xws": "luminousblitz",
+    "level": "1",
+    "initiative": "17",
+    "character-xws": "starslinger",
+    "assetno": "307"
   },
   {
     "name": "pierce the firmament",
-    "points": 3033,
+    "points": 3439,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-pierce-the-firmament.png",
     "xws": "piercethefirmament",
     "level": "9",
     "initiative": "33",
-    "cardno": "329",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "329"
+  },
+  {
+    "name": "329",
+    "points": 3440,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-pierce-the-firmament.png",
+    "xws": "piercethefirmament",
+    "level": "9",
+    "initiative": "33",
+    "character-xws": "starslinger",
+    "assetno": "329"
   },
   {
     "name": "plasmatic power",
-    "points": 3034,
+    "points": 3441,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-plasmatic-power.png",
     "xws": "plasmaticpower",
     "level": "5",
     "initiative": "10",
-    "cardno": "321",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "321"
+  },
+  {
+    "name": "321",
+    "points": 3442,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-plasmatic-power.png",
+    "xws": "plasmaticpower",
+    "level": "5",
+    "initiative": "10",
+    "character-xws": "starslinger",
+    "assetno": "321"
   },
   {
     "name": "proportional exchange",
-    "points": 3035,
+    "points": 3443,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-proportional-exchange.png",
     "xws": "proportionalexchange",
     "level": "2",
     "initiative": "84",
-    "cardno": "315",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "315"
+  },
+  {
+    "name": "315",
+    "points": 3444,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-proportional-exchange.png",
+    "xws": "proportionalexchange",
+    "level": "2",
+    "initiative": "84",
+    "character-xws": "starslinger",
+    "assetno": "315"
   },
   {
     "name": "shifting chasma",
-    "points": 3036,
+    "points": 3445,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-shifting-chasma.png",
     "xws": "shiftingchasma",
     "level": "5",
     "initiative": "28",
-    "cardno": "320",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "320"
+  },
+  {
+    "name": "320",
+    "points": 3446,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-shifting-chasma.png",
+    "xws": "shiftingchasma",
+    "level": "5",
+    "initiative": "28",
+    "character-xws": "starslinger",
+    "assetno": "320"
   },
   {
     "name": "shooting stars",
-    "points": 3037,
+    "points": 3447,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-shooting-stars.png",
     "xws": "shootingstars",
     "level": "3",
     "initiative": "54",
-    "cardno": "317",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "317"
+  },
+  {
+    "name": "317",
+    "points": 3448,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-shooting-stars.png",
+    "xws": "shootingstars",
+    "level": "3",
+    "initiative": "54",
+    "character-xws": "starslinger",
+    "assetno": "317"
   },
   {
     "name": "solar eclipse",
-    "points": 3038,
+    "points": 3449,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-solar-eclipse.png",
     "xws": "solareclipse",
     "level": "1",
     "initiative": "60",
-    "cardno": "308",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "308"
+  },
+  {
+    "name": "308",
+    "points": 3450,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-solar-eclipse.png",
+    "xws": "solareclipse",
+    "level": "1",
+    "initiative": "60",
+    "character-xws": "starslinger",
+    "assetno": "308"
   },
   {
     "name": "starstruck",
-    "points": 3039,
+    "points": 3451,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-starstruck.png",
     "xws": "starstruck",
     "level": "1",
     "initiative": "80",
-    "cardno": "309",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "309"
+  },
+  {
+    "name": "309",
+    "points": 3452,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-starstruck.png",
+    "xws": "starstruck",
+    "level": "1",
+    "initiative": "80",
+    "character-xws": "starslinger",
+    "assetno": "309"
+  },
+  {
+    "name": "st-back",
+    "points": 3453,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-st-back.png",
+    "xws": "stback",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "starslinger",
+    "assetno": "###"
   },
   {
     "name": "stone meteorite",
-    "points": 3040,
+    "points": 3454,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-stone-meteorite.png",
     "xws": "stonemeteorite",
     "level": "7",
     "initiative": "90",
-    "cardno": "325",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "325"
+  },
+  {
+    "name": "325",
+    "points": 3455,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-stone-meteorite.png",
+    "xws": "stonemeteorite",
+    "level": "7",
+    "initiative": "90",
+    "character-xws": "starslinger",
+    "assetno": "325"
   },
   {
     "name": "sungaze",
-    "points": 3041,
+    "points": 3456,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-sungaze.png",
     "xws": "sungaze",
     "level": "8",
     "initiative": "37",
-    "cardno": "327",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "327"
+  },
+  {
+    "name": "327",
+    "points": 3457,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-sungaze.png",
+    "xws": "sungaze",
+    "level": "8",
+    "initiative": "37",
+    "character-xws": "starslinger",
+    "assetno": "327"
   },
   {
     "name": "supernova",
-    "points": 3042,
+    "points": 3458,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-supernova.png",
     "xws": "supernova",
     "level": "1",
     "initiative": "30",
-    "cardno": "310",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "310"
+  },
+  {
+    "name": "310",
+    "points": 3459,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-supernova.png",
+    "xws": "supernova",
+    "level": "1",
+    "initiative": "30",
+    "character-xws": "starslinger",
+    "assetno": "310"
   },
   {
     "name": "wish upon a star",
-    "points": 3043,
+    "points": 3460,
     "expansion": "crimson scales",
     "image": "character-ability-cards/crimson-scales/st/cs-wish-upon-a-star.png",
     "xws": "wishuponastar",
     "level": "4",
     "initiative": "75",
-    "cardno": "319",
-    "character-xws": "starslinger"
+    "character-xws": "starslinger",
+    "assetno": "319"
+  },
+  {
+    "name": "319",
+    "points": 3461,
+    "expansion": "crimson scales",
+    "image": "character-ability-cards/crimson-scales/st/cs-wish-upon-a-star.png",
+    "xws": "wishuponastar",
+    "level": "4",
+    "initiative": "75",
+    "character-xws": "starslinger",
+    "assetno": "319"
   },
   {
     "name": "in-back",
-    "points": 3044,
+    "points": 3462,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-in-back.png",
     "xws": "inback",
@@ -33493,7 +38091,7 @@
   },
   {
     "name": "alone in the end",
-    "points": 3045,
+    "points": 3463,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-alone-in-the-end.png",
     "xws": "aloneintheend",
@@ -33504,7 +38102,7 @@
   },
   {
     "name": "ancestral blade",
-    "points": 3046,
+    "points": 3464,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-ancestral-blade.png",
     "xws": "ancestralblade",
@@ -33515,7 +38113,7 @@
   },
   {
     "name": "ancient banner",
-    "points": 3047,
+    "points": 3465,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-ancient-banner.png",
     "xws": "ancientbanner",
@@ -33526,7 +38124,7 @@
   },
   {
     "name": "aukotu's defiant resolve",
-    "points": 3048,
+    "points": 3466,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-aukotus-defiant-resolve.png",
     "xws": "aukotusdefiantresolve",
@@ -33537,7 +38135,7 @@
   },
   {
     "name": "awnu's retribution",
-    "points": 3049,
+    "points": 3467,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-awnus-retribution.png",
     "xws": "awnusretribution",
@@ -33548,7 +38146,7 @@
   },
   {
     "name": "blood of champions",
-    "points": 3050,
+    "points": 3468,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-blood-of-champions.png",
     "xws": "bloodofchampions",
@@ -33559,7 +38157,7 @@
   },
   {
     "name": "farseer's pilum",
-    "points": 3051,
+    "points": 3469,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-farseers-pilum.png",
     "xws": "farseerspilum",
@@ -33570,7 +38168,7 @@
   },
   {
     "name": "firebrand",
-    "points": 3052,
+    "points": 3470,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-firebrand.png",
     "xws": "firebrand",
@@ -33581,7 +38179,7 @@
   },
   {
     "name": "gift of the dying",
-    "points": 3053,
+    "points": 3471,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-gift-of-the-dying.png",
     "xws": "giftofthedying",
@@ -33592,7 +38190,7 @@
   },
   {
     "name": "gol's tonic",
-    "points": 3054,
+    "points": 3472,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-gols-tonic.png",
     "xws": "golstonic",
@@ -33603,7 +38201,7 @@
   },
   {
     "name": "haf's reverence",
-    "points": 3055,
+    "points": 3473,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-hafs-reverence.png",
     "xws": "hafsreverence",
@@ -33614,7 +38212,7 @@
   },
   {
     "name": "hands of three tribes",
-    "points": 3056,
+    "points": 3474,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-hands-of-three-tribes.png",
     "xws": "handsofthreetribes",
@@ -33625,7 +38223,7 @@
   },
   {
     "name": "kou's favor",
-    "points": 3057,
+    "points": 3475,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-kous-favor.png",
     "xws": "kousfavor",
@@ -33636,7 +38234,7 @@
   },
   {
     "name": "maku's deadly aim",
-    "points": 3058,
+    "points": 3476,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-makus-deadly-aim.png",
     "xws": "makusdeadlyaim",
@@ -33647,7 +38245,7 @@
   },
   {
     "name": "matriarch's dominance",
-    "points": 3059,
+    "points": 3477,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-matriarchs-dominance.png",
     "xws": "matriarchsdominance",
@@ -33658,7 +38256,7 @@
   },
   {
     "name": "memory of the hunt",
-    "points": 3060,
+    "points": 3478,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-memory-of-the-hunt.png",
     "xws": "memoryofthehunt",
@@ -33669,7 +38267,7 @@
   },
   {
     "name": "pakh's lunge",
-    "points": 3061,
+    "points": 3479,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-pakhs-lunge.png",
     "xws": "pakhslunge",
@@ -33680,7 +38278,7 @@
   },
   {
     "name": "remnants of the broken",
-    "points": 3062,
+    "points": 3480,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-remnants-of-the-broken.png",
     "xws": "remnantsofthebroken",
@@ -33691,7 +38289,7 @@
   },
   {
     "name": "savvas coreglass knife",
-    "points": 3063,
+    "points": 3481,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-savvas-coreglass-knife.png",
     "xws": "savvascoreglassknife",
@@ -33702,7 +38300,7 @@
   },
   {
     "name": "the arms of oxcepi",
-    "points": 3064,
+    "points": 3482,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-the-arms-of-oxcepi.png",
     "xws": "thearmsofoxcepi",
@@ -33713,7 +38311,7 @@
   },
   {
     "name": "the grave beckons",
-    "points": 3065,
+    "points": 3483,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-the-grave-beckons.png",
     "xws": "thegravebeckons",
@@ -33724,7 +38322,7 @@
   },
   {
     "name": "tomeg's shield-arm",
-    "points": 3066,
+    "points": 3484,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-tomegs-shield-arm.png",
     "xws": "tomegsshieldarm",
@@ -33735,7 +38333,7 @@
   },
   {
     "name": "vadi's last stand",
-    "points": 3067,
+    "points": 3485,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vadis-last-stand.png",
     "xws": "vadislaststand",
@@ -33746,7 +38344,7 @@
   },
   {
     "name": "vaska's cunning",
-    "points": 3068,
+    "points": 3486,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vaskas-cunning.png",
     "xws": "vaskascunning",
@@ -33757,7 +38355,7 @@
   },
   {
     "name": "vengeance of aksut",
-    "points": 3069,
+    "points": 3487,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vengeance-of-aksut.png",
     "xws": "vengeanceofaksut",
@@ -33768,7 +38366,7 @@
   },
   {
     "name": "vital tether",
-    "points": 3070,
+    "points": 3488,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-vital-tether.png",
     "xws": "vitaltether",
@@ -33779,7 +38377,7 @@
   },
   {
     "name": "warborn's shout",
-    "points": 3071,
+    "points": 3489,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-warborns-shout.png",
     "xws": "warbornsshout",
@@ -33790,7 +38388,7 @@
   },
   {
     "name": "war drums",
-    "points": 3072,
+    "points": 3490,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-war-drums.png",
     "xws": "wardrums",
@@ -33801,7 +38399,7 @@
   },
   {
     "name": "wielded memory",
-    "points": 3073,
+    "points": 3491,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-wielded-memory.png",
     "xws": "wieldedmemory",
@@ -33812,7 +38410,7 @@
   },
   {
     "name": "will of the huntress",
-    "points": 3074,
+    "points": 3492,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/in/toa-will-of-the-huntress.png",
     "xws": "willofthehuntress",
@@ -33823,7 +38421,7 @@
   },
   {
     "name": "rh-back",
-    "points": 3075,
+    "points": 3493,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-rh-back.png",
     "xws": "rhback",
@@ -33834,7 +38432,7 @@
   },
   {
     "name": "a balance struck",
-    "points": 3076,
+    "points": 3494,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-a-balance-struck.png",
     "xws": "abalancestruck",
@@ -33845,7 +38443,7 @@
   },
   {
     "name": "biting cold",
-    "points": 3077,
+    "points": 3495,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-biting-cold.png",
     "xws": "bitingcold",
@@ -33856,7 +38454,7 @@
   },
   {
     "name": "blazing streak",
-    "points": 3078,
+    "points": 3496,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-blazing-streak.png",
     "xws": "blazingstreak",
@@ -33867,7 +38465,7 @@
   },
   {
     "name": "bonechill",
-    "points": 3079,
+    "points": 3497,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-bonechill.png",
     "xws": "bonechill",
@@ -33878,7 +38476,7 @@
   },
   {
     "name": "bulwark of ether",
-    "points": 3080,
+    "points": 3498,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-bulwark-of-ether.png",
     "xws": "bulwarkofether",
@@ -33889,7 +38487,7 @@
   },
   {
     "name": "cold snap",
-    "points": 3081,
+    "points": 3499,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-cold-snap.png",
     "xws": "coldsnap",
@@ -33900,7 +38498,7 @@
   },
   {
     "name": "cryoseism",
-    "points": 3082,
+    "points": 3500,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-cryoseism.png",
     "xws": "cryoseism",
@@ -33911,7 +38509,7 @@
   },
   {
     "name": "frostbite",
-    "points": 3083,
+    "points": 3501,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-frostbite.png",
     "xws": "frostbite",
@@ -33922,7 +38520,7 @@
   },
   {
     "name": "frozen grasp",
-    "points": 3084,
+    "points": 3502,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-frozen-grasp.png",
     "xws": "frozengrasp",
@@ -33933,7 +38531,7 @@
   },
   {
     "name": "glacial cocoon",
-    "points": 3085,
+    "points": 3503,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-glacial-cocoon.png",
     "xws": "glacialcocoon",
@@ -33944,7 +38542,7 @@
   },
   {
     "name": "hearthbolt",
-    "points": 3086,
+    "points": 3504,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-hearthbolt.png",
     "xws": "hearthbolt",
@@ -33955,7 +38553,7 @@
   },
   {
     "name": "heat transfer",
-    "points": 3087,
+    "points": 3505,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-heat-transfer.png",
     "xws": "heattransfer",
@@ -33966,7 +38564,7 @@
   },
   {
     "name": "heatwave",
-    "points": 3088,
+    "points": 3506,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-heatwave.png",
     "xws": "heatwave",
@@ -33977,7 +38575,7 @@
   },
   {
     "name": "homeostasis",
-    "points": 3089,
+    "points": 3507,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-homeostasis.png",
     "xws": "homeostasis",
@@ -33988,7 +38586,7 @@
   },
   {
     "name": "kleptotherapy",
-    "points": 3090,
+    "points": 3508,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-kleptotherapy.png",
     "xws": "kleptotherapy",
@@ -33999,7 +38597,7 @@
   },
   {
     "name": "pressure spike",
-    "points": 3091,
+    "points": 3509,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-pressure-spike.png",
     "xws": "pressurespike",
@@ -34010,7 +38608,7 @@
   },
   {
     "name": "pressure wave",
-    "points": 3092,
+    "points": 3510,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-pressure-wave.png",
     "xws": "pressurewave",
@@ -34021,7 +38619,7 @@
   },
   {
     "name": "raging fire",
-    "points": 3093,
+    "points": 3511,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-raging-fire.png",
     "xws": "ragingfire",
@@ -34032,7 +38630,7 @@
   },
   {
     "name": "rapid flux",
-    "points": 3094,
+    "points": 3512,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-rapid-flux.png",
     "xws": "rapidflux",
@@ -34043,7 +38641,7 @@
   },
   {
     "name": "rimeshock",
-    "points": 3095,
+    "points": 3513,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-rimeshock.png",
     "xws": "rimeshock",
@@ -34054,7 +38652,7 @@
   },
   {
     "name": "scorched path",
-    "points": 3096,
+    "points": 3514,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-scorched-path.png",
     "xws": "scorchedpath",
@@ -34065,7 +38663,7 @@
   },
   {
     "name": "snap freeze",
-    "points": 3097,
+    "points": 3515,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-snap-freeze.png",
     "xws": "snapfreeze",
@@ -34076,7 +38674,7 @@
   },
   {
     "name": "spreading flames",
-    "points": 3098,
+    "points": 3516,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-spreading-flames.png",
     "xws": "spreadingflames",
@@ -34087,7 +38685,7 @@
   },
   {
     "name": "steamburst",
-    "points": 3099,
+    "points": 3517,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-steamburst.png",
     "xws": "steamburst",
@@ -34098,7 +38696,7 @@
   },
   {
     "name": "thermal weaving",
-    "points": 3100,
+    "points": 3518,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-thermal-weaving.png",
     "xws": "thermalweaving",
@@ -34109,7 +38707,7 @@
   },
   {
     "name": "thermotherapy",
-    "points": 3101,
+    "points": 3519,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-thermotherapy.png",
     "xws": "thermotherapy",
@@ -34120,7 +38718,7 @@
   },
   {
     "name": "torrid blast",
-    "points": 3102,
+    "points": 3520,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-torrid-blast.png",
     "xws": "torridblast",
@@ -34131,7 +38729,7 @@
   },
   {
     "name": "unyielding charge",
-    "points": 3103,
+    "points": 3521,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-unyielding-charge.png",
     "xws": "unyieldingcharge",
@@ -34142,7 +38740,7 @@
   },
   {
     "name": "wreathed in flame",
-    "points": 3104,
+    "points": 3522,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/rh/toa-wreathed-in-flame.png",
     "xws": "wreathedinflame",
@@ -34153,7 +38751,7 @@
   },
   {
     "name": "sr-back",
-    "points": 3105,
+    "points": 3523,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-sr-back.png",
     "xws": "srback",
@@ -34164,7 +38762,7 @@
   },
   {
     "name": "amassed formation",
-    "points": 3106,
+    "points": 3524,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-amassed-formation.png",
     "xws": "amassedformation",
@@ -34175,7 +38773,7 @@
   },
   {
     "name": "cinnabar seeding",
-    "points": 3107,
+    "points": 3525,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-cinnabar-seeding.png",
     "xws": "cinnabarseeding",
@@ -34186,7 +38784,7 @@
   },
   {
     "name": "corundum shell",
-    "points": 3108,
+    "points": 3526,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-corundum-shell.png",
     "xws": "corundumshell",
@@ -34197,7 +38795,7 @@
   },
   {
     "name": "crystal growth",
-    "points": 3109,
+    "points": 3527,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-crystal-growth.png",
     "xws": "crystalgrowth",
@@ -34208,7 +38806,7 @@
   },
   {
     "name": "diamond skin",
-    "points": 3110,
+    "points": 3528,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-diamond-skin.png",
     "xws": "diamondskin",
@@ -34219,7 +38817,7 @@
   },
   {
     "name": "geode barrage",
-    "points": 3111,
+    "points": 3529,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-geode-barrage.png",
     "xws": "geodebarrage",
@@ -34230,7 +38828,7 @@
   },
   {
     "name": "glistening facets",
-    "points": 3112,
+    "points": 3530,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-glistening-facets.png",
     "xws": "glisteningfacets",
@@ -34241,7 +38839,7 @@
   },
   {
     "name": "impaling spike",
-    "points": 3113,
+    "points": 3531,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-impaling-spike.png",
     "xws": "impalingspike",
@@ -34252,7 +38850,7 @@
   },
   {
     "name": "jubilant recovery",
-    "points": 3114,
+    "points": 3532,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-jubilant-recovery.png",
     "xws": "jubilantrecovery",
@@ -34263,7 +38861,7 @@
   },
   {
     "name": "lightbury quartz",
-    "points": 3115,
+    "points": 3533,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-lightbury-quartz.png",
     "xws": "lightbury quart",
@@ -34274,7 +38872,7 @@
   },
   {
     "name": "luminous glow",
-    "points": 3116,
+    "points": 3534,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-luminous-glow.png",
     "xws": "luminousglow",
@@ -34285,7 +38883,7 @@
   },
   {
     "name": "penetrating fragments",
-    "points": 3117,
+    "points": 3535,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-penetrating-fragments.png",
     "xws": "penetratingfragments",
@@ -34296,7 +38894,7 @@
   },
   {
     "name": "perforating bore",
-    "points": 3118,
+    "points": 3536,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-perforating-bore.png",
     "xws": "perforatingbore",
@@ -34307,7 +38905,7 @@
   },
   {
     "name": "prismatic ward",
-    "points": 3119,
+    "points": 3537,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-prismatic-ward.png",
     "xws": "prismaticward",
@@ -34318,7 +38916,7 @@
   },
   {
     "name": "radiating crust",
-    "points": 3120,
+    "points": 3538,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-radiating-crust.png",
     "xws": "radiatingcrust",
@@ -34329,7 +38927,7 @@
   },
   {
     "name": "rapid calcification",
-    "points": 3121,
+    "points": 3539,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-rapid-calcification.png",
     "xws": "rapidcalcification",
@@ -34340,7 +38938,7 @@
   },
   {
     "name": "reciprocal resonance",
-    "points": 3122,
+    "points": 3540,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-reciprocal-resonance.png",
     "xws": "reciprocalresonance",
@@ -34351,7 +38949,7 @@
   },
   {
     "name": "reflecting surface",
-    "points": 3123,
+    "points": 3541,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-reflecting-surface.png",
     "xws": "reflectingsurface",
@@ -34362,7 +38960,7 @@
   },
   {
     "name": "remineralize",
-    "points": 3124,
+    "points": 3542,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-remineralize.png",
     "xws": "remineralize",
@@ -34373,7 +38971,7 @@
   },
   {
     "name": "ruinous shard",
-    "points": 3125,
+    "points": 3543,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-ruinous-shard.png",
     "xws": "ruinousshard",
@@ -34384,7 +38982,7 @@
   },
   {
     "name": "searing stone",
-    "points": 3126,
+    "points": 3544,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-searing-stone.png",
     "xws": "searingstone",
@@ -34395,7 +38993,7 @@
   },
   {
     "name": "seismic shockwave",
-    "points": 3127,
+    "points": 3545,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-seismic-shockwave.png",
     "xws": "seismicshockwave",
@@ -34406,7 +39004,7 @@
   },
   {
     "name": "serrated razor",
-    "points": 3128,
+    "points": 3546,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-serrated-razor.png",
     "xws": "serratedrazor",
@@ -34417,7 +39015,7 @@
   },
   {
     "name": "spiked carapace",
-    "points": 3129,
+    "points": 3547,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-spiked-carapace.png",
     "xws": "spikedcarapace",
@@ -34428,7 +39026,7 @@
   },
   {
     "name": "splinter burst",
-    "points": 3130,
+    "points": 3548,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-splinter-burst.png",
     "xws": "splinterburst",
@@ -34439,7 +39037,7 @@
   },
   {
     "name": "triboluminescence",
-    "points": 3131,
+    "points": 3549,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-triboluminescence.png",
     "xws": "triboluminescence",
@@ -34450,7 +39048,7 @@
   },
   {
     "name": "turbulent absorption",
-    "points": 3132,
+    "points": 3550,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-turbulent-absorption.png",
     "xws": "turbulentabsorption",
@@ -34461,7 +39059,7 @@
   },
   {
     "name": "unyielding stalagmite",
-    "points": 3133,
+    "points": 3551,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-unyielding-stalagmite.png",
     "xws": "unyieldingstalagmite",
@@ -34472,7 +39070,7 @@
   },
   {
     "name": "violent shatter",
-    "points": 3134,
+    "points": 3552,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-violent-shatter.png",
     "xws": "violentshatter",
@@ -34483,7 +39081,7 @@
   },
   {
     "name": "vital outburst",
-    "points": 3135,
+    "points": 3553,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/sr/toa-vital-outburst.png",
     "xws": "vitaloutburst",
@@ -34494,7 +39092,7 @@
   },
   {
     "name": "tp-back",
-    "points": 3136,
+    "points": 3554,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-tp-back.png",
     "xws": "tpback",
@@ -34505,7 +39103,7 @@
   },
   {
     "name": "aerial dominance",
-    "points": 3137,
+    "points": 3555,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-aerial-dominance.png",
     "xws": "aerialdominance",
@@ -34516,7 +39114,7 @@
   },
   {
     "name": "air current",
-    "points": 3138,
+    "points": 3556,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-air-current.png",
     "xws": "aircurrent",
@@ -34527,7 +39125,7 @@
   },
   {
     "name": "arcblast",
-    "points": 3139,
+    "points": 3557,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-arcblast.png",
     "xws": "arcblast",
@@ -34538,7 +39136,7 @@
   },
   {
     "name": "arc reaction",
-    "points": 3140,
+    "points": 3558,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-arc-reaction.png",
     "xws": "arcreaction",
@@ -34549,7 +39147,7 @@
   },
   {
     "name": "breakneck blitz",
-    "points": 3141,
+    "points": 3559,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-breakneck-blitz.png",
     "xws": "breakneckblitz",
@@ -34560,7 +39158,7 @@
   },
   {
     "name": "channeled energy",
-    "points": 3142,
+    "points": 3560,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-channeled-energy.png",
     "xws": "channeledenergy",
@@ -34571,7 +39169,7 @@
   },
   {
     "name": "electric current",
-    "points": 3143,
+    "points": 3561,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-electric-current.png",
     "xws": "electriccurrent",
@@ -34582,7 +39180,7 @@
   },
   {
     "name": "electromagnetic pulse",
-    "points": 3144,
+    "points": 3562,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-electromagnetic-pulse.png",
     "xws": "electromagneticpulse",
@@ -34593,7 +39191,7 @@
   },
   {
     "name": "electrostatic bypass",
-    "points": 3145,
+    "points": 3563,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-electrostatic-bypass.png",
     "xws": "electrostaticbypass",
@@ -34604,7 +39202,7 @@
   },
   {
     "name": "energy siphon",
-    "points": 3146,
+    "points": 3564,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-energy-siphon.png",
     "xws": "energysiphon",
@@ -34615,7 +39213,7 @@
   },
   {
     "name": "flash of lightning",
-    "points": 3147,
+    "points": 3565,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-flash-of-lightning.png",
     "xws": "flashoflightning",
@@ -34626,7 +39224,7 @@
   },
   {
     "name": "hard target",
-    "points": 3148,
+    "points": 3566,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-hard-target.png",
     "xws": "hardtarget",
@@ -34637,7 +39235,7 @@
   },
   {
     "name": "hurricane",
-    "points": 3149,
+    "points": 3567,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-hurricane.png",
     "xws": "hurricane",
@@ -34648,7 +39246,7 @@
   },
   {
     "name": "jetstream gust",
-    "points": 3150,
+    "points": 3568,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-jetstream-gust.png",
     "xws": "jetstreamgust",
@@ -34659,7 +39257,7 @@
   },
   {
     "name": "lightbender",
-    "points": 3151,
+    "points": 3569,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-lightbender.png",
     "xws": "lightbender",
@@ -34670,7 +39268,7 @@
   },
   {
     "name": "nimble resilience",
-    "points": 3152,
+    "points": 3570,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-nimble-resilience.png",
     "xws": "nimbleresilience",
@@ -34681,7 +39279,7 @@
   },
   {
     "name": "protective gale",
-    "points": 3153,
+    "points": 3571,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-protective-gale.png",
     "xws": "protectivegale",
@@ -34692,7 +39290,7 @@
   },
   {
     "name": "radiant explosion",
-    "points": 3154,
+    "points": 3572,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-radiant-explosion.png",
     "xws": "radiantexplosion",
@@ -34703,7 +39301,7 @@
   },
   {
     "name": "rejuvenating charge",
-    "points": 3155,
+    "points": 3573,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-rejuvenating-charge.png",
     "xws": "rejuvenatingcharge",
@@ -34714,7 +39312,7 @@
   },
   {
     "name": "rushing wind",
-    "points": 3156,
+    "points": 3574,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-rushing-wind.png",
     "xws": "rushingwind",
@@ -34725,7 +39323,7 @@
   },
   {
     "name": "scorching arcbolt",
-    "points": 3157,
+    "points": 3575,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-scorching-arcbolt.png",
     "xws": "scorchingarcbolt",
@@ -34736,7 +39334,7 @@
   },
   {
     "name": "shock therapy",
-    "points": 3158,
+    "points": 3576,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-shock-therapy.png",
     "xws": "shocktherapy",
@@ -34747,7 +39345,7 @@
   },
   {
     "name": "spark conduit",
-    "points": 3159,
+    "points": 3577,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-spark-conduit.png",
     "xws": "sparkconduit",
@@ -34758,7 +39356,7 @@
   },
   {
     "name": "static shock",
-    "points": 3160,
+    "points": 3578,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-static-shock.png",
     "xws": "staticshock",
@@ -34769,7 +39367,7 @@
   },
   {
     "name": "storm lightning",
-    "points": 3161,
+    "points": 3579,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-storm-lightning.png",
     "xws": "stormlightning",
@@ -34780,7 +39378,7 @@
   },
   {
     "name": "stormy retribution",
-    "points": 3162,
+    "points": 3580,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-stormy-retribution.png",
     "xws": "stormyretribution",
@@ -34791,7 +39389,7 @@
   },
   {
     "name": "surging storm",
-    "points": 3163,
+    "points": 3581,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-surging-storm.png",
     "xws": "surgingstorm",
@@ -34802,7 +39400,7 @@
   },
   {
     "name": "swift strike",
-    "points": 3164,
+    "points": 3582,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-swift-strike.png",
     "xws": "swiftstrike",
@@ -34813,7 +39411,7 @@
   },
   {
     "name": "voltaic burst",
-    "points": 3165,
+    "points": 3583,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tp/toa-voltaic-burst.png",
     "xws": "voltaicburst",
@@ -34824,7 +39422,7 @@
   },
   {
     "name": "tr-back",
-    "points": 3166,
+    "points": 3584,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-tr-back.png",
     "xws": "trback",
@@ -34835,7 +39433,7 @@
   },
   {
     "name": "barbed onslaught",
-    "points": 3167,
+    "points": 3585,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-barbed-onslaught.png",
     "xws": "barbedonslaught",
@@ -34846,7 +39444,7 @@
   },
   {
     "name": "bed of roses",
-    "points": 3168,
+    "points": 3586,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-bed-of-roses.png",
     "xws": "bedofroses",
@@ -34857,7 +39455,7 @@
   },
   {
     "name": "black rose",
-    "points": 3169,
+    "points": 3587,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-black-rose.png",
     "xws": "blackrose",
@@ -34868,7 +39466,7 @@
   },
   {
     "name": "branched slam",
-    "points": 3170,
+    "points": 3588,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-branched-slam.png",
     "xws": "branchedslam",
@@ -34879,7 +39477,7 @@
   },
   {
     "name": "bright skies",
-    "points": 3171,
+    "points": 3589,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-bright-skies.png",
     "xws": "brightskies",
@@ -34890,7 +39488,7 @@
   },
   {
     "name": "cover of green",
-    "points": 3172,
+    "points": 3590,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-cover-of-green.png",
     "xws": "coverofgreen",
@@ -34901,7 +39499,7 @@
   },
   {
     "name": "dawn's gift",
-    "points": 3173,
+    "points": 3591,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-dawns-gift.png",
     "xws": "dawnsgift",
@@ -34912,7 +39510,7 @@
   },
   {
     "name": "devoured by thorns",
-    "points": 3174,
+    "points": 3592,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-devoured-by-thorns.png",
     "xws": "devouredbythorns",
@@ -34923,7 +39521,7 @@
   },
   {
     "name": "encased in thorns",
-    "points": 3175,
+    "points": 3593,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-encased-in-thorns.png",
     "xws": "encasedinthorns",
@@ -34934,7 +39532,7 @@
   },
   {
     "name": "extended branch",
-    "points": 3176,
+    "points": 3594,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-extended-branch.png",
     "xws": "extendedbranch",
@@ -34945,7 +39543,7 @@
   },
   {
     "name": "fissive eruption",
-    "points": 3177,
+    "points": 3595,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-fissive-eruption.png",
     "xws": "fissiveeruption",
@@ -34956,7 +39554,7 @@
   },
   {
     "name": "floral burst",
-    "points": 3178,
+    "points": 3596,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-floral-burst.png",
     "xws": "floralburst",
@@ -34967,7 +39565,7 @@
   },
   {
     "name": "impaling command",
-    "points": 3179,
+    "points": 3597,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-impaling-command.png",
     "xws": "impalingcommand",
@@ -34978,7 +39576,7 @@
   },
   {
     "name": "jagged clutch",
-    "points": 3180,
+    "points": 3598,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-jagged-clutch.png",
     "xws": "jaggedclutch",
@@ -34989,7 +39587,7 @@
   },
   {
     "name": "lashing thorns",
-    "points": 3181,
+    "points": 3599,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-lashing-thorns.png",
     "xws": "lashingthorns",
@@ -35000,7 +39598,7 @@
   },
   {
     "name": "midsummer",
-    "points": 3182,
+    "points": 3600,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-midsummer.png",
     "xws": "midsummer",
@@ -35011,7 +39609,7 @@
   },
   {
     "name": "nature's fury",
-    "points": 3183,
+    "points": 3601,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-natures-fury.png",
     "xws": "naturesfury",
@@ -35022,7 +39620,7 @@
   },
   {
     "name": "outward spurs",
-    "points": 3184,
+    "points": 3602,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-outward-spurs.png",
     "xws": "outwardspurs",
@@ -35033,7 +39631,7 @@
   },
   {
     "name": "photosynthesis",
-    "points": 3185,
+    "points": 3603,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-photosynthesis.png",
     "xws": "photosynthesis",
@@ -35044,7 +39642,7 @@
   },
   {
     "name": "prickly situation",
-    "points": 3186,
+    "points": 3604,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-prickly-situation.png",
     "xws": "pricklysituation",
@@ -35055,7 +39653,7 @@
   },
   {
     "name": "rabid undergrowth",
-    "points": 3187,
+    "points": 3605,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-rabid-undergrowth.png",
     "xws": "rabidundergrowth",
@@ -35066,7 +39664,7 @@
   },
   {
     "name": "ravaged earth",
-    "points": 3188,
+    "points": 3606,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-ravaged-earth.png",
     "xws": "ravagedearth",
@@ -35077,7 +39675,7 @@
   },
   {
     "name": "shrewd overgrowth",
-    "points": 3189,
+    "points": 3607,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-shrewd-overgrowth.png",
     "xws": "shrewdovergrowth",
@@ -35088,7 +39686,7 @@
   },
   {
     "name": "solar flare",
-    "points": 3190,
+    "points": 3608,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-solar-flare.png",
     "xws": "solarflare",
@@ -35099,7 +39697,7 @@
   },
   {
     "name": "spiked embrace",
-    "points": 3191,
+    "points": 3609,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-spiked-embrace.png",
     "xws": "spikedembrace",
@@ -35110,7 +39708,7 @@
   },
   {
     "name": "superradiance",
-    "points": 3192,
+    "points": 3610,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-superradiance.png",
     "xws": "superradiance",
@@ -35121,7 +39719,7 @@
   },
   {
     "name": "thornstride",
-    "points": 3193,
+    "points": 3611,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-thornstride.png",
     "xws": "thornstride",
@@ -35132,7 +39730,7 @@
   },
   {
     "name": "twisted thistle",
-    "points": 3194,
+    "points": 3612,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-twisted-thistle.png",
     "xws": "twistedthistle",
@@ -35143,7 +39741,7 @@
   },
   {
     "name": "violent sprout",
-    "points": 3195,
+    "points": 3613,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-violent-sprout.png",
     "xws": "violentsprout",
@@ -35154,7 +39752,7 @@
   },
   {
     "name": "welcome to the jungle",
-    "points": 3196,
+    "points": 3614,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/tr/toa-welcome-to-the-jungle.png",
     "xws": "welcometothejungle",
@@ -35165,7 +39763,7 @@
   },
   {
     "name": "vq-back",
-    "points": 3197,
+    "points": 3615,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-vq-back.png",
     "xws": "vqback",
@@ -35176,7 +39774,7 @@
   },
   {
     "name": "beckoning of the beast",
-    "points": 3198,
+    "points": 3616,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-beckoning-of-the-beast.png",
     "xws": "beckoningofthebeast",
@@ -35187,7 +39785,7 @@
   },
   {
     "name": "blackout",
-    "points": 3199,
+    "points": 3617,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-blackout.png",
     "xws": "blackout",
@@ -35198,7 +39796,7 @@
   },
   {
     "name": "blasphemous charge",
-    "points": 3200,
+    "points": 3618,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-blasphemous-charge.png",
     "xws": "blasphemouscharge",
@@ -35209,7 +39807,7 @@
   },
   {
     "name": "blazing torment",
-    "points": 3201,
+    "points": 3619,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-blazing-torment.png",
     "xws": "blazingtorment",
@@ -35220,7 +39818,7 @@
   },
   {
     "name": "bringer of grief",
-    "points": 3202,
+    "points": 3620,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-bringer-of-grief.png",
     "xws": "bringerofgrief",
@@ -35231,7 +39829,7 @@
   },
   {
     "name": "brutal awakening",
-    "points": 3203,
+    "points": 3621,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-brutal-awakening.png",
     "xws": "brutalawakening",
@@ -35242,7 +39840,7 @@
   },
   {
     "name": "condemnation",
-    "points": 3204,
+    "points": 3622,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-condemnation.png",
     "xws": "condemnation",
@@ -35253,7 +39851,7 @@
   },
   {
     "name": "crazed leap",
-    "points": 3205,
+    "points": 3623,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-crazed-leap.png",
     "xws": "crazedleap",
@@ -35264,7 +39862,7 @@
   },
   {
     "name": "demon's aid",
-    "points": 3206,
+    "points": 3624,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-demons-aid.png",
     "xws": "demonsaid",
@@ -35275,7 +39873,7 @@
   },
   {
     "name": "embrace the chaos",
-    "points": 3207,
+    "points": 3625,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-embrace-the-chaos.png",
     "xws": "embracethechaos",
@@ -35286,7 +39884,7 @@
   },
   {
     "name": "extended horns",
-    "points": 3208,
+    "points": 3626,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-extended-horns.png",
     "xws": "extendedhorns",
@@ -35297,7 +39895,7 @@
   },
   {
     "name": "fatal retribution",
-    "points": 3209,
+    "points": 3627,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-fatal-retribution.png",
     "xws": "fatalretribution",
@@ -35308,7 +39906,7 @@
   },
   {
     "name": "fiendish power",
-    "points": 3210,
+    "points": 3628,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-fiendish-power.png",
     "xws": "fiendishpower",
@@ -35319,7 +39917,7 @@
   },
   {
     "name": "first to strike",
-    "points": 3211,
+    "points": 3629,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-first-to-strike.png",
     "xws": "firsttostrike",
@@ -35330,7 +39928,7 @@
   },
   {
     "name": "forged from fire",
-    "points": 3212,
+    "points": 3630,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-forged-from-fire.png",
     "xws": "forgedfromfire",
@@ -35341,7 +39939,7 @@
   },
   {
     "name": "gravedigger",
-    "points": 3213,
+    "points": 3631,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-gravedigger.png",
     "xws": "gravedigger",
@@ -35352,7 +39950,7 @@
   },
   {
     "name": "infused charge",
-    "points": 3214,
+    "points": 3632,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-infused-charge.png",
     "xws": "infusedcharge",
@@ -35363,7 +39961,7 @@
   },
   {
     "name": "life in death",
-    "points": 3215,
+    "points": 3633,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-life-in-death.png",
     "xws": "lifeindeath",
@@ -35374,7 +39972,7 @@
   },
   {
     "name": "living nightmare",
-    "points": 3216,
+    "points": 3634,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-living-nightmare.png",
     "xws": "livingnightmare",
@@ -35385,7 +39983,7 @@
   },
   {
     "name": "malicious defamation",
-    "points": 3217,
+    "points": 3635,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-malicious-defamation.png",
     "xws": "maliciousdefamation",
@@ -35396,7 +39994,7 @@
   },
   {
     "name": "out of the shadows",
-    "points": 3218,
+    "points": 3636,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-out-of-the-shadows.png",
     "xws": "outoftheshadows",
@@ -35407,7 +40005,7 @@
   },
   {
     "name": "raging pandemonium",
-    "points": 3219,
+    "points": 3637,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-raging-pandemonium.png",
     "xws": "ragingpandemonium",
@@ -35418,7 +40016,7 @@
   },
   {
     "name": "sadistic swipe",
-    "points": 3220,
+    "points": 3638,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-sadistic-swipe.png",
     "xws": "sadisticswipe",
@@ -35429,7 +40027,7 @@
   },
   {
     "name": "searing coals",
-    "points": 3221,
+    "points": 3639,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-searing-coals.png",
     "xws": "searingcoals",
@@ -35440,7 +40038,7 @@
   },
   {
     "name": "shared suffering",
-    "points": 3222,
+    "points": 3640,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-shared-suffering.png",
     "xws": "sharedsuffering",
@@ -35451,7 +40049,7 @@
   },
   {
     "name": "silent finisher",
-    "points": 3223,
+    "points": 3641,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-silent-finisher.png",
     "xws": "silentfinisher",
@@ -35462,7 +40060,7 @@
   },
   {
     "name": "sinister enslavement",
-    "points": 3224,
+    "points": 3642,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-sinister-enslavement.png",
     "xws": "sinisterenslavement",
@@ -35473,7 +40071,7 @@
   },
   {
     "name": "siphoning life",
-    "points": 3225,
+    "points": 3643,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-siphoning-life.png",
     "xws": "siphoninglife",
@@ -35484,7 +40082,7 @@
   },
   {
     "name": "slaughter the weak",
-    "points": 3226,
+    "points": 3644,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-slaughter-the-weak.png",
     "xws": "slaughtertheweak",
@@ -35495,7 +40093,7 @@
   },
   {
     "name": "torn apart",
-    "points": 3227,
+    "points": 3645,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-torn-apart.png",
     "xws": "tornapart",
@@ -35506,7 +40104,7 @@
   },
   {
     "name": "tumultuous uproar",
-    "points": 3228,
+    "points": 3646,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-tumultuous-uproar.png",
     "xws": "tumultuousuproar",
@@ -35517,7 +40115,7 @@
   },
   {
     "name": "unending misery",
-    "points": 3229,
+    "points": 3647,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-unending-misery.png",
     "xws": "unendingmisery",
@@ -35528,7 +40126,7 @@
   },
   {
     "name": "unnatural control",
-    "points": 3230,
+    "points": 3648,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-unnatural-control.png",
     "xws": "unnaturalcontrol",
@@ -35539,7 +40137,7 @@
   },
   {
     "name": "unstoppable surge",
-    "points": 3231,
+    "points": 3649,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-unstoppable-surge.png",
     "xws": "unstoppablesurge",
@@ -35550,7 +40148,7 @@
   },
   {
     "name": "utter catastrophe",
-    "points": 3232,
+    "points": 3650,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-utter-catastrophe.png",
     "xws": "uttercatastrophe",
@@ -35561,7 +40159,7 @@
   },
   {
     "name": "vengeance incarnate",
-    "points": 3233,
+    "points": 3651,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-vengeance-incarnate.png",
     "xws": "vengeanceincarnate",
@@ -35572,7 +40170,7 @@
   },
   {
     "name": "wall of flames",
-    "points": 3234,
+    "points": 3652,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-wall-of-flames.png",
     "xws": "wallofflames",
@@ -35583,7 +40181,7 @@
   },
   {
     "name": "wings of hell",
-    "points": 3235,
+    "points": 3653,
     "expansion": "trail of ashes",
     "image": "character-ability-cards/trail-of-ashes/vq/toa-wings-of-hell.png",
     "xws": "wingsofhell",
