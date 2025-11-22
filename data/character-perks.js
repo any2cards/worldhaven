@@ -776,148 +776,275 @@
     "assetno": "###"
   },
   {
-    "name": "party sheet",
+    "name": "amber aegis perks",
     "points": 97,
     "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/cs-party-sheet.png",
-    "xws": "partysheet"
+    "image": "character-perks/crimson-scales/cs-amber-aegis-perks.png",
+    "xws": "amberaegisperks",
+    "assetno": "###"
   },
   {
-    "name": "amber aegis perks",
+    "name": "beetle perks",
     "points": 98,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-amber-aegis-perks.png",
-    "xws": "amberaegisperks"
+    "xws": "beetleperks",
+    "assetno": "###"
   },
   {
     "name": "artificer perks",
     "points": 99,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-artificer-perks.png",
-    "xws": "artificerperks"
+    "xws": "artificerperks",
+    "assetno": "###"
+  },
+  {
+    "name": "tools perks",
+    "points": 100,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-artificer-perks.png",
+    "xws": "toolsperks",
+    "assetno": "###"
   },
   {
     "name": "bombard perks",
-    "points": 100,
+    "points": 101,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-bombard-perks.png",
-    "xws": "bombardperks"
+    "xws": "bombardperks",
+    "assetno": "###"
+  },
+  {
+    "name": "target perks",
+    "points": 102,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-bombard-perks.png",
+    "xws": "targetperks",
+    "assetno": "###"
   },
   {
     "name": "brightspark perks",
-    "points": 101,
+    "points": 103,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-brightspark-perks.png",
-    "xws": "brightsparkperks"
+    "xws": "brightsparkperks",
+    "assetno": "###"
+  },
+  {
+    "name": "flask perks",
+    "points": 104,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-brightspark-perks.png",
+    "xws": "flaskperks",
+    "assetno": "###"
   },
   {
     "name": "chainguard perks",
-    "points": 102,
+    "points": 105,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-chainguard-perks.png",
-    "xws": "chainguardperks"
+    "xws": "chainguardperks",
+    "assetno": "###"
+  },
+  {
+    "name": "chained helmet perks",
+    "points": 106,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-chainguard-perks.png",
+    "xws": "chainedhelmetperks",
+    "assetno": "###"
   },
   {
     "name": "chieftain perks",
-    "points": 103,
+    "points": 107,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-chieftain-perks.png",
-    "xws": "chieftainperks"
+    "xws": "chieftainperks",
+    "assetno": "###"
+  },
+  {
+    "name": "tusks perks",
+    "points": 108,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-chieftain-perks.png",
+    "xws": "tusksperks",
+    "assetno": "###"
   },
   {
     "name": "fire knight perks",
-    "points": 104,
+    "points": 109,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-fire-knight-perks.png",
-    "xws": "fireknightperks"
+    "xws": "fireknightperks",
+    "assetno": "###"
+  },
+  {
+    "name": "ladder axe perks",
+    "points": 110,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-fire-knight-perks.png",
+    "xws": "ladderaxeperks",
+    "assetno": "###"
   },
   {
     "name": "hierophant perks",
-    "points": 105,
+    "points": 111,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-hierophant-perks.png",
-    "xws": "hierophantperks"
+    "xws": "hierophantperks",
+    "assetno": "###"
+  },
+  {
+    "name": "leaf perks",
+    "points": 112,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-hierophant-perks.png",
+    "xws": "leafperks",
+    "assetno": "###"
   },
   {
     "name": "hollowpact perks",
-    "points": 106,
+    "points": 113,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-hollowpact-perks.png",
-    "xws": "hollowpactperks"
+    "xws": "hollowpactperks",
+    "assetno": "###"
+  },
+  {
+    "name": "vortex perks",
+    "points": 114,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-hollowpact-perks.png",
+    "xws": "vortexperks",
+    "assetno": "###"
   },
   {
     "name": "luminary perks",
-    "points": 107,
+    "points": 115,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-luminary-perks.png",
-    "xws": "luminaryperks"
+    "xws": "luminaryperks",
+    "assetno": "###"
+  },
+  {
+    "name": "crescent sun perks",
+    "points": 116,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-luminary-perks.png",
+    "xws": "crescentsunperks",
+    "assetno": "###"
   },
   {
     "name": "mirefoot perks",
-    "points": 108,
+    "points": 117,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-mirefoot-perks.png",
-    "xws": "mirefootperks"
+    "xws": "mirefootperks",
+    "assetno": "###"
+  },
+  {
+    "name": "sprig perks",
+    "points": 118,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-mirefoot-perks.png",
+    "xws": "sprigperks",
+    "assetno": "###"
+  },
+  {
+    "name": "party sheet",
+    "points": 119,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-party-sheet.png",
+    "xws": "partysheet",
+    "assetno": "###"
   },
   {
     "name": "ruinmaw perks",
-    "points": 109,
+    "points": 120,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-ruinmaw-perks.png",
-    "xws": "ruinmawperks"
+    "xws": "ruinmawperks",
+    "assetno": "###"
+  },
+  {
+    "name": "bleeding claw perks",
+    "points": 121,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-ruinmaw-perks.png",
+    "xws": "bleedingclawperks",
+    "assetno": "###"
   },
   {
     "name": "spirit caller perks",
-    "points": 110,
+    "points": 122,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-spirit-caller-perks.png",
-    "xws": "spiritcallerperks"
+    "xws": "spiritcallerperks",
+    "assetno": "###"
+  },
+  {
+    "name": "skull perks",
+    "points": 123,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-spirit-caller-perks.png",
+    "xws": "skullperks",
+    "assetno": "###"
   },
   {
     "name": "starslinger perks",
-    "points": 111,
+    "points": 124,
     "expansion": "crimson scales",
     "image": "character-perks/crimson-scales/cs-starslinger-perks.png",
-    "xws": "starslingerperks"
+    "xws": "starslingerperks",
+    "assetno": "###"
+  },
+  {
+    "name": "galaxy perks",
+    "points": 125,
+    "expansion": "crimson scales",
+    "image": "character-perks/crimson-scales/cs-starslinger-perks.png",
+    "xws": "galaxyperks",
+    "assetno": "###"
   },
   {
     "name": "incarnate perks",
-    "points": 112,
+    "points": 126,
     "expansion": "trail of ashes",
     "image": "character-perks/trail-of-ashes/toa-incarnate-perks.png",
     "xws": "incarnateperks"
   },
   {
     "name": "rimehearth perks",
-    "points": 113,
+    "points": 127,
     "expansion": "trail of ashes",
     "image": "character-perks/trail-of-ashes/toa-rimehearth-perks.png",
     "xws": "rimehearthperks"
   },
   {
     "name": "shardrender perks",
-    "points": 114,
+    "points": 128,
     "expansion": "trail of ashes",
     "image": "character-perks/trail-of-ashes/toa-shardrender-perks.png",
     "xws": "shardrenderperks"
   },
   {
     "name": "tempest perks",
-    "points": 115,
+    "points": 129,
     "expansion": "trail of ashes",
     "image": "character-perks/trail-of-ashes/toa-tempest-perks.png",
     "xws": "tempestperks"
   },
   {
     "name": "thornreaper perks",
-    "points": 116,
+    "points": 130,
     "expansion": "trail of ashes",
     "image": "character-perks/trail-of-ashes/toa-thornreaper-perks.png",
     "xws": "thornreaperperks"
   },
   {
     "name": "vanquisher perks",
-    "points": 117,
+    "points": 131,
     "expansion": "trail of ashes",
     "image": "character-perks/trail-of-ashes/toa-vanquisher-perks.png",
     "xws": "vanquisherperks"
