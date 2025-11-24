@@ -28379,40 +28379,40 @@
     "name": "item 77",
     "points": 3547,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-77-traum-kit.png",
-    "xws": "traumkit",
+    "image": "items/crimson-scales/cs-77-trauma-kit.png",
+    "xws": "traumakit",
     "assetno": "358"
   },
   {
     "name": "item #77",
     "points": 3548,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-77-traum-kit.png",
-    "xws": "traumkit",
+    "image": "items/crimson-scales/cs-77-trauma-kit.png",
+    "xws": "traumakit",
     "assetno": "358"
   },
   {
-    "name": "traum kit",
+    "name": "trauma kit",
     "points": 3549,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-77-traum-kit.png",
-    "xws": "traumkit",
+    "image": "items/crimson-scales/cs-77-trauma-kit.png",
+    "xws": "traumakit",
     "assetno": "358"
   },
   {
     "name": "358",
     "points": 3550,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-77-traum-kit.png",
-    "xws": "traumkit",
+    "image": "items/crimson-scales/cs-77-trauma-kit.png",
+    "xws": "traumakit",
     "assetno": "358"
   },
   {
-    "name": "traum kit",
+    "name": "trauma kit",
     "points": 3551,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-77-traum-kit-back.png",
-    "xws": "traumkit",
+    "image": "items/crimson-scales/cs-77-trauma-kit-back.png",
+    "xws": "traumakit",
     "assetno": "###"
   },
   {
