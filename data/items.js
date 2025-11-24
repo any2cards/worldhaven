@@ -27699,40 +27699,40 @@
     "name": "item 60",
     "points": 3462,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-60-man-medicine.png",
-    "xws": "manmedicine",
+    "image": "items/crimson-scales/cs-60-mana-medicine.png",
+    "xws": "manamedicine",
     "assetno": "340"
   },
   {
     "name": "item #60",
     "points": 3463,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-60-man-medicine.png",
-    "xws": "manmedicine",
+    "image": "items/crimson-scales/cs-60-mana-medicine.png",
+    "xws": "manamedicine",
     "assetno": "340"
   },
   {
-    "name": "man medicine",
+    "name": "mana medicine",
     "points": 3464,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-60-man-medicine.png",
-    "xws": "manmedicine",
+    "image": "items/crimson-scales/cs-60-mana-medicine.png",
+    "xws": "manamedicine",
     "assetno": "340"
   },
   {
     "name": "340",
     "points": 3465,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-60-man-medicine.png",
-    "xws": "manmedicine",
+    "image": "items/crimson-scales/cs-60-mana-medicine.png",
+    "xws": "manamedicine",
     "assetno": "340"
   },
   {
-    "name": "man medicine",
+    "name": "mana medicine",
     "points": 3466,
     "expansion": "crimson scales",
-    "image": "items/crimson-scales/cs-60-man-medicine-back.png",
-    "xws": "manmedicine",
+    "image": "items/crimson-scales/cs-60-mana-medicine-back.png",
+    "xws": "manamedicine",
     "assetno": "###"
   },
   {
