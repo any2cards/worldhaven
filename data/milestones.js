@@ -485,15 +485,15 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-spirit-caller-front.png",
     "xws": "spiritcallermilestone",
-    "assetno": "###"
+    "assetno": "481"
   },
   {
-    "name": "###",
+    "name": "481",
     "points": 61,
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-spirit-caller-front.png",
     "xws": "spiritcallermilestone",
-    "assetno": "###"
+    "assetno": "481"
   },
   {
     "name": "spirit caller milestone",
@@ -501,7 +501,7 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-spirit-caller-back.png",
     "xws": "spiritcallermilestone",
-    "assetno": "481"
+    "assetno": "###"
   },
   {
     "name": "skull milestone",
@@ -509,7 +509,7 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-spirit-caller-front.png",
     "xws": "skullmilestone",
-    "assetno": "###"
+    "assetno": "481"
   },
   {
     "name": "skull milestone",
@@ -517,7 +517,7 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-spirit-caller-back.png",
     "xws": "skullmilestone",
-    "assetno": "481"
+    "assetno": "###"
   },
   {
     "name": "starslinger milestone",
@@ -525,15 +525,15 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-starslinger-front.png",
     "xws": "starslingermilestone",
-    "assetno": "###"
+    "assetno": "482"
   },
   {
-    "name": "###",
+    "name": "482",
     "points": 66,
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-starslinger-front.png",
     "xws": "starslingermilestone",
-    "assetno": "###"
+    "assetno": "482"
   },
   {
     "name": "starslinger milestone",
@@ -541,7 +541,7 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-starslinger-back.png",
     "xws": "starslingermilestone",
-    "assetno": "482"
+    "assetno": "###"
   },
   {
     "name": "galaxy milestone",
@@ -549,7 +549,7 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-starslinger-front.png",
     "xws": "galaxymilestone",
-    "assetno": "###"
+    "assetno": "482"
   },
   {
     "name": "galaxy milestone",
@@ -557,7 +557,7 @@
     "expansion": "crimson scales",
     "image": "milestones/crimson-scales/cs-ms-starslinger-back.png",
     "xws": "galaxymilestone",
-    "assetno": "482"
+    "assetno": "###"
   },
   {
     "name": "incarnate milestone",
