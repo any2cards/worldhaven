@@ -16934,7 +16934,7 @@
     "name": "cs-ma-fc-1",
     "points": 2101,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-1.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-1.png",
     "xws": "csmafc1",
     "assetno": "214"
   },
@@ -16942,7 +16942,7 @@
     "name": "214",
     "points": 2102,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-1.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-1.png",
     "xws": "csmafc1",
     "assetno": "214"
   },
@@ -16950,7 +16950,7 @@
     "name": "cs-ma-fc-2",
     "points": 2103,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-2.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-2.png",
     "xws": "csmafc2",
     "assetno": "215"
   },
@@ -16958,7 +16958,7 @@
     "name": "215",
     "points": 2104,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-2.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-2.png",
     "xws": "csmafc2",
     "assetno": "215"
   },
@@ -16966,7 +16966,7 @@
     "name": "cs-ma-fc-3",
     "points": 2105,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-3.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-3.png",
     "xws": "csmafc3",
     "assetno": "216"
   },
@@ -16974,7 +16974,7 @@
     "name": "216",
     "points": 2106,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-3.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-3.png",
     "xws": "csmafc3",
     "assetno": "216"
   },
@@ -16982,7 +16982,7 @@
     "name": "cs-ma-fc-4",
     "points": 2107,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-4.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-4.png",
     "xws": "csmafc4",
     "assetno": "217"
   },
@@ -16990,7 +16990,7 @@
     "name": "217",
     "points": 2108,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-4.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-4.png",
     "xws": "csmafc4",
     "assetno": "217"
   },
@@ -16998,7 +16998,7 @@
     "name": "cs-ma-fc-5",
     "points": 2109,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-5.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-5.png",
     "xws": "csmafc5",
     "assetno": "218"
   },
@@ -17006,7 +17006,7 @@
     "name": "218",
     "points": 2110,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-5.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-5.png",
     "xws": "csmafc5",
     "assetno": "218"
   },
@@ -17014,7 +17014,7 @@
     "name": "cs-ma-fc-6",
     "points": 2111,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-6.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-6.png",
     "xws": "csmafc6",
     "assetno": "219"
   },
@@ -17022,7 +17022,7 @@
     "name": "219",
     "points": 2112,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-6.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-6.png",
     "xws": "csmafc6",
     "assetno": "219"
   },
@@ -17030,7 +17030,7 @@
     "name": "cs-ma-fc-7",
     "points": 2113,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-7.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-7.png",
     "xws": "csmafc7",
     "assetno": "220"
   },
@@ -17038,7 +17038,7 @@
     "name": "220",
     "points": 2114,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-7.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-7.png",
     "xws": "csmafc7",
     "assetno": "220"
   },
@@ -17046,7 +17046,7 @@
     "name": "cs-ma-fc-8",
     "points": 2115,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-8.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-8.png",
     "xws": "csmafc8",
     "assetno": "221"
   },
@@ -17054,7 +17054,7 @@
     "name": "221",
     "points": 2116,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-8.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-8.png",
     "xws": "csmafc8",
     "assetno": "221"
   },
@@ -17062,7 +17062,7 @@
     "name": "cs-ma-fc-back",
     "points": 2117,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-back.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-back.png",
     "xws": "csmafcback",
     "assetno": "###"
   },
@@ -17070,7 +17070,7 @@
     "name": "frozen cadaver back",
     "points": 2118,
     "expansion": "crimson scales",
-    "image": "monster-ability-cards/crimson-scales/frozen-corpse/cs-ma-fc-back.png",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-fc-back.png",
     "xws": "frozencadaverback",
     "assetno": "###"
   },
