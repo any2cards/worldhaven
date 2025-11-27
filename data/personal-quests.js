@@ -1144,519 +1144,800 @@
     "assetno": "###"
   },
   {
-    "name": "cs-pq-back",
-    "points": 143,
-    "expansion": "crimson scales",
-    "image": "personal-quests/crimson-scales/cs-pq-back.png",
-    "xws": "cspqback"
-  },  
-  {
     "name": "cs-pq-330",
-    "points": 144,
-    "expansion": "crimson scales",
+    "points": 143,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-330.png",
-    "xws": "cspq330"
+    "xws": "cspq330",
+    "assetno": "330"
+  },
+  {
+    "name": "330",
+    "points": 144,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-330.png",
+    "xws": "cspq330",
+    "assetno": "330"
   },
   {
     "name": "protect and serve",
     "points": 145,
-    "expansion": "crimson scales",
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-330.png",
-    "xws": "cspq330"
+    "xws": "protectandserve",
+    "assetno": "330"
   },
   {
     "name": "cs-pq-331",
     "points": 146,
-    "expansion": "crimson scales",
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-331.png",
-    "xws": "cspq331"
+    "xws": "cspq331",
+    "assetno": "331"
+  },
+  {
+    "name": "331",
+    "points": 147,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-331.png",
+    "xws": "cspq331",
+    "assetno": "331"
   },
   {
     "name": "weapons specialist",
-    "points": 147,
-    "expansion": "crimson scales",
+    "points": 148,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-331.png",
-    "xws": "cspq331"
+    "xws": "weaponsspecialist",
+    "assetno": "331"
   },
   {
     "name": "cs-pq-332",
-    "points": 148,
-    "expansion": "crimson scales",
+    "points": 149,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-332.png",
-    "xws": "cspq332"
+    "xws": "cspq332",
+    "assetno": "332"
+  },
+  {
+    "name": "332",
+    "points": 150,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-332.png",
+    "xws": "cspq332",
+    "assetno": "332"
   },
   {
     "name": "experimentation",
-    "points": 149,
-    "expansion": "crimson scales",
+    "points": 151,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-332.png",
-    "xws": "cspq332"
+    "xws": "experimentation",
+    "assetno": "332"
   },
   {
     "name": "cs-pq-333",
-    "points": 150,
-    "expansion": "crimson scales",
+    "points": 152,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-333.png",
-    "xws": "cspq333"
+    "xws": "cspq333",
+    "assetno": "333"
+  },
+  {
+    "name": "333",
+    "points": 153,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-333.png",
+    "xws": "cspq333",
+    "assetno": "333"
   },
   {
     "name": "thrill seeker",
-    "points": 151,
-    "expansion": "crimson scales",
+    "points": 154,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-333.png",
-    "xws": "cspq333"
+    "xws": "thrillseeker",
+    "assetno": "333"
   },
   {
     "name": "cs-pq-334",
-    "points": 152,
-    "expansion": "crimson scales",
+    "points": 155,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-334.png",
-    "xws": "cspq334"
+    "xws": "cspq334",
+    "assetno": "334"
+  },
+  {
+    "name": "334",
+    "points": 156,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-334.png",
+    "xws": "cspq334",
+    "assetno": "334"
   },
   {
     "name": "trap setter",
-    "points": 153,
-    "expansion": "crimson scales",
+    "points": 157,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-334.png",
-    "xws": "cspq334"
+    "xws": "trapsetter",
+    "assetno": "334"
   },
   {
     "name": "cs-pq-335",
-    "points": 154,
-    "expansion": "crimson scales",
+    "points": 158,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-335.png",
-    "xws": "cspq335"
+    "xws": "cspq335",
+    "assetno": "335"
+  },
+  {
+    "name": "335",
+    "points": 159,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-335.png",
+    "xws": "cspq335",
+    "assetno": "335"
   },
   {
     "name": "bandit banisher",
-    "points": 155,
-    "expansion": "crimson scales",
+    "points": 160,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-335.png",
-    "xws": "cspq335"
+    "xws": "banditbanisher",
+    "assetno": "335"
   },
   {
     "name": "cs-pq-336",
-    "points": 156,
-    "expansion": "crimson scales",
+    "points": 161,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-336.png",
-    "xws": "cspq336"
+    "xws": "cspq336",
+    "assetno": "336"
+  },
+  {
+    "name": "336",
+    "points": 162,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-336.png",
+    "xws": "cspq336",
+    "assetno": "336"
   },
   {
     "name": "creatures in the night",
-    "points": 157,
-    "expansion": "crimson scales",
+    "points": 163,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-336.png",
-    "xws": "cspq336"
+    "xws": "creaturesinthenight",
+    "assetno": "336"
   },
   {
     "name": "cs-pq-337",
-    "points": 158,
-    "expansion": "crimson scales",
+    "points": 164,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-337.png",
-    "xws": "cspq337"
+    "xws": "cspq337",
+    "assetno": "337"
+  },
+  {
+    "name": "337",
+    "points": 165,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-337.png",
+    "xws": "cspq337",
+    "assetno": "337"
   },
   {
     "name": "experienced leader",
-    "points": 159,
-    "expansion": "crimson scales",
+    "points": 166,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-337.png",
-    "xws": "cspq337"
+    "xws": "experiencedleader",
+    "assetno": "337"
   },
   {
     "name": "cs-pq-338",
-    "points": 160,
-    "expansion": "crimson scales",
+    "points": 167,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-338.png",
-    "xws": "cspq338"
+    "xws": "cspq338",
+    "assetno": "338"
+  },
+  {
+    "name": "338",
+    "points": 168,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-338.png",
+    "xws": "cspq338",
+    "assetno": "338"
   },
   {
     "name": "adrenaline spike",
-    "points": 161,
-    "expansion": "crimson scales",
+    "points": 169,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-338.png",
-    "xws": "cspq338"
+    "xws": "adrenalinespike",
+    "assetno": "338"
   },
   {
     "name": "cs-pq-339",
-    "points": 162,
-    "expansion": "crimson scales",
+    "points": 170,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-339.png",
-    "xws": "cspq339"
+    "xws": "cspq339",
+    "assetno": "339"
+  },
+  {
+    "name": "339",
+    "points": 171,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-339.png",
+    "xws": "cspq339",
+    "assetno": "339"
   },
   {
     "name": "mutual support",
-    "points": 163,
-    "expansion": "crimson scales",
+    "points": 172,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-339.png",
-    "xws": "cspq339"
+    "xws": "mutualsupport",
+    "assetno": "339"
   },
   {
     "name": "cs-pq-340",
-    "points": 164,
-    "expansion": "crimson scales",
+    "points": 173,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-340.png",
-    "xws": "cspq340"
+    "xws": "cspq340",
+    "assetno": "340"
+  },
+  {
+    "name": "340",
+    "points": 174,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-340.png",
+    "xws": "cspq340",
+    "assetno": "340"
   },
   {
     "name": "thy be blessed",
-    "points": 165,
-    "expansion": "crimson scales",
+    "points": 175,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-340.png",
-    "xws": "cspq340"
+    "xws": "thybeblessed",
+    "assetno": "340"
   },
   {
     "name": "cs-pq-341",
-    "points": 166,
-    "expansion": "crimson scales",
+    "points": 176,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-341.png",
-    "xws": "cspq341"
+    "xws": "cspq341",
+    "assetno": "341"
+  },
+  {
+    "name": "341",
+    "points": 177,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-341.png",
+    "xws": "cspq341",
+    "assetno": "341"
   },
   {
     "name": "spiritual gains",
-    "points": 167,
-    "expansion": "crimson scales",
+    "points": 178,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-341.png",
-    "xws": "cspq341"
+    "xws": "spiritualgains",
+    "assetno": "341"
   },
   {
     "name": "cs-pq-342",
-    "points": 168,
-    "expansion": "crimson scales",
+    "points": 179,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-342.png",
-    "xws": "cspq342"
+    "xws": "cspq342",
+    "assetno": "342"
+  },
+  {
+    "name": "342",
+    "points": 180,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-342.png",
+    "xws": "cspq342",
+    "assetno": "342"
   },
   {
     "name": "the path of agony",
-    "points": 169,
-    "expansion": "crimson scales",
+    "points": 181,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-342.png",
-    "xws": "cspq342"
+    "xws": "thepathofagony",
+    "assetno": "342"
   },
   {
     "name": "cs-pq-343",
-    "points": 170,
-    "expansion": "crimson scales",
+    "points": 182,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-343.png",
-    "xws": "cspq343"
+    "xws": "cspq343",
+    "assetno": "343"
   },
   {
-    "name": "the dying of light",
-    "points": 171,
-    "expansion": "crimson scales",
+    "name": "343",
+    "points": 183,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-343.png",
-    "xws": "cspq343"
+    "xws": "cspq343",
+    "assetno": "343"
+  },
+  {
+    "name": "cruel dominion",
+    "points": 184,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-343.png",
+    "xws": "crueldominion",
+    "assetno": "343"
   },
   {
     "name": "cs-pq-344",
-    "points": 172,
-    "expansion": "crimson scales",
+    "points": 185,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-344.png",
-    "xws": "cspq344"
+    "xws": "cspq344",
+    "assetno": "344"
+  },
+  {
+    "name": "344",
+    "points": 186,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-344.png",
+    "xws": "cspq344",
+    "assetno": "344"
   },
   {
     "name": "natural selection",
-    "points": 173,
-    "expansion": "crimson scales",
+    "points": 187,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-344.png",
-    "xws": "cspq344"
+    "xws": "naturalselection",
+    "assetno": "344"
   },
   {
     "name": "cs-pq-345",
-    "points": 174,
-    "expansion": "crimson scales",
+    "points": 188,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-345.png",
-    "xws": "cspq345"
+    "xws": "cspq345",
+    "assetno": "345"
+  },
+  {
+    "name": "345",
+    "points": 189,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-345.png",
+    "xws": "cspq345",
+    "assetno": "345"
   },
   {
     "name": "predator and prey",
-    "points": 175,
-    "expansion": "crimson scales",
+    "points": 190,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-345.png",
-    "xws": "cspq345"
+    "xws": "predatorandprey",
+    "assetno": "345"
   },
   {
     "name": "cs-pq-346",
-    "points": 176,
-    "expansion": "crimson scales",
+    "points": 191,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-346.png",
-    "xws": "cspq346"
+    "xws": "cspq346",
+    "assetno": "346"
   },
   {
-    "name": "an adder divides",
-    "points": 177,
-    "expansion": "crimson scales",
+    "name": "346",
+    "points": 192,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-346.png",
-    "xws": "cspq346"
+    "xws": "cspq346",
+    "assetno": "346"
+  },
+  {
+    "name": "ad adder divides",
+    "points": 193,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-346.png",
+    "xws": "adadderdivides",
+    "assetno": "346"
   },
   {
     "name": "cs-pq-347",
-    "points": 178,
-    "expansion": "crimson scales",
+    "points": 194,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-347.png",
-    "xws": "cspq347"
+    "xws": "cspq347",
+    "assetno": "347"
+  },
+  {
+    "name": "347",
+    "points": 195,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-347.png",
+    "xws": "cspq347",
+    "assetno": "347"
   },
   {
     "name": "field research",
-    "points": 179,
-    "expansion": "crimson scales",
+    "points": 196,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-347.png",
-    "xws": "cspq347"
+    "xws": "fieldresearch",
+    "assetno": "347"
   },
   {
     "name": "cs-pq-348",
-    "points": 180,
-    "expansion": "crimson scales",
+    "points": 197,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-348.png",
-    "xws": "cspq348"
+    "xws": "cspq348",
+    "assetno": "348"
+  },
+  {
+    "name": "348",
+    "points": 198,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-348.png",
+    "xws": "cspq348",
+    "assetno": "348"
   },
   {
     "name": "conjurers hand",
-    "points": 181,
-    "expansion": "crimson scales",
+    "points": 199,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-348.png",
-    "xws": "cspq348"
+    "xws": "conjurershand",
+    "assetno": "348"
   },
   {
     "name": "cs-pq-349",
-    "points": 182,
-    "expansion": "crimson scales",
+    "points": 200,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-349.png",
-    "xws": "cspq349"
+    "xws": "cspq349",
+    "assetno": "349"
+  },
+  {
+    "name": "349",
+    "points": 201,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-349.png",
+    "xws": "cspq349",
+    "assetno": "349"
   },
   {
     "name": "no rest for the wicked",
-    "points": 183,
-    "expansion": "crimson scales",
+    "points": 202,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-349.png",
-    "xws": "cspq349"
+    "xws": "norestforthewicked",
+    "assetno": "349"
   },
   {
     "name": "cs-pq-350",
-    "points": 184,
-    "expansion": "crimson scales",
+    "points": 203,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-350.png",
-    "xws": "cspq350"
+    "xws": "cspq350",
+    "assetno": "350"
+  },
+  {
+    "name": "350",
+    "points": 204,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-350.png",
+    "xws": "cspq350",
+    "assetno": "350"
   },
   {
     "name": "health first",
-    "points": 185,
-    "expansion": "crimson scales",
+    "points": 205,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-350.png",
-    "xws": "cspq350"
+    "xws": "healthfirst",
+    "assetno": "350"
   },
   {
     "name": "cs-pq-351",
-    "points": 186,
-    "expansion": "crimson scales",
+    "points": 206,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-351.png",
-    "xws": "cspq351"
+    "xws": "cspq351",
+    "assetno": "351"
+  },
+  {
+    "name": "351",
+    "points": 207,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-351.png",
+    "xws": "cspq351",
+    "assetno": "351"
   },
   {
     "name": "limitless searching",
-    "points": 187,
-    "expansion": "crimson scales",
+    "points": 208,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-351.png",
-    "xws": "cspq351"
+    "xws": "limitlesssearching",
+    "assetno": "351"
   },
   {
     "name": "cs-pq-aa-001",
-    "points": 188,
-    "expansion": "crimson scales",
+    "points": 209,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-001.png",
-    "xws": "cspqaa001"
+    "xws": "cspqaa001",
+    "assetno": "aa-001"
+  },
+  {
+    "name": "aa-001",
+    "points": 210,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-aa-001.png",
+    "xws": "cspqaa001",
+    "assetno": "aa-001"
   },
   {
     "name": "at all costs",
-    "points": 189,
-    "expansion": "crimson scales",
+    "points": 211,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-001.png",
-    "xws": "cspqaa001"
+    "xws": "atallcosts",
+    "assetno": "aa-001"
   },
   {
     "name": "cs-pq-aa-002",
-    "points": 190,
-    "expansion": "crimson scales",
+    "points": 212,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-002.png",
-    "xws": "cspqaa002"
+    "xws": "cspqaa002",
+    "assetno": "aa-002"
+  },
+  {
+    "name": "aa-002",
+    "points": 213,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-aa-002.png",
+    "xws": "cspqaa002",
+    "assetno": "aa-002"
   },
   {
     "name": "the weight of failure",
-    "points": 191,
-    "expansion": "crimson scales",
+    "points": 214,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-aa-002.png",
-    "xws": "cspqaa002"
+    "xws": "theweightoffailure",
+    "assetno": "aa-002"
   },
   {
     "name": "cs-pq-qa-001",
-    "points": 192,
-    "expansion": "crimson scales",
+    "points": 215,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-001.png",
-    "xws": "cspqqa001"
+    "xws": "cspqqa001",
+    "assetno": "qa-001"
+  },
+  {
+    "name": "qa-001",
+    "points": 216,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-qa-001.png",
+    "xws": "cspqqa001",
+    "assetno": "qa-001"
   },
   {
     "name": "ingenious inventor",
-    "points": 193,
-    "expansion": "crimson scales",
+    "points": 217,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-001.png",
-    "xws": "cspqqa001"
+    "xws": "ingeniousinventor",
+    "assetno": "qa-001"
   },
   {
     "name": "cs-pq-qa-002",
-    "points": 194,
-    "expansion": "crimson scales",
+    "points": 218,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-002.png",
-    "xws": "cspqqa002"
+    "xws": "cspqqa002",
+    "assetno": "qa-002"
+  },
+  {
+    "name": "qa-002",
+    "points": 219,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-qa-002.png",
+    "xws": "cspqqa002",
+    "assetno": "qa-002"
   },
   {
     "name": "scrap diver",
-    "points": 195,
-    "expansion": "crimson scales",
+    "points": 220,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-qa-002.png",
-    "xws": "cspqqa002"
+    "xws": "scrapdiver",
+    "assetno": "qa-002"
   },
   {
     "name": "cs-pq-rm-001",
-    "points": 196,
-    "expansion": "crimson scales",
+    "points": 221,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-001.png",
-    "xws": "cspqrm001"
+    "xws": "cspqrm001",
+    "assetno": "rm-001"
+  },
+  {
+    "name": "rm-001",
+    "points": 222,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-rm-001.png",
+    "xws": "cspqrm001",
+    "assetno": "rm-001"
   },
   {
     "name": "brutal enforcer",
-    "points": 197,
-    "expansion": "crimson scales",
+    "points": 223,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-001.png",
-    "xws": "cspqrm001"
+    "xws": "brutalenforcer",
+    "assetno": "rm-001"
   },
   {
     "name": "cs-pq-rm-002",
-    "points": 198,
-    "expansion": "crimson scales",
+    "points": 224,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
-    "xws": "cspqrm002"
+    "xws": "cspqrm002",
+    "assetno": "rm-002"
+  },
+  {
+    "name": "rm-002",
+    "points": 225,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
+    "xws": "cspqrm002",
+    "assetno": "rm-002"
   },
   {
     "name": "apex predator",
-    "points": 199,
-    "expansion": "crimson scales",
+    "points": 226,
+    "expansion": "crimson-scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
-    "xws": "cspqrm002"
+    "xws": "apexpredator",
+    "assetno": "rm-002"
+  },
+  {
+    "name": "cs-pq-back",
+    "points": 227,
+    "expansion": "crimson-scales",
+    "image": "personal-quests/crimson-scales/cs-pq-back.png",
+    "xws": "cspqback",
+    "assetno": "###"
   },
   {
     "name": "toa-pq-back",
-    "points": 200,
+    "points": 228,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-back.png",
     "xws": "toapqback"
   },  
   {
     "name": "toa-pq-641",
-    "points": 201,
+    "points": 229,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
     "xws": "toapq641"
   },
   {
     "name": "grave robber",
-    "points": 202,
+    "points": 230,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
     "xws": "toapq641"
   },
   {
     "name": "toa-pq-642",
-    "points": 203,
+    "points": 231,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
     "xws": "toapq642"
   },
   {
     "name": "stand as one",
-    "points": 204,
+    "points": 232,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
     "xws": "toapq642"
   },
   {
     "name": "toa-pq-643",
-    "points": 205,
+    "points": 233,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
     "xws": "toapq643"
   },
   {
     "name": "false dichotomies",
-    "points": 206,
+    "points": 234,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
     "xws": "toapq643"
   },
   {
     "name": "toa-pq-644",
-    "points": 207,
+    "points": 235,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
     "xws": "toapq644"
   },
   {
     "name": "shared suffering",
-    "points": 208,
+    "points": 236,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
     "xws": "toapq644"
   },
   {
     "name": "toa-pq-645",
-    "points": 209,
+    "points": 237,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
     "xws": "toapq645"
   },
   {
     "name": "speed is king",
-    "points": 210,
+    "points": 238,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
     "xws": "toapq645"
   },
   {
     "name": "toa-pq-646",
-    "points": 211,
+    "points": 239,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
     "xws": "toapq646"
   },
   {
     "name": "resourceful",
-    "points": 212,
+    "points": 240,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
     "xws": "toapq646"
   },
   {
     "name": "toa-pq-647",
-    "points": 213,
+    "points": 241,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
     "xws": "toapq647"
   },
   {
     "name": "close to nature",
-    "points": 214,
+    "points": 242,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
     "xws": "toapq647"
   },
   {
     "name": "toa-pq-648",
-    "points": 215,
+    "points": 243,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
     "xws": "toapq648"
   },
   {
     "name": "in good time",
-    "points": 216,
+    "points": 244,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
     "xws": "toapq648"
