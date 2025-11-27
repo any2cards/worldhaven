@@ -152,323 +152,392 @@
     "assetno": "###"
   },
   {
-    "name": "ao halt am 1-3 back",
+    "name": "ao halt am 1-3 front",
     "points": 19,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-ao-halt-am-1-3-back.png",
-    "xws": "aohaltam13back"
+    "image": "player-aid-cards/crimson-scales/cs-ao-halt-am-1-3-front.png",
+    "xws": "aohaltam13front",
+    "assetno": "###"
   },
   {
-    "name": "ao halt am 1-3 front",
+    "name": "ao halt am 1-3 back",
     "points": 20,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-ao-halt-am-1-3-front.png",
-    "xws": "aohaltam13front"
-  },
-  {
-    "name": "ao halt class 1-3 back",
-    "points": 21,
-    "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-ao-halt-class-1-3-back.png",
-    "xws": "aohaltclass13back"
+    "image": "player-aid-cards/crimson-scales/cs-ao-halt-am-1-3-back.png",
+    "xws": "aohaltam13back",
+    "assetno": "###"
   },
   {
     "name": "ao halt class 1-3 front",
-    "points": 22,
+    "points": 21,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-ao-halt-class-1-3-front.png",
-    "xws": "aohaltclass13front"
+    "xws": "aohaltclass13front",
+    "assetno": "###"
   },
   {
-    "name": "bg halt am 1-6 back",
-    "points": 23,
+    "name": "ao halt class 1-3 back",
+    "points": 22,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-bg-halt-am-1-6-back.png",
-    "xws": "bghaltam16back"
+    "image": "player-aid-cards/crimson-scales/cs-ao-halt-class-1-3-back.png",
+    "xws": "aohaltclass13back",
+    "assetno": "###"
   },
   {
     "name": "bg halt am 1-6 front",
-    "points": 24,
+    "points": 23,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-bg-halt-am-1-6-front.png",
-    "xws": "bghaltam16front"
+    "xws": "bghaltam16front",
+    "assetno": "###"
   },
   {
-    "name": "bg halt am 7-11 back",
-    "points": 25,
+    "name": "bg halt am 1-6 back",
+    "points": 24,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-bg-halt-am-7-11-back.png",
-    "xws": "bghaltam711back"
+    "image": "player-aid-cards/crimson-scales/cs-bg-halt-am-1-6-back.png",
+    "xws": "bghaltam16back",
+    "assetno": "###"
   },
   {
     "name": "bg halt am 7-11 front",
-    "points": 26,
+    "points": 25,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-bg-halt-am-7-11-front.png",
-    "xws": "bghaltam711front"
+    "xws": "bghaltam711front",
+    "assetno": "###"
   },
   {
-    "name": "bg halt class 1-3 back",
-    "points": 27,
+    "name": "bg halt am 7-11 back",
+    "points": 26,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-1-3-back.png",
-    "xws": "bghaltclass13back"
+    "image": "player-aid-cards/crimson-scales/cs-bg-halt-am-7-11-back.png",
+    "xws": "bghaltam711back",
+    "assetno": "###"
   },
   {
     "name": "bg halt class 1-3 front",
-    "points": 28,
+    "points": 27,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-1-3-front.png",
-    "xws": "bghaltclass13front"
+    "xws": "bghaltclass13front",
+    "assetno": "###"
   },
   {
-    "name": "bg halt class 4-6 back",
-    "points": 29,
+    "name": "bg halt class 1-3 back",
+    "points": 28,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-4-6-back.png",
-    "xws": "bghaltclass46back"
+    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-1-3-back.png",
+    "xws": "bghaltclass13back",
+    "assetno": "###"
   },
   {
     "name": "bg halt class 4-6 front",
-    "points": 30,
+    "points": 29,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-4-6-front.png",
-    "xws": "bghaltclass46front"
+    "xws": "bghaltclass46front",
+    "assetno": "###"
   },
   {
-    "name": "bg halt class 7-9 back",
-    "points": 31,
+    "name": "bg halt class 4-6 back",
+    "points": 30,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-7-9-back.png",
-    "xws": "bghaltclass79back"
+    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-4-6-back.png",
+    "xws": "bghaltclass46back",
+    "assetno": "###"
   },
   {
     "name": "bg halt class 7-9 front",
-    "points": 32,
+    "points": 31,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-7-9-front.png",
-    "xws": "bghaltclass79front"
+    "xws": "bghaltclass79front",
+    "assetno": "###"
   },
   {
-    "name": "bg halt class 10-11 back",
-    "points": 33,
+    "name": "bg halt class 7-9 back",
+    "points": 32,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-10-11-back.png",
-    "xws": "bghaltclass1011back"
+    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-7-9-back.png",
+    "xws": "bghaltclass79back",
+    "assetno": "###"
   },
   {
     "name": "bg halt class 10-11 front",
-    "points": 34,
+    "points": 33,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-10-11-front.png",
-    "xws": "bghaltclass1011front"
+    "xws": "bghaltclass1011front",
+    "assetno": "###"
   },
   {
-    "name": "halt am back",
-    "points": 35,
+    "name": "bg halt class 10-11 back",
+    "points": 34,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-halt-am-back.png",
-    "xws": "haltamback"
+    "image": "player-aid-cards/crimson-scales/cs-bg-halt-class-10-11-back.png",
+    "xws": "bghaltclass1011back",
+    "assetno": "###"
   },
   {
     "name": "halt am front",
-    "points": 36,
+    "points": 35,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-halt-am-front.png",
-    "xws": "haltamfront"
+    "xws": "haltamfront",
+    "assetno": "###"
   },
   {
-    "name": "halt am party back",
-    "points": 37,
+    "name": "halt am back",
+    "points": 36,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-halt-am-party-back.png",
-    "xws": "haltampartyback"
+    "image": "player-aid-cards/crimson-scales/cs-halt-am-back.png",
+    "xws": "haltamback",
+    "assetno": "###"
   },
   {
     "name": "halt am party front",
-    "points": 38,
+    "points": 37,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-halt-am-party-front.png",
-    "xws": "haltampartyfront"
+    "xws": "haltampartyfront",
+    "assetno": "###"
   },
   {
-    "name": "halt class back",
-    "points": 39,
+    "name": "halt am party back",
+    "points": 38,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-halt-class-back.png",
-    "xws": "haltclassback"
+    "image": "player-aid-cards/crimson-scales/cs-halt-am-party-back.png",
+    "xws": "haltampartyback",
+    "assetno": "###"
   },
   {
     "name": "halt class front",
-    "points": 40,
+    "points": 39,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-halt-class-front.png",
-    "xws": "haltclassfront"
+    "xws": "haltclassfront",
+    "assetno": "###"
   },
   {
-    "name": "player reference back",
-    "points": 41,
+    "name": "halt class back",
+    "points": 40,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-player-reference-back.png",
-    "xws": "playerreferenceback"
+    "image": "player-aid-cards/crimson-scales/cs-halt-class-back.png",
+    "xws": "haltclassback",
+    "assetno": "###"
   },
   {
     "name": "player reference front",
+    "points": 41,
+    "expansion": "crimson scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-1.png",
+    "xws": "playerreferencefront",
+    "assetno": "483"
+  },
+  {
+    "name": "483",
     "points": 42,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-player-reference-front-1.png",
-    "xws": "playerreferencefront"
+    "xws": "playerreferencefront",
+    "assetno": "483"
   },
   {
     "name": "player reference front",
     "points": 43,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-player-reference-front-2.png",
-    "xws": "playerreferencefront"
+    "xws": "playerreferencefront",
+    "assetno": "484"
   },
   {
-    "name": "player reference front",
+    "name": "484",
     "points": 44,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-3.png",
-    "xws": "playerreferencefront"
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-2.png",
+    "xws": "playerreferencefront",
+    "assetno": "484"
   },
   {
     "name": "player reference front",
     "points": 45,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-4.png",
-    "xws": "playerreferencefront"
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-3.png",
+    "xws": "playerreferencefront",
+    "assetno": "485"
   },
   {
-    "name": "scenario reference back",
+    "name": "485",
     "points": 46,
     "expansion": "crimson scales",
-    "image": "player-aid-cards/crimson-scales/cs-scenario-reference-back.png",
-    "xws": "playerreferenceback"
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-3.png",
+    "xws": "playerreferencefront",
+    "assetno": "485"
+  },
+  {
+    "name": "player reference front",
+    "points": 47,
+    "expansion": "crimson scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-4.png",
+    "xws": "playerreferencefront",
+    "assetno": "486"
+  },
+  {
+    "name": "486",
+    "points": 48,
+    "expansion": "crimson scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-4.png",
+    "xws": "playerreferencefront",
+    "assetno": "486"
+  },
+  {
+    "name": "player reference back",
+    "points": 49,
+    "expansion": "crimson scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-back.png",
+    "xws": "playerreferenceback",
+    "assetno": "###"
   },
   {
     "name": "scenario reference front",
-    "points": 47,
+    "points": 50,
     "expansion": "crimson scales",
     "image": "player-aid-cards/crimson-scales/cs-scenario-reference-front.png",
-    "xws": "playerreferencefront"
+    "xws": "scenarioreferencefront",
+    "assetno": "487"
+  },
+  {
+    "name": "487",
+    "points": 51,
+    "expansion": "crimson scales",
+    "image": "player-aid-cards/crimson-scales/cs-scenario-reference-front.png",
+    "xws": "scenarioreferencefront",
+    "assetno": "487"
+  },
+  {
+    "name": "scenario reference back",
+    "points": 52,
+    "expansion": "crimson scales",
+    "image": "player-aid-cards/crimson-scales/cs-scenario-reference-back.png",
+    "xws": "scenarioreferenceback",
+    "assetno": "###"
   },
   {
     "name": "toa halt am 1-5 back",
-    "points": 48,
+    "points": 53,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-am-1-5-back.png",
     "xws": "toahaltam15back"
   },
   {
     "name": "toa halt am 1-5 front",
-    "points": 49,
+    "points": 54,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-am-1-5-front.png",
     "xws": "toahaltam15front"
   },
   {
     "name": "toa halt class 1-3 back",
-    "points": 50,
+    "points": 55,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-class-1-3-back.png",
     "xws": "toahaltclass13back"
   },
   {
     "name": "toa halt class 1-3 front",
-    "points": 51,
+    "points": 56,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-class-1-3-front.png",
     "xws": "toahaltclass13front"
   },
   {
     "name": "toa halt class 4-5 back",
-    "points": 52,
+    "points": 57,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-class-4-5-back.png",
     "xws": "toahaltclass45back"
   },
   {
     "name": "toa halt class 4-5 front",
-    "points": 53,
+    "points": 58,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-class-4-5-front.png",
     "xws": "toahaltclass45front"
   },
   {
     "name": "toa halt errata back",
-    "points": 54,
+    "points": 59,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-errata-back.png",
     "xws": "toahalterrataback"
   },
   {
     "name": "toa halt errata front",
-    "points": 55,
+    "points": 60,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-errata-front.png",
     "xws": "toahalterratafront"
   },
   {
     "name": "toa halt m back",
-    "points": 56,
+    "points": 61,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-m-back.png",
     "xws": "toahaltmback"
   },
   {
     "name": "toa halt m front",
-    "points": 57,
+    "points": 62,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-m-front.png",
     "xws": "toahaltmfront"
   },
   {
     "name": "toa halt mini back",
-    "points": 58,
+    "points": 63,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-mini-back.png",
     "xws": "toahaltminiback"
   },
   {
     "name": "toa halt mini front",
-    "points": 59,
+    "points": 64,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-halt-mini-front.png",
     "xws": "toahaltminifront"
   },
   {
     "name": "toa player reference back",
-    "points": 60,
+    "points": 65,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-back.png",
     "xws": "toaplayerreferenceback"
   },
   {
     "name": "toa player reference front",
-    "points": 61,
+    "points": 66,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-1.png",
     "xws": "toaplayerreferencefront"
   },
   {
     "name": "toa player reference front",
-    "points": 62,
+    "points": 67,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-2.png",
     "xws": "toaplayerreferencefront"
   },
   {
     "name": "toa player reference front",
-    "points": 63,
+    "points": 68,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-3.png",
     "xws": "toaplayerreferencefront"
   },
   {
     "name": "toa player reference front",
-    "points": 64,
+    "points": 69,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-4.png",
     "xws": "toaplayerreferencefront"
