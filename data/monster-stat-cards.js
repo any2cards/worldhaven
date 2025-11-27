@@ -2484,224 +2484,256 @@
     "points": 310,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-0.png",
-    "xws": "gnashingdrake"
+    "xws": "gnashingdrake",
+    "assetno": "###"
   },
   {
     "name": "gnashing drake",
     "points": 311,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-2.png",
-    "xws": "gnashingdrake"
+    "xws": "gnashingdrake",
+    "assetno": "###"
   },
   {
     "name": "gnashing drake",
     "points": 312,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-4.png",
-    "xws": "gnashingdrake"
+    "xws": "gnashingdrake",
+    "assetno": "###"
   },
   {
     "name": "gnashing drake",
     "points": 313,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-6.png",
-    "xws": "gnashingdrake"
+    "xws": "gnashingdrake",
+    "assetno": "###"
   },
   {
     "name": "goremyon shatter-mind",
     "points": 314,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-0.png",
-    "xws": "goremyonshattermind"
+    "xws": "goremyonshattermind",
+    "assetno": "###"
   },
   {
     "name": "goremyon shatter-mind",
     "points": 315,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-2.png",
-    "xws": "goremyonshattermind"
+    "xws": "goremyonshattermind",
+    "assetno": "###"
   },
   {
     "name": "goremyon shatter-mind",
     "points": 316,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-4.png",
-    "xws": "goremyonshattermind"
+    "xws": "goremyonshattermind",
+    "assetno": "###"
   },
   {
     "name": "goremyon shatter-mind",
     "points": 317,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-6.png",
-    "xws": "goremyonshattermind"
+    "xws": "goremyonshattermind",
+    "assetno": "###"
   },
   {
     "name": "harrower aegis",
     "points": 318,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-0.png",
-    "xws": "harroweraegis"
+    "xws": "harroweraegis",
+    "assetno": "###"
   },
   {
     "name": "harrower aegis",
     "points": 319,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-2.png",
-    "xws": "harroweraegis"
+    "xws": "harroweraegis",
+    "assetno": "###"
   },
   {
     "name": "harrower aegis",
     "points": 320,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-4.png",
-    "xws": "harroweraegis"
+    "xws": "harroweraegis",
+    "assetno": "###"
   },
   {
     "name": "harrower aegis",
     "points": 321,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-6.png",
-    "xws": "harroweraegis"
+    "xws": "harroweraegis",
+    "assetno": "###"
   },
   {
     "name": "inox bloodguard",
     "points": 322,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-0.png",
-    "xws": "inoxbloodguard"
+    "xws": "inoxbloodguard",
+    "assetno": "###"
   },
   {
     "name": "inox bloodguard",
     "points": 323,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-2.png",
-    "xws": "inoxbloodguard"
+    "xws": "inoxbloodguard",
+    "assetno": "###"
   },
   {
     "name": "inox bloodguard",
     "points": 324,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-4.png",
-    "xws": "inoxbloodguard"
+    "xws": "inoxbloodguard",
+    "assetno": "###"
   },
   {
     "name": "inox bloodguard",
     "points": 325,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-6.png",
-    "xws": "inoxbloodguard"
+    "xws": "inoxbloodguard",
+    "assetno": "###"
   },
   {
     "name": "ravenous gharial",
     "points": 326,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-0.png",
-    "xws": "ravenousgharial"
+    "xws": "ravenousgharial",
+    "assetno": "###"
   },
   {
     "name": "ravenous gharial",
     "points": 327,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-2.png",
-    "xws": "ravenousgharial"
+    "xws": "ravenousgharial",
+    "assetno": "###"
   },
   {
     "name": "ravenous gharial",
     "points": 328,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-4.png",
-    "xws": "ravenousgharial"
+    "xws": "ravenousgharial",
+    "assetno": "###"
   },
   {
     "name": "ravenous gharial",
     "points": 329,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-6.png",
-    "xws": "ravenousgharial"
+    "xws": "ravenousgharial",
+    "assetno": "###"
   },
   {
     "name": "ruinmaw",
     "points": 330,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-0.png",
-    "xws": "ruinmaw"
+    "xws": "ruinmaw",
+    "assetno": "###"
   },
   {
     "name": "ruinmaw",
     "points": 331,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-2.png",
-    "xws": "ruinmaw"
+    "xws": "ruinmaw",
+    "assetno": "###"
   },
   {
     "name": "ruinmaw",
     "points": 332,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-4.png",
-    "xws": "ruinmaw"
+    "xws": "ruinmaw",
+    "assetno": "###"
   },
   {
     "name": "ruinmaw",
     "points": 333,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-6.png",
-    "xws": "ruinmaw"
+    "xws": "ruinmaw",
+    "assetno": "###"
   },
   {
     "name": "terrorscale drake",
     "points": 334,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-0.png",
-    "xws": "terrorscaledrake"
+    "xws": "terrorscaledrake",
+    "assetno": "###"
   },
   {
     "name": "terrorscale drake",
     "points": 335,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-2.png",
-    "xws": "terrorscaledrake"
+    "xws": "terrorscaledrake",
+    "assetno": "###"
   },
   {
     "name": "terrorscale drake",
     "points": 336,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-4.png",
-    "xws": "terrorscaledrake"
+    "xws": "terrorscaledrake",
+    "assetno": "###"
   },
   {
     "name": "terrorscale drake",
     "points": 337,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-6.png",
-    "xws": "terrorscaledrake"
+    "xws": "terrorscaledrake",
+    "assetno": "###"
   },
   {
     "name": "water spirit",
     "points": 338,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-0.png",
-    "xws": "waterspirit"
+    "xws": "waterspirit",
+    "assetno": "###"
   },
   {
     "name": "water spirit",
     "points": 339,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-2.png",
-    "xws": "waterspirit"
+    "xws": "waterspirit",
+    "assetno": "###"
   },
   {
     "name": "water spirit",
     "points": 340,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
-    "xws": "waterspirit"
+    "xws": "waterspirit",
+    "assetno": "###"
   },
   {
     "name": "water spirit",
     "points": 341,
     "expansion": "crimson scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-6.png",
-    "xws": "waterspirit"
+    "xws": "waterspirit",
+    "assetno": "###"
   },
   {
     "name": "harrower bugflute",
