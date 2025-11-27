@@ -1544,11 +1544,11 @@
     "assetno": "346"
   },
   {
-    "name": "ad adder divides",
+    "name": "an adder divides",
     "points": 193,
     "expansion": "crimson scales",
     "image": "personal-quests/crimson-scales/cs-pq-346.png",
-    "xws": "adadderdivides",
+    "xws": "anadderdivides",
     "assetno": "346"
   },
   {
