@@ -1467,446 +1467,539 @@
     "name": "amber aegis token",
     "points": 183,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-amber-aegis-token.png",
-    "xws": "amberaegistoken"
+    "image": "tokens/crimson-scales/character/cs-amber-aegis-token.png",
+    "xws": "amberaegistoken",
+    "assetno": "###"
   },
   {
     "name": "artificer token",
     "points": 184,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-artificer-token.png",
-    "xws": "artificertoken"
+    "image": "tokens/crimson-scales/character/cs-artificer-token.png",
+    "xws": "artificertoken",
+    "assetno": "###"
   },
   {
     "name": "bombard token",
     "points": 185,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-bombard-token.png",
-    "xws": "bombardtoken"
+    "image": "tokens/crimson-scales/character/cs-bombard-token.png",
+    "xws": "bombardtoken",
+    "assetno": "###"
   },
   {
     "name": "brightspark token",
     "points": 186,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-brightspark-token.png",
-    "xws": "brightsparktoken"
+    "image": "tokens/crimson-scales/character/cs-brightspark-token.png",
+    "xws": "brightsparktoken",
+    "assetno": "###"
   },
   {
     "name": "chainguard token",
     "points": 187,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-chainguard-token.png",
-    "xws": "chainguardtoken"
+    "image": "tokens/crimson-scales/character/cs-chainguard-token.png",
+    "xws": "chainguardtoken",
+    "assetno": "###"
   },
   {
     "name": "chieftain token",
     "points": 188,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-chieftain-token.png",
-    "xws": "chieftaintoken"
+    "image": "tokens/crimson-scales/character/cs-chieftain-token.png",
+    "xws": "chieftaintoken",
+    "assetno": "###"
   },
   {
     "name": "fire knight token",
     "points": 189,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-fire-knight-token.png",
-    "xws": "fireknighttoken"
+    "image": "tokens/crimson-scales/character/cs-fire-knight-token.png",
+    "xws": "fireknighttoken",
+    "assetno": "###"
   },
   {
     "name": "hierophant token",
     "points": 190,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-hierophant-token.png",
-    "xws": "hierophanttoken"
+    "image": "tokens/crimson-scales/character/cs-hierophant-token.png",
+    "xws": "hierophanttoken",
+    "assetno": "###"
   },
   {
     "name": "hollowpact token",
     "points": 191,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-hollowpact-token.png",
-    "xws": "hollowpacttoken"
+    "image": "tokens/crimson-scales/character/cs-hollowpact-token.png",
+    "xws": "hollowpacttoken",
+    "assetno": "###"
   },
   {
     "name": "luminary token",
     "points": 192,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-luminary-token.png",
-    "xws": "luminarytoken"
+    "image": "tokens/crimson-scales/character/cs-luminary-token.png",
+    "xws": "luminarytoken",
+    "assetno": "###"
   },
   {
     "name": "mirefoot token",
     "points": 193,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-mirefoot-token.png",
-    "xws": "mirefoottoken"
+    "image": "tokens/crimson-scales/character/cs-mirefoot-token.png",
+    "xws": "mirefoottoken",
+    "assetno": "###"
   },
   {
     "name": "ruinmaw token",
     "points": 194,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-ruinmaw-token.png",
-    "xws": "ruinmawtoken"
+    "image": "tokens/crimson-scales/character/cs-ruinmaw-token.png",
+    "xws": "ruinmawtoken",
+    "assetno": "###"
   },
   {
     "name": "spirit caller token",
     "points": 195,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-spirit-caller-token.png",
-    "xws": "spiritcallertoken"
+    "image": "tokens/crimson-scales/character/cs-spirit-caller-token.png",
+    "xws": "spiritcallertoken",
+    "assetno": "###"
   },
   {
     "name": "starslinger token",
     "points": 196,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/character-tokens/cs-starslinger-token.png",
-    "xws": "starslingertoken"
+    "image": "tokens/crimson-scales/character/cs-starslinger-token.png",
+    "xws": "starslingertoken",
+    "assetno": "###"
   },
   {
     "name": "deathshroud spider",
     "points": 197,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-deathshroud-spider.png",
-    "xws": "deathshroudspider"
+    "image": "tokens/crimson-scales/class/cs-deathshroud-spider.png",
+    "xws": "deathshroudspider",
+    "assetno": "###"
   },
   {
     "name": "deathshroud spider",
     "points": 198,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-deathshroud-spider-back.png",
-    "xws": "deathshroudspider"
+    "image": "tokens/crimson-scales/class/cs-deathshroud-spider-back.png",
+    "xws": "deathshroudspider",
+    "assetno": "###"
   },
   {
     "name": "firespitter ant",
     "points": 199,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-firespitter-ant.png",
-    "xws": "firespitterant"
+    "image": "tokens/crimson-scales/class/cs-firespitter-ant.png",
+    "xws": "firespitterant",
+    "assetno": "###"
   },
   {
     "name": "firespitter ant",
     "points": 200,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-firespitter-ant-back.png",
-    "xws": "firespitterant"
+    "image": "tokens/crimson-scales/class/cs-firespitter-ant-back.png",
+    "xws": "firespitterant",
+    "assetno": "###"
   },
   {
     "name": "ghostshimmer bee",
     "points": 201,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-ghostshimmer-bee.png",
-    "xws": "ghostshimmerbee"
+    "image": "tokens/crimson-scales/class/cs-ghostshimmer-bee.png",
+    "xws": "ghostshimmerbee",
+    "assetno": "###"
   },
   {
     "name": "ghostshimmer bee",
     "points": 202,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-ghostshimmer-bee-back.png",
-    "xws": "ghostshimmerbee"
+    "image": "tokens/crimson-scales/class/cs-ghostshimmer-bee-back.png",
+    "xws": "ghostshimmerbee",
+    "assetno": "###"
   },
   {
     "name": "ladder",
     "points": 203,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-ladder.png",
-    "xws": "ladder"
+    "image": "tokens/crimson-scales/class/cs-ladder.png",
+    "xws": "ladder",
+    "assetno": "###"
   },
   {
-    "name": "rockspine termite",
+    "name": "poison trap",
     "points": 204,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-rockspine-termite.png",
-    "xws": "rockspinetermite"
+    "image": "tokens/crimson-scales/class/cs-poison-trap.png",
+    "xws": "poisontrap",
+    "assetno": "###"
   },
   {
     "name": "rockspine termite",
     "points": 205,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-rockspine-termite-back.png",
-    "xws": "rockspinetermite"
+    "image": "tokens/crimson-scales/class/cs-rockspine-termite.png",
+    "xws": "rockspinetermite",
+    "assetno": "###"
   },
   {
-    "name": "sated",
+    "name": "rockspine termite",
     "points": 206,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-sated.png",
-    "xws": "sated"
+    "image": "tokens/crimson-scales/class/cs-rockspine-termite-back.png",
+    "xws": "rockspinetermite",
+    "assetno": "###"
+  },
+  {
+    "name": "rope trap",
+    "points": 207,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-rope-trap.png",
+    "xws": "ropetrap",
+    "assetno": "###"
   },
   {
     "name": "sated",
-    "points": 207,
+    "points": 208,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-sated-back.png",
-    "xws": "sated"
+    "image": "tokens/crimson-scales/class/cs-sated.png",
+    "xws": "sated",
+    "assetno": "###"
+  },
+  {
+    "name": "sated",
+    "points": 209,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-sated-back.png",
+    "xws": "sated",
+    "assetno": "###"
   },
   {
     "name": "scrap",
-    "points": 208,
-    "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-scrap.png",
-    "xws": "scrap"
-  },
-  {
-    "name": "spawn blue",
-    "points": 209,
-    "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-blue-large.png",
-    "xws": "spawnblue"
-  },
-  {
-    "name": "spawn blue",
     "points": 210,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-blue-small.png",
-    "xws": "spawnblue"
+    "image": "tokens/crimson-scales/class/cs-scrap.png",
+    "xws": "scrap",
+    "assetno": "###"
   },
   {
-    "name": "spawn green",
+    "name": "spawn blue",
     "points": 211,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-green-large.png",
-    "xws": "spawngreen"
+    "image": "tokens/crimson-scales/class/cs-spawn-blue-large.png",
+    "xws": "spawnblue",
+    "assetno": "###"
+  },
+  {
+    "name": "spawn blue",
+    "points": 212,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-spawn-blue-small.png",
+    "xws": "spawnblue",
+    "assetno": "###"
   },
   {
     "name": "spawn green",
-    "points": 212,
-    "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-green-small.png",
-    "xws": "spawngreen"
-  },
-  {
-    "name": "spawn purple",
     "points": 213,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-purple-large.png",
-    "xws": "spawnpurple"
+    "image": "tokens/crimson-scales/class/cs-spawn-green-large.png",
+    "xws": "spawngreen",
+    "assetno": "###"
+  },
+  {
+    "name": "spawn green",
+    "points": 214,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-spawn-green-small.png",
+    "xws": "spawngreen",
+    "assetno": "###"
   },
   {
     "name": "spawn purple",
-    "points": 214,
-    "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-purple-small.png",
-    "xws": "spawnpurple"
-  },
-  {
-    "name": "spawn red",
     "points": 215,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-red-large.png",
-    "xws": "spawnred"
+    "image": "tokens/crimson-scales/class/cs-spawn-purple-large.png",
+    "xws": "spawnpurple",
+    "assetno": "###"
+  },
+  {
+    "name": "spawn purple",
+    "points": 216,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-spawn-purple-small.png",
+    "xws": "spawnpurple",
+    "assetno": "###"
   },
   {
     "name": "spawn red",
-    "points": 216,
-    "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-red-small.png",
-    "xws": "spawnred"
-  },
-  {
-    "name": "spawn white",
     "points": 217,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-white-large.png",
-    "xws": "spawnwhite"
+    "image": "tokens/crimson-scales/class/cs-spawn-red-large.png",
+    "xws": "spawnred",
+    "assetno": "###"
+  },
+  {
+    "name": "spawn red",
+    "points": 218,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-spawn-red-small.png",
+    "xws": "spawnred",
+    "assetno": "###"
   },
   {
     "name": "spawn white",
-    "points": 218,
-    "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-white-small.png",
-    "xws": "spawnwhite"
-  },
-  {
-    "name": "spawn yellow",
     "points": 219,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-yellow-large.png",
-    "xws": "spawnyellow"
+    "image": "tokens/crimson-scales/class/cs-spawn-white-large.png",
+    "xws": "spawnwhite",
+    "assetno": "###"
+  },
+  {
+    "name": "spawn white",
+    "points": 220,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-spawn-white-small.png",
+    "xws": "spawnwhite",
+    "assetno": "###"
   },
   {
     "name": "spawn yellow",
-    "points": 220,
+    "points": 221,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-spawn-yellow-small.png",
-    "xws": "spawnyellow"
+    "image": "tokens/crimson-scales/class/cs-spawn-yellow-large.png",
+    "xws": "spawnyellow",
+    "assetno": "###"
+  },
+  {
+    "name": "spawn yellow",
+    "points": 222,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-spawn-yellow-small.png",
+    "xws": "spawnyellow",
+    "assetno": "###"
+  },
+  {
+    "name": "trap",
+    "points": 223,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-trap.png",
+    "xws": "trap",
+    "assetno": "###"
   },
   {
     "name": "void energy",
-    "points": 221,
+    "points": 224,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/class-tokens/cs-void-energy.png",
-    "xws": "voidenergy"
+    "image": "tokens/crimson-scales/class/cs-void-energy.png",
+    "xws": "voidenergy",
+    "assetno": "###"
+  },
+  {
+    "name": "wood spike trap",
+    "points": 225,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/class/cs-wood-spike-trap.png",
+    "xws": "woodspiketrap",
+    "assetno": "###"
   },
   {
     "name": "bane",
-    "points": 222,
+    "points": 226,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-bane.png",
-    "xws": "bane"
+    "image": "tokens/crimson-scales/conditions/cs-bane.png",
+    "xws": "bane",
+    "assetno": "###"
   },
   {
     "name": "chill",
-    "points": 223,
+    "points": 227,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-chill.png",
-    "xws": "chill"
+    "image": "tokens/crimson-scales/conditions/cs-chill.png",
+    "xws": "chill",
+    "assetno": "###"
   },
   {
     "name": "infect",
-    "points": 224,
+    "points": 228,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-infect.png",
-    "xws": "infect"
+    "image": "tokens/crimson-scales/conditions/cs-infect.png",
+    "xws": "infect",
+    "assetno": "###"
   },
   {
     "name": "poison 2",
-    "points": 225,
+    "points": 229,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-poison-2.png",
-    "xws": "poison2"
+    "image": "tokens/crimson-scales/conditions/cs-poison-2.png",
+    "xws": "poison2",
+    "assetno": "###"
   },
   {
     "name": "poison 3",
-    "points": 226,
+    "points": 230,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-poison-3.png",
-    "xws": "poison3"
+    "image": "tokens/crimson-scales/conditions/cs-poison-3.png",
+    "xws": "poison3",
+    "assetno": "###"
   },
   {
     "name": "poison 4",
-    "points": 227,
+    "points": 231,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-poison-4.png",
-    "xws": "poison4"
+    "image": "tokens/crimson-scales/conditions/cs-poison-4.png",
+    "xws": "poison4",
+    "assetno": "###"
+  },
+  {
+    "name": "regenerate",
+    "points": 232,
+    "expansion": "crimson scales",
+    "image": "tokens/crimson-scales/conditions/cs-regenerate.png",
+    "xws": "regenerate",
+    "assetno": "###"
   },
   {
     "name": "rupture",
-    "points": 228,
+    "points": 233,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-rupture.png",
-    "xws": "rupture"
+    "image": "tokens/crimson-scales/conditions/cs-rupture.png",
+    "xws": "rupture",
+    "assetno": "###"
   },
   {
     "name": "ward",
-    "points": 229,
+    "points": 234,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-ward.png",
-    "xws": "ward"
+    "image": "tokens/crimson-scales/conditions/cs-ward.png",
+    "xws": "ward",
+    "assetno": "###"
   },
   {
     "name": "wound 2",
-    "points": 230,
+    "points": 235,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/condition-tokens/cs-wound-2.png",
-    "xws": "wound2"
+    "image": "tokens/crimson-scales/conditions/cs-wound-2.png",
+    "xws": "wound2",
+    "assetno": "###"
   },
   {
     "name": "damage 20",
-    "points": 231,
+    "points": 236,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/damage-tokens/cs-damage-20.png",
-    "xws": "wound2"
+    "image": "tokens/crimson-scales/damage/cs-damage-20.png",
+    "xws": "damage20",
+    "assetno": "###"
   },
   {
     "name": "damage 50",
-    "points": 232,
+    "points": 237,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/damage-tokens/cs-damage-50.png",
-    "xws": "wound2"
+    "image": "tokens/crimson-scales/damage/cs-damage-50.png",
+    "xws": "damage50",
+    "assetno": "###"
   },
   {
     "name": "bog",
-    "points": 233,
+    "points": 238,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/overlay-tokens/cs-bog.png",
-    "xws": "bog"
+    "image": "tokens/crimson-scales/overlay/cs-bog.png",
+    "xws": "bog",
+    "assetno": "###"
   },
   {
     "name": "broken log",
-    "points": 234,
+    "points": 239,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/overlay-tokens/cs-broken-log.png",
-    "xws": "brokenlog"
+    "image": "tokens/crimson-scales/overlay/cs-broken-log.png",
+    "xws": "brokenlog",
+    "assetno": "###"
   },
   {
     "name": "void pit",
-    "points": 235,
+    "points": 240,
     "expansion": "crimson scales",
-    "image": "tokens/crimson-scales/overlay-tokens/cs-void-pit.png",
-    "xws": "voidpit"
+    "image": "tokens/crimson-scales/overlay/cs-void-pit.png",
+    "xws": "voidpit",
+    "assetno": "###"
   },
   {
     "name": "incarnate token",
-    "points": 236,
+    "points": 241,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-incarnate-token.png",
     "xws": "incarnatetoken"
   },
   {
     "name": "rimehearth token",
-    "points": 237,
+    "points": 242,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-rimehearth-token.png",
     "xws": "rimehearthtoken"
   },
   {
     "name": "shardrender token",
-    "points": 238,
+    "points": 243,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-shardrender-token.png",
     "xws": "shardrendertoken"
   },
   {
     "name": "tempest token",
-    "points": 239,
+    "points": 244,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-tempest-token.png",
     "xws": "tempesttoken"
   },
   {
     "name": "thornreaper token",
-    "points": 240,
+    "points": 245,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-thornreaper-token.png",
     "xws": "thornreapertoken"
   },
   {
     "name": "vanquisher token",
-    "points": 241,
+    "points": 246,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-vanquisher-token.png",
     "xws": "vanquishertoken"
   },
   {
     "name": "sparks",
-    "points": 242,
+    "points": 247,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/class-tokens/toa-sparks.png",
     "xws": "sparks"
   },
   {
     "name": "thorns",
-    "points": 243,
+    "points": 248,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/class-tokens/toa-thorns.png",
     "xws": "thorns"
   },
   {
     "name": "brittle",
-    "points": 244,
+    "points": 249,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/condition-tokens/toa-brittle.png",
     "xws": "brittle"
   },
   {
     "name": "dodge",
-    "points": 245,
+    "points": 250,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/condition-tokens/toa-dodge.png",
     "xws": "dodge"
   },
   {
     "name": "rupture",
-    "points": 246,
+    "points": 251,
     "expansion": "trail of ashes",
     "image": "tokens/trail-of-ashes/condition-tokens/toa-rupture.png",
     "xws": "rupture"
