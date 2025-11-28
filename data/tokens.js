@@ -611,7 +611,7 @@
     "name": "rift",
     "points": 76,
     "expansion": "forgotten circles",
-    "image": "tokens/forgotten-circles/character-tokens/fc-diviner-rift.png",
+    "image": "tokens/forgotten-circles/character/fc-diviner-rift.png",
     "xws": "rift",
     "assetno": "###"
   },
