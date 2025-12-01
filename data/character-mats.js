@@ -1441,156 +1441,178 @@
   },
   {
     "name": "incarnate",
-    "points": 180,
+    "points": 0,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate.png",
-    "xws": "incarnate"
+    "xws": "incarnate",
+    "assetno": "###"
   },
   {
     "name": "incarnate",
-    "points": 181,
+    "points": 1,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate-back.png",
-    "xws": "incarnate"
+    "xws": "incarnate",
+    "assetno": "###"
   },
   {
     "name": "three-eyes",
-    "points": 182,
+    "points": 2,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate.png",
-    "xws": "incarnate"
+    "xws": "threeeyes",
+    "assetno": "###"
   },
   {
     "name": "three-eyes",
-    "points": 183,
+    "points": 3,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate-back.png",
-    "xws": "incarnate"
+    "xws": "threeeyes",
+    "assetno": "###"
   },
   {
     "name": "rimehearth",
-    "points": 184,
+    "points": 4,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth.png",
-    "xws": "rimehearth"
+    "xws": "rimehearth",
+    "assetno": "###"
   },
   {
     "name": "rimehearth",
-    "points": 185,
+    "points": 5,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth-back.png",
-    "xws": "rimehearth"
+    "xws": "rimehearth",
+    "assetno": "###"
   },
   {
     "name": "ice meteor",
-    "points": 186,
+    "points": 6,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth.png",
-    "xws": "rimehearth"
+    "xws": "icemeteor",
+    "assetno": "###"
   },
   {
     "name": "ice meteor",
-    "points": 187,
+    "points": 7,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth-back.png",
-    "xws": "rimehearth"
+    "xws": "icemeteor",
+    "assetno": "###"
   },
   {
     "name": "shardrender",
-    "points": 188,
+    "points": 8,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender.png",
-    "xws": "shardrender"
+    "xws": "shardrender",
+    "assetno": "###"
   },
   {
     "name": "shardrender",
-    "points": 189,
+    "points": 9,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender-back.png",
-    "xws": "shardrender"
+    "xws": "shardrender",
+    "assetno": "###"
   },
   {
     "name": "gemstone",
-    "points": 190,
+    "points": 10,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender.png",
-    "xws": "shardrender"
+    "xws": "gemstone",
+    "assetno": "###"
   },
   {
     "name": "gemstone",
-    "points": 191,
+    "points": 11,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender-back.png",
-    "xws": "shardrender"
+    "xws": "gemstone",
+    "assetno": "###"
   },
   {
     "name": "tempest",
-    "points": 192,
+    "points": 12,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest.png",
-    "xws": "tempest"
+    "xws": "tempest",
+    "assetno": "###"
   },
   {
     "name": "tempest",
-    "points": 193,
+    "points": 13,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest-back.png",
-    "xws": "tempest"
+    "xws": "tempest",
+    "assetno": "###"
   },
   {
     "name": "storm cloud",
-    "points": 194,
+    "points": 14,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest.png",
-    "xws": "tempest"
+    "xws": "stormcloud",
+    "assetno": "###"
   },
   {
     "name": "storm cloud",
-    "points": 195,
+    "points": 15,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest-back.png",
-    "xws": "tempest"
+    "xws": "stormcloud",
+    "assetno": "###"
   },
   {
     "name": "thornreaper",
-    "points": 196,
+    "points": 16,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper.png",
-    "xws": "thornreaper"
+    "xws": "thornreaper",
+    "assetno": "###"
   },
   {
     "name": "thornreaper",
-    "points": 197,
+    "points": 17,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper-back.png",
-    "xws": "thornreaper"
+    "xws": "thornreaper",
+    "assetno": "###"
   },
   {
     "name": "spiked ring",
-    "points": 198,
+    "points": 18,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper.png",
-    "xws": "thornreaper"
+    "xws": "spikedring",
+    "assetno": "###"
   },
   {
     "name": "spiked ring",
-    "points": 199,
+    "points": 19,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper-back.png",
-    "xws": "thornreaper"
+    "xws": "spikedring",
+    "assetno": "###"
   },
   {
     "name": "vanquisher",
-    "points": 200,
+    "points": 20,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-vanquisher.png",
-    "xws": "vanquisher"
+    "xws": "vanquisher",
+    "assetno": "###"
   },
   {
     "name": "vanquisher",
-    "points": 201,
+    "points": 21,
     "expansion": "trail of ashes",
     "image": "character-mats/trail-of-ashes/toa-vanquisher-back.png",
-    "xws": "vanquisher"
+    "xws": "vanquisher",
+    "assetno": "###"
   }
 ]
