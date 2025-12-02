@@ -15832,437 +15832,979 @@
     "assetno": "###"
   },
   {
-    "name": "toa-ce-61-b",
+    "name": "toa-ce-61-f",
     "points": 1979,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-61-b.png",
-    "xws": "toace61b"
+    "image": "events/trail-of-ashes/city/toa-ce-61-f.png",
+    "xws": "toace61f",
+    "assetno": "649"
   },
   {
-    "name": "toa-ce-61-f",
+    "name": "649",
     "points": 1980,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-61-f.png",
-    "xws": "toace61f"
+    "xws": "toace61f",
+    "assetno": "649"
   },
   {
-    "name": "toa-ce-62-b",
+    "name": "toa-ce-61-b",
     "points": 1981,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-62-b.png",
-    "xws": "toace62b"
+    "image": "events/trail-of-ashes/city/toa-ce-61-b.png",
+    "xws": "toace61b",
+    "assetno": "649"
+  },
+  {
+    "name": "649",
+    "points": 1982,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-61-b.png",
+    "xws": "toace61b",
+    "assetno": "649"
   },
   {
     "name": "toa-ce-62-f",
-    "points": 1982,
-    "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-62-f.png",
-    "xws": "toace62f"
-  },
-  {
-    "name": "toa-ce-63-b",
     "points": 1983,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-63-b.png",
-    "xws": "toace63b"
+    "image": "events/trail-of-ashes/city/toa-ce-62-f.png",
+    "xws": "toace62f",
+    "assetno": "650"
+  },
+  {
+    "name": "650",
+    "points": 1984,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-62-f.png",
+    "xws": "toace62f",
+    "assetno": "650"
+  },
+  {
+    "name": "toa-ce-62-b",
+    "points": 1985,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-62-b.png",
+    "xws": "toace62b",
+    "assetno": "650"
+  },
+  {
+    "name": "650",
+    "points": 1986,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-62-b.png",
+    "xws": "toace62b",
+    "assetno": "650"
   },
   {
     "name": "toa-ce-63-f",
-    "points": 1984,
+    "points": 1987,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-63-f.png",
-    "xws": "toace63f"
+    "xws": "toace63f",
+    "assetno": "651"
   },
   {
-    "name": "toa-ce-64-b",
-    "points": 1985,
+    "name": "651",
+    "points": 1988,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-64-b.png",
-    "xws": "toace64b"
+    "image": "events/trail-of-ashes/city/toa-ce-63-f.png",
+    "xws": "toace63f",
+    "assetno": "651"
+  },
+  {
+    "name": "toa-ce-63-b",
+    "points": 1989,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-63-b.png",
+    "xws": "toace63b",
+    "assetno": "651"
+  },
+  {
+    "name": "651",
+    "points": 1990,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-63-b.png",
+    "xws": "toace63b",
+    "assetno": "651"
   },
   {
     "name": "toa-ce-64-f",
-    "points": 1986,
+    "points": 1991,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-64-f.png",
-    "xws": "toace64f"
+    "xws": "toace64f",
+    "assetno": "652"
   },
   {
-    "name": "toa-ce-65-b",
-    "points": 1987,
+    "name": "652",
+    "points": 1992,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-65-b.png",
-    "xws": "toace65b"
+    "image": "events/trail-of-ashes/city/toa-ce-64-f.png",
+    "xws": "toace64f",
+    "assetno": "652"
+  },
+  {
+    "name": "toa-ce-64-b",
+    "points": 1993,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-64-b.png",
+    "xws": "toace64b",
+    "assetno": "652"
+  },
+  {
+    "name": "652",
+    "points": 1994,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-64-b.png",
+    "xws": "toace64b",
+    "assetno": "652"
   },
   {
     "name": "toa-ce-65-f",
-    "points": 1988,
+    "points": 1995,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-65-f.png",
-    "xws": "toace65f"
+    "xws": "toace65f",
+    "assetno": "653"
   },
   {
-    "name": "toa-ce-66-b",
-    "points": 1989,
+    "name": "653",
+    "points": 1996,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-66-b.png",
-    "xws": "toace66b"
+    "image": "events/trail-of-ashes/city/toa-ce-65-f.png",
+    "xws": "toace65f",
+    "assetno": "653"
+  },
+  {
+    "name": "toa-ce-65-b",
+    "points": 1997,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-65-b.png",
+    "xws": "toace65b",
+    "assetno": "653"
+  },
+  {
+    "name": "653",
+    "points": 1998,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-65-b.png",
+    "xws": "toace65b",
+    "assetno": "653"
   },
   {
     "name": "toa-ce-66-f",
-    "points": 1990,
+    "points": 1999,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-66-f.png",
-    "xws": "toace66f"
+    "xws": "toace66f",
+    "assetno": "654"
   },
   {
-    "name": "toa-ce-67-b",
-    "points": 1991,
+    "name": "654",
+    "points": 2000,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-67-b.png",
-    "xws": "toace67b"
+    "image": "events/trail-of-ashes/city/toa-ce-66-f.png",
+    "xws": "toace66f",
+    "assetno": "654"
+  },
+  {
+    "name": "toa-ce-66-b",
+    "points": 2001,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-66-b.png",
+    "xws": "toace66b",
+    "assetno": "654"
+  },
+  {
+    "name": "654",
+    "points": 2002,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-66-b.png",
+    "xws": "toace66b",
+    "assetno": "654"
   },
   {
     "name": "toa-ce-67-f",
-    "points": 1992,
+    "points": 2003,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-67-f.png",
-    "xws": "toace67f"
+    "xws": "toace67f",
+    "assetno": "655"
   },
   {
-    "name": "toa-ce-68-b",
-    "points": 1993,
+    "name": "655",
+    "points": 2004,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-68-b.png",
-    "xws": "toace68b"
+    "image": "events/trail-of-ashes/city/toa-ce-67-f.png",
+    "xws": "toace67f",
+    "assetno": "655"
+  },
+  {
+    "name": "toa-ce-67-b",
+    "points": 2005,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-67-b.png",
+    "xws": "toace67b",
+    "assetno": "655"
+  },
+  {
+    "name": "655",
+    "points": 2006,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-67-b.png",
+    "xws": "toace67b",
+    "assetno": "655"
   },
   {
     "name": "toa-ce-68-f",
-    "points": 1994,
+    "points": 2007,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-68-f.png",
-    "xws": "toace68f"
+    "xws": "toace68f",
+    "assetno": "656"
   },
   {
-    "name": "toa-ce-69-b",
-    "points": 1995,
+    "name": "656",
+    "points": 2008,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-69-b.png",
-    "xws": "toace69b"
+    "image": "events/trail-of-ashes/city/toa-ce-68-f.png",
+    "xws": "toace68f",
+    "assetno": "656"
+  },
+  {
+    "name": "toa-ce-68-b",
+    "points": 2009,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-68-b.png",
+    "xws": "toace68b",
+    "assetno": "656"
+  },
+  {
+    "name": "656",
+    "points": 2010,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-68-b.png",
+    "xws": "toace68b",
+    "assetno": "656"
   },
   {
     "name": "toa-ce-69-f",
-    "points": 1996,
+    "points": 2011,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-69-f.png",
-    "xws": "toace69f"
+    "xws": "toace69f",
+    "assetno": "657"
   },
   {
-    "name": "toa-ce-70-b",
-    "points": 1997,
+    "name": "657",
+    "points": 2012,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-70-b.png",
-    "xws": "toace70b"
+    "image": "events/trail-of-ashes/city/toa-ce-69-f.png",
+    "xws": "toace69f",
+    "assetno": "657"
+  },
+  {
+    "name": "toa-ce-69-b",
+    "points": 2013,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-69-b.png",
+    "xws": "toace69b",
+    "assetno": "657"
+  },
+  {
+    "name": "657",
+    "points": 2014,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-69-b.png",
+    "xws": "toace69b",
+    "assetno": "657"
   },
   {
     "name": "toa-ce-70-f",
-    "points": 1998,
+    "points": 2015,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-70-f.png",
-    "xws": "toace70f"
+    "xws": "toace70f",
+    "assetno": "658"
   },
   {
-    "name": "toa-ce-71-b",
-    "points": 1999,
+    "name": "658",
+    "points": 2016,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-71-b.png",
-    "xws": "toace71b"
+    "image": "events/trail-of-ashes/city/toa-ce-70-f.png",
+    "xws": "toace70f",
+    "assetno": "658"
+  },
+  {
+    "name": "toa-ce-70-b",
+    "points": 2017,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-70-b.png",
+    "xws": "toace70b",
+    "assetno": "658"
+  },
+  {
+    "name": "658",
+    "points": 2018,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-70-b.png",
+    "xws": "toace70b",
+    "assetno": "658"
   },
   {
     "name": "toa-ce-71-f",
-    "points": 2000,
+    "points": 2019,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-71-f.png",
-    "xws": "toace71f"
+    "xws": "toace71f",
+    "assetno": "659"
   },
   {
-    "name": "toa-ce-72-b",
-    "points": 2001,
+    "name": "659",
+    "points": 2020,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-72-b.png",
-    "xws": "toace72b"
+    "image": "events/trail-of-ashes/city/toa-ce-71-f.png",
+    "xws": "toace71f",
+    "assetno": "659"
+  },
+  {
+    "name": "toa-ce-71-b",
+    "points": 2021,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-71-b.png",
+    "xws": "toace71b",
+    "assetno": "659"
+  },
+  {
+    "name": "659",
+    "points": 2022,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-71-b.png",
+    "xws": "toace71b",
+    "assetno": "659"
   },
   {
     "name": "toa-ce-72-f",
-    "points": 2002,
+    "points": 2023,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-72-f.png",
-    "xws": "toace72f"
+    "xws": "toace72f",
+    "assetno": "660"
   },
   {
-    "name": "toa-ce-73-b",
-    "points": 2003,
+    "name": "660",
+    "points": 2024,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
-    "xws": "toace73b"
+    "image": "events/trail-of-ashes/city/toa-ce-72-f.png",
+    "xws": "toace72f",
+    "assetno": "660"
   },
   {
-    "name": "smoke spirit",
-    "points": 2004,
+    "name": "toa-ce-72-b",
+    "points": 2025,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
-    "xws": "toace73b"
+    "image": "events/trail-of-ashes/city/toa-ce-72-b.png",
+    "xws": "toace72b",
+    "assetno": "660"
   },
   {
-    "name": "water spirit",
-    "points": 2005,
+    "name": "660",
+    "points": 2026,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
-    "xws": "toace73b"
+    "image": "events/trail-of-ashes/city/toa-ce-72-b.png",
+    "xws": "toace72b",
+    "assetno": "660"
   },
   {
     "name": "toa-ce-73-f",
-    "points": 2006,
+    "points": 2027,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-73-f.png",
-    "xws": "toace73f"
+    "xws": "toace73f",
+    "assetno": "661"
   },
   {
-    "name": "toa-ce-74-b",
-    "points": 2007,
+    "name": "661",
+    "points": 2028,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-74-b.png",
-    "xws": "toace74b"
+    "image": "events/trail-of-ashes/city/toa-ce-73-f.png",
+    "xws": "toace73f",
+    "assetno": "661"
+  },
+  {
+    "name": "toa-ce-73-b",
+    "points": 2029,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
+    "xws": "toace73b",
+    "assetno": "661"
+  },
+  {
+    "name": "661",
+    "points": 2030,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
+    "xws": "toace73b",
+    "assetno": "661"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 2031,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
+    "xws": "smokespirit",
+    "assetno": "661"
+  },
+  {
+    "name": "water spirit",
+    "points": 2032,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
+    "xws": "waterspirit",
+    "assetno": "661"
   },
   {
     "name": "toa-ce-74-f",
-    "points": 2008,
+    "points": 2033,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-74-f.png",
-    "xws": "toace74f"
+    "xws": "toace74f",
+    "assetno": "750"
   },
   {
-    "name": "toa-ce-75-b",
-    "points": 2009,
+    "name": "750",
+    "points": 2034,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/city/toa-ce-75-b.png",
-    "xws": "toace75b"
+    "image": "events/trail-of-ashes/city/toa-ce-74-f.png",
+    "xws": "toace74f",
+    "assetno": "750"
+  },
+  {
+    "name": "toa-ce-74-b",
+    "points": 2035,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-74-b.png",
+    "xws": "toace74b",
+    "assetno": "750"
+  },
+  {
+    "name": "750",
+    "points": 2036,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-74-b.png",
+    "xws": "toace74b",
+    "assetno": "750"
   },
   {
     "name": "toa-ce-75-f",
-    "points": 2010,
+    "points": 2037,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/city/toa-ce-75-f.png",
-    "xws": "toace75f"
+    "xws": "toace75f",
+    "assetno": "751"
   },
   {
-    "name": "toa-re-61-b",
-    "points": 2011,
+    "name": "751",
+    "points": 2038,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-61-b.png",
-    "xws": "toare61b"
+    "image": "events/trail-of-ashes/city/toa-ce-75-f.png",
+    "xws": "toace75f",
+    "assetno": "751"
+  },
+  {
+    "name": "toa-ce-75-b",
+    "points": 2039,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-75-b.png",
+    "xws": "toace75b",
+    "assetno": "751"
+  },
+  {
+    "name": "751",
+    "points": 2040,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-75-b.png",
+    "xws": "toace75b",
+    "assetno": "751"
   },
   {
     "name": "toa-re-61-f",
-    "points": 2012,
+    "points": 2041,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-61-f.png",
-    "xws": "toare61f"
+    "xws": "toare61f",
+    "assetno": "662"
   },
   {
-    "name": "toa-re-62-b",
-    "points": 2013,
+    "name": "662",
+    "points": 2042,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-62-b.png",
-    "xws": "toare62b"
+    "image": "events/trail-of-ashes/road/toa-re-61-f.png",
+    "xws": "toare61f",
+    "assetno": "662"
+  },
+  {
+    "name": "toa-re-61-b",
+    "points": 2043,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-61-b.png",
+    "xws": "toare61b",
+    "assetno": "662"
+  },
+  {
+    "name": "662",
+    "points": 2044,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-61-b.png",
+    "xws": "toare61b",
+    "assetno": "662"
   },
   {
     "name": "toa-re-62-f",
-    "points": 2014,
+    "points": 2045,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-62-f.png",
-    "xws": "toare62f"
+    "xws": "toare62f",
+    "assetno": "663"
   },
   {
-    "name": "toa-re-63-b",
-    "points": 2015,
+    "name": "663",
+    "points": 2046,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-63-b.png",
-    "xws": "toare63b"
+    "image": "events/trail-of-ashes/road/toa-re-62-f.png",
+    "xws": "toare62f",
+    "assetno": "663"
+  },
+  {
+    "name": "toa-re-62-b",
+    "points": 2047,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-62-b.png",
+    "xws": "toare62b",
+    "assetno": "663"
+  },
+  {
+    "name": "663",
+    "points": 2048,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-62-b.png",
+    "xws": "toare62b",
+    "assetno": "663"
   },
   {
     "name": "toa-re-63-f",
-    "points": 2016,
+    "points": 2049,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-63-f.png",
-    "xws": "toare63f"
+    "xws": "toare63f",
+    "assetno": "664"
   },
   {
-    "name": "toa-re-64-b",
-    "points": 2017,
+    "name": "664",
+    "points": 2050,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-64-b.png",
-    "xws": "toare64b"
+    "image": "events/trail-of-ashes/road/toa-re-63-f.png",
+    "xws": "toare63f",
+    "assetno": "664"
+  },
+  {
+    "name": "toa-re-63-b",
+    "points": 2051,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-63-b.png",
+    "xws": "toare63b",
+    "assetno": "664"
+  },
+  {
+    "name": "664",
+    "points": 2052,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-63-b.png",
+    "xws": "toare63b",
+    "assetno": "664"
   },
   {
     "name": "toa-re-64-f",
-    "points": 2018,
+    "points": 2053,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-64-f.png",
-    "xws": "toare64f"
+    "xws": "toare64f",
+    "assetno": "665"
   },
   {
-    "name": "toa-re-65-b",
-    "points": 2019,
+    "name": "665",
+    "points": 2054,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-65-b.png",
-    "xws": "toare65b"
+    "image": "events/trail-of-ashes/road/toa-re-64-f.png",
+    "xws": "toare64f",
+    "assetno": "665"
+  },
+  {
+    "name": "toa-re-64-b",
+    "points": 2055,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-64-b.png",
+    "xws": "toare64b",
+    "assetno": "665"
+  },
+  {
+    "name": "665",
+    "points": 2056,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-64-b.png",
+    "xws": "toare64b",
+    "assetno": "665"
   },
   {
     "name": "toa-re-65-f",
-    "points": 2020,
+    "points": 2057,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-65-f.png",
-    "xws": "toare65f"
+    "xws": "toare65f",
+    "assetno": "666"
   },
   {
-    "name": "toa-re-66-b",
-    "points": 2021,
+    "name": "666",
+    "points": 2058,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-66-b.png",
-    "xws": "toare66b"
+    "image": "events/trail-of-ashes/road/toa-re-65-f.png",
+    "xws": "toare65f",
+    "assetno": "666"
+  },
+  {
+    "name": "toa-re-65-b",
+    "points": 2059,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-65-b.png",
+    "xws": "toare65b",
+    "assetno": "666"
+  },
+  {
+    "name": "666",
+    "points": 2060,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-65-b.png",
+    "xws": "toare65b",
+    "assetno": "666"
   },
   {
     "name": "toa-re-66-f",
-    "points": 2022,
+    "points": 2061,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-66-f.png",
-    "xws": "toare66f"
+    "xws": "toare66f",
+    "assetno": "667"
   },
   {
-    "name": "toa-re-67-b",
-    "points": 2023,
+    "name": "667",
+    "points": 2062,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-67-b.png",
-    "xws": "toare67b"
+    "image": "events/trail-of-ashes/road/toa-re-66-f.png",
+    "xws": "toare66f",
+    "assetno": "667"
+  },
+  {
+    "name": "toa-re-66-b",
+    "points": 2063,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-66-b.png",
+    "xws": "toare66b",
+    "assetno": "667"
+  },
+  {
+    "name": "667",
+    "points": 2064,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-66-b.png",
+    "xws": "toare66b",
+    "assetno": "667"
   },
   {
     "name": "toa-re-67-f",
-    "points": 2024,
+    "points": 2065,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-67-f.png",
-    "xws": "toare67f"
+    "xws": "toare67f",
+    "assetno": "668"
   },
   {
-    "name": "toa-re-68-b",
-    "points": 2025,
+    "name": "668",
+    "points": 2066,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-68-b.png",
-    "xws": "toare68b"
+    "image": "events/trail-of-ashes/road/toa-re-67-f.png",
+    "xws": "toare67f",
+    "assetno": "668"
+  },
+  {
+    "name": "toa-re-67-b",
+    "points": 2067,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-67-b.png",
+    "xws": "toare67b",
+    "assetno": "668"
+  },
+  {
+    "name": "668",
+    "points": 2068,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-67-b.png",
+    "xws": "toare67b",
+    "assetno": "668"
   },
   {
     "name": "toa-re-68-f",
-    "points": 2026,
+    "points": 2069,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-68-f.png",
-    "xws": "toare68f"
+    "xws": "toare68f",
+    "assetno": "669"
   },
   {
-    "name": "toa-re-69-b",
-    "points": 2027,
+    "name": "669",
+    "points": 2070,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-69-b.png",
-    "xws": "toare69b"
+    "image": "events/trail-of-ashes/road/toa-re-68-f.png",
+    "xws": "toare68f",
+    "assetno": "669"
+  },
+  {
+    "name": "toa-re-68-b",
+    "points": 2071,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-68-b.png",
+    "xws": "toare68b",
+    "assetno": "669"
+  },
+  {
+    "name": "669",
+    "points": 2072,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-68-b.png",
+    "xws": "toare68b",
+    "assetno": "669"
   },
   {
     "name": "toa-re-69-f",
-    "points": 2028,
+    "points": 2073,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-69-f.png",
-    "xws": "toare69f"
+    "xws": "toare69f",
+    "assetno": "670"
   },
   {
-    "name": "toa-re-70-b",
-    "points": 2029,
+    "name": "670",
+    "points": 2074,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-70-b.png",
-    "xws": "toare70b"
+    "image": "events/trail-of-ashes/road/toa-re-69-f.png",
+    "xws": "toare69f",
+    "assetno": "670"
+  },
+  {
+    "name": "toa-re-69-b",
+    "points": 2075,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-69-b.png",
+    "xws": "toare69b",
+    "assetno": "670"
+  },
+  {
+    "name": "670",
+    "points": 2076,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-69-b.png",
+    "xws": "toare69b",
+    "assetno": "670"
   },
   {
     "name": "toa-re-70-f",
-    "points": 2030,
+    "points": 2077,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-70-f.png",
-    "xws": "toare70f"
+    "xws": "toare70f",
+    "assetno": "671"
   },
   {
-    "name": "toa-re-71-b",
-    "points": 2031,
+    "name": "671",
+    "points": 2078,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-71-b.png",
-    "xws": "toare71b"
+    "image": "events/trail-of-ashes/road/toa-re-70-f.png",
+    "xws": "toare70f",
+    "assetno": "671"
+  },
+  {
+    "name": "toa-re-70-b",
+    "points": 2079,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-70-b.png",
+    "xws": "toare70b",
+    "assetno": "671"
+  },
+  {
+    "name": "671",
+    "points": 2080,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-70-b.png",
+    "xws": "toare70b",
+    "assetno": "671"
   },
   {
     "name": "toa-re-71-f",
-    "points": 2032,
+    "points": 2081,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-71-f.png",
-    "xws": "toare71f"
+    "xws": "toare71f",
+    "assetno": "672"
   },
   {
-    "name": "toa-re-72-b",
-    "points": 2033,
+    "name": "672",
+    "points": 2082,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-72-b.png",
-    "xws": "toare72b"
+    "image": "events/trail-of-ashes/road/toa-re-71-f.png",
+    "xws": "toare71f",
+    "assetno": "672"
+  },
+  {
+    "name": "toa-re-71-b",
+    "points": 2083,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-71-b.png",
+    "xws": "toare71b",
+    "assetno": "672"
+  },
+  {
+    "name": "672",
+    "points": 2084,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-71-b.png",
+    "xws": "toare71b",
+    "assetno": "672"
   },
   {
     "name": "toa-re-72-f",
-    "points": 2034,
+    "points": 2085,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-72-f.png",
-    "xws": "toare72f"
+    "xws": "toare72f",
+    "assetno": "673"
   },
   {
-    "name": "toa-re-73-b",
-    "points": 2035,
+    "name": "673",
+    "points": 2086,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-73-b.png",
-    "xws": "toare73b"
+    "image": "events/trail-of-ashes/road/toa-re-72-f.png",
+    "xws": "toare72f",
+    "assetno": "673"
+  },
+  {
+    "name": "toa-re-72-b",
+    "points": 2087,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-72-b.png",
+    "xws": "toare72b",
+    "assetno": "673"
+  },
+  {
+    "name": "673",
+    "points": 2088,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-72-b.png",
+    "xws": "toare72b",
+    "assetno": "673"
   },
   {
     "name": "toa-re-73-f",
-    "points": 2036,
+    "points": 2089,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-73-f.png",
-    "xws": "toare73f"
+    "xws": "toare73f",
+    "assetno": "674"
   },
   {
-    "name": "toa-re-74-b",
-    "points": 2037,
+    "name": "674",
+    "points": 2090,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-74-b.png",
-    "xws": "toare74b"
+    "image": "events/trail-of-ashes/road/toa-re-73-f.png",
+    "xws": "toare73f",
+    "assetno": "674"
+  },
+  {
+    "name": "toa-re-73-b",
+    "points": 2091,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-73-b.png",
+    "xws": "toare73b",
+    "assetno": "674"
+  },
+  {
+    "name": "674",
+    "points": 2092,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-73-b.png",
+    "xws": "toare73b",
+    "assetno": "674"
   },
   {
     "name": "toa-re-74-f",
-    "points": 2038,
+    "points": 2093,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-74-f.png",
-    "xws": "toare74f"
+    "xws": "toare74f",
+    "assetno": "752"
   },
   {
-    "name": "toa-re-75-b",
-    "points": 2039,
+    "name": "752",
+    "points": 2094,
     "expansion": "trail of ashes",
-    "image": "events/trail-of-ashes/road/toa-re-75-b.png",
-    "xws": "toare75b"
+    "image": "events/trail-of-ashes/road/toa-re-74-f.png",
+    "xws": "toare74f",
+    "assetno": "752"
+  },
+  {
+    "name": "toa-re-74-b",
+    "points": 2095,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-74-b.png",
+    "xws": "toare74b",
+    "assetno": "752"
+  },
+  {
+    "name": "752",
+    "points": 2096,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-74-b.png",
+    "xws": "toare74b",
+    "assetno": "752"
   },
   {
     "name": "toa-re-75-f",
-    "points": 2040,
+    "points": 2097,
     "expansion": "trail of ashes",
     "image": "events/trail-of-ashes/road/toa-re-75-f.png",
-    "xws": "toare75f"
+    "xws": "toare75f",
+    "assetno": "753"
+  },
+  {
+    "name": "753",
+    "points": 2098,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-75-f.png",
+    "xws": "toare75f",
+    "assetno": "753"
+  },
+  {
+    "name": "toa-re-75-b",
+    "points": 2099,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-75-b.png",
+    "xws": "toare75b",
+    "assetno": "753"
+  },
+  {
+    "name": "753",
+    "points": 2100,
+    "expansion": "trail of ashes",
+    "image": "events/trail-of-ashes/road/toa-re-75-b.png",
+    "xws": "toare75b",
+    "assetno": "753"
   }
 ]
