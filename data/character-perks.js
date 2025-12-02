@@ -1010,88 +1010,88 @@
   {
     "name": "incarnate perks",
     "points": 126,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-incarnate-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-incarnate-perks.png",
     "xws": "incarnateperks",
     "assetno": "###"
   },
   {
     "name": "three-eyes perks",
     "points": 127,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-incarnate-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-incarnate-perks.png",
     "xws": "threeeyesperks",
     "assetno": "###"
   },
   {
     "name": "rimehearth perks",
     "points": 128,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-rimehearth-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-rimehearth-perks.png",
     "xws": "rimehearthperks",
     "assetno": "###"
   },
   {
     "name": "ice meteor perks",
     "points": 129,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-rimehearth-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-rimehearth-perks.png",
     "xws": "icemeteorperks",
     "assetno": "###"
   },
   {
     "name": "shardrender perks",
     "points": 130,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-shardrender-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-shardrender-perks.png",
     "xws": "shardrenderperks",
     "assetno": "###"
   },
   {
     "name": "gemstone perks",
     "points": 131,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-shardrender-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-shardrender-perks.png",
     "xws": "gemstoneperks",
     "assetno": "###"
   },
   {
     "name": "tempest perks",
     "points": 132,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-tempest-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-tempest-perks.png",
     "xws": "tempestperks",
     "assetno": "###"
   },
   {
     "name": "storm cloud perks",
     "points": 133,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-tempest-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-tempest-perks.png",
     "xws": "stormcloudperks",
     "assetno": "###"
   },
   {
     "name": "thornreaper perks",
     "points": 134,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-thornreaper-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-thornreaper-perks.png",
     "xws": "thornreaperperks",
     "assetno": "###"
   },
   {
     "name": "spiked ring perks",
     "points": 135,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-thornreaper-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-thornreaper-perks.png",
     "xws": "spikedringperks",
     "assetno": "###"
   },
   {
     "name": "vanquisher perks",
     "points": 136,
-    "expansion": "crimson scales",
-    "image": "character-perks/crimson-scales/toa-vanquisher-perks.png",
+    "expansion": "trail of ashes",
+    "image": "character-perks/trail-of-ashes/toa-vanquisher-perks.png",
     "xws": "vanquisherperks",
     "assetno": "###"
   }
