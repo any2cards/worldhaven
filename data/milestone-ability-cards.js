@@ -4,279 +4,703 @@
     "points": 0,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-amber-aegis.png",
-    "xws": "amberaegismilestonereward"
+    "xws": "amberaegismilestonereward",
+    "level": "m",
+    "initiative": "39",
+    "character-xws": "amber aegis",
+    "assetno": "686"
+  },
+  {
+    "name": "686",
+    "points": 1,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-amber-aegis.png",
+    "xws": "amberaegismilestonereward",
+    "level": "m",
+    "initiative": "39",
+    "character-xws": "amber aegis",
+    "assetno": "686"
   },
   {
     "name": "amber aegis milestone reward",
-    "points": 1,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-amber-aegis-back.png",
-    "xws": "amberaegismilestonereward"
-  },
-  {
-    "name": "artificer milestone reward",
     "points": 2,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-artificer.png",
-    "xws": "artificermilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-amber-aegis-back.png",
+    "xws": "amberaegismilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "amber aegis",
+    "assetno": "###"
   },
   {
     "name": "artificer milestone reward",
     "points": 3,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-artificer-back.png",
-    "xws": "artificermilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-artificer.png",
+    "xws": "artificermilestonereward",
+    "level": "m",
+    "initiative": "75",
+    "character-xws": "artificer",
+    "assetno": "687"
   },
   {
-    "name": "bombard milestone reward",
+    "name": "687",
     "points": 4,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-bombard.png",
-    "xws": "bombardmilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-artificer.png",
+    "xws": "artificermilestonereward",
+    "level": "m",
+    "initiative": "75",
+    "character-xws": "artificer",
+    "assetno": "687"
+  },
+  {
+    "name": "artificer milestone reward",
+    "points": 5,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-artificer-back.png",
+    "xws": "artificermilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "artificer",
+    "assetno": "###"
   },
   {
     "name": "bombard milestone reward",
-    "points": 5,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-bombard-back.png",
-    "xws": "bombardmilestonereward"
-  },
-  {
-    "name": "brightspark milestone reward",
     "points": 6,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-brightspark.png",
-    "xws": "brightsparkmilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-bombard.png",
+    "xws": "bombardmilestonereward",
+    "level": "m",
+    "initiative": "17",
+    "character-xws": "bombard",
+    "assetno": "675"
+  },
+  {
+    "name": "675",
+    "points": 7,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-bombard.png",
+    "xws": "bombardmilestonereward",
+    "level": "m",
+    "initiative": "17",
+    "character-xws": "bombard",
+    "assetno": "675"
+  },
+  {
+    "name": "bombard milestone reward",
+    "points": 8,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-bombard-back.png",
+    "xws": "bombardmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "bombard",
+    "assetno": "###"
   },
   {
     "name": "brightspark milestone reward",
-    "points": 7,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-brightspark-back.png",
-    "xws": "brightsparkmilestonereward"
-  },
-  {
-    "name": "chainguard milestone reward",
-    "points": 8,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chainguard.png",
-    "xws": "chainguardmilestonereward"
-  },
-  {
-    "name": "chainguard milestone reward",
     "points": 9,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chainguard-back.png",
-    "xws": "chainguardmilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-brightspark.png",
+    "xws": "brightsparkmilestonereward",
+    "level": "m",
+    "initiative": "40",
+    "character-xws": "brightspark",
+    "assetno": "676"
   },
   {
-    "name": "chieftain milestone reward",
+    "name": "676",
     "points": 10,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chieftain.png",
-    "xws": "chieftainmilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-brightspark.png",
+    "xws": "brightsparkmilestonereward",
+    "level": "m",
+    "initiative": "40",
+    "character-xws": "brightspark",
+    "assetno": "676"
+  },
+  {
+    "name": "brightspark milestone reward",
+    "points": 11,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-brightspark-back.png",
+    "xws": "brightsparkmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "brightspark",
+    "assetno": "###"
+  },
+  {
+    "name": "chainguard milestone reward",
+    "points": 12,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chainguard.png",
+    "xws": "chainguardmilestonereward",
+    "level": "m",
+    "initiative": "32",
+    "character-xws": "chainguard",
+    "assetno": "677"
+  },
+  {
+    "name": "677",
+    "points": 13,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chainguard.png",
+    "xws": "chainguardmilestonereward",
+    "level": "m",
+    "initiative": "32",
+    "character-xws": "chainguard",
+    "assetno": "677"
+  },
+  {
+    "name": "chainguard milestone reward",
+    "points": 14,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chainguard-back.png",
+    "xws": "chainguardmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "chainguard",
+    "assetno": "###"
   },
   {
     "name": "chieftain milestone reward",
-    "points": 11,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chieftain-back.png",
-    "xws": "chieftainmilestonereward"
-  },
-  {
-    "name": "fire knight milestone reward",
-    "points": 12,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-fire-knight.png",
-    "xws": "fireknightmilestonereward"
-  },
-  {
-    "name": "fire knight milestone reward",
-    "points": 13,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-fire-knight-back.png",
-    "xws": "fireknightmilestonereward"
-  },
-  {
-    "name": "hierophant milestone reward",
-    "points": 14,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hierophant.png",
-    "xws": "hierophantmilestonereward"
-  },
-  {
-    "name": "hierophant milestone reward",
     "points": 15,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hierophant-back.png",
-    "xws": "hierophantmilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chieftain.png",
+    "xws": "chieftainmilestonereward",
+    "level": "m",
+    "initiative": "10",
+    "character-xws": "chieftain",
+    "assetno": "678"
   },
   {
-    "name": "hollowpact milestone reward",
+    "name": "678",
     "points": 16,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hollowpact.png",
-    "xws": "hollowpactmilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chieftain.png",
+    "xws": "chieftainmilestonereward",
+    "level": "m",
+    "initiative": "10",
+    "character-xws": "chieftain",
+    "assetno": "678"
+  },
+  {
+    "name": "warrior hawk",
+    "points": 17,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chieftain.png",
+    "xws": "warriorhawk",
+    "level": "m",
+    "initiative": "10",
+    "character-xws": "chieftain",
+    "assetno": "678"
+  },
+  {
+    "name": "swamp hippo",
+    "points": 18,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chieftain.png",
+    "xws": "swamphippo",
+    "level": "m",
+    "initiative": "10",
+    "character-xws": "chieftain",
+    "assetno": "678"
+  },
+  {
+    "name": "chieftain milestone reward",
+    "points": 19,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-chieftain-back.png",
+    "xws": "chieftainmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "chieftain",
+    "assetno": "###"
+  },
+  {
+    "name": "fire knight milestone reward",
+    "points": 20,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-fire-knight.png",
+    "xws": "fireknightmilestonereward",
+    "level": "m",
+    "initiative": "16",
+    "character-xws": "fire knight",
+    "assetno": "679"
+  },
+  {
+    "name": "679",
+    "points": 21,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-fire-knight.png",
+    "xws": "fireknightmilestonereward",
+    "level": "m",
+    "initiative": "16",
+    "character-xws": "fire knight",
+    "assetno": "679"
+  },
+  {
+    "name": "fire knight milestone reward",
+    "points": 22,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-fire-knight-back.png",
+    "xws": "fireknightmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "fire knight",
+    "assetno": "###"
+  },
+  {
+    "name": "hierophant milestone reward",
+    "points": 23,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hierophant.png",
+    "xws": "hierophantmilestonereward",
+    "level": "m",
+    "initiative": "80",
+    "character-xws": "hierophant",
+    "assetno": "680"
+  },
+  {
+    "name": "680",
+    "points": 24,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hierophant.png",
+    "xws": "hierophantmilestonereward",
+    "level": "m",
+    "initiative": "80",
+    "character-xws": "hierophant",
+    "assetno": "680"
+  },
+  {
+    "name": "hierophant milestone reward",
+    "points": 25,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hierophant-back.png",
+    "xws": "hierophantmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "hierophant",
+    "assetno": "###"
   },
   {
     "name": "hollowpact milestone reward",
-    "points": 17,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hollowpact-back.png",
-    "xws": "hollowpactmilestonereward"
-  },
-  {
-    "name": "incarnate milestone reward",
-    "points": 18,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-incarnate.png",
-    "xws": "incarnatemilestonereward"
-  },
-  {
-    "name": "incarnate milestone reward",
-    "points": 19,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-incarnate-back.png",
-    "xws": "incarnatemilestonereward"
-  },
-  {
-    "name": "luminary milestone reward",
-    "points": 20,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-luminary.png",
-    "xws": "luminarymilestonereward"
-  },
-  {
-    "name": "luminary milestone reward",
-    "points": 21,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-luminary-back.png",
-    "xws": "luminarymilestonereward"
-  },
-  {
-    "name": "mirefoot milestone reward",
-    "points": 22,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-mirefoot.png",
-    "xws": "mirefootmilestonereward"
-  },
-  {
-    "name": "mirefoot milestone reward",
-    "points": 23,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-mirefoot-back.png",
-    "xws": "mirefootmilestonereward"
-  },
-  {
-    "name": "rimehearth milestone reward",
-    "points": 24,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-rimehearth.png",
-    "xws": "rimehearthmilestonereward"
-  },
-  {
-    "name": "rimehearth milestone reward",
-    "points": 25,
-    "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-rimehearth-back.png",
-    "xws": "rimehearthmilestonereward"
-  },
-  {
-    "name": "ruinmaw milestone reward",
     "points": 26,
     "expansion": "trail of ashes",
-    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-ruinmaw.png",
-    "xws": "ruinmawmilestonereward"
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hollowpact.png",
+    "xws": "hollowpactmilestonereward",
+    "level": "m",
+    "initiative": "35",
+    "character-xws": "hollowpact",
+    "assetno": "681"
+  },
+  {
+    "name": "681",
+    "points": 27,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hollowpact.png",
+    "xws": "hollowpactmilestonereward",
+    "level": "m",
+    "initiative": "35",
+    "character-xws": "hollowpact",
+    "assetno": "681"
+  },
+  {
+    "name": "hollowpact milestone reward",
+    "points": 28,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-hollowpact-back.png",
+    "xws": "hollowpactmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "hollowpact",
+    "assetno": "###"
+  },
+  {
+    "name": "incarnate milestone reward",
+    "points": 29,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-incarnate.png",
+    "xws": "incarnatemilestonereward",
+    "level": "m",
+    "initiative": "44",
+    "character-xws": "incarnate",
+    "assetno": "518"
+  },
+  {
+    "name": "518",
+    "points": 30,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-incarnate.png",
+    "xws": "incarnatemilestonereward",
+    "level": "m",
+    "initiative": "44",
+    "character-xws": "incarnate",
+    "assetno": "518"
+  },
+  {
+    "name": "incarnate milestone reward",
+    "points": 31,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-incarnate-back.png",
+    "xws": "incarnatemilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "incarnate",
+    "assetno": "###"
+  },
+  {
+    "name": "luminary milestone reward",
+    "points": 32,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-luminary.png",
+    "xws": "luminarymilestonereward",
+    "level": "m",
+    "initiative": "47",
+    "character-xws": "luminary",
+    "assetno": "682"
+  },
+  {
+    "name": "682",
+    "points": 33,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-luminary.png",
+    "xws": "luminarymilestonereward",
+    "level": "m",
+    "initiative": "47",
+    "character-xws": "luminary",
+    "assetno": "682"
+  },
+  {
+    "name": "luminary milestone reward",
+    "points": 34,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-luminary-back.png",
+    "xws": "luminarymilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "luminary",
+    "assetno": "###"
+  },
+  {
+    "name": "mirefoot milestone reward",
+    "points": 35,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-mirefoot.png",
+    "xws": "mirefootmilestonereward",
+    "level": "m",
+    "initiative": "22",
+    "character-xws": "mirefoot",
+    "assetno": "683"
+  },
+  {
+    "name": "683",
+    "points": 36,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-mirefoot.png",
+    "xws": "mirefootmilestonereward",
+    "level": "m",
+    "initiative": "22",
+    "character-xws": "mirefoot",
+    "assetno": "683"
+  },
+  {
+    "name": "mirefoot milestone reward",
+    "points": 37,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-mirefoot-back.png",
+    "xws": "mirefootmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "mirefoot",
+    "assetno": "###"
+  },
+  {
+    "name": "rimehearth milestone reward",
+    "points": 38,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-rimehearth.png",
+    "xws": "rimehearthmilestonereward",
+    "level": "m",
+    "initiative": "30",
+    "character-xws": "rimehearth",
+    "assetno": "548"
+  },
+  {
+    "name": "548",
+    "points": 39,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-rimehearth.png",
+    "xws": "rimehearthmilestonereward",
+    "level": "m",
+    "initiative": "30",
+    "character-xws": "rimehearth",
+    "assetno": "548"
+  },
+  {
+    "name": "rimehearth milestone reward",
+    "points": 40,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-rimehearth-back.png",
+    "xws": "rimehearthmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "rimehearth",
+    "assetno": "###"
   },
   {
     "name": "ruinmaw milestone reward",
-    "points": 27,
+    "points": 41,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-ruinmaw.png",
+    "xws": "ruinmawmilestonereward",
+    "level": "m",
+    "initiative": "67",
+    "character-xws": "ruinmaw",
+    "assetno": "688"
+  },
+  {
+    "name": "688",
+    "points": 42,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-ruinmaw.png",
+    "xws": "ruinmawmilestonereward",
+    "level": "m",
+    "initiative": "67",
+    "character-xws": "ruinmaw",
+    "assetno": "688"
+  },
+  {
+    "name": "ruinmaw milestone reward",
+    "points": 43,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-ruinmaw-back.png",
-    "xws": "ruinmawmilestonereward"
+    "xws": "ruinmawmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "ruinmaw",
+    "assetno": "###"
   },
   {
     "name": "shardrender milestone reward",
-    "points": 28,
+    "points": 44,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-shardrender.png",
-    "xws": "shardrendermilestonereward"
+    "xws": "shardrendermilestonereward",
+    "level": "m",
+    "initiative": "73",
+    "character-xws": "shardrender",
+    "assetno": "579"
+  },
+  {
+    "name": "579",
+    "points": 45,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-shardrender.png",
+    "xws": "shardrendermilestonereward",
+    "level": "m",
+    "initiative": "73",
+    "character-xws": "shardrender",
+    "assetno": "579"
   },
   {
     "name": "shardrender milestone reward",
-    "points": 29,
+    "points": 46,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-shardrender-back.png",
-    "xws": "shardrendermilestonereward"
+    "xws": "shardrendermilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "shardrender",
+    "assetno": "###"
   },
   {
     "name": "spirit caller milestone reward",
-    "points": 30,
+    "points": 47,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-spirit-caller.png",
-    "xws": "spiritcallermilestonereward"
+    "xws": "spiritcallermilestonereward",
+    "level": "m",
+    "initiative": "33",
+    "character-xws": "spirit caller",
+    "assetno": "684"
+  },
+  {
+    "name": "684",
+    "points": 48,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-spirit-caller.png",
+    "xws": "spiritcallermilestonereward",
+    "level": "m",
+    "initiative": "33",
+    "character-xws": "spirit caller",
+    "assetno": "684"
+  },
+  {
+    "name": "reaching tentacle",
+    "points": 49,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-spirit-caller.png",
+    "xws": "reachingtentacle",
+    "level": "m",
+    "initiative": "33",
+    "character-xws": "spirit caller",
+    "assetno": "684"
+  },
+  {
+    "name": "one-eyed terror",
+    "points": 50,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-spirit-caller.png",
+    "xws": "oneeyedterror",
+    "level": "m",
+    "initiative": "33",
+    "character-xws": "spirit caller",
+    "assetno": "684"
   },
   {
     "name": "spirit caller milestone reward",
-    "points": 31,
+    "points": 51,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-spirit-caller-back.png",
-    "xws": "spiritcallermilestonereward"
+    "xws": "spiritcallermilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "spirit caller",
+    "assetno": "###"
   },
   {
     "name": "starslinger milestone reward",
-    "points": 32,
+    "points": 52,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-starslinger.png",
-    "xws": "starslingermilestonereward"
+    "xws": "starslingermilestonereward",
+    "level": "m",
+    "initiative": "46",
+    "character-xws": "starslinger",
+    "assetno": "685"
+  },
+  {
+    "name": "685",
+    "points": 53,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-starslinger.png",
+    "xws": "starslingermilestonereward",
+    "level": "m",
+    "initiative": "46",
+    "character-xws": "starslinger",
+    "assetno": "685"
   },
   {
     "name": "starslinger milestone reward",
-    "points": 33,
+    "points": 54,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-starslinger-back.png",
-    "xws": "starslingermilestonereward"
+    "xws": "starslingermilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "starslinger",
+    "assetno": "###"
   },
   {
     "name": "tempest milestone reward",
-    "points": 34,
+    "points": 55,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-tempest.png",
-    "xws": "tempestmilestonereward"
+    "xws": "tempestmilestonereward",
+    "level": "m",
+    "initiative": "25",
+    "character-xws": "tempest",
+    "assetno": "609"
+  },
+  {
+    "name": "609",
+    "points": 56,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-tempest.png",
+    "xws": "tempestmilestonereward",
+    "level": "m",
+    "initiative": "25",
+    "character-xws": "tempest",
+    "assetno": "609"
   },
   {
     "name": "tempest milestone reward",
-    "points": 35,
+    "points": 57,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-tempest-back.png",
-    "xws": "tempestmilestonereward"
+    "xws": "tempestmilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "tempest",
+    "assetno": "###"
   },
   {
     "name": "thornreaper milestone reward",
-    "points": 36,
+    "points": 58,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-thornreaper.png",
-    "xws": "thornreapermilestonereward"
+    "xws": "thornreapermilestonereward",
+    "level": "m",
+    "initiative": "42",
+    "character-xws": "thornreaper",
+    "assetno": "640"
+  },
+  {
+    "name": "640",
+    "points": 59,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-thornreaper.png",
+    "xws": "thornreapermilestonereward",
+    "level": "m",
+    "initiative": "42",
+    "character-xws": "thornreaper",
+    "assetno": "640"
   },
   {
     "name": "thornreaper milestone reward",
-    "points": 37,
+    "points": 60,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-thornreaper-back.png",
-    "xws": "thornreapermilestonereward"
+    "xws": "thornreapermilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "thornreaper",
+    "assetno": "###"
   },
   {
     "name": "vanquisher milestone reward",
-    "points": 38,
+    "points": 61,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-vanquisher.png",
-    "xws": "vanquishermilestonereward"
+    "xws": "vanquishermilestonereward",
+    "level": "m",
+    "initiative": "69",
+    "character-xws": "vanquisher",
+    "assetno": "749"
+  },
+  {
+    "name": "749",
+    "points": 62,
+    "expansion": "trail of ashes",
+    "image": "milestone-ability-cards/trail-of-ashes/toa-msa-vanquisher.png",
+    "xws": "vanquishermilestonereward",
+    "level": "m",
+    "initiative": "69",
+    "character-xws": "vanquisher",
+    "assetno": "749"
   },
   {
     "name": "vanquisher milestone reward",
-    "points": 39,
+    "points": 63,
     "expansion": "trail of ashes",
     "image": "milestone-ability-cards/trail-of-ashes/toa-msa-vanquisher-back.png",
-    "xws": "vanquishermilestonereward"
+    "xws": "vanquishermilestonereward",
+    "level": "#",
+    "initiative": "##",
+    "character-xws": "vanquisher",
+    "assetno": "###"
   }
 ]
