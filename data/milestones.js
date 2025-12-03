@@ -564,83 +564,223 @@
     "points": 70,
     "expansion": "trail of ashes",
     "image": "milestones/trail-of-ashes/toa-ms-incarnate-front.png",
-    "xws": "incarnatemilestone"
+    "xws": "incarnatemilestone",
+    "assetno": "697"
+  },
+  {
+    "name": "697",
+    "points": 71,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-incarnate-front.png",
+    "xws": "incarnatemilestone",
+    "assetno": "697"
   },
   {
     "name": "incarnate milestone",
-    "points": 71,
-    "expansion": "trail of ashes",
-    "image": "milestones/trail-of-ashes/toa-ms-incarnate-back.png",
-    "xws": "incarnatemilestone"
-  },
-  {
-    "name": "rimehearth milestone",
     "points": 72,
     "expansion": "trail of ashes",
-    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-front.png",
-    "xws": "rimehearthmilestone"
+    "image": "milestones/trail-of-ashes/toa-ms-incarnate-back.png",
+    "xws": "incarnatemilestone",
+    "assetno": "###"
+  },
+  {
+    "name": "three-eyes milestone",
+    "points": 73,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-incarnate-front.png",
+    "xws": "threeeyesmilestone",
+    "assetno": "697"
+  },
+  {
+    "name": "three-eyes milestone",
+    "points": 74,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-incarnate-back.png",
+    "xws": "threeeyesmilestone",
+    "assetno": "###"
   },
   {
     "name": "rimehearth milestone",
-    "points": 73,
-    "expansion": "trail of ashes",
-    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-back.png",
-    "xws": "rimehearthmilestone"
-  },
-  {
-    "name": "shardrender milestone",
-    "points": 74,
-    "expansion": "trail of ashes",
-    "image": "milestones/trail-of-ashes/toa-ms-shardrender-front.png",
-    "xws": "shardrendermilestone"
-  },
-  {
-    "name": "shardrender milestone",
     "points": 75,
     "expansion": "trail of ashes",
-    "image": "milestones/trail-of-ashes/toa-ms-shardrender-back.png",
-    "xws": "shardrendermilestone"
+    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-front.png",
+    "xws": "rimehearthmilestone",
+    "assetno": "698"
   },
   {
-    "name": "tempest milestone",
+    "name": "698",
     "points": 76,
     "expansion": "trail of ashes",
-    "image": "milestones/trail-of-ashes/toa-ms-tempest-front.png",
-    "xws": "tempestmilestone"
+    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-front.png",
+    "xws": "rimehearthmilestone",
+    "assetno": "698"
+  },
+  {
+    "name": "rimehearth milestone",
+    "points": 77,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-back.png",
+    "xws": "rimehearthmilestone",
+    "assetno": "###"
+  },
+  {
+    "name": "ice meteor milestone",
+    "points": 78,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-front.png",
+    "xws": "icemeteormilestone",
+    "assetno": "698"
+  },
+  {
+    "name": "ice meteor milestone",
+    "points": 79,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-back.png",
+    "xws": "icemeteormilestone",
+    "assetno": "###"
+  },
+  {
+    "name": "shardrender milestone",
+    "points": 80,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-shardrender-front.png",
+    "xws": "shardrendermilestone",
+    "assetno": "699"
+  },
+  {
+    "name": "699",
+    "points": 81,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-shardrender-front.png",
+    "xws": "shardrendermilestone",
+    "assetno": "699"
+  },
+  {
+    "name": "shardrender milestone",
+    "points": 82,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-shardrender-back.png",
+    "xws": "shardrendermilestone",
+    "assetno": "###"
+  },
+  {
+    "name": "gemstone milestone",
+    "points": 83,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-shardrender-front.png",
+    "xws": "gemstonemilestone",
+    "assetno": "699"
+  },
+  {
+    "name": "gemstone milestone",
+    "points": 84,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-shardrender-back.png",
+    "xws": "gemstonemilestone",
+    "assetno": "###"
   },
   {
     "name": "tempest milestone",
-    "points": 77,
+    "points": 85,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-tempest-front.png",
+    "xws": "tempestmilestone",
+    "assetno": "700"
+  },
+  {
+    "name": "700",
+    "points": 86,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-tempest-front.png",
+    "xws": "tempestmilestone",
+    "assetno": "700"
+  },
+  {
+    "name": "tempest milestone",
+    "points": 87,
     "expansion": "trail of ashes",
     "image": "milestones/trail-of-ashes/toa-ms-tempest-back.png",
-    "xws": "tempestmilestone"
+    "xws": "tempestmilestone",
+    "assetno": "###"
+  },
+  {
+    "name": "storm cloud milestone",
+    "points": 88,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-tempest-front.png",
+    "xws": "stormcloudmilestone",
+    "assetno": "700"
+  },
+  {
+    "name": "storm cloud milestone",
+    "points": 89,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-tempest-back.png",
+    "xws": "stormcloudmilestone",
+    "assetno": "###"
   },
   {
     "name": "thornreaper milestone",
-    "points": 78,
+    "points": 90,
     "expansion": "trail of ashes",
     "image": "milestones/trail-of-ashes/toa-ms-thornreaper-front.png",
-    "xws": "thornreapermilestone"
+    "xws": "thornreapermilestone",
+    "assetno": "701"
+  },
+  {
+    "name": "701",
+    "points": 91,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-thornreaper-front.png",
+    "xws": "thornreapermilestone",
+    "assetno": "701"
   },
   {
     "name": "thornreaper milestone",
-    "points": 79,
+    "points": 92,
     "expansion": "trail of ashes",
     "image": "milestones/trail-of-ashes/toa-ms-thornreaper-back.png",
-    "xws": "thornreapermilestone"
+    "xws": "thornreapermilestone",
+    "assetno": "###"
+  },
+  {
+    "name": "spiked ring milestone",
+    "points": 93,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-thornreaper-front.png",
+    "xws": "spikedringmilestone",
+    "assetno": "701"
+  },
+  {
+    "name": "spiked ring milestone",
+    "points": 94,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-thornreaper-back.png",
+    "xws": "spikedringmilestone",
+    "assetno": "###"
   },
   {
     "name": "vanquisher milestone",
-    "points": 80,
+    "points": 95,
     "expansion": "trail of ashes",
     "image": "milestones/trail-of-ashes/toa-ms-vanquisher-front.png",
-    "xws": "vanquishermilestone"
+    "xws": "vanquishermilestone",
+    "assetno": "753"
+  },
+  {
+    "name": "753",
+    "points": 96,
+    "expansion": "trail of ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-vanquisher-front.png",
+    "xws": "vanquishermilestone",
+    "assetno": "753"
   },
   {
     "name": "vanquisher milestone",
-    "points": 81,
+    "points": 97,
     "expansion": "trail of ashes",
     "image": "milestones/trail-of-ashes/toa-ms-vanquisher-back.png",
-    "xws": "vanquishermilestone"
+    "xws": "vanquishermilestone",
+    "assetno": "###"
   }
 ]
