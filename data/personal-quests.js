@@ -1824,11 +1824,11 @@
     "assetno": "###"
   },
   {
-    "name": "toa-pq-641.png",
+    "name": "toa-pq-641",
     "points": 228,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
-    "xws": "toapq641png",
+    "xws": "toapq641",
     "assetno": "641"
   },
   {
@@ -1836,7 +1836,7 @@
     "points": 229,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
-    "xws": "toapq641png",
+    "xws": "toapq641",
     "assetno": "641"
   },
   {
@@ -1848,243 +1848,179 @@
     "assetno": "641"
   },
   {
-    "name": "641",
+    "name": "toa-pq-642",
     "points": 231,
     "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
-    "xws": "graverobber",
-    "assetno": "641"
-  },
-  {
-    "name": "toa-pq-642.png",
-    "points": 232,
-    "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
-    "xws": "toapq642png",
+    "xws": "toapq642",
     "assetno": "642"
   },
   {
     "name": "642",
-    "points": 233,
+    "points": 232,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
-    "xws": "toapq642png",
+    "xws": "toapq642",
     "assetno": "642"
   },
   {
     "name": "stand as one",
+    "points": 233,
+    "expansion": "trail of ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
+    "xws": "standasone",
+    "assetno": "642"
+  },
+  {
+    "name": "toa-pq-643",
     "points": 234,
     "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
-    "xws": "standasone",
-    "assetno": "642"
-  },
-  {
-    "name": "642",
-    "points": 235,
-    "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
-    "xws": "standasone",
-    "assetno": "642"
-  },
-  {
-    "name": "toa-pq-643.png",
-    "points": 236,
-    "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
-    "xws": "toapq643png",
+    "xws": "toapq643",
     "assetno": "643"
   },
   {
     "name": "643",
-    "points": 237,
+    "points": 235,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
-    "xws": "toapq643png",
+    "xws": "toapq643",
     "assetno": "643"
   },
   {
     "name": "false dichotomies",
-    "points": 238,
+    "points": 236,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
     "xws": "falsedichotomies",
     "assetno": "643"
   },
   {
-    "name": "643",
-    "points": 239,
-    "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
-    "xws": "falsedichotomies",
-    "assetno": "643"
-  },
-  {
-    "name": "toa-pq-644.png",
-    "points": 240,
+    "name": "toa-pq-644",
+    "points": 237,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
-    "xws": "toapq644png",
+    "xws": "toapq644",
     "assetno": "644"
   },
   {
     "name": "644",
-    "points": 241,
+    "points": 238,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
-    "xws": "toapq644png",
+    "xws": "toapq644",
     "assetno": "644"
   },
   {
     "name": "shared suffering",
-    "points": 242,
+    "points": 239,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
     "xws": "sharedsuffering",
     "assetno": "644"
   },
   {
-    "name": "644",
-    "points": 243,
-    "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
-    "xws": "sharedsuffering",
-    "assetno": "644"
-  },
-  {
-    "name": "toa-pq-645.png",
-    "points": 244,
+    "name": "toa-pq-645",
+    "points": 240,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
-    "xws": "toapq645png",
+    "xws": "toapq645",
     "assetno": "645"
   },
   {
     "name": "645",
-    "points": 245,
+    "points": 241,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
-    "xws": "toapq645png",
+    "xws": "toapq645",
     "assetno": "645"
   },
   {
     "name": "speed is king",
-    "points": 246,
+    "points": 242,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
     "xws": "speedisking",
     "assetno": "645"
   },
   {
-    "name": "645",
-    "points": 247,
-    "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
-    "xws": "speedisking",
-    "assetno": "645"
-  },
-  {
-    "name": "toa-pq-646.png",
-    "points": 248,
+    "name": "toa-pq-646",
+    "points": 243,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
-    "xws": "toapq646png",
+    "xws": "toapq646",
     "assetno": "646"
   },
   {
     "name": "646",
-    "points": 249,
+    "points": 244,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
-    "xws": "toapq646png",
+    "xws": "toapq646",
     "assetno": "646"
   },
   {
     "name": "resourceful",
-    "points": 250,
+    "points": 245,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
     "xws": "resourceful",
     "assetno": "646"
   },
   {
-    "name": "646",
-    "points": 251,
-    "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
-    "xws": "resourceful",
-    "assetno": "646"
-  },
-  {
-    "name": "toa-pq-647.png",
-    "points": 252,
+    "name": "toa-pq-647",
+    "points": 246,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
-    "xws": "toapq647png",
+    "xws": "toapq647",
     "assetno": "647"
   },
   {
     "name": "647",
-    "points": 253,
+    "points": 247,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
-    "xws": "toapq647png",
+    "xws": "toapq647",
     "assetno": "647"
   },
   {
     "name": "close to nature",
-    "points": 254,
+    "points": 248,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
     "xws": "closetonature",
     "assetno": "647"
   },
   {
-    "name": "647",
-    "points": 255,
-    "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
-    "xws": "closetonature",
-    "assetno": "647"
-  },
-  {
-    "name": "toa-pq-648.png",
-    "points": 256,
+    "name": "toa-pq-648",
+    "points": 249,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
-    "xws": "toapq648png",
+    "xws": "toapq648",
     "assetno": "648"
   },
   {
     "name": "648",
-    "points": 257,
+    "points": 250,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
-    "xws": "toapq648png",
+    "xws": "toapq648",
     "assetno": "648"
   },
   {
     "name": "in good time",
-    "points": 258,
+    "points": 251,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
     "xws": "ingoodtime",
     "assetno": "648"
   },
   {
-    "name": "648",
-    "points": 259,
-    "expansion": "trail of ashes",
-    "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
-    "xws": "ingoodtime",
-    "assetno": "648"
-  },
-  {
-    "name": "toa-pq-back.png",
-    "points": 260,
+    "name": "toa-pq-back",
+    "points": 252,
     "expansion": "trail of ashes",
     "image": "personal-quests/trail-of-ashes/toa-pq-back.png",
-    "xws": "toapqbackpng",
+    "xws": "toapqback",
     "assetno": "###"
   }
 ]
