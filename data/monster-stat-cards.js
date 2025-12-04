@@ -2740,139 +2740,159 @@
     "points": 342,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-0.png",
-    "xws": "harrowerbugflute"
+    "xws": "harrowerbugflute",
+    "assetno": "###"
   },
   {
     "name": "harrower bugflute",
     "points": 343,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-2.png",
-    "xws": "harrowerbugflute"
+    "xws": "harrowerbugflute",
+    "assetno": "###"
   },
   {
     "name": "harrower bugflute",
     "points": 344,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-4.png",
-    "xws": "harrowerbugflute"
+    "xws": "harrowerbugflute",
+    "assetno": "###"
   },
   {
     "name": "harrower bugflute",
     "points": 345,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-6.png",
-    "xws": "harrowerbugflute"
+    "xws": "harrowerbugflute",
+    "assetno": "###"
   },
   {
     "name": "shardrender",
     "points": 346,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-0.png",
-    "xws": "shardrender"
+    "xws": "shardrender",
+    "assetno": "###"
   },
   {
     "name": "shardrender",
     "points": 347,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-2.png",
-    "xws": "shardrender"
+    "xws": "shardrender",
+    "assetno": "###"
   },
   {
     "name": "shardrender",
     "points": 348,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-4.png",
-    "xws": "shardrender"
+    "xws": "shardrender",
+    "assetno": "###"
   },
   {
     "name": "shardrender",
     "points": 349,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-6.png",
-    "xws": "shardrender"
+    "xws": "shardrender",
+    "assetno": "###"
   },
   {
     "name": "smoke spirit",
     "points": 350,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-0.png",
-    "xws": "smokespirit"
+    "xws": "smokespirit",
+    "assetno": "###"
   },
   {
     "name": "smoke spirit",
     "points": 351,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-2.png",
-    "xws": "smokespirit"
+    "xws": "smokespirit",
+    "assetno": "###"
   },
   {
     "name": "smoke spirit",
     "points": 352,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-4.png",
-    "xws": "smokespirit"
+    "xws": "smokespirit",
+    "assetno": "###"
   },
   {
     "name": "smoke spirit",
     "points": 353,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-6.png",
-    "xws": "smokespirit"
+    "xws": "smokespirit",
+    "assetno": "###"
   },
   {
     "name": "talo",
     "points": 354,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-0.png",
-    "xws": "talo"
+    "xws": "talo",
+    "assetno": "###"
   },
   {
     "name": "talo",
     "points": 355,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-2.png",
-    "xws": "talo"
+    "xws": "talo",
+    "assetno": "###"
   },
   {
     "name": "talo",
     "points": 356,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-4.png",
-    "xws": "talo"
+    "xws": "talo",
+    "assetno": "###"
   },
   {
     "name": "talo",
     "points": 357,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-talo-6.png",
-    "xws": "talo"
+    "xws": "talo",
+    "assetno": "###"
   },
   {
     "name": "valrath vanquisher",
     "points": 358,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-0.png",
-    "xws": "valrathvanquisher"
+    "xws": "valrathvanquisher",
+    "assetno": "###"
   },
   {
     "name": "valrath vanquisher",
     "points": 359,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-2.png",
-    "xws": "valrathvanquisher"
+    "xws": "valrathvanquisher",
+    "assetno": "###"
   },
   {
     "name": "valrath vanquisher",
     "points": 360,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-4.png",
-    "xws": "valrathvanquisher"
+    "xws": "valrathvanquisher",
+    "assetno": "###"
   },
   {
     "name": "valrath vanquisher",
     "points": 361,
     "expansion": "trail of ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-6.png",
-    "xws": "valrathvanquisher"
+    "xws": "valrathvanquisher",
+    "assetno": "###"
   }
 ]
