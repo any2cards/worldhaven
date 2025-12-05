@@ -424,122 +424,171 @@
     "assetno": "###"
   },
   {
-    "name": "toa halt am 1-5 back",
+    "name": "halt am 1-5 front",
     "points": 53,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-am-1-5-back.png",
-    "xws": "toahaltam15back"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-am-1-5-front.png",
+    "xws": "haltam15front",
+    "assetno": "###"
   },
   {
-    "name": "toa halt am 1-5 front",
+    "name": "halt am 1-5 back",
     "points": 54,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-am-1-5-front.png",
-    "xws": "toahaltam15front"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-am-1-5-back.png",
+    "xws": "haltam15back",
+    "assetno": "###"
   },
   {
-    "name": "toa halt class 1-3 back",
+    "name": "halt class 1-3 front",
     "points": 55,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-1-3-back.png",
-    "xws": "toahaltclass13back"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-1-3-front.png",
+    "xws": "haltclass13front",
+    "assetno": "###"
   },
   {
-    "name": "toa halt class 1-3 front",
+    "name": "halt class 1-3 back",
     "points": 56,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-1-3-front.png",
-    "xws": "toahaltclass13front"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-1-3-back.png",
+    "xws": "haltclass13back",
+    "assetno": "###"
   },
   {
-    "name": "toa halt class 4-5 back",
+    "name": "halt class 4-5 front",
     "points": 57,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-4-5-back.png",
-    "xws": "toahaltclass45back"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-4-5-front.png",
+    "xws": "haltclass45front",
+    "assetno": "###"
   },
   {
-    "name": "toa halt class 4-5 front",
+    "name": "halt class 4-5 back",
     "points": 58,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-4-5-front.png",
-    "xws": "toahaltclass45front"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-class-4-5-back.png",
+    "xws": "haltclass45back",
+    "assetno": "###"
   },
   {
-    "name": "toa halt errata back",
+    "name": "halt errata front",
     "points": 59,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-errata-back.png",
-    "xws": "toahalterrataback"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-errata-front.png",
+    "xws": "halterratafront",
+    "assetno": "###"
   },
   {
-    "name": "toa halt errata front",
+    "name": "halt errata back",
     "points": 60,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-errata-front.png",
-    "xws": "toahalterratafront"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-errata-back.png",
+    "xws": "halterrataback",
+    "assetno": "###"
   },
   {
-    "name": "toa halt m back",
+    "name": "halt m front",
     "points": 61,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-m-back.png",
-    "xws": "toahaltmback"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-m-front.png",
+    "xws": "haltmfront",
+    "assetno": "###"
   },
   {
-    "name": "toa halt m front",
+    "name": "halt m back",
     "points": 62,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-m-front.png",
-    "xws": "toahaltmfront"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-m-back.png",
+    "xws": "haltmback",
+    "assetno": "###"
   },
   {
-    "name": "toa halt mini back",
+    "name": "halt mini front",
     "points": 63,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-mini-back.png",
-    "xws": "toahaltminiback"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-mini-front.png",
+    "xws": "haltminifront",
+    "assetno": "###"
   },
   {
-    "name": "toa halt mini front",
+    "name": "halt mini back",
     "points": 64,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-halt-mini-front.png",
-    "xws": "toahaltminifront"
+    "image": "player-aid-cards/trail-of-ashes/toa-halt-mini-back.png",
+    "xws": "haltminiback",
+    "assetno": "###"
   },
   {
-    "name": "toa player reference back",
+    "name": "player reference front",
     "points": 65,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-back.png",
-    "xws": "toaplayerreferenceback"
+    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-1.png",
+    "xws": "playerreferencefront",
+    "assetno": "702"
   },
   {
-    "name": "toa player reference front",
+    "name": "702",
     "points": 66,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-1.png",
-    "xws": "toaplayerreferencefront"
+    "xws": "playerreferencefront",
+    "assetno": "702"
   },
   {
-    "name": "toa player reference front",
+    "name": "player reference front",
     "points": 67,
     "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-2.png",
-    "xws": "toaplayerreferencefront"
+    "xws": "playerreferencefront",
+    "assetno": "703"
   },
   {
-    "name": "toa player reference front",
+    "name": "703",
     "points": 68,
     "expansion": "trail of ashes",
-    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-3.png",
-    "xws": "toaplayerreferencefront"
+    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-2.png",
+    "xws": "playerreferencefront",
+    "assetno": "703"
   },
   {
-    "name": "toa player reference front",
+    "name": "player reference front",
     "points": 69,
     "expansion": "trail of ashes",
+    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-3.png",
+    "xws": "playerreferencefront",
+    "assetno": "704"
+  },
+  {
+    "name": "704",
+    "points": 70,
+    "expansion": "trail of ashes",
+    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-3.png",
+    "xws": "playerreferencefront",
+    "assetno": "704"
+  },
+  {
+    "name": "player reference front",
+    "points": 71,
+    "expansion": "trail of ashes",
     "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-4.png",
-    "xws": "toaplayerreferencefront"
+    "xws": "playerreferencefront",
+    "assetno": "705"
+  },
+  {
+    "name": "705",
+    "points": 72,
+    "expansion": "trail of ashes",
+    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-front-4.png",
+    "xws": "playerreferencefront",
+    "assetno": "705"
+  },
+  {
+    "name": "player reference back",
+    "points": 73,
+    "expansion": "trail of ashes",
+    "image": "player-aid-cards/trail-of-ashes/toa-player-reference-back.png",
+    "xws": "playerreferenceback",
+    "assetno": "###"
   }
 ]
