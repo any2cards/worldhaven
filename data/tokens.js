@@ -2043,77 +2043,128 @@
     "name": "incarnate token",
     "points": 255,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/character-tokens/toa-incarnate-token.png",
-    "xws": "incarnatetoken"
+    "image": "tokens/trail-of-ashes/character/toa-incarnate-token.png",
+    "xws": "incarnatetoken",
+    "assetno": "###"
+  },
+  {
+    "name": "three-eyes token",
+    "points": 256,
+    "expansion": "trail of ashes",
+    "image": "tokens/trail-of-ashes/character/toa-incarnate-token.png",
+    "xws": "threeeyestoken",
+    "assetno": "###"
   },
   {
     "name": "rimehearth token",
-    "points": 256,
+    "points": 257,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/character-tokens/toa-rimehearth-token.png",
-    "xws": "rimehearthtoken"
+    "image": "tokens/trail-of-ashes/character/toa-rimehearth-token.png",
+    "xws": "rimehearthtoken",
+    "assetno": "###"
+  },
+  {
+    "name": "ice meteor token",
+    "points": 258,
+    "expansion": "trail of ashes",
+    "image": "tokens/trail-of-ashes/character/toa-rimehearth-token.png",
+    "xws": "icemeteortoken",
+    "assetno": "###"
   },
   {
     "name": "shardrender token",
-    "points": 257,
+    "points": 259,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/character-tokens/toa-shardrender-token.png",
-    "xws": "shardrendertoken"
+    "image": "tokens/trail-of-ashes/character/toa-shardrender-token.png",
+    "xws": "shardrendertoken",
+    "assetno": "###"
+  },
+  {
+    "name": "gemstone token",
+    "points": 260,
+    "expansion": "trail of ashes",
+    "image": "tokens/trail-of-ashes/character/toa-shardrender-token.png",
+    "xws": "gemstonetoken",
+    "assetno": "###"
   },
   {
     "name": "tempest token",
-    "points": 258,
+    "points": 261,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/character-tokens/toa-tempest-token.png",
-    "xws": "tempesttoken"
+    "image": "tokens/trail-of-ashes/character/toa-tempest-token.png",
+    "xws": "tempesttoken",
+    "assetno": "###"
+  },
+  {
+    "name": "storm cloud token",
+    "points": 262,
+    "expansion": "trail of ashes",
+    "image": "tokens/trail-of-ashes/character/toa-tempest-token.png",
+    "xws": "stormcloudtoken",
+    "assetno": "###"
   },
   {
     "name": "thornreaper token",
-    "points": 259,
+    "points": 263,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/character-tokens/toa-thornreaper-token.png",
-    "xws": "thornreapertoken"
+    "image": "tokens/trail-of-ashes/character/toa-thornreaper-token.png",
+    "xws": "thornreapertoken",
+    "assetno": "###"
+  },
+  {
+    "name": "spiked ring token",
+    "points": 264,
+    "expansion": "trail of ashes",
+    "image": "tokens/trail-of-ashes/character/toa-thornreaper-token.png",
+    "xws": "spikedringtoken",
+    "assetno": "###"
   },
   {
     "name": "vanquisher token",
-    "points": 260,
+    "points": 265,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/character-tokens/toa-vanquisher-token.png",
-    "xws": "vanquishertoken"
+    "image": "tokens/trail-of-ashes/character/toa-vanquisher-token.png",
+    "xws": "vanquishertoken",
+    "assetno": "###"
   },
   {
     "name": "sparks",
-    "points": 261,
+    "points": 266,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/class-tokens/toa-sparks.png",
-    "xws": "sparks"
+    "image": "tokens/trail-of-ashes/class/toa-sparks.png",
+    "xws": "sparks",
+    "assetno": "###"
   },
   {
     "name": "thorns",
-    "points": 262,
+    "points": 267,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/class-tokens/toa-thorns.png",
-    "xws": "thorns"
+    "image": "tokens/trail-of-ashes/class/toa-thorns.png",
+    "xws": "thorns",
+    "assetno": "###"
   },
   {
     "name": "brittle",
-    "points": 263,
+    "points": 268,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/condition-tokens/toa-brittle.png",
-    "xws": "brittle"
+    "image": "tokens/trail-of-ashes/conditions/toa-brittle.png",
+    "xws": "brittle",
+    "assetno": "###"
   },
   {
     "name": "dodge",
-    "points": 264,
+    "points": 269,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/condition-tokens/toa-dodge.png",
-    "xws": "dodge"
+    "image": "tokens/trail-of-ashes/conditions/toa-dodge.png",
+    "xws": "dodge",
+    "assetno": "###"
   },
   {
     "name": "rupture",
-    "points": 265,
+    "points": 270,
     "expansion": "trail of ashes",
-    "image": "tokens/trail-of-ashes/condition-tokens/toa-rupture.png",
-    "xws": "rupture"
+    "image": "tokens/trail-of-ashes/conditions/toa-rupture.png",
+    "xws": "rupture",
+    "assetno": "###"
   }
 ]
