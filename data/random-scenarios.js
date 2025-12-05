@@ -344,80 +344,131 @@
     "assetno": "####"
   },
   {
-    "name": "random scenario back",
+    "name": "inox salvation",
     "points": 43,
     "expansion": "trail of ashes",
-    "image": "random-scenarios/trail-of-ashes/toa-random-scenario-back.png",
-    "xws": "toarandomscenarioback"
+    "image": "random-scenarios/trail-of-ashes/toa-inox-salvation.png",
+    "xws": "inoxsalvation",
+    "assetno": "706"
   },
   {
-    "name": "random scenario 72",
+    "name": "706",
     "points": 44,
     "expansion": "trail of ashes",
     "image": "random-scenarios/trail-of-ashes/toa-inox-salvation.png",
-    "xws": "inoxsalvation"
+    "xws": "inoxsalvation",
+    "assetno": "706"
   },
   {
-    "name": "inox salvation",
+    "name": "random scenario 72",
     "points": 45,
     "expansion": "trail of ashes",
     "image": "random-scenarios/trail-of-ashes/toa-inox-salvation.png",
-    "xws": "inoxsalvation"
-  },
-  {
-    "name": "random scenario 73",
-    "points": 46,
-    "expansion": "trail of ashes",
-    "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
-    "xws": "lootpalooza"
+    "xws": "randomscenario72",
+    "assetno": "706"
   },
   {
     "name": "lootpalooza",
+    "points": 46,
+    "expansion": "trail of ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
+    "xws": "lootpalooza",
+    "assetno": "707"
+  },
+  {
+    "name": "707",
     "points": 47,
     "expansion": "trail of ashes",
     "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
-    "xws": "lootpalooza"
+    "xws": "lootpalooza",
+    "assetno": "707"
   },
   {
-    "name": "random scenario 74",
+    "name": "random scenario 73",
     "points": 48,
     "expansion": "trail of ashes",
-    "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
-    "xws": "songoftheharrower"
+    "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
+    "xws": "randomscenario73",
+    "assetno": "707"
+  },
+  {
+    "name": "random scenario back",
+    "points": 49,
+    "expansion": "trail of ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-random-scenario-back.png",
+    "xws": "randomscenarioback",
+    "assetno": "###"
   },
   {
     "name": "song of the harrower",
-    "points": 49,
-    "expansion": "trail of ashes",
-    "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
-    "xws": "songoftheharrower"
-  },
-  {
-    "name": "random scenario 75",
     "points": 50,
     "expansion": "trail of ashes",
-    "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
-    "xws": "sunkentemple"
+    "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
+    "xws": "songoftheharrower",
+    "assetno": "708"
+  },
+  {
+    "name": "708",
+    "points": 51,
+    "expansion": "trail of ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
+    "xws": "songoftheharrower",
+    "assetno": "708"
+  },
+  {
+    "name": "random scenario 74",
+    "points": 52,
+    "expansion": "trail of ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
+    "xws": "randomscenario74",
+    "assetno": "708"
   },
   {
     "name": "sunken temple",
-    "points": 51,
+    "points": 53,
     "expansion": "trail of ashes",
     "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
-    "xws": "sunkentemple"
+    "xws": "sunkentemple",
+    "assetno": "709"
   },
   {
-    "name": "random scenario 76",
-    "points": 52,
+    "name": "709",
+    "points": 54,
     "expansion": "trail of ashes",
-    "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
-    "xws": "untoldwoe"
+    "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
+    "xws": "sunkentemple",
+    "assetno": "709"
+  },
+  {
+    "name": "random scenario 75",
+    "points": 55,
+    "expansion": "trail of ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
+    "xws": "randomscenario75",
+    "assetno": "709"
   },
   {
     "name": "untold woe",
-    "points": 53,
+    "points": 56,
     "expansion": "trail of ashes",
     "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
-    "xws": "untoldwoe"
+    "xws": "untoldwoe",
+    "assetno": "710"
+  },
+  {
+    "name": "710",
+    "points": 57,
+    "expansion": "trail of ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
+    "xws": "untoldwoe",
+    "assetno": "710"
+  },
+  {
+    "name": "random scenario 76",
+    "points": 58,
+    "expansion": "trail of ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
+    "xws": "randomscenario76",
+    "assetno": "710"
   }
 ]
