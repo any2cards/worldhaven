@@ -30084,7 +30084,7 @@
     "points": 3760,
     "expansion": "crimson scales",
     "image": "items/crimson-scales/cs-qa05-delicate-model.png",
-    "xws": "delicatemodel",
+    "xws": "scrapcollector",
     "assetno": "qa-037"
   },
   {
